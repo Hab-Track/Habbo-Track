@@ -2,7 +2,7 @@ name: Commit comments
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   comments:
