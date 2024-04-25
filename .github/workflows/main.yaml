@@ -26,9 +26,9 @@ jobs:
       - name: Download Effects
         run: node src/index.js -c effects
 
-      # furnitures
-      - name: Download Furnitures
-        run: node src/index.js -c furnitures
+      # ficons
+      - name: Download Furniture Icons
+        run: node src/index.js -c ficons
 
       # gamedata
       - name: Download Gamedata Files
