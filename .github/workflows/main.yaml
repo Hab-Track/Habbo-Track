@@ -14,14 +14,6 @@ jobs:
       - name: Install dependencies
         run: npm i
 
-      # articles
-      - name: Download News Article Images
-        run: node src/index.js -c articles
-
-      # badgeparts
-      - name: Download Badgeparts Images
-        run: node src/index.js -c badgeparts
-
       # badges
       - name: Download Badges
         run: node src/index.js -c badges
@@ -34,10 +26,6 @@ jobs:
       - name: Download Effects
         run: node src/index.js -c effects
 
-      # ficons
-      - name: Download Furniture Icons
-        run: node src/index.js -c ficons
-
       # furnitures
       - name: Download Furnitures
         run: node src/index.js -c furnitures
@@ -45,34 +33,6 @@ jobs:
       # gamedata
       - name: Download Gamedata Files
         run: node src/index.js -c gamedata
-
-      # gordon
-      - name: Download Gordon Files
-        run: node src/index.js -c gordon
-
-      # habboswf
-      - name: Download Habbo.swf
-        run: node src/index.js -c habboswf
-
-      # hotelview
-      - name: Download Hotelview Images
-        run: node src/index.js -c hotelview
-
-      # icons
-      - name: Download Catalogue Icons
-        run: node src/index.js -c icons
-
-      # mp3
-      - name: Download MP3 Files (sound_machine_sample)
-        run: node src/index.js -c mp3
-
-      # pets
-      - name: Download Pets
-        run: node src/index.js -c pets
-
-      # promo
-      - name: Download Web Promo Images
-        run: node src/index.js -c promo
 
       # commit
       - uses: EndBug/add-and-commit@v7
