@@ -14,7 +14,7 @@ async function handle () {
   await fetchMany([...all].map((item) => {
     return {
       src: `https://images.habbo.com/gordon/${config.prod}/${item}.swf`,
-      dst: `effects/${config.prod}/${item}.swf`
+      dst: `effects/${item}.swf`
     }
   }))
 }
