@@ -35,7 +35,7 @@ async function handle () {
   await fetchMany([...all].map((code) => {
     return {
       src: `https://images.habbo.com/c_images/album1584/${code}.${config.format}`,
-      dst: `c_images/album1584/${code}.${config.format}`
+      dst: `badges/${code}.${config.format}`
     }
   }))
 }
