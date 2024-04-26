@@ -16,4 +16,4 @@ jobs:
       - name: Comment on commit
         uses: Discord-Datamining/comments-action@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_COMMENT }}
