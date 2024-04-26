@@ -6,7 +6,7 @@ async function parse (json) {
     ...json.wallitemtypes.furnitype,
   ]
 
-//   Download only swf
+// Download only swf
   return new Set(
     all.map((item) => {
       return { revision: item.revision, name: `${item.classname.split('*')[0]}.swf` }
