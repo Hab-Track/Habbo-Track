@@ -35,14 +35,11 @@ jobs:
       # gamedata
       - name: Download Gamedata Files
         run: node src/index.js -c gamedata
-
-      # Echo current date and time to currentFile.js
-      - name: Update currentFile.js with current date and time
-        run: |
-          echo "const currentDate = '$(date)';" > current.js
-
+        
       # commit
       - uses: EndBug/add-and-commit@v9
         with:
           message: New changes detected
           default_author: user_info
+          author_name: Hab Track
+          committer_name: habbo-downloader
