@@ -12,28 +12,13 @@ COMMIT_SHA=$(git rev-parse HEAD)
 
 git fetch --depth=2
 
-# Function to append line to diff content, splitting if necessary
-append_line() {
-    local line=$1
-    local max_length=$2
-    local num_lines=$(echo "$line" | awk -v max_len="$max_length" '{print int((length + max_len - 1) / max_len)}')
-    local i=1
-    while [[ $i -le $num_lines ]]; do
-        local start=$(( (i - 1) * max_length + 1 ))
-        local end=$(( i * max_length ))
-        local chunk="${line:start:max_length}"
-        diff_content+=("$chunk")
-        ((i++))
-    done
-}
-
 # Function to split the diff content into chunks
 split_diff() {
-    local diff_content=("$@")
+    local diff_content=$1
     local max_length=350  # Maximum length for each chunk
-    local num_lines=$(echo "${diff_content[@]}" | wc -l)
+    local num_lines=$(echo "$diff_content" | wc -l)
     local lines_per_chunk=$(( max_length / num_lines + 1 ))
-    echo "${diff_content[@]}" | awk -v max_len="$lines_per_chunk" '
+    echo "$diff_content" | awk -v max_len="$lines_per_chunk" '
         {
             for (i = 1; i <= NF; i += max_len) {
                 for (j = i; j < i + max_len && j <= NF; j++) {
@@ -67,7 +52,7 @@ EOF
 
     # Replace newline characters with "\\n"
     comment_body=$(echo "$comment_body" | sed ':a;N;$!ba;s/\n/\\n/g')
-    
+
     # Post the comment using cURL
     curl -L \
         -X POST \
@@ -90,9 +75,6 @@ total_length=0
 # Enable dotglob option to include files starting with a dot
 shopt -s dotglob
 
-# Initialize an empty array to store diff chunks
-diff_chunks=()
-
 # Iterate over the lines of the diff output
 while IFS= read -r line; do
     # Check if the line starts with "diff --git", indicating a new file
@@ -110,37 +92,38 @@ while IFS= read -r line; do
     else
         # Write the non-empty line to the corresponding file
         if [[ -n "$line" ]]; then
-            if [[ ${#line} -gt 350 ]]; then
-                # If line exceeds 350 characters, append line to diff content, splitting if necessary
-                append_line "$line" 350
-            else
-                # Otherwise, simply append the line to the diff content
-                diff_content+=("$line")
-            fi
+            echo "$line" >> "$current_file.diff"
             # Increment the total length
             total_length=$(( total_length + ${#line} ))
             # Check if total length exceeds the maximum
             if [[ $total_length -ge 350 ]]; then
-                # Add the diff content to the array of chunks
-                diff_chunks+=("${diff_content[@]}")
+                # Read the content of the .diff file
+                diff_content=$(cat "$current_file.diff")
+                # Post comment to GitHub only if the diff content is not empty
+                if [[ -n "$diff_content" ]]; then
+                    post_comment "$current_file" "$diff_content"
+                fi
                 # Reset the total length and content
                 total_length=0
-                diff_content=()
+                echo "" > "$current_file.diff"
             fi
         fi
     fi
 done <<< "$diff_output"
 
-# Add the remaining diff content to the array of chunks
-if [[ ${#diff_content[@]} -gt 0 ]]; then
-    diff_chunks+=("${diff_content[@]}")
-fi
-
-# Iterate over the diff chunks and post comments to GitHub
-for diff_chunk in "${diff_chunks[@]}"; do
-    split_diff "${diff_chunk[@]}" | while IFS= read -r diff_chunk_split; do
-        post_comment "$current_file" "$diff_chunk_split"
-    done
+# Post remaining comments if any
+for file in *.diff; do
+    # Check if file exists and is a regular file
+    if [[ -f "$file" ]]; then
+        # Extract filename from the .diff file
+        filename="${file%.diff}"
+        # Read the content of the .diff file
+        diff_content=$(cat "$file")
+        # Post comment to GitHub only if the diff content is not empty
+        if [[ -n "$diff_content" ]]; then
+            post_comment "$filename" "$diff_content"
+        fi
+    fi
 done
 
 # Disable dotglob option to revert to default behavior
