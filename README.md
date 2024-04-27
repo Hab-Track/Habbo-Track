@@ -12,8 +12,10 @@ The repo keep all previous assets & track only : badges, furnis (icons), clothes
 
 ## TODO
 
-- Add a worflows to automatically comment new commit with the diff (like Discord-Datamining/comments-action)
+- [x] Add a worflows to automatically comment new commit with the diff (like Discord-Datamining/comments-action) Done by @Alynva
 
-- Convert SWF to PNG to show the asset (for furni, effect, clothe)
+- [ ] Convert SWF to PNG to show the asset (for furni, effect, clothe) [Can help](https://github.com/WiredSpast/Habbo-Figure-Decompile/blob/master/src/main/java/HabboDecompile.java)
 
-- Show new file in the github webhook ?
+- [ ] Show new file in the github webhook
+
+- [ ] Create a script to send webhook only when commit in resource/
