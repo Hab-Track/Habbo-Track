@@ -81,24 +81,26 @@ while IFS= read -r line; do
         # Skip these lines
         continue
     elif [[ $line != *[-+[:space:]]* ]]; then
-        # If the line doesn't contain a diff, skip it
+        # If the line doesn't contain a diff or is empty, skip it
         continue
     else
-        # Write the line to the corresponding file
-        echo "$line" >> "$current_file.diff"
-        # Increment the total length
-        total_length=$(( total_length + ${#line} ))
-        # Check if total length exceeds the maximum
-        if [[ $total_length -ge 350 ]]; then
-            # Read the content of the .diff file
-            diff_content=$(cat "$current_file.diff")
-            # Post comment to GitHub only if the diff content is not empty
-            if [[ -n "$diff_content" ]]; then
-                post_comment "$current_file" "$diff_content"
+        # Write the non-empty line to the corresponding file
+        if [[ -n "$line" ]]; then
+            echo "$line" >> "$current_file.diff"
+            # Increment the total length
+            total_length=$(( total_length + ${#line} ))
+            # Check if total length exceeds the maximum
+            if [[ $total_length -ge 350 ]]; then
+                # Read the content of the .diff file
+                diff_content=$(cat "$current_file.diff")
+                # Post comment to GitHub only if the diff content is not empty
+                if [[ -n "$diff_content" ]]; then
+                    post_comment "$current_file" "$diff_content"
+                fi
+                # Reset the total length and content
+                total_length=0
+                echo "" > "$current_file.diff"
             fi
-            # Reset the total length and content
-            total_length=0
-            echo "" > "$current_file.diff"
         fi
     fi
 done <<< "$diff_output"
