@@ -80,7 +80,10 @@ while IFS= read -r line; do
     elif [[ $line == "index "* || $line == "--- "* || $line == "+++ "* ]]; then
         # Skip these lines
         continue
-    elif [[ $line == *[-+[:space:]]* ]]; then
+    elif [[ $line != *[-+[:space:]]* ]]; then
+        # If the line doesn't contain a diff, skip it
+        continue
+    else
         # Write the line to the corresponding file
         echo "$line" >> "$current_file.diff"
         # Increment the total length
@@ -99,6 +102,7 @@ while IFS= read -r line; do
         fi
     fi
 done <<< "$diff_output"
+
 
 # Enable dotglob option to include files starting with a dot
 shopt -s dotglob
