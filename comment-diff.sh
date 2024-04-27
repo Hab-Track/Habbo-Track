@@ -69,6 +69,12 @@ diff_output=$(git diff HEAD^ HEAD)
 # Variable to keep track of the current file being processed
 current_file=""
 
+# Total length of lines processed
+total_length=0
+
+# Enable dotglob option to include files starting with a dot
+shopt -s dotglob
+
 # Iterate over the lines of the diff output
 while IFS= read -r line; do
     # Check if the line starts with "diff --git", indicating a new file
@@ -95,45 +101,14 @@ while IFS= read -r line; do
                 diff_content=$(cat "$current_file.diff")
                 # Post comment to GitHub only if the diff content is not empty
                 if [[ -n "$diff_content" ]]; then
-                    post_comment "$current_file" "$diff_content"
+                    split_diff "$diff_content" | while IFS= read -r diff_chunk; do
+                        post_comment "$current_file" "$diff_chunk"
+                    done
                 fi
                 # Reset the total length and content
                 total_length=0
                 echo "" > "$current_file.diff"
             fi
-        fi
-    fi
-done <<< "$diff_output"
-
-
-# Enable dotglob option to include files starting with a dot
-shopt -s dotglob
-
-# Iterate over the lines of the diff output
-while IFS= read -r line; do
-    # Check if the line starts with "diff --git", indicating a new file
-    if [[ $line == "diff --git"* ]]; then
-        # Extract the filename from the line
-        file=$(echo "$line" | cut -d ' ' -f 3 | sed 's/^a\///')
-        current_file=$(echo "${file//\//_}")
-        echo "" > "$current_file.diff"
-    elif [[ $line == "index "* || $line == "--- "* || $line == "+++ "* ]]; then
-        # Skip these lines
-        continue
-    else
-        # Write the line to the corresponding file
-        echo "$line" >> "$current_file.diff"
-        # Increment the total length
-        total_length=$(( total_length + ${#line} ))
-        # Check if total length exceeds the maximum
-        if [[ $total_length -ge 350 ]]; then
-            # Read the content of the .diff file
-            diff_content=$(cat "$current_file.diff")
-            # Post comment to GitHub
-            post_comment "$current_file" "$diff_content"
-            # Reset the total length and content
-            total_length=0
-            echo "" > "$current_file.diff"
         fi
     fi
 done <<< "$diff_output"
