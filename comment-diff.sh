@@ -80,9 +80,23 @@ while IFS= read -r line; do
     elif [[ $line == "index "* || $line == "--- "* || $line == "+++ "* ]]; then
         # Skip these lines
         continue
-    else
+    elif [[ $line == *[-+[:space:]]* ]]; then
         # Write the line to the corresponding file
         echo "$line" >> "$current_file.diff"
+        # Increment the total length
+        total_length=$(( total_length + ${#line} ))
+        # Check if total length exceeds the maximum
+        if [[ $total_length -ge 350 ]]; then
+            # Read the content of the .diff file
+            diff_content=$(cat "$current_file.diff")
+            # Post comment to GitHub only if the diff content is not empty
+            if [[ -n "$diff_content" ]]; then
+                post_comment "$current_file" "$diff_content"
+            fi
+            # Reset the total length and content
+            total_length=0
+            echo "" > "$current_file.diff"
+        fi
     fi
 done <<< "$diff_output"
 
