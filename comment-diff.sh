@@ -126,8 +126,10 @@ for file in *.diff; do
         filename="${file%.diff}"
         # Read the content of the .diff file
         diff_content=$(cat "$file")
-        # Post comment to GitHub
-        post_comment "$filename" "$diff_content"
+        # Post comment to GitHub only if the diff content is not empty
+        if [[ -n "$diff_content" ]]; then
+            post_comment "$filename" "$diff_content"
+        fi
     fi
 done
 
