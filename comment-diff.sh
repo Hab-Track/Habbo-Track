@@ -101,9 +101,7 @@ while IFS= read -r line; do
                 diff_content=$(cat "$current_file.diff")
                 # Post comment to GitHub only if the diff content is not empty
                 if [[ -n "$diff_content" ]]; then
-                    split_diff "$diff_content" | while IFS= read -r diff_chunk; do
-                        post_comment "$current_file" "$diff_chunk"
-                    done
+                    post_comment "$current_file" "$diff_content"
                 fi
                 # Reset the total length and content
                 total_length=0
