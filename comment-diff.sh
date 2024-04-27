@@ -80,8 +80,8 @@ while IFS= read -r line; do
     elif [[ $line == "index "* || $line == "--- "* || $line == "+++ "* ]]; then
         # Skip these lines
         continue
-    elif [[ $line != *[-+[:space:]]* ]]; then
-        # If the line doesn't contain a diff or is empty, skip it
+    elif [[ $line != +* && $line != -* ]]; then
+        # If the line doesn't start with + or -, skip it
         continue
     else
         # Write the non-empty line to the corresponding file
