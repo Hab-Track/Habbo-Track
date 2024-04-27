@@ -16,4 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
           chmod +x comment-diff.sh
-          ./comment-diff.sh
+          ./comment-diff.sh resource
