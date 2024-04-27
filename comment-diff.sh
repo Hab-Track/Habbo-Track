@@ -12,6 +12,21 @@ COMMIT_SHA=$(git rev-parse HEAD)
 
 git fetch --depth=2
 
+# Function to append line to diff content, splitting if necessary
+append_line() {
+    local line=$1
+    local max_length=$2
+    local num_lines=$(echo "$line" | awk -v max_len="$max_length" '{print int((length + max_len - 1) / max_len)}')
+    local i=1
+    while [[ $i -le $num_lines ]]; do
+        local start=$(( (i - 1) * max_length + 1 ))
+        local end=$(( i * max_length ))
+        local chunk="${line:start:max_length}"
+        diff_content+="$chunk\n"
+        ((i++))
+    done
+}
+
 # Function to split the diff content into chunks
 split_diff() {
     local diff_content=$1
@@ -92,20 +107,27 @@ while IFS= read -r line; do
     else
         # Write the non-empty line to the corresponding file
         if [[ -n "$line" ]]; then
-            echo "$line" >> "$current_file.diff"
+            if [[ ${#line} -gt 350 ]]; then
+                # If line exceeds 350 characters, append line to diff content, splitting if necessary
+                append_line "$line" 350
+            else
+                # Otherwise, simply append the line to the diff content
+                diff_content+="$line\n"
+            fi
             # Increment the total length
             total_length=$(( total_length + ${#line} ))
             # Check if total length exceeds the maximum
             if [[ $total_length -ge 350 ]]; then
                 # Read the content of the .diff file
-                diff_content=$(cat "$current_file.diff")
                 # Post comment to GitHub only if the diff content is not empty
                 if [[ -n "$diff_content" ]]; then
-                    post_comment "$current_file" "$diff_content"
+                    split_diff "$diff_content" | while IFS= read -r diff_chunk; do
+                        post_comment "$current_file" "$diff_chunk"
+                    done
                 fi
                 # Reset the total length and content
                 total_length=0
-                echo "" > "$current_file.diff"
+                diff_content=""
             fi
         fi
     fi
