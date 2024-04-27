@@ -58,8 +58,6 @@ EOF
     # Replace newline characters with "\\n"
     comment_body=$(echo "$comment_body" | sed ':a;N;$!ba;s/\n/\\n/g')
 
-    echo "{\"body\":\"$comment_body\"}"
-
     # Post the comment using cURL
     curl -L \
         -X POST \
