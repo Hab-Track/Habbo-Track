@@ -42,6 +42,8 @@ post_comment() {
 
     # Escape backslashes
     diff_content=$(echo "$diff_content" | sed 's/\\/\\\\/g')
+    # Escape double quotes in the comment body
+    diff_content=$(echo "$diff_content" | sed 's/"/\\"/g')
 
 
     # Create a comment body
