@@ -2,6 +2,23 @@
 
 # GitHub username and repository name
 REMOTE_URL=$(git config --get remote.origin.url)
+# Variable to specify the directory to comment
+DIRECTORY="$1"
+
+# Check if an argument is provided
+if [ $# -eq 0 ]; then
+    echo "No directory specified. Commenting on all modified files."
+    diff_output=$(git diff HEAD^ HEAD)
+else
+    # Check if the directory exists
+    if [ ! -d "$DIRECTORY" ]; then
+        echo "The directory \"$DIRECTORY\" does not exist."
+        exit 1
+    fi
+
+    # Store the output of `git diff HEAD^ HEAD` into a variable for the specified directory
+    diff_output=$(git diff HEAD^ HEAD -- "$DIRECTORY")
+fi
 
 # Extract GitHub username and repository name from the remote URL
 USERNAME=$(echo "$REMOTE_URL" | sed -n 's/.*github.com[:/]\(.*\)\/.*/\1/p')
@@ -67,9 +84,6 @@ EOF
         "https://api.github.com/repos/$USERNAME/$REPO/commits/$COMMIT_SHA/comments" \
         -d "{\"body\":\"$comment_body\"}"
 }
-
-# Store the output of `git diff HEAD^ HEAD` into a variable
-diff_output=$(git diff HEAD^ HEAD)
 
 # Variable to keep track of the current file being processed
 current_file=""
