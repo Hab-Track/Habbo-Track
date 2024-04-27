@@ -22,18 +22,18 @@ append_line() {
         local start=$(( (i - 1) * max_length + 1 ))
         local end=$(( i * max_length ))
         local chunk="${line:start:max_length}"
-        diff_content+="$chunk\n"
+        diff_content+=("$chunk")
         ((i++))
     done
 }
 
 # Function to split the diff content into chunks
 split_diff() {
-    local diff_content=$1
+    local diff_content=("$@")
     local max_length=350  # Maximum length for each chunk
-    local num_lines=$(echo "$diff_content" | wc -l)
+    local num_lines=$(echo "${diff_content[@]}" | wc -l)
     local lines_per_chunk=$(( max_length / num_lines + 1 ))
-    echo "$diff_content" | awk -v max_len="$lines_per_chunk" '
+    echo "${diff_content[@]}" | awk -v max_len="$lines_per_chunk" '
         {
             for (i = 1; i <= NF; i += max_len) {
                 for (j = i; j < i + max_len && j <= NF; j++) {
@@ -65,9 +65,6 @@ $diff_content
 EOF
 )
 
-    # Replace newline characters with "\\n"
-    comment_body=$(echo "$comment_body" | sed ':a;N;$!ba;s/\n/\\n/g')
-
     # Post the comment using cURL
     curl -L \
         -X POST \
@@ -89,6 +86,9 @@ total_length=0
 
 # Enable dotglob option to include files starting with a dot
 shopt -s dotglob
+
+# Initialize an empty array to store diff chunks
+diff_chunks=()
 
 # Iterate over the lines of the diff output
 while IFS= read -r line; do
@@ -112,40 +112,32 @@ while IFS= read -r line; do
                 append_line "$line" 350
             else
                 # Otherwise, simply append the line to the diff content
-                diff_content+="$line\n"
+                diff_content+=("$line")
             fi
             # Increment the total length
             total_length=$(( total_length + ${#line} ))
             # Check if total length exceeds the maximum
             if [[ $total_length -ge 350 ]]; then
-                # Read the content of the .diff file
-                # Post comment to GitHub only if the diff content is not empty
-                if [[ -n "$diff_content" ]]; then
-                    split_diff "$diff_content" | while IFS= read -r diff_chunk; do
-                        post_comment "$current_file" "$diff_chunk"
-                    done
-                fi
+                # Add the diff content to the array of chunks
+                diff_chunks+=("${diff_content[@]}")
                 # Reset the total length and content
                 total_length=0
-                diff_content=""
+                diff_content=()
             fi
         fi
     fi
 done <<< "$diff_output"
 
-# Post remaining comments if any
-for file in *.diff; do
-    # Check if file exists and is a regular file
-    if [[ -f "$file" ]]; then
-        # Extract filename from the .diff file
-        filename="${file%.diff}"
-        # Read the content of the .diff file
-        diff_content=$(cat "$file")
-        # Post comment to GitHub only if the diff content is not empty
-        if [[ -n "$diff_content" ]]; then
-            post_comment "$filename" "$diff_content"
-        fi
-    fi
+# Add the remaining diff content to the array of chunks
+if [[ ${#diff_content[@]} -gt 0 ]]; then
+    diff_chunks+=("${diff_content[@]}")
+fi
+
+# Iterate over the diff chunks and post comments to GitHub
+for diff_chunk in "${diff_chunks[@]}"; do
+    split_diff "${diff_chunk[@]}" | while IFS= read -r diff_chunk_split; do
+        post_comment "$current_file" "$diff_chunk_split"
+    done
 done
 
 # Disable dotglob option to revert to default behavior
