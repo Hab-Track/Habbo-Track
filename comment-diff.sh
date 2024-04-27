@@ -16,10 +16,15 @@ git fetch --depth=2
 split_diff() {
     local diff_content=$1
     local max_length=350  # Maximum length for each chunk
-    echo "$diff_content" | awk -v max_len="$max_length" '
+    local num_lines=$(echo "$diff_content" | wc -l)
+    local lines_per_chunk=$(( max_length / num_lines + 1 ))
+    echo "$diff_content" | awk -v max_len="$lines_per_chunk" '
         {
-            for (i = 1; i <= length; i += max_len) {
-                print substr($0, i, max_len)
+            for (i = 1; i <= NF; i += max_len) {
+                for (j = i; j < i + max_len && j <= NF; j++) {
+                    printf "%s ", $j
+                }
+                printf "\n"
             }
         }
     '
