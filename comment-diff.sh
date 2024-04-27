@@ -5,6 +5,8 @@ REMOTE_URL=$(git config --get remote.origin.url)
 # Variable to specify the directory to comment
 DIRECTORY="$1"
 
+git fetch --depth=2
+
 # Check if an argument is provided
 if [ $# -eq 0 ]; then
     echo "No directory specified. Commenting on all modified files."
@@ -26,8 +28,6 @@ REPO=$(echo "$REMOTE_URL" | sed -n 's/.*github.com\/.*\/\(.*\)/\1/p')
 
 # Get the current commit SHA
 COMMIT_SHA=$(git rev-parse HEAD)
-
-git fetch --depth=2
 
 # Function to split the diff content into chunks
 split_diff() {
