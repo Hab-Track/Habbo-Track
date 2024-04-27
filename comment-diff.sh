@@ -18,17 +18,22 @@ split_diff() {
     local max_length=350  # Maximum length for each chunk
     local num_lines=$(echo "$diff_content" | wc -l)
     local lines_per_chunk=$(( max_length / num_lines + 1 ))
-    echo "$diff_content" | awk -v max_len="$lines_per_chunk" '
-        {
-            for (i = 1; i <= NF; i += max_len) {
-                for (j = i; j < i + max_len && j <= NF; j++) {
-                    printf "%s ", $j
-                }
-                printf "\n"
-            }
-        }
-    '
+
+    # Iterate over the lines of the diff content
+    while IFS= read -r line; do
+        # Check if the line starts with "+-" indicating a special line
+        if [[ $line == "+-"* ]]; then
+            # Split the special line into chunks and post each chunk
+            echo "$line" | fold -w "$max_length" | while IFS= read -r chunk; do
+                echo "$chunk"
+            done
+        else
+            # Split the line into chunks based on the calculated lines_per_chunk
+            echo "$line" | fold -w "$lines_per_chunk"
+        fi
+    done <<< "$diff_content"
 }
+
 
 # Function to post comment to GitHub
 post_comment() {
