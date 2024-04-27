@@ -40,32 +40,27 @@ post_comment() {
     # Escape double quotes in the comment body
     diff_content=$(echo "$diff_content" | sed 's/"/\\"/g')
 
-    # Split the diff content into chunks
-    diff_chunks=$(split_diff "$diff_content")
-
-    # Post each chunk as a separate comment
-    while IFS= read -r diff_chunk; do
-        # Create a comment body
-        local comment_body=$(cat <<EOF
+    # Create a comment body
+    local comment_body=$(cat <<EOF
 ## Changes in $filename:
 
 \`\`\`diff
-$diff_chunk
+$diff_content
 \`\`\`
 EOF
 )
-        # Replace newline characters with "\\n"
-        comment_body=$(echo "$comment_body" | sed ':a;N;$!ba;s/\n/\\n/g')
 
-        # Post the comment using cURL
-        curl -L \
-            -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer $GITHUB_TOKEN" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            "https://api.github.com/repos/$USERNAME/$REPO/commits/$COMMIT_SHA/comments" \
-            -d "{\"body\":\"$comment_body\"}"
-    done <<< "$diff_chunks"
+    # Replace newline characters with "\\n"
+    comment_body=$(echo "$comment_body" | sed ':a;N;$!ba;s/\n/\\n/g')
+
+    # Post the comment using cURL
+    curl -L \
+        -X POST \
+        -H "Accept: application/vnd.github.v3+json" \
+        -H "Authorization: Bearer $GITHUB_TOKEN" \
+        -H "Content-Type: application/json" \
+        "https://api.github.com/repos/$USERNAME/$REPO/commits/$COMMIT_SHA/comments" \
+        -d "{\"body\":\"$comment_body\"}"
 }
 
 # Store the output of `git diff HEAD^ HEAD` into a variable
@@ -94,7 +89,36 @@ done <<< "$diff_output"
 # Enable dotglob option to include files starting with a dot
 shopt -s dotglob
 
-# Iterate over all .diff files in the current directory
+# Iterate over the lines of the diff output
+while IFS= read -r line; do
+    # Check if the line starts with "diff --git", indicating a new file
+    if [[ $line == "diff --git"* ]]; then
+        # Extract the filename from the line
+        file=$(echo "$line" | cut -d ' ' -f 3 | sed 's/^a\///')
+        current_file=$(echo "${file//\//_}")
+        echo "" > "$current_file.diff"
+    elif [[ $line == "index "* || $line == "--- "* || $line == "+++ "* ]]; then
+        # Skip these lines
+        continue
+    else
+        # Write the line to the corresponding file
+        echo "$line" >> "$current_file.diff"
+        # Increment the total length
+        total_length=$(( total_length + ${#line} ))
+        # Check if total length exceeds the maximum
+        if [[ $total_length -ge 350 ]]; then
+            # Read the content of the .diff file
+            diff_content=$(cat "$current_file.diff")
+            # Post comment to GitHub
+            post_comment "$current_file" "$diff_content"
+            # Reset the total length and content
+            total_length=0
+            echo "" > "$current_file.diff"
+        fi
+    fi
+done <<< "$diff_output"
+
+# Post remaining comments if any
 for file in *.diff; do
     # Check if file exists and is a regular file
     if [[ -f "$file" ]]; then
