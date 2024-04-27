@@ -12,6 +12,57 @@ COMMIT_SHA=$(git rev-parse HEAD)
 
 git fetch --depth=2
 
+# Function to split the diff content into chunks
+split_diff() {
+    local diff_content=$1
+    local max_length=350  # Maximum length for each chunk
+    echo "$diff_content" | awk -v max_len="$max_length" '
+        {
+            for (i = 1; i <= length; i += max_len) {
+                print substr($0, i, max_len)
+            }
+        }
+    '
+}
+
+# Function to post comment to GitHub
+post_comment() {
+    local filename=$1
+    local diff_content=$2
+
+    # Escape backslashes
+    diff_content=$(echo "$diff_content" | sed 's/\\/\\\\/g')
+    # Escape double quotes in the comment body
+    diff_content=$(echo "$diff_content" | sed 's/"/\\"/g')
+
+    # Split the diff content into chunks
+    diff_chunks=$(split_diff "$diff_content")
+
+    # Post each chunk as a separate comment
+    while IFS= read -r diff_chunk; do
+        # Create a comment body
+        local comment_body=$(cat <<EOF
+## Changes in $filename:
+
+\`\`\`diff
+$diff_chunk
+\`\`\`
+EOF
+)
+        # Replace newline characters with "\\n"
+        comment_body=$(echo "$comment_body" | sed ':a;N;$!ba;s/\n/\\n/g')
+
+        # Post the comment using cURL
+        curl -L \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/$USERNAME/$REPO/commits/$COMMIT_SHA/comments" \
+            -d "{\"body\":\"$comment_body\"}"
+    done <<< "$diff_chunks"
+}
+
 # Store the output of `git diff HEAD^ HEAD` into a variable
 diff_output=$(git diff HEAD^ HEAD)
 
@@ -34,39 +85,6 @@ while IFS= read -r line; do
         echo "$line" >> "$current_file.diff"
     fi
 done <<< "$diff_output"
-
-# Function to post comment to GitHub
-post_comment() {
-    local filename=$1
-    local diff_content=$2
-
-    # Escape backslashes
-    diff_content=$(echo "$diff_content" | sed 's/\\/\\\\/g')
-    # Escape double quotes in the comment body
-    diff_content=$(echo "$diff_content" | sed 's/"/\\"/g')
-
-
-    # Create a comment body
-    local comment_body=$(cat <<EOF
-## Changes in $filename:
-
-\`\`\`diff
-$diff_content
-\`\`\`
-EOF
-)
-    # Replace newline characters with "\\n"
-    comment_body=$(echo "$comment_body" | sed ':a;N;$!ba;s/\n/\\n/g')
-
-    # Post the comment using cURL
-    curl -L \
-        -X POST \
-        -H "Accept: application/vnd.github+json" \
-        -H "Authorization: Bearer $GITHUB_TOKEN" \
-        -H "X-GitHub-Api-Version: 2022-11-28" \
-        "https://api.github.com/repos/$USERNAME/$REPO/commits/$COMMIT_SHA/comments" \
-        -d "{\"body\":\"$comment_body\"}"
-}
 
 # Enable dotglob option to include files starting with a dot
 shopt -s dotglob
