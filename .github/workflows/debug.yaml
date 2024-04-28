@@ -12,8 +12,8 @@ jobs:
 
       - name: Debug
         run: |
-          ls
-          cd src 
-          ls
-          cd tools
+          ls && 
+          cd src &&
+          ls &&
+          cd tools &&
           ls
