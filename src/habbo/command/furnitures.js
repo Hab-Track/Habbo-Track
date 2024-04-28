@@ -6,6 +6,8 @@ async function parse (json) {
     ...json.wallitemtypes.furnitype,
   ]
 
+  const map = []
+  
   all.forEach((item) => {
     map.push(
       { revision: item.revision, name: `${item.classname.replace('*', '_')}_icon.png` },

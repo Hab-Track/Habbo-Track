@@ -3,7 +3,7 @@ const path = require('path')
 const fs = require('fs')
 const { pipeline } = require('stream/promises')
 const { XMLParser } = require('fast-xml-parser')
-const swf2png = require('../tools/swf2png/src/convert_swf.js')
+const swf2png = require('swf2png/src/convert_swf.js')
 
 const config = {
   sockets: 100,
