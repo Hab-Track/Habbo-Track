@@ -6,22 +6,14 @@ async function parse (json) {
     ...json.wallitemtypes.furnitype,
   ]
 
-// Download only swf
-  return new Set(
-    all.map((item) => {
-      return { revision: item.revision, name: `${item.classname.split('*')[0]}.swf` }
-    })
-  )
+  all.forEach((item) => {
+    map.push(
+      { revision: item.revision, name: `${item.classname.replace('*', '_')}_icon.png` },
+      { revision: item.revision, name: `${item.classname.split('*')[0]}.swf` },
+    )
+  })
 
-// Download swf & icon
-//   all.forEach((item) => {
-//     map.push(
-//       { revision: item.revision, name: `${item.classname.replace('*', '_')}_icon.png` },
-//       { revision: item.revision, name: `${item.classname.split('*')[0]}.swf` },
-//     )
-//   })
-
-//   return new Set(map)
+  return new Set(map)
 }
 
 async function handle () {

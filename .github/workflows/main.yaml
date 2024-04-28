@@ -31,8 +31,8 @@ jobs:
       - name: Download Effects
         run: node $FILE_PATH -c effects
 
-      - name: Download Furniture Icons
-        run: node $FILE_PATH -c ficons
+      - name: Download Furnitures
+        run: node $FILE_PATH -c furnitures
 
       - name: Download Gamedata Files
         run: node $FILE_PATH -c gamedata
