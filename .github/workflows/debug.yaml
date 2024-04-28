@@ -7,13 +7,13 @@ jobs:
       # Setup
       - uses: actions/checkout@v4
         with:
-          submodules: "recursive"
+          submodules: "true"
           token: ${{ secrets.PAT }}
 
       - name: Debug
         run: |
-          ls && 
-          cd src &&
-          ls &&
-          cd tools &&
+          ls
+          cd src
+          ls
+          cd tools
           ls
