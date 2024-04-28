@@ -19,4 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
           chmod +x $FILE_PATH
-          bash $FILE_PATH
+          bash $FILE_PATH resource
