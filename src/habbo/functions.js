@@ -65,11 +65,15 @@ async function fetchOne(src, dst, replace = false) {
     return `skipped: ${src}`
   }
   
+  console.log("fetching")
   let res = (await fetchRaw(src)).body
 
   if (dst.endsWith('.swf')) {
+    console.log(dst)
     res = swf2png(res)
+    console.log("converted")
     dst.replace('.swf', '.png')
+    console.log("change name")
   }
   
   await fs.promises.mkdir(path.dirname(dst), { recursive: true })
