@@ -33,24 +33,17 @@ COMMIT_SHA=$(git rev-parse HEAD)
 split_diff() {
     local diff_content=$1
     local max_length=350  # Maximum length for each chunk
-    local num_lines=$(echo "$diff_content" | wc -l)
-    local lines_per_chunk=$(( max_length / num_lines + 1 ))
 
-    # Iterate over the lines of the diff content
-    while IFS= read -r line; do
-        # Check if the line starts with "+-" indicating a special line
-        if [[ $line == "+-"* ]]; then
-            # Split the special line into chunks and post each chunk
-            echo "$line" | fold -w "$max_length" | while IFS= read -r chunk; do
-                echo "$chunk"
-            done
-        else
-            # Split the line into chunks based on the calculated lines_per_chunk
-            echo "$line" | fold -w "$lines_per_chunk"
-        fi
-    done <<< "$diff_content"
+    # Split the diff content into chunks
+    while [ ${#diff_content} -gt $max_length ]; do
+        local chunk="${diff_content:0:$max_length}"
+        diff_content="${diff_content:$max_length}"
+        echo "$chunk"
+    done
+
+    # Print the remaining chunk
+    echo "$diff_content"
 }
-
 
 # Function to post comment to GitHub
 post_comment() {
@@ -74,7 +67,7 @@ EOF
 
     # Replace newline characters with "\\n"
     comment_body=$(echo "$comment_body" | sed ':a;N;$!ba;s/\n/\\n/g')
-
+    
     # Post the comment using cURL
     curl -L \
         -X POST \
@@ -84,6 +77,11 @@ EOF
         "https://api.github.com/repos/$USERNAME/$REPO/commits/$COMMIT_SHA/comments" \
         -d "{\"body\":\"$comment_body\"}"
 }
+
+# Iterate over the lines of the diff output and split into chunks
+while IFS= read -r line; do
+    split_diff "$line"
+done <<< "$diff_output"
 
 # Variable to keep track of the current file being processed
 current_file=""
