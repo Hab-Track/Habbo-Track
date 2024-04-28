@@ -1,59 +1,30 @@
 {
-  "name": "habbo-downloader",
-  "version": "2.24.6",
-  "description": "A tiny script to download various files directly from Habbo.",
-  "keywords": [
-    "badges",
-    "furnitures",
-    "clothes",
-    "effects",
-    "icons",
-    "mp3",
-    "hotelview",
-    "gamedata",
-    "pets",
-    "badgeparts",
-    "articles",
-    "news",
-    "habbo",
-    "downloader",
-    "ripper",
-    "habbo-downloader",
-    "hdl",
-    "retrotown",
-    "devbest",
-    "ragezone",
-    "krews",
-    "nodejs",
-    "unity",
-    "unity-webgl",
-    "webgl",
-    "fast",
-    "performance"
-  ],
-  "homepage": "https://github.com/higoka/habbo-downloader",
-  "bugs": {
-    "url": "https://github.com/higoka/habbo-downloader/issues"
-  },
-  "license": "MIT",
-  "author": "Nico Rickenbach",
-  "main": "src/index.js",
-  "funding": "https://paypal.me/nicorickenbach",
-  "bin": {
-    "habbo-downloader": "src/index.js",
-    "hdl": "src/index.js"
+  "name": "habbo-track",
+  "version": "1.0.0",
+  "description": "Track Habbo updates",
+  "main": "src/habbo/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/higoka/habbo-downloader.git"
+    "url": "git+https://github.com/Hab-Track/Habbo-Track.git"
   },
+  "keywords": [
+    "swf",
+    "convert",
+    "png",
+    "habbo"
+  ],
+  "author": "Lande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hab-Track/Habbo-Track/issues"
+  },
+  "homepage": "https://github.com/Hab-Track/Habbo-Track#readme",
   "dependencies": {
-    "compare-versions": "^3.6.0",
-    "fast-xml-parser": "^4.3.2",
+    "fast-xml-parser": "^4.3.6",
     "minimist": "^1.2.8",
-    "node-fetch": "^2.7.0"
-  },
-  "engines": {
-    "node": ">=15.0"
+    "node-fetch": "^3.3.2"
   }
 }
