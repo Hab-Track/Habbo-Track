@@ -4,6 +4,7 @@ const path = require('path')
 const fs = require('fs')
 const { pipeline } = require('stream/promises')
 const { XMLParser } = require('fast-xml-parser')
+const swf2png = require('../tools/swf2png/src/convert_swf.js')
 
 const config = {
   sockets: 100,
@@ -64,11 +65,16 @@ async function fetchOne(src, dst, replace = false) {
   if (await fileExists(dst) && replace === false) {
     return `skipped: ${src}`
   }
+  
+  let res = (await fetchRaw(src)).body
 
-  const res = await fetchRaw(src)
-
+  if (dst.endsWith('.swf')) {
+    res = swf2png(res)
+    dst.replace('.swf', '.png')
+  }
+  
   await fs.promises.mkdir(path.dirname(dst), { recursive: true })
-  await pipeline(res.body, fs.createWriteStream(dst))
+  await pipeline(res, fs.createWriteStream(dst))
 
   return `${res.status} ${src}`
 }
