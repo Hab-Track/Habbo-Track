@@ -1,0 +1,19 @@
+on:
+  workflow_dispatch:
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      # Setup
+      - uses: actions/checkout@v4
+        with:
+          submodules: "recursive"
+          token: ${{ secrets.PAT }}
+
+      - name: Debug
+        run: |
+          ls
+          cd src 
+          ls
+          cd tools
+          ls
