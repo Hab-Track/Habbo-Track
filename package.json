@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Hab-Track/Habbo-Track#readme",
   "dependencies": {
     "fast-xml-parser": "^4.3.6",
-    "minimist": "^1.2.8"
+    "minimist": "^1.2.8",
+    "swf2png": "file:src/tools/swf2png"
   }
 }
