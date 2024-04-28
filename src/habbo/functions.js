@@ -1,5 +1,3 @@
-const compareVersions = require('compare-versions')
-const package = require('../package.json')
 const fetch = require('node-fetch')
 const https = require('https')
 const path = require('path')
@@ -31,7 +29,7 @@ const parser = new XMLParser({
   parseNodeValue: false,
 })
 
-async function fileExists (file) {
+async function fileExists(file) {
   try {
     await fs.promises.access(file, fs.constants.F_OK)
     return true
@@ -40,7 +38,7 @@ async function fileExists (file) {
   }
 }
 
-async function fetchRaw (src) {
+async function fetchRaw(src) {
   const res = await fetch(src, opt)
 
   if (res.ok === false) {
@@ -50,21 +48,17 @@ async function fetchRaw (src) {
   return res
 }
 
-async function fetchText (src) {
+async function fetchText(src) {
   const res = await fetchRaw(src)
-  const txt = await res.text()
-
-  return txt
+  return await res.text()
 }
 
-async function fetchJson (src) {
+async function fetchJson(src) {
   const res = await fetchRaw(src)
-  const txt = await res.json()
-
-  return txt
+  return await res.json()
 }
 
-async function fetchOne (src, dst, replace = false) {
+async function fetchOne(src, dst, replace = false) {
   dst = path.join(config.output, dst)
 
   if (await fileExists(dst) && replace === false) {
@@ -79,7 +73,7 @@ async function fetchOne (src, dst, replace = false) {
   return `${res.status} ${src}`
 }
 
-async function fetchMany (all, replace = false) {
+async function fetchMany(all, replace = false) {
   await Promise.allSettled(
     all.map((v) => fetchOne(v.src, v.dst, replace)
       .then(console.log)
@@ -88,37 +82,12 @@ async function fetchMany (all, replace = false) {
   )
 }
 
-async function fetchUntil (opt, maxRetries = 3, i = 1, failed = 0) {
-  try {
-    console.log(
-      await fetchOne(
-        opt.src.replace('%i%', i),
-        opt.dst.replace('%i%', i)
-      )
-    )
-    failed = 0
-  } catch (err) {
-    console.log(err.message)
-    failed++
-  } finally {
-    if (failed < maxRetries) {
-      return fetchUntil(opt, maxRetries, ++i, failed)
-    }
-  }
-}
-
-async function parseXml (txt) {
+async function parseXml(txt) {
   return parser.parse(txt)
 }
 
-async function checkUpdate () {
-  const json = await fetchJson('https://registry.npmjs.org/habbo-downloader/latest')
-  if (compareVersions(json.version, package.version) > 0) {
-    console.log(`\u001b[33m[NOTE] A new version is available: "${json.version}". You are using version: "${package.version}". Please update habbo-downloader by running "npm i -g habbo-downloader" inside of the terminal.\u001b[0m\n`)
-  }
-}
 
-async function initConfig (argv) {
+async function initConfig(argv) {
   const c = argv.c || argv.command
   const d = argv.d || argv.domain
   const s = argv.s || argv.sockets
@@ -138,4 +107,4 @@ async function initConfig (argv) {
   config.prod = (await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)).match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
 }
 
-module.exports = { fetchText, fetchJson, fetchOne, fetchMany, fetchUntil, parseXml, checkUpdate, initConfig, config }
+module.exports = { fetchText, fetchJson, fetchOne, fetchMany, fetchUntil, parseXml, initConfig, config }
