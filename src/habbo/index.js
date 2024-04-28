@@ -19,7 +19,7 @@ async function main () {
     if (err.code === 'MODULE_NOT_FOUND') {
       console.log('command not found')
     } else {
-      console.log(err.message)
+      console.error(err)
     }
   }
 }
