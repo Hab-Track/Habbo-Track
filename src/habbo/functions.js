@@ -76,6 +76,7 @@ async function fetchOne(src, dst, replace = false) {
       res = await swf2png(res).then(spritesheet => spritesheet.createPNGStream())
       dst = dst.replace('.swf', '.png')
       await res.pipe(fs.createWriteStream(dst))
+      return `Converted ${dst.split("/").pop()}`
     } catch (err) {
       let name = dst.split("/").pop()
       return `Unable to convert ${name}`
