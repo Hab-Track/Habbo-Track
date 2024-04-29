@@ -1,3 +1,4 @@
+const fetchh = require('node-fetch')
 const https = require('https')
 const path = require('path')
 const fs = require('fs')
@@ -38,14 +39,15 @@ async function fileExists(file) {
   }
 }
 
-async function fetchRaw(src) {
-  const res = await fetch(src, opt)
-
-  if (res.ok === false) {
-    throw new Error(`${res.status} ${src}`)
-  }
-
-  return res
+function fetchRaw(src) {
+  return fetchh(src, opt)
+    .then((response) => {
+      return response;
+    })
+    .catch((err) => {
+      console.log("Unable to fetch -", err);
+      throw err;
+    });
 }
 
 async function fetchText(src) {
@@ -64,16 +66,21 @@ async function fetchOne(src, dst, replace = false) {
   if (await fileExists(dst) && replace === false) {
     return `skipped: ${src}`
   }
-  
-  let res = (await fetchRaw(src)).body
+
+  let buffer = (await fetchRaw(src).then(r => r.buffer()))
 
   if (dst.endsWith('.swf')) {
-    res = swf2png(res)
-    dst.replace('.swf', '.png')
+    try {
+      res = await swf2png(buffer)
+      dst.replace('.swf', '.png')
+    } catch (err) {
+      let name = dst.split("\\").pop()
+      return `Unable to convert ${name}`
+    }
   }
-  
+
   await fs.promises.mkdir(path.dirname(dst), { recursive: true })
-  await pipeline(res, fs.createWriteStream(dst))
+  await pipeline(buffer, fs.createWriteStream(dst))
 
   return `${res.status} ${src}`
 }
