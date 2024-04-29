@@ -60,16 +60,30 @@ async function fetchJson(src) {
   return await res.json()
 }
 
+
+async function is_file_exists(file, replace) {
+  png_name = file.replace('.swf', '.png')
+
+  if (await fileExists(file) && replace === false) {
+    return true
+  }
+  else if (await fileExists(png_name) && replace === false) {
+    return true
+  }
+  return false
+}
+
+
 async function fetchOne(src, dst, replace = false) {
   dst = path.join(config.output, dst)
-  
-  if (await fileExists(dst) && replace === false) {
+
+  if (is_file_exists(dst, replace)) {
     return
   }
 
   let res
   await fs.promises.mkdir(path.dirname(dst), { recursive: true })
-  
+
   if (dst.endsWith('.swf')) {
     try {
       res = (await fetchRaw(src).then(r => r.buffer()))
