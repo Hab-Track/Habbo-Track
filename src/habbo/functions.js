@@ -5,7 +5,6 @@ const fs = require('fs')
 const { pipeline } = require('stream/promises')
 const { XMLParser } = require('fast-xml-parser')
 const swf2png = require('swf2png/src/convert_swf.js')
-const { name } = require('swf-parser/errors/incomplete-stream')
 
 const config = {
   sockets: 100,
