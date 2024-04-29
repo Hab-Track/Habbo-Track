@@ -5,6 +5,7 @@ const fs = require('fs')
 const { pipeline } = require('stream/promises')
 const { XMLParser } = require('fast-xml-parser')
 const swf2png = require('swf2png/src/convert_swf.js')
+const { name } = require('swf-parser/errors/incomplete-stream')
 
 const config = {
   sockets: 100,
@@ -74,7 +75,7 @@ async function fetchOne(src, dst, replace = false) {
       res = await swf2png(buffer)
       dst.replace('.swf', '.png')
     } catch (err) {
-      let name = dst.split("\\").pop()
+      let name = dst.split("/").pop()
       return `Unable to convert ${name}`
     }
   }
@@ -82,7 +83,7 @@ async function fetchOne(src, dst, replace = false) {
   await fs.promises.mkdir(path.dirname(dst), { recursive: true })
   await pipeline(buffer, fs.createWriteStream(dst))
 
-  return `${res.status} ${src}`
+  return `${dst.split("/").pop()} ${src}`
 }
 
 async function fetchMany(all, replace = false) {
