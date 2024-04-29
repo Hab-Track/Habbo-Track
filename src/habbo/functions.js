@@ -62,26 +62,28 @@ async function fetchJson(src) {
 
 async function fetchOne(src, dst, replace = false) {
   dst = path.join(config.output, dst)
-
+  
   if (await fileExists(dst) && replace === false) {
     return `skipped: ${src}`
   }
 
-  let buffer = (await fetchRaw(src).then(r => r.buffer()))
-
+  let res
+  await fs.promises.mkdir(path.dirname(dst), { recursive: true })
+  
   if (dst.endsWith('.swf')) {
     try {
-      res = await swf2png(buffer)
-      dst.replace('.swf', '.png')
+      res = (await fetchRaw(src).then(r => r.buffer()))
+      res = await swf2png(res).then(spritesheet => spritesheet.createPNGStream())
+      dst = dst.replace('.swf', '.png')
+      await res.pipe(fs.createWriteStream(dst))
     } catch (err) {
       let name = dst.split("/").pop()
       return `Unable to convert ${name}`
     }
   }
 
-  await fs.promises.mkdir(path.dirname(dst), { recursive: true })
-  await pipeline(buffer, fs.createWriteStream(dst))
-
+  res = await fetchRaw(src)
+  await pipeline(res.body, fs.createWriteStream(dst))
   return `${dst.split("/").pop()} ${src}`
 }
 
