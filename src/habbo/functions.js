@@ -61,23 +61,11 @@ async function fetchJson(src) {
 }
 
 
-async function is_file_exists(file, replace) {
-  png_name = file.replace('.swf', '.png')
-
-  if (await fileExists(file) && replace === false) {
-    return true
-  }
-  else if (await fileExists(png_name) && replace === false) {
-    return true
-  }
-  return false
-}
-
-
 async function fetchOne(src, dst, replace = false) {
   dst = path.join(config.output, dst)
+  let png_name = dst.replace('.swf', '.png')
 
-  if (is_file_exists(dst, replace)) {
+  if ((await fileExists(dst) && replace === false) || (await fileExists(png_name) && replace === false)) {
     return
   }
 
@@ -88,24 +76,23 @@ async function fetchOne(src, dst, replace = false) {
     try {
       res = (await fetchRaw(src).then(r => r.buffer()))
       res = await swf2png(res).then(spritesheet => spritesheet.createPNGStream())
-      dst = dst.replace('.swf', '.png')
-      await res.pipe(fs.createWriteStream(dst))
-      return `Converted ${dst.split("/").pop()}`
+      await res.pipe(fs.createWriteStream(png_name))
+      console.log(`Converted ${png_name.split("/").pop()}`)
+      return
     } catch (err) {
       let name = dst.split("/").pop()
-      return `Unable to convert ${name}`
+      console.error(`Unable to convert ${name}`)
     }
   }
 
   res = await fetchRaw(src)
   await pipeline(res.body, fs.createWriteStream(dst))
-  return `${dst.split("/").pop()} ${src}`
+  console.log(`Downloaded ${dst.split("/").pop()}`)
 }
 
 async function fetchMany(all, replace = false) {
   await Promise.allSettled(
     all.map((v) => fetchOne(v.src, v.dst, replace)
-      .then(console.log)
       .catch((err) => console.error(err.message))
     )
   )
