@@ -65,9 +65,9 @@ async function fetchOne(src, dst, replace = false) {
   dst = path.join(config.output, dst)
   let png_name = dst.replace('.swf', '.png')
 
-  if ((await fileExists(dst) && replace === false) || (await fileExists(png_name) && replace === false)) {
+  if ((await fileExists(dst) || await fileExists(png_name)) && replace === false) {
     return
-  }
+  }  
 
   let res
   await fs.promises.mkdir(path.dirname(dst), { recursive: true })
