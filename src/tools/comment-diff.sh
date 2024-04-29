@@ -98,8 +98,9 @@ while IFS= read -r line; do
     if [[ $line == "diff --git"* ]]; then
         # Extract the filename from the line
         file=$(echo "$line" | cut -d ' ' -f 3 | sed 's/^a\///')
-        current_file=$(echo "${file//\//_}")
-        echo "" > "$current_file.diff"
+        if [[ "${file##*.}" == "txt" ]]; then
+            current_file=$(echo "${file//\//_}")
+            echo "" > "$current_file.diff"
     elif [[ $line == "index "* || $line == "--- "* || $line == "+++ "* ]]; then
         # Skip these lines
         continue
