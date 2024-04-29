@@ -17,7 +17,7 @@ async function main () {
     await require(`./command/${command}`)()
   } catch (err) {
     if (err.code === 'MODULE_NOT_FOUND') {
-      console.log('command not found')
+      console.error('command not found')
     } else {
       console.error(err)
     }

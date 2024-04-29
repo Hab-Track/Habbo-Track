@@ -45,7 +45,7 @@ function fetchRaw(src) {
       return response;
     })
     .catch((err) => {
-      console.log("Unable to fetch -", err);
+      console.error("Unable to fetch -", err);
       throw err;
     });
 }
@@ -64,7 +64,7 @@ async function fetchOne(src, dst, replace = false) {
   dst = path.join(config.output, dst)
   
   if (await fileExists(dst) && replace === false) {
-    return `skipped: ${src}`
+    return
   }
 
   let res
@@ -92,7 +92,7 @@ async function fetchMany(all, replace = false) {
   await Promise.allSettled(
     all.map((v) => fetchOne(v.src, v.dst, replace)
       .then(console.log)
-      .catch((err) => console.log(err.message))
+      .catch((err) => console.error(err.message))
     )
   )
 }
