@@ -101,6 +101,7 @@ while IFS= read -r line; do
         if [[ "${file##*.}" == "txt" ]]; then
             current_file=$(echo "${file//\//_}")
             echo "" > "$current_file.diff"
+        fi
     elif [[ $line == "index "* || $line == "--- "* || $line == "+++ "* ]]; then
         # Skip these lines
         continue
