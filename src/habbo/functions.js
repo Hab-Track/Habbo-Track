@@ -42,6 +42,9 @@ async function fileExists(file) {
 function fetchRaw(src) {
   return fetchh(src, opt)
     .then((response) => {
+      if (!response.ok) {
+        throw new Error(`Status ${response.status} for ${src}`);
+      }
       return response;
     })
     .catch((err) => {
