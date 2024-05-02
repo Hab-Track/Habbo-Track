@@ -1,7 +1,9 @@
 name: Commit comments
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 env:
   FILE_PATH: src/tools/comment-diff.sh
