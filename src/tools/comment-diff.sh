@@ -84,7 +84,7 @@ current_file=""
 # Total length of lines processed
 total_length=0
 
-check_only_thoses_files=("external_flash_texts.txt" "external_variables.txt")
+check_only_thoses_files=("external_flash_texts.txt" "external_variables.txt" "effectmap.xml" "figuremap.xml")
 
 # Enable dotglob option to include files starting with a dot
 shopt -s dotglob
