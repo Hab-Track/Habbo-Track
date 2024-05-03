@@ -78,10 +78,6 @@ EOF
         -d "{\"body\":\"$comment_body\"}"
 }
 
-echo "----------------"
-echo "$diff_output"
-echo "----------------"
-
 # Iterate over the lines of the diff output and split into chunks
 while IFS= read -r line; do
     split_diff "$line"
