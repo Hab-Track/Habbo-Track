@@ -78,11 +78,6 @@ EOF
         -d "{\"body\":\"$comment_body\"}"
 }
 
-# Iterate over the lines of the diff output and split into chunks
-while IFS= read -r line; do
-    split_diff "$line"
-done <<< "$diff_output"
-
 # Variable to keep track of the current file being processed
 current_file=""
 
@@ -124,10 +119,14 @@ while IFS= read -r line; do
             if [[ $total_length -ge 350 ]]; then
                 # Read the content of the .diff file
                 diff_content=$(cat "$current_file.diff")
-                # Post comment to GitHub only if the diff content is not empty
-                if [[ -n "$diff_content" ]]; then
-                    post_comment "$current_file" "$diff_content"
-                fi
+                # Split the diff content into chunks
+                diff_chunks=$(split_diff "$diff_content")
+                # Post comment to GitHub for each chunk
+                for chunk in $diff_chunks; do
+                    if [[ -n "$chunk" ]]; then
+                        post_comment "$current_file" "$chunk"
+                    fi
+                done
                 # Reset the total length and content
                 total_length=0
                 echo "" > "$current_file.diff"
@@ -144,10 +143,14 @@ for file in *.diff; do
         filename="${file%.diff}"
         # Read the content of the .diff file
         diff_content=$(cat "$file")
-        # Post comment to GitHub only if the diff content is not empty
-        if [[ -n "$diff_content" ]]; then
-            post_comment "$filename" "$diff_content"
-        fi
+        # Split the diff content into chunks
+        diff_chunks=$(split_diff "$diff_content")
+        # Post comment to GitHub for each chunk
+        for chunk in $diff_chunks; do
+            if [[ -n "$chunk" ]]; then
+                post_comment "$filename" "$chunk"
+            fi
+        done
     fi
 done
 
