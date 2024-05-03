@@ -104,9 +104,12 @@ while IFS= read -r line; do
     if [[ $line == "diff --git"* ]]; then
         # Extract the filename from the line
         file=$(echo "$line" | cut -d ' ' -f 3 | sed 's/^a\///')
-        if [[ "${file}" =~ "${check_only_thoses_files[@]}" ]]; then
-            current_file=$(echo "${file//\//_}")
-            echo "" > "$current_file.diff"
+        # Iterate over the array of specific files
+        for specific_file in "${check_only_thoses_files[@]}"; do
+            # Check if the current file matches any of the specific files
+            if [[ "$file" == "$specific_file" ]]; then
+                current_file=$(echo "${file//\//_}")
+                echo "" > "$current_file.diff"
         fi
     elif [[ $line == "index "* || $line == "--- "* || $line == "+++ "* ]]; then
         # Skip these lines
