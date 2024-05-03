@@ -97,10 +97,14 @@ while IFS= read -r line; do
         file=$(echo "$line" | cut -d ' ' -f 3 | sed 's/^a\///')
         # Iterate over the array of specific files
         for specific_file in "${check_only_thoses_files[@]}"; do
+            echo "====================="
+            echo "specific_file: $specific_file"
+            echo "====================="
             # Check if the current file matches any of the specific files
             if [[ "$file" == "$specific_file" ]]; then
                 current_file=$(echo "${file//\//_}")
                 echo "" > "$current_file.diff"
+                break
             fi
         done
     elif [[ $line == "index "* || $line == "--- "* || $line == "+++ "* ]]; then
