@@ -3,7 +3,7 @@ name: Commit comments
 on:
   push:
     branches:
-      - main
+      - stop
 
 env:
   FILE_PATH: src/tools/comment-diff.sh
