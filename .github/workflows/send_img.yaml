@@ -1,0 +1,27 @@
+name: Check and Send Images on Commit
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  send_images:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run image checker and sender
+      env:
+        WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+      run: node src/tools/checkAndSendImages.js
