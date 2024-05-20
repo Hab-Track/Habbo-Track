@@ -4,7 +4,7 @@ const { execSync } = require('child_process');
 const axios = require('axios');
 const FormData = require('form-data');
 
-const webhookUrl = process.env.WEBHOOK_URL;
+const webhookUrl = "https://discord.com/api/webhooks/1242096862031253656/6qND7Ax0TU9d0Smlru5xFGJhNKHUGbepdwxtBR9JKVQPx6DQNMxW3ulx1BvX0bUDX1TE"
 
 if (!webhookUrl) {
   console.error('Webhook URL is not set. Please set it in your workflow secrets.');
@@ -17,7 +17,7 @@ function isImage(file) {
 }
 
 // Get the list of modified files in the last commit
-const lastCommitFiles = execSync('git diff-tree --no-commit-id --name-only -r HEAD')
+const lastCommitFiles = execSync('git diff-tree --no-commit-id --name-only -r f9282be')
   .toString()
   .trim()
   .split('\n');
@@ -30,9 +30,12 @@ if (imageFiles.length === 0) {
 }
 
 // Function to remove the file extension
-function removeFileExtension(fileName) {
-  return fileName.substring(0, fileName.lastIndexOf('.')) || fileName;
+function formatName(filePath) {
+  const resourceIndex = filePath.indexOf('resource');
+  const pathAfterResource = resourceIndex !== -1 ? filePath.substring(resourceIndex + 'resource'.length + 1) : filePath;
+  return pathAfterResource.substring(0, pathAfterResource.lastIndexOf('.')) || pathAfterResource;
 }
+
 
 // Send each image to the webhook
 imageFiles.forEach(async (file) => {
@@ -41,7 +44,7 @@ imageFiles.forEach(async (file) => {
   const fileContent = fs.readFileSync(filePath);
 
   const formData = new FormData();
-  formData.append('content', `> ${removeFileExtension(fileName)}`);
+  formData.append('content', `> ${formatName(filePath)}`);
   formData.append('file1', fileContent, fileName);
 
   try {
