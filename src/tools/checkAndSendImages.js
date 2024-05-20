@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 const axios = require('axios');
+const FormData = require('form-data');
 
 const webhookUrl = process.env.WEBHOOK_URL;
 
@@ -10,7 +11,6 @@ if (!webhookUrl) {
   process.exit(1);
 }
 
-// Function to check if a file is an image
 function isImage(file) {
   const imageExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.svg'];
   return imageExtensions.includes(path.extname(file).toLowerCase());
@@ -29,18 +29,29 @@ if (imageFiles.length === 0) {
   process.exit(0);
 }
 
+// Function to remove the file extension
+function removeFileExtension(fileName) {
+  return fileName.substring(0, fileName.lastIndexOf('.')) || fileName;
+}
+
 // Send each image to the webhook
 imageFiles.forEach(async (file) => {
   const fileName = path.basename(file);
-  const fileData = fs.readFileSync(file);
+  const filePath = path.resolve(file);
+  const fileContent = fs.readFileSync(filePath);
+
+  const formData = new FormData();
+  formData.append('content', `> ${removeFileExtension(fileName)}`);
+  formData.append('file1', fileContent, fileName);
 
   try {
-    await axios.post(webhookUrl, {
-      fileName: fileName,
-      fileData: fileData.toString('base64')
+    await axios.post(webhookUrl, formData, {
+      headers: {
+        ...formData.getHeaders()
+      },
     });
     console.log(`Successfully sent ${fileName} to the webhook.`);
   } catch (error) {
-    console.error(`Failed to send ${fileName}:`, error);
+    console.error(`Failed to send ${fileName}:`, error.response ? error.response.data : error.message);
   }
 });

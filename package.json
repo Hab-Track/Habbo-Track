@@ -4,7 +4,7 @@
   "description": "Track Habbo updates",
   "main": "src/habbo/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node src/tools/checkAndSendImages.js"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,7 @@
     "lodash": "^4.17.21",
     "minimist": "^1.2.8",
     "node-fetch": "^2.7.0",
-    "swf2png": "file:src/tools/swf2png"
+    "swf2png": "file:src/tools/swf2png",
+    "form-data": "^4.0.0"
   }
 }
