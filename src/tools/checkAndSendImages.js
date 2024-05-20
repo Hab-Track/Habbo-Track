@@ -4,7 +4,7 @@ const { execSync } = require('child_process');
 const axios = require('axios');
 const FormData = require('form-data');
 
-const webhookUrl = "https://discord.com/api/webhooks/1242096862031253656/6qND7Ax0TU9d0Smlru5xFGJhNKHUGbepdwxtBR9JKVQPx6DQNMxW3ulx1BvX0bUDX1TE"
+const webhookUrl = process.env.WEBHOOK_URL;
 
 if (!webhookUrl) {
   console.error('Webhook URL is not set. Please set it in your workflow secrets.');
@@ -17,7 +17,7 @@ function isImage(file) {
 }
 
 // Get the list of modified files in the last commit
-const lastCommitFiles = execSync('git diff-tree --no-commit-id --name-only -r f9282be')
+const lastCommitFiles = execSync('git diff-tree --no-commit-id --name-only -r HEAD')
   .toString()
   .trim()
   .split('\n');
