@@ -19,8 +19,12 @@ function isImage(file) {
   return imageExtensions.includes(path.extname(file).toLowerCase());
 }
 
+const fullCommitSha = execSync(`git rev-parse ${commitSha}`)
+  .toString()
+  .trim();
+
 // Get the list of modified files in the specified commit
-const lastCommitFiles = execSync(`git diff-tree --no-commit-id --name-only -r ${commitSha}`)
+const lastCommitFiles = execSync(`git diff-tree --no-commit-id --name-only -r ${fullCommitSha}`)
   .toString()
   .trim()
   .split('\n');
