@@ -4,24 +4,31 @@ on:
   push:
     branches:
       - main
+  
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: 'Commit SHA to check for changes'
+        required: false
+        default: 'HEAD'
 
 jobs:
   send_images:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Run image checker and sender
-      env:
-        WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
-      run: node src/tools/checkAndSendImages.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Run script to send images via webhook
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+        run: node src/tools/checkAndSendImages.js ${{ github.event.inputs.commit }}

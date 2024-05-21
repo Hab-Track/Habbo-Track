@@ -11,21 +11,26 @@ if (!webhookUrl) {
   process.exit(1);
 }
 
+// Get the commit SHA from the command line arguments, default to 'HEAD'
+const commitSha = process.argv[2] || 'HEAD';
+
 function isImage(file) {
   const imageExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.svg'];
   return imageExtensions.includes(path.extname(file).toLowerCase());
 }
 
-// Get the list of modified files in the last commit
-const lastCommitFiles = execSync('git diff-tree --no-commit-id --name-only -r HEAD')
+// Get the list of modified files in the specified commit
+const lastCommitFiles = execSync(`git diff-tree --no-commit-id --name-only -r ${commitSha}`)
   .toString()
   .trim()
   .split('\n');
 
+console.log('Modified files in the commit:', lastCommitFiles);
+
 const imageFiles = lastCommitFiles.filter(isImage);
 
 if (imageFiles.length === 0) {
-  console.log('No new images found in the last commit.');
+  console.log('No new images found in the commit.');
   process.exit(0);
 }
 
