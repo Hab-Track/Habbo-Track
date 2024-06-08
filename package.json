@@ -4,7 +4,7 @@
   "description": "Track Habbo updates",
   "main": "src/habbo/index.js",
   "scripts": {
-    "test": "node src/tools/checkAndSendImages.js"
+    "test": "node src/habbo/index.js -c badges"
   },
   "repository": {
     "type": "git",

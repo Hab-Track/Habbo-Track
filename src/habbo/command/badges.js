@@ -22,22 +22,27 @@ async function collectText () {
   ]
 
   const all = await Promise.allSettled(
-    domain.map((d) => fetchText(`https://www.habbo.${d}/gamedata/external_flash_texts/0`))
+    domain.map((d) => fetchText(`https://www.habbo.${d}/gamedata/external_flash_texts/0`).then((text) => ({ domain: d, text })))
   )
 
-  return all.map((txt) => txt.value).join()
+  return all
+    .filter(result => result.status === 'fulfilled')
+    .map(result => result.value)
 }
 
 async function handle () {
-  const txt = await collectText()
-  const all = await parse(txt)
+  const allTexts = await collectText()
 
-  await fetchMany([...all].map((code) => {
-    return {
-      src: `https://images.habbo.com/c_images/album1584/${code}.${config.format}`,
-      dst: `badges/${code}.${config.format}`
-    }
-  }))
+  for (const { domain: d, text } of allTexts) {
+    const all = await parse(text)
+
+    await fetchMany([...all].map((code) => {
+      return {
+        src: `https://images.habbo.com/c_images/album1584/${code}.${config.format}`,
+        dst: `badges/${d}/${code}.${config.format}`
+      }
+    }))
+  }
 }
 
 module.exports = handle
