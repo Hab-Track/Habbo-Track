@@ -1,11 +1,11 @@
 name: Check and Send Images on Commit
 
 on:
-#   push:
-#     branches:
-#       - main
-#     paths:
-#       - 'resource/**'
+  push:
+    branches:
+      - main
+    paths:
+      - 'resource/**'
   
   workflow_dispatch:
     inputs:
