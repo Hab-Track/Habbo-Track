@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/Hab-Track/Habbo-Track#readme",
   "dependencies": {
-    "axios": "^0.21.1",
-    "axios-retry": "^4.4.0",
+    "axios": "^1.7.2",
+    "axios-retry": "^3.9.1",
     "fast-xml-parser": "^4.3.6",
     "form-data": "^4.0.0",
     "lodash": "^4.17.21",

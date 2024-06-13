@@ -1,9 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
-const axios = require('axios');
-const FormData = require('form-data');
-const axiosRetry = require('axios-retry');
+const { WebhookClient } = require('discord.js');
 
 const webhookUrl = process.env.WEBHOOK_URL;
 
@@ -12,18 +10,7 @@ if (!webhookUrl) {
   process.exit(1);
 }
 
-// Configure axios-retry to automatically retry on rate limit (429) errors
-axiosRetry(axios, {
-  retries: 3, // Number of retry attempts
-  retryDelay: (retryCount, error) => {
-    console.error(`Retry attempt ${retryCount}: ${error.message}`);
-    return axiosRetry.exponentialDelay(retryCount);
-  },
-  retryCondition: (error) => {
-    // Retry only if the error status is 429 (rate limited)
-    return error.response && error.response.status === 429;
-  }
-});
+const webhookClient = new WebhookClient({ url: webhookUrl });
 
 // Get the commit SHA from the command line arguments, default to 'HEAD'
 const commitSha = process.argv[2] || 'HEAD';
@@ -59,20 +46,18 @@ function formatName(filePath) {
 imageFiles.forEach(async (file) => {
   const fileName = path.basename(file);
   const filePath = path.resolve(file);
-  const fileContent = fs.readFileSync(filePath);
-
-  const formData = new FormData();
-  formData.append('content', `> ${formatName(filePath)}`);
-  formData.append('file1', fileContent, fileName);
 
   try {
-    await axios.post(webhookUrl, formData, {
-      headers: {
-        ...formData.getHeaders()
-      },
-    });
-    console.log(`Successfully sent ${fileName} to the webhook.`);
+    const messageContent = `> ${formatName(filePath)}`;
+
+    const payload = {
+      content: messageContent,
+      files: [filePath],
+    };
+
+    await webhookClient.send(payload);
+    console.log(`File ${fileName} sent.`);
   } catch (error) {
-    console.error(`Failed to send ${fileName}:`, error.response ? error.response.data : error.message);
+    console.error(`Error sending ${fileName}: `, error);
   }
 });
