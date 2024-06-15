@@ -1,7 +1,6 @@
 const { WebhookClient } = require('discord.js');
 const sendCommitEmbed = require('./utils/new_commit');
 const sendImagesToWebhook = require('./utils/send_images');
-const isInFolder = require('./utils/in_folder');
 
 const webhookUrl = process.env.WEBHOOK_URL;
 
@@ -16,11 +15,6 @@ const webhookClient = new WebhookClient({ url: webhookUrl });
 const commitSha = process.argv[2] || 'HEAD';
 
 async function runTasks() {
-    if (!isInFolder('resource/', commitSha)) {
-        console.log(`Commit ${sha} does not affect files in 'resource/'. Skipping webhook.`);
-        return;
-    }
-
     await sendCommitEmbed(commitSha, webhookClient);
     await sendImagesToWebhook(commitSha, webhookClient);
 }
