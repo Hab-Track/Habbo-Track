@@ -1,4 +1,4 @@
-name: Check and Send Images on Commit
+name: Send webhooks on new push
 
 on:
   push:
@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       
-      - name: Run script to send images via webhook
+      - name: Run script to send webhooks
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
-        run: node src/tools/checkAndSendImages.js ${{ github.event.inputs.commit }}
+        run: node src/tools/send_webhooks.js ${{ github.event.inputs.commit }}
