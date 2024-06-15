@@ -18,4 +18,4 @@ The repo keep all previous assets & track only : badges, furnis, clothes, effect
 
 - [x] Show new file in the github webhook
 
-- [ ] Create a script to send webhook only when commit in resource/
+- [x] Create a script to send webhook only when commit in resource/ & only branch main
