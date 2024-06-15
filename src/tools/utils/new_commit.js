@@ -12,11 +12,12 @@ async function getUserAvatar() {
     return "https://i.imgur.com/lSCFcFQ.gif" // Animated avatar
 }
 
-async function sendCommitEmbed(commitSha, webhookClient, branchName) {
+async function sendCommitEmbed(commitSha, webhookClient) {
     const { sha, authorName, subject } = getCommitDetails(commitSha);
     const commitUrl = `https://github.com/Hab-Track/Habbo-Track/commit/${sha}`;
     const repoUrl = `https://github.com/Hab-Track/Habbo-Track`;
 
+    const branchName = execSync('git rev-parse --abbrev-ref HEAD').toString().trim();
     const avatarUrl = await getUserAvatar();
 
     const embed = new EmbedBuilder()
