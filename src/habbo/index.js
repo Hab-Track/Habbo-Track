@@ -3,18 +3,18 @@
 const argv = require('minimist')(process.argv.slice(2))
 const { initConfig } = require('./functions')
 
-async function init () {
-  await initConfig(argv)
-}
-
 async function main () {
   try {
-    await init()
+    await initConfig(argv)
 
     const command = argv.c || argv.command
-    const isUnity = argv.u || argv.unity
+    const isOrigins = argv.u || argv.origins
 
-    await require(`./command/${command}`)()
+    if (isOrigins) {
+      await require(`./command/origins/${command}`)()
+    } else {
+      await require(`./command/${command}`)()
+    }
   } catch (err) {
     if (err.code === 'MODULE_NOT_FOUND') {
       console.error('command not found')

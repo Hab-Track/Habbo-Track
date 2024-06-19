@@ -6,15 +6,19 @@ async function parse (json) {
     ...json.wallitemtypes.furnitype,
   ]
 
-  return new Set(
-    all.map((item) => {
-      return { revision: item.revision, name: `${item.classname.replace('*', '_')}_icon.png` }
-    })
-  )
+  const map = []
+
+  all.forEach((item) => {
+    map.push(
+      { revision: item.revision, name: `${item.classname.split('*')[0]}.swf` },
+    )
+  })
+
+  return new Set(map)
 }
 
 async function handle () {
-  const json = await fetchJson(`https://www.habbo.${config.domain}/gamedata/furnidata_json/0`)
+  const json = await fetchJson(`https://origins.habbo.${config.domain}/gamedata/furnidata_json/0`)
   const all = await parse(json)
 
   await fetchMany([...all].map((item) => {

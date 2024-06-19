@@ -10,7 +10,6 @@ const config = {
   sockets: 100,
   domain: 'com',
   format: 'png',
-  revision: false,
   prod: false,
   output: './resource',
 }
@@ -108,20 +107,9 @@ async function parseXml(txt) {
 
 async function initConfig(argv) {
   const c = argv.c || argv.command
-  const d = argv.d || argv.domain
-  const s = argv.s || argv.sockets
-  const f = argv.f || argv.format
-  const r = argv.r || argv.revision
   const o = argv.o || argv.output
 
-  if (d) config.domain = d
-  if (s) config.sockets = s
-  if (r) config.revision = r
-  if (o) config.output = o
-
-  if (c === 'badges' && f === 'gif') {
-    config.format = 'gif'
-  }
+  if (o) config.output = o[0]
 
   config.prod = (await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)).match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
 }
