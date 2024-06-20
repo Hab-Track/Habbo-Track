@@ -23,7 +23,7 @@ async function runTasks() {
     const d = argv.dir;
 
     if (d) {
-        dir = d[0];
+        dir = d;
     }
     else {
         throw new Error('No directory specified. Please specify a directory with the --dir flag.');

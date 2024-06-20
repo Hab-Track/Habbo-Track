@@ -35,4 +35,4 @@ jobs:
       - name: Run script to send webhooks
         env:
           WEBHOOK_URL: ${{ secrets.ORIGINS_URL }}
-        run: node src/tools/send_webhooks.js ${{ github.event.inputs.commit }} --dir "origins"
+        run: node src/tools/send_webhooks.js ${{ github.event.inputs.commit }} --dir origins
