@@ -6,22 +6,13 @@ function isImage(file) {
   return imageExtensions.includes(path.extname(file).toLowerCase());
 }
 
-function formatName(filePath) {
-  let resourceIndex;
-  let pathAfterResource;
-  if (filePath.includes('resource')) {
-    resourceIndex = filePath.indexOf('resource');
-    pathAfterResource = resourceIndex !== -1 ? filePath.substring(resourceIndex + 'resource'.length + 1) : filePath;
-  }
-  else if (filePath.includes('origins')) {
-    imagesIndex = filePath.indexOf('origins');
-    pathAfterResource = imagesIndex !== -1 ? filePath.substring(imagesIndex + 'origins'.length + 1) : filePath;
-  }
-  
+function formatName(filePath, dir) {
+  let resourceIndex = filePath.indexOf(dir);
+  let pathAfterResource = resourceIndex !== -1 ? filePath.substring(resourceIndex + dir.length + 1) : filePath;
   return pathAfterResource.substring(0, pathAfterResource.lastIndexOf('.')) || pathAfterResource;
 }
 
-async function sendImagesToWebhook(commitSha, webhookClient) {
+async function sendImagesToWebhook(commitSha, webhookClient, dir) {
   // Get the list of modified files in the specified commit
   const lastCommitFiles = execSync(`git diff-tree --no-commit-id --name-only -r ${commitSha}`)
     .toString()
@@ -41,7 +32,7 @@ async function sendImagesToWebhook(commitSha, webhookClient) {
   for (const file of imageFiles) {
     const fileName = path.basename(file);
     const filePath = path.resolve(file);
-    const messageContent = `> ${formatName(filePath)}`;
+    const messageContent = `> ${formatName(filePath, dir)}`;
 
     const payload = {
       content: messageContent,

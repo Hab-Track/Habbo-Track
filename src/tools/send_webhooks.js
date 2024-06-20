@@ -1,6 +1,7 @@
 const { WebhookClient } = require('discord.js');
 const sendCommitEmbed = require('./utils/new_commit');
 const sendImagesToWebhook = require('./utils/send_images');
+const argv = require('minimist')(process.argv.slice(2))
 
 const webhookUrl = process.env.WEBHOOK_URL;
 
@@ -15,8 +16,18 @@ const webhookClient = new WebhookClient({ url: webhookUrl });
 const commitSha = process.argv[2] || 'HEAD';
 
 async function runTasks() {
+    let dir;
+    const d = argv.dir;
+
+    if (d) {
+        dir = d[0];
+    }
+    else {
+        throw new Error('No directory specified. Please specify a directory with the --dir flag.');
+    }
+
     await sendCommitEmbed(commitSha, webhookClient);
-    await sendImagesToWebhook(commitSha, webhookClient);
+    await sendImagesToWebhook(commitSha, webhookClient, dir);
 }
 
 runTasks();
