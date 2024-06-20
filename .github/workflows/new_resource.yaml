@@ -1,4 +1,4 @@
-name: Send webhooks on new push
+name: New push in resource
 
 on:
   push:
