@@ -1,4 +1,4 @@
-name: Download Habbo Files
+name: Download Origins Files
 
 env:
   FILE_PATH: src/habbo/index.js
