@@ -13,7 +13,10 @@ if (!webhookUrl) {
 const webhookClient = new WebhookClient({ url: webhookUrl });
 
 // Get the commit SHA from the command line arguments, default to 'HEAD'
-const commitSha = process.argv[2] || 'HEAD';
+let commitSha = 'HEAD';
+if (process.argv[2] !== '--dir') {
+    commitSha = process.argv[2]
+}
 
 async function runTasks() {
     let dir;
