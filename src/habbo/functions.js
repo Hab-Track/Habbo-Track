@@ -42,10 +42,13 @@ function fetchRaw(src) {
   return fetchh(src, opt)
     .then((response) => {
       if (!response.ok) {
-        console.error(`Status ${response.status} for ${src}`);
+        throw new Error(`Status ${response.status} for ${src}`);
       }
       return response;
     })
+    .catch((err) => {
+      console.error(err);
+    });
 }
 
 async function fetchText(src) {
