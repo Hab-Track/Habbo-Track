@@ -1,4 +1,4 @@
-const { fetchMany, fetchJson, config } = require('../functions')
+const { fetchMany, fetchJson, config } = require('../../functions')
 
 async function parse (json) {
   const all = [

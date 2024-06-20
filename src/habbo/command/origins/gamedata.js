@@ -17,5 +17,3 @@ async function handle () {
 }
 
 module.exports = handle
-
-PRODUCTION-202406121416-664643360

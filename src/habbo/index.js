@@ -4,7 +4,6 @@ const argv = require('minimist')(process.argv.slice(2))
 const { initConfig } = require('./functions')
 
 async function main () {
-  try {
     await initConfig(argv)
 
     const command = argv.c || argv.command
@@ -15,13 +14,7 @@ async function main () {
     } else {
       await require(`./command/${command}`)()
     }
-  } catch (err) {
-    if (err.code === 'MODULE_NOT_FOUND') {
-      console.error('command not found')
-    } else {
-      console.error(err)
-    }
-  }
+
 }
 
 main()

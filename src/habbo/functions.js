@@ -105,10 +105,9 @@ async function parseXml(txt) {
 
 
 async function initConfig(argv) {
-  const c = argv.c || argv.command
   const o = argv.o || argv.output
 
-  if (o) config.output = o[0]
+  if (o) config.output = o
 
   config.prod = (await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)).match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
 }
