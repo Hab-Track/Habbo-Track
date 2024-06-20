@@ -7,8 +7,15 @@ function isImage(file) {
 }
 
 function formatName(filePath) {
-  const resourceIndex = filePath.indexOf('resource');
-  const pathAfterResource = resourceIndex !== -1 ? filePath.substring(resourceIndex + 'resource'.length + 1) : filePath;
+  if (filePath.includes('resource')) {
+    let resourceIndex = filePath.indexOf('resource');
+    let pathAfterResource = resourceIndex !== -1 ? filePath.substring(resourceIndex + 'resource'.length + 1) : filePath;
+  }
+  else if (filePath.includes('origins')) {
+    let imagesIndex = filePath.indexOf('origins');
+    let pathAfterResource = imagesIndex !== -1 ? filePath.substring(imagesIndex + 'origins'.length + 1) : filePath;
+  }
+  
   return pathAfterResource.substring(0, pathAfterResource.lastIndexOf('.')) || pathAfterResource;
 }
 
