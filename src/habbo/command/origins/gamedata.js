@@ -14,7 +14,7 @@ async function handle () {
       { src: `https://origins.habbo.${d}/gamedata/productdata_json/0`, dst: `gamedata/${d}/productdata.json` },
       { src: `https://origins.habbo.${d}/gamedata/productdata_xml/0`, dst: `gamedata/${d}/productdata.xml` },
       { src: `https://origins.habbo.${d}/gamedata/productdata/0`, dst: `gamedata/${d}/productdata.txt` },
-      { src: `https://origins.habbo.${d}/gamedata/figuredata/0`, dst: `gamedata/${d}/figuredata.xml` }
+      { src: `https://origins.habbo.${d}/gamedata/figuredata/0`, dst: `gamedata/${d}/figuredata.txt` }
     ], true)
   })
 }
