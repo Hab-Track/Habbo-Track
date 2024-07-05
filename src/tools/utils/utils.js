@@ -1,6 +1,5 @@
 const { config } = require('../../habbo/functions')
 const { execSync } = require('child_process');
-const path = require('path')
 
 const domains = config.output.includes('resource') ? [
     'com.br', 'com.tr', 'com','de', 'es', 'fi','fr', 'it', 'nl'] : ['com.br', 'com', 'es']
