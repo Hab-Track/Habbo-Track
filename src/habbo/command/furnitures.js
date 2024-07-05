@@ -18,16 +18,34 @@ async function parse (json) {
   return new Set(map)
 }
 
-async function handle () {
-  const json = await fetchJson(`https://www.habbo.${config.domain}/gamedata/furnidata_json/0`)
-  const all = await parse(json)
+async function collectJson () {
+  const domain = [
+    'com.br', 'com.tr', 'com',
+    'de', 'es', 'fi',
+    'fr', 'it', 'nl'
+  ]
 
-  await fetchMany([...all].map((item) => {
-    return {
-      src: `https://images.habbo.com/dcr/hof_furni/${item.revision}/${item.name}`,
-      dst: `furnis/${item.name}`
-    }
-  }))
+  const all = await Promise.allSettled(
+    domain.map((d) => fetchJson(`https://www.habbo.${d}/gamedata/furnidata_json/0`).then((json) => ({ domain: d, json }))))
+
+    return all
+      .filter(result => result.status === 'fulfilled')
+      .map(result => result.value)
+}
+
+async function handle () {
+  const allJsons = await collectJson()
+
+  for (const { domain: d, json } of allJsons) {
+    const all = await parse(json)
+
+    await fetchMany([...all].map((item) => {
+      return {
+        src: `https://images.habbo.com/dcr/hof_furni/${item.revision}/${item.name}`,
+        dst: `furnis/${d}/${item.name}`
+      }
+    }))
+  }
 }
 
 module.exports = handle
