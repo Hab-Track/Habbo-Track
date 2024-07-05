@@ -1,24 +1,13 @@
 const { EmbedBuilder } = require('discord.js');
-const { execSync } = require('child_process');
-
-function getCommitDetails(commitSha) {
-    const commitDetails = execSync(`git show -s --format="%H;%an;%s" ${commitSha}`).toString().trim();
-    const [sha, authorName, subject] = commitDetails.split(';');
-    return { sha, authorName, subject };
-}
-
-async function getUserAvatar() {
-    // return "https://avatars.githubusercontent.com/u/160228172"; // Avatar on github
-    return "https://i.imgur.com/lSCFcFQ.gif" // Animated avatar
-}
+const { getCommitDetails, getBranchName, getUserAvatar } = require('./utils')
 
 async function sendCommitEmbed(commitSha, webhookClient) {
     const { sha, authorName, subject } = getCommitDetails(commitSha);
     const commitUrl = `https://github.com/Hab-Track/Habbo-Track/commit/${sha}`;
     const repoUrl = `https://github.com/Hab-Track/Habbo-Track`;
 
-    const branchName = execSync('git rev-parse --abbrev-ref HEAD').toString().trim();
-    const avatarUrl = await getUserAvatar();
+    const branchName = getBranchName();
+    const avatarUrl = getUserAvatar();
 
     const embed = new EmbedBuilder()
         .setAuthor({ name: authorName, iconURL: avatarUrl })

@@ -30,7 +30,7 @@ async function runTasks() {
     }
 
     await sendCommitEmbed(commitSha, webhookClient);
-    await sendImagesToWebhook(commitSha, webhookClient, dir);
+    await sendImagesToWebhook(commitSha, webhookClient);
 }
 
 runTasks();

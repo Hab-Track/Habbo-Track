@@ -1,4 +1,5 @@
 const { fetchMany, fetchJson, config } = require('../functions')
+const { domains } = require('../../tools/utils/utils')
 
 async function parse (json) {
   const all = [
@@ -19,14 +20,8 @@ async function parse (json) {
 }
 
 async function collectJson () {
-  const domain = [
-    'com.br', 'com.tr', 'com',
-    'de', 'es', 'fi',
-    'fr', 'it', 'nl'
-  ]
-
   const all = await Promise.allSettled(
-    domain.map((d) => fetchJson(`https://www.habbo.${d}/gamedata/furnidata_json/0`).then((json) => ({ domain: d, json }))))
+    domains.map((d) => fetchJson(`https://www.habbo.${d}/gamedata/furnidata_json/0`).then((json) => ({ domain: d, json }))))
 
   return all
     .filter(result => result.status === 'fulfilled')

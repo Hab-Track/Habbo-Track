@@ -1,13 +1,8 @@
 const { fetchMany, config } = require('../functions')
+const { domains } = require('../../tools/utils/utils')
 
 async function handle () {
-  const domain = [
-    'com.br', 'com.tr', 'com',
-    'de', 'es', 'fi',
-    'fr', 'it', 'nl'
-  ]
-
-  domain.forEach((d) => {
+  domains.forEach((d) => {
     fetchMany([
       { src: `https://www.habbo.${d}/gamedata/external_variables/0`, dst: `gamedata/${d}/external_variables.txt` },
       { src: `https://www.habbo.${d}/gamedata/external_flash_texts/0`, dst: `gamedata/${d}/external_flash_texts.txt` },
