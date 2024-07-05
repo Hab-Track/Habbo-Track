@@ -28,9 +28,9 @@ async function collectJson () {
   const all = await Promise.allSettled(
     domain.map((d) => fetchJson(`https://www.habbo.${d}/gamedata/furnidata_json/0`).then((json) => ({ domain: d, json }))))
 
-    return all
-      .filter(result => result.status === 'fulfilled')
-      .map(result => result.value)
+  return all
+    .filter(result => result.status === 'fulfilled')
+    .map(result => result.value)
 }
 
 async function handle () {
