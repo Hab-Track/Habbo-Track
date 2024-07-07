@@ -1,23 +1,9 @@
 const path = require('path');
-const { execSync } = require('child_process');
+const { isImage, formatName, getLastCommitFiles } = require('../../habbo/functions')
 
-function isImage(file) {
-  const imageExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.svg'];
-  return imageExtensions.includes(path.extname(file).toLowerCase());
-}
-
-function formatName(filePath, dir) {
-  let resourceIndex = filePath.indexOf(dir);
-  let pathAfterResource = resourceIndex !== -1 ? filePath.substring(resourceIndex + dir.length + 1) : filePath;
-  return pathAfterResource.substring(0, pathAfterResource.lastIndexOf('.')) || pathAfterResource;
-}
-
-async function sendImagesToWebhook(commitSha, webhookClient, dir) {
+async function sendImagesToWebhook(commitSha, webhookClient) {
   // Get the list of modified files in the specified commit
-  const lastCommitFiles = execSync(`git diff-tree --no-commit-id --name-only -r ${commitSha}`)
-    .toString()
-    .trim()
-    .split('\n');
+  const lastCommitFiles = getLastCommitFiles(commitSha)
 
   console.log('Modified files in the commit:', lastCommitFiles);
 
@@ -32,7 +18,7 @@ async function sendImagesToWebhook(commitSha, webhookClient, dir) {
   for (const file of imageFiles) {
     const fileName = path.basename(file);
     const filePath = path.resolve(file);
-    const messageContent = `> ${formatName(filePath, dir)}`;
+    const messageContent = formatName(filePath);
 
     const payload = {
       content: messageContent,
