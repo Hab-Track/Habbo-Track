@@ -28,7 +28,7 @@ function getCommitDetails(commitSha) {
   }
   
   function formatName(filePath) {
-    // examples: "> Badge (com.br): 14XR1" and "> Clothing: acc_chest_anubisbackpack"
+    // examples: "> Badge (com.br): 14XR1" and "> Clothe: acc_chest_anubisbackpack"
     const domains = [
       'com.br', 'com.tr', 'com',
       'de', 'es', 'fi',
