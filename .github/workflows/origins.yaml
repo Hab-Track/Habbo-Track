@@ -29,6 +29,9 @@ jobs:
       - name: Download Badges
         run: node $FILE_PATH -c badges -o origins --origins
 
+      - name: Download Badges
+        run: node $FILE_PATH -c furnitures -o origins --origins
+
       # Commit
       - uses: EndBug/add-and-commit@v9
         with:
