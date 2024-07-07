@@ -1,5 +1,5 @@
 const path = require('path');
-const { isImage, formatName, getLastCommitFiles } = require('../../habbo/functions')
+const { isImage, formatName, getLastCommitFiles } = require('../../tools/utils/utils')
 
 async function sendImagesToWebhook(commitSha, webhookClient) {
   // Get the list of modified files in the specified commit

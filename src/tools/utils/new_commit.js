@@ -1,5 +1,5 @@
 const { EmbedBuilder } = require('discord.js');
-const { getCommitDetails, getUserAvatar, getBranchName } = require('../../habbo/functions')
+const { getCommitDetails, getUserAvatar, getBranchName } = require('../../tools/utils/utils')
 
 async function sendCommitEmbed(commitSha, webhookClient) {
     const { sha, authorName, subject } = getCommitDetails(commitSha);
