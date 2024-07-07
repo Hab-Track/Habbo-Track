@@ -28,17 +28,25 @@ function getCommitDetails(commitSha) {
   }
   
   function formatName(filePath) {
-    // examples: "> (com.br) 14XR1.png" and "> acc_chest_anubisbackpack.png"
+    // examples: "> (com.br) New badge: 14XR1" and "> New clothing: acc_chest_anubisbackpack"
     const domains = [
       'com.br', 'com.tr', 'com',
       'de', 'es', 'fi',
       'fr', 'it', 'nl'
     ]
+
+    const types = {
+      badges: 'Badge',
+      clothes: 'Clothe',
+      effects: 'Effect',
+      furnis: 'Furni'
+    }
   
     const parts = filePath.includes('/') ? filePath.split('/') : filePath.split('\\')
     const domain = domains.filter((d) => parts.includes(d)).pop()
-    const name = path.basename(filePath)
-    return domain ? `> (${domain}) ${name}` : `> ${name}`
+    const type = types[Object.keys(types).filter((type) => parts.includes(type)).pop()]
+    const name = path.basename(filePath).substring(0, path.basename(filePath).lastIndexOf('.'))
+    return domain ? `> ${type} (${domain}): ${name}` : `> ${type}: ${name}` 
   }
 
   module.exports = { getCommitDetails, getBranchName, getUserAvatar, getLastCommitFiles, isImage, formatName }
