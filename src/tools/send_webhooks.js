@@ -4,7 +4,8 @@ const sendImagesToWebhook = require('./utils/send_images');
 const sendVars = require('./utils/send_vars');
 const argv = require('minimist')(process.argv.slice(2))
 
-const webhookUrl = process.env.WEBHOOK_URL;
+const webhook_img = process.env.WEBHOOK_URL;
+const webhook_txt = process.env.WEBHOOK_URL_TXT;
 
 if (!webhookUrl) {
     console.error('Webhook URL is not set. Please set it in your workflow secrets.');
@@ -30,9 +31,9 @@ async function runTasks() {
         throw new Error('No directory specified. Please specify a directory with the --dir flag.');
     }
 
-    await sendCommitEmbed(commitSha, webhookClient);
-    await sendVars(commitSha, webhookClient);
-    await sendImagesToWebhook(commitSha, webhookClient);
+    await sendCommitEmbed(commitSha, webhook_txt);
+    await sendVars(commitSha, webhook_txt);
+    await sendImagesToWebhook(commitSha, webhook_img);
 }
 
 runTasks();
