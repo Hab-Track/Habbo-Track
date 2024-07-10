@@ -17,8 +17,8 @@ if (!webhook_img || !webhook_txt) {
     process.exit(1);
 }
 
-const webhookClient_img = new WebhookClient({ url: webhookUrl });
-const webhookClient_txt = new WebhookClient({ url: webhookUrl });
+const webhookClient_img = new WebhookClient({ url: webhook_img });
+const webhookClient_txt = new WebhookClient({ url: webhook_txt });
 
 // Get the commit SHA from the command line arguments, default to 'HEAD'
 let commitSha = 'HEAD';
