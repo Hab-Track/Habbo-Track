@@ -7,12 +7,18 @@ const argv = require('minimist')(process.argv.slice(2))
 const webhook_img = process.env.WEBHOOK_IMG;
 const webhook_txt = process.env.WEBHOOK_TXT;
 
-if (!webhookUrl) {
-    console.error('Webhook URL is not set. Please set it in your workflow secrets.');
+if (!webhook_img || !webhook_txt) {
+    const missing = [];
+    if (!webhook_img) missing.push('WEBHOOK_IMG');
+    if (!webhook_txt) missing.push('WEBHOOK_TXT');
+    console.error(
+        `${missing.join(' and ')} ${missing.length > 1 ? 'are' : 'is'} not set. Please set ${missing.length > 1 ? 'them' : 'it'} in your workflow secrets.`
+    );
     process.exit(1);
 }
 
-const webhookClient = new WebhookClient({ url: webhookUrl });
+const webhookClient_img = new WebhookClient({ url: webhookUrl });
+const webhookClient_txt = new WebhookClient({ url: webhookUrl });
 
 // Get the commit SHA from the command line arguments, default to 'HEAD'
 let commitSha = 'HEAD';
@@ -31,9 +37,9 @@ async function runTasks() {
         throw new Error('No directory specified. Please specify a directory with the --dir flag.');
     }
 
-    await sendCommitEmbed(commitSha, webhook_txt);
-    await sendVars(commitSha, webhook_txt);
-    await sendImagesToWebhook(commitSha, webhook_img);
+    await sendCommitEmbed(commitSha, webhookClient_txt);
+    await sendVars(commitSha, webhookClient_txt);
+    await sendImagesToWebhook(commitSha, webhookClient_img);
 }
 
 runTasks();
