@@ -34,5 +34,6 @@ jobs:
       
       - name: Run script to send webhooks
         env:
-          WEBHOOK_URL: ${{ secrets.ORIGINS_URL }}
+          WEBHOOK_IMG: ${{ secrets.ORIGINS_IMG }}
+          WEBHOOK_TXT: ${{ secrets.ORIGINS_TXT }}
         run: node src/tools/send_webhooks.js ${{ github.event.inputs.commit }} --dir origins

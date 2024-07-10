@@ -4,8 +4,8 @@ const sendImagesToWebhook = require('./utils/send_images');
 const sendVars = require('./utils/send_vars');
 const argv = require('minimist')(process.argv.slice(2))
 
-const webhook_img = process.env.WEBHOOK_URL;
-const webhook_txt = process.env.WEBHOOK_URL_TXT;
+const webhook_img = process.env.WEBHOOK_IMG;
+const webhook_txt = process.env.WEBHOOK_TXT;
 
 if (!webhookUrl) {
     console.error('Webhook URL is not set. Please set it in your workflow secrets.');

@@ -34,5 +34,6 @@ jobs:
       
       - name: Run script to send webhooks
         env:
-          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          WEBHOOK_IMG: ${{ secrets.HABBO_IMG }}
+          WEBHOOK_TXT: ${{ secrets.HABBO_TXT }}
         run: node src/tools/send_webhooks.js ${{ github.event.inputs.commit }} --dir resource
