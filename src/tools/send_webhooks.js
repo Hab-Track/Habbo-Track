@@ -1,6 +1,7 @@
 const { WebhookClient } = require('discord.js');
 const sendCommitEmbed = require('./utils/new_commit');
 const sendImagesToWebhook = require('./utils/send_images');
+const sendVars = require('./utils/send_vars');
 const argv = require('minimist')(process.argv.slice(2))
 
 const webhookUrl = process.env.WEBHOOK_URL;
@@ -30,6 +31,7 @@ async function runTasks() {
     }
 
     await sendCommitEmbed(commitSha, webhookClient);
+    await sendVars(commitSha, webhookClient);
     await sendImagesToWebhook(commitSha, webhookClient);
 }
 
