@@ -38,8 +38,8 @@ async function runTasks() {
     }
 
     await sendCommitEmbed(commitSha, webhookClient_txt);
-    await sendVars(commitSha, webhookClient_txt);
     await sendImagesToWebhook(commitSha, webhookClient_img);
+    await sendVars(commitSha, webhookClient_txt);
 }
 
 runTasks();
