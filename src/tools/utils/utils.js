@@ -46,8 +46,8 @@ function getCommitDetails(commitSha) {
     const parts = filePath.includes('/') ? filePath.split('/') : filePath.split('\\')
     const domain = domains.filter((d) => parts.includes(d)).pop()
     const type = types[Object.keys(types).filter((type) => parts.includes(type)).pop()]
-    const name = type === 'Vars' ? path.basename(filePath) : path.basename(filePath).substring(0, path.basename(filePath).lastIndexOf('.'))
-    return domain ? `> ${type} (${domain}): ${name}` : `> ${type}: ${name}` 
+    const name = path.basename(filePath).substring(0, path.basename(filePath).lastIndexOf('.'))
+    return domain ? `> ${type} (${domain}): ${name}` : type === 'Vars' ? `> ${name}` : `> ${type}: ${name}` 
   }
 
   function getCommitLines(commitSha) {
