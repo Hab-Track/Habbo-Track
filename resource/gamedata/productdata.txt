@@ -30685,6 +30685,66 @@
     "circus_r24_daggerperformance desc"
   ],
   [
+    "cl_bratzboots_bd",
+    "Bratz boots",
+    ""
+  ],
+  [
+    "cl_bratzchloeface_bd",
+    "Bratz Cloe’s Face",
+    ""
+  ],
+  [
+    "cl_bratzchloeheadba_bd",
+    "Bratz Cloe’s Headband",
+    ""
+  ],
+  [
+    "cl_bratzheels_bd",
+    "Bratz heels",
+    ""
+  ],
+  [
+    "cl_bratzjadebeanie_bd",
+    "Bratz Jade’s Beanie",
+    ""
+  ],
+  [
+    "cl_bratzjadeface_bd",
+    "Bratz Jade’s Face",
+    ""
+  ],
+  [
+    "cl_bratzsashabeanie_bd",
+    "Bratz Sasha’s Beanie",
+    ""
+  ],
+  [
+    "cl_bratzsashaface_bd",
+    "Bratz Sasha’s Face",
+    ""
+  ],
+  [
+    "cl_bratzsashahair_bd",
+    "Bratz Sasha’s Hair",
+    ""
+  ],
+  [
+    "cl_bratzyasminface_bd",
+    "Bratz Yasmin’s Face",
+    ""
+  ],
+  [
+    "cl_bratzyasminhair_bd",
+    "Bratz Yasmin’s Hair",
+    ""
+  ],
+  [
+    "cl_bratzyasminheads_bd",
+    "Bratz Yasmin’s Headscarf",
+    ""
+  ],
+  [
     "cl_footballboppers_bd",
     "Football Boppers",
     ""
@@ -32171,72 +32231,82 @@
   ],
   [
     "clothing_bratzboots",
-    "clothing_bratzboots name",
+    "Bratz boots",
     "clothing_bratzboots desc"
   ],
   [
     "clothing_bratzchloeface",
-    "clothing_bratzchloeface name",
+    "Bratz Cloe’s Face",
     "clothing_bratzchloeface desc"
   ],
   [
+    "clothing_bratzchloeh_bd",
+    "Bratz Cloe’s hair",
+    ""
+  ],
+  [
     "clothing_bratzchloehair",
-    "clothing_bratzchloehair name",
+    "Bratz Cloe’s hair",
     "clothing_bratzchloehair desc"
   ],
   [
     "clothing_bratzchloeheadband",
-    "clothing_bratzchloeheadband name",
+    "Bratz Cloe’s Headband",
     "clothing_bratzchloeheadband desc"
   ],
   [
     "clothing_bratzheels",
-    "clothing_bratzheels name",
+    "Bratz heels",
     "clothing_bratzheels desc"
   ],
   [
     "clothing_bratzjadebeanie",
-    "clothing_bratzjadebeanie name",
+    "Bratz Jade’s Beanie",
     "clothing_bratzjadebeanie desc"
   ],
   [
     "clothing_bratzjadeface",
-    "clothing_bratzjadeface name",
+    "Bratz Jade’s Face",
     "clothing_bratzjadeface desc"
   ],
   [
+    "clothing_bratzjadehair_bd",
+    "Bratz Jade’s Hair",
+    ""
+  ],
+  [
     "clothing_bratzjadehair",
-    "clothing_bratzjadehair name",
+    "Bratz Jade’s Hair",
     "clothing_bratzjadehair desc"
   ],
   [
     "clothing_bratzsashabeanie",
-    "clothing_bratzsashabeanie name",
+    "Bratz Sasha’s Beanie",
     "clothing_bratzsashabeanie desc"
   ],
   [
     "clothing_bratzsashaface",
-    "clothing_bratzsashaface name",
+    "Bratz Sasha’s Face",
     "clothing_bratzsashaface desc"
   ],
   [
     "clothing_bratzsashahair",
-    "clothing_bratzsashahair name",
+    "Bratz Sasha’s Hair",
     "clothing_bratzsashahair desc"
   ],
   [
     "clothing_bratzyasminface",
-    "clothing_bratzyasminface name",
+    "Bratz Yasmin’s Face",
     "clothing_bratzyasminface desc"
   ],
   [
     "clothing_bratzyasminhair",
-    "clothing_bratzyasminhair name",
+    "Bratz Yasmin’s Hair",
     "clothing_bratzyasminhair desc"
   ],
   [
     "clothing_bratzyasminscarf",
-    "clothing_bratzyasminscarf name",
+    "Bratz Yasmin’s Headscarf",
     "clothing_bratzyasminscarf desc"
   ],
   [
@@ -34387,7 +34457,7 @@
   [
     "clothing_mercuryoutfit",
     "Frontman Outfit",
-    ""
+    "clothing_mercuryoutfit desc"
   ],
   [
     "clothing_mermaid_badge",
@@ -39592,7 +39662,7 @@
   [
     "clothing_winnerwinner",
     "Champion Medals",
-    ""
+    "clothing_winnerwinner desc"
   ],
   [
     "clothing_wintercatbean_bd",
@@ -74273,6 +74343,21 @@
     "nft_diamond_dragon",
     "nft_diamond_dragon name",
     "nft_diamond_dragon desc"
+  ],
+  [
+    "nft_diamond_painting32",
+    "nft_diamond_painting32 name",
+    "nft_diamond_painting32 desc"
+  ],
+  [
+    "nft_diamond_painting34",
+    "nft_diamond_painting34 name",
+    "nft_diamond_painting34 desc"
+  ],
+  [
+    "nft_diamond_painting38",
+    "nft_diamond_painting38 name",
+    "nft_diamond_painting38 desc"
   ],
   [
     "nft_diamond_painting67",

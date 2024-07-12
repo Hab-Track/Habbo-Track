@@ -30687,6 +30687,66 @@
         "description": "circus_r24_daggerperformance desc"
       },
       {
+        "code": "cl_bratzboots_bd",
+        "name": "Bratz boots",
+        "description": ""
+      },
+      {
+        "code": "cl_bratzchloeface_bd",
+        "name": "Bratz Cloe’s Face",
+        "description": ""
+      },
+      {
+        "code": "cl_bratzchloeheadba_bd",
+        "name": "Bratz Cloe’s Headband",
+        "description": ""
+      },
+      {
+        "code": "cl_bratzheels_bd",
+        "name": "Bratz heels",
+        "description": ""
+      },
+      {
+        "code": "cl_bratzjadebeanie_bd",
+        "name": "Bratz Jade’s Beanie",
+        "description": ""
+      },
+      {
+        "code": "cl_bratzjadeface_bd",
+        "name": "Bratz Jade’s Face",
+        "description": ""
+      },
+      {
+        "code": "cl_bratzsashabeanie_bd",
+        "name": "Bratz Sasha’s Beanie",
+        "description": ""
+      },
+      {
+        "code": "cl_bratzsashaface_bd",
+        "name": "Bratz Sasha’s Face",
+        "description": ""
+      },
+      {
+        "code": "cl_bratzsashahair_bd",
+        "name": "Bratz Sasha’s Hair",
+        "description": ""
+      },
+      {
+        "code": "cl_bratzyasminface_bd",
+        "name": "Bratz Yasmin’s Face",
+        "description": ""
+      },
+      {
+        "code": "cl_bratzyasminhair_bd",
+        "name": "Bratz Yasmin’s Hair",
+        "description": ""
+      },
+      {
+        "code": "cl_bratzyasminheads_bd",
+        "name": "Bratz Yasmin’s Headscarf",
+        "description": ""
+      },
+      {
         "code": "cl_footballboppers_bd",
         "name": "Football Boppers",
         "description": ""
@@ -32173,72 +32233,82 @@
       },
       {
         "code": "clothing_bratzboots",
-        "name": "clothing_bratzboots name",
+        "name": "Bratz boots",
         "description": "clothing_bratzboots desc"
       },
       {
         "code": "clothing_bratzchloeface",
-        "name": "clothing_bratzchloeface name",
+        "name": "Bratz Cloe’s Face",
         "description": "clothing_bratzchloeface desc"
       },
       {
+        "code": "clothing_bratzchloeh_bd",
+        "name": "Bratz Cloe’s hair",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzchloehair",
-        "name": "clothing_bratzchloehair name",
+        "name": "Bratz Cloe’s hair",
         "description": "clothing_bratzchloehair desc"
       },
       {
         "code": "clothing_bratzchloeheadband",
-        "name": "clothing_bratzchloeheadband name",
+        "name": "Bratz Cloe’s Headband",
         "description": "clothing_bratzchloeheadband desc"
       },
       {
         "code": "clothing_bratzheels",
-        "name": "clothing_bratzheels name",
+        "name": "Bratz heels",
         "description": "clothing_bratzheels desc"
       },
       {
         "code": "clothing_bratzjadebeanie",
-        "name": "clothing_bratzjadebeanie name",
+        "name": "Bratz Jade’s Beanie",
         "description": "clothing_bratzjadebeanie desc"
       },
       {
         "code": "clothing_bratzjadeface",
-        "name": "clothing_bratzjadeface name",
+        "name": "Bratz Jade’s Face",
         "description": "clothing_bratzjadeface desc"
       },
       {
+        "code": "clothing_bratzjadehair_bd",
+        "name": "Bratz Jade’s Hair",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzjadehair",
-        "name": "clothing_bratzjadehair name",
+        "name": "Bratz Jade’s Hair",
         "description": "clothing_bratzjadehair desc"
       },
       {
         "code": "clothing_bratzsashabeanie",
-        "name": "clothing_bratzsashabeanie name",
+        "name": "Bratz Sasha’s Beanie",
         "description": "clothing_bratzsashabeanie desc"
       },
       {
         "code": "clothing_bratzsashaface",
-        "name": "clothing_bratzsashaface name",
+        "name": "Bratz Sasha’s Face",
         "description": "clothing_bratzsashaface desc"
       },
       {
         "code": "clothing_bratzsashahair",
-        "name": "clothing_bratzsashahair name",
+        "name": "Bratz Sasha’s Hair",
         "description": "clothing_bratzsashahair desc"
       },
       {
         "code": "clothing_bratzyasminface",
-        "name": "clothing_bratzyasminface name",
+        "name": "Bratz Yasmin’s Face",
         "description": "clothing_bratzyasminface desc"
       },
       {
         "code": "clothing_bratzyasminhair",
-        "name": "clothing_bratzyasminhair name",
+        "name": "Bratz Yasmin’s Hair",
         "description": "clothing_bratzyasminhair desc"
       },
       {
         "code": "clothing_bratzyasminscarf",
-        "name": "clothing_bratzyasminscarf name",
+        "name": "Bratz Yasmin’s Headscarf",
         "description": "clothing_bratzyasminscarf desc"
       },
       {
@@ -34389,7 +34459,7 @@
       {
         "code": "clothing_mercuryoutfit",
         "name": "Frontman Outfit",
-        "description": ""
+        "description": "clothing_mercuryoutfit desc"
       },
       {
         "code": "clothing_mermaid_badge",
@@ -39594,7 +39664,7 @@
       {
         "code": "clothing_winnerwinner",
         "name": "Champion Medals",
-        "description": ""
+        "description": "clothing_winnerwinner desc"
       },
       {
         "code": "clothing_wintercatbean_bd",
@@ -74275,6 +74345,21 @@
         "code": "nft_diamond_dragon",
         "name": "nft_diamond_dragon name",
         "description": "nft_diamond_dragon desc"
+      },
+      {
+        "code": "nft_diamond_painting32",
+        "name": "nft_diamond_painting32 name",
+        "description": "nft_diamond_painting32 desc"
+      },
+      {
+        "code": "nft_diamond_painting34",
+        "name": "nft_diamond_painting34 name",
+        "description": "nft_diamond_painting34 desc"
+      },
+      {
+        "code": "nft_diamond_painting38",
+        "name": "nft_diamond_painting38 name",
+        "description": "nft_diamond_painting38 desc"
       },
       {
         "code": "nft_diamond_painting67",
