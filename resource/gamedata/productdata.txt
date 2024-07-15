@@ -30560,6 +30560,11 @@
     "circus_c24_hanginglights desc"
   ],
   [
+    "circus_c24_hoophand",
+    "circus_c24_hoophand name",
+    "circus_c24_hoophand desc"
+  ],
+  [
     "circus_c24_litstage",
     "circus_c24_litstage name",
     "circus_c24_litstage desc"
@@ -34877,7 +34882,7 @@
   [
     "clothing_nftchiton",
     "Classic Greek Chiton",
-    ""
+    "clothing_nftchiton desc"
   ],
   [
     "clothing_nftchocolatepin",
@@ -35007,12 +35012,12 @@
   [
     "clothing_nftframeless1",
     "Circular Frameless Specs",
-    ""
+    "clothing_nftframeless1 desc"
   ],
   [
     "clothing_nftframeless2",
     "Square Frameless Specs",
-    ""
+    "clothing_nftframeless2 desc"
   ],
   [
     "clothing_nftfroghoodie",
@@ -35032,12 +35037,12 @@
   [
     "clothing_nftgardenshoes1",
     "White Garden Shoes",
-    ""
+    "clothing_nftgardenshoes1 desc"
   ],
   [
     "clothing_nftgardenshoes2",
     "Black Garden Shoes",
-    ""
+    "clothing_nftgardenshoes2 desc"
   ],
   [
     "clothing_nftgiantbunnytail",
@@ -35072,7 +35077,7 @@
   [
     "clothing_nftgreek1",
     "Classic Greek Hairstyle",
-    ""
+    "clothing_nftgreek1 desc"
   ],
   [
     "clothing_nftgreek2",
@@ -35362,27 +35367,27 @@
   [
     "clothing_nftroundshades0",
     "Silver Sunshades",
-    ""
+    "clothing_nftroundshades0 desc"
   ],
   [
     "clothing_nftroundshades1",
     "Green Sunshades",
-    ""
+    "clothing_nftroundshades1 desc"
   ],
   [
     "clothing_nftroundshades2",
     "Blue Sunshades",
-    ""
+    "clothing_nftroundshades2 desc"
   ],
   [
     "clothing_nftroundshades3",
     "Purple Sunshades",
-    ""
+    "clothing_nftroundshades3 desc"
   ],
   [
     "clothing_nftroundshades4",
     "Yellow Sunshades",
-    ""
+    "clothing_nftroundshades4 desc"
   ],
   [
     "clothing_nftsbboosters",
@@ -35492,22 +35497,22 @@
   [
     "clothing_nftsummeranklet1",
     "Green Anklet",
-    ""
+    "clothing_nftsummeranklet1 desc"
   ],
   [
     "clothing_nftsummeranklet2",
     "Blue Anklet",
-    ""
+    "clothing_nftsummeranklet2 desc"
   ],
   [
     "clothing_nftsummeranklet3",
     "Purple Anklet",
-    ""
+    "clothing_nftsummeranklet3 desc"
   ],
   [
     "clothing_nftsummeranklet4",
     "Golden Anklet",
-    ""
+    "clothing_nftsummeranklet4 desc"
   ],
   [
     "clothing_nftsummercap1",
@@ -35542,72 +35547,72 @@
   [
     "clothing_nftsummercurly24",
     "Wavy Summer Hair",
-    ""
+    "clothing_nftsummercurly24 desc"
   ],
   [
     "clothing_nftsummercut24",
     "Summer Quiff",
-    ""
+    "clothing_nftsummercut24 desc"
   ],
   [
     "clothing_nftsummerflower1",
     "Green Pinned Flower",
-    ""
+    "clothing_nftsummerflower1 desc"
   ],
   [
     "clothing_nftsummerflower2",
     "Blue Pinned Flower",
-    ""
+    "clothing_nftsummerflower2 desc"
   ],
   [
     "clothing_nftsummerflower3",
     "Red Pinned Flower",
-    ""
+    "clothing_nftsummerflower3 desc"
   ],
   [
     "clothing_nftsummerflower4",
     "Yellow Pinned Flower",
-    ""
+    "clothing_nftsummerflower4 desc"
   ],
   [
     "clothing_nftsummershirt1",
     "Green Open Shirt",
-    ""
+    "clothing_nftsummershirt1 desc"
   ],
   [
     "clothing_nftsummershirt2",
     "Blue Open Shirt",
-    ""
+    "clothing_nftsummershirt2 desc"
   ],
   [
     "clothing_nftsummershirt3",
     "Purple Open Shirt",
-    ""
+    "clothing_nftsummershirt3 desc"
   ],
   [
     "clothing_nftsummershirt4",
     "Golden Open Shirt",
-    ""
+    "clothing_nftsummershirt4 desc"
   ],
   [
     "clothing_nftsummertop1",
     "Green Summer Top",
-    ""
+    "clothing_nftsummertop1 desc"
   ],
   [
     "clothing_nftsummertop2",
     "Blue Summer Top",
-    ""
+    "clothing_nftsummertop2 desc"
   ],
   [
     "clothing_nftsummertop3",
     "Purple Summer Top",
-    ""
+    "clothing_nftsummertop3 desc"
   ],
   [
     "clothing_nftsummertop4",
     "Golden Summer Top",
-    ""
+    "clothing_nftsummertop4 desc"
   ],
   [
     "clothing_nftsunflowerdress",
@@ -35632,7 +35637,7 @@
   [
     "clothing_nfttoga",
     "Classic Greek Toga",
-    ""
+    "clothing_nfttoga desc"
   ],
   [
     "clothing_nfttophat",
@@ -76097,7 +76102,7 @@
   [
     "nft_h24_beachtowel",
     "Beach Lounging Gear",
-    ""
+    "nft_h24_beachtowel desc"
   ],
   [
     "nft_h24_cb_22materials",
@@ -76152,72 +76157,72 @@
   [
     "nft_h24_cefalu_ampfora",
     "Cefalu Amphora",
-    ""
+    "nft_h24_cefalu_ampfora desc"
   ],
   [
     "nft_h24_cefalu_birdies",
     "Visiting Birds",
-    ""
+    "nft_h24_cefalu_birdies desc"
   ],
   [
     "nft_h24_cefalu_duckpool",
     "Cefalu Water Feature",
-    ""
+    "nft_h24_cefalu_duckpool desc"
   ],
   [
     "nft_h24_cefalu_floor",
     "Cefalu Floor",
-    ""
+    "nft_h24_cefalu_floor desc"
   ],
   [
     "nft_h24_cefalu_gardenchair",
     "Cefalu Garden Chair",
-    ""
+    "nft_h24_cefalu_gardenchair desc"
   ],
   [
     "nft_h24_cefalu_gardentable",
     "Cefalu Garden Table",
-    ""
+    "nft_h24_cefalu_gardentable desc"
   ],
   [
     "nft_h24_cefalu_gate",
     "Cefalu Gate",
-    ""
+    "nft_h24_cefalu_gate desc"
   ],
   [
     "nft_h24_cefalu_greenhouse",
     "Cefalu Greenhouse",
-    ""
+    "nft_h24_cefalu_greenhouse desc"
   ],
   [
     "nft_h24_cefalu_pillar",
     "Cefalu Pillar",
-    ""
+    "nft_h24_cefalu_pillar desc"
   ],
   [
     "nft_h24_cefalu_pot1",
     "Small Cefalu Potted Plant",
-    ""
+    "nft_h24_cefalu_pot1 desc"
   ],
   [
     "nft_h24_cefalu_pot2",
     "Cefalu Pots",
-    ""
+    "nft_h24_cefalu_pot2 desc"
   ],
   [
     "nft_h24_cefalu_pot3",
     "Large Cefalu Pot",
-    ""
+    "nft_h24_cefalu_pot3 desc"
   ],
   [
     "nft_h24_cefalu_pothead",
     "Large Cefalu Potted Plant",
-    ""
+    "nft_h24_cefalu_pothead desc"
   ],
   [
     "nft_h24_cefalu_wall",
     "Cefalu Wall",
-    ""
+    "nft_h24_cefalu_wall desc"
   ],
   [
     "nft_h24_eiffel",
@@ -76228,6 +76233,11 @@
     "nft_h24_globe_cabinet",
     "Collector’s Drinks Cabinet",
     "nft_h24_globe_cabinet desc"
+  ],
+  [
+    "nft_h24_godfrank",
+    "nft_h24_godfrank name",
+    "nft_h24_godfrank desc"
   ],
   [
     "nft_h24_graffiti1",
@@ -76282,27 +76292,27 @@
   [
     "nft_h24_luggage1",
     "Teal Suitcase",
-    ""
+    "nft_h24_luggage1 desc"
   ],
   [
     "nft_h24_luggage2",
     "Green Suitcase",
-    ""
+    "nft_h24_luggage2 desc"
   ],
   [
     "nft_h24_luggage3",
     "Blue Suitcase",
-    ""
+    "nft_h24_luggage3 desc"
   ],
   [
     "nft_h24_luggage4",
     "Purple Suitcase",
-    ""
+    "nft_h24_luggage4 desc"
   ],
   [
     "nft_h24_luggage5",
     "Golden Suitcase",
-    ""
+    "nft_h24_luggage5 desc"
   ],
   [
     "nft_h24_moai",
@@ -76342,12 +76352,12 @@
   [
     "nft_h24_robotik_fan",
     "Robotik Powered Fan",
-    ""
+    "nft_h24_robotik_fan desc"
   ],
   [
     "nft_h24_robotik_icm",
     "Robotik Ice Cream Machine",
-    ""
+    "nft_h24_robotik_icm desc"
   ],
   [
     "nft_h24_shinythunderbunny",
@@ -76922,22 +76932,22 @@
   [
     "nft_u24_plastoadvert",
     "Plasto Advert",
-    ""
+    "nft_u24_plastoadvert desc"
   ],
   [
     "nft_u24_plastoblueprint",
     "Plasto Blueprint",
-    ""
+    "nft_u24_plastoblueprint desc"
   ],
   [
     "nft_u24_plastocrate",
     "Miniature Plasto Crate",
-    ""
+    "nft_u24_plastocrate desc"
   ],
   [
     "nft_u24_plastomemorial",
     "Plasto Memorial",
-    ""
+    "nft_u24_plastomemorial desc"
   ],
   [
     "nft_xmas_r23_cakethrone2",
