@@ -9,12 +9,16 @@ async function main () {
     const command = argv.c || argv.command
     const isOrigins = argv.u || argv.origins
 
-    if (isOrigins) {
-      await require(`./command/origins/${command}`)()
-    } else {
-      await require(`./command/${command}`)()
-    }
-
+    try {
+      if (isOrigins) {
+        await require(`./command/origins/${command}`)()
+      } else {
+        await require(`./command/${command}`)()
+      }
+  } catch(err) {
+      console.error(err)
+      throw err
+  }
 }
 
 main()
