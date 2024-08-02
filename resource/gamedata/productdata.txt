@@ -30491,7 +30491,7 @@
   ],
   [
     "circus_c24_canontele",
-    "Circus Cannon",
+    "Circus Canon",
     "circus_c24_canontele desc"
   ],
   [
@@ -30595,6 +30595,11 @@
     "circus_c24_masterponyact desc"
   ],
   [
+    "circus_c24_masterpupact",
+    "Master Show Puppy",
+    ""
+  ],
+  [
     "circus_c24_masterpuppyact",
     "circus_c24_masterpuppyact name",
     "circus_c24_masterpuppyact desc"
@@ -30685,14 +30690,29 @@
     "circus_ltd24_pheonixfire desc"
   ],
   [
+    "circus_ltd24_phfire_bd",
+    "Blazing Phoenix",
+    ""
+  ],
+  [
     "circus_r24_clownmirror",
     "circus_r24_clownmirror name",
     "circus_r24_clownmirror desc"
   ],
   [
+    "circus_r24_daggerperf_bd",
+    "Dagger Performance",
+    ""
+  ],
+  [
     "circus_r24_daggerperformance",
     "circus_r24_daggerperformance name",
     "circus_r24_daggerperformance desc"
+  ],
+  [
+    "circus_r24_mirror_bd",
+    "True Reflection",
+    ""
   ],
   [
     "cl_bratzboots_bd",
@@ -31931,7 +31951,7 @@
   ],
   [
     "clothing_balloonpigtails",
-    "clothing_balloonpigtails name",
+    "Balloon Pigtails",
     "clothing_balloonpigtails desc"
   ],
   [
@@ -32051,7 +32071,7 @@
   ],
   [
     "clothing_bigdrum",
-    "clothing_bigdrum name",
+    "Large Drum",
     "clothing_bigdrum desc"
   ],
   [
@@ -32621,7 +32641,7 @@
   ],
   [
     "clothing_clownface",
-    "clothing_clownface name",
+    "Clown Makeup",
     "clothing_clownface desc"
   ],
   [
@@ -33321,7 +33341,7 @@
   ],
   [
     "clothing_featheroutfit",
-    "clothing_featheroutfit name",
+    "Feathered Performance Outfit",
     "clothing_featheroutfit desc"
   ],
   [
@@ -33760,6 +33780,11 @@
     "Show happiness!"
   ],
   [
+    "clothing_happysadmask_bd",
+    "Emotional Masks",
+    ""
+  ],
+  [
     "clothing_happysadmask",
     "clothing_happysadmask name",
     "clothing_happysadmask desc"
@@ -33851,7 +33876,7 @@
   ],
   [
     "clothing_heartmakeup",
-    "clothing_heartmakeup name",
+    "Heart Makeup",
     "clothing_heartmakeup desc"
   ],
   [
@@ -34372,6 +34397,11 @@
   [
     "clothing_ltd24_ethhair_bd",
     "Ethereal Hair",
+    ""
+  ],
+  [
+    "clothing_ltd24_ladyb_bd",
+    "Bearded Lady Attire",
     ""
   ],
   [
@@ -35150,6 +35180,11 @@
     "clothing_nfticecreambag3 desc"
   ],
   [
+    "clothing_nftjestermask",
+    "Jester Mask",
+    ""
+  ],
+  [
     "clothing_nftjuicebox1",
     "Wearable Orange Juice",
     "clothing_nftjuicebox1 desc"
@@ -35298,6 +35333,11 @@
     "clothing_nftpinkswimshorts",
     "Pink Swim Shorts",
     "clothing_nftpinkswimshorts desc"
+  ],
+  [
+    "clothing_nftpompomcardigan",
+    "Pom Pom Cardigan",
+    ""
   ],
   [
     "clothing_nftpossesseddoll",
@@ -35498,6 +35538,11 @@
     "clothing_nftstreetgirl",
     "Egirl Hair",
     "clothing_nftstreetgirl desc"
+  ],
+  [
+    "clothing_nftstripedtrousers",
+    "Striped Trousers",
+    ""
   ],
   [
     "clothing_nftsummeranklet1",
@@ -36496,7 +36541,7 @@
   ],
   [
     "clothing_popcornbox",
-    "clothing_popcornbox name",
+    "Popcorn Box",
     "clothing_popcornbox desc"
   ],
   [
@@ -38610,6 +38655,11 @@
     "clothing_r24_koalaharness desc"
   ],
   [
+    "clothing_r24_magichat_bd",
+    "Magician’s Hat",
+    ""
+  ],
+  [
     "clothing_r24_magicianshat",
     "clothing_r24_magicianshat name",
     "clothing_r24_magicianshat desc"
@@ -38622,6 +38672,11 @@
   [
     "clothing_r24_pufjacket_bd",
     "Large Puffer Jacket",
+    ""
+  ],
+  [
+    "clothing_r24_python_bd",
+    "Cuddly Python",
     ""
   ],
   [
@@ -76245,6 +76300,56 @@
     "nft_h24_cefalu_wall desc"
   ],
   [
+    "nft_h24_circusarrowbutton",
+    "Circus Arrow Button",
+    ""
+  ],
+  [
+    "nft_h24_circusarrowtile",
+    "Arrow Tile",
+    ""
+  ],
+  [
+    "nft_h24_circusbutton",
+    "Circus Button",
+    ""
+  ],
+  [
+    "nft_h24_circuscolortile",
+    "Colour Tile",
+    ""
+  ],
+  [
+    "nft_h24_circusletters",
+    "Marquee Letters",
+    ""
+  ],
+  [
+    "nft_h24_circusmeter",
+    "Circus Meter",
+    ""
+  ],
+  [
+    "nft_h24_circusspiketile",
+    "Spike Tile",
+    ""
+  ],
+  [
+    "nft_h24_circusswitch",
+    "Circus Switch",
+    ""
+  ],
+  [
+    "nft_h24_clownstandin1",
+    "Short Clown Standee",
+    ""
+  ],
+  [
+    "nft_h24_clownstandin2",
+    "Tall Clown Standee",
+    ""
+  ],
+  [
     "nft_h24_eiffel",
     "Maude’s Mini Eiffel Tower",
     "nft_h24_eiffel desc"
@@ -76855,6 +76960,11 @@
     "nft_rare_colourable_wooden_screen_3 desc"
   ],
   [
+    "nft_sc24_floatingduck",
+    "Duck Balloon",
+    ""
+  ],
+  [
     "nft_sc24_goldfishfountain",
     "Hotel Goldfish Fountain",
     "nft_sc24_goldfishfountain desc"
@@ -76903,6 +77013,11 @@
     "nft_sc24_hoteltr",
     "Miniature Habbo Turkey",
     "nft_sc24_hoteltr desc"
+  ],
+  [
+    "nft_sc24_nelly",
+    "Nelly Plushie",
+    ""
   ],
   [
     "nft_u23_hweenduck1",
