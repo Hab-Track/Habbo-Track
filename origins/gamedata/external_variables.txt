@@ -42,7 +42,8 @@ paalu.key.list=[#bal1:"Q", #bal2:"E", #push1:"A", #push2:"D", #move1:"N", #move2
 pass.length.max=32
 permitted.name.chars=1234567890qwertyuiopasdfghjklzxcvbnm-=?!@:.,
 purse.transactions.active=1
-room.cast.10=hh_pets
+room.cast.10=hh_cat_gfx_all
+room.cast.11=hh_pets
 room.cast.1=hh_people_small_1
 room.cast.2=hh_people_small_2
 room.cast.3=hh_furni_items
@@ -50,14 +51,14 @@ room.cast.4=hh_furni_small
 room.cast.5=hh_furni_armas
 room.cast.6=hh_furni_drken
 room.cast.7=hh_furni_special
-room.cast.8=hh_cat_code
-room.cast.9=hh_cat_gfx_all
+room.cast.8=hh_furni_funky
+room.cast.9=hh_cat_code
 room.cast.private=["hh_room_private"]
 room.cast.small.1=hh_furni_items_50
 room.cast.small.2=hh_furni_armas_50
 room.cast.small.3=hh_furni_drken_50
 room.cast.small.4=hh_furni_special_50
-room.cast.small.5=hh_pets_50
+room.cast.small.5=hh_furni_funky_50
 room.default.floor=111
 room.default.wall=201
 stats.tracking.url=http://server-fi.imrworldwide.com/cgi-bin/count?url=TCODE&cid=fi_habbohotel_0
