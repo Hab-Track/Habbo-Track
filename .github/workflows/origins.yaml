@@ -29,7 +29,7 @@ jobs:
       - name: Download Badges
         run: node $FILE_PATH -c badges -o origins --origins
 
-      - name: Download Badges
+      - name: Download Furnitures
         run: node $FILE_PATH -c furnitures -o origins --origins
 
       # Commit
