@@ -48,7 +48,7 @@ function fetchRaw(src) {
       return response;
     })
     .catch((err) => {
-      throw err;
+      console.error(err.message);
     });
 }
 
@@ -141,7 +141,7 @@ async function fetchOne(src, dst, replace = false) {
 async function fetchMany(all, replace = false) {
   await Promise.allSettled(
     all.map((v) => fetchOne(v.src, v.dst, replace)
-      .catch((err) => console.error(err.message))
+      .catch((err) => console.error(err))
     )
   )
 }
