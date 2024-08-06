@@ -13162,6 +13162,11 @@
         "description": ""
       },
       {
+        "code": "aug_prize1",
+        "name": "Crafting Prize",
+        "description": ""
+      },
+      {
         "code": "august14_wagon_internal",
         "name": "Frontier Train Internal",
         "description": ""
@@ -87648,6 +87653,16 @@
       },
       {
         "code": "rm_dbl_tto227",
+        "name": "50 per cent Off 50 Credits",
+        "description": "Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person"
+      },
+      {
+        "code": "rm_dbl_tto228",
+        "name": "50 per cent Off 220 Credits",
+        "description": "Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person"
+      },
+      {
+        "code": "rm_dbl_tto229",
         "name": "50 per cent Off 50 Credits",
         "description": "Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person"
       },
