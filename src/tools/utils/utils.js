@@ -76,7 +76,7 @@ function generateDiscordDiffMessages(commitSha) {
               message = '```diff'
           }
 
-          if (line.startsWith('+ ') || line.startsWith('- ')) {
+          if ((line.startsWith('+') || line.startsWith('-')) && !(line.startsWith('+++') || line.startsWith('---'))) {
             if (message.length + line.length >= characterLimit) {
                 message += '\n```';
                 fileToMessagesMap.get(currentFile).push(message);
