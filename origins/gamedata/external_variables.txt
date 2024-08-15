@@ -71,6 +71,6 @@ struct.font.tooltip =[#font:"v", #fontSize:9,#lineHeight:10,#color:rgb("#000000"
 swimjump.key.list=[#run1:"A", #run2:"D", #dive1:"W", #dive2:"E", #dive3:"A", #dive4:"S", #dive5:"D", #dive6:"Z", #dive7:"X", #jump:"SPACE"]
 url.prefix=origins.habbo.com
 
-external.texts.txt=https://www.habbo.com/gamedata/external_texts/9150b9689c78b0ccb62edf402e7148448fec014e
-external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/1e8c8f4fbe9f0bf84406086a84456a5d69f2025e
-external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/9150b9689c78b0ccb62edf402e7148448fec014e
+external.texts.txt=https://www.habbo.com/gamedata/external_texts/6be1b1d2d5156c930a676044b622dd66d2123804
+external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/5496a49125af39dc39454777732b7cafa93927ad
+external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/6be1b1d2d5156c930a676044b622dd66d2123804
