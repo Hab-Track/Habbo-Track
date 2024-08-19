@@ -3,6 +3,14 @@
 const argv = require('minimist')(process.argv.slice(2))
 const { initConfig } = require('./functions')
 
+process.exit = (o => code => {
+    console.warn(`process.exit(${code}) was called, but intercepted`);
+    console.trace()
+    // Handle the exit code or decide to continue
+    // Optionally call the original process.exit if needed
+    // o(code);
+})(process.exit);
+
 async function main () {
     await initConfig(argv)
 
@@ -16,9 +24,10 @@ async function main () {
         await require(`./command/${command}`)()
       }
   } catch(err) {
+      console.error("huehuebr")
       console.error(err)
   }
-    process.exit(0)
+  process.exitCode = 0
 }
 
 main()
