@@ -6323,8 +6323,8 @@
     "Yellow Amber Lamp",
     "No bees were harmed during the production.",
     "",
-    "-1",
-    "false",
+    "400",
+    "true",
     "-1",
     "false",
     "",
@@ -6333,7 +6333,7 @@
     "0",
     "0",
     "0",
-    "false"
+    "true"
   ],
   [
     "s",
@@ -8195,8 +8195,8 @@
     "Red Laser Door",
     "Energy beams. No trespassers!",
     "",
-    "477",
-    "true",
+    "-1",
+    "false",
     "-1",
     "false",
     "",
@@ -8205,7 +8205,7 @@
     "1",
     "0",
     "0",
-    "true"
+    "false"
   ],
   [
     "s",
