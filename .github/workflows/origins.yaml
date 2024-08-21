@@ -20,7 +20,9 @@ jobs:
         with:
           node-version: 20
       - name: Install dependencies
-        run: npm i
+        run: |
+          npm i
+          node src/tools/preventUncaughtExceptionBigLog.mjs
 
       # Download assets
       - name: Download Gamedata Files
