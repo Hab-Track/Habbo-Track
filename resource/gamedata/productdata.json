@@ -2949,7 +2949,7 @@
       {
         "code": "CF_750_goldentoast",
         "name": "Golden Toast",
-        "description": ""
+        "description": "CF_750_goldentoast desc"
       },
       {
         "code": "CF_750_goldking",
@@ -31882,6 +31882,11 @@
         "description": ""
       },
       {
+        "code": "clothing_acousticguitar",
+        "name": "clothing_acousticguitar name",
+        "description": "clothing_acousticguitar desc"
+      },
+      {
         "code": "clothing_aftvhat",
         "name": "AFTV Logo Snapback",
         "description": "clothing_aftvhat desc"
@@ -32075,6 +32080,11 @@
         "code": "clothing_beard1",
         "name": "King Beard",
         "description": "Designer ready-to-wear"
+      },
+      {
+        "code": "clothing_beardday",
+        "name": "clothing_beardday name",
+        "description": "clothing_beardday desc"
       },
       {
         "code": "clothing_bearhat",
@@ -32617,6 +32627,11 @@
         "description": "No animals were harmed in the making of Habbo Couture: Jurassic."
       },
       {
+        "code": "clothing_charmnecklace",
+        "name": "clothing_charmnecklace name",
+        "description": "clothing_charmnecklace desc"
+      },
+      {
         "code": "clothing_cheekbandage",
         "name": "Cheek Bandage",
         "description": "clothing_cheekbandage desc"
@@ -32695,6 +32710,11 @@
         "code": "clothing_cladyshoes",
         "name": "Christmas Shoes",
         "description": "Habbo Couture: Christmas 2015"
+      },
+      {
+        "code": "clothing_classicsombrero",
+        "name": "clothing_classicsombrero name",
+        "description": "clothing_classicsombrero desc"
       },
       {
         "code": "clothing_clownface",
@@ -33467,6 +33487,11 @@
         "description": "clothing_floralbag desc"
       },
       {
+        "code": "clothing_floralguitar",
+        "name": "clothing_floralguitar name",
+        "description": "clothing_floralguitar desc"
+      },
+      {
         "code": "clothing_floraloutfit",
         "name": "Flower Power Outfit",
         "description": "All you need is love."
@@ -33510,6 +33535,11 @@
         "code": "clothing_fluffybuckethat",
         "name": "Borg Bucket Hat",
         "description": "clothing_fluffybuckethat desc"
+      },
+      {
+        "code": "clothing_fluffyearrings",
+        "name": "clothing_fluffyearrings name",
+        "description": "clothing_fluffyearrings desc"
       },
       {
         "code": "clothing_fluffyhat",
@@ -34492,6 +34522,11 @@
         "description": "Knot for the faint-hearted."
       },
       {
+        "code": "clothing_mariachioutfit",
+        "name": "clothing_mariachioutfit name",
+        "description": "clothing_mariachioutfit desc"
+      },
+      {
         "code": "clothing_marianabomerch",
         "name": "Mariana Bo Outfit",
         "description": "clothing_marianabomerch desc"
@@ -34715,6 +34750,11 @@
         "code": "clothing_mushroomhat",
         "name": "Mushroom Hat",
         "description": "clothing_mushroomhat desc"
+      },
+      {
+        "code": "clothing_mustache",
+        "name": "clothing_mustache name",
+        "description": "clothing_mustache desc"
       },
       {
         "code": "clothing_mutton1",
@@ -36625,6 +36665,11 @@
         "code": "clothing_pridehoodie",
         "name": "Pride Stripe Hoodie",
         "description": "clothing_pridehoodie desc"
+      },
+      {
+        "code": "clothing_prizedguitar",
+        "name": "clothing_prizedguitar name",
+        "description": "clothing_prizedguitar desc"
       },
       {
         "code": "clothing_puffyvest",
@@ -38642,6 +38687,11 @@
         "description": "clothing_r23_wingheadaccessory desc"
       },
       {
+        "code": "clothing_r24_beautifulbraid",
+        "name": "clothing_r24_beautifulbraid name",
+        "description": "clothing_r24_beautifulbraid desc"
+      },
+      {
         "code": "clothing_r24_bunnyplus_bd",
         "name": "Comfort Bunny Plush",
         "description": "clothing_r24_bunnyplushie desc"
@@ -38770,6 +38820,11 @@
         "code": "clothing_r24_scenehair",
         "name": "Scene Hair",
         "description": "clothing_r24_scenehair desc"
+      },
+      {
+        "code": "clothing_r24_sombrerose",
+        "name": "clothing_r24_sombrerose name",
+        "description": "clothing_r24_sombrerose desc"
       },
       {
         "code": "clothing_r24_steampkha_bd",
@@ -38952,6 +39007,11 @@
         "description": "clothing_rosehat desc"
       },
       {
+        "code": "clothing_roseinmouth",
+        "name": "clothing_roseinmouth name",
+        "description": "clothing_roseinmouth desc"
+      },
+      {
         "code": "clothing_rudolphhat",
         "name": "Rudolph Beanie",
         "description": "clothing_rudolphhat desc"
@@ -39130,6 +39190,11 @@
         "code": "clothing_silly",
         "name": "Silly Emoji",
         "description": "Don't be silly!"
+      },
+      {
+        "code": "clothing_skullguitar",
+        "name": "clothing_skullguitar name",
+        "description": "clothing_skullguitar desc"
       },
       {
         "code": "clothing_skullhairclip",
@@ -39522,6 +39587,11 @@
         "description": "clothing_toxicfacehugger desc"
       },
       {
+        "code": "clothing_traditionaldress",
+        "name": "clothing_traditionaldress name",
+        "description": "clothing_traditionaldress desc"
+      },
+      {
         "code": "clothing_trash",
         "name": "Distressed Trash Tank",
         "description": "clothing_trash desc"
@@ -39715,6 +39785,11 @@
         "code": "clothing_urbanoutfit",
         "name": "Skater Outfit",
         "description": "Skater for life."
+      },
+      {
+        "code": "clothing_vibrantguitar",
+        "name": "clothing_vibrantguitar name",
+        "description": "clothing_vibrantguitar desc"
       },
       {
         "code": "clothing_vintagejacket",
@@ -71490,6 +71565,116 @@
         "code": "messy_c21_wonkywallitems",
         "name": "Crooked Wall Hangings",
         "description": "messy_c21_wonkywallitems desc"
+      },
+      {
+        "code": "mexico_c24_archway",
+        "name": "mexico_c24_archway name",
+        "description": "mexico_c24_archway desc"
+      },
+      {
+        "code": "mexico_c24_cobbledstreet",
+        "name": "mexico_c24_cobbledstreet name",
+        "description": "mexico_c24_cobbledstreet desc"
+      },
+      {
+        "code": "mexico_c24_deluxepinata",
+        "name": "mexico_c24_deluxepinata name",
+        "description": "mexico_c24_deluxepinata desc"
+      },
+      {
+        "code": "mexico_c24_deluxepinatab",
+        "name": "mexico_c24_deluxepinatab name",
+        "description": "mexico_c24_deluxepinatab desc"
+      },
+      {
+        "code": "mexico_c24_doll11",
+        "name": "mexico_c24_doll11 name",
+        "description": "mexico_c24_doll11 desc"
+      },
+      {
+        "code": "mexico_c24_festivedrinks",
+        "name": "mexico_c24_festivedrinks name",
+        "description": "mexico_c24_festivedrinks desc"
+      },
+      {
+        "code": "mexico_c24_festiveflags",
+        "name": "mexico_c24_festiveflags name",
+        "description": "mexico_c24_festiveflags desc"
+      },
+      {
+        "code": "mexico_c24_meatballskewers",
+        "name": "mexico_c24_meatballskewers name",
+        "description": "mexico_c24_meatballskewers desc"
+      },
+      {
+        "code": "mexico_c24_minipumpkins",
+        "name": "mexico_c24_minipumpkins name",
+        "description": "mexico_c24_minipumpkins desc"
+      },
+      {
+        "code": "mexico_c24_oaxacan",
+        "name": "mexico_c24_oaxacan name",
+        "description": "mexico_c24_oaxacan desc"
+      },
+      {
+        "code": "mexico_c24_paintedchair",
+        "name": "mexico_c24_paintedchair name",
+        "description": "mexico_c24_paintedchair desc"
+      },
+      {
+        "code": "mexico_c24_partytable",
+        "name": "mexico_c24_partytable name",
+        "description": "mexico_c24_partytable desc"
+      },
+      {
+        "code": "mexico_c24_pinata",
+        "name": "mexico_c24_pinata name",
+        "description": "mexico_c24_pinata desc"
+      },
+      {
+        "code": "mexico_c24_pinatab",
+        "name": "mexico_c24_pinatab name",
+        "description": "mexico_c24_pinatab desc"
+      },
+      {
+        "code": "mexico_c24_pricklyplant",
+        "name": "mexico_c24_pricklyplant name",
+        "description": "mexico_c24_pricklyplant desc"
+      },
+      {
+        "code": "mexico_c24_tabledecorations",
+        "name": "mexico_c24_tabledecorations name",
+        "description": "mexico_c24_tabledecorations desc"
+      },
+      {
+        "code": "mexico_c24_tacoplate",
+        "name": "mexico_c24_tacoplate name",
+        "description": "mexico_c24_tacoplate desc"
+      },
+      {
+        "code": "mexico_c24_wall1",
+        "name": "mexico_c24_wall1 name",
+        "description": "mexico_c24_wall1 desc"
+      },
+      {
+        "code": "mexico_c24_wall2",
+        "name": "mexico_c24_wall2 name",
+        "description": "mexico_c24_wall2 desc"
+      },
+      {
+        "code": "mexico_c24_wall3",
+        "name": "mexico_c24_wall3 name",
+        "description": "mexico_c24_wall3 desc"
+      },
+      {
+        "code": "mexico_r24_goodboy",
+        "name": "mexico_r24_goodboy name",
+        "description": "mexico_r24_goodboy desc"
+      },
+      {
+        "code": "mexico_r24_tacotruck",
+        "name": "mexico_r24_tacotruck name",
+        "description": "mexico_r24_tacotruck desc"
       },
       {
         "code": "milkbowl",
