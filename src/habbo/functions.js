@@ -54,6 +54,10 @@ function fetchRaw(src) {
 
 async function fetchText(src) {
   const res = await fetchRaw(src)
+  if (!res) {
+    throw new Error(`Failed to fetch ${src}`)
+  }
+
   return await res.text()
 }
 
