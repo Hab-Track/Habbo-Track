@@ -37,7 +37,7 @@ jobs:
       # Commit
       - uses: EndBug/add-and-commit@v9
         with:
-          pull: '' # should pull before push
+          pull: '--rebase' # should pull before push
           message: New changes detected for Origins
           default_author: user_info
           author_name: Hab Track
