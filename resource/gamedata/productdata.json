@@ -34918,8 +34918,13 @@
       },
       {
         "code": "clothing_nftberryshades",
-        "name": "clothing_nftberryshades name",
+        "name": "Berry Shades",
         "description": "clothing_nftberryshades desc"
+      },
+      {
+        "code": "clothing_nftbiglollipop",
+        "name": "Bonus Lollipop",
+        "description": ""
       },
       {
         "code": "clothing_nftblackbeanie",
@@ -34988,7 +34993,7 @@
       },
       {
         "code": "clothing_nftbonusshades",
-        "name": "clothing_nftbonusshades name",
+        "name": "Bonus Shades",
         "description": "clothing_nftbonusshades desc"
       },
       {
@@ -35588,7 +35593,7 @@
       },
       {
         "code": "clothing_nftsnowboard",
-        "name": "clothing_nftsnowboard name",
+        "name": "Snowboard",
         "description": "clothing_nftsnowboard desc"
       },
       {
@@ -35647,6 +35652,11 @@
         "description": "clothing_nftstripedtrousers desc"
       },
       {
+        "code": "clothing_nftsuitcase",
+        "name": "Cash-stuffed Suitcase",
+        "description": ""
+      },
+      {
         "code": "clothing_nftsummeranklet1",
         "name": "Green Anklet",
         "description": "clothing_nftsummeranklet1 desc"
@@ -35668,7 +35678,7 @@
       },
       {
         "code": "clothing_nftsummerbird",
-        "name": "clothing_nftsummerbird name",
+        "name": "Friendly Little Bird",
         "description": "clothing_nftsummerbird desc"
       },
       {
@@ -76487,8 +76497,13 @@
         "description": ""
       },
       {
+        "code": "nft_h24_cb_haf",
+        "name": "Piccolo Action Figure",
+        "description": ""
+      },
+      {
         "code": "nft_h24_cb_hhistory",
-        "name": "nft_h24_cb_hhistory name",
+        "name": "Donnie Santini Action Figure",
         "description": "nft_h24_cb_hhistory desc"
       },
       {
@@ -76638,7 +76653,7 @@
       },
       {
         "code": "nft_h24_godfrank",
-        "name": "nft_h24_godfrank name",
+        "name": "God of Hospitality",
         "description": "nft_h24_godfrank desc"
       },
       {
