@@ -31881,7 +31881,7 @@
   ],
   [
     "clothing_acousticguitar",
-    "clothing_acousticguitar name",
+    "Acoustic Guitar",
     "clothing_acousticguitar desc"
   ],
   [
@@ -32081,7 +32081,7 @@
   ],
   [
     "clothing_beardday",
-    "clothing_beardday name",
+    "Artistic Beard",
     "clothing_beardday desc"
   ],
   [
@@ -32541,7 +32541,7 @@
   ],
   [
     "clothing_candlehat",
-    "Candle Hat",
+    "RM Offer Candle",
     "clothing_candlehat desc"
   ],
   [
@@ -32626,7 +32626,7 @@
   ],
   [
     "clothing_charmnecklace",
-    "clothing_charmnecklace name",
+    "Painted Charm Necklace",
     "clothing_charmnecklace desc"
   ],
   [
@@ -32711,7 +32711,7 @@
   ],
   [
     "clothing_classicsombrero",
-    "clothing_classicsombrero name",
+    "Big Sombrero",
     "clothing_classicsombrero desc"
   ],
   [
@@ -33486,7 +33486,7 @@
   ],
   [
     "clothing_floralguitar",
-    "clothing_floralguitar name",
+    "Floral Guitar",
     "clothing_floralguitar desc"
   ],
   [
@@ -33536,7 +33536,7 @@
   ],
   [
     "clothing_fluffyearrings",
-    "clothing_fluffyearrings name",
+    "Fluffy Earrings",
     "clothing_fluffyearrings desc"
   ],
   [
@@ -34521,7 +34521,7 @@
   ],
   [
     "clothing_mariachioutfit",
-    "clothing_mariachioutfit name",
+    "Mariachi Outfit",
     "clothing_mariachioutfit desc"
   ],
   [
@@ -34751,7 +34751,7 @@
   ],
   [
     "clothing_mustache",
-    "clothing_mustache name",
+    "Classy Moustache",
     "clothing_mustache desc"
   ],
   [
@@ -35005,6 +35005,11 @@
     "clothing_nftbrighteyes desc"
   ],
   [
+    "clothing_nftbroccolicut",
+    "Vigorous Broccoli Cut",
+    ""
+  ],
+  [
     "clothing_nftcakehat",
     "Cake Hat",
     "clothing_nftcakehat desc"
@@ -35018,6 +35023,21 @@
     "clothing_nftcandycane",
     "Huge Candy Cane",
     "clothing_nftcandycane desc"
+  ],
+  [
+    "clothing_nftchili1",
+    "Mirasol Chilli",
+    ""
+  ],
+  [
+    "clothing_nftchili2",
+    "Jalapeno Pepper",
+    ""
+  ],
+  [
+    "clothing_nftchili3",
+    "Sweet Banana Chilli",
+    ""
   ],
   [
     "clothing_nftchiton",
@@ -35048,6 +35068,11 @@
     "clothing_nftcurlers",
     "Hair Rollers",
     "clothing_nftcurlers desc"
+  ],
+  [
+    "clothing_nftcurlybun",
+    "Wrapped Up Curly Bun",
+    ""
   ],
   [
     "clothing_nftdinohoodie",
@@ -35345,6 +35370,11 @@
     "clothing_nftmechapack desc"
   ],
   [
+    "clothing_nftnacho",
+    "Nacho Guzzler",
+    ""
+  ],
+  [
     "clothing_nftorigamihat1",
     "2nd Anniversary Yellow Boat Hat",
     "clothing_nftorigamihat1 desc"
@@ -35573,6 +35603,11 @@
     "clothing_nftshortdreads",
     "Shortened Dreads",
     "clothing_nftshortdreads desc"
+  ],
+  [
+    "clothing_nftskullpendant",
+    "Mystic Skull Pendant",
+    ""
   ],
   [
     "clothing_nftskullsnroses1",
@@ -36676,7 +36711,7 @@
   ],
   [
     "clothing_prizedguitar",
-    "clothing_prizedguitar name",
+    "Day of the Dead Guitar",
     "clothing_prizedguitar desc"
   ],
   [
@@ -38696,7 +38731,7 @@
   ],
   [
     "clothing_r24_beautifulbraid",
-    "clothing_r24_beautifulbraid name",
+    "Floral Braid",
     "clothing_r24_beautifulbraid desc"
   ],
   [
@@ -38831,7 +38866,7 @@
   ],
   [
     "clothing_r24_sombrerose",
-    "clothing_r24_sombrerose name",
+    "Rosy Sombrero",
     "clothing_r24_sombrerose desc"
   ],
   [
@@ -39016,7 +39051,7 @@
   ],
   [
     "clothing_roseinmouth",
-    "clothing_roseinmouth name",
+    "Rose in Mouth",
     "clothing_roseinmouth desc"
   ],
   [
@@ -39206,7 +39241,7 @@
   ],
   [
     "clothing_skullguitar",
-    "clothing_skullguitar name",
+    "Skull Guitar",
     "clothing_skullguitar desc"
   ],
   [
@@ -39601,7 +39636,7 @@
   ],
   [
     "clothing_traditionaldress",
-    "clothing_traditionaldress name",
+    "Mexican Traditional Dress",
     "clothing_traditionaldress desc"
   ],
   [
@@ -39801,7 +39836,7 @@
   ],
   [
     "clothing_vibrantguitar",
-    "clothing_vibrantguitar name",
+    "Vibrant Guitar",
     "clothing_vibrantguitar desc"
   ],
   [
@@ -71581,22 +71616,22 @@
   ],
   [
     "mexico_c24_archway",
-    "mexico_c24_archway name",
+    "Mexican Archway",
     "mexico_c24_archway desc"
   ],
   [
     "mexico_c24_cobbledstreet",
-    "mexico_c24_cobbledstreet name",
+    "Cobblestone Street",
     "mexico_c24_cobbledstreet desc"
   ],
   [
     "mexico_c24_deluxepinata",
-    "mexico_c24_deluxepinata name",
+    "Deluxe Piñata",
     "mexico_c24_deluxepinata desc"
   ],
   [
     "mexico_c24_deluxepinatab",
-    "mexico_c24_deluxepinatab name",
+    "Deluxe Piñata (non-crackable)",
     "mexico_c24_deluxepinatab desc"
   ],
   [
@@ -71606,87 +71641,87 @@
   ],
   [
     "mexico_c24_festivedrinks",
-    "mexico_c24_festivedrinks name",
+    "Refreshing Festive Drinks",
     "mexico_c24_festivedrinks desc"
   ],
   [
     "mexico_c24_festiveflags",
-    "mexico_c24_festiveflags name",
+    "Festival Flag Bunting",
     "mexico_c24_festiveflags desc"
   ],
   [
     "mexico_c24_meatballskewers",
-    "mexico_c24_meatballskewers name",
+    "Meatball Skewers",
     "mexico_c24_meatballskewers desc"
   ],
   [
     "mexico_c24_minipumpkins",
-    "mexico_c24_minipumpkins name",
+    "Plate of Mini Pumpkins",
     "mexico_c24_minipumpkins desc"
   ],
   [
     "mexico_c24_oaxacan",
-    "mexico_c24_oaxacan name",
+    "Oxacan Ox Sculpture",
     "mexico_c24_oaxacan desc"
   ],
   [
     "mexico_c24_paintedchair",
-    "mexico_c24_paintedchair name",
+    "Painted Chair",
     "mexico_c24_paintedchair desc"
   ],
   [
     "mexico_c24_partytable",
-    "mexico_c24_partytable name",
+    "Celebration Table",
     "mexico_c24_partytable desc"
   ],
   [
     "mexico_c24_pinata",
-    "mexico_c24_pinata name",
+    "Standard Piñata",
     "mexico_c24_pinata desc"
   ],
   [
     "mexico_c24_pinatab",
-    "mexico_c24_pinatab name",
+    "Standard Piñata (non-crackable)",
     "mexico_c24_pinatab desc"
   ],
   [
     "mexico_c24_pricklyplant",
-    "mexico_c24_pricklyplant name",
+    "Prickly Cactus",
     "mexico_c24_pricklyplant desc"
   ],
   [
     "mexico_c24_tabledecorations",
-    "mexico_c24_tabledecorations name",
+    "Festive Table Decor",
     "mexico_c24_tabledecorations desc"
   ],
   [
     "mexico_c24_tacoplate",
-    "mexico_c24_tacoplate name",
+    "Plate of Tacos",
     "mexico_c24_tacoplate desc"
   ],
   [
     "mexico_c24_wall1",
-    "mexico_c24_wall1 name",
+    "Vibrant Mexican Facade",
     "mexico_c24_wall1 desc"
   ],
   [
     "mexico_c24_wall2",
-    "mexico_c24_wall2 name",
+    "Mellow Mexican Facade",
     "mexico_c24_wall2 desc"
   ],
   [
     "mexico_c24_wall3",
-    "mexico_c24_wall3 name",
+    "Bright Mexican Facade",
     "mexico_c24_wall3 desc"
   ],
   [
     "mexico_r24_goodboy",
-    "mexico_r24_goodboy name",
+    "Day of the Dead Dog",
     "mexico_r24_goodboy desc"
   ],
   [
     "mexico_r24_tacotruck",
-    "mexico_r24_tacotruck name",
+    "Mexican Taco Truck",
     "mexico_r24_tacotruck desc"
   ],
   [
@@ -76798,6 +76833,21 @@
     "nft_h24_showcase",
     "Collector's Showcase",
     "nft_h24_showcase desc"
+  ],
+  [
+    "nft_h24_skull1",
+    "Mystic Ornamental Skull",
+    ""
+  ],
+  [
+    "nft_h24_skull2",
+    "Chaotic Ornamental Skull",
+    ""
+  ],
+  [
+    "nft_h24_skull3",
+    "Visionary Ornamental Skull",
+    ""
   ],
   [
     "nft_h24_statueofliberty",
@@ -105296,7 +105346,7 @@
   ],
   [
     "vwave_c21_drinkshelf",
-    "Mocktails for All",
+    "Bebidas Aromatizadas 0% Nightclub",
     "vwave_c21_drinkshelf desc"
   ],
   [
