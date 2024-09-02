@@ -32082,6 +32082,11 @@
         "description": "Designer ready-to-wear"
       },
       {
+        "code": "clothing_beardday_bdy",
+        "name": "Artistic Beard",
+        "description": ""
+      },
+      {
         "code": "clothing_beardday",
         "name": "Artistic Beard",
         "description": "clothing_beardday desc"
@@ -32540,6 +32545,11 @@
         "code": "clothing_campingbackpack",
         "name": "Survival Backpack",
         "description": "clothing_campingbackpack desc"
+      },
+      {
+        "code": "clothing_candlehat_bd",
+        "name": "RM Offer Candle",
+        "description": ""
       },
       {
         "code": "clothing_candlehat",
@@ -36712,6 +36722,11 @@
         "description": "clothing_pridehoodie desc"
       },
       {
+        "code": "clothing_prizedguitar_bd",
+        "name": "Day of the Dead Guitar",
+        "description": ""
+      },
+      {
         "code": "clothing_prizedguitar",
         "name": "Day of the Dead Guitar",
         "description": "clothing_prizedguitar desc"
@@ -38732,6 +38747,11 @@
         "description": "clothing_r23_wingheadaccessory desc"
       },
       {
+        "code": "clothing_r24_bbraid_bd",
+        "name": "Floral Braid",
+        "description": ""
+      },
+      {
         "code": "clothing_r24_beautifulbraid",
         "name": "Floral Braid",
         "description": "clothing_r24_beautifulbraid desc"
@@ -38865,6 +38885,11 @@
         "code": "clothing_r24_scenehair",
         "name": "Scene Hair",
         "description": "clothing_r24_scenehair desc"
+      },
+      {
+        "code": "clothing_r24_sombrero_bd",
+        "name": "Rosy Sombrero",
+        "description": ""
       },
       {
         "code": "clothing_r24_sombrerose",
@@ -71637,6 +71662,11 @@
         "description": "mexico_c24_deluxepinatab desc"
       },
       {
+        "code": "mexico_c24_doll11_bd",
+        "name": "mexico_c24_doll11 name",
+        "description": ""
+      },
+      {
         "code": "mexico_c24_doll11",
         "name": "mexico_c24_doll11 name",
         "description": "mexico_c24_doll11 desc"
@@ -71717,9 +71747,19 @@
         "description": "mexico_c24_wall3 desc"
       },
       {
+        "code": "mexico_r24_goodboy_bd",
+        "name": "Day of the Dead Dog",
+        "description": ""
+      },
+      {
         "code": "mexico_r24_goodboy",
         "name": "Day of the Dead Dog",
         "description": "mexico_r24_goodboy desc"
+      },
+      {
+        "code": "mexico_r24_tacotruck_bd",
+        "name": "Mexican Taco Truck",
+        "description": ""
       },
       {
         "code": "mexico_r24_tacotruck",
@@ -80265,6 +80305,66 @@
         "code": "pillow_silver",
         "name": "Pillow - Silver",
         "description": "Comfort with style"
+      },
+      {
+        "code": "pinata_promo10",
+        "name": "Deluxe Piñata (non-crackable) Pack 10",
+        "description": ""
+      },
+      {
+        "code": "pinata_promo11",
+        "name": "Deluxe Piñata (non-crackable) Pack 11",
+        "description": ""
+      },
+      {
+        "code": "pinata_promo12",
+        "name": "Deluxe Piñata (non-crackable) Pack 12",
+        "description": ""
+      },
+      {
+        "code": "pinata_promo1",
+        "name": "Standard Piñata Pack 1",
+        "description": ""
+      },
+      {
+        "code": "pinata_promo2",
+        "name": "Standard Piñata Pack 2",
+        "description": ""
+      },
+      {
+        "code": "pinata_promo3",
+        "name": "Standard Piñata Pack 3",
+        "description": ""
+      },
+      {
+        "code": "pinata_promo4",
+        "name": "Standard Piñata Pack 4",
+        "description": ""
+      },
+      {
+        "code": "pinata_promo5",
+        "name": "Standard Piñata Pack 5",
+        "description": ""
+      },
+      {
+        "code": "pinata_promo6",
+        "name": "Standard Piñata Pack 6",
+        "description": ""
+      },
+      {
+        "code": "pinata_promo7",
+        "name": "Deluxe Piñata (non-crackable) Pack 7",
+        "description": ""
+      },
+      {
+        "code": "pinata_promo8",
+        "name": "Deluxe Piñata (non-crackable) Pack 8",
+        "description": ""
+      },
+      {
+        "code": "pinata_promo9",
+        "name": "Deluxe Piñata (non-crackable) Pack 9",
+        "description": ""
       },
       {
         "code": "pink diner_bardesk_corner",
@@ -105348,7 +105448,7 @@
       },
       {
         "code": "vwave_c21_drinkshelf",
-        "name": "Bebidas Aromatizadas 0% Nightclub",
+        "name": "Mocktails for All",
         "description": "vwave_c21_drinkshelf desc"
       },
       {
