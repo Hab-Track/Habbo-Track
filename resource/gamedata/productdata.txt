@@ -32040,6 +32040,11 @@
     "clothing_basicjoggers desc"
   ],
   [
+    "clothing_batboots",
+    "clothing_batboots name",
+    "clothing_batboots desc"
+  ],
+  [
     "clothing_baubleearrings2",
     "Singular Bauble Earring",
     "clothing_baubleearrings2 desc"
@@ -32218,6 +32223,16 @@
     "clothing_bloodshoes",
     "Bloodstained Shoes",
     "clothing_bloodshoes desc"
+  ],
+  [
+    "clothing_bloodypromdress",
+    "clothing_bloodypromdress name",
+    "clothing_bloodypromdress desc"
+  ],
+  [
+    "clothing_bloodypromtux",
+    "clothing_bloodypromtux name",
+    "clothing_bloodypromtux desc"
   ],
   [
     "clothing_bobba",
@@ -34145,6 +34160,11 @@
     "Classic, but comfortable."
   ],
   [
+    "clothing_jamtoastbackpack",
+    "clothing_jamtoastbackpack name",
+    "clothing_jamtoastbackpack desc"
+  ],
+  [
     "clothing_judgewig",
     "Judge's Wig",
     "clothing_judgewig desc"
@@ -34313,6 +34333,11 @@
     "clothing_leafstrap",
     "Leaf Shade",
     "clothing_leafstrap desc"
+  ],
+  [
+    "clothing_leatherbackpack",
+    "clothing_leatherbackpack name",
+    "clothing_leatherbackpack desc"
   ],
   [
     "clothing_leathergloves",
@@ -34810,6 +34835,16 @@
     "Smells a bit like garlic..."
   ],
   [
+    "clothing_neonpartyacc",
+    "clothing_neonpartyacc name",
+    "clothing_neonpartyacc desc"
+  ],
+  [
+    "clothing_neonpartyhat",
+    "clothing_neonpartyhat name",
+    "clothing_neonpartyhat desc"
+  ],
+  [
     "clothing_net",
     "Bug Net",
     "clothing_net desc"
@@ -34938,6 +34973,11 @@
     "clothing_nftblackbeanie",
     "Black Ski Beanie",
     "clothing_nftblackbeanie desc"
+  ],
+  [
+    "clothing_nftbloodycrown",
+    "clothing_nftbloodycrown name",
+    "clothing_nftbloodycrown desc"
   ],
   [
     "clothing_nftblueberrybag",
@@ -35135,6 +35175,11 @@
     "clothing_nftdragoncrown desc"
   ],
   [
+    "clothing_nftdragonwings",
+    "clothing_nftdragonwings name",
+    "clothing_nftdragonwings desc"
+  ],
+  [
     "clothing_nftdragonyearmark1",
     "Black Dragon Chest Print",
     "clothing_nftdragonyearmark1 desc"
@@ -35168,6 +35213,11 @@
     "clothing_nftdummy",
     "Ventriloquist’s Dummy Face",
     "clothing_nftdummy desc"
+  ],
+  [
+    "clothing_nfteyebow",
+    "clothing_nfteyebow name",
+    "clothing_nfteyebow desc"
   ],
   [
     "clothing_nftflamingofloat",
@@ -35383,6 +35433,11 @@
     "clothing_nftnacho",
     "Nacho Guzzler",
     "clothing_nftnacho desc"
+  ],
+  [
+    "clothing_nftneondevilmask",
+    "clothing_nftneondevilmask name",
+    "clothing_nftneondevilmask desc"
   ],
   [
     "clothing_nftorigamihat1",
@@ -38775,6 +38830,11 @@
     "clothing_r24_carnivalheadpiece desc"
   ],
   [
+    "clothing_r24_catwoman",
+    "clothing_r24_catwoman name",
+    "clothing_r24_catwoman desc"
+  ],
+  [
     "clothing_r24_doggiebag_bd",
     "Doggie Bag",
     "clothing_r24_doggiebag desc"
@@ -38803,6 +38863,11 @@
     "clothing_r24_fairywings",
     "Fae Wings",
     "clothing_r24_fairywings desc"
+  ],
+  [
+    "clothing_r24_ghostfriend",
+    "clothing_r24_ghostfriend name",
+    "clothing_r24_ghostfriend desc"
   ],
   [
     "clothing_r24_habbozila_bd",
@@ -38893,6 +38958,11 @@
     "clothing_r24_sombrerose",
     "Rosy Sombrero",
     "clothing_r24_sombrerose desc"
+  ],
+  [
+    "clothing_r24_spider",
+    "clothing_r24_spider name",
+    "clothing_r24_spider desc"
   ],
   [
     "clothing_r24_steampkha_bd",
@@ -66045,6 +66115,381 @@
     "hween_c23_walltorch desc"
   ],
   [
+    "hween_c24_balloons",
+    "hween_c24_balloons name",
+    "hween_c24_balloons desc"
+  ],
+  [
+    "hween_c24_banners",
+    "hween_c24_banners name",
+    "hween_c24_banners desc"
+  ],
+  [
+    "hween_c24_basketballfloor_patch1",
+    "hween_c24_basketballfloor_patch1 name",
+    "hween_c24_basketballfloor_patch1 desc"
+  ],
+  [
+    "hween_c24_basketballfloor_patch2",
+    "hween_c24_basketballfloor_patch2 name",
+    "hween_c24_basketballfloor_patch2 desc"
+  ],
+  [
+    "hween_c24_basketballfloor_patch3",
+    "hween_c24_basketballfloor_patch3 name",
+    "hween_c24_basketballfloor_patch3 desc"
+  ],
+  [
+    "hween_c24_batsticker",
+    "hween_c24_batsticker name",
+    "hween_c24_batsticker desc"
+  ],
+  [
+    "hween_c24_bluepaint",
+    "hween_c24_bluepaint name",
+    "hween_c24_bluepaint desc"
+  ],
+  [
+    "hween_c24_blueprints",
+    "hween_c24_blueprints name",
+    "hween_c24_blueprints desc"
+  ],
+  [
+    "hween_c24_blueskullbottle",
+    "hween_c24_blueskullbottle name",
+    "hween_c24_blueskullbottle desc"
+  ],
+  [
+    "hween_c24_candybowl",
+    "hween_c24_candybowl name",
+    "hween_c24_candybowl desc"
+  ],
+  [
+    "hween_c24_craftbox",
+    "hween_c24_craftbox name",
+    "hween_c24_craftbox desc"
+  ],
+  [
+    "hween_c24_craftboxb",
+    "hween_c24_craftboxb name",
+    "hween_c24_craftboxb desc"
+  ],
+  [
+    "hween_c24_craftingtable",
+    "hween_c24_craftingtable name",
+    "hween_c24_craftingtable desc"
+  ],
+  [
+    "hween_c24_cupcakes",
+    "hween_c24_cupcakes name",
+    "hween_c24_cupcakes desc"
+  ],
+  [
+    "hween_c24_darkschoolhallfloor",
+    "hween_c24_darkschoolhallfloor name",
+    "hween_c24_darkschoolhallfloor desc"
+  ],
+  [
+    "hween_c24_darkschoolwall",
+    "hween_c24_darkschoolwall name",
+    "hween_c24_darkschoolwall desc"
+  ],
+  [
+    "hween_c24_eyejar",
+    "hween_c24_eyejar name",
+    "hween_c24_eyejar desc"
+  ],
+  [
+    "hween_c24_filmprojectortele",
+    "hween_c24_filmprojectortele name",
+    "hween_c24_filmprojectortele desc"
+  ],
+  [
+    "hween_c24_ghoststicker",
+    "hween_c24_ghoststicker name",
+    "hween_c24_ghoststicker desc"
+  ],
+  [
+    "hween_c24_greenpaint",
+    "hween_c24_greenpaint name",
+    "hween_c24_greenpaint desc"
+  ],
+  [
+    "hween_c24_greenskullbottle",
+    "hween_c24_greenskullbottle name",
+    "hween_c24_greenskullbottle desc"
+  ],
+  [
+    "hween_c24_janitorclosettent",
+    "hween_c24_janitorclosettent name",
+    "hween_c24_janitorclosettent desc"
+  ],
+  [
+    "hween_c24_neonballoons1",
+    "hween_c24_neonballoons1 name",
+    "hween_c24_neonballoons1 desc"
+  ],
+  [
+    "hween_c24_neonballoons2",
+    "hween_c24_neonballoons2 name",
+    "hween_c24_neonballoons2 desc"
+  ],
+  [
+    "hween_c24_neonballoons3",
+    "hween_c24_neonballoons3 name",
+    "hween_c24_neonballoons3 desc"
+  ],
+  [
+    "hween_c24_neonballoons4",
+    "hween_c24_neonballoons4 name",
+    "hween_c24_neonballoons4 desc"
+  ],
+  [
+    "hween_c24_neonbatsticker1",
+    "hween_c24_neonbatsticker1 name",
+    "hween_c24_neonbatsticker1 desc"
+  ],
+  [
+    "hween_c24_neonbatsticker2",
+    "hween_c24_neonbatsticker2 name",
+    "hween_c24_neonbatsticker2 desc"
+  ],
+  [
+    "hween_c24_neonbatsticker3",
+    "hween_c24_neonbatsticker3 name",
+    "hween_c24_neonbatsticker3 desc"
+  ],
+  [
+    "hween_c24_neonbatsticker4",
+    "hween_c24_neonbatsticker4 name",
+    "hween_c24_neonbatsticker4 desc"
+  ],
+  [
+    "hween_c24_neonbatsticker5",
+    "hween_c24_neonbatsticker5 name",
+    "hween_c24_neonbatsticker5 desc"
+  ],
+  [
+    "hween_c24_neonconfetti",
+    "hween_c24_neonconfetti name",
+    "hween_c24_neonconfetti desc"
+  ],
+  [
+    "hween_c24_neoncupcakes",
+    "hween_c24_neoncupcakes name",
+    "hween_c24_neoncupcakes desc"
+  ],
+  [
+    "hween_c24_neonghoststicker1",
+    "hween_c24_neonghoststicker1 name",
+    "hween_c24_neonghoststicker1 desc"
+  ],
+  [
+    "hween_c24_neonghoststicker2",
+    "hween_c24_neonghoststicker2 name",
+    "hween_c24_neonghoststicker2 desc"
+  ],
+  [
+    "hween_c24_neonghoststicker3",
+    "hween_c24_neonghoststicker3 name",
+    "hween_c24_neonghoststicker3 desc"
+  ],
+  [
+    "hween_c24_neonghoststicker4",
+    "hween_c24_neonghoststicker4 name",
+    "hween_c24_neonghoststicker4 desc"
+  ],
+  [
+    "hween_c24_neonghoststicker5",
+    "hween_c24_neonghoststicker5 name",
+    "hween_c24_neonghoststicker5 desc"
+  ],
+  [
+    "hween_c24_neonmixer",
+    "hween_c24_neonmixer name",
+    "hween_c24_neonmixer desc"
+  ],
+  [
+    "hween_c24_neonmixerb",
+    "hween_c24_neonmixerb name",
+    "hween_c24_neonmixerb desc"
+  ],
+  [
+    "hween_c24_neonpaperskulls1",
+    "hween_c24_neonpaperskulls1 name",
+    "hween_c24_neonpaperskulls1 desc"
+  ],
+  [
+    "hween_c24_neonpaperskulls2",
+    "hween_c24_neonpaperskulls2 name",
+    "hween_c24_neonpaperskulls2 desc"
+  ],
+  [
+    "hween_c24_neonpaperskulls3",
+    "hween_c24_neonpaperskulls3 name",
+    "hween_c24_neonpaperskulls3 desc"
+  ],
+  [
+    "hween_c24_neonpaperskulls4",
+    "hween_c24_neonpaperskulls4 name",
+    "hween_c24_neonpaperskulls4 desc"
+  ],
+  [
+    "hween_c24_neonpumpkinsticker1",
+    "hween_c24_neonpumpkinsticker1 name",
+    "hween_c24_neonpumpkinsticker1 desc"
+  ],
+  [
+    "hween_c24_neonpumpkinsticker2",
+    "hween_c24_neonpumpkinsticker2 name",
+    "hween_c24_neonpumpkinsticker2 desc"
+  ],
+  [
+    "hween_c24_neonpumpkinsticker3",
+    "hween_c24_neonpumpkinsticker3 name",
+    "hween_c24_neonpumpkinsticker3 desc"
+  ],
+  [
+    "hween_c24_neonpumpkinsticker4",
+    "hween_c24_neonpumpkinsticker4 name",
+    "hween_c24_neonpumpkinsticker4 desc"
+  ],
+  [
+    "hween_c24_neonpumpkinsticker5",
+    "hween_c24_neonpumpkinsticker5 name",
+    "hween_c24_neonpumpkinsticker5 desc"
+  ],
+  [
+    "hween_c24_neonpumpkinwitch1",
+    "hween_c24_neonpumpkinwitch1 name",
+    "hween_c24_neonpumpkinwitch1 desc"
+  ],
+  [
+    "hween_c24_neonpumpkinwitch2",
+    "hween_c24_neonpumpkinwitch2 name",
+    "hween_c24_neonpumpkinwitch2 desc"
+  ],
+  [
+    "hween_c24_neonpumpkinwitch3",
+    "hween_c24_neonpumpkinwitch3 name",
+    "hween_c24_neonpumpkinwitch3 desc"
+  ],
+  [
+    "hween_c24_neonstreamers1",
+    "hween_c24_neonstreamers1 name",
+    "hween_c24_neonstreamers1 desc"
+  ],
+  [
+    "hween_c24_neonstreamers2",
+    "hween_c24_neonstreamers2 name",
+    "hween_c24_neonstreamers2 desc"
+  ],
+  [
+    "hween_c24_neonstreamers3",
+    "hween_c24_neonstreamers3 name",
+    "hween_c24_neonstreamers3 desc"
+  ],
+  [
+    "hween_c24_neonstreamers4",
+    "hween_c24_neonstreamers4 name",
+    "hween_c24_neonstreamers4 desc"
+  ],
+  [
+    "hween_c24_paintbrushes",
+    "hween_c24_paintbrushes name",
+    "hween_c24_paintbrushes desc"
+  ],
+  [
+    "hween_c24_paperskulls",
+    "hween_c24_paperskulls name",
+    "hween_c24_paperskulls desc"
+  ],
+  [
+    "hween_c24_pens",
+    "hween_c24_pens name",
+    "hween_c24_pens desc"
+  ],
+  [
+    "hween_c24_pinkpaint",
+    "hween_c24_pinkpaint name",
+    "hween_c24_pinkpaint desc"
+  ],
+  [
+    "hween_c24_pinkskullbottle",
+    "hween_c24_pinkskullbottle name",
+    "hween_c24_pinkskullbottle desc"
+  ],
+  [
+    "hween_c24_prizefurni",
+    "hween_c24_prizefurni name",
+    "hween_c24_prizefurni desc"
+  ],
+  [
+    "hween_c24_prombackdrop",
+    "hween_c24_prombackdrop name",
+    "hween_c24_prombackdrop desc"
+  ],
+  [
+    "hween_c24_promchair",
+    "hween_c24_promchair name",
+    "hween_c24_promchair desc"
+  ],
+  [
+    "hween_c24_promdrapes",
+    "hween_c24_promdrapes name",
+    "hween_c24_promdrapes desc"
+  ],
+  [
+    "hween_c24_promtable",
+    "hween_c24_promtable name",
+    "hween_c24_promtable desc"
+  ],
+  [
+    "hween_c24_pumpkinsticker",
+    "hween_c24_pumpkinsticker name",
+    "hween_c24_pumpkinsticker desc"
+  ],
+  [
+    "hween_c24_pumpkinwitch",
+    "hween_c24_pumpkinwitch name",
+    "hween_c24_pumpkinwitch desc"
+  ],
+  [
+    "hween_c24_purplepaint",
+    "hween_c24_purplepaint name",
+    "hween_c24_purplepaint desc"
+  ],
+  [
+    "hween_c24_skullsnail",
+    "hween_c24_skullsnail name",
+    "hween_c24_skullsnail desc"
+  ],
+  [
+    "hween_c24_stackedchairs",
+    "hween_c24_stackedchairs name",
+    "hween_c24_stackedchairs desc"
+  ],
+  [
+    "hween_c24_streamers",
+    "hween_c24_streamers name",
+    "hween_c24_streamers desc"
+  ],
+  [
+    "hween_c24_talldarkschoolwall",
+    "hween_c24_talldarkschoolwall name",
+    "hween_c24_talldarkschoolwall desc"
+  ],
+  [
+    "hween_c24_yellowpaint",
+    "hween_c24_yellowpaint name",
+    "hween_c24_yellowpaint desc"
+  ],
+  [
+    "hween_c24_yellowskullbottle",
+    "hween_c24_yellowskullbottle name",
+    "hween_c24_yellowskullbottle desc"
+  ],
+  [
     "hween_dragengage",
     "Hellfire Dragon",
     "hween_dragengage desc"
@@ -66308,6 +66753,21 @@
     "hween_r23_mummificationbd",
     "Mummification Table",
     ""
+  ],
+  [
+    "hween_r24_ele",
+    "hween_r24_ele name",
+    "hween_r24_ele desc"
+  ],
+  [
+    "hween_r24_pumpkindragon",
+    "hween_r24_pumpkindragon name",
+    "hween_r24_pumpkindragon desc"
+  ],
+  [
+    "hween_r24_vintagepromqueen",
+    "hween_r24_vintagepromqueen name",
+    "hween_r24_vintagepromqueen desc"
   ],
   [
     "hwn_deal_1",
@@ -77398,6 +77858,11 @@
     "nft_rare_sage",
     "nft_rare_sage name",
     "nft_rare_sage desc"
+  ],
+  [
+    "nft_sc24_batcandybowl",
+    "nft_sc24_batcandybowl name",
+    "nft_sc24_batcandybowl desc"
   ],
   [
     "nft_sc24_floatingduck",
