@@ -99,7 +99,14 @@ async function initConfig(argv) {
 
   if (o) config.output = o
 
-  config.prod = (await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)).match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
+  try {
+    config.prod = (await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)).match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
+    return true
+  } catch (err) {
+    console.error(err)
+    console.error("Cant get config prod, maybe habbo down")
+    return false
+  }
 }
 
 module.exports = { fetchText, fetchJson, fetchOne, fetchMany, parseXml, initConfig, config }
