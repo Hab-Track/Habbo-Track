@@ -1,6 +1,6 @@
 const fs = require('fs');
 const { pipeline } = require('stream/promises');
-const swf2png = require('swf2png');
+const swf2png = require('swf2png/src/convert_swf.js');
 const xmlFormat = require('xml-formatter');
 
 async function formatTxt(dst, res, png_name) {
