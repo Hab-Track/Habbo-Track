@@ -52,10 +52,6 @@ function fetchRaw(src) {
 
 async function fetchText(src) {
   const res = await fetchRaw(src)
-  if (!res) {
-    throw new Error(`Failed to fetch ${src}`)
-  }
-
   return await res.text()
 }
 
@@ -74,11 +70,13 @@ async function fetchOne(src, dst, replace = false) {
   }
 
   let res = await fetchRaw(src)
-  await fs.promises.mkdir(path.dirname(dst), { recursive: true })
 
-  await formatTxt(dst, res, png_name)
+  if (res) {
+    await fs.promises.mkdir(path.dirname(dst), { recursive: true })
+    await formatTxt(dst, res, png_name)
 
-  console.log(`Downloaded ${dst.split("/").pop()}`)
+    console.log(`Downloaded ${dst.split("/").pop()}`)
+  }
 }
 
 async function fetchMany(all, replace = false) {
@@ -99,11 +97,13 @@ async function initConfig(argv) {
 
   if (o) config.output = o
 
-  try {
-    config.prod = (await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)).match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
+  let ext_var = await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)
+
+  if (ext_var) {
+    config.prod = ext_var.match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
     return true
-  } catch (err) {
-    console.error(err)
+  }
+  else {
     console.error("Cant get config prod, maybe habbo down")
     return false
   }
