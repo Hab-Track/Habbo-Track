@@ -35439,62 +35439,62 @@
       {
         "code": "clothing_nftminibonnie",
         "name": "Bonnie Keyring",
-        "description": ""
+        "description": "clothing_nftminibonnie desc"
       },
       {
         "code": "clothing_nftminidonnie2",
         "name": "Santini Companion",
-        "description": ""
+        "description": "clothing_nftminidonnie2 desc"
       },
       {
         "code": "clothing_nftminidonnie",
         "name": "Santini Keyring",
-        "description": ""
+        "description": "clothing_nftminidonnie desc"
       },
       {
         "code": "clothing_nftminiduck",
         "name": "Duck Keyring",
-        "description": ""
+        "description": "clothing_nftminiduck desc"
       },
       {
         "code": "clothing_nftminifrank2",
         "name": "Frank Companion",
-        "description": ""
+        "description": "clothing_nftminifrank2 desc"
       },
       {
         "code": "clothing_nftminifrank",
         "name": "Frank Keyring",
-        "description": ""
+        "description": "clothing_nftminifrank desc"
       },
       {
         "code": "clothing_nftminihank",
         "name": "Hank Keyring",
-        "description": ""
+        "description": "clothing_nftminihank desc"
       },
       {
         "code": "clothing_nftminimaude2",
         "name": "Maude Companion",
-        "description": ""
+        "description": "clothing_nftminimaude2 desc"
       },
       {
         "code": "clothing_nftminimaude",
         "name": "Maude Keyring",
-        "description": ""
+        "description": "clothing_nftminimaude desc"
       },
       {
         "code": "clothing_nftminimuumio",
         "name": "Muumiopappa Keyring",
-        "description": ""
+        "description": "clothing_nftminimuumio desc"
       },
       {
         "code": "clothing_nftminimyrtle",
         "name": "Myrtle Keyring",
-        "description": ""
+        "description": "clothing_nftminimyrtle desc"
       },
       {
         "code": "clothing_nftmininoob",
         "name": "Noob Keyring",
-        "description": ""
+        "description": "clothing_nftmininoob desc"
       },
       {
         "code": "clothing_nftnacho",
@@ -35744,7 +35744,7 @@
       {
         "code": "clothing_nftskullpendant",
         "name": "Mystic Skull Pendant",
-        "description": ""
+        "description": "clothing_nftskullpendant desc"
       },
       {
         "code": "clothing_nftskullsnroses1",
@@ -75042,6 +75042,11 @@
         "description": "nft_bb_apparatus_rc1 desc"
       },
       {
+        "code": "nft_bb_robo_rc1",
+        "name": "nft_bb_robo_rc1 name",
+        "description": "nft_bb_robo_rc1 desc"
+      },
+      {
         "code": "nft_bb_tddhead_rc1",
         "name": "nft_bb_tddhead_rc1 name",
         "description": "nft_bb_tddhead_rc1 desc"
@@ -75050,6 +75055,11 @@
         "code": "nft_beanstalk",
         "name": "nft_beanstalk",
         "description": ""
+      },
+      {
+        "code": "nft_birds_r18_puffin",
+        "name": "nft_birds_r18_puffin name",
+        "description": "nft_birds_r18_puffin desc"
       },
       {
         "code": "nft_birds_r18_spoonbill",
@@ -75295,6 +75305,11 @@
         "code": "nft_club_sofa",
         "name": "Diamond HC Sofa",
         "description": "nft_club_sofa desc"
+      },
+      {
+        "code": "nft_cpunk15_blimp",
+        "name": "nft_cpunk15_blimp name",
+        "description": "nft_cpunk15_blimp desc"
       },
       {
         "code": "nft_cpunk15_robosheep",
@@ -75825,6 +75840,11 @@
         "code": "nft_gold_c15_arc_icerug",
         "name": "nft_gold_c15_arc_icerug name",
         "description": "nft_gold_c15_arc_icerug desc"
+      },
+      {
+        "code": "nft_greek_r19_luxbed",
+        "name": "nft_greek_r19_luxbed name",
+        "description": "nft_greek_r19_luxbed desc"
       },
       {
         "code": "nft_greek_r19_tiledbath",
@@ -77109,132 +77129,132 @@
       {
         "code": "nft_h24_bday_bobbaholo",
         "name": "Bobba Holo",
-        "description": ""
+        "description": "nft_h24_bday_bobbaholo desc"
       },
       {
         "code": "nft_h24_bday_bonniebook",
         "name": "Bonnie Picture Book",
-        "description": ""
+        "description": "nft_h24_bday_bonniebook desc"
       },
       {
         "code": "nft_h24_bday_box1",
         "name": "3rd Anniversary Gift Box",
-        "description": ""
+        "description": "nft_h24_bday_box1 desc"
       },
       {
         "code": "nft_h24_bday_box2",
         "name": "Premium 3rd Anniversary Gift Box",
-        "description": ""
+        "description": "nft_h24_bday_box2 desc"
       },
       {
         "code": "nft_h24_bday_bronzesamovar",
         "name": "Bronze Samovar",
-        "description": ""
+        "description": "nft_h24_bday_bronzesamovar desc"
       },
       {
         "code": "nft_h24_bday_cake",
         "name": "3rd Anniversary Cake",
-        "description": ""
+        "description": "nft_h24_bday_cake desc"
       },
       {
         "code": "nft_h24_bday_donniebook",
         "name": "Santini Picture Book",
-        "description": ""
+        "description": "nft_h24_bday_donniebook desc"
       },
       {
         "code": "nft_h24_bday_duckbook",
         "name": "Duck Picture Book",
-        "description": ""
+        "description": "nft_h24_bday_duckbook desc"
       },
       {
         "code": "nft_h24_bday_ducksleepingbag",
         "name": "Duck Sleeping Bag",
-        "description": ""
+        "description": "nft_h24_bday_ducksleepingbag desc"
       },
       {
         "code": "nft_h24_bday_frankbook",
         "name": "Frank Picture Book",
-        "description": ""
+        "description": "nft_h24_bday_frankbook desc"
       },
       {
         "code": "nft_h24_bday_frankchair",
         "name": "Oversized Frank Chair",
-        "description": ""
+        "description": "nft_h24_bday_frankchair desc"
       },
       {
         "code": "nft_h24_bday_franksleepingbag",
         "name": "Frank Sleeping Bag",
-        "description": ""
+        "description": "nft_h24_bday_franksleepingbag desc"
       },
       {
         "code": "nft_h24_bday_haf_maude",
         "name": "Maude Action Figure",
-        "description": ""
+        "description": "nft_h24_bday_haf_maude desc"
       },
       {
         "code": "nft_h24_bday_hankbook",
         "name": "Hank Picture Book",
-        "description": ""
+        "description": "nft_h24_bday_hankbook desc"
       },
       {
         "code": "nft_h24_bday_maudebook",
         "name": "Maude Picture Book",
-        "description": ""
+        "description": "nft_h24_bday_maudebook desc"
       },
       {
         "code": "nft_h24_bday_maudechair",
         "name": "Oversized Maude Chair",
-        "description": ""
+        "description": "nft_h24_bday_maudechair desc"
       },
       {
         "code": "nft_h24_bday_mnstr",
         "name": "Tamed Monster Plant",
-        "description": ""
+        "description": "nft_h24_bday_mnstr desc"
       },
       {
         "code": "nft_h24_bday_mnstrbaby",
         "name": "Monster Plant Youngster",
-        "description": ""
+        "description": "nft_h24_bday_mnstrbaby desc"
       },
       {
         "code": "nft_h24_bday_mnstrsleepingbag",
         "name": "Monster Plant Sleeping Bag",
-        "description": ""
+        "description": "nft_h24_bday_mnstrsleepingbag desc"
       },
       {
         "code": "nft_h24_bday_muumiobook",
         "name": "Muumiopappa Picture Book",
-        "description": ""
+        "description": "nft_h24_bday_muumiobook desc"
       },
       {
         "code": "nft_h24_bday_myrtlebook",
         "name": "Myrtle Picture Book",
-        "description": ""
+        "description": "nft_h24_bday_myrtlebook desc"
       },
       {
         "code": "nft_h24_bday_noobbook",
         "name": "Noob Picture Book",
-        "description": ""
+        "description": "nft_h24_bday_noobbook desc"
       },
       {
         "code": "nft_h24_bday_robotik_dragonlamp",
         "name": "Robotik Dragon Lamp",
-        "description": ""
+        "description": "nft_h24_bday_robotik_dragonlamp desc"
       },
       {
         "code": "nft_h24_bday_robotik_scifidoor",
         "name": "Robotik Spaceship Door",
-        "description": ""
+        "description": "nft_h24_bday_robotik_scifidoor desc"
       },
       {
         "code": "nft_h24_bday_santinichair",
         "name": "Oversized Santini Chair",
-        "description": ""
+        "description": "nft_h24_bday_santinichair desc"
       },
       {
         "code": "nft_h24_bday_silversamovar",
         "name": "Silver Samovar",
-        "description": ""
+        "description": "nft_h24_bday_silversamovar desc"
       },
       {
         "code": "nft_h24_beachtowel",
@@ -77712,9 +77732,19 @@
         "description": "nft_jungle_r16_basket desc"
       },
       {
+        "code": "nft_jungle_r16_pitcherplant",
+        "name": "nft_jungle_r16_pitcherplant name",
+        "description": "nft_jungle_r16_pitcherplant desc"
+      },
+      {
         "code": "nft_ktchn15_coffeemaker",
         "name": "nft_ktchn15_coffeemaker name",
         "description": "nft_ktchn15_coffeemaker desc"
+      },
+      {
+        "code": "nft_ktchn15_fridge",
+        "name": "nft_ktchn15_fridge name",
+        "description": "nft_ktchn15_fridge desc"
       },
       {
         "code": "nft_mint_token_purchase_10",
@@ -78077,6 +78107,11 @@
         "description": "nft_rare_sage desc"
       },
       {
+        "code": "nft_runway_oldecamera",
+        "name": "nft_runway_oldecamera name",
+        "description": "nft_runway_oldecamera desc"
+      },
+      {
         "code": "nft_sc24_batcandybowl",
         "name": "nft_sc24_batcandybowl name",
         "description": "nft_sc24_batcandybowl desc"
@@ -78140,6 +78175,11 @@
         "code": "nft_sc24_nelly",
         "name": "Nelly Plushie",
         "description": "nft_sc24_nelly desc"
+      },
+      {
+        "code": "nft_st_wildwest_buffalo",
+        "name": "nft_st_wildwest_buffalo name",
+        "description": "nft_st_wildwest_buffalo desc"
       },
       {
         "code": "nft_tokyo_r18_koikite",
@@ -78222,9 +78262,19 @@
         "description": "nft_u24_plastomemorial desc"
       },
       {
+        "code": "nft_wildwest_till",
+        "name": "nft_wildwest_till name",
+        "description": "nft_wildwest_till desc"
+      },
+      {
         "code": "nft_xmas_r23_cakethrone2",
         "name": "nft_xmas_r23_cakethrone2 name",
         "description": "nft_xmas_r23_cakethrone2 desc"
+      },
+      {
+        "code": "nft_zengarden_r18_fountain",
+        "name": "nft_zengarden_r18_fountain name",
+        "description": "nft_zengarden_r18_fountain desc"
       },
       {
         "code": "noob_chair_1",

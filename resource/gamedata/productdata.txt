@@ -35437,62 +35437,62 @@
   [
     "clothing_nftminibonnie",
     "Bonnie Keyring",
-    ""
+    "clothing_nftminibonnie desc"
   ],
   [
     "clothing_nftminidonnie2",
     "Santini Companion",
-    ""
+    "clothing_nftminidonnie2 desc"
   ],
   [
     "clothing_nftminidonnie",
     "Santini Keyring",
-    ""
+    "clothing_nftminidonnie desc"
   ],
   [
     "clothing_nftminiduck",
     "Duck Keyring",
-    ""
+    "clothing_nftminiduck desc"
   ],
   [
     "clothing_nftminifrank2",
     "Frank Companion",
-    ""
+    "clothing_nftminifrank2 desc"
   ],
   [
     "clothing_nftminifrank",
     "Frank Keyring",
-    ""
+    "clothing_nftminifrank desc"
   ],
   [
     "clothing_nftminihank",
     "Hank Keyring",
-    ""
+    "clothing_nftminihank desc"
   ],
   [
     "clothing_nftminimaude2",
     "Maude Companion",
-    ""
+    "clothing_nftminimaude2 desc"
   ],
   [
     "clothing_nftminimaude",
     "Maude Keyring",
-    ""
+    "clothing_nftminimaude desc"
   ],
   [
     "clothing_nftminimuumio",
     "Muumiopappa Keyring",
-    ""
+    "clothing_nftminimuumio desc"
   ],
   [
     "clothing_nftminimyrtle",
     "Myrtle Keyring",
-    ""
+    "clothing_nftminimyrtle desc"
   ],
   [
     "clothing_nftmininoob",
     "Noob Keyring",
-    ""
+    "clothing_nftmininoob desc"
   ],
   [
     "clothing_nftnacho",
@@ -35742,7 +35742,7 @@
   [
     "clothing_nftskullpendant",
     "Mystic Skull Pendant",
-    ""
+    "clothing_nftskullpendant desc"
   ],
   [
     "clothing_nftskullsnroses1",
@@ -75040,6 +75040,11 @@
     "nft_bb_apparatus_rc1 desc"
   ],
   [
+    "nft_bb_robo_rc1",
+    "nft_bb_robo_rc1 name",
+    "nft_bb_robo_rc1 desc"
+  ],
+  [
     "nft_bb_tddhead_rc1",
     "nft_bb_tddhead_rc1 name",
     "nft_bb_tddhead_rc1 desc"
@@ -75048,6 +75053,11 @@
     "nft_beanstalk",
     "nft_beanstalk",
     ""
+  ],
+  [
+    "nft_birds_r18_puffin",
+    "nft_birds_r18_puffin name",
+    "nft_birds_r18_puffin desc"
   ],
   [
     "nft_birds_r18_spoonbill",
@@ -75293,6 +75303,11 @@
     "nft_club_sofa",
     "Diamond HC Sofa",
     "nft_club_sofa desc"
+  ],
+  [
+    "nft_cpunk15_blimp",
+    "nft_cpunk15_blimp name",
+    "nft_cpunk15_blimp desc"
   ],
   [
     "nft_cpunk15_robosheep",
@@ -75823,6 +75838,11 @@
     "nft_gold_c15_arc_icerug",
     "nft_gold_c15_arc_icerug name",
     "nft_gold_c15_arc_icerug desc"
+  ],
+  [
+    "nft_greek_r19_luxbed",
+    "nft_greek_r19_luxbed name",
+    "nft_greek_r19_luxbed desc"
   ],
   [
     "nft_greek_r19_tiledbath",
@@ -77107,132 +77127,132 @@
   [
     "nft_h24_bday_bobbaholo",
     "Bobba Holo",
-    ""
+    "nft_h24_bday_bobbaholo desc"
   ],
   [
     "nft_h24_bday_bonniebook",
     "Bonnie Picture Book",
-    ""
+    "nft_h24_bday_bonniebook desc"
   ],
   [
     "nft_h24_bday_box1",
     "3rd Anniversary Gift Box",
-    ""
+    "nft_h24_bday_box1 desc"
   ],
   [
     "nft_h24_bday_box2",
     "Premium 3rd Anniversary Gift Box",
-    ""
+    "nft_h24_bday_box2 desc"
   ],
   [
     "nft_h24_bday_bronzesamovar",
     "Bronze Samovar",
-    ""
+    "nft_h24_bday_bronzesamovar desc"
   ],
   [
     "nft_h24_bday_cake",
     "3rd Anniversary Cake",
-    ""
+    "nft_h24_bday_cake desc"
   ],
   [
     "nft_h24_bday_donniebook",
     "Santini Picture Book",
-    ""
+    "nft_h24_bday_donniebook desc"
   ],
   [
     "nft_h24_bday_duckbook",
     "Duck Picture Book",
-    ""
+    "nft_h24_bday_duckbook desc"
   ],
   [
     "nft_h24_bday_ducksleepingbag",
     "Duck Sleeping Bag",
-    ""
+    "nft_h24_bday_ducksleepingbag desc"
   ],
   [
     "nft_h24_bday_frankbook",
     "Frank Picture Book",
-    ""
+    "nft_h24_bday_frankbook desc"
   ],
   [
     "nft_h24_bday_frankchair",
     "Oversized Frank Chair",
-    ""
+    "nft_h24_bday_frankchair desc"
   ],
   [
     "nft_h24_bday_franksleepingbag",
     "Frank Sleeping Bag",
-    ""
+    "nft_h24_bday_franksleepingbag desc"
   ],
   [
     "nft_h24_bday_haf_maude",
     "Maude Action Figure",
-    ""
+    "nft_h24_bday_haf_maude desc"
   ],
   [
     "nft_h24_bday_hankbook",
     "Hank Picture Book",
-    ""
+    "nft_h24_bday_hankbook desc"
   ],
   [
     "nft_h24_bday_maudebook",
     "Maude Picture Book",
-    ""
+    "nft_h24_bday_maudebook desc"
   ],
   [
     "nft_h24_bday_maudechair",
     "Oversized Maude Chair",
-    ""
+    "nft_h24_bday_maudechair desc"
   ],
   [
     "nft_h24_bday_mnstr",
     "Tamed Monster Plant",
-    ""
+    "nft_h24_bday_mnstr desc"
   ],
   [
     "nft_h24_bday_mnstrbaby",
     "Monster Plant Youngster",
-    ""
+    "nft_h24_bday_mnstrbaby desc"
   ],
   [
     "nft_h24_bday_mnstrsleepingbag",
     "Monster Plant Sleeping Bag",
-    ""
+    "nft_h24_bday_mnstrsleepingbag desc"
   ],
   [
     "nft_h24_bday_muumiobook",
     "Muumiopappa Picture Book",
-    ""
+    "nft_h24_bday_muumiobook desc"
   ],
   [
     "nft_h24_bday_myrtlebook",
     "Myrtle Picture Book",
-    ""
+    "nft_h24_bday_myrtlebook desc"
   ],
   [
     "nft_h24_bday_noobbook",
     "Noob Picture Book",
-    ""
+    "nft_h24_bday_noobbook desc"
   ],
   [
     "nft_h24_bday_robotik_dragonlamp",
     "Robotik Dragon Lamp",
-    ""
+    "nft_h24_bday_robotik_dragonlamp desc"
   ],
   [
     "nft_h24_bday_robotik_scifidoor",
     "Robotik Spaceship Door",
-    ""
+    "nft_h24_bday_robotik_scifidoor desc"
   ],
   [
     "nft_h24_bday_santinichair",
     "Oversized Santini Chair",
-    ""
+    "nft_h24_bday_santinichair desc"
   ],
   [
     "nft_h24_bday_silversamovar",
     "Silver Samovar",
-    ""
+    "nft_h24_bday_silversamovar desc"
   ],
   [
     "nft_h24_beachtowel",
@@ -77710,9 +77730,19 @@
     "nft_jungle_r16_basket desc"
   ],
   [
+    "nft_jungle_r16_pitcherplant",
+    "nft_jungle_r16_pitcherplant name",
+    "nft_jungle_r16_pitcherplant desc"
+  ],
+  [
     "nft_ktchn15_coffeemaker",
     "nft_ktchn15_coffeemaker name",
     "nft_ktchn15_coffeemaker desc"
+  ],
+  [
+    "nft_ktchn15_fridge",
+    "nft_ktchn15_fridge name",
+    "nft_ktchn15_fridge desc"
   ],
   [
     "nft_mint_token_purchase_10",
@@ -78075,6 +78105,11 @@
     "nft_rare_sage desc"
   ],
   [
+    "nft_runway_oldecamera",
+    "nft_runway_oldecamera name",
+    "nft_runway_oldecamera desc"
+  ],
+  [
     "nft_sc24_batcandybowl",
     "nft_sc24_batcandybowl name",
     "nft_sc24_batcandybowl desc"
@@ -78138,6 +78173,11 @@
     "nft_sc24_nelly",
     "Nelly Plushie",
     "nft_sc24_nelly desc"
+  ],
+  [
+    "nft_st_wildwest_buffalo",
+    "nft_st_wildwest_buffalo name",
+    "nft_st_wildwest_buffalo desc"
   ],
   [
     "nft_tokyo_r18_koikite",
@@ -78220,9 +78260,19 @@
     "nft_u24_plastomemorial desc"
   ],
   [
+    "nft_wildwest_till",
+    "nft_wildwest_till name",
+    "nft_wildwest_till desc"
+  ],
+  [
     "nft_xmas_r23_cakethrone2",
     "nft_xmas_r23_cakethrone2 name",
     "nft_xmas_r23_cakethrone2 desc"
+  ],
+  [
+    "nft_zengarden_r18_fountain",
+    "nft_zengarden_r18_fountain name",
+    "nft_zengarden_r18_fountain desc"
   ],
   [
     "noob_chair_1",
