@@ -18,6 +18,7 @@ client.version.id=401
 client.window.title=Habbo Hotel: Origins
 flash.dynamic.download.url=//images.habbo.com//dcr/hof_furni/
 forgotten_password_url=https://origins.habbo.com
+friend_list.persistent_message_status.enabled=true
 fuse.project.id=habbo_origins
 image.library.url.server=//images.habbo.com/
 image.library.url=//images.habbo.com/c_images/
@@ -71,6 +72,6 @@ struct.font.tooltip =[#font:"v", #fontSize:9,#lineHeight:10,#color:rgb("#000000"
 swimjump.key.list=[#run1:"A", #run2:"D", #dive1:"W", #dive2:"E", #dive3:"A", #dive4:"S", #dive5:"D", #dive6:"Z", #dive7:"X", #jump:"SPACE"]
 url.prefix=origins.habbo.com
 
-external.texts.txt=https://www.habbo.com/gamedata/external_texts/6be1b1d2d5156c930a676044b622dd66d2123804
-external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/989619a5ff721296e78a3dc73bc8f9eef73cfdbf
-external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/6be1b1d2d5156c930a676044b622dd66d2123804
+external.texts.txt=https://www.habbo.com/gamedata/external_texts/98cf055b531bb4a99c448db0b6f11b8dab3e19a3
+external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/6106945891133a748b2f5b4d4285c5a95b2534ce
+external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/98cf055b531bb4a99c448db0b6f11b8dab3e19a3
