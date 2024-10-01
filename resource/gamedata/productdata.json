@@ -64192,6 +64192,11 @@
         "description": "Cheeky chappy is here to spread the love."
       },
       {
+        "code": "hween24_craftprize",
+        "name": "Neon Crating Prize",
+        "description": ""
+      },
+      {
         "code": "hween_c15_altar",
         "name": "Habbocalypse Crafting Altar",
         "description": "Making Habbocalypse headgear since October 2015."
@@ -65048,7 +65053,7 @@
       },
       {
         "code": "hween_c19_angleroof",
-        "name": "Witch Roof",
+        "name": "Witch Roof angle",
         "description": "hween_c19_angleroof desc"
       },
       {
@@ -65868,7 +65873,7 @@
       },
       {
         "code": "hween_c22_marblefloor",
-        "name": "Black Marble Floor",
+        "name": "Black Marble Floor (hween)",
         "description": "hween_c22_marblefloor desc"
       },
       {
@@ -66565,6 +66570,26 @@
         "code": "hween_c24_yellowskullbottle",
         "name": "hween_c24_yellowskullbottle name",
         "description": "hween_c24_yellowskullbottle desc"
+      },
+      {
+        "code": "hween_daily1",
+        "name": "Daily Quest Prize 1",
+        "description": ""
+      },
+      {
+        "code": "hween_daily2",
+        "name": "Daily Quest Prize 2",
+        "description": ""
+      },
+      {
+        "code": "hween_daily3",
+        "name": "Daily Quest Prize 3",
+        "description": ""
+      },
+      {
+        "code": "hween_daily5",
+        "name": "Daily Quest Prize 5",
+        "description": ""
       },
       {
         "code": "hween_dragengage",
