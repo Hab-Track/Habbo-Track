@@ -34985,6 +34985,11 @@
     "clothing_nftblackbeanie desc"
   ],
   [
+    "clothing_nftbloody",
+    "clothing_nftbloody name",
+    "clothing_nftbloody desc"
+  ],
+  [
     "clothing_nftbloodycrown",
     "Blood Crown",
     "clothing_nftbloodycrown desc"
@@ -35682,7 +35687,7 @@
   [
     "clothing_nftrobotikcrown",
     "Robotik Noble Crown",
-    ""
+    "clothing_nftrobotikcrown desc"
   ],
   [
     "clothing_nftroundshades0",
@@ -35827,7 +35832,7 @@
   [
     "clothing_nftsuitcase",
     "Cash-stuffed Suitcase",
-    ""
+    "clothing_nftsuitcase desc"
   ],
   [
     "clothing_nftsummeranklet1",
@@ -51287,6 +51292,26 @@
   [
     "dec23_xmasclothing_promo",
     "Xmas Clothing Offer",
+    ""
+  ],
+  [
+    "decopromo1",
+    "Decorating Tools Pack 1",
+    ""
+  ],
+  [
+    "decopromo2",
+    "Decorating Tools Pack 2",
+    ""
+  ],
+  [
+    "decopromo3",
+    "Decorating Tools Pack 3",
+    ""
+  ],
+  [
+    "decopromo4",
+    "Decorating Tools Pack 4",
     ""
   ],
   [
@@ -75487,7 +75512,7 @@
   [
     "nft_emerald_pumpkin",
     "Emerald Pumpkin (2k Emeralds)",
-    ""
+    "nft_emerald_pumpkin desc"
   ],
   [
     "nft_ff23_commonbox",
@@ -77302,7 +77327,7 @@
   [
     "nft_h24_catacombduck",
     "Catacomb Duck",
-    ""
+    "nft_h24_catacombduck desc"
   ],
   [
     "nft_h24_cb_22materials",
@@ -77332,7 +77357,7 @@
   [
     "nft_h24_cb_ghostduck",
     "Floating Ducky",
-    ""
+    "nft_h24_cb_ghostduck desc"
   ],
   [
     "nft_h24_cb_habboween22",
@@ -77492,7 +77517,7 @@
   [
     "nft_h24_franksbookshelf",
     "Frank’s Bookshelf",
-    ""
+    "nft_h24_franksbookshelf desc"
   ],
   [
     "nft_h24_globe_cabinet",
@@ -77557,7 +77582,7 @@
   [
     "nft_h24_hween_nobox",
     "Dusty Box",
-    ""
+    "nft_h24_hween_nobox desc"
   ],
   [
     "nft_h24_largeshowcase",
@@ -77672,7 +77697,7 @@
   [
     "nft_h24_spookyhotel",
     "Habboween Hotel",
-    ""
+    "nft_h24_spookyhotel desc"
   ],
   [
     "nft_h24_statueofliberty",
@@ -79933,6 +79958,26 @@
     "org_tblpnk",
     "Pinky Organo Table",
     "Ready to take dinner?"
+  ],
+  [
+    "paintpromo1",
+    "Neon Mixer Pack 1",
+    ""
+  ],
+  [
+    "paintpromo2",
+    "Neon Mixer Pack 2",
+    ""
+  ],
+  [
+    "paintpromo3",
+    "Neon Mixer Pack 3",
+    ""
+  ],
+  [
+    "paintpromo4",
+    "Neon Mixer Pack 4",
+    ""
   ],
   [
     "palooza_tko1",

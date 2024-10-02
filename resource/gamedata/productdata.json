@@ -34987,6 +34987,11 @@
         "description": "clothing_nftblackbeanie desc"
       },
       {
+        "code": "clothing_nftbloody",
+        "name": "clothing_nftbloody name",
+        "description": "clothing_nftbloody desc"
+      },
+      {
         "code": "clothing_nftbloodycrown",
         "name": "Blood Crown",
         "description": "clothing_nftbloodycrown desc"
@@ -35684,7 +35689,7 @@
       {
         "code": "clothing_nftrobotikcrown",
         "name": "Robotik Noble Crown",
-        "description": ""
+        "description": "clothing_nftrobotikcrown desc"
       },
       {
         "code": "clothing_nftroundshades0",
@@ -35829,7 +35834,7 @@
       {
         "code": "clothing_nftsuitcase",
         "name": "Cash-stuffed Suitcase",
-        "description": ""
+        "description": "clothing_nftsuitcase desc"
       },
       {
         "code": "clothing_nftsummeranklet1",
@@ -51289,6 +51294,26 @@
       {
         "code": "dec23_xmasclothing_promo",
         "name": "Xmas Clothing Offer",
+        "description": ""
+      },
+      {
+        "code": "decopromo1",
+        "name": "Decorating Tools Pack 1",
+        "description": ""
+      },
+      {
+        "code": "decopromo2",
+        "name": "Decorating Tools Pack 2",
+        "description": ""
+      },
+      {
+        "code": "decopromo3",
+        "name": "Decorating Tools Pack 3",
+        "description": ""
+      },
+      {
+        "code": "decopromo4",
+        "name": "Decorating Tools Pack 4",
         "description": ""
       },
       {
@@ -75489,7 +75514,7 @@
       {
         "code": "nft_emerald_pumpkin",
         "name": "Emerald Pumpkin (2k Emeralds)",
-        "description": ""
+        "description": "nft_emerald_pumpkin desc"
       },
       {
         "code": "nft_ff23_commonbox",
@@ -77304,7 +77329,7 @@
       {
         "code": "nft_h24_catacombduck",
         "name": "Catacomb Duck",
-        "description": ""
+        "description": "nft_h24_catacombduck desc"
       },
       {
         "code": "nft_h24_cb_22materials",
@@ -77334,7 +77359,7 @@
       {
         "code": "nft_h24_cb_ghostduck",
         "name": "Floating Ducky",
-        "description": ""
+        "description": "nft_h24_cb_ghostduck desc"
       },
       {
         "code": "nft_h24_cb_habboween22",
@@ -77494,7 +77519,7 @@
       {
         "code": "nft_h24_franksbookshelf",
         "name": "Frank’s Bookshelf",
-        "description": ""
+        "description": "nft_h24_franksbookshelf desc"
       },
       {
         "code": "nft_h24_globe_cabinet",
@@ -77559,7 +77584,7 @@
       {
         "code": "nft_h24_hween_nobox",
         "name": "Dusty Box",
-        "description": ""
+        "description": "nft_h24_hween_nobox desc"
       },
       {
         "code": "nft_h24_largeshowcase",
@@ -77674,7 +77699,7 @@
       {
         "code": "nft_h24_spookyhotel",
         "name": "Habboween Hotel",
-        "description": ""
+        "description": "nft_h24_spookyhotel desc"
       },
       {
         "code": "nft_h24_statueofliberty",
@@ -79935,6 +79960,26 @@
         "code": "org_tblpnk",
         "name": "Pinky Organo Table",
         "description": "Ready to take dinner?"
+      },
+      {
+        "code": "paintpromo1",
+        "name": "Neon Mixer Pack 1",
+        "description": ""
+      },
+      {
+        "code": "paintpromo2",
+        "name": "Neon Mixer Pack 2",
+        "description": ""
+      },
+      {
+        "code": "paintpromo3",
+        "name": "Neon Mixer Pack 3",
+        "description": ""
+      },
+      {
+        "code": "paintpromo4",
+        "name": "Neon Mixer Pack 4",
+        "description": ""
       },
       {
         "code": "palooza_tko1",
