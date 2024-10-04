@@ -38917,6 +38917,11 @@
         "description": "clothing_r24_carnivalheadpiece desc"
       },
       {
+        "code": "clothing_r24_catwoman_bd",
+        "name": "clothing_r24_catwoman name",
+        "description": ""
+      },
+      {
         "code": "clothing_r24_catwoman",
         "name": "clothing_r24_catwoman name",
         "description": "clothing_r24_catwoman desc"
@@ -39045,6 +39050,11 @@
         "code": "clothing_r24_sombrerose",
         "name": "Rosy Sombrero",
         "description": "clothing_r24_sombrerose desc"
+      },
+      {
+        "code": "clothing_r24_spider_bd",
+        "name": "clothing_r24_spider name",
+        "description": ""
       },
       {
         "code": "clothing_r24_spider",
@@ -58232,6 +58242,16 @@
         "description": ""
       },
       {
+        "code": "frbirthday_c24_potatosack",
+        "name": "frbirthday_c24_potatosack name",
+        "description": "frbirthday_c24_potatosack desc"
+      },
+      {
+        "code": "frbirthday_c24_saucisson",
+        "name": "frbirthday_c24_saucisson name",
+        "description": "frbirthday_c24_saucisson desc"
+      },
+      {
         "code": "free_placement_room",
         "name": "free_placement_room name",
         "description": "free_placement_room desc"
@@ -75542,6 +75562,11 @@
         "description": "nft_emerald_pumpkin desc"
       },
       {
+        "code": "nft_emerald_test_100",
+        "name": "nft_emerald_test_100 name",
+        "description": "nft_emerald_test_100 desc"
+      },
+      {
         "code": "nft_ff23_commonbox",
         "name": "Common Furni Crate",
         "description": "nft_ff23_commonbox desc"
@@ -86070,6 +86095,16 @@
         "code": "rare_fountain_niko",
         "name": "Classic Fountain",
         "description": "rare_fountain_niko desc"
+      },
+      {
+        "code": "rare_hween_r24_pumpkin_bd",
+        "name": "$product_rare_hween_r24_pumpkindragon_name$",
+        "description": ""
+      },
+      {
+        "code": "rare_hween_r24_vintageprombd",
+        "name": "$product_rare_hween_r24_vintagepromqueen_name$",
+        "description": ""
       },
       {
         "code": "rare_icecream_5_bd",
