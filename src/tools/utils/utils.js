@@ -12,7 +12,7 @@ function getCommitDetails(commitSha) {
   }
   
   function getUserAvatar() {
-    return "https://i.imgur.com/lSCFcFQ.gif"
+    return "https://i.imgur.com/QmCgows.gif"
   }
   
   function getLastCommitFiles(commitSha) {
