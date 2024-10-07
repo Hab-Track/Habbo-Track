@@ -51,10 +51,15 @@ function formatName(filePath) {
 }
 
 function getCommitLines(commitSha) {
-  return execSync(`git show ${commitSha}`)
-    .toString()
-    .trim()
-    .split('\n')
+  try {
+    return execSync(`git show ${commitSha}`, { maxBuffer: 1024 * 1024 * 10 })
+      .toString()
+      .trim()
+      .split('\n');
+  } catch (error) {
+    console.error(`Error executing git show: ${error.message}`);
+    return [];
+  }
 }
 
 function generateDiscordDiffMessages(commitSha) {
