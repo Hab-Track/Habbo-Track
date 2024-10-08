@@ -3612,6 +3612,22 @@
                 <part id="6046" type="ey" colorable="0" index="2" colorindex="0"/>
                 <part id="6046" type="fc" colorable="0" index="2" colorindex="0"/>
             </set>
+            <set id="5798" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="1" type="hd" colorable="1" index="0" colorindex="1"/>
+                <part id="1" type="bd" colorable="1" index="0" colorindex="1"/>
+                <part id="6141" type="fc" colorable="1" index="0" colorindex="1"/>
+                <part id="1" type="lh" colorable="1" index="0" colorindex="1"/>
+                <part id="1" type="rh" colorable="1" index="0" colorindex="1"/>
+                <part id="6142" type="ey" colorable="0" index="1" colorindex="0"/>
+            </set>
+            <set id="5799" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="2" type="hd" colorable="1" index="0" colorindex="1"/>
+                <part id="1" type="bd" colorable="1" index="0" colorindex="1"/>
+                <part id="6143" type="fc" colorable="1" index="0" colorindex="1"/>
+                <part id="1" type="lh" colorable="1" index="0" colorindex="1"/>
+                <part id="1" type="rh" colorable="1" index="0" colorindex="1"/>
+                <part id="6144" type="ey" colorable="0" index="1" colorindex="0"/>
+            </set>
             <set id="626" gender="F" club="0" colorable="1" selectable="1" preselectable="1">
                 <part id="1" type="bd" colorable="1" index="0" colorindex="1"/>
                 <part id="7" type="ey" colorable="1" index="0" colorindex="1"/>
