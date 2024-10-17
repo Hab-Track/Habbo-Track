@@ -37,7 +37,7 @@ async function runTasks() {
         throw new Error('No directory specified. Please specify a directory with the --dir flag.');
     }
 
-    await sendCommitEmbed(commitSha, webhookClient_txt);
+    // await sendCommitEmbed(commitSha, webhookClient_txt);
     await sendImagesToWebhook(commitSha, webhookClient_img);
     await sendVars(commitSha, webhookClient_txt);
 }
