@@ -38918,12 +38918,12 @@
       },
       {
         "code": "clothing_r24_catwoman_bd",
-        "name": "clothing_r24_catwoman name",
+        "name": "RARE Catwoman Costume!",
         "description": ""
       },
       {
         "code": "clothing_r24_catwoman",
-        "name": "clothing_r24_catwoman name",
+        "name": "Catwoman Costume",
         "description": "clothing_r24_catwoman desc"
       },
       {
@@ -38935,6 +38935,11 @@
         "code": "clothing_r24_doggiebag",
         "name": "clothing_r24_doggiebag name",
         "description": "clothing_r24_doggiebag desc"
+      },
+      {
+        "code": "clothing_r24_dreamerbackpack",
+        "name": "Rainbow Dreamer’s Backpack",
+        "description": ""
       },
       {
         "code": "clothing_r24_fademanb_bd",
@@ -52700,6 +52705,16 @@
         "code": "dragonlamp_shinobi",
         "name": "Darkstar Dragons",
         "description": "The spirit of the Dark Dragons"
+      },
+      {
+        "code": "dream_r24_cloudtree",
+        "name": "Fluffy Cloud Tree",
+        "description": ""
+      },
+      {
+        "code": "dream_r24_dreameater",
+        "name": "Iridescent Dreameater",
+        "description": ""
       },
       {
         "code": "dressedtothenines_badge",
@@ -66918,7 +66933,7 @@
       },
       {
         "code": "hween_r24_ele",
-        "name": "hween_r24_ele name",
+        "name": "Neon Elephant Statue",
         "description": "hween_r24_ele desc"
       },
       {
@@ -77434,7 +77449,7 @@
       {
         "code": "nft_h24_cb_cpu",
         "name": "CPU Parts Trophy",
-        "description": ""
+        "description": "nft_h24_cb_cpu desc"
       },
       {
         "code": "nft_h24_cb_forge",
