@@ -2879,7 +2879,7 @@
       {
         "code": "CF_500_goodboy",
         "name": "Golden Good Boy",
-        "description": ""
+        "description": "CF_500_goodboy desc"
       },
       {
         "code": "CF_500_jewelledsnake",
@@ -33227,6 +33227,41 @@
         "description": "clothing_dreadlockstied desc"
       },
       {
+        "code": "clothing_dreambubble",
+        "name": "clothing_dreambubble name",
+        "description": "clothing_dreambubble desc"
+      },
+      {
+        "code": "clothing_dreamerhair",
+        "name": "clothing_dreamerhair name",
+        "description": "clothing_dreamerhair desc"
+      },
+      {
+        "code": "clothing_dreamerheadphones",
+        "name": "clothing_dreamerheadphones name",
+        "description": "clothing_dreamerheadphones desc"
+      },
+      {
+        "code": "clothing_dreamerpillow",
+        "name": "clothing_dreamerpillow name",
+        "description": "clothing_dreamerpillow desc"
+      },
+      {
+        "code": "clothing_dreamerslippers",
+        "name": "clothing_dreamerslippers name",
+        "description": "clothing_dreamerslippers desc"
+      },
+      {
+        "code": "clothing_dreamlongscarf",
+        "name": "clothing_dreamlongscarf name",
+        "description": "clothing_dreamlongscarf desc"
+      },
+      {
+        "code": "clothing_dreamsparkles",
+        "name": "clothing_dreamsparkles name",
+        "description": "clothing_dreamsparkles desc"
+      },
+      {
         "code": "clothing_dress",
         "name": "Victorian Dress",
         "description": "clothing_dress desc"
@@ -34755,6 +34790,11 @@
         "code": "clothing_modernshortwave",
         "name": "Smooth Waves",
         "description": "clothing_modernshortwave desc"
+      },
+      {
+        "code": "clothing_moonback",
+        "name": "clothing_moonback name",
+        "description": "clothing_moonback desc"
       },
       {
         "code": "clothing_moviestarhair",
@@ -38939,7 +38979,7 @@
       {
         "code": "clothing_r24_dreamerbackpack",
         "name": "Rainbow Dreamer’s Backpack",
-        "description": ""
+        "description": "clothing_r24_dreamerbackpack desc"
       },
       {
         "code": "clothing_r24_fademanb_bd",
@@ -38972,6 +39012,11 @@
         "description": "clothing_r24_ghostfriend desc"
       },
       {
+        "code": "clothing_r24_gladiatorhelmet",
+        "name": "clothing_r24_gladiatorhelmet name",
+        "description": "clothing_r24_gladiatorhelmet desc"
+      },
+      {
         "code": "clothing_r24_habbozila_bd",
         "name": "RARE Habbozilla Mask",
         "description": ""
@@ -38995,6 +39040,11 @@
         "code": "clothing_r24_hoodhair",
         "name": "Hooded Hair",
         "description": "clothing_r24_hoodhair desc"
+      },
+      {
+        "code": "clothing_r24_jellyfishhair",
+        "name": "clothing_r24_jellyfishhair name",
+        "description": "clothing_r24_jellyfishhair desc"
       },
       {
         "code": "clothing_r24_koalaharness",
@@ -52707,14 +52757,129 @@
         "description": "The spirit of the Dark Dragons"
       },
       {
+        "code": "dream_c24_cloudplant",
+        "name": "dream_c24_cloudplant name",
+        "description": "dream_c24_cloudplant desc"
+      },
+      {
+        "code": "dream_c24_doorway",
+        "name": "dream_c24_doorway name",
+        "description": "dream_c24_doorway desc"
+      },
+      {
+        "code": "dream_c24_dreammirror",
+        "name": "dream_c24_dreammirror name",
+        "description": "dream_c24_dreammirror desc"
+      },
+      {
+        "code": "dream_c24_dreammirrorb",
+        "name": "dream_c24_dreammirrorb name",
+        "description": "dream_c24_dreammirrorb desc"
+      },
+      {
+        "code": "dream_c24_floor",
+        "name": "dream_c24_floor name",
+        "description": "dream_c24_floor desc"
+      },
+      {
+        "code": "dream_c24_jellywishcrafting",
+        "name": "dream_c24_jellywishcrafting name",
+        "description": "dream_c24_jellywishcrafting desc"
+      },
+      {
+        "code": "dream_c24_moon",
+        "name": "dream_c24_moon name",
+        "description": "dream_c24_moon desc"
+      },
+      {
+        "code": "dream_c24_moonshard",
+        "name": "dream_c24_moonshard name",
+        "description": "dream_c24_moonshard desc"
+      },
+      {
+        "code": "dream_c24_puddle",
+        "name": "dream_c24_puddle name",
+        "description": "dream_c24_puddle desc"
+      },
+      {
+        "code": "dream_c24_rainbowroad1",
+        "name": "dream_c24_rainbowroad1 name",
+        "description": "dream_c24_rainbowroad1 desc"
+      },
+      {
+        "code": "dream_c24_rainbowroad2",
+        "name": "dream_c24_rainbowroad2 name",
+        "description": "dream_c24_rainbowroad2 desc"
+      },
+      {
+        "code": "dream_c24_rainbowroad3",
+        "name": "dream_c24_rainbowroad3 name",
+        "description": "dream_c24_rainbowroad3 desc"
+      },
+      {
+        "code": "dream_c24_star",
+        "name": "dream_c24_star name",
+        "description": "dream_c24_star desc"
+      },
+      {
+        "code": "dream_c24_storyboat",
+        "name": "dream_c24_storyboat name",
+        "description": "dream_c24_storyboat desc"
+      },
+      {
+        "code": "dream_c24_storybook",
+        "name": "dream_c24_storybook name",
+        "description": "dream_c24_storybook desc"
+      },
+      {
+        "code": "dream_c24_storybookb",
+        "name": "dream_c24_storybookb name",
+        "description": "dream_c24_storybookb desc"
+      },
+      {
+        "code": "dream_c24_storybookpages",
+        "name": "dream_c24_storybookpages name",
+        "description": "dream_c24_storybookpages desc"
+      },
+      {
+        "code": "dream_c24_storyplane",
+        "name": "dream_c24_storyplane name",
+        "description": "dream_c24_storyplane desc"
+      },
+      {
+        "code": "dream_c24_storyswan",
+        "name": "dream_c24_storyswan name",
+        "description": "dream_c24_storyswan desc"
+      },
+      {
+        "code": "dream_c24_sundial",
+        "name": "dream_c24_sundial name",
+        "description": "dream_c24_sundial desc"
+      },
+      {
+        "code": "dream_c24_tinyrainbow",
+        "name": "dream_c24_tinyrainbow name",
+        "description": "dream_c24_tinyrainbow desc"
+      },
+      {
+        "code": "dream_c24_waterfall",
+        "name": "dream_c24_waterfall name",
+        "description": "dream_c24_waterfall desc"
+      },
+      {
+        "code": "dream_c24_waterfloor",
+        "name": "dream_c24_waterfloor name",
+        "description": "dream_c24_waterfloor desc"
+      },
+      {
         "code": "dream_r24_cloudtree",
         "name": "Fluffy Cloud Tree",
-        "description": ""
+        "description": "dream_r24_cloudtree desc"
       },
       {
         "code": "dream_r24_dreameater",
         "name": "Iridescent Dreameater",
-        "description": ""
+        "description": "dream_r24_dreameater desc"
       },
       {
         "code": "dressedtothenines_badge",

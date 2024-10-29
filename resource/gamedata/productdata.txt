@@ -2877,7 +2877,7 @@
   [
     "CF_500_goodboy",
     "Golden Good Boy",
-    ""
+    "CF_500_goodboy desc"
   ],
   [
     "CF_500_jewelledsnake",
@@ -33225,6 +33225,41 @@
     "clothing_dreadlockstied desc"
   ],
   [
+    "clothing_dreambubble",
+    "clothing_dreambubble name",
+    "clothing_dreambubble desc"
+  ],
+  [
+    "clothing_dreamerhair",
+    "clothing_dreamerhair name",
+    "clothing_dreamerhair desc"
+  ],
+  [
+    "clothing_dreamerheadphones",
+    "clothing_dreamerheadphones name",
+    "clothing_dreamerheadphones desc"
+  ],
+  [
+    "clothing_dreamerpillow",
+    "clothing_dreamerpillow name",
+    "clothing_dreamerpillow desc"
+  ],
+  [
+    "clothing_dreamerslippers",
+    "clothing_dreamerslippers name",
+    "clothing_dreamerslippers desc"
+  ],
+  [
+    "clothing_dreamlongscarf",
+    "clothing_dreamlongscarf name",
+    "clothing_dreamlongscarf desc"
+  ],
+  [
+    "clothing_dreamsparkles",
+    "clothing_dreamsparkles name",
+    "clothing_dreamsparkles desc"
+  ],
+  [
     "clothing_dress",
     "Victorian Dress",
     "clothing_dress desc"
@@ -34753,6 +34788,11 @@
     "clothing_modernshortwave",
     "Smooth Waves",
     "clothing_modernshortwave desc"
+  ],
+  [
+    "clothing_moonback",
+    "clothing_moonback name",
+    "clothing_moonback desc"
   ],
   [
     "clothing_moviestarhair",
@@ -38937,7 +38977,7 @@
   [
     "clothing_r24_dreamerbackpack",
     "Rainbow Dreamer’s Backpack",
-    ""
+    "clothing_r24_dreamerbackpack desc"
   ],
   [
     "clothing_r24_fademanb_bd",
@@ -38970,6 +39010,11 @@
     "clothing_r24_ghostfriend desc"
   ],
   [
+    "clothing_r24_gladiatorhelmet",
+    "clothing_r24_gladiatorhelmet name",
+    "clothing_r24_gladiatorhelmet desc"
+  ],
+  [
     "clothing_r24_habbozila_bd",
     "RARE Habbozilla Mask",
     ""
@@ -38993,6 +39038,11 @@
     "clothing_r24_hoodhair",
     "Hooded Hair",
     "clothing_r24_hoodhair desc"
+  ],
+  [
+    "clothing_r24_jellyfishhair",
+    "clothing_r24_jellyfishhair name",
+    "clothing_r24_jellyfishhair desc"
   ],
   [
     "clothing_r24_koalaharness",
@@ -52705,14 +52755,129 @@
     "The spirit of the Dark Dragons"
   ],
   [
+    "dream_c24_cloudplant",
+    "dream_c24_cloudplant name",
+    "dream_c24_cloudplant desc"
+  ],
+  [
+    "dream_c24_doorway",
+    "dream_c24_doorway name",
+    "dream_c24_doorway desc"
+  ],
+  [
+    "dream_c24_dreammirror",
+    "dream_c24_dreammirror name",
+    "dream_c24_dreammirror desc"
+  ],
+  [
+    "dream_c24_dreammirrorb",
+    "dream_c24_dreammirrorb name",
+    "dream_c24_dreammirrorb desc"
+  ],
+  [
+    "dream_c24_floor",
+    "dream_c24_floor name",
+    "dream_c24_floor desc"
+  ],
+  [
+    "dream_c24_jellywishcrafting",
+    "dream_c24_jellywishcrafting name",
+    "dream_c24_jellywishcrafting desc"
+  ],
+  [
+    "dream_c24_moon",
+    "dream_c24_moon name",
+    "dream_c24_moon desc"
+  ],
+  [
+    "dream_c24_moonshard",
+    "dream_c24_moonshard name",
+    "dream_c24_moonshard desc"
+  ],
+  [
+    "dream_c24_puddle",
+    "dream_c24_puddle name",
+    "dream_c24_puddle desc"
+  ],
+  [
+    "dream_c24_rainbowroad1",
+    "dream_c24_rainbowroad1 name",
+    "dream_c24_rainbowroad1 desc"
+  ],
+  [
+    "dream_c24_rainbowroad2",
+    "dream_c24_rainbowroad2 name",
+    "dream_c24_rainbowroad2 desc"
+  ],
+  [
+    "dream_c24_rainbowroad3",
+    "dream_c24_rainbowroad3 name",
+    "dream_c24_rainbowroad3 desc"
+  ],
+  [
+    "dream_c24_star",
+    "dream_c24_star name",
+    "dream_c24_star desc"
+  ],
+  [
+    "dream_c24_storyboat",
+    "dream_c24_storyboat name",
+    "dream_c24_storyboat desc"
+  ],
+  [
+    "dream_c24_storybook",
+    "dream_c24_storybook name",
+    "dream_c24_storybook desc"
+  ],
+  [
+    "dream_c24_storybookb",
+    "dream_c24_storybookb name",
+    "dream_c24_storybookb desc"
+  ],
+  [
+    "dream_c24_storybookpages",
+    "dream_c24_storybookpages name",
+    "dream_c24_storybookpages desc"
+  ],
+  [
+    "dream_c24_storyplane",
+    "dream_c24_storyplane name",
+    "dream_c24_storyplane desc"
+  ],
+  [
+    "dream_c24_storyswan",
+    "dream_c24_storyswan name",
+    "dream_c24_storyswan desc"
+  ],
+  [
+    "dream_c24_sundial",
+    "dream_c24_sundial name",
+    "dream_c24_sundial desc"
+  ],
+  [
+    "dream_c24_tinyrainbow",
+    "dream_c24_tinyrainbow name",
+    "dream_c24_tinyrainbow desc"
+  ],
+  [
+    "dream_c24_waterfall",
+    "dream_c24_waterfall name",
+    "dream_c24_waterfall desc"
+  ],
+  [
+    "dream_c24_waterfloor",
+    "dream_c24_waterfloor name",
+    "dream_c24_waterfloor desc"
+  ],
+  [
     "dream_r24_cloudtree",
     "Fluffy Cloud Tree",
-    ""
+    "dream_r24_cloudtree desc"
   ],
   [
     "dream_r24_dreameater",
     "Iridescent Dreameater",
-    ""
+    "dream_r24_dreameater desc"
   ],
   [
     "dressedtothenines_badge",
