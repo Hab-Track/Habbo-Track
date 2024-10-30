@@ -32147,6 +32147,11 @@
         "description": "clothing_bigbowhairclip desc"
       },
       {
+        "code": "clothing_bigbushybeard",
+        "name": "clothing_bigbushybeard name",
+        "description": "clothing_bigbushybeard desc"
+      },
+      {
         "code": "clothing_bigbutton",
         "name": "Large Button",
         "description": "clothing_bigbutton desc"
@@ -32657,6 +32662,11 @@
         "description": "No animals were harmed in the making of Habbo Couture: Jurassic."
       },
       {
+        "code": "clothing_chainedearrings",
+        "name": "clothing_chainedearrings name",
+        "description": "clothing_chainedearrings desc"
+      },
+      {
         "code": "clothing_charmnecklace",
         "name": "Painted Charm Necklace",
         "description": "clothing_charmnecklace desc"
@@ -32745,6 +32755,11 @@
         "code": "clothing_classicsombrero",
         "name": "Big Sombrero",
         "description": "clothing_classicsombrero desc"
+      },
+      {
+        "code": "clothing_clippedupdo",
+        "name": "clothing_clippedupdo name",
+        "description": "clothing_clippedupdo desc"
       },
       {
         "code": "clothing_clownface",
@@ -33228,27 +33243,27 @@
       },
       {
         "code": "clothing_dreambubble",
-        "name": "clothing_dreambubble name",
+        "name": "Dreaming of Ducks",
         "description": "clothing_dreambubble desc"
       },
       {
         "code": "clothing_dreamerhair",
-        "name": "clothing_dreamerhair name",
+        "name": "Dreamer Bun",
         "description": "clothing_dreamerhair desc"
       },
       {
         "code": "clothing_dreamerheadphones",
-        "name": "clothing_dreamerheadphones name",
+        "name": "Good Dream Headphones",
         "description": "clothing_dreamerheadphones desc"
       },
       {
         "code": "clothing_dreamerpillow",
-        "name": "clothing_dreamerpillow name",
+        "name": "Dreamer’s Pillow",
         "description": "clothing_dreamerpillow desc"
       },
       {
         "code": "clothing_dreamerslippers",
-        "name": "clothing_dreamerslippers name",
+        "name": "Cloud Slippers",
         "description": "clothing_dreamerslippers desc"
       },
       {
@@ -33258,13 +33273,18 @@
       },
       {
         "code": "clothing_dreamsparkles",
-        "name": "clothing_dreamsparkles name",
+        "name": "Sleepy Dust",
         "description": "clothing_dreamsparkles desc"
       },
       {
         "code": "clothing_dress",
         "name": "Victorian Dress",
         "description": "clothing_dress desc"
+      },
+      {
+        "code": "clothing_dressinggown",
+        "name": "clothing_dressinggown name",
+        "description": "clothing_dressinggown desc"
       },
       {
         "code": "clothing_drillserg",
@@ -33532,6 +33552,11 @@
         "description": "clothing_flipflopsocks desc"
       },
       {
+        "code": "clothing_flippedxmashat",
+        "name": "clothing_flippedxmashat name",
+        "description": "clothing_flippedxmashat desc"
+      },
+      {
         "code": "clothing_flippers",
         "name": "Flippers",
         "description": "clothing_flippers desc"
@@ -33635,6 +33660,11 @@
         "code": "clothing_frostedtipshair",
         "name": "Frosted Tips",
         "description": "clothing_frostedtipshair desc"
+      },
+      {
+        "code": "clothing_frozenelfears",
+        "name": "clothing_frozenelfears name",
+        "description": "clothing_frozenelfears desc"
       },
       {
         "code": "clothing_fruitbag",
@@ -34142,6 +34172,11 @@
         "description": "clothing_hkheadphones desc"
       },
       {
+        "code": "clothing_hollydress",
+        "name": "clothing_hollydress name",
+        "description": "clothing_hollydress desc"
+      },
+      {
         "code": "clothing_hollyhairpin",
         "name": "Holly Hairpin",
         "description": "clothing_hollyhairpin desc"
@@ -34392,6 +34427,11 @@
         "description": "clothing_leatherhoodie desc"
       },
       {
+        "code": "clothing_leathernecklace",
+        "name": "clothing_leathernecklace name",
+        "description": "clothing_leathernecklace desc"
+      },
+      {
         "code": "clothing_leathertrousers",
         "name": "Pleather Trousers",
         "description": "clothing_leathertrousers desc"
@@ -34417,6 +34457,11 @@
         "description": "clothing_lionmask desc"
       },
       {
+        "code": "clothing_littlesnowman",
+        "name": "clothing_littlesnowman name",
+        "description": "clothing_littlesnowman desc"
+      },
+      {
         "code": "clothing_longmohawk",
         "name": "Long Mohawk",
         "description": "clothing_longmohawk desc"
@@ -34430,6 +34475,11 @@
         "code": "clothing_longtshirt",
         "name": "Long sleeve T-Shirt",
         "description": "Cover up those pasty forearms."
+      },
+      {
+        "code": "clothing_longwinterdress",
+        "name": "clothing_longwinterdress name",
+        "description": "clothing_longwinterdress desc"
       },
       {
         "code": "clothing_loosekimono",
@@ -34793,7 +34843,7 @@
       },
       {
         "code": "clothing_moonback",
-        "name": "clothing_moonback name",
+        "name": "Crescent Moon",
         "description": "clothing_moonback desc"
       },
       {
@@ -35322,6 +35372,16 @@
         "description": "clothing_nftfrostybucket desc"
       },
       {
+        "code": "clothing_nftfrozenface",
+        "name": "clothing_nftfrozenface name",
+        "description": "clothing_nftfrozenface desc"
+      },
+      {
+        "code": "clothing_nftfrozenscarf",
+        "name": "clothing_nftfrozenscarf name",
+        "description": "clothing_nftfrozenscarf desc"
+      },
+      {
         "code": "clothing_nftgardenshoes1",
         "name": "White Garden Shoes",
         "description": "clothing_nftgardenshoes1 desc"
@@ -35345,6 +35405,11 @@
         "code": "clothing_nftgiftbox",
         "name": "Blue Gift Box Outfit",
         "description": "clothing_nftgiftbox desc"
+      },
+      {
+        "code": "clothing_nftgoodvsevil",
+        "name": "clothing_nftgoodvsevil name",
+        "description": "clothing_nftgoodvsevil desc"
       },
       {
         "code": "clothing_nftgraffiticroptop",
@@ -36565,6 +36630,11 @@
         "code": "clothing_offshldrjumper",
         "name": "Off-Shoulder Jumper",
         "description": "Have you got gorgeous shoulders?"
+      },
+      {
+        "code": "clothing_offshouldercardigan",
+        "name": "clothing_offshouldercardigan name",
+        "description": "clothing_offshouldercardigan desc"
       },
       {
         "code": "clothing_offshoulderjumpsuit",
@@ -39043,13 +39113,18 @@
       },
       {
         "code": "clothing_r24_jellyfishhair",
-        "name": "clothing_r24_jellyfishhair name",
+        "name": "Celestial Jellyfish Hair",
         "description": "clothing_r24_jellyfishhair desc"
       },
       {
         "code": "clothing_r24_koalaharness",
         "name": "Koala Carrier",
         "description": "clothing_r24_koalaharness desc"
+      },
+      {
+        "code": "clothing_r24_longwaveshair",
+        "name": "clothing_r24_longwaveshair name",
+        "description": "clothing_r24_longwaveshair desc"
       },
       {
         "code": "clothing_r24_magichat_bd",
@@ -39112,6 +39187,11 @@
         "description": "clothing_r24_sombrerose desc"
       },
       {
+        "code": "clothing_r24_sparklyhalo",
+        "name": "clothing_r24_sparklyhalo name",
+        "description": "clothing_r24_sparklyhalo desc"
+      },
+      {
         "code": "clothing_r24_spider_bd",
         "name": "RARE Back Spider!",
         "description": ""
@@ -39155,6 +39235,11 @@
         "code": "clothing_r24_tinyhat",
         "name": "clothing_r24_tinyhat name",
         "description": "clothing_r24_tinyhat desc"
+      },
+      {
+        "code": "clothing_r24_xmastreebackpack",
+        "name": "clothing_r24_xmastreebackpack name",
+        "description": "clothing_r24_xmastreebackpack desc"
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -39230,6 +39315,11 @@
         "code": "clothing_reindeerbackpack",
         "name": "Reindeer Backpack",
         "description": "clothing_reindeerbackpack desc"
+      },
+      {
+        "code": "clothing_reindeerears",
+        "name": "clothing_reindeerears name",
+        "description": "clothing_reindeerears desc"
       },
       {
         "code": "clothing_retrohair",
@@ -39867,6 +39957,11 @@
         "description": "clothing_toughface desc"
       },
       {
+        "code": "clothing_tousledwave",
+        "name": "clothing_tousledwave name",
+        "description": "clothing_tousledwave desc"
+      },
+      {
         "code": "clothing_towelhair",
         "name": "Towel Hair",
         "description": "clothing_towelhair desc"
@@ -40085,6 +40180,11 @@
         "code": "clothing_urbanoutfit",
         "name": "Skater Outfit",
         "description": "Skater for life."
+      },
+      {
+        "code": "clothing_verticalnecklace",
+        "name": "clothing_verticalnecklace name",
+        "description": "clothing_verticalnecklace desc"
       },
       {
         "code": "clothing_vibrantguitar",
@@ -52758,117 +52858,122 @@
       },
       {
         "code": "dream_c24_cloudplant",
-        "name": "dream_c24_cloudplant name",
+        "name": "Cloud Plant",
         "description": "dream_c24_cloudplant desc"
       },
       {
         "code": "dream_c24_doorway",
-        "name": "dream_c24_doorway name",
+        "name": "Dreamer’s Portal",
         "description": "dream_c24_doorway desc"
       },
       {
         "code": "dream_c24_dreammirror",
-        "name": "dream_c24_dreammirror name",
+        "name": "Dreamy Mirror",
         "description": "dream_c24_dreammirror desc"
       },
       {
         "code": "dream_c24_dreammirrorb",
-        "name": "dream_c24_dreammirrorb name",
+        "name": "Dreamy Mirror",
         "description": "dream_c24_dreammirrorb desc"
       },
       {
         "code": "dream_c24_floor",
-        "name": "dream_c24_floor name",
+        "name": "Dreamer’s Floor",
         "description": "dream_c24_floor desc"
       },
       {
         "code": "dream_c24_jellywishcrafting",
-        "name": "dream_c24_jellywishcrafting name",
+        "name": "Jellywish Crafting Table",
         "description": "dream_c24_jellywishcrafting desc"
       },
       {
         "code": "dream_c24_moon",
-        "name": "dream_c24_moon name",
+        "name": "Perfect Moon",
         "description": "dream_c24_moon desc"
       },
       {
         "code": "dream_c24_moonshard",
-        "name": "dream_c24_moonshard name",
+        "name": "Moon Shard",
         "description": "dream_c24_moonshard desc"
       },
       {
         "code": "dream_c24_puddle",
-        "name": "dream_c24_puddle name",
+        "name": "Luminous Puddle",
         "description": "dream_c24_puddle desc"
       },
       {
         "code": "dream_c24_rainbowroad1",
-        "name": "dream_c24_rainbowroad1 name",
+        "name": "Rainbow Path",
         "description": "dream_c24_rainbowroad1 desc"
       },
       {
         "code": "dream_c24_rainbowroad2",
-        "name": "dream_c24_rainbowroad2 name",
+        "name": "Rainbow Path",
         "description": "dream_c24_rainbowroad2 desc"
       },
       {
         "code": "dream_c24_rainbowroad3",
-        "name": "dream_c24_rainbowroad3 name",
+        "name": "Rainbow Path",
         "description": "dream_c24_rainbowroad3 desc"
       },
       {
+        "code": "dream_c24_skybg",
+        "name": "Dreamer’s Sky",
+        "description": "dream_c24_skybg desc"
+      },
+      {
         "code": "dream_c24_star",
-        "name": "dream_c24_star name",
+        "name": "Opulent Star",
         "description": "dream_c24_star desc"
       },
       {
         "code": "dream_c24_storyboat",
-        "name": "dream_c24_storyboat name",
+        "name": "Storybook Paper Boat",
         "description": "dream_c24_storyboat desc"
       },
       {
         "code": "dream_c24_storybook",
-        "name": "dream_c24_storybook name",
+        "name": "Dreamy Storybook",
         "description": "dream_c24_storybook desc"
       },
       {
         "code": "dream_c24_storybookb",
-        "name": "dream_c24_storybookb name",
+        "name": "Dreamy Storybook",
         "description": "dream_c24_storybookb desc"
       },
       {
         "code": "dream_c24_storybookpages",
-        "name": "dream_c24_storybookpages name",
+        "name": "Storybook Pages",
         "description": "dream_c24_storybookpages desc"
       },
       {
         "code": "dream_c24_storyplane",
-        "name": "dream_c24_storyplane name",
+        "name": "Storybook Paper Plane",
         "description": "dream_c24_storyplane desc"
       },
       {
         "code": "dream_c24_storyswan",
-        "name": "dream_c24_storyswan name",
+        "name": "Storybook Origami Swan",
         "description": "dream_c24_storyswan desc"
       },
       {
         "code": "dream_c24_sundial",
-        "name": "dream_c24_sundial name",
+        "name": "Ornamental Sundial",
         "description": "dream_c24_sundial desc"
       },
       {
         "code": "dream_c24_tinyrainbow",
-        "name": "dream_c24_tinyrainbow name",
+        "name": "Small Rainbow",
         "description": "dream_c24_tinyrainbow desc"
       },
       {
         "code": "dream_c24_waterfall",
-        "name": "dream_c24_waterfall name",
+        "name": "Soothing Waterfall",
         "description": "dream_c24_waterfall desc"
       },
       {
         "code": "dream_c24_waterfloor",
-        "name": "dream_c24_waterfloor name",
+        "name": "Dreamer’s Water Floor",
         "description": "dream_c24_waterfloor desc"
       },
       {
@@ -58428,12 +58533,12 @@
       },
       {
         "code": "frbirthday_c24_potatosack",
-        "name": "frbirthday_c24_potatosack name",
+        "name": "Sack of Potatoes",
         "description": "frbirthday_c24_potatosack desc"
       },
       {
         "code": "frbirthday_c24_saucisson",
-        "name": "frbirthday_c24_saucisson name",
+        "name": "Cured Sausage",
         "description": "frbirthday_c24_saucisson desc"
       },
       {
@@ -74332,6 +74437,21 @@
         "description": ""
       },
       {
+        "code": "nft_A0_rarebeehiveblue",
+        "name": "Blue Amber Lamp",
+        "description": "No bees were harmed during the production."
+      },
+      {
+        "code": "nft_A0_rarebeehivered",
+        "name": "Red Amber Lamp",
+        "description": "No bees were harmed during the production."
+      },
+      {
+        "code": "nft_A0_rarebeehiveyellow",
+        "name": "Yellow Amber Lamp",
+        "description": "No bees were harmed during the production."
+      },
+      {
         "code": "nft_A0_raredaffodilrug",
         "name": "Petal Patch",
         "description": "A little bit of outdoors indoors.."
@@ -74477,6 +74597,16 @@
         "description": "Welcome Habbos in style"
       },
       {
+        "code": "nft_A1_PL1",
+        "name": "Aloe Vera",
+        "description": "Goodbye Bert..."
+      },
+      {
+        "code": "nft_DEV_exe_globe",
+        "name": "nft_DEV_exe_globe",
+        "description": ""
+      },
+      {
         "code": "nft_a0_clubrug",
         "name": "Club Rug",
         "description": "Club Rug"
@@ -74510,6 +74640,11 @@
         "code": "nft_a0_hc_bkshlf",
         "name": "nft_hc_bkshlf",
         "description": "nft_hc_bkshlf"
+      },
+      {
+        "code": "nft_a0_hc_chr",
+        "name": "Majestic Chair",
+        "description": "Royal comfort"
       },
       {
         "code": "nft_a0_hc_dsk",
@@ -74560,6 +74695,11 @@
         "code": "nft_a0_hemingway",
         "name": "Typewriter",
         "description": "Write that bestseller"
+      },
+      {
+        "code": "nft_a0_industrial_fan",
+        "name": "Industrial turbine",
+        "description": "Industrial turbine"
       },
       {
         "code": "nft_a0_marquee",
@@ -74700,6 +74840,11 @@
         "code": "nft_a0_throne",
         "name": "Throne",
         "description": "Important Habbos only"
+      },
+      {
+        "code": "nft_a0_turntable",
+        "name": "DJ Turntable",
+        "description": "The wheels of expression"
       },
       {
         "code": "nft_a0_wooden_screen",
@@ -74870,6 +75015,11 @@
         "code": "nft_a1_scifirocket",
         "name": "Red Scifirocket",
         "description": "Retro steam engine"
+      },
+      {
+        "code": "nft_a2_holoholo",
+        "name": "Holo-girl",
+        "description": "You're her only hope..."
       },
       {
         "code": "nft_a2_nft_scifirocket",
@@ -75597,6 +75747,11 @@
         "description": "nft_catcafe_c23_cattree desc"
       },
       {
+        "code": "nft_catcafe_r23_catwaiter",
+        "name": "nft_catcafe_r23_catwaiter name",
+        "description": "nft_catcafe_r23_catwaiter desc"
+      },
+      {
         "code": "nft_chair_plasto2",
         "name": "nft_chair_plasto2 name",
         "description": "nft_chair_plasto2 desc"
@@ -75677,6 +75832,11 @@
         "description": "nft_credit_50 desc"
       },
       {
+        "code": "nft_crystal_patch",
+        "name": "nft_crystal_patch",
+        "description": "bling on"
+      },
+      {
         "code": "nft_diamond_dragon",
         "name": "nft_diamond_dragon name",
         "description": "nft_diamond_dragon desc"
@@ -75707,6 +75867,11 @@
         "description": "nft_diamond_painting67 desc"
       },
       {
+        "code": "nft_diamond_painting6",
+        "name": "nft_diamond_painting6 name",
+        "description": "nft_diamond_painting6 desc"
+      },
+      {
         "code": "nft_diamond_painting71",
         "name": "nft_diamond_painting71 name",
         "description": "nft_diamond_painting71 desc"
@@ -75730,6 +75895,16 @@
         "code": "nft_easter14_eggstar",
         "name": "nft_easter14_eggstar name",
         "description": "nft_easter14_eggstar desc"
+      },
+      {
+        "code": "nft_eco_cactus3",
+        "name": "nft_eco_cactus3 name",
+        "description": "nft_eco_cactus3 desc"
+      },
+      {
+        "code": "nft_eco_tree2",
+        "name": "nft_eco_tree2 name",
+        "description": "nft_eco_tree2 desc"
       },
       {
         "code": "nft_emerald_10000",
@@ -76162,6 +76337,11 @@
         "description": "nft_ff23_whaleplush desc"
       },
       {
+        "code": "nft_garden15_lawnmower",
+        "name": "nft_garden15_lawnmower name",
+        "description": "nft_garden15_lawnmower desc"
+      },
+      {
         "code": "nft_gold_c15_arc_camp",
         "name": "nft_gold_c15_arc_camp name",
         "description": "nft_gold_c15_arc_camp desc"
@@ -76180,6 +76360,11 @@
         "code": "nft_gothic15_toilet",
         "name": "nft_gothic15_toilet name",
         "description": "nft_gothic15_toilet desc"
+      },
+      {
+        "code": "nft_greek_r19_chariot",
+        "name": "nft_greek_r19_chariot name",
+        "description": "nft_greek_r19_chariot desc"
       },
       {
         "code": "nft_greek_r19_luxbed",
@@ -77777,6 +77962,11 @@
         "description": "nft_h24_circusswitch desc"
       },
       {
+        "code": "nft_h24_cloudswing",
+        "name": "nft_h24_cloudswing name",
+        "description": "nft_h24_cloudswing desc"
+      },
+      {
         "code": "nft_h24_clownstandin1",
         "name": "Short Clown Standee",
         "description": "nft_h24_clownstandin1 desc"
@@ -77865,6 +78055,11 @@
         "code": "nft_h24_largeshowcase",
         "name": "Large Collector’s Showcase",
         "description": "nft_h24_largeshowcase desc"
+      },
+      {
+        "code": "nft_h24_layoncloud",
+        "name": "nft_h24_layoncloud name",
+        "description": "nft_h24_layoncloud desc"
       },
       {
         "code": "nft_h24_lidoduck",
@@ -77957,6 +78152,11 @@
         "description": "nft_h24_showcase desc"
       },
       {
+        "code": "nft_h24_sitoncloud",
+        "name": "nft_h24_sitoncloud name",
+        "description": "nft_h24_sitoncloud desc"
+      },
+      {
         "code": "nft_h24_skull1",
         "name": "Mystic Ornamental Skull",
         "description": "nft_h24_skull1 desc"
@@ -77995,6 +78195,11 @@
         "code": "nft_h24_thunderfruit",
         "name": "Thunder Fruit",
         "description": "nft_h24_thunderfruit desc"
+      },
+      {
+        "code": "nft_habbo15_beehive",
+        "name": "habbo15_beehive name",
+        "description": "habbo15_beehive desc"
       },
       {
         "code": "nft_habbo15_dragonlamp",
@@ -78112,6 +78317,11 @@
         "description": "nft_hween14_rare1 desc"
       },
       {
+        "code": "nft_hween_r18_antiquechemset",
+        "name": "nft_hween_r18_antiquechemset name",
+        "description": "nft_hween_r18_antiquechemset desc"
+      },
+      {
         "code": "nft_jungle_r16_basket",
         "name": "nft_jungle_r16_basket name",
         "description": "nft_jungle_r16_basket desc"
@@ -78130,6 +78340,16 @@
         "code": "nft_ktchn15_fridge",
         "name": "nft_ktchn15_fridge name",
         "description": "nft_ktchn15_fridge desc"
+      },
+      {
+        "code": "nft_lostc_merdragon",
+        "name": "nft_lostc_merdragon name",
+        "description": "nft_lostc_merdragon desc"
+      },
+      {
+        "code": "nft_matic_dispenser",
+        "name": "nft_matic_dispenser name",
+        "description": "nft_matic_dispenser desc"
       },
       {
         "code": "nft_mint_token_purchase_10",
@@ -78517,6 +78737,21 @@
         "description": "nft_sc24_floatingduck desc"
       },
       {
+        "code": "nft_sc24_frozenhammock",
+        "name": "nft_sc24_frozenhammock name",
+        "description": "nft_sc24_frozenhammock desc"
+      },
+      {
+        "code": "nft_sc24_frozensakura",
+        "name": "nft_sc24_frozensakura name",
+        "description": "nft_sc24_frozensakura desc"
+      },
+      {
+        "code": "nft_sc24_frozentree",
+        "name": "nft_sc24_frozentree name",
+        "description": "nft_sc24_frozentree desc"
+      },
+      {
         "code": "nft_sc24_goldfishfountain",
         "name": "Hotel Goldfish Fountain",
         "description": "nft_sc24_goldfishfountain desc"
@@ -78570,6 +78805,11 @@
         "code": "nft_sc24_nelly",
         "name": "Nelly Plushie",
         "description": "nft_sc24_nelly desc"
+      },
+      {
+        "code": "nft_sf_pod",
+        "name": "nft_sf_pod",
+        "description": ""
       },
       {
         "code": "nft_st_wildwest_buffalo",
@@ -78675,6 +78915,11 @@
         "code": "nft_u24_plastomemorial",
         "name": "Plasto Memorial",
         "description": "nft_u24_plastomemorial desc"
+      },
+      {
+        "code": "nft_val15_hottub",
+        "name": "nft_val15_hottub name",
+        "description": "nft_val15_hottub desc"
       },
       {
         "code": "nft_wildwest_gallows",
@@ -113822,6 +114067,231 @@
         "description": "xmas_c23_water desc"
       },
       {
+        "code": "xmas_c24_advent1",
+        "name": "xmas_c24_advent1 name",
+        "description": "xmas_c24_advent1 desc"
+      },
+      {
+        "code": "xmas_c24_advent2",
+        "name": "xmas_c24_advent2 name",
+        "description": "xmas_c24_advent2 desc"
+      },
+      {
+        "code": "xmas_c24_advent3",
+        "name": "xmas_c24_advent3 name",
+        "description": "xmas_c24_advent3 desc"
+      },
+      {
+        "code": "xmas_c24_advent4",
+        "name": "xmas_c24_advent4 name",
+        "description": "xmas_c24_advent4 desc"
+      },
+      {
+        "code": "xmas_c24_advent5",
+        "name": "xmas_c24_advent5 name",
+        "description": "xmas_c24_advent5 desc"
+      },
+      {
+        "code": "xmas_c24_advent6",
+        "name": "xmas_c24_advent6 name",
+        "description": "xmas_c24_advent6 desc"
+      },
+      {
+        "code": "xmas_c24_advent7",
+        "name": "xmas_c24_advent7 name",
+        "description": "xmas_c24_advent7 desc"
+      },
+      {
+        "code": "xmas_c24_advent8",
+        "name": "xmas_c24_advent8 name",
+        "description": "xmas_c24_advent8 desc"
+      },
+      {
+        "code": "xmas_c24_batterycandle",
+        "name": "xmas_c24_batterycandle name",
+        "description": "xmas_c24_batterycandle desc"
+      },
+      {
+        "code": "xmas_c24_baubletrap",
+        "name": "xmas_c24_baubletrap name",
+        "description": "xmas_c24_baubletrap desc"
+      },
+      {
+        "code": "xmas_c24_bonniepocket",
+        "name": "xmas_c24_bonniepocket name",
+        "description": "xmas_c24_bonniepocket desc"
+      },
+      {
+        "code": "xmas_c24_brokenbaubles",
+        "name": "xmas_c24_brokenbaubles name",
+        "description": "xmas_c24_brokenbaubles desc"
+      },
+      {
+        "code": "xmas_c24_coffeetable",
+        "name": "xmas_c24_coffeetable name",
+        "description": "xmas_c24_coffeetable desc"
+      },
+      {
+        "code": "xmas_c24_diningtable",
+        "name": "xmas_c24_diningtable name",
+        "description": "xmas_c24_diningtable desc"
+      },
+      {
+        "code": "xmas_c24_dinningchair",
+        "name": "xmas_c24_dinningchair name",
+        "description": "xmas_c24_dinningchair desc"
+      },
+      {
+        "code": "xmas_c24_doublesofa",
+        "name": "xmas_c24_doublesofa name",
+        "description": "xmas_c24_doublesofa desc"
+      },
+      {
+        "code": "xmas_c24_drawpad",
+        "name": "xmas_c24_drawpad name",
+        "description": "xmas_c24_drawpad desc"
+      },
+      {
+        "code": "xmas_c24_ducktrapgame",
+        "name": "xmas_c24_ducktrapgame name",
+        "description": "xmas_c24_ducktrapgame desc"
+      },
+      {
+        "code": "xmas_c24_foildecor2",
+        "name": "xmas_c24_foildecor2 name",
+        "description": "xmas_c24_foildecor2 desc"
+      },
+      {
+        "code": "xmas_c24_foildecor",
+        "name": "xmas_c24_foildecor name",
+        "description": "xmas_c24_foildecor desc"
+      },
+      {
+        "code": "xmas_c24_foilstar",
+        "name": "xmas_c24_foilstar name",
+        "description": "xmas_c24_foilstar desc"
+      },
+      {
+        "code": "xmas_c24_hungryducks",
+        "name": "xmas_c24_hungryducks name",
+        "description": "xmas_c24_hungryducks desc"
+      },
+      {
+        "code": "xmas_c24_kickeroo",
+        "name": "xmas_c24_kickeroo name",
+        "description": "xmas_c24_kickeroo desc"
+      },
+      {
+        "code": "xmas_c24_minitree",
+        "name": "xmas_c24_minitree name",
+        "description": "xmas_c24_minitree desc"
+      },
+      {
+        "code": "xmas_c24_mrfrankhead",
+        "name": "xmas_c24_mrfrankhead name",
+        "description": "xmas_c24_mrfrankhead desc"
+      },
+      {
+        "code": "xmas_c24_mugs",
+        "name": "xmas_c24_mugs name",
+        "description": "xmas_c24_mugs desc"
+      },
+      {
+        "code": "xmas_c24_naughtynicelist",
+        "name": "xmas_c24_naughtynicelist name",
+        "description": "xmas_c24_naughtynicelist desc"
+      },
+      {
+        "code": "xmas_c24_papersnowflakes",
+        "name": "xmas_c24_papersnowflakes name",
+        "description": "xmas_c24_papersnowflakes desc"
+      },
+      {
+        "code": "xmas_c24_patchbaby",
+        "name": "xmas_c24_patchbaby name",
+        "description": "xmas_c24_patchbaby desc"
+      },
+      {
+        "code": "xmas_c24_plate",
+        "name": "xmas_c24_plate name",
+        "description": "xmas_c24_plate desc"
+      },
+      {
+        "code": "xmas_c24_pogoball",
+        "name": "xmas_c24_pogoball name",
+        "description": "xmas_c24_pogoball desc"
+      },
+      {
+        "code": "xmas_c24_presentrap",
+        "name": "xmas_c24_presentrap name",
+        "description": "xmas_c24_presentrap desc"
+      },
+      {
+        "code": "xmas_c24_retroconsole",
+        "name": "xmas_c24_retroconsole name",
+        "description": "xmas_c24_retroconsole desc"
+      },
+      {
+        "code": "xmas_c24_retrotree",
+        "name": "xmas_c24_retrotree name",
+        "description": "xmas_c24_retrotree desc"
+      },
+      {
+        "code": "xmas_c24_rug",
+        "name": "xmas_c24_rug name",
+        "description": "xmas_c24_rug desc"
+      },
+      {
+        "code": "xmas_c24_singlesofa",
+        "name": "xmas_c24_singlesofa name",
+        "description": "xmas_c24_singlesofa desc"
+      },
+      {
+        "code": "xmas_c24_snacks1",
+        "name": "xmas_c24_snacks1 name",
+        "description": "xmas_c24_snacks1 desc"
+      },
+      {
+        "code": "xmas_c24_snacks2",
+        "name": "xmas_c24_snacks2 name",
+        "description": "xmas_c24_snacks2 desc"
+      },
+      {
+        "code": "xmas_c24_snacks3",
+        "name": "xmas_c24_snacks3 name",
+        "description": "xmas_c24_snacks3 desc"
+      },
+      {
+        "code": "xmas_c24_snowywindows",
+        "name": "xmas_c24_snowywindows name",
+        "description": "xmas_c24_snowywindows desc"
+      },
+      {
+        "code": "xmas_c24_sunnywindows",
+        "name": "xmas_c24_sunnywindows name",
+        "description": "xmas_c24_sunnywindows desc"
+      },
+      {
+        "code": "xmas_c24_teapot",
+        "name": "xmas_c24_teapot name",
+        "description": "xmas_c24_teapot desc"
+      },
+      {
+        "code": "xmas_c24_tvcabinet",
+        "name": "xmas_c24_tvcabinet name",
+        "description": "xmas_c24_tvcabinet desc"
+      },
+      {
+        "code": "xmas_c24_wallpaper",
+        "name": "xmas_c24_wallpaper name",
+        "description": "xmas_c24_wallpaper desc"
+      },
+      {
+        "code": "xmas_c24_wreath",
+        "name": "xmas_c24_wreath name",
+        "description": "xmas_c24_wreath desc"
+      },
+      {
         "code": "xmas_cstl_gate",
         "name": "Snow Castle Gate",
         "description": "Knock on ice to get in"
@@ -114155,6 +114625,11 @@
         "code": "xmas_r23_hangingseat",
         "name": "Aerial Seat",
         "description": ""
+      },
+      {
+        "code": "xmas_r24_divinedeer",
+        "name": "xmas_r24_divinedeer name",
+        "description": "xmas_r24_divinedeer desc"
       },
       {
         "code": "xmas_snow",
