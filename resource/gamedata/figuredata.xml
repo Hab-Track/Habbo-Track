@@ -13520,6 +13520,10 @@
                 <part id="6175" type="ca" colorable="1" index="1" colorindex="2"/>
                 <part id="6176" type="ca" colorable="0" index="2" colorindex="0"/>
             </set>
+            <set id="5824" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="6193" type="ca" colorable="0" index="0" colorindex="0"/>
+                <part id="6194" type="ca" colorable="1" index="1" colorindex="1"/>
+            </set>
             <set id="1803" gender="U" club="0" colorable="1" selectable="1" preselectable="0">
                 <part id="3" type="ca" colorable="1" index="0" colorindex="1"/>
             </set>
