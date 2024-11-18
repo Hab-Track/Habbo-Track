@@ -99582,8 +99582,68 @@
         "description": "Space for four space-exploring Habbos."
       },
       {
+        "code": "se_doorD",
+        "name": "Signature Edition Imperial Teleports",
+        "description": ""
+      },
+      {
+        "code": "se_edicehc",
+        "name": "Signature Edition Dicemaster",
+        "description": ""
+      },
+      {
+        "code": "se_hc_chr",
+        "name": "Signature Edition Majestic Chair",
+        "description": ""
+      },
+      {
+        "code": "se_hc_crtn",
+        "name": "Signature Edition Antique Drapery",
+        "description": ""
+      },
+      {
+        "code": "se_hc_dsk",
+        "name": "Signature Edition Study Desk",
+        "description": ""
+      },
+      {
+        "code": "se_hc_lmp",
+        "name": "Signature Edition Oil Lamp",
+        "description": ""
+      },
+      {
+        "code": "se_hc_rllr",
+        "name": "Signature Edition HC Roller",
+        "description": ""
+      },
+      {
+        "code": "se_hcamme",
+        "name": "Signature Edition Tubmaster",
+        "description": ""
+      },
+      {
+        "code": "se_hcsohva",
+        "name": "Signature Edition Throne Sofa",
+        "description": ""
+      },
+      {
+        "code": "se_hctbl",
+        "name": "Signature Edition Nordic Table",
+        "description": ""
+      },
+      {
+        "code": "se_mocchamaster",
+        "name": "Signature Edition Mochamaster",
+        "description": ""
+      },
+      {
+        "code": "se_trophyG",
+        "name": "Signature Edition HC Sofa",
+        "description": ""
+      },
+      {
         "code": "se_trophyS",
-        "name": "se_trophyS name",
+        "name": "Signature Edition Stone Trophy",
         "description": "se_trophyS desc"
       },
       {
@@ -104105,6 +104165,11 @@
         "code": "trax_party",
         "name": "Trax Pack: Red Party",
         "description": "You here to partyyy?"
+      },
+      {
+        "code": "trax_record_mixdown24",
+        "name": "Trax Mixdown 2024 Plaque",
+        "description": ""
       },
       {
         "code": "trax_rock1_jan08_deal",
