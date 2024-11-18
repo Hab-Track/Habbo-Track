@@ -13252,6 +13252,11 @@
         "description": "Staff Effect_desc"
       },
       {
+        "code": "avatar_effect103",
+        "name": "RidingSaddle_name",
+        "description": "RidingSaddle_desc"
+      },
+      {
         "code": "avatar_effect104",
         "name": "Pie Effect",
         "description": "Lasts for 24 hours"
@@ -13452,6 +13457,11 @@
         "description": "Use your power for good!"
       },
       {
+        "code": "avatar_effect140",
+        "name": "HabnamDance_name",
+        "description": "HabnamDance_desc"
+      },
+      {
         "code": "avatar_effect141",
         "name": "Flower Mask",
         "description": "Who's behind that mask?"
@@ -13637,6 +13647,16 @@
         "description": "Hoverboard Green_desc"
       },
       {
+        "code": "avatar_effect175",
+        "name": "Red Airplane_name",
+        "description": "Red Airplane_desc"
+      },
+      {
+        "code": "avatar_effect176",
+        "name": "Blue Airplane_name",
+        "description": "Blue Airplane_desc"
+      },
+      {
         "code": "avatar_effect177",
         "name": "Tar and Feather",
         "description": "You deserved it!"
@@ -13675,6 +13695,16 @@
         "code": "avatar_effect183",
         "name": "Fossil hammer_name",
         "description": "Fossil hammer_desc"
+      },
+      {
+        "code": "avatar_effect184",
+        "name": "Splash Evil_name",
+        "description": "Splash Evil_desc"
+      },
+      {
+        "code": "avatar_effect185",
+        "name": "Swim Evil_name",
+        "description": "Swim Evil_desc"
       },
       {
         "code": "avatar_effect186",
@@ -13717,9 +13747,39 @@
         "description": "Watering Can FX_desc"
       },
       {
+        "code": "avatar_effect193",
+        "name": "Trampoline Jump_name",
+        "description": "Trampoline Jump_desc"
+      },
+      {
+        "code": "avatar_effect194",
+        "name": "Treadmill_name",
+        "description": "Treadmill_desc"
+      },
+      {
+        "code": "avatar_effect195",
+        "name": "Cross Trainer_name",
+        "description": "Cross Trainer_desc"
+      },
+      {
         "code": "avatar_effect196",
         "name": "WhyIsThisHere_name",
         "description": "WhyIsThisHere_desc"
+      },
+      {
+        "code": "avatar_effect197",
+        "name": "Flying Carpet_name",
+        "description": "Flying Carpet_desc"
+      },
+      {
+        "code": "avatar_effect198",
+        "name": "Zombie Duck_name",
+        "description": "Zombie Duck_desc"
+      },
+      {
+        "code": "avatar_effect199",
+        "name": "Turtle ride_name",
+        "description": "Turtle ride_desc"
       },
       {
         "code": "avatar_effect19",
@@ -13730,6 +13790,11 @@
         "code": "avatar_effect1",
         "name": "Spotlight",
         "description": "Shine the light on me!"
+      },
+      {
+        "code": "avatar_effect200",
+        "name": "RollerSkatingSlide_name",
+        "description": "RollerSkatingSlide_desc"
       },
       {
         "code": "avatar_effect201",
@@ -13762,6 +13827,21 @@
         "description": "Ultra Trippy H"
       },
       {
+        "code": "avatar_effect207",
+        "name": "LightstickBlue_name",
+        "description": "LightstickBlue_desc"
+      },
+      {
+        "code": "avatar_effect208",
+        "name": "LightstickRed_name",
+        "description": "LightstickRed_desc"
+      },
+      {
+        "code": "avatar_effect209",
+        "name": "LightstickGreen_name",
+        "description": "LightstickGreen_desc"
+      },
+      {
         "code": "avatar_effect20",
         "name": "HelpMobile",
         "description": "I'll help you if I can"
@@ -13782,14 +13862,39 @@
         "description": "Metakey_desc"
       },
       {
+        "code": "avatar_effect213",
+        "name": "Skiing_name",
+        "description": "Skiing_desc"
+      },
+      {
         "code": "avatar_effect214",
         "name": "Cool Cats Effect",
         "description": ""
       },
       {
+        "code": "avatar_effect215",
+        "name": "FFScooter1_name",
+        "description": "FFScooter1_desc"
+      },
+      {
+        "code": "avatar_effect216",
+        "name": "FFScooter2_name",
+        "description": "FFScooter2_desc"
+      },
+      {
+        "code": "avatar_effect217",
+        "name": "FFScooter3_name",
+        "description": "FFScooter3_desc"
+      },
+      {
         "code": "avatar_effect218",
         "name": "Freeze Effect",
-        "description": ""
+        "description": "Freeze2_desc"
+      },
+      {
+        "code": "avatar_effect219",
+        "name": "Hide_name",
+        "description": "Hide_desc"
       },
       {
         "code": "avatar_effect21",
@@ -13800,6 +13905,36 @@
         "code": "avatar_effect220",
         "name": "Habbo Avatar - Genesis Effect",
         "description": "NFTCoin7_desc"
+      },
+      {
+        "code": "avatar_effect223",
+        "name": "Wired Red Team_name",
+        "description": "Wired Red Team_desc"
+      },
+      {
+        "code": "avatar_effect224",
+        "name": "Wired Blue Team_name",
+        "description": "Wired Blue Team_desc"
+      },
+      {
+        "code": "avatar_effect225",
+        "name": "Wired Yellow Team_name",
+        "description": "Wired Yellow Team_desc"
+      },
+      {
+        "code": "avatar_effect226",
+        "name": "Wired Green Team_name",
+        "description": "Wired Green Team_desc"
+      },
+      {
+        "code": "avatar_effect227",
+        "name": "Chocolate1_name",
+        "description": "Chocolate1_desc"
+      },
+      {
+        "code": "avatar_effect228",
+        "name": "Chocolate2_name",
+        "description": "Chocolate2_desc"
       },
       {
         "code": "avatar_effect229",
@@ -13842,9 +13977,24 @@
         "description": "Be a part of the How to Train Your Dragan tribe"
       },
       {
+        "code": "avatar_effect28",
+        "name": "Splash_name",
+        "description": "Splash_desc"
+      },
+      {
+        "code": "avatar_effect29",
+        "name": "Swimming_name",
+        "description": "Swimming_desc"
+      },
+      {
         "code": "avatar_effect2",
         "name": "Hover Board",
         "description": "The future of transportation!"
+      },
+      {
+        "code": "avatar_effect30",
+        "name": "Wade_name",
+        "description": "Wade_desc"
       },
       {
         "code": "avatar_effect31",
@@ -13857,14 +14007,79 @@
         "description": "Despicable Me"
       },
       {
+        "code": "avatar_effect33",
+        "name": "Battle Ball Red_name",
+        "description": "Battle Ball Red_desc"
+      },
+      {
+        "code": "avatar_effect34",
+        "name": "Battle Ball Green_name",
+        "description": "Battle Ball Green_desc"
+      },
+      {
+        "code": "avatar_effect35",
+        "name": "Battle Ball Blue_name",
+        "description": "Battle Ball Blue_desc"
+      },
+      {
+        "code": "avatar_effect36",
+        "name": "Battle Ball Yellow_name",
+        "description": "Battle Ball Yellow_desc"
+      },
+      {
+        "code": "avatar_effect37",
+        "name": "Wade in Swamp_name",
+        "description": "Wade in Swamp_desc"
+      },
+      {
+        "code": "avatar_effect38",
+        "name": "Ice skating - Boys_name",
+        "description": "Ice skating - Boys_desc"
+      },
+      {
+        "code": "avatar_effect39",
+        "name": "Ice skating - Girls_name",
+        "description": "Ice skating - Girls_desc"
+      },
+      {
         "code": "avatar_effect3",
         "name": "UFO",
         "description": "Help, I'm being abducted!"
       },
       {
+        "code": "avatar_effect40",
+        "name": "ES red_name",
+        "description": "ES red_desc"
+      },
+      {
+        "code": "avatar_effect41",
+        "name": "ES green_name",
+        "description": "ES green_desc"
+      },
+      {
+        "code": "avatar_effect42",
+        "name": "ES blue_name",
+        "description": "ES blue_desc"
+      },
+      {
+        "code": "avatar_effect43",
+        "name": "ES yellow_name",
+        "description": "ES yellow_desc"
+      },
+      {
         "code": "avatar_effect44",
         "name": "The Sims 3 Showtime",
         "description": "The Sims 3 Showtime Plumbob"
+      },
+      {
+        "code": "avatar_effect45",
+        "name": "Tagged Ice Skating - Boys_name",
+        "description": "Tagged Ice Skating - Boys_desc"
+      },
+      {
+        "code": "avatar_effect46",
+        "name": "Tagged Ice Skating - Girls_name",
+        "description": "Tagged Ice Skating - Girls_desc"
       },
       {
         "code": "avatar_effect47",
@@ -13877,9 +14092,29 @@
         "description": ""
       },
       {
+        "code": "avatar_effect49",
+        "name": "ES red Untouchable_name",
+        "description": "ES red Untouchable_desc"
+      },
+      {
         "code": "avatar_effect4",
         "name": "Twinkle",
         "description": "Twinkle like the star you are!"
+      },
+      {
+        "code": "avatar_effect50",
+        "name": "ES green Untouchable_name",
+        "description": "ES green Untouchable_desc"
+      },
+      {
+        "code": "avatar_effect51",
+        "name": "ES blue Untouchable_name",
+        "description": "ES blue Untouchable_desc"
+      },
+      {
+        "code": "avatar_effect52",
+        "name": "ES yellow Untouchable_name",
+        "description": "ES yellow Untouchable_desc"
       },
       {
         "code": "avatar_effect53",
@@ -13890,6 +14125,26 @@
         "code": "avatar_effect54",
         "name": "easterbunny_name",
         "description": "easterbunny_desc"
+      },
+      {
+        "code": "avatar_effect55",
+        "name": "Roller Skating Boys_name",
+        "description": "Roller Skating Boys_desc"
+      },
+      {
+        "code": "avatar_effect56",
+        "name": "Roller Skating Girls_name",
+        "description": "Roller Skating Girls_desc"
+      },
+      {
+        "code": "avatar_effect57",
+        "name": "Tagged Roller Skating Boys_name",
+        "description": "Tagged Roller Skating Boys_desc"
+      },
+      {
+        "code": "avatar_effect58",
+        "name": "Tagged Roller Skating Girls_name",
+        "description": "Tagged Roller Skating Girls_desc"
       },
       {
         "code": "avatar_effect59",
@@ -13942,6 +14197,11 @@
         "description": "parrot_desc"
       },
       {
+        "code": "avatar_effect68",
+        "name": "Easter Tagging_name",
+        "description": "Easter Tagging_desc"
+      },
+      {
         "code": "avatar_effect69",
         "name": "volkswagen_name",
         "description": "volkswagen_desc"
@@ -13985,6 +14245,11 @@
         "code": "avatar_effect76",
         "name": "Purple Lei",
         "description": "We're summer lovin' these!"
+      },
+      {
+        "code": "avatar_effect77",
+        "name": "Riding_name",
+        "description": "Riding_desc"
       },
       {
         "code": "avatar_effect78",
@@ -14080,6 +14345,21 @@
         "code": "avatar_effect94",
         "name": "liisutruck_name",
         "description": "liisutruck_desc"
+      },
+      {
+        "code": "avatar_effect96",
+        "name": "SnowWar Red_name",
+        "description": "SnowWar Red_desc"
+      },
+      {
+        "code": "avatar_effect97",
+        "name": "Snowboard_name",
+        "description": "Snowboard_desc"
+      },
+      {
+        "code": "avatar_effect98",
+        "name": "Snow Storm Cross Hair_name",
+        "description": "Snow Storm Cross Hair_desc"
       },
       {
         "code": "avatar_effect99",
@@ -35899,7 +36179,7 @@
       {
         "code": "clothing_nftspdemon",
         "name": "Sleep Paralysis Demon",
-        "description": ""
+        "description": "clothing_nftspdemon desc"
       },
       {
         "code": "clothing_nftspringbrimhat",
@@ -99300,6 +99580,11 @@
         "code": "scifi_r17_cruiser",
         "name": "Interstellar Cruiser",
         "description": "Space for four space-exploring Habbos."
+      },
+      {
+        "code": "se_trophyS",
+        "name": "se_trophyS name",
+        "description": "se_trophyS desc"
       },
       {
         "code": "seasonal_1",
