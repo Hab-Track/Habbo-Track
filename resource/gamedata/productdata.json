@@ -35354,7 +35354,7 @@
       {
         "code": "clothing_nftbiglollipop",
         "name": "Bonus Lollipop",
-        "description": ""
+        "description": "clothing_nftbiglollipop desc"
       },
       {
         "code": "clothing_nftblackbeanie",
@@ -76322,6 +76322,11 @@
         "description": "nft_emerald_test_100 desc"
       },
       {
+        "code": "nft_emerald_xmastree_2000",
+        "name": "nft_emerald_xmastree_2000 name",
+        "description": "nft_emerald_xmastree_2000 desc"
+      },
+      {
         "code": "nft_ff23_commonbox",
         "name": "Common Furni Crate",
         "description": "nft_ff23_commonbox desc"
@@ -78119,7 +78124,7 @@
       {
         "code": "nft_h24_bday_napmaster",
         "name": "Napmaster",
-        "description": ""
+        "description": "nft_h24_bday_napmaster desc"
       },
       {
         "code": "nft_h24_bday_noobbook",
@@ -79272,6 +79277,11 @@
         "description": "nft_u24_plastoadvert desc"
       },
       {
+        "code": "nft_u24_plastoblack",
+        "name": "Miniature Black Plasto Crate",
+        "description": "nft_u24_plastoblack desc"
+      },
+      {
         "code": "nft_u24_plastoblueprint",
         "name": "Plasto Blueprint",
         "description": "nft_u24_plastoblueprint desc"
@@ -79282,9 +79292,19 @@
         "description": "nft_u24_plastocrate desc"
       },
       {
+        "code": "nft_u24_plastogift",
+        "name": "Plasto Gift Box",
+        "description": "nft_u24_plastogift desc"
+      },
+      {
         "code": "nft_u24_plastomemorial",
         "name": "Plasto Memorial",
         "description": "nft_u24_plastomemorial desc"
+      },
+      {
+        "code": "nft_u24_plastotreasure",
+        "name": "Miniature Gold Plasto Crate",
+        "description": "nft_u24_plastotreasure desc"
       },
       {
         "code": "nft_val15_hottub",
@@ -99684,7 +99704,7 @@
       {
         "code": "se_trophyG",
         "name": "Signature Edition HC Sofa",
-        "description": ""
+        "description": "se_trophyG desc"
       },
       {
         "code": "se_trophyS",

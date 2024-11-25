@@ -16211,6 +16211,14 @@
                 <part id="6139" type="lc" colorable="0" index="0" colorindex="0"/>
                 <part id="6139" type="rc" colorable="0" index="0" colorindex="0"/>
             </set>
+            <set id="5800" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="6145" type="cc" colorable="1" index="0" colorindex="1"/>
+                <part id="6145" type="lc" colorable="1" index="0" colorindex="1"/>
+                <part id="6145" type="rc" colorable="1" index="0" colorindex="1"/>
+                <part id="6146" type="cc" colorable="1" index="1" colorindex="2"/>
+                <part id="6146" type="lc" colorable="1" index="1" colorindex="2"/>
+                <part id="6146" type="rc" colorable="1" index="1" colorindex="2"/>
+            </set>
             <set id="5810" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="6165" type="cc" colorable="1" index="0" colorindex="1"/>
                 <part id="6165" type="lc" colorable="1" index="0" colorindex="1"/>
