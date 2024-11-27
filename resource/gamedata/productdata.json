@@ -33563,7 +33563,7 @@
       },
       {
         "code": "clothing_dressinggown",
-        "name": "clothing_dressinggown name",
+        "name": "Dressing Gown",
         "description": "clothing_dressinggown desc"
       },
       {
@@ -34453,7 +34453,7 @@
       },
       {
         "code": "clothing_hollydress",
-        "name": "clothing_hollydress name",
+        "name": "Holly Dress",
         "description": "clothing_hollydress desc"
       },
       {
@@ -39790,6 +39790,16 @@
         "code": "clothing_satchel",
         "name": "Sunny Day Satchel",
         "description": "clothing_satchel desc"
+      },
+      {
+        "code": "clothing_sc24_frozenface",
+        "name": "Frozen Face",
+        "description": ""
+      },
+      {
+        "code": "clothing_sc24_frozenscarf",
+        "name": "Frozen Scarf",
+        "description": ""
       },
       {
         "code": "clothing_schoolblazer",
@@ -79138,17 +79148,17 @@
       },
       {
         "code": "nft_sc24_frozenhammock",
-        "name": "nft_sc24_frozenhammock name",
+        "name": "Frozen Hammock",
         "description": "nft_sc24_frozenhammock desc"
       },
       {
         "code": "nft_sc24_frozensakura",
-        "name": "nft_sc24_frozensakura name",
+        "name": "Frozen Sakura Tree",
         "description": "nft_sc24_frozensakura desc"
       },
       {
         "code": "nft_sc24_frozentree",
-        "name": "nft_sc24_frozentree name",
+        "name": "Frozen Bonsai Tree",
         "description": "nft_sc24_frozentree desc"
       },
       {
@@ -114648,77 +114658,77 @@
       },
       {
         "code": "xmas_c24_advent1",
-        "name": "xmas_c24_advent1 name",
+        "name": "Fairy Tree",
         "description": "xmas_c24_advent1 desc"
       },
       {
         "code": "xmas_c24_advent2",
-        "name": "xmas_c24_advent2 name",
+        "name": "Fairy Wreath",
         "description": "xmas_c24_advent2 desc"
       },
       {
         "code": "xmas_c24_advent3",
-        "name": "xmas_c24_advent3 name",
+        "name": "Frosty Tree",
         "description": "xmas_c24_advent3 desc"
       },
       {
         "code": "xmas_c24_advent4",
-        "name": "xmas_c24_advent4 name",
+        "name": "Frosty Wreath",
         "description": "xmas_c24_advent4 desc"
       },
       {
         "code": "xmas_c24_advent5",
-        "name": "xmas_c24_advent5 name",
+        "name": "Classic Tree",
         "description": "xmas_c24_advent5 desc"
       },
       {
         "code": "xmas_c24_advent6",
-        "name": "xmas_c24_advent6 name",
+        "name": "Classic Wreath",
         "description": "xmas_c24_advent6 desc"
       },
       {
         "code": "xmas_c24_advent7",
-        "name": "xmas_c24_advent7 name",
+        "name": "Festive Cat",
         "description": "xmas_c24_advent7 desc"
       },
       {
         "code": "xmas_c24_advent8",
-        "name": "xmas_c24_advent8 name",
+        "name": "Angel Statue",
         "description": "xmas_c24_advent8 desc"
       },
       {
         "code": "xmas_c24_batterycandle",
-        "name": "xmas_c24_batterycandle name",
+        "name": "LED Candle",
         "description": "xmas_c24_batterycandle desc"
       },
       {
         "code": "xmas_c24_baubletrap",
-        "name": "xmas_c24_baubletrap name",
+        "name": "Bauble Trap",
         "description": "xmas_c24_baubletrap desc"
       },
       {
         "code": "xmas_c24_blizzardfloor",
-        "name": "xmas_c24_blizzardfloor name",
+        "name": "Snowy Blizzard",
         "description": "xmas_c24_blizzardfloor desc"
       },
       {
         "code": "xmas_c24_bonniepocket",
-        "name": "xmas_c24_bonniepocket name",
+        "name": "Bonnie Pocket",
         "description": "xmas_c24_bonniepocket desc"
       },
       {
         "code": "xmas_c24_brokenbaubles",
-        "name": "xmas_c24_brokenbaubles name",
+        "name": "Smashed Baubles",
         "description": "xmas_c24_brokenbaubles desc"
       },
       {
         "code": "xmas_c24_coffeetable",
-        "name": "xmas_c24_coffeetable name",
+        "name": "Retro Coffee Table",
         "description": "xmas_c24_coffeetable desc"
       },
       {
         "code": "xmas_c24_crackable1",
-        "name": "xmas_c24_crackable1 name",
+        "name": "Red Present",
         "description": "xmas_c24_crackable1 desc"
       },
       {
@@ -114728,7 +114738,7 @@
       },
       {
         "code": "xmas_c24_crackable2",
-        "name": "xmas_c24_crackable2 name",
+        "name": "Blue Present",
         "description": "xmas_c24_crackable2 desc"
       },
       {
@@ -114738,7 +114748,7 @@
       },
       {
         "code": "xmas_c24_crackable3",
-        "name": "xmas_c24_crackable3 name",
+        "name": "Green Present",
         "description": "xmas_c24_crackable3 desc"
       },
       {
@@ -114748,7 +114758,7 @@
       },
       {
         "code": "xmas_c24_crackable4",
-        "name": "xmas_c24_crackable4 name",
+        "name": "Gold Present",
         "description": "xmas_c24_crackable4 desc"
       },
       {
@@ -114758,167 +114768,167 @@
       },
       {
         "code": "xmas_c24_diningtable",
-        "name": "xmas_c24_diningtable name",
+        "name": "Festive table",
         "description": "xmas_c24_diningtable desc"
       },
       {
         "code": "xmas_c24_dinningchair",
-        "name": "xmas_c24_dinningchair name",
+        "name": "Checkered Dining Chair",
         "description": "xmas_c24_dinningchair desc"
       },
       {
         "code": "xmas_c24_doublesofa",
-        "name": "xmas_c24_doublesofa name",
+        "name": "Checkered Sofa",
         "description": "xmas_c24_doublesofa desc"
       },
       {
         "code": "xmas_c24_drawpad",
-        "name": "xmas_c24_drawpad name",
+        "name": "Drawing Pad",
         "description": "xmas_c24_drawpad desc"
       },
       {
         "code": "xmas_c24_ducktrapgame",
-        "name": "xmas_c24_ducktrapgame name",
+        "name": "Duck Trap",
         "description": "xmas_c24_ducktrapgame desc"
       },
       {
         "code": "xmas_c24_foildecor2",
-        "name": "xmas_c24_foildecor2 name",
+        "name": "Foil Star Hanging",
         "description": "xmas_c24_foildecor2 desc"
       },
       {
         "code": "xmas_c24_foildecor",
-        "name": "xmas_c24_foildecor name",
+        "name": "Tinsel Hanging",
         "description": "xmas_c24_foildecor desc"
       },
       {
         "code": "xmas_c24_foilstar",
-        "name": "xmas_c24_foilstar name",
+        "name": "Foil Star Decoration",
         "description": "xmas_c24_foilstar desc"
       },
       {
         "code": "xmas_c24_hungryducks",
-        "name": "xmas_c24_hungryducks name",
+        "name": "Hungry Duckies",
         "description": "xmas_c24_hungryducks desc"
       },
       {
         "code": "xmas_c24_kickeroo",
-        "name": "xmas_c24_kickeroo name",
+        "name": "Kickeroo",
         "description": "xmas_c24_kickeroo desc"
       },
       {
         "code": "xmas_c24_minitree",
-        "name": "xmas_c24_minitree name",
+        "name": "Mini Fir Tree",
         "description": "xmas_c24_minitree desc"
       },
       {
         "code": "xmas_c24_mrfrankhead",
-        "name": "xmas_c24_mrfrankhead name",
+        "name": "Mr. Frank Toy",
         "description": "xmas_c24_mrfrankhead desc"
       },
       {
         "code": "xmas_c24_mugs",
-        "name": "xmas_c24_mugs name",
+        "name": "Festive Mug",
         "description": "xmas_c24_mugs desc"
       },
       {
         "code": "xmas_c24_naughtynicelist",
-        "name": "xmas_c24_naughtynicelist name",
+        "name": "Santa’s List",
         "description": "xmas_c24_naughtynicelist desc"
       },
       {
         "code": "xmas_c24_papersnowflakes",
-        "name": "xmas_c24_papersnowflakes name",
+        "name": "Paper Snowflakes",
         "description": "xmas_c24_papersnowflakes desc"
       },
       {
         "code": "xmas_c24_patchbaby",
-        "name": "xmas_c24_patchbaby name",
+        "name": "Patch Baby",
         "description": "xmas_c24_patchbaby desc"
       },
       {
         "code": "xmas_c24_plate",
-        "name": "xmas_c24_plate name",
+        "name": "Fine China",
         "description": "xmas_c24_plate desc"
       },
       {
         "code": "xmas_c24_pogoball",
-        "name": "xmas_c24_pogoball name",
+        "name": "Pogo Ball",
         "description": "xmas_c24_pogoball desc"
       },
       {
         "code": "xmas_c24_presentrap",
-        "name": "xmas_c24_presentrap name",
+        "name": "Present Trap",
         "description": "xmas_c24_presentrap desc"
       },
       {
         "code": "xmas_c24_retroconsole",
-        "name": "xmas_c24_retroconsole name",
+        "name": "HES Console",
         "description": "xmas_c24_retroconsole desc"
       },
       {
         "code": "xmas_c24_retrotree",
-        "name": "xmas_c24_retrotree name",
+        "name": "Retro Tree",
         "description": "xmas_c24_retrotree desc"
       },
       {
         "code": "xmas_c24_rug",
-        "name": "xmas_c24_rug name",
+        "name": "Festive Rug",
         "description": "xmas_c24_rug desc"
       },
       {
         "code": "xmas_c24_singlesofa",
-        "name": "xmas_c24_singlesofa name",
+        "name": "Checkered Arm Chair",
         "description": "xmas_c24_singlesofa desc"
       },
       {
         "code": "xmas_c24_snacks1",
-        "name": "xmas_c24_snacks1 name",
+        "name": "Iced Star Cookies",
         "description": "xmas_c24_snacks1 desc"
       },
       {
         "code": "xmas_c24_snacks2",
-        "name": "xmas_c24_snacks2 name",
+        "name": "Iced Tree Cookies",
         "description": "xmas_c24_snacks2 desc"
       },
       {
         "code": "xmas_c24_snacks3",
-        "name": "xmas_c24_snacks3 name",
+        "name": "Candycane Treat",
         "description": "xmas_c24_snacks3 desc"
       },
       {
         "code": "xmas_c24_snowtrap",
-        "name": "xmas_c24_snowtrap name",
+        "name": "Deep Snow",
         "description": "xmas_c24_snowtrap desc"
       },
       {
         "code": "xmas_c24_snowywindows",
-        "name": "xmas_c24_snowywindows name",
+        "name": "Snowy Window",
         "description": "xmas_c24_snowywindows desc"
       },
       {
         "code": "xmas_c24_sunnywindows",
-        "name": "xmas_c24_sunnywindows name",
+        "name": "Sunny Window",
         "description": "xmas_c24_sunnywindows desc"
       },
       {
         "code": "xmas_c24_teapot",
-        "name": "xmas_c24_teapot name",
+        "name": "Festive Teapot",
         "description": "xmas_c24_teapot desc"
       },
       {
         "code": "xmas_c24_tvcabinet",
-        "name": "xmas_c24_tvcabinet name",
+        "name": "Retro TV Cabinet",
         "description": "xmas_c24_tvcabinet desc"
       },
       {
         "code": "xmas_c24_wallpaper",
-        "name": "xmas_c24_wallpaper name",
+        "name": "Retro Wallpaper",
         "description": "xmas_c24_wallpaper desc"
       },
       {
         "code": "xmas_c24_wreath",
-        "name": "xmas_c24_wreath name",
+        "name": "Fir Wreath",
         "description": "xmas_c24_wreath desc"
       },
       {
