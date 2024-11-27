@@ -35240,6 +35240,11 @@
     "clothing_nft2024 desc"
   ],
   [
+    "clothing_nft2025",
+    "2025 New Year Necklace",
+    ""
+  ],
+  [
     "clothing_nft23partyhat1",
     "2nd Anniversary Yellow Hat",
     "clothing_nft23partyhat1 desc"
@@ -35287,6 +35292,11 @@
   [
     "clothing_nft_bloody",
     "Bloody Eyes",
+    ""
+  ],
+  [
+    "clothing_nftartistset",
+    "Easel Painter’s Outfit",
     ""
   ],
   [
@@ -74801,7 +74811,7 @@
   ],
   [
     "nft_A0_rarebeehivered",
-    "Red Amber Lamp",
+    "$product_rare_beehive_bulb*1_name$",
     "No bees were harmed during the production."
   ],
   [
@@ -74811,7 +74821,7 @@
   ],
   [
     "nft_A0_raredaffodilrug",
-    "Petal Patch",
+    "$product_rare_daffodil_rug_name$",
     "A little bit of outdoors indoors.."
   ],
   [
@@ -74821,7 +74831,7 @@
   ],
   [
     "nft_A0_rarefountaingreen",
-    "Bird Bath (green)",
+    "$product_rare_fountain*2_name$",
     "For our feathered friends"
   ],
   [
@@ -74836,7 +74846,7 @@
   ],
   [
     "nft_A0_rareglobe",
-    "Habbo Globe",
+    "$product_rare_globe_name$",
     "Shake, don't break!"
   ],
   [
@@ -74846,12 +74856,12 @@
   ],
   [
     "nft_A0_rareparasolgreen",
-    "Green Parasol",
+    "$product_rare_parasol*0_name$",
     "Sun! Sun! Sun!"
   ],
   [
     "nft_A0_rareparasolviolet",
-    "Violet Parasol",
+    "$product_rare_parasol*3_name$",
     "Sun! Sun! Sun!"
   ],
   [
@@ -74956,117 +74966,117 @@
   ],
   [
     "nft_A1_PL1",
-    "Aloe Vera",
+    "$product_plant_cruddy_name$",
     "Goodbye Bert..."
   ],
   [
     "nft_DEV_exe_globe",
-    "nft_DEV_exe_globe",
+    "$product_exe_globe_name$",
     ""
   ],
   [
     "nft_a0_clubrug",
-    "Club Rug",
+    "$product_hc_crpt_name$",
     "Club Rug"
   ],
   [
     "nft_a0_clubsofa",
-    "Club sofa",
+    "$product_club_sofa_name$",
     "Club sofa"
   ],
   [
     "nft_a0_clubtv",
-    "Club Tv",
+    "$product_hc_tv_name$",
     "Club Tv"
   ],
   [
     "nft_a0_gothicfountain_2",
-    "Gothic fountain",
+    "$wallitem_gothicfountain2_name$",
     "The dark side of Habbo"
   ],
   [
     "nft_a0_gothicfountain",
-    "Gothic fountain",
+    "$wallitem_gothicfountain_name$",
     "The dark side of Habbo"
   ],
   [
     "nft_a0_habboween_grass",
-    "habboween grass",
+    "$product_habboween_grass_name$",
     "habboween grass"
   ],
   [
     "nft_a0_hc_bkshlf",
-    "nft_hc_bkshlf",
+    "$product_hc_bkshlf_name$",
     "nft_hc_bkshlf"
   ],
   [
     "nft_a0_hc_chr",
-    "Majestic Chair",
+    "$product_hc_chr_name$",
     "Royal comfort"
   ],
   [
     "nft_a0_hc_dsk",
-    "Study desk",
+    "$product_hc_dsk_name$",
     "For Habbo scholars"
   ],
   [
     "nft_a0_hc_lmp",
-    "Oil lamp",
+    "$product_hc_lmp_name$",
     "Be enlightened"
   ],
   [
     "nft_a0_hc_machine",
-    "hc machine",
+    "$product_hc_machine_name$",
     ""
   ],
   [
     "nft_a0_hc_rllr",
-    "HC Roller",
+    "$product_hc_rllr_name$",
     "HC Roller Description"
   ],
   [
     "nft_a0_hc_rntgn",
-    "nft_hc_rntgn",
+    "$product_hc_rntgn_name$",
     "nft_hc_rntgn"
   ],
   [
     "nft_a0_hc_tbl",
-    "Nordic Table",
+    "$product_hc_tbl_name$",
     "Perfect for banquets"
   ],
   [
     "nft_a0_hc_wall_lamp",
-    "Oil lamp",
+    "$wallitem_hc_wall_lamp_name$",
     "Be enlightened"
   ],
   [
     "nft_a0_hcamme",
-    "Tubmaster",
+    "$product_hcamme_name$",
     "Time for a soak"
   ],
   [
     "nft_a0_hcsohva",
-    "Throne sofa",
+    "$product_hcsohva_name$",
     "For royal bottoms..."
   ],
   [
     "nft_a0_hemingway",
-    "Typewriter",
+    "$product_typingmachine_name$",
     "Write that bestseller"
   ],
   [
     "nft_a0_industrial_fan",
-    "Industrial turbine",
+    "$wallitem_industrialfan_name$",
     "Industrial turbine"
   ],
   [
     "nft_a0_marquee",
-    "Marquee - plain",
+    "$product_marquee*10_name$",
     "It's both door and a shade!"
   ],
   [
     "nft_a0_moonrug",
-    "Moon Rug",
+    "$product_rare_moonrug_name$",
     "Built in 1969!"
   ],
   [
@@ -75126,7 +75136,7 @@
   ],
   [
     "nft_a0_pillar",
-    "Pillar - plain",
+    "$product_pillar*0_name$",
     "Corinthian coolness"
   ],
   [
@@ -75135,23 +75145,38 @@
     "Comfort with style"
   ],
   [
+    "nft_a0_rareparasolbrown",
+    "$product_rare_parasol*2_name$",
+    ""
+  ],
+  [
+    "nft_a0_rareparasolyellow",
+    "$product_rare_parasol*1_name$",
+    ""
+  ],
+  [
+    "nft_a0_rarestand",
+    "$product_rare_stand_name$",
+    ""
+  ],
+  [
     "nft_a0_scifiport",
     "Red Scifiport",
     "Energy beams. No trespassers!"
   ],
   [
     "nft_a0_sleepingbag10",
-    "Khaki Sleeping Bag",
+    "$product_sleepingbag*10_name$",
     "Ultimate coziness"
   ],
   [
     "nft_a0_sleepingbag2",
-    "Lime Sleeping Bag",
+    "$product_sleepingbag*2_name$",
     "Ultimate coziness"
   ],
   [
     "nft_a0_sleepingbag3",
-    "Ocean Sleeping Bag",
+    "$product_sleepingbag*3_name$",
     "Ultimate coziness"
   ],
   [
@@ -75161,17 +75186,17 @@
   ],
   [
     "nft_a0_sleepingbag5",
-    "Graphite Sleeping Bag",
+    "$product_sleepingbag*5_name$",
     "Ultimate coziness"
   ],
   [
     "nft_a0_sleepingbag6",
-    "Purple Sleeping Bag",
+    "$product_sleepingbag*6_name$",
     "Ultimate coziness"
   ],
   [
     "nft_a0_sleepingbag7",
-    "Orange Sleeping Bag",
+    "$product_sleepingbag*7_name$",
     "Ultimate coziness"
   ],
   [
@@ -75181,27 +75206,27 @@
   ],
   [
     "nft_a0_sleepingbag9",
-    "Blue Sleeping Bag",
+    "$product_sleepingbag*9_name$",
     "Ultimate coziness"
   ],
   [
     "nft_a0_sleepingbag",
-    "Red Sleeping Bag",
+    "$product_sleepingbag*1_name$",
     "Ultimate coziness"
   ],
   [
     "nft_a0_spyro",
-    "Dragon egg",
+    "$product_spyro_name$",
     "Spyro the Dragon"
   ],
   [
     "nft_a0_throne",
-    "Throne",
+    "$product_throne_name$",
     "Important Habbos only"
   ],
   [
     "nft_a0_turntable",
-    "DJ Turntable",
+    "$product_djesko_turntable_name$",
     "The wheels of expression"
   ],
   [
@@ -75211,7 +75236,7 @@
   ],
   [
     "nft_a10_marquee",
-    "Marquee - purple",
+    "$product_marquee*7_name$",
     "It's both door and a shade!"
   ],
   [
@@ -75231,7 +75256,7 @@
   ],
   [
     "nft_a10_pillow",
-    "Pillow - suede",
+    "$product_pillow*8_name$",
     "Comfort with style"
   ],
   [
@@ -75241,27 +75266,27 @@
   ],
   [
     "nft_a10_rare_fan",
-    "Pink Fan",
+    "$product_rare_fan*9_name$",
     "strong wind warning"
   ],
   [
     "nft_a10_rare_icecream",
-    "Pink Icecream Machine",
+    "$product_rare_icecream*9_name$",
     "ice cold snacks"
   ],
   [
     "nft_a10_scifidoor",
-    "Violet Scifidoor",
+    "$product_scifidoor*10_name$",
     "Beam it up"
   ],
   [
     "nft_a10_scifiport",
-    "Violet Scifiport",
+    "$product_scifiport*9_name$",
     "Laserize your room"
   ],
   [
     "nft_a10_scifirocket",
-    "Blueberry Scifirocket",
+    "$product_scifirocket*9_name$",
     "Retro steam engine"
   ],
   [
@@ -75281,7 +75306,7 @@
   ],
   [
     "nft_a11_pillar",
-    "Pillar - rock",
+    "$product_pillar*9_name$",
     "Corinthian coolness"
   ],
   [
@@ -75291,12 +75316,12 @@
   ],
   [
     "nft_a11_rare_icecream",
-    "White Icecream Machine",
+    "$product_rare_icecream*10_name$",
     "ice cold snacks"
   ],
   [
     "nft_a11_wooden_screen",
-    "Wooden screen - grass",
+    "$product_wooden_screen*9_name$",
     "Add some oriental touch to your room."
   ],
   [
@@ -75306,7 +75331,7 @@
   ],
   [
     "nft_a1_bubblejuice_machine",
-    "Habbo Cola Machine",
+    "$product_md_limukaappi_name$",
     "A sparkling and refreshing pixel drink!"
   ],
   [
@@ -75316,7 +75341,7 @@
   ],
   [
     "nft_a1_newpl4lg1",
-    "HC table",
+    "$product_table_plasto_4leg*14_name$",
     "Aqua table"
   ],
   [
@@ -75331,7 +75356,7 @@
   ],
   [
     "nft_a1_newplch1",
-    "HC chair",
+    "$product_chair_plasto*14_name$",
     "Aqua chair"
   ],
   [
@@ -75351,7 +75376,7 @@
   ],
   [
     "nft_a1_rare_dragonlamp",
-    "Fire Dragon Lamp",
+    "$product_rare_dragonlamp*0_name$",
     "breathes fire"
   ],
   [
@@ -75361,7 +75386,7 @@
   ],
   [
     "nft_a1_rare_icecream",
-    "Red Icecream Machine",
+    "$product_rare_icecream*0_name$",
     "ice cold snacks"
   ],
   [
@@ -75371,12 +75396,12 @@
   ],
   [
     "nft_a1_scifirocket",
-    "Red Scifirocket",
+    "$product_scifirocket*0_name$",
     "Retro steam engine"
   ],
   [
     "nft_a2_holoholo",
-    "Holo-girl",
+    "$product_redhologram_name$",
     "You're her only hope..."
   ],
   [
@@ -75386,7 +75411,7 @@
   ],
   [
     "nft_a2_rare_dragonlamp",
-    "Water Dragon Lamp",
+    "$product_rare_dragonlamp*1_name$",
     "breathes fire"
   ],
   [
@@ -75396,7 +75421,7 @@
   ],
   [
     "nft_a2_rare_icecream",
-    "Blue Icecream Machine",
+    "$product_rare_icecream*1_name$",
     "ice cold snacks"
   ],
   [
@@ -75426,17 +75451,17 @@
   ],
   [
     "nft_a3_pillar",
-    "Pillar - rose",
+    "$product_pillar*1_name$",
     "Corinthian coolness"
   ],
   [
     "nft_a3_pillow",
-    "Pillow - rose",
+    "$product_pillow*1_name$",
     "Comfort with style"
   ],
   [
     "nft_a3_rare_dragonlamp",
-    "Jade Dragon Lamp",
+    "$product_rare_dragonlamp*2_name$",
     "breathes fire"
   ],
   [
@@ -75466,12 +75491,12 @@
   ],
   [
     "nft_a3_wooden_screen",
-    "Wooden screen - rose",
+    "$product_wooden_screen*1_name$",
     "Add some oriental touch to your room."
   ],
   [
     "nft_a4_marquee",
-    "Marquee - rose",
+    "$product_marquee*1_name$",
     "It's both door and a shade!"
   ],
   [
@@ -75496,12 +75521,12 @@
   ],
   [
     "nft_a4_rare_dragonlamp",
-    "White Dragon Lamp",
+    "$product_rare_dragonlamp*3_name$",
     "breathes fire"
   ],
   [
     "nft_a4_rare_fan",
-    "Purple Fan",
+    "$product_rare_fan*3_name$",
     "strong wind warning"
   ],
   [
@@ -75511,22 +75536,22 @@
   ],
   [
     "nft_a4_scifidoor",
-    "Jade Scifidoor",
+    "$product_scifidoor*4_name$",
     "Beam it up"
   ],
   [
     "nft_a4_scifiport",
-    "Jade Scifiport",
+    "$product_scifiport*3_name$",
     "Laserize your room"
   ],
   [
     "nft_a4_scifirocket",
-    "Jade Scifirocket",
+    "$product_scifirocket*3_name$",
     "Retro steam engine"
   ],
   [
     "nft_a4_wooden_screen",
-    "Wooden screen - red",
+    "$product_wooden_screen*2_name$",
     "Add some oriental touch to your room."
   ],
   [
@@ -75556,7 +75581,7 @@
   ],
   [
     "nft_a5_rare_dragonlamp",
-    "Black Dragon Lamp",
+    "$product_rare_dragonlamp*4_name$",
     "breathes fire"
   ],
   [
@@ -75581,7 +75606,7 @@
   ],
   [
     "nft_a5_scifirocket",
-    "Pink Scifirocket",
+    "$product_scifirocket*4_name$",
     "Retro steam engine"
   ],
   [
@@ -75606,12 +75631,12 @@
   ],
   [
     "nft_a6_pillar",
-    "Pillar - graphite",
+    "$product_pillar*4_name$",
     "Corinthian coolness"
   ],
   [
     "nft_a6_pillow",
-    "Pillow - gold",
+    "$product_pillow*4_name$",
     "Comfort with style"
   ],
   [
@@ -75626,17 +75651,17 @@
   ],
   [
     "nft_a6_rare_icecream",
-    "Yellow Icecream Machine",
+    "$product_rare_icecream*5_name$",
     "ice cold snacks"
   ],
   [
     "nft_a6_scifidoor",
-    "Black Scifidoor",
+    "$product_scifidoor*6_name$",
     "Beam it up"
   ],
   [
     "nft_a6_scifiport",
-    "Black Scifiport",
+    "$product_scifiport*5_name$",
     "Laserize your room"
   ],
   [
@@ -75666,32 +75691,32 @@
   ],
   [
     "nft_a7_pillar",
-    "Pillar - grass",
+    "$product_pillar*5_name$",
     "Corinthian coolness"
   ],
   [
     "nft_a7_pillow",
-    "Giant Black Pillow",
+    "$product_pillow*5_name$",
     "Comfort with style"
   ],
   [
     "nft_a7_rare_dragonlamp",
-    "Sun Dragon Lamp",
+    "$product_rare_dragonlamp*6_name$",
     "breathes fire"
   ],
   [
     "nft_a7_rare_fan",
-    "Ochre Fan",
+    "$product_rare_fan*6_name$",
     "strong wind warning"
   ],
   [
     "nft_a7_rare_icecream",
-    "Ochre Icecream Machine",
+    "$product_rare_icecream*6_name$",
     "ice cold snacks"
   ],
   [
     "nft_a7_scifidoor",
-    "Ocean Scifidoor",
+    "$product_scifidoor*7_name$",
     "Beam it up"
   ],
   [
@@ -75701,7 +75726,7 @@
   ],
   [
     "nft_a7_scifirocket",
-    "White Scifirocket",
+    "$product_scifirocket*6_name$",
     "Retro steam engine"
   ],
   [
@@ -75726,17 +75751,17 @@
   ],
   [
     "nft_a8_pillar",
-    "Pillar - terracotta",
+    "$product_pillar*6_name$",
     "Corinthian coolness"
   ],
   [
     "nft_a8_pillow",
-    "Pillow - blue",
+    "$product_pillow*6_name$",
     "Comfort with style"
   ],
   [
     "nft_a8_rare_dragonlamp",
-    "Sky Dragon Lamp",
+    "$product_rare_dragonlamp*7_name$",
     "breathes fire"
   ],
   [
@@ -75746,12 +75771,12 @@
   ],
   [
     "nft_a8_rare_icecream",
-    "Brown Icecream Machine",
+    "$product_rare_icecream*7_name$",
     "ice cold snacks"
   ],
   [
     "nft_a8_scifidoor",
-    "Purple Scifidoor",
+    "$product_scifidoor*8_name$",
     "Beam it up"
   ],
   [
@@ -75761,7 +75786,7 @@
   ],
   [
     "nft_a8_scifirocket",
-    "Ocean Scifirocket",
+    "$product_scifirocket*7_name$",
     "Retro steam engine"
   ],
   [
@@ -75796,12 +75821,12 @@
   ],
   [
     "nft_a9_rare_dragonlamp",
-    "Bronze Dragon Lamp",
+    "$product_rare_dragonlamp*8_name$",
     "breathes fire"
   ],
   [
     "nft_a9_rare_fan",
-    "Cyan Fan",
+    "$product_rare_fan*8_name$",
     "strong wind warning"
   ],
   [
@@ -75811,27 +75836,27 @@
   ],
   [
     "nft_a9_scifidoor",
-    "Blue Scifidoor",
+    "$product_scifidoor*9_name$",
     "Beam it up"
   ],
   [
     "nft_a9_scifiport",
-    "Purple Scifiport",
+    "$product_scifiport*8_name$",
     "Laserize your room"
   ],
   [
     "nft_a9_scifirocket",
-    "Purple Scifirocket",
+    "$product_scifirocket*8_name$",
     "Retro steam engine"
   ],
   [
     "nft_a9_wooden_screen",
-    "Wooden screen - purple",
+    "$product_wooden_screen*7_name$",
     "Add some oriental touch to your room."
   ],
   [
     "nft_arcade_c23_duckhunt",
-    "nft_arcade_c23_duckhunt name",
+    "Duck Hunt",
     "nft_arcade_c23_duckhunt desc"
   ],
   [
@@ -75856,32 +75881,32 @@
   ],
   [
     "nft_bb_apparatus_rc1",
-    "nft_bb_apparatus_rc1 name",
+    "Rare Banzai SPhere",
     "nft_bb_apparatus_rc1 desc"
   ],
   [
     "nft_bb_robo_rc1",
-    "nft_bb_robo_rc1 name",
+    "Rare Banzai Robo",
     "nft_bb_robo_rc1 desc"
   ],
   [
     "nft_bb_tddhead_rc1",
-    "nft_bb_tddhead_rc1 name",
+    "Rare Bear Head",
     "nft_bb_tddhead_rc1 desc"
   ],
   [
     "nft_beanstalk",
-    "nft_beanstalk",
+    "Gigantic Beanstalk",
     ""
   ],
   [
     "nft_birds_r18_puffin",
-    "nft_birds_r18_puffin name",
+    "Puffin",
     "nft_birds_r18_puffin desc"
   ],
   [
     "nft_birds_r18_spoonbill",
-    "nft_birds_r18_spoonbill name",
+    "Spoonbill",
     "nft_birds_r18_spoonbill desc"
   ],
   [
@@ -76101,22 +76126,22 @@
   ],
   [
     "nft_catcafe_c23_cattree",
-    "nft_catcafe_c23_cattree name",
+    "Custom Made Cat Tree",
     "nft_catcafe_c23_cattree desc"
   ],
   [
     "nft_catcafe_r23_catwaiter",
-    "nft_catcafe_r23_catwaiter name",
+    "Cat Waiter",
     "nft_catcafe_r23_catwaiter desc"
   ],
   [
     "nft_chair_plasto2",
-    "nft_chair_plasto2 name",
+    "Black plasto chair",
     "nft_chair_plasto2 desc"
   ],
   [
     "nft_chair_plasty2",
-    "nft_chair_plasty2 name",
+    "Black pod chair",
     "nft_chair_plasty2 desc"
   ],
   [
@@ -76126,7 +76151,7 @@
   ],
   [
     "nft_cland_c15_lollytree",
-    "nft_cland_c15_lollytree name",
+    "Lollipop Tree",
     "nft_cland_c15_lollytree desc"
   ],
   [
@@ -76141,12 +76166,12 @@
   ],
   [
     "nft_cpunk15_blimp",
-    "nft_cpunk15_blimp name",
+    "Overseer Blimp",
     "nft_cpunk15_blimp desc"
   ],
   [
     "nft_cpunk15_robosheep",
-    "nft_cpunk15_robosheep name",
+    "Electro- Sheep",
     "nft_cpunk15_robosheep desc"
   ],
   [
@@ -76191,57 +76216,57 @@
   ],
   [
     "nft_crystal_patch",
-    "nft_crystal_patch",
+    "Crystal Patch",
     "bling on"
   ],
   [
     "nft_diamond_dragon",
-    "nft_diamond_dragon name",
+    "Diamond Dragon Lamp",
     "nft_diamond_dragon desc"
   ],
   [
     "nft_diamond_painting32",
-    "nft_diamond_painting32 name",
+    "$wallitem_diamond_painting32_name$",
     "nft_diamond_painting32 desc"
   ],
   [
     "nft_diamond_painting33",
-    "nft_diamond_painting33 name",
+    "$wallitem_diamond_painting33_name$",
     "nft_diamond_painting33 desc"
   ],
   [
     "nft_diamond_painting34",
-    "nft_diamond_painting34 name",
+    "$wallitem_diamond_painting34_name$",
     "nft_diamond_painting34 desc"
   ],
   [
     "nft_diamond_painting38",
-    "nft_diamond_painting38 name",
+    "$wallitem_diamond_painting38_name$",
     "nft_diamond_painting38 desc"
   ],
   [
     "nft_diamond_painting67",
-    "nft_diamond_painting67 name",
+    "$wallitem_diamond_painting67_name$",
     "nft_diamond_painting67 desc"
   ],
   [
     "nft_diamond_painting6",
-    "nft_diamond_painting6 name",
+    "$wallitem_diamond_painting6_name$",
     "nft_diamond_painting6 desc"
   ],
   [
     "nft_diamond_painting71",
-    "nft_diamond_painting71 name",
+    "$wallitem_diamond_painting71_name$",
     "nft_diamond_painting71 desc"
   ],
   [
     "nft_diamond_painting82",
-    "nft_diamond_painting82 name",
+    "$wallitem_diamond_painting82_name$",
     "nft_diamond_painting82 desc"
   ],
   [
     "nft_diamond_r23_pillow",
-    "nft_diamond_r23_pillow name",
+    "Diamond Pillow",
     "nft_diamond_r23_pillow desc"
   ],
   [
@@ -76251,17 +76276,17 @@
   ],
   [
     "nft_easter14_eggstar",
-    "nft_easter14_eggstar name",
+    "Death Egg-Star",
     "nft_easter14_eggstar desc"
   ],
   [
     "nft_eco_cactus3",
-    "nft_eco_cactus3 name",
+    "Potted Cactus 3",
     "nft_eco_cactus3 desc"
   ],
   [
     "nft_eco_tree2",
-    "nft_eco_tree2 name",
+    "Pear Tree",
     "nft_eco_tree2 desc"
   ],
   [
@@ -76701,42 +76726,42 @@
   ],
   [
     "nft_garden15_lawnmower",
-    "nft_garden15_lawnmower name",
+    "Lawnmower",
     "nft_garden15_lawnmower desc"
   ],
   [
     "nft_gold_c15_arc_camp",
-    "nft_gold_c15_arc_camp name",
+    "Solid Gold Campfire",
     "nft_gold_c15_arc_camp desc"
   ],
   [
     "nft_gold_c15_arc_geysir",
-    "nft_gold_c15_arc_geysir name",
+    "Solid Gold Geyser",
     "nft_gold_c15_arc_geysir desc"
   ],
   [
     "nft_gold_c15_arc_icerug",
-    "nft_gold_c15_arc_icerug name",
+    "Solid Gold Rug",
     "nft_gold_c15_arc_icerug desc"
   ],
   [
     "nft_gothic15_toilet",
-    "nft_gothic15_toilet name",
+    "Gothic Toilet",
     "nft_gothic15_toilet desc"
   ],
   [
     "nft_greek_r19_chariot",
-    "nft_greek_r19_chariot name",
+    "Ancient Greek Chariot",
     "nft_greek_r19_chariot desc"
   ],
   [
     "nft_greek_r19_luxbed",
-    "nft_greek_r19_luxbed name",
+    "Senator's Bed",
     "nft_greek_r19_luxbed desc"
   ],
   [
     "nft_greek_r19_tiledbath",
-    "nft_greek_r19_tiledbath name",
+    "Luxury Tiled Bath",
     "nft_greek_r19_tiledbath desc"
   ],
   [
@@ -78465,6 +78490,11 @@
     "nft_h24_moai desc"
   ],
   [
+    "nft_h24_newyeareasel",
+    "2025 New Year Easel",
+    ""
+  ],
+  [
     "nft_h24_podsofa1",
     "Red Pod Sofa",
     "nft_h24_podsofa1 desc"
@@ -78571,7 +78601,7 @@
   ],
   [
     "nft_habbo15_dragonlamp",
-    "habbo15_dragonlamp name",
+    "$product_rare_dragonlamp*10_name$",
     "habbo15_dragonlamp desc"
   ],
   [
@@ -78581,7 +78611,7 @@
   ],
   [
     "nft_habbo15_fountain_5",
-    "habbo15_fountain_5 name",
+    "$product_rare_fountain*5_name$",
     "habbo15_fountain_5 desc"
   ],
   [
@@ -78596,27 +78626,27 @@
   ],
   [
     "nft_habbo15_marquee",
-    "nft_habbo15_marquee name",
+    "$product_marquee*11_name$",
     "nft_habbo15_marquee desc"
   ],
   [
     "nft_habbo15_parasol",
-    "habbo15_parasol name",
+    "$product_rare_parasol*4_name$",
     "habbo15_parasol desc"
   ],
   [
     "nft_habbo15_pillar",
-    "nft_habbo15_pillar name",
+    "$product_pillar*10_name$",
     "nft_habbo15_pillar desc"
   ],
   [
     "nft_habbo15_pillow",
-    "nft_habbo15_pillow name",
+    "$product_pillow*10_name$",
     "nft_habbo15_pillow desc"
   ],
   [
     "nft_habbo15_scifidoor",
-    "nft_habbo15_scifidoor name",
+    "$product_scifidoor*11_name$",
     "nft_habbo15_scifidoor desc"
   ],
   [
@@ -78626,7 +78656,7 @@
   ],
   [
     "nft_habbo15_scifirocket",
-    "nft_habbo15_scifirocket name",
+    "$product_scifirocket*10_name$",
     "nft_habbo15_scifirocket desc"
   ],
   [
@@ -78641,12 +78671,12 @@
   ],
   [
     "nft_hal_cauldron",
-    "Halloween cauldron",
+    "Green Cauldron",
     ""
   ],
   [
     "nft_hblooza_hotdog",
-    "nft_hblooza_hotdog name",
+    "Hot Dog Vendor",
     "nft_hblooza_hotdog desc"
   ],
   [
@@ -78671,52 +78701,52 @@
   ],
   [
     "nft_hween12_duck",
-    "nft_hween12_duck name",
+    "Duck Ride",
     "nft_hween12_duck desc"
   ],
   [
     "nft_hween13_rose",
-    "nft_hween13_rose name",
+    "Wilting Rose",
     "nft_hween13_rose desc"
   ],
   [
     "nft_hween14_rare1",
-    "nft_hween14_rare1 name",
+    "Skull Fountain",
     "nft_hween14_rare1 desc"
   ],
   [
     "nft_hween_r18_antiquechemset",
-    "nft_hween_r18_antiquechemset name",
+    "Antique Chemistry Set",
     "nft_hween_r18_antiquechemset desc"
   ],
   [
     "nft_jungle_r16_basket",
-    "nft_jungle_r16_basket name",
+    "Jungle Pulley",
     "nft_jungle_r16_basket desc"
   ],
   [
     "nft_jungle_r16_pitcherplant",
-    "nft_jungle_r16_pitcherplant name",
+    "Pitcher Plant",
     "nft_jungle_r16_pitcherplant desc"
   ],
   [
     "nft_ktchn15_coffeemaker",
-    "nft_ktchn15_coffeemaker name",
+    "Coffee Machine",
     "nft_ktchn15_coffeemaker desc"
   ],
   [
     "nft_ktchn15_fridge",
-    "nft_ktchn15_fridge name",
+    "Deluxe Refrigerator",
     "nft_ktchn15_fridge desc"
   ],
   [
     "nft_lostc_merdragon",
-    "nft_lostc_merdragon name",
+    "The Leviathan",
     "nft_lostc_merdragon desc"
   ],
   [
     "nft_matic_dispenser",
-    "nft_matic_dispenser name",
+    "Black Hole",
     "nft_matic_dispenser desc"
   ],
   [
@@ -78796,72 +78826,72 @@
   ],
   [
     "nft_qt_sum11_dragon",
-    "nft_qt_sum11_dragon name",
+    "Rare Sand Dragon",
     "nft_qt_sum11_dragon desc"
   ],
   [
     "nft_qt_val11_holoduck",
-    "nft_qt_val11_holoduck name",
+    "Holo-Duck",
     "nft_qt_val11_holoduck desc"
   ],
   [
     "nft_rare_blackrosegold_elephant_statue",
-    "nft_rare_blackrosegold_elephant_statue name",
+    "Rose Gold Elephant",
     "nft_rare_blackrosegold_elephant_statue desc"
   ],
   [
     "nft_rare_blackrosegold_icecream",
-    "nft_rare_blackrosegold_icecream name",
+    "Rose Gold Ice Cream Maker",
     "nft_rare_blackrosegold_icecream desc"
   ],
   [
     "nft_rare_blackrosegold_marquee",
-    "nft_rare_blackrosegold_marquee name",
+    "Rose Gold Marquee",
     "nft_rare_blackrosegold_marquee desc"
   ],
   [
     "nft_rare_blackrosegold_parasol",
-    "nft_rare_blackrosegold_parasol name",
+    "Rose Gold Parasol",
     "nft_rare_blackrosegold_parasol desc"
   ],
   [
     "nft_rare_blackrosegold_pillar",
-    "nft_rare_blackrosegold_pillar name",
+    "Doric Rose Gold Pillar",
     "nft_rare_blackrosegold_pillar desc"
   ],
   [
     "nft_rare_blackrosegold_pillow",
-    "nft_rare_blackrosegold_pillow name",
+    "Rose Gold Pillow",
     "nft_rare_blackrosegold_pillow desc"
   ],
   [
     "nft_rare_blackrosegold_scifidoor",
-    "nft_rare_blackrosegold_scifidoor name",
+    "Rose Gold Spaceship Door",
     "nft_rare_blackrosegold_scifidoor desc"
   ],
   [
     "nft_rare_blackrosegold_wooden_screen",
-    "nft_rare_blackrosegold_wooden_screen name",
+    "Rose Gold Oriental Screen",
     "nft_rare_blackrosegold_wooden_screen desc"
   ],
   [
     "nft_rare_colourable_dragonlamp_1",
-    "nft_rare_colourable_dragonlamp_1 name",
+    "$product_rare_colourable_dragonlamp*1_name$",
     "nft_rare_colourable_dragonlamp_1 desc"
   ],
   [
     "nft_rare_colourable_elephant_statue_1",
-    "nft_rare_colourable_elephant_statue_1 name",
+    "$product_rare_colourable_elephant_statue*1_name$",
     "nft_rare_colourable_elephant_statue_1 desc"
   ],
   [
     "nft_rare_colourable_elephant_statue_4",
-    "nft_rare_colourable_elephant_statue_4 name",
+    "Rare Black Elephant Statue",
     "nft_rare_colourable_elephant_statue_4 desc"
   ],
   [
     "nft_rare_colourable_fan_1",
-    "nft_rare_colourable_fan_1 name",
+    "$product_rare_colourable_fan*1_name$",
     "nft_rare_colourable_fan_1 desc"
   ],
   [
@@ -78886,17 +78916,17 @@
   ],
   [
     "nft_rare_colourable_fountain_2",
-    "nft_rare_colourable_fountain_2 name",
+    "Emerald Fountain",
     "nft_rare_colourable_fountain_2 desc"
   ],
   [
     "nft_rare_colourable_fountain_3",
-    "nft_rare_colourable_fountain_3 name",
+    "Teal Fountain",
     "nft_rare_colourable_fountain_3 desc"
   ],
   [
     "nft_rare_colourable_icecream_1",
-    "nft_rare_colourable_icecream_1 name",
+    "$product_rare_colourable_icecream*1_name$",
     "nft_rare_colourable_icecream_1 desc"
   ],
   [
@@ -78921,7 +78951,7 @@
   ],
   [
     "nft_rare_colourable_icecream_6",
-    "nft_rare_colourable_icecream_6 name",
+    "$product_rare_colourable_icecream*6_name$",
     "nft_rare_colourable_icecream_6 desc"
   ],
   [
@@ -78936,82 +78966,82 @@
   ],
   [
     "nft_rare_colourable_marquee_3",
-    "nft_rare_colourable_marquee_3 name",
+    "Teal Marquee",
     "nft_rare_colourable_marquee_3 desc"
   ],
   [
     "nft_rare_colourable_parasol_1",
-    "nft_rare_colourable_parasol_1 name",
+    "$product_rare_colourable_parasol*1_name$",
     "nft_rare_colourable_parasol_1 desc"
   ],
   [
     "nft_rare_colourable_parasol_2",
-    "nft_rare_colourable_parasol_2 name",
+    "Emerald Parasol",
     "nft_rare_colourable_parasol_2 desc"
   ],
   [
     "nft_rare_colourable_parasol_3",
-    "nft_rare_colourable_parasol_3 name",
+    "Teal Parasol",
     "nft_rare_colourable_parasol_3 desc"
   ],
   [
     "nft_rare_colourable_parasol_4",
-    "nft_rare_colourable_parasol_4 name",
+    "$product_rare_colourable_parasol*4_name$",
     "nft_rare_colourable_parasol_4 desc"
   ],
   [
     "nft_rare_colourable_parasol_5",
-    "nft_rare_colourable_parasol_5 name",
+    "$product_rare_colourable_parasol*5_name$",
     "nft_rare_colourable_parasol_5 desc"
   ],
   [
     "nft_rare_colourable_parasol_6",
-    "nft_rare_colourable_parasol_6 name",
+    "Rare Black Parasol",
     "nft_rare_colourable_parasol_6 desc"
   ],
   [
     "nft_rare_colourable_pillar_1",
-    "nft_rare_colourable_pillar_1 name",
+    "$product_rare_colourable_pillar*1_name$",
     "nft_rare_colourable_pillar_1 desc"
   ],
   [
     "nft_rare_colourable_pillar_2",
-    "nft_rare_colourable_pillar_2 name",
+    "Doric Emerald Pillar",
     "nft_rare_colourable_pillar_2 desc"
   ],
   [
     "nft_rare_colourable_pillar_3",
-    "nft_rare_colourable_pillar_3 name",
+    "Doric Teal Pillar",
     "nft_rare_colourable_pillar_3 desc"
   ],
   [
     "nft_rare_colourable_pillow_1",
-    "nft_rare_colourable_pillow_1 name",
+    "$product_rare_colourable_pillow*1_name$",
     "nft_rare_colourable_pillow_1 desc"
   ],
   [
     "nft_rare_colourable_pillow_2",
-    "nft_rare_colourable_pillow_2 name",
+    "Emerald Giant Pillow",
     "nft_rare_colourable_pillow_2 desc"
   ],
   [
     "nft_rare_colourable_pillow_3",
-    "nft_rare_colourable_pillow_3 name",
+    "Teal Pillow",
     "nft_rare_colourable_pillow_3 desc"
   ],
   [
     "nft_rare_colourable_scifidoor_1",
-    "nft_rare_colourable_scifidoor_1 name",
+    "$product_rare_colourable_scifidoor*1_name$",
     "nft_rare_colourable_scifidoor_1 desc"
   ],
   [
     "nft_rare_colourable_scifidoor_2",
-    "nft_rare_colourable_scifidoor_2 name",
+    "Emerald Spaceship Door",
     "nft_rare_colourable_scifidoor_2 desc"
   ],
   [
     "nft_rare_colourable_scifidoor_3",
-    "nft_rare_colourable_scifidoor_3 name",
+    "Teal Spaceship Door",
     "nft_rare_colourable_scifidoor_3 desc"
   ],
   [
@@ -79021,7 +79051,7 @@
   ],
   [
     "nft_rare_colourable_scifiport_2",
-    "nft_rare_colourable_scifiport_2 name",
+    "Emerald Laser Portal",
     "nft_rare_colourable_scifiport_2 desc"
   ],
   [
@@ -79031,22 +79061,22 @@
   ],
   [
     "nft_rare_colourable_scifirocket_1",
-    "nft_rare_colourable_scifirocket_1 name",
+    "$product_rare_colourable_scifirocket*1_name$",
     "nft_rare_colourable_scifirocket_1 desc"
   ],
   [
     "nft_rare_colourable_scifirocket_2",
-    "nft_rare_colourable_scifirocket_2 name",
+    "Emerald Smoke Machine",
     "nft_rare_colourable_scifirocket_2 desc"
   ],
   [
     "nft_rare_colourable_scifirocket_3",
-    "nft_rare_colourable_scifirocket_3 name",
+    "Teal Smoke Machine",
     "nft_rare_colourable_scifirocket_3 desc"
   ],
   [
     "nft_rare_colourable_scifirocket_4",
-    "nft_rare_colourable_scifirocket_4 name",
+    "$product_rare_colourable_scifirocket*4_name$",
     "nft_rare_colourable_scifirocket_4 desc"
   ],
   [
@@ -79056,17 +79086,17 @@
   ],
   [
     "nft_rare_colourable_sleepingbag_3",
-    "nft_rare_colourable_sleepingbag_3 name",
+    "Teal Sleeping Bag",
     "nft_rare_colourable_sleepingbag_3 desc"
   ],
   [
     "nft_rare_colourable_wooden_screen_1",
-    "nft_rare_colourable_wooden_screen_1 name",
+    "$product_rare_colourable_wooden_screen*1_name$",
     "nft_rare_colourable_wooden_screen_1 desc"
   ],
   [
     "nft_rare_colourable_wooden_screen_2",
-    "nft_rare_colourable_wooden_screen_2 name",
+    "Emerald Oriental Screen",
     "nft_rare_colourable_wooden_screen_2 desc"
   ],
   [
@@ -79076,22 +79106,22 @@
   ],
   [
     "nft_rare_mmmth",
-    "nft_rare_mmmth name",
+    "Mammoth Sofa",
     "nft_rare_mmmth desc"
   ],
   [
     "nft_rare_sage",
-    "nft_rare_sage name",
+    "Decision Maker Machine",
     "nft_rare_sage desc"
   ],
   [
     "nft_rare_vdoll",
-    "nft_rare_vdoll name",
+    "Rare Voodoo Doll",
     "nft_rare_vdoll desc"
   ],
   [
     "nft_runway_oldecamera",
-    "nft_runway_oldecamera name",
+    "Antique Camera",
     "nft_runway_oldecamera desc"
   ],
   [
@@ -79176,37 +79206,37 @@
   ],
   [
     "nft_sf_pod",
-    "nft_sf_pod",
+    "Cryogenic Bed",
     ""
   ],
   [
     "nft_st_wildwest_buffalo",
-    "nft_st_wildwest_buffalo name",
+    "Buffalo Statue",
     "nft_st_wildwest_buffalo desc"
   ],
   [
     "nft_table_plasto2_4leg",
-    "nft_table_plasto2_4leg name",
+    "Black four-leg table",
     "nft_table_plasto2_4leg desc"
   ],
   [
     "nft_table_plasto2_bigsq",
-    "nft_table_plasto2_bigsq name",
+    "Black square dining table",
     "nft_table_plasto2_bigsq desc"
   ],
   [
     "nft_table_plasto2_round",
-    "nft_table_plasto2_round name",
+    "Black round dining table",
     "nft_table_plasto2_round desc"
   ],
   [
     "nft_table_plasto2_sq",
-    "nft_table_plasto2_sq name",
+    "Black Occasional Table",
     "nft_table_plasto2_sq desc"
   ],
   [
     "nft_tokyo_r18_koikite",
-    "nft_tokyo_r18_koikite name",
+    "Koi Carp Kites",
     "nft_tokyo_r18_koikite desc"
   ],
   [
@@ -79306,27 +79336,27 @@
   ],
   [
     "nft_val15_hottub",
-    "nft_val15_hottub name",
+    "Wooden Ofuro Tub",
     "nft_val15_hottub desc"
   ],
   [
     "nft_wildwest_gallows",
-    "nft_wildwest_gallows name",
+    "Ghostly Gallows",
     "nft_wildwest_gallows desc"
   ],
   [
     "nft_wildwest_till",
-    "nft_wildwest_till name",
+    "Old Fashioned Till",
     "nft_wildwest_till desc"
   ],
   [
     "nft_xmas_r23_cakethrone2",
-    "nft_xmas_r23_cakethrone2 name",
+    "White Throne",
     "nft_xmas_r23_cakethrone2 desc"
   ],
   [
     "nft_zengarden_r18_fountain",
-    "nft_zengarden_r18_fountain name",
+    "Zen Garden Fountain",
     "nft_zengarden_r18_fountain desc"
   ],
   [

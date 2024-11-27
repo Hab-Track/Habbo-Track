@@ -35242,6 +35242,11 @@
         "description": "clothing_nft2024 desc"
       },
       {
+        "code": "clothing_nft2025",
+        "name": "2025 New Year Necklace",
+        "description": ""
+      },
+      {
         "code": "clothing_nft23partyhat1",
         "name": "2nd Anniversary Yellow Hat",
         "description": "clothing_nft23partyhat1 desc"
@@ -35289,6 +35294,11 @@
       {
         "code": "clothing_nft_bloody",
         "name": "Bloody Eyes",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftartistset",
+        "name": "Easel Painter’s Outfit",
         "description": ""
       },
       {
@@ -74803,7 +74813,7 @@
       },
       {
         "code": "nft_A0_rarebeehivered",
-        "name": "Red Amber Lamp",
+        "name": "$product_rare_beehive_bulb*1_name$",
         "description": "No bees were harmed during the production."
       },
       {
@@ -74813,7 +74823,7 @@
       },
       {
         "code": "nft_A0_raredaffodilrug",
-        "name": "Petal Patch",
+        "name": "$product_rare_daffodil_rug_name$",
         "description": "A little bit of outdoors indoors.."
       },
       {
@@ -74823,7 +74833,7 @@
       },
       {
         "code": "nft_A0_rarefountaingreen",
-        "name": "Bird Bath (green)",
+        "name": "$product_rare_fountain*2_name$",
         "description": "For our feathered friends"
       },
       {
@@ -74838,7 +74848,7 @@
       },
       {
         "code": "nft_A0_rareglobe",
-        "name": "Habbo Globe",
+        "name": "$product_rare_globe_name$",
         "description": "Shake, don't break!"
       },
       {
@@ -74848,12 +74858,12 @@
       },
       {
         "code": "nft_A0_rareparasolgreen",
-        "name": "Green Parasol",
+        "name": "$product_rare_parasol*0_name$",
         "description": "Sun! Sun! Sun!"
       },
       {
         "code": "nft_A0_rareparasolviolet",
-        "name": "Violet Parasol",
+        "name": "$product_rare_parasol*3_name$",
         "description": "Sun! Sun! Sun!"
       },
       {
@@ -74958,117 +74968,117 @@
       },
       {
         "code": "nft_A1_PL1",
-        "name": "Aloe Vera",
+        "name": "$product_plant_cruddy_name$",
         "description": "Goodbye Bert..."
       },
       {
         "code": "nft_DEV_exe_globe",
-        "name": "nft_DEV_exe_globe",
+        "name": "$product_exe_globe_name$",
         "description": ""
       },
       {
         "code": "nft_a0_clubrug",
-        "name": "Club Rug",
+        "name": "$product_hc_crpt_name$",
         "description": "Club Rug"
       },
       {
         "code": "nft_a0_clubsofa",
-        "name": "Club sofa",
+        "name": "$product_club_sofa_name$",
         "description": "Club sofa"
       },
       {
         "code": "nft_a0_clubtv",
-        "name": "Club Tv",
+        "name": "$product_hc_tv_name$",
         "description": "Club Tv"
       },
       {
         "code": "nft_a0_gothicfountain_2",
-        "name": "Gothic fountain",
+        "name": "$wallitem_gothicfountain2_name$",
         "description": "The dark side of Habbo"
       },
       {
         "code": "nft_a0_gothicfountain",
-        "name": "Gothic fountain",
+        "name": "$wallitem_gothicfountain_name$",
         "description": "The dark side of Habbo"
       },
       {
         "code": "nft_a0_habboween_grass",
-        "name": "habboween grass",
+        "name": "$product_habboween_grass_name$",
         "description": "habboween grass"
       },
       {
         "code": "nft_a0_hc_bkshlf",
-        "name": "nft_hc_bkshlf",
+        "name": "$product_hc_bkshlf_name$",
         "description": "nft_hc_bkshlf"
       },
       {
         "code": "nft_a0_hc_chr",
-        "name": "Majestic Chair",
+        "name": "$product_hc_chr_name$",
         "description": "Royal comfort"
       },
       {
         "code": "nft_a0_hc_dsk",
-        "name": "Study desk",
+        "name": "$product_hc_dsk_name$",
         "description": "For Habbo scholars"
       },
       {
         "code": "nft_a0_hc_lmp",
-        "name": "Oil lamp",
+        "name": "$product_hc_lmp_name$",
         "description": "Be enlightened"
       },
       {
         "code": "nft_a0_hc_machine",
-        "name": "hc machine",
+        "name": "$product_hc_machine_name$",
         "description": ""
       },
       {
         "code": "nft_a0_hc_rllr",
-        "name": "HC Roller",
+        "name": "$product_hc_rllr_name$",
         "description": "HC Roller Description"
       },
       {
         "code": "nft_a0_hc_rntgn",
-        "name": "nft_hc_rntgn",
+        "name": "$product_hc_rntgn_name$",
         "description": "nft_hc_rntgn"
       },
       {
         "code": "nft_a0_hc_tbl",
-        "name": "Nordic Table",
+        "name": "$product_hc_tbl_name$",
         "description": "Perfect for banquets"
       },
       {
         "code": "nft_a0_hc_wall_lamp",
-        "name": "Oil lamp",
+        "name": "$wallitem_hc_wall_lamp_name$",
         "description": "Be enlightened"
       },
       {
         "code": "nft_a0_hcamme",
-        "name": "Tubmaster",
+        "name": "$product_hcamme_name$",
         "description": "Time for a soak"
       },
       {
         "code": "nft_a0_hcsohva",
-        "name": "Throne sofa",
+        "name": "$product_hcsohva_name$",
         "description": "For royal bottoms..."
       },
       {
         "code": "nft_a0_hemingway",
-        "name": "Typewriter",
+        "name": "$product_typingmachine_name$",
         "description": "Write that bestseller"
       },
       {
         "code": "nft_a0_industrial_fan",
-        "name": "Industrial turbine",
+        "name": "$wallitem_industrialfan_name$",
         "description": "Industrial turbine"
       },
       {
         "code": "nft_a0_marquee",
-        "name": "Marquee - plain",
+        "name": "$product_marquee*10_name$",
         "description": "It's both door and a shade!"
       },
       {
         "code": "nft_a0_moonrug",
-        "name": "Moon Rug",
+        "name": "$product_rare_moonrug_name$",
         "description": "Built in 1969!"
       },
       {
@@ -75128,7 +75138,7 @@
       },
       {
         "code": "nft_a0_pillar",
-        "name": "Pillar - plain",
+        "name": "$product_pillar*0_name$",
         "description": "Corinthian coolness"
       },
       {
@@ -75137,23 +75147,38 @@
         "description": "Comfort with style"
       },
       {
+        "code": "nft_a0_rareparasolbrown",
+        "name": "$product_rare_parasol*2_name$",
+        "description": ""
+      },
+      {
+        "code": "nft_a0_rareparasolyellow",
+        "name": "$product_rare_parasol*1_name$",
+        "description": ""
+      },
+      {
+        "code": "nft_a0_rarestand",
+        "name": "$product_rare_stand_name$",
+        "description": ""
+      },
+      {
         "code": "nft_a0_scifiport",
         "name": "Red Scifiport",
         "description": "Energy beams. No trespassers!"
       },
       {
         "code": "nft_a0_sleepingbag10",
-        "name": "Khaki Sleeping Bag",
+        "name": "$product_sleepingbag*10_name$",
         "description": "Ultimate coziness"
       },
       {
         "code": "nft_a0_sleepingbag2",
-        "name": "Lime Sleeping Bag",
+        "name": "$product_sleepingbag*2_name$",
         "description": "Ultimate coziness"
       },
       {
         "code": "nft_a0_sleepingbag3",
-        "name": "Ocean Sleeping Bag",
+        "name": "$product_sleepingbag*3_name$",
         "description": "Ultimate coziness"
       },
       {
@@ -75163,17 +75188,17 @@
       },
       {
         "code": "nft_a0_sleepingbag5",
-        "name": "Graphite Sleeping Bag",
+        "name": "$product_sleepingbag*5_name$",
         "description": "Ultimate coziness"
       },
       {
         "code": "nft_a0_sleepingbag6",
-        "name": "Purple Sleeping Bag",
+        "name": "$product_sleepingbag*6_name$",
         "description": "Ultimate coziness"
       },
       {
         "code": "nft_a0_sleepingbag7",
-        "name": "Orange Sleeping Bag",
+        "name": "$product_sleepingbag*7_name$",
         "description": "Ultimate coziness"
       },
       {
@@ -75183,27 +75208,27 @@
       },
       {
         "code": "nft_a0_sleepingbag9",
-        "name": "Blue Sleeping Bag",
+        "name": "$product_sleepingbag*9_name$",
         "description": "Ultimate coziness"
       },
       {
         "code": "nft_a0_sleepingbag",
-        "name": "Red Sleeping Bag",
+        "name": "$product_sleepingbag*1_name$",
         "description": "Ultimate coziness"
       },
       {
         "code": "nft_a0_spyro",
-        "name": "Dragon egg",
+        "name": "$product_spyro_name$",
         "description": "Spyro the Dragon"
       },
       {
         "code": "nft_a0_throne",
-        "name": "Throne",
+        "name": "$product_throne_name$",
         "description": "Important Habbos only"
       },
       {
         "code": "nft_a0_turntable",
-        "name": "DJ Turntable",
+        "name": "$product_djesko_turntable_name$",
         "description": "The wheels of expression"
       },
       {
@@ -75213,7 +75238,7 @@
       },
       {
         "code": "nft_a10_marquee",
-        "name": "Marquee - purple",
+        "name": "$product_marquee*7_name$",
         "description": "It's both door and a shade!"
       },
       {
@@ -75233,7 +75258,7 @@
       },
       {
         "code": "nft_a10_pillow",
-        "name": "Pillow - suede",
+        "name": "$product_pillow*8_name$",
         "description": "Comfort with style"
       },
       {
@@ -75243,27 +75268,27 @@
       },
       {
         "code": "nft_a10_rare_fan",
-        "name": "Pink Fan",
+        "name": "$product_rare_fan*9_name$",
         "description": "strong wind warning"
       },
       {
         "code": "nft_a10_rare_icecream",
-        "name": "Pink Icecream Machine",
+        "name": "$product_rare_icecream*9_name$",
         "description": "ice cold snacks"
       },
       {
         "code": "nft_a10_scifidoor",
-        "name": "Violet Scifidoor",
+        "name": "$product_scifidoor*10_name$",
         "description": "Beam it up"
       },
       {
         "code": "nft_a10_scifiport",
-        "name": "Violet Scifiport",
+        "name": "$product_scifiport*9_name$",
         "description": "Laserize your room"
       },
       {
         "code": "nft_a10_scifirocket",
-        "name": "Blueberry Scifirocket",
+        "name": "$product_scifirocket*9_name$",
         "description": "Retro steam engine"
       },
       {
@@ -75283,7 +75308,7 @@
       },
       {
         "code": "nft_a11_pillar",
-        "name": "Pillar - rock",
+        "name": "$product_pillar*9_name$",
         "description": "Corinthian coolness"
       },
       {
@@ -75293,12 +75318,12 @@
       },
       {
         "code": "nft_a11_rare_icecream",
-        "name": "White Icecream Machine",
+        "name": "$product_rare_icecream*10_name$",
         "description": "ice cold snacks"
       },
       {
         "code": "nft_a11_wooden_screen",
-        "name": "Wooden screen - grass",
+        "name": "$product_wooden_screen*9_name$",
         "description": "Add some oriental touch to your room."
       },
       {
@@ -75308,7 +75333,7 @@
       },
       {
         "code": "nft_a1_bubblejuice_machine",
-        "name": "Habbo Cola Machine",
+        "name": "$product_md_limukaappi_name$",
         "description": "A sparkling and refreshing pixel drink!"
       },
       {
@@ -75318,7 +75343,7 @@
       },
       {
         "code": "nft_a1_newpl4lg1",
-        "name": "HC table",
+        "name": "$product_table_plasto_4leg*14_name$",
         "description": "Aqua table"
       },
       {
@@ -75333,7 +75358,7 @@
       },
       {
         "code": "nft_a1_newplch1",
-        "name": "HC chair",
+        "name": "$product_chair_plasto*14_name$",
         "description": "Aqua chair"
       },
       {
@@ -75353,7 +75378,7 @@
       },
       {
         "code": "nft_a1_rare_dragonlamp",
-        "name": "Fire Dragon Lamp",
+        "name": "$product_rare_dragonlamp*0_name$",
         "description": "breathes fire"
       },
       {
@@ -75363,7 +75388,7 @@
       },
       {
         "code": "nft_a1_rare_icecream",
-        "name": "Red Icecream Machine",
+        "name": "$product_rare_icecream*0_name$",
         "description": "ice cold snacks"
       },
       {
@@ -75373,12 +75398,12 @@
       },
       {
         "code": "nft_a1_scifirocket",
-        "name": "Red Scifirocket",
+        "name": "$product_scifirocket*0_name$",
         "description": "Retro steam engine"
       },
       {
         "code": "nft_a2_holoholo",
-        "name": "Holo-girl",
+        "name": "$product_redhologram_name$",
         "description": "You're her only hope..."
       },
       {
@@ -75388,7 +75413,7 @@
       },
       {
         "code": "nft_a2_rare_dragonlamp",
-        "name": "Water Dragon Lamp",
+        "name": "$product_rare_dragonlamp*1_name$",
         "description": "breathes fire"
       },
       {
@@ -75398,7 +75423,7 @@
       },
       {
         "code": "nft_a2_rare_icecream",
-        "name": "Blue Icecream Machine",
+        "name": "$product_rare_icecream*1_name$",
         "description": "ice cold snacks"
       },
       {
@@ -75428,17 +75453,17 @@
       },
       {
         "code": "nft_a3_pillar",
-        "name": "Pillar - rose",
+        "name": "$product_pillar*1_name$",
         "description": "Corinthian coolness"
       },
       {
         "code": "nft_a3_pillow",
-        "name": "Pillow - rose",
+        "name": "$product_pillow*1_name$",
         "description": "Comfort with style"
       },
       {
         "code": "nft_a3_rare_dragonlamp",
-        "name": "Jade Dragon Lamp",
+        "name": "$product_rare_dragonlamp*2_name$",
         "description": "breathes fire"
       },
       {
@@ -75468,12 +75493,12 @@
       },
       {
         "code": "nft_a3_wooden_screen",
-        "name": "Wooden screen - rose",
+        "name": "$product_wooden_screen*1_name$",
         "description": "Add some oriental touch to your room."
       },
       {
         "code": "nft_a4_marquee",
-        "name": "Marquee - rose",
+        "name": "$product_marquee*1_name$",
         "description": "It's both door and a shade!"
       },
       {
@@ -75498,12 +75523,12 @@
       },
       {
         "code": "nft_a4_rare_dragonlamp",
-        "name": "White Dragon Lamp",
+        "name": "$product_rare_dragonlamp*3_name$",
         "description": "breathes fire"
       },
       {
         "code": "nft_a4_rare_fan",
-        "name": "Purple Fan",
+        "name": "$product_rare_fan*3_name$",
         "description": "strong wind warning"
       },
       {
@@ -75513,22 +75538,22 @@
       },
       {
         "code": "nft_a4_scifidoor",
-        "name": "Jade Scifidoor",
+        "name": "$product_scifidoor*4_name$",
         "description": "Beam it up"
       },
       {
         "code": "nft_a4_scifiport",
-        "name": "Jade Scifiport",
+        "name": "$product_scifiport*3_name$",
         "description": "Laserize your room"
       },
       {
         "code": "nft_a4_scifirocket",
-        "name": "Jade Scifirocket",
+        "name": "$product_scifirocket*3_name$",
         "description": "Retro steam engine"
       },
       {
         "code": "nft_a4_wooden_screen",
-        "name": "Wooden screen - red",
+        "name": "$product_wooden_screen*2_name$",
         "description": "Add some oriental touch to your room."
       },
       {
@@ -75558,7 +75583,7 @@
       },
       {
         "code": "nft_a5_rare_dragonlamp",
-        "name": "Black Dragon Lamp",
+        "name": "$product_rare_dragonlamp*4_name$",
         "description": "breathes fire"
       },
       {
@@ -75583,7 +75608,7 @@
       },
       {
         "code": "nft_a5_scifirocket",
-        "name": "Pink Scifirocket",
+        "name": "$product_scifirocket*4_name$",
         "description": "Retro steam engine"
       },
       {
@@ -75608,12 +75633,12 @@
       },
       {
         "code": "nft_a6_pillar",
-        "name": "Pillar - graphite",
+        "name": "$product_pillar*4_name$",
         "description": "Corinthian coolness"
       },
       {
         "code": "nft_a6_pillow",
-        "name": "Pillow - gold",
+        "name": "$product_pillow*4_name$",
         "description": "Comfort with style"
       },
       {
@@ -75628,17 +75653,17 @@
       },
       {
         "code": "nft_a6_rare_icecream",
-        "name": "Yellow Icecream Machine",
+        "name": "$product_rare_icecream*5_name$",
         "description": "ice cold snacks"
       },
       {
         "code": "nft_a6_scifidoor",
-        "name": "Black Scifidoor",
+        "name": "$product_scifidoor*6_name$",
         "description": "Beam it up"
       },
       {
         "code": "nft_a6_scifiport",
-        "name": "Black Scifiport",
+        "name": "$product_scifiport*5_name$",
         "description": "Laserize your room"
       },
       {
@@ -75668,32 +75693,32 @@
       },
       {
         "code": "nft_a7_pillar",
-        "name": "Pillar - grass",
+        "name": "$product_pillar*5_name$",
         "description": "Corinthian coolness"
       },
       {
         "code": "nft_a7_pillow",
-        "name": "Giant Black Pillow",
+        "name": "$product_pillow*5_name$",
         "description": "Comfort with style"
       },
       {
         "code": "nft_a7_rare_dragonlamp",
-        "name": "Sun Dragon Lamp",
+        "name": "$product_rare_dragonlamp*6_name$",
         "description": "breathes fire"
       },
       {
         "code": "nft_a7_rare_fan",
-        "name": "Ochre Fan",
+        "name": "$product_rare_fan*6_name$",
         "description": "strong wind warning"
       },
       {
         "code": "nft_a7_rare_icecream",
-        "name": "Ochre Icecream Machine",
+        "name": "$product_rare_icecream*6_name$",
         "description": "ice cold snacks"
       },
       {
         "code": "nft_a7_scifidoor",
-        "name": "Ocean Scifidoor",
+        "name": "$product_scifidoor*7_name$",
         "description": "Beam it up"
       },
       {
@@ -75703,7 +75728,7 @@
       },
       {
         "code": "nft_a7_scifirocket",
-        "name": "White Scifirocket",
+        "name": "$product_scifirocket*6_name$",
         "description": "Retro steam engine"
       },
       {
@@ -75728,17 +75753,17 @@
       },
       {
         "code": "nft_a8_pillar",
-        "name": "Pillar - terracotta",
+        "name": "$product_pillar*6_name$",
         "description": "Corinthian coolness"
       },
       {
         "code": "nft_a8_pillow",
-        "name": "Pillow - blue",
+        "name": "$product_pillow*6_name$",
         "description": "Comfort with style"
       },
       {
         "code": "nft_a8_rare_dragonlamp",
-        "name": "Sky Dragon Lamp",
+        "name": "$product_rare_dragonlamp*7_name$",
         "description": "breathes fire"
       },
       {
@@ -75748,12 +75773,12 @@
       },
       {
         "code": "nft_a8_rare_icecream",
-        "name": "Brown Icecream Machine",
+        "name": "$product_rare_icecream*7_name$",
         "description": "ice cold snacks"
       },
       {
         "code": "nft_a8_scifidoor",
-        "name": "Purple Scifidoor",
+        "name": "$product_scifidoor*8_name$",
         "description": "Beam it up"
       },
       {
@@ -75763,7 +75788,7 @@
       },
       {
         "code": "nft_a8_scifirocket",
-        "name": "Ocean Scifirocket",
+        "name": "$product_scifirocket*7_name$",
         "description": "Retro steam engine"
       },
       {
@@ -75798,12 +75823,12 @@
       },
       {
         "code": "nft_a9_rare_dragonlamp",
-        "name": "Bronze Dragon Lamp",
+        "name": "$product_rare_dragonlamp*8_name$",
         "description": "breathes fire"
       },
       {
         "code": "nft_a9_rare_fan",
-        "name": "Cyan Fan",
+        "name": "$product_rare_fan*8_name$",
         "description": "strong wind warning"
       },
       {
@@ -75813,27 +75838,27 @@
       },
       {
         "code": "nft_a9_scifidoor",
-        "name": "Blue Scifidoor",
+        "name": "$product_scifidoor*9_name$",
         "description": "Beam it up"
       },
       {
         "code": "nft_a9_scifiport",
-        "name": "Purple Scifiport",
+        "name": "$product_scifiport*8_name$",
         "description": "Laserize your room"
       },
       {
         "code": "nft_a9_scifirocket",
-        "name": "Purple Scifirocket",
+        "name": "$product_scifirocket*8_name$",
         "description": "Retro steam engine"
       },
       {
         "code": "nft_a9_wooden_screen",
-        "name": "Wooden screen - purple",
+        "name": "$product_wooden_screen*7_name$",
         "description": "Add some oriental touch to your room."
       },
       {
         "code": "nft_arcade_c23_duckhunt",
-        "name": "nft_arcade_c23_duckhunt name",
+        "name": "Duck Hunt",
         "description": "nft_arcade_c23_duckhunt desc"
       },
       {
@@ -75858,32 +75883,32 @@
       },
       {
         "code": "nft_bb_apparatus_rc1",
-        "name": "nft_bb_apparatus_rc1 name",
+        "name": "Rare Banzai SPhere",
         "description": "nft_bb_apparatus_rc1 desc"
       },
       {
         "code": "nft_bb_robo_rc1",
-        "name": "nft_bb_robo_rc1 name",
+        "name": "Rare Banzai Robo",
         "description": "nft_bb_robo_rc1 desc"
       },
       {
         "code": "nft_bb_tddhead_rc1",
-        "name": "nft_bb_tddhead_rc1 name",
+        "name": "Rare Bear Head",
         "description": "nft_bb_tddhead_rc1 desc"
       },
       {
         "code": "nft_beanstalk",
-        "name": "nft_beanstalk",
+        "name": "Gigantic Beanstalk",
         "description": ""
       },
       {
         "code": "nft_birds_r18_puffin",
-        "name": "nft_birds_r18_puffin name",
+        "name": "Puffin",
         "description": "nft_birds_r18_puffin desc"
       },
       {
         "code": "nft_birds_r18_spoonbill",
-        "name": "nft_birds_r18_spoonbill name",
+        "name": "Spoonbill",
         "description": "nft_birds_r18_spoonbill desc"
       },
       {
@@ -76103,22 +76128,22 @@
       },
       {
         "code": "nft_catcafe_c23_cattree",
-        "name": "nft_catcafe_c23_cattree name",
+        "name": "Custom Made Cat Tree",
         "description": "nft_catcafe_c23_cattree desc"
       },
       {
         "code": "nft_catcafe_r23_catwaiter",
-        "name": "nft_catcafe_r23_catwaiter name",
+        "name": "Cat Waiter",
         "description": "nft_catcafe_r23_catwaiter desc"
       },
       {
         "code": "nft_chair_plasto2",
-        "name": "nft_chair_plasto2 name",
+        "name": "Black plasto chair",
         "description": "nft_chair_plasto2 desc"
       },
       {
         "code": "nft_chair_plasty2",
-        "name": "nft_chair_plasty2 name",
+        "name": "Black pod chair",
         "description": "nft_chair_plasty2 desc"
       },
       {
@@ -76128,7 +76153,7 @@
       },
       {
         "code": "nft_cland_c15_lollytree",
-        "name": "nft_cland_c15_lollytree name",
+        "name": "Lollipop Tree",
         "description": "nft_cland_c15_lollytree desc"
       },
       {
@@ -76143,12 +76168,12 @@
       },
       {
         "code": "nft_cpunk15_blimp",
-        "name": "nft_cpunk15_blimp name",
+        "name": "Overseer Blimp",
         "description": "nft_cpunk15_blimp desc"
       },
       {
         "code": "nft_cpunk15_robosheep",
-        "name": "nft_cpunk15_robosheep name",
+        "name": "Electro- Sheep",
         "description": "nft_cpunk15_robosheep desc"
       },
       {
@@ -76193,57 +76218,57 @@
       },
       {
         "code": "nft_crystal_patch",
-        "name": "nft_crystal_patch",
+        "name": "Crystal Patch",
         "description": "bling on"
       },
       {
         "code": "nft_diamond_dragon",
-        "name": "nft_diamond_dragon name",
+        "name": "Diamond Dragon Lamp",
         "description": "nft_diamond_dragon desc"
       },
       {
         "code": "nft_diamond_painting32",
-        "name": "nft_diamond_painting32 name",
+        "name": "$wallitem_diamond_painting32_name$",
         "description": "nft_diamond_painting32 desc"
       },
       {
         "code": "nft_diamond_painting33",
-        "name": "nft_diamond_painting33 name",
+        "name": "$wallitem_diamond_painting33_name$",
         "description": "nft_diamond_painting33 desc"
       },
       {
         "code": "nft_diamond_painting34",
-        "name": "nft_diamond_painting34 name",
+        "name": "$wallitem_diamond_painting34_name$",
         "description": "nft_diamond_painting34 desc"
       },
       {
         "code": "nft_diamond_painting38",
-        "name": "nft_diamond_painting38 name",
+        "name": "$wallitem_diamond_painting38_name$",
         "description": "nft_diamond_painting38 desc"
       },
       {
         "code": "nft_diamond_painting67",
-        "name": "nft_diamond_painting67 name",
+        "name": "$wallitem_diamond_painting67_name$",
         "description": "nft_diamond_painting67 desc"
       },
       {
         "code": "nft_diamond_painting6",
-        "name": "nft_diamond_painting6 name",
+        "name": "$wallitem_diamond_painting6_name$",
         "description": "nft_diamond_painting6 desc"
       },
       {
         "code": "nft_diamond_painting71",
-        "name": "nft_diamond_painting71 name",
+        "name": "$wallitem_diamond_painting71_name$",
         "description": "nft_diamond_painting71 desc"
       },
       {
         "code": "nft_diamond_painting82",
-        "name": "nft_diamond_painting82 name",
+        "name": "$wallitem_diamond_painting82_name$",
         "description": "nft_diamond_painting82 desc"
       },
       {
         "code": "nft_diamond_r23_pillow",
-        "name": "nft_diamond_r23_pillow name",
+        "name": "Diamond Pillow",
         "description": "nft_diamond_r23_pillow desc"
       },
       {
@@ -76253,17 +76278,17 @@
       },
       {
         "code": "nft_easter14_eggstar",
-        "name": "nft_easter14_eggstar name",
+        "name": "Death Egg-Star",
         "description": "nft_easter14_eggstar desc"
       },
       {
         "code": "nft_eco_cactus3",
-        "name": "nft_eco_cactus3 name",
+        "name": "Potted Cactus 3",
         "description": "nft_eco_cactus3 desc"
       },
       {
         "code": "nft_eco_tree2",
-        "name": "nft_eco_tree2 name",
+        "name": "Pear Tree",
         "description": "nft_eco_tree2 desc"
       },
       {
@@ -76703,42 +76728,42 @@
       },
       {
         "code": "nft_garden15_lawnmower",
-        "name": "nft_garden15_lawnmower name",
+        "name": "Lawnmower",
         "description": "nft_garden15_lawnmower desc"
       },
       {
         "code": "nft_gold_c15_arc_camp",
-        "name": "nft_gold_c15_arc_camp name",
+        "name": "Solid Gold Campfire",
         "description": "nft_gold_c15_arc_camp desc"
       },
       {
         "code": "nft_gold_c15_arc_geysir",
-        "name": "nft_gold_c15_arc_geysir name",
+        "name": "Solid Gold Geyser",
         "description": "nft_gold_c15_arc_geysir desc"
       },
       {
         "code": "nft_gold_c15_arc_icerug",
-        "name": "nft_gold_c15_arc_icerug name",
+        "name": "Solid Gold Rug",
         "description": "nft_gold_c15_arc_icerug desc"
       },
       {
         "code": "nft_gothic15_toilet",
-        "name": "nft_gothic15_toilet name",
+        "name": "Gothic Toilet",
         "description": "nft_gothic15_toilet desc"
       },
       {
         "code": "nft_greek_r19_chariot",
-        "name": "nft_greek_r19_chariot name",
+        "name": "Ancient Greek Chariot",
         "description": "nft_greek_r19_chariot desc"
       },
       {
         "code": "nft_greek_r19_luxbed",
-        "name": "nft_greek_r19_luxbed name",
+        "name": "Senator's Bed",
         "description": "nft_greek_r19_luxbed desc"
       },
       {
         "code": "nft_greek_r19_tiledbath",
-        "name": "nft_greek_r19_tiledbath name",
+        "name": "Luxury Tiled Bath",
         "description": "nft_greek_r19_tiledbath desc"
       },
       {
@@ -78467,6 +78492,11 @@
         "description": "nft_h24_moai desc"
       },
       {
+        "code": "nft_h24_newyeareasel",
+        "name": "2025 New Year Easel",
+        "description": ""
+      },
+      {
         "code": "nft_h24_podsofa1",
         "name": "Red Pod Sofa",
         "description": "nft_h24_podsofa1 desc"
@@ -78573,7 +78603,7 @@
       },
       {
         "code": "nft_habbo15_dragonlamp",
-        "name": "habbo15_dragonlamp name",
+        "name": "$product_rare_dragonlamp*10_name$",
         "description": "habbo15_dragonlamp desc"
       },
       {
@@ -78583,7 +78613,7 @@
       },
       {
         "code": "nft_habbo15_fountain_5",
-        "name": "habbo15_fountain_5 name",
+        "name": "$product_rare_fountain*5_name$",
         "description": "habbo15_fountain_5 desc"
       },
       {
@@ -78598,27 +78628,27 @@
       },
       {
         "code": "nft_habbo15_marquee",
-        "name": "nft_habbo15_marquee name",
+        "name": "$product_marquee*11_name$",
         "description": "nft_habbo15_marquee desc"
       },
       {
         "code": "nft_habbo15_parasol",
-        "name": "habbo15_parasol name",
+        "name": "$product_rare_parasol*4_name$",
         "description": "habbo15_parasol desc"
       },
       {
         "code": "nft_habbo15_pillar",
-        "name": "nft_habbo15_pillar name",
+        "name": "$product_pillar*10_name$",
         "description": "nft_habbo15_pillar desc"
       },
       {
         "code": "nft_habbo15_pillow",
-        "name": "nft_habbo15_pillow name",
+        "name": "$product_pillow*10_name$",
         "description": "nft_habbo15_pillow desc"
       },
       {
         "code": "nft_habbo15_scifidoor",
-        "name": "nft_habbo15_scifidoor name",
+        "name": "$product_scifidoor*11_name$",
         "description": "nft_habbo15_scifidoor desc"
       },
       {
@@ -78628,7 +78658,7 @@
       },
       {
         "code": "nft_habbo15_scifirocket",
-        "name": "nft_habbo15_scifirocket name",
+        "name": "$product_scifirocket*10_name$",
         "description": "nft_habbo15_scifirocket desc"
       },
       {
@@ -78643,12 +78673,12 @@
       },
       {
         "code": "nft_hal_cauldron",
-        "name": "Halloween cauldron",
+        "name": "Green Cauldron",
         "description": ""
       },
       {
         "code": "nft_hblooza_hotdog",
-        "name": "nft_hblooza_hotdog name",
+        "name": "Hot Dog Vendor",
         "description": "nft_hblooza_hotdog desc"
       },
       {
@@ -78673,52 +78703,52 @@
       },
       {
         "code": "nft_hween12_duck",
-        "name": "nft_hween12_duck name",
+        "name": "Duck Ride",
         "description": "nft_hween12_duck desc"
       },
       {
         "code": "nft_hween13_rose",
-        "name": "nft_hween13_rose name",
+        "name": "Wilting Rose",
         "description": "nft_hween13_rose desc"
       },
       {
         "code": "nft_hween14_rare1",
-        "name": "nft_hween14_rare1 name",
+        "name": "Skull Fountain",
         "description": "nft_hween14_rare1 desc"
       },
       {
         "code": "nft_hween_r18_antiquechemset",
-        "name": "nft_hween_r18_antiquechemset name",
+        "name": "Antique Chemistry Set",
         "description": "nft_hween_r18_antiquechemset desc"
       },
       {
         "code": "nft_jungle_r16_basket",
-        "name": "nft_jungle_r16_basket name",
+        "name": "Jungle Pulley",
         "description": "nft_jungle_r16_basket desc"
       },
       {
         "code": "nft_jungle_r16_pitcherplant",
-        "name": "nft_jungle_r16_pitcherplant name",
+        "name": "Pitcher Plant",
         "description": "nft_jungle_r16_pitcherplant desc"
       },
       {
         "code": "nft_ktchn15_coffeemaker",
-        "name": "nft_ktchn15_coffeemaker name",
+        "name": "Coffee Machine",
         "description": "nft_ktchn15_coffeemaker desc"
       },
       {
         "code": "nft_ktchn15_fridge",
-        "name": "nft_ktchn15_fridge name",
+        "name": "Deluxe Refrigerator",
         "description": "nft_ktchn15_fridge desc"
       },
       {
         "code": "nft_lostc_merdragon",
-        "name": "nft_lostc_merdragon name",
+        "name": "The Leviathan",
         "description": "nft_lostc_merdragon desc"
       },
       {
         "code": "nft_matic_dispenser",
-        "name": "nft_matic_dispenser name",
+        "name": "Black Hole",
         "description": "nft_matic_dispenser desc"
       },
       {
@@ -78798,72 +78828,72 @@
       },
       {
         "code": "nft_qt_sum11_dragon",
-        "name": "nft_qt_sum11_dragon name",
+        "name": "Rare Sand Dragon",
         "description": "nft_qt_sum11_dragon desc"
       },
       {
         "code": "nft_qt_val11_holoduck",
-        "name": "nft_qt_val11_holoduck name",
+        "name": "Holo-Duck",
         "description": "nft_qt_val11_holoduck desc"
       },
       {
         "code": "nft_rare_blackrosegold_elephant_statue",
-        "name": "nft_rare_blackrosegold_elephant_statue name",
+        "name": "Rose Gold Elephant",
         "description": "nft_rare_blackrosegold_elephant_statue desc"
       },
       {
         "code": "nft_rare_blackrosegold_icecream",
-        "name": "nft_rare_blackrosegold_icecream name",
+        "name": "Rose Gold Ice Cream Maker",
         "description": "nft_rare_blackrosegold_icecream desc"
       },
       {
         "code": "nft_rare_blackrosegold_marquee",
-        "name": "nft_rare_blackrosegold_marquee name",
+        "name": "Rose Gold Marquee",
         "description": "nft_rare_blackrosegold_marquee desc"
       },
       {
         "code": "nft_rare_blackrosegold_parasol",
-        "name": "nft_rare_blackrosegold_parasol name",
+        "name": "Rose Gold Parasol",
         "description": "nft_rare_blackrosegold_parasol desc"
       },
       {
         "code": "nft_rare_blackrosegold_pillar",
-        "name": "nft_rare_blackrosegold_pillar name",
+        "name": "Doric Rose Gold Pillar",
         "description": "nft_rare_blackrosegold_pillar desc"
       },
       {
         "code": "nft_rare_blackrosegold_pillow",
-        "name": "nft_rare_blackrosegold_pillow name",
+        "name": "Rose Gold Pillow",
         "description": "nft_rare_blackrosegold_pillow desc"
       },
       {
         "code": "nft_rare_blackrosegold_scifidoor",
-        "name": "nft_rare_blackrosegold_scifidoor name",
+        "name": "Rose Gold Spaceship Door",
         "description": "nft_rare_blackrosegold_scifidoor desc"
       },
       {
         "code": "nft_rare_blackrosegold_wooden_screen",
-        "name": "nft_rare_blackrosegold_wooden_screen name",
+        "name": "Rose Gold Oriental Screen",
         "description": "nft_rare_blackrosegold_wooden_screen desc"
       },
       {
         "code": "nft_rare_colourable_dragonlamp_1",
-        "name": "nft_rare_colourable_dragonlamp_1 name",
+        "name": "$product_rare_colourable_dragonlamp*1_name$",
         "description": "nft_rare_colourable_dragonlamp_1 desc"
       },
       {
         "code": "nft_rare_colourable_elephant_statue_1",
-        "name": "nft_rare_colourable_elephant_statue_1 name",
+        "name": "$product_rare_colourable_elephant_statue*1_name$",
         "description": "nft_rare_colourable_elephant_statue_1 desc"
       },
       {
         "code": "nft_rare_colourable_elephant_statue_4",
-        "name": "nft_rare_colourable_elephant_statue_4 name",
+        "name": "Rare Black Elephant Statue",
         "description": "nft_rare_colourable_elephant_statue_4 desc"
       },
       {
         "code": "nft_rare_colourable_fan_1",
-        "name": "nft_rare_colourable_fan_1 name",
+        "name": "$product_rare_colourable_fan*1_name$",
         "description": "nft_rare_colourable_fan_1 desc"
       },
       {
@@ -78888,17 +78918,17 @@
       },
       {
         "code": "nft_rare_colourable_fountain_2",
-        "name": "nft_rare_colourable_fountain_2 name",
+        "name": "Emerald Fountain",
         "description": "nft_rare_colourable_fountain_2 desc"
       },
       {
         "code": "nft_rare_colourable_fountain_3",
-        "name": "nft_rare_colourable_fountain_3 name",
+        "name": "Teal Fountain",
         "description": "nft_rare_colourable_fountain_3 desc"
       },
       {
         "code": "nft_rare_colourable_icecream_1",
-        "name": "nft_rare_colourable_icecream_1 name",
+        "name": "$product_rare_colourable_icecream*1_name$",
         "description": "nft_rare_colourable_icecream_1 desc"
       },
       {
@@ -78923,7 +78953,7 @@
       },
       {
         "code": "nft_rare_colourable_icecream_6",
-        "name": "nft_rare_colourable_icecream_6 name",
+        "name": "$product_rare_colourable_icecream*6_name$",
         "description": "nft_rare_colourable_icecream_6 desc"
       },
       {
@@ -78938,82 +78968,82 @@
       },
       {
         "code": "nft_rare_colourable_marquee_3",
-        "name": "nft_rare_colourable_marquee_3 name",
+        "name": "Teal Marquee",
         "description": "nft_rare_colourable_marquee_3 desc"
       },
       {
         "code": "nft_rare_colourable_parasol_1",
-        "name": "nft_rare_colourable_parasol_1 name",
+        "name": "$product_rare_colourable_parasol*1_name$",
         "description": "nft_rare_colourable_parasol_1 desc"
       },
       {
         "code": "nft_rare_colourable_parasol_2",
-        "name": "nft_rare_colourable_parasol_2 name",
+        "name": "Emerald Parasol",
         "description": "nft_rare_colourable_parasol_2 desc"
       },
       {
         "code": "nft_rare_colourable_parasol_3",
-        "name": "nft_rare_colourable_parasol_3 name",
+        "name": "Teal Parasol",
         "description": "nft_rare_colourable_parasol_3 desc"
       },
       {
         "code": "nft_rare_colourable_parasol_4",
-        "name": "nft_rare_colourable_parasol_4 name",
+        "name": "$product_rare_colourable_parasol*4_name$",
         "description": "nft_rare_colourable_parasol_4 desc"
       },
       {
         "code": "nft_rare_colourable_parasol_5",
-        "name": "nft_rare_colourable_parasol_5 name",
+        "name": "$product_rare_colourable_parasol*5_name$",
         "description": "nft_rare_colourable_parasol_5 desc"
       },
       {
         "code": "nft_rare_colourable_parasol_6",
-        "name": "nft_rare_colourable_parasol_6 name",
+        "name": "Rare Black Parasol",
         "description": "nft_rare_colourable_parasol_6 desc"
       },
       {
         "code": "nft_rare_colourable_pillar_1",
-        "name": "nft_rare_colourable_pillar_1 name",
+        "name": "$product_rare_colourable_pillar*1_name$",
         "description": "nft_rare_colourable_pillar_1 desc"
       },
       {
         "code": "nft_rare_colourable_pillar_2",
-        "name": "nft_rare_colourable_pillar_2 name",
+        "name": "Doric Emerald Pillar",
         "description": "nft_rare_colourable_pillar_2 desc"
       },
       {
         "code": "nft_rare_colourable_pillar_3",
-        "name": "nft_rare_colourable_pillar_3 name",
+        "name": "Doric Teal Pillar",
         "description": "nft_rare_colourable_pillar_3 desc"
       },
       {
         "code": "nft_rare_colourable_pillow_1",
-        "name": "nft_rare_colourable_pillow_1 name",
+        "name": "$product_rare_colourable_pillow*1_name$",
         "description": "nft_rare_colourable_pillow_1 desc"
       },
       {
         "code": "nft_rare_colourable_pillow_2",
-        "name": "nft_rare_colourable_pillow_2 name",
+        "name": "Emerald Giant Pillow",
         "description": "nft_rare_colourable_pillow_2 desc"
       },
       {
         "code": "nft_rare_colourable_pillow_3",
-        "name": "nft_rare_colourable_pillow_3 name",
+        "name": "Teal Pillow",
         "description": "nft_rare_colourable_pillow_3 desc"
       },
       {
         "code": "nft_rare_colourable_scifidoor_1",
-        "name": "nft_rare_colourable_scifidoor_1 name",
+        "name": "$product_rare_colourable_scifidoor*1_name$",
         "description": "nft_rare_colourable_scifidoor_1 desc"
       },
       {
         "code": "nft_rare_colourable_scifidoor_2",
-        "name": "nft_rare_colourable_scifidoor_2 name",
+        "name": "Emerald Spaceship Door",
         "description": "nft_rare_colourable_scifidoor_2 desc"
       },
       {
         "code": "nft_rare_colourable_scifidoor_3",
-        "name": "nft_rare_colourable_scifidoor_3 name",
+        "name": "Teal Spaceship Door",
         "description": "nft_rare_colourable_scifidoor_3 desc"
       },
       {
@@ -79023,7 +79053,7 @@
       },
       {
         "code": "nft_rare_colourable_scifiport_2",
-        "name": "nft_rare_colourable_scifiport_2 name",
+        "name": "Emerald Laser Portal",
         "description": "nft_rare_colourable_scifiport_2 desc"
       },
       {
@@ -79033,22 +79063,22 @@
       },
       {
         "code": "nft_rare_colourable_scifirocket_1",
-        "name": "nft_rare_colourable_scifirocket_1 name",
+        "name": "$product_rare_colourable_scifirocket*1_name$",
         "description": "nft_rare_colourable_scifirocket_1 desc"
       },
       {
         "code": "nft_rare_colourable_scifirocket_2",
-        "name": "nft_rare_colourable_scifirocket_2 name",
+        "name": "Emerald Smoke Machine",
         "description": "nft_rare_colourable_scifirocket_2 desc"
       },
       {
         "code": "nft_rare_colourable_scifirocket_3",
-        "name": "nft_rare_colourable_scifirocket_3 name",
+        "name": "Teal Smoke Machine",
         "description": "nft_rare_colourable_scifirocket_3 desc"
       },
       {
         "code": "nft_rare_colourable_scifirocket_4",
-        "name": "nft_rare_colourable_scifirocket_4 name",
+        "name": "$product_rare_colourable_scifirocket*4_name$",
         "description": "nft_rare_colourable_scifirocket_4 desc"
       },
       {
@@ -79058,17 +79088,17 @@
       },
       {
         "code": "nft_rare_colourable_sleepingbag_3",
-        "name": "nft_rare_colourable_sleepingbag_3 name",
+        "name": "Teal Sleeping Bag",
         "description": "nft_rare_colourable_sleepingbag_3 desc"
       },
       {
         "code": "nft_rare_colourable_wooden_screen_1",
-        "name": "nft_rare_colourable_wooden_screen_1 name",
+        "name": "$product_rare_colourable_wooden_screen*1_name$",
         "description": "nft_rare_colourable_wooden_screen_1 desc"
       },
       {
         "code": "nft_rare_colourable_wooden_screen_2",
-        "name": "nft_rare_colourable_wooden_screen_2 name",
+        "name": "Emerald Oriental Screen",
         "description": "nft_rare_colourable_wooden_screen_2 desc"
       },
       {
@@ -79078,22 +79108,22 @@
       },
       {
         "code": "nft_rare_mmmth",
-        "name": "nft_rare_mmmth name",
+        "name": "Mammoth Sofa",
         "description": "nft_rare_mmmth desc"
       },
       {
         "code": "nft_rare_sage",
-        "name": "nft_rare_sage name",
+        "name": "Decision Maker Machine",
         "description": "nft_rare_sage desc"
       },
       {
         "code": "nft_rare_vdoll",
-        "name": "nft_rare_vdoll name",
+        "name": "Rare Voodoo Doll",
         "description": "nft_rare_vdoll desc"
       },
       {
         "code": "nft_runway_oldecamera",
-        "name": "nft_runway_oldecamera name",
+        "name": "Antique Camera",
         "description": "nft_runway_oldecamera desc"
       },
       {
@@ -79178,37 +79208,37 @@
       },
       {
         "code": "nft_sf_pod",
-        "name": "nft_sf_pod",
+        "name": "Cryogenic Bed",
         "description": ""
       },
       {
         "code": "nft_st_wildwest_buffalo",
-        "name": "nft_st_wildwest_buffalo name",
+        "name": "Buffalo Statue",
         "description": "nft_st_wildwest_buffalo desc"
       },
       {
         "code": "nft_table_plasto2_4leg",
-        "name": "nft_table_plasto2_4leg name",
+        "name": "Black four-leg table",
         "description": "nft_table_plasto2_4leg desc"
       },
       {
         "code": "nft_table_plasto2_bigsq",
-        "name": "nft_table_plasto2_bigsq name",
+        "name": "Black square dining table",
         "description": "nft_table_plasto2_bigsq desc"
       },
       {
         "code": "nft_table_plasto2_round",
-        "name": "nft_table_plasto2_round name",
+        "name": "Black round dining table",
         "description": "nft_table_plasto2_round desc"
       },
       {
         "code": "nft_table_plasto2_sq",
-        "name": "nft_table_plasto2_sq name",
+        "name": "Black Occasional Table",
         "description": "nft_table_plasto2_sq desc"
       },
       {
         "code": "nft_tokyo_r18_koikite",
-        "name": "nft_tokyo_r18_koikite name",
+        "name": "Koi Carp Kites",
         "description": "nft_tokyo_r18_koikite desc"
       },
       {
@@ -79308,27 +79338,27 @@
       },
       {
         "code": "nft_val15_hottub",
-        "name": "nft_val15_hottub name",
+        "name": "Wooden Ofuro Tub",
         "description": "nft_val15_hottub desc"
       },
       {
         "code": "nft_wildwest_gallows",
-        "name": "nft_wildwest_gallows name",
+        "name": "Ghostly Gallows",
         "description": "nft_wildwest_gallows desc"
       },
       {
         "code": "nft_wildwest_till",
-        "name": "nft_wildwest_till name",
+        "name": "Old Fashioned Till",
         "description": "nft_wildwest_till desc"
       },
       {
         "code": "nft_xmas_r23_cakethrone2",
-        "name": "nft_xmas_r23_cakethrone2 name",
+        "name": "White Throne",
         "description": "nft_xmas_r23_cakethrone2 desc"
       },
       {
         "code": "nft_zengarden_r18_fountain",
-        "name": "nft_zengarden_r18_fountain name",
+        "name": "Zen Garden Fountain",
         "description": "nft_zengarden_r18_fountain desc"
       },
       {
