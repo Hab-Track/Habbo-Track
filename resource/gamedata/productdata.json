@@ -35307,6 +35307,16 @@
         "description": "clothing_nftbabychickbackpack desc"
       },
       {
+        "code": "clothing_nftbabyrudolf",
+        "name": "Mini Reindeer",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftbabysnowman",
+        "name": "Mini Snowman",
+        "description": ""
+      },
+      {
         "code": "clothing_nftballooncrown1",
         "name": "2nd Anniversary Yellow Balloon Crown",
         "description": "clothing_nftballooncrown1 desc"
@@ -35315,6 +35325,16 @@
         "code": "clothing_nftballooncrown2",
         "name": "2nd Anniversary Blue Balloon Crown",
         "description": "clothing_nftballooncrown2 desc"
+      },
+      {
+        "code": "clothing_nftbaubles1",
+        "name": "Golden Bauble Belt",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftbaubles2",
+        "name": "Silver Bauble Belt",
+        "description": ""
       },
       {
         "code": "clothing_nftbdayribbon",
@@ -35647,6 +35667,16 @@
         "description": "clothing_nftframeless2 desc"
       },
       {
+        "code": "clothing_nftfreckles2",
+        "name": "Freckled Face B",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftfreckles",
+        "name": "Freckled Face A",
+        "description": ""
+      },
+      {
         "code": "clothing_nftfroghoodie",
         "name": "Frog Hoodie",
         "description": "clothing_nftfroghoodie desc"
@@ -35845,6 +35875,11 @@
         "code": "clothing_nftmechapack",
         "name": "Forge Rocketpack",
         "description": "clothing_nftmechapack desc"
+      },
+      {
+        "code": "clothing_nftmessycut",
+        "name": "Wild Tufts",
+        "description": ""
       },
       {
         "code": "clothing_nftminibonnie",
@@ -36062,6 +36097,11 @@
         "description": "clothing_nftrastasanta desc"
       },
       {
+        "code": "clothing_nftrastasantajacket",
+        "name": "Rasta Santa’s Jacket",
+        "description": ""
+      },
+      {
         "code": "clothing_nftreindeer",
         "name": "Reindeer Dungarees",
         "description": "clothing_nftreindeer desc"
@@ -36115,6 +36155,11 @@
         "code": "clothing_nftroundshades4",
         "name": "Yellow Sunshades",
         "description": "clothing_nftroundshades4 desc"
+      },
+      {
+        "code": "clothing_nftsack",
+        "name": "Rasta Santa’s Sack",
+        "description": ""
       },
       {
         "code": "clothing_nftsbboosters",
@@ -36505,6 +36550,11 @@
         "code": "clothing_nftxmasshoes",
         "name": "Scarlet Xmas Shoes",
         "description": "clothing_nftxmasshoes desc"
+      },
+      {
+        "code": "clothing_nftxmassocks",
+        "name": "Holly Thigh Highs",
+        "description": ""
       },
       {
         "code": "clothing_nftyellowrainboots",
@@ -76363,7 +76413,7 @@
       },
       {
         "code": "nft_emerald_xmastree_2000",
-        "name": "nft_emerald_xmastree_2000 name",
+        "name": "Emerald Xmas Tree (2k Emeralds)",
         "description": "nft_emerald_xmastree_2000 desc"
       },
       {
@@ -78512,6 +78562,26 @@
         "description": ""
       },
       {
+        "code": "nft_h24_newyearpencil1",
+        "name": "Green 2024 Pencil",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_newyearpencil2",
+        "name": "Blue 2024 Pencil",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_newyearpencil3",
+        "name": "Red 2024 Pencil",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_newyearpencil4",
+        "name": "Yellow 2024 Pencil",
+        "description": ""
+      },
+      {
         "code": "nft_h24_podsofa1",
         "name": "Red Pod Sofa",
         "description": "nft_h24_podsofa1 desc"
@@ -78610,6 +78680,101 @@
         "code": "nft_h24_thunderfruit",
         "name": "Thunder Fruit",
         "description": "nft_h24_thunderfruit desc"
+      },
+      {
+        "code": "nft_h24_xmas_babyfrosty",
+        "name": "Baby Frosty",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_crock",
+        "name": "Oversized Crocodile Chair",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_haf_rastasanta",
+        "name": "Rasta Santa Action Figure",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_letters",
+        "name": "2024 Xmas Letters",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_numbers",
+        "name": "2024 Xmas Numbers",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_pillar",
+        "name": "Xmas Pillar",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_pillow",
+        "name": "Xmas Pillow",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_polar",
+        "name": "Oversized Polar Bear Chair",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_present1",
+        "name": "Basic 2024 Xmas Gift Box",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_present2",
+        "name": "Premium 2024 Xmas Gift Box",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_robotikelephant",
+        "name": "Robotik Elephant Statue",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_snow",
+        "name": "Life Sized Snow Globe",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_snowbomb",
+        "name": "Snow Bomb",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_snowcat",
+        "name": "Snowy Cat",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_snowcroc",
+        "name": "Snowy Crocodile",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_snowdog",
+        "name": "Snowy Dog",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_snowduck",
+        "name": "Snowy Duck",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_snowfrank",
+        "name": "Snowy Frank",
+        "description": ""
+      },
+      {
+        "code": "nft_h24_xmas_snowhotel",
+        "name": "Ice Cold Hotel",
+        "description": ""
       },
       {
         "code": "nft_habbo15_beehive",
