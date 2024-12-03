@@ -32426,7 +32426,7 @@
   ],
   [
     "clothing_bigbushybeard",
-    "clothing_bigbushybeard name",
+    "Bushy Beard",
     "clothing_bigbushybeard desc"
   ],
   [
@@ -32941,7 +32941,7 @@
   ],
   [
     "clothing_chainedearrings",
-    "clothing_chainedearrings name",
+    "Chained Earrings",
     "clothing_chainedearrings desc"
   ],
   [
@@ -33036,7 +33036,7 @@
   ],
   [
     "clothing_clippedupdo",
-    "clothing_clippedupdo name",
+    "Hair Claw",
     "clothing_clippedupdo desc"
   ],
   [
@@ -33831,7 +33831,7 @@
   ],
   [
     "clothing_flippedxmashat",
-    "clothing_flippedxmashat name",
+    "Oversized Santa Hat",
     "clothing_flippedxmashat desc"
   ],
   [
@@ -33941,7 +33941,7 @@
   ],
   [
     "clothing_frozenelfears",
-    "clothing_frozenelfears name",
+    "Icy Elf Ears",
     "clothing_frozenelfears desc"
   ],
   [
@@ -34706,7 +34706,7 @@
   ],
   [
     "clothing_leathernecklace",
-    "clothing_leathernecklace name",
+    "Leather Necklace",
     "clothing_leathernecklace desc"
   ],
   [
@@ -34736,7 +34736,7 @@
   ],
   [
     "clothing_littlesnowman",
-    "clothing_littlesnowman name",
+    "Snowfolk Headband",
     "clothing_littlesnowman desc"
   ],
   [
@@ -34756,7 +34756,7 @@
   ],
   [
     "clothing_longwinterdress",
-    "clothing_longwinterdress name",
+    "Cozy Winter Dress",
     "clothing_longwinterdress desc"
   ],
   [
@@ -35691,12 +35691,12 @@
   ],
   [
     "clothing_nftfrozenface",
-    "clothing_nftfrozenface name",
+    "Frozen Face",
     "clothing_nftfrozenface desc"
   ],
   [
     "clothing_nftfrozenscarf",
-    "clothing_nftfrozenscarf name",
+    "Frozen Scarf",
     "clothing_nftfrozenscarf desc"
   ],
   [
@@ -36976,7 +36976,7 @@
   ],
   [
     "clothing_offshouldercardigan",
-    "clothing_offshouldercardigan name",
+    "Winter Cardigan",
     "clothing_offshouldercardigan desc"
   ],
   [
@@ -39480,6 +39480,11 @@
     "clothing_r24_koalaharness desc"
   ],
   [
+    "clothing_r24_longwaves_bd",
+    "Morning Waves",
+    ""
+  ],
+  [
     "clothing_r24_longwaveshair",
     "clothing_r24_longwaveshair name",
     "clothing_r24_longwaveshair desc"
@@ -39681,7 +39686,7 @@
   ],
   [
     "clothing_reindeerears",
-    "clothing_reindeerears name",
+    "Reindeer Ears",
     "clothing_reindeerears desc"
   ],
   [
@@ -40336,7 +40341,7 @@
   ],
   [
     "clothing_tousledwave",
-    "clothing_tousledwave name",
+    "Touseled Hair",
     "clothing_tousledwave desc"
   ],
   [
@@ -40561,7 +40566,7 @@
   ],
   [
     "clothing_verticalnecklace",
-    "clothing_verticalnecklace name",
+    "Bar Drop Necklace",
     "clothing_verticalnecklace desc"
   ],
   [
@@ -115373,6 +115378,31 @@
     "xmas_ltd23_carousel",
     "Artisanal Chocolate Carousel",
     "xmas_ltd23_carousel desc"
+  ],
+  [
+    "xmas_quest1",
+    "Xmas Quest Prize 1",
+    ""
+  ],
+  [
+    "xmas_quest2",
+    "Xmas Quest Prize 2",
+    ""
+  ],
+  [
+    "xmas_quest3",
+    "Xmas Quest Prize 3",
+    ""
+  ],
+  [
+    "xmas_quest5",
+    "Xmas Quest Prize 5",
+    ""
+  ],
+  [
+    "xmas_quest6",
+    "xmas_quest6",
+    ""
   ],
   [
     "xmas_r16_owl_bd",

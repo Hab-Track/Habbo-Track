@@ -32428,7 +32428,7 @@
       },
       {
         "code": "clothing_bigbushybeard",
-        "name": "clothing_bigbushybeard name",
+        "name": "Bushy Beard",
         "description": "clothing_bigbushybeard desc"
       },
       {
@@ -32943,7 +32943,7 @@
       },
       {
         "code": "clothing_chainedearrings",
-        "name": "clothing_chainedearrings name",
+        "name": "Chained Earrings",
         "description": "clothing_chainedearrings desc"
       },
       {
@@ -33038,7 +33038,7 @@
       },
       {
         "code": "clothing_clippedupdo",
-        "name": "clothing_clippedupdo name",
+        "name": "Hair Claw",
         "description": "clothing_clippedupdo desc"
       },
       {
@@ -33833,7 +33833,7 @@
       },
       {
         "code": "clothing_flippedxmashat",
-        "name": "clothing_flippedxmashat name",
+        "name": "Oversized Santa Hat",
         "description": "clothing_flippedxmashat desc"
       },
       {
@@ -33943,7 +33943,7 @@
       },
       {
         "code": "clothing_frozenelfears",
-        "name": "clothing_frozenelfears name",
+        "name": "Icy Elf Ears",
         "description": "clothing_frozenelfears desc"
       },
       {
@@ -34708,7 +34708,7 @@
       },
       {
         "code": "clothing_leathernecklace",
-        "name": "clothing_leathernecklace name",
+        "name": "Leather Necklace",
         "description": "clothing_leathernecklace desc"
       },
       {
@@ -34738,7 +34738,7 @@
       },
       {
         "code": "clothing_littlesnowman",
-        "name": "clothing_littlesnowman name",
+        "name": "Snowfolk Headband",
         "description": "clothing_littlesnowman desc"
       },
       {
@@ -34758,7 +34758,7 @@
       },
       {
         "code": "clothing_longwinterdress",
-        "name": "clothing_longwinterdress name",
+        "name": "Cozy Winter Dress",
         "description": "clothing_longwinterdress desc"
       },
       {
@@ -35693,12 +35693,12 @@
       },
       {
         "code": "clothing_nftfrozenface",
-        "name": "clothing_nftfrozenface name",
+        "name": "Frozen Face",
         "description": "clothing_nftfrozenface desc"
       },
       {
         "code": "clothing_nftfrozenscarf",
-        "name": "clothing_nftfrozenscarf name",
+        "name": "Frozen Scarf",
         "description": "clothing_nftfrozenscarf desc"
       },
       {
@@ -36978,7 +36978,7 @@
       },
       {
         "code": "clothing_offshouldercardigan",
-        "name": "clothing_offshouldercardigan name",
+        "name": "Winter Cardigan",
         "description": "clothing_offshouldercardigan desc"
       },
       {
@@ -39482,6 +39482,11 @@
         "description": "clothing_r24_koalaharness desc"
       },
       {
+        "code": "clothing_r24_longwaves_bd",
+        "name": "Morning Waves",
+        "description": ""
+      },
+      {
         "code": "clothing_r24_longwaveshair",
         "name": "clothing_r24_longwaveshair name",
         "description": "clothing_r24_longwaveshair desc"
@@ -39683,7 +39688,7 @@
       },
       {
         "code": "clothing_reindeerears",
-        "name": "clothing_reindeerears name",
+        "name": "Reindeer Ears",
         "description": "clothing_reindeerears desc"
       },
       {
@@ -40338,7 +40343,7 @@
       },
       {
         "code": "clothing_tousledwave",
-        "name": "clothing_tousledwave name",
+        "name": "Touseled Hair",
         "description": "clothing_tousledwave desc"
       },
       {
@@ -40563,7 +40568,7 @@
       },
       {
         "code": "clothing_verticalnecklace",
-        "name": "clothing_verticalnecklace name",
+        "name": "Bar Drop Necklace",
         "description": "clothing_verticalnecklace desc"
       },
       {
@@ -115375,6 +115380,31 @@
         "code": "xmas_ltd23_carousel",
         "name": "Artisanal Chocolate Carousel",
         "description": "xmas_ltd23_carousel desc"
+      },
+      {
+        "code": "xmas_quest1",
+        "name": "Xmas Quest Prize 1",
+        "description": ""
+      },
+      {
+        "code": "xmas_quest2",
+        "name": "Xmas Quest Prize 2",
+        "description": ""
+      },
+      {
+        "code": "xmas_quest3",
+        "name": "Xmas Quest Prize 3",
+        "description": ""
+      },
+      {
+        "code": "xmas_quest5",
+        "name": "Xmas Quest Prize 5",
+        "description": ""
+      },
+      {
+        "code": "xmas_quest6",
+        "name": "xmas_quest6",
+        "description": ""
       },
       {
         "code": "xmas_r16_owl_bd",
