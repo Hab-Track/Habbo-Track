@@ -74942,6 +74942,11 @@
         "description": "Dear citizens..."
       },
       {
+        "code": "nft_A0_rarexmasscreen",
+        "name": "Lappland Greetings",
+        "description": "Ho Ho Ho!"
+      },
+      {
         "code": "nft_A1_A1P",
         "name": "Square Dining Table",
         "description": "Hip plastic furniture"
@@ -75035,6 +75040,11 @@
         "code": "nft_A1_PL1",
         "name": "$product_plant_cruddy_name$",
         "description": "Goodbye Bert..."
+      },
+      {
+        "code": "nft_Christmas_Reindeer_Rare",
+        "name": "Reindeer",
+        "description": "Stuffed animal on wheels"
       },
       {
         "code": "nft_DEV_exe_globe",
@@ -75280,6 +75290,11 @@
         "code": "nft_a0_sleepingbag",
         "name": "$product_sleepingbag*1_name$",
         "description": "Ultimate coziness"
+      },
+      {
+        "code": "nft_a0_snowrug",
+        "name": "Snow Rug",
+        "description": null
       },
       {
         "code": "nft_a0_spyro",
@@ -76312,9 +76327,19 @@
         "description": "nft_diamond_painting38 desc"
       },
       {
+        "code": "nft_diamond_painting65",
+        "name": "nft_diamond_painting65 name",
+        "description": "nft_diamond_painting65 desc"
+      },
+      {
         "code": "nft_diamond_painting67",
         "name": "$wallitem_diamond_painting67_name$",
         "description": "nft_diamond_painting67 desc"
+      },
+      {
+        "code": "nft_diamond_painting68",
+        "name": "nft_diamond_painting68 name",
+        "description": "nft_diamond_painting68 desc"
       },
       {
         "code": "nft_diamond_painting6",
@@ -76335,6 +76360,11 @@
         "code": "nft_diamond_r23_pillow",
         "name": "Diamond Pillow",
         "description": "nft_diamond_r23_pillow desc"
+      },
+      {
+        "code": "nft_diamond_throne",
+        "name": "nft_diamond_throne name",
+        "description": "nft_diamond_throne desc"
       },
       {
         "code": "nft_door_test",
@@ -76810,6 +76840,11 @@
         "code": "nft_gold_c15_arc_icerug",
         "name": "Solid Gold Rug",
         "description": "nft_gold_c15_arc_icerug desc"
+      },
+      {
+        "code": "nft_gold_c15_arc_statue",
+        "name": "nft_gold_c15_arc_statue name",
+        "description": "nft_gold_c15_arc_statue desc"
       },
       {
         "code": "nft_gothic15_toilet",
@@ -79017,6 +79052,36 @@
         "description": "nft_qt_val11_holoduck desc"
       },
       {
+        "code": "nft_qt_xm10_ice_fish",
+        "name": "nft_qt_xm10_ice_fish name",
+        "description": "nft_qt_xm10_ice_fish desc"
+      },
+      {
+        "code": "nft_qt_xm10_iceclubsofa",
+        "name": "nft_qt_xm10_iceclubsofa name",
+        "description": "nft_qt_xm10_iceclubsofa desc"
+      },
+      {
+        "code": "nft_qt_xm10_icedragon",
+        "name": "nft_qt_xm10_icedragon name",
+        "description": "nft_qt_xm10_icedragon desc"
+      },
+      {
+        "code": "nft_qt_xm10_iceelephant",
+        "name": "nft_qt_xm10_iceelephant name",
+        "description": "nft_qt_xm10_iceelephant desc"
+      },
+      {
+        "code": "nft_qt_xm10_icepillar",
+        "name": "nft_qt_xm10_icepillar name",
+        "description": "nft_qt_xm10_icepillar desc"
+      },
+      {
+        "code": "nft_qt_xm10_trex",
+        "name": "nft_qt_xm10_trex name",
+        "description": "nft_qt_xm10_trex desc"
+      },
+      {
         "code": "nft_rare_blackrosegold_elephant_statue",
         "name": "Rose Gold Elephant",
         "description": "nft_rare_blackrosegold_elephant_statue desc"
@@ -79292,6 +79357,11 @@
         "description": "nft_rare_mmmth desc"
       },
       {
+        "code": "nft_rare_royalchair",
+        "name": "nft_rare_royalchair name",
+        "description": "nft_rare_royalchair desc"
+      },
+      {
         "code": "nft_rare_sage",
         "name": "Decision Maker Machine",
         "description": "nft_rare_sage desc"
@@ -79300,6 +79370,11 @@
         "code": "nft_rare_vdoll",
         "name": "Rare Voodoo Doll",
         "description": "nft_rare_vdoll desc"
+      },
+      {
+        "code": "nft_rclr_sofa",
+        "name": "Polar Sofa",
+        "description": "Snuggle up together"
       },
       {
         "code": "nft_runway_oldecamera",
@@ -79530,6 +79605,36 @@
         "code": "nft_wildwest_till",
         "name": "Old Fashioned Till",
         "description": "nft_wildwest_till desc"
+      },
+      {
+        "code": "nft_xm09_cocoa",
+        "name": "nft_xm09_cocoa",
+        "description": "get some hot chocolade"
+      },
+      {
+        "code": "nft_xmas11_btlr",
+        "name": "nft_xmas11_btlr name",
+        "description": "nft_xmas11_btlr desc"
+      },
+      {
+        "code": "nft_xmas11_throne",
+        "name": "nft_xmas11_throne name",
+        "description": "nft_xmas11_throne desc"
+      },
+      {
+        "code": "nft_xmas12_nutcracker",
+        "name": "nft_xmas12_nutcracker name",
+        "description": "nft_xmas12_nutcracker desc"
+      },
+      {
+        "code": "nft_xmas14_sharkthrone",
+        "name": "nft_xmas14_sharkthrone name",
+        "description": "nft_xmas14_sharkthrone desc"
+      },
+      {
+        "code": "nft_xmas15_clocktower",
+        "name": "nft_xmas15_clocktower name",
+        "description": "nft_xmas15_clocktower desc"
       },
       {
         "code": "nft_xmas_r23_cakethrone2",
