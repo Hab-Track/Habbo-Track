@@ -35307,12 +35307,12 @@
   [
     "clothing_nftbabyrudolf",
     "Mini Reindeer",
-    ""
+    "clothing_nftbabyrudolf desc"
   ],
   [
     "clothing_nftbabysnowman",
     "Mini Snowman",
-    ""
+    "clothing_nftbabysnowman desc"
   ],
   [
     "clothing_nftballooncrown1",
@@ -35327,12 +35327,12 @@
   [
     "clothing_nftbaubles1",
     "Golden Bauble Belt",
-    ""
+    "clothing_nftbaubles1 desc"
   ],
   [
     "clothing_nftbaubles2",
     "Silver Bauble Belt",
-    ""
+    "clothing_nftbaubles2 desc"
   ],
   [
     "clothing_nftbdayribbon",
@@ -35667,12 +35667,12 @@
   [
     "clothing_nftfreckles2",
     "Freckled Face B",
-    ""
+    "clothing_nftfreckles2 desc"
   ],
   [
     "clothing_nftfreckles",
     "Freckled Face A",
-    ""
+    "clothing_nftfreckles desc"
   ],
   [
     "clothing_nftfroghoodie",
@@ -35877,7 +35877,7 @@
   [
     "clothing_nftmessycut",
     "Wild Tufts",
-    ""
+    "clothing_nftmessycut desc"
   ],
   [
     "clothing_nftminibonnie",
@@ -36097,7 +36097,7 @@
   [
     "clothing_nftrastasantajacket",
     "Rasta Santa’s Jacket",
-    ""
+    "clothing_nftrastasantajacket desc"
   ],
   [
     "clothing_nftreindeer",
@@ -36157,7 +36157,7 @@
   [
     "clothing_nftsack",
     "Rasta Santa’s Sack",
-    ""
+    "clothing_nftsack desc"
   ],
   [
     "clothing_nftsbboosters",
@@ -36552,7 +36552,7 @@
   [
     "clothing_nftxmassocks",
     "Holly Thigh Highs",
-    ""
+    "clothing_nftxmassocks desc"
   ],
   [
     "clothing_nftyellowrainboots",
@@ -39568,6 +39568,46 @@
     "clothing_r24_spider",
     "Back Spider",
     "clothing_r24_spider desc"
+  ],
+  [
+    "clothing_r24_starboppers1",
+    "clothing_r24_starboppers1 name",
+    "clothing_r24_starboppers1 desc"
+  ],
+  [
+    "clothing_r24_starboppers2",
+    "clothing_r24_starboppers2 name",
+    "clothing_r24_starboppers2 desc"
+  ],
+  [
+    "clothing_r24_starboppers3",
+    "clothing_r24_starboppers3 name",
+    "clothing_r24_starboppers3 desc"
+  ],
+  [
+    "clothing_r24_starboppers4",
+    "clothing_r24_starboppers4 name",
+    "clothing_r24_starboppers4 desc"
+  ],
+  [
+    "clothing_r24_starboppers5",
+    "clothing_r24_starboppers5 name",
+    "clothing_r24_starboppers5 desc"
+  ],
+  [
+    "clothing_r24_starboppers6",
+    "clothing_r24_starboppers6 name",
+    "clothing_r24_starboppers6 desc"
+  ],
+  [
+    "clothing_r24_starboppers7",
+    "clothing_r24_starboppers7 name",
+    "clothing_r24_starboppers7 desc"
+  ],
+  [
+    "clothing_r24_starboppers8",
+    "clothing_r24_starboppers8 name",
+    "clothing_r24_starboppers8 desc"
   ],
   [
     "clothing_r24_steampkha_bd",
@@ -62155,6 +62195,66 @@
     "hc24_9 desc"
   ],
   [
+    "hc25_10",
+    "hc25_10 name",
+    "hc25_10 desc"
+  ],
+  [
+    "hc25_11",
+    "hc25_11 name",
+    "hc25_11 desc"
+  ],
+  [
+    "hc25_12",
+    "hc25_12 name",
+    "hc25_12 desc"
+  ],
+  [
+    "hc25_1",
+    "hc25_1 name",
+    "hc25_1 desc"
+  ],
+  [
+    "hc25_2",
+    "hc25_2 name",
+    "hc25_2 desc"
+  ],
+  [
+    "hc25_3",
+    "hc25_3 name",
+    "hc25_3 desc"
+  ],
+  [
+    "hc25_4",
+    "hc25_4 name",
+    "hc25_4 desc"
+  ],
+  [
+    "hc25_5",
+    "hc25_5 name",
+    "hc25_5 desc"
+  ],
+  [
+    "hc25_6",
+    "hc25_6 name",
+    "hc25_6 desc"
+  ],
+  [
+    "hc25_7",
+    "hc25_7 name",
+    "hc25_7 desc"
+  ],
+  [
+    "hc25_8",
+    "hc25_8 name",
+    "hc25_8 desc"
+  ],
+  [
+    "hc25_9",
+    "hc25_9 name",
+    "hc25_9 desc"
+  ],
+  [
     "hc2_armchair",
     "Leather Armchair",
     "Relax in style"
@@ -75055,6 +75155,11 @@
     ""
   ],
   [
+    "nft_DEV_rclr_sofa",
+    "Polar Sofa",
+    "Snuggle up together"
+  ],
+  [
     "nft_a0_clubrug",
     "$product_hc_crpt_name$",
     "Club Rug"
@@ -78602,22 +78707,22 @@
   [
     "nft_h24_newyearpencil1",
     "Green 2024 Pencil",
-    ""
+    "nft_h24_newyearpencil1 desc"
   ],
   [
     "nft_h24_newyearpencil2",
     "Blue 2024 Pencil",
-    ""
+    "nft_h24_newyearpencil2 desc"
   ],
   [
     "nft_h24_newyearpencil3",
     "Red 2024 Pencil",
-    ""
+    "nft_h24_newyearpencil3 desc"
   ],
   [
     "nft_h24_newyearpencil4",
     "Yellow 2024 Pencil",
-    ""
+    "nft_h24_newyearpencil4 desc"
   ],
   [
     "nft_h24_podsofa1",
@@ -78722,97 +78827,97 @@
   [
     "nft_h24_xmas_babyfrosty",
     "Baby Frosty",
-    ""
+    "nft_h24_xmas_babyfrosty desc"
   ],
   [
     "nft_h24_xmas_crock",
     "Oversized Crocodile Chair",
-    ""
+    "nft_h24_xmas_crock desc"
   ],
   [
     "nft_h24_xmas_haf_rastasanta",
     "Rasta Santa Action Figure",
-    ""
+    "nft_h24_xmas_haf_rastasanta desc"
   ],
   [
     "nft_h24_xmas_letters",
     "2024 Xmas Letters",
-    ""
+    "nft_h24_xmas_letters desc"
   ],
   [
     "nft_h24_xmas_numbers",
     "2024 Xmas Numbers",
-    ""
+    "nft_h24_xmas_numbers desc"
   ],
   [
     "nft_h24_xmas_pillar",
     "Xmas Pillar",
-    ""
+    "nft_h24_xmas_pillar desc"
   ],
   [
     "nft_h24_xmas_pillow",
     "Xmas Pillow",
-    ""
+    "nft_h24_xmas_pillow desc"
   ],
   [
     "nft_h24_xmas_polar",
     "Oversized Polar Bear Chair",
-    ""
+    "nft_h24_xmas_polar desc"
   ],
   [
     "nft_h24_xmas_present1",
     "Basic 2024 Xmas Gift Box",
-    ""
+    "nft_h24_xmas_present1 desc"
   ],
   [
     "nft_h24_xmas_present2",
     "Premium 2024 Xmas Gift Box",
-    ""
+    "nft_h24_xmas_present2 desc"
   ],
   [
     "nft_h24_xmas_robotikelephant",
     "Robotik Elephant Statue",
-    ""
+    "nft_h24_xmas_robotikelephant desc"
   ],
   [
     "nft_h24_xmas_snow",
     "Life Sized Snow Globe",
-    ""
+    "nft_h24_xmas_snow desc"
   ],
   [
     "nft_h24_xmas_snowbomb",
     "Snow Bomb",
-    ""
+    "nft_h24_xmas_snowbomb desc"
   ],
   [
     "nft_h24_xmas_snowcat",
     "Snowy Cat",
-    ""
+    "nft_h24_xmas_snowcat desc"
   ],
   [
     "nft_h24_xmas_snowcroc",
     "Snowy Crocodile",
-    ""
+    "nft_h24_xmas_snowcroc desc"
   ],
   [
     "nft_h24_xmas_snowdog",
     "Snowy Dog",
-    ""
+    "nft_h24_xmas_snowdog desc"
   ],
   [
     "nft_h24_xmas_snowduck",
     "Snowy Duck",
-    ""
+    "nft_h24_xmas_snowduck desc"
   ],
   [
     "nft_h24_xmas_snowfrank",
     "Snowy Frank",
-    ""
+    "nft_h24_xmas_snowfrank desc"
   ],
   [
     "nft_h24_xmas_snowhotel",
     "Ice Cold Hotel",
-    ""
+    "nft_h24_xmas_snowhotel desc"
   ],
   [
     "nft_habbo15_beehive",
@@ -80488,6 +80593,11 @@
     "ny_r23_crackable",
     "2024 Tie Box",
     "ny_r23_crackable desc"
+  ],
+  [
+    "ny_r24_crackable",
+    "ny_r24_crackable name",
+    "ny_r24_crackable desc"
   ],
   [
     "nyc_c23_bag1",
@@ -88193,6 +88303,11 @@
     "rare_prize24_9",
     "Rhodochrosite Sea Otter",
     "rare_prize24_9 desc"
+  ],
+  [
+    "rare_prize24_xmas",
+    "rare_prize24_xmas name",
+    "rare_prize24_xmas desc"
   ],
   [
     "rare_r19_car1_bd",
@@ -115728,6 +115843,11 @@
     "year2024",
     "year2024 name",
     "year2024 desc"
+  ],
+  [
+    "year2025",
+    "year2025 name",
+    "year2025 desc"
   ],
   [
     "yellow diner_bardesk_corner",

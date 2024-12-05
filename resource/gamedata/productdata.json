@@ -35309,12 +35309,12 @@
       {
         "code": "clothing_nftbabyrudolf",
         "name": "Mini Reindeer",
-        "description": ""
+        "description": "clothing_nftbabyrudolf desc"
       },
       {
         "code": "clothing_nftbabysnowman",
         "name": "Mini Snowman",
-        "description": ""
+        "description": "clothing_nftbabysnowman desc"
       },
       {
         "code": "clothing_nftballooncrown1",
@@ -35329,12 +35329,12 @@
       {
         "code": "clothing_nftbaubles1",
         "name": "Golden Bauble Belt",
-        "description": ""
+        "description": "clothing_nftbaubles1 desc"
       },
       {
         "code": "clothing_nftbaubles2",
         "name": "Silver Bauble Belt",
-        "description": ""
+        "description": "clothing_nftbaubles2 desc"
       },
       {
         "code": "clothing_nftbdayribbon",
@@ -35669,12 +35669,12 @@
       {
         "code": "clothing_nftfreckles2",
         "name": "Freckled Face B",
-        "description": ""
+        "description": "clothing_nftfreckles2 desc"
       },
       {
         "code": "clothing_nftfreckles",
         "name": "Freckled Face A",
-        "description": ""
+        "description": "clothing_nftfreckles desc"
       },
       {
         "code": "clothing_nftfroghoodie",
@@ -35879,7 +35879,7 @@
       {
         "code": "clothing_nftmessycut",
         "name": "Wild Tufts",
-        "description": ""
+        "description": "clothing_nftmessycut desc"
       },
       {
         "code": "clothing_nftminibonnie",
@@ -36099,7 +36099,7 @@
       {
         "code": "clothing_nftrastasantajacket",
         "name": "Rasta Santa’s Jacket",
-        "description": ""
+        "description": "clothing_nftrastasantajacket desc"
       },
       {
         "code": "clothing_nftreindeer",
@@ -36159,7 +36159,7 @@
       {
         "code": "clothing_nftsack",
         "name": "Rasta Santa’s Sack",
-        "description": ""
+        "description": "clothing_nftsack desc"
       },
       {
         "code": "clothing_nftsbboosters",
@@ -36554,7 +36554,7 @@
       {
         "code": "clothing_nftxmassocks",
         "name": "Holly Thigh Highs",
-        "description": ""
+        "description": "clothing_nftxmassocks desc"
       },
       {
         "code": "clothing_nftyellowrainboots",
@@ -39570,6 +39570,46 @@
         "code": "clothing_r24_spider",
         "name": "Back Spider",
         "description": "clothing_r24_spider desc"
+      },
+      {
+        "code": "clothing_r24_starboppers1",
+        "name": "clothing_r24_starboppers1 name",
+        "description": "clothing_r24_starboppers1 desc"
+      },
+      {
+        "code": "clothing_r24_starboppers2",
+        "name": "clothing_r24_starboppers2 name",
+        "description": "clothing_r24_starboppers2 desc"
+      },
+      {
+        "code": "clothing_r24_starboppers3",
+        "name": "clothing_r24_starboppers3 name",
+        "description": "clothing_r24_starboppers3 desc"
+      },
+      {
+        "code": "clothing_r24_starboppers4",
+        "name": "clothing_r24_starboppers4 name",
+        "description": "clothing_r24_starboppers4 desc"
+      },
+      {
+        "code": "clothing_r24_starboppers5",
+        "name": "clothing_r24_starboppers5 name",
+        "description": "clothing_r24_starboppers5 desc"
+      },
+      {
+        "code": "clothing_r24_starboppers6",
+        "name": "clothing_r24_starboppers6 name",
+        "description": "clothing_r24_starboppers6 desc"
+      },
+      {
+        "code": "clothing_r24_starboppers7",
+        "name": "clothing_r24_starboppers7 name",
+        "description": "clothing_r24_starboppers7 desc"
+      },
+      {
+        "code": "clothing_r24_starboppers8",
+        "name": "clothing_r24_starboppers8 name",
+        "description": "clothing_r24_starboppers8 desc"
       },
       {
         "code": "clothing_r24_steampkha_bd",
@@ -62157,6 +62197,66 @@
         "description": "hc24_9 desc"
       },
       {
+        "code": "hc25_10",
+        "name": "hc25_10 name",
+        "description": "hc25_10 desc"
+      },
+      {
+        "code": "hc25_11",
+        "name": "hc25_11 name",
+        "description": "hc25_11 desc"
+      },
+      {
+        "code": "hc25_12",
+        "name": "hc25_12 name",
+        "description": "hc25_12 desc"
+      },
+      {
+        "code": "hc25_1",
+        "name": "hc25_1 name",
+        "description": "hc25_1 desc"
+      },
+      {
+        "code": "hc25_2",
+        "name": "hc25_2 name",
+        "description": "hc25_2 desc"
+      },
+      {
+        "code": "hc25_3",
+        "name": "hc25_3 name",
+        "description": "hc25_3 desc"
+      },
+      {
+        "code": "hc25_4",
+        "name": "hc25_4 name",
+        "description": "hc25_4 desc"
+      },
+      {
+        "code": "hc25_5",
+        "name": "hc25_5 name",
+        "description": "hc25_5 desc"
+      },
+      {
+        "code": "hc25_6",
+        "name": "hc25_6 name",
+        "description": "hc25_6 desc"
+      },
+      {
+        "code": "hc25_7",
+        "name": "hc25_7 name",
+        "description": "hc25_7 desc"
+      },
+      {
+        "code": "hc25_8",
+        "name": "hc25_8 name",
+        "description": "hc25_8 desc"
+      },
+      {
+        "code": "hc25_9",
+        "name": "hc25_9 name",
+        "description": "hc25_9 desc"
+      },
+      {
         "code": "hc2_armchair",
         "name": "Leather Armchair",
         "description": "Relax in style"
@@ -75057,6 +75157,11 @@
         "description": ""
       },
       {
+        "code": "nft_DEV_rclr_sofa",
+        "name": "Polar Sofa",
+        "description": "Snuggle up together"
+      },
+      {
         "code": "nft_a0_clubrug",
         "name": "$product_hc_crpt_name$",
         "description": "Club Rug"
@@ -78604,22 +78709,22 @@
       {
         "code": "nft_h24_newyearpencil1",
         "name": "Green 2024 Pencil",
-        "description": ""
+        "description": "nft_h24_newyearpencil1 desc"
       },
       {
         "code": "nft_h24_newyearpencil2",
         "name": "Blue 2024 Pencil",
-        "description": ""
+        "description": "nft_h24_newyearpencil2 desc"
       },
       {
         "code": "nft_h24_newyearpencil3",
         "name": "Red 2024 Pencil",
-        "description": ""
+        "description": "nft_h24_newyearpencil3 desc"
       },
       {
         "code": "nft_h24_newyearpencil4",
         "name": "Yellow 2024 Pencil",
-        "description": ""
+        "description": "nft_h24_newyearpencil4 desc"
       },
       {
         "code": "nft_h24_podsofa1",
@@ -78724,97 +78829,97 @@
       {
         "code": "nft_h24_xmas_babyfrosty",
         "name": "Baby Frosty",
-        "description": ""
+        "description": "nft_h24_xmas_babyfrosty desc"
       },
       {
         "code": "nft_h24_xmas_crock",
         "name": "Oversized Crocodile Chair",
-        "description": ""
+        "description": "nft_h24_xmas_crock desc"
       },
       {
         "code": "nft_h24_xmas_haf_rastasanta",
         "name": "Rasta Santa Action Figure",
-        "description": ""
+        "description": "nft_h24_xmas_haf_rastasanta desc"
       },
       {
         "code": "nft_h24_xmas_letters",
         "name": "2024 Xmas Letters",
-        "description": ""
+        "description": "nft_h24_xmas_letters desc"
       },
       {
         "code": "nft_h24_xmas_numbers",
         "name": "2024 Xmas Numbers",
-        "description": ""
+        "description": "nft_h24_xmas_numbers desc"
       },
       {
         "code": "nft_h24_xmas_pillar",
         "name": "Xmas Pillar",
-        "description": ""
+        "description": "nft_h24_xmas_pillar desc"
       },
       {
         "code": "nft_h24_xmas_pillow",
         "name": "Xmas Pillow",
-        "description": ""
+        "description": "nft_h24_xmas_pillow desc"
       },
       {
         "code": "nft_h24_xmas_polar",
         "name": "Oversized Polar Bear Chair",
-        "description": ""
+        "description": "nft_h24_xmas_polar desc"
       },
       {
         "code": "nft_h24_xmas_present1",
         "name": "Basic 2024 Xmas Gift Box",
-        "description": ""
+        "description": "nft_h24_xmas_present1 desc"
       },
       {
         "code": "nft_h24_xmas_present2",
         "name": "Premium 2024 Xmas Gift Box",
-        "description": ""
+        "description": "nft_h24_xmas_present2 desc"
       },
       {
         "code": "nft_h24_xmas_robotikelephant",
         "name": "Robotik Elephant Statue",
-        "description": ""
+        "description": "nft_h24_xmas_robotikelephant desc"
       },
       {
         "code": "nft_h24_xmas_snow",
         "name": "Life Sized Snow Globe",
-        "description": ""
+        "description": "nft_h24_xmas_snow desc"
       },
       {
         "code": "nft_h24_xmas_snowbomb",
         "name": "Snow Bomb",
-        "description": ""
+        "description": "nft_h24_xmas_snowbomb desc"
       },
       {
         "code": "nft_h24_xmas_snowcat",
         "name": "Snowy Cat",
-        "description": ""
+        "description": "nft_h24_xmas_snowcat desc"
       },
       {
         "code": "nft_h24_xmas_snowcroc",
         "name": "Snowy Crocodile",
-        "description": ""
+        "description": "nft_h24_xmas_snowcroc desc"
       },
       {
         "code": "nft_h24_xmas_snowdog",
         "name": "Snowy Dog",
-        "description": ""
+        "description": "nft_h24_xmas_snowdog desc"
       },
       {
         "code": "nft_h24_xmas_snowduck",
         "name": "Snowy Duck",
-        "description": ""
+        "description": "nft_h24_xmas_snowduck desc"
       },
       {
         "code": "nft_h24_xmas_snowfrank",
         "name": "Snowy Frank",
-        "description": ""
+        "description": "nft_h24_xmas_snowfrank desc"
       },
       {
         "code": "nft_h24_xmas_snowhotel",
         "name": "Ice Cold Hotel",
-        "description": ""
+        "description": "nft_h24_xmas_snowhotel desc"
       },
       {
         "code": "nft_habbo15_beehive",
@@ -80490,6 +80595,11 @@
         "code": "ny_r23_crackable",
         "name": "2024 Tie Box",
         "description": "ny_r23_crackable desc"
+      },
+      {
+        "code": "ny_r24_crackable",
+        "name": "ny_r24_crackable name",
+        "description": "ny_r24_crackable desc"
       },
       {
         "code": "nyc_c23_bag1",
@@ -88195,6 +88305,11 @@
         "code": "rare_prize24_9",
         "name": "Rhodochrosite Sea Otter",
         "description": "rare_prize24_9 desc"
+      },
+      {
+        "code": "rare_prize24_xmas",
+        "name": "rare_prize24_xmas name",
+        "description": "rare_prize24_xmas desc"
       },
       {
         "code": "rare_r19_car1_bd",
@@ -115730,6 +115845,11 @@
         "code": "year2024",
         "name": "year2024 name",
         "description": "year2024 desc"
+      },
+      {
+        "code": "year2025",
+        "name": "year2025 name",
+        "description": "year2025 desc"
       },
       {
         "code": "yellow diner_bardesk_corner",
