@@ -2877,6 +2877,11 @@
         "description": ""
       },
       {
+        "code": "CF_500_goldengoose",
+        "name": "CF_500_goldengoose name",
+        "description": "CF_500_goldengoose desc"
+      },
+      {
         "code": "CF_500_goodboy",
         "name": "Golden Good Boy",
         "description": "CF_500_goodboy desc"
@@ -2935,6 +2940,11 @@
         "code": "CF_750_golddragon",
         "name": "Gold Dragon",
         "description": "CF_750_golddragon desc"
+      },
+      {
+        "code": "CF_750_goldenegg",
+        "name": "CF_750_goldenegg name",
+        "description": "CF_750_goldenegg desc"
       },
       {
         "code": "CF_750_goldenpig",
@@ -30357,6 +30367,11 @@
         "description": "china_goldenrat desc"
       },
       {
+        "code": "china_goldensnake",
+        "name": "china_goldensnake name",
+        "description": "china_goldensnake desc"
+      },
+      {
         "code": "china_goldentiger",
         "name": "Golden Tiger Statue",
         "description": "china_goldentiger desc"
@@ -33072,6 +33087,11 @@
         "description": "clothing_cnyrabbit desc"
       },
       {
+        "code": "clothing_cnysnake",
+        "name": "clothing_cnysnake name",
+        "description": "clothing_cnysnake desc"
+      },
+      {
         "code": "clothing_cnytiger",
         "name": "Tiger Accessories",
         "description": "clothing_cnytiger desc"
@@ -33450,6 +33470,21 @@
         "code": "clothing_dianoblecrown",
         "name": "Diamond Noble Crown",
         "description": "clothing_dianoblecrown desc"
+      },
+      {
+        "code": "clothing_diaplume",
+        "name": "clothing_diaplume name",
+        "description": "clothing_diaplume desc"
+      },
+      {
+        "code": "clothing_diasparkleparty",
+        "name": "clothing_diasparkleparty name",
+        "description": "clothing_diasparkleparty desc"
+      },
+      {
+        "code": "clothing_diastar",
+        "name": "clothing_diastar name",
+        "description": "clothing_diastar desc"
       },
       {
         "code": "clothing_diaturban",
@@ -39650,6 +39685,16 @@
         "code": "clothing_r24_xmastreebackpack",
         "name": "clothing_r24_xmastreebackpack name",
         "description": "clothing_r24_xmastreebackpack desc"
+      },
+      {
+        "code": "clothing_r25_goosefriend",
+        "name": "clothing_r25_goosefriend name",
+        "description": "clothing_r25_goosefriend desc"
+      },
+      {
+        "code": "clothing_r25_poshwaistcoat",
+        "name": "clothing_r25_poshwaistcoat name",
+        "description": "clothing_r25_poshwaistcoat desc"
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -52145,6 +52190,16 @@
         "code": "diamond_c22_giftboxb",
         "name": "Diamond Gift Box 3.0",
         "description": ""
+      },
+      {
+        "code": "diamond_c25_giftbox4",
+        "name": "diamond_c25_giftbox4 name",
+        "description": "diamond_c25_giftbox4 desc"
+      },
+      {
+        "code": "diamond_c25_giftbox4b",
+        "name": "diamond_c25_giftbox4b name",
+        "description": "diamond_c25_giftbox4b desc"
       },
       {
         "code": "diamond_dragon",
@@ -78399,7 +78454,7 @@
       {
         "code": "nft_h24_cb_22materials",
         "name": "Xmas 2022 Materials Trophy",
-        "description": ""
+        "description": "nft_h24_cb_22materials desc"
       },
       {
         "code": "nft_h24_cb_animals23",
@@ -88580,6 +88635,16 @@
         "code": "rare_r24_whippet",
         "name": "Whippet Statue",
         "description": "rare_r24_whippet desc"
+      },
+      {
+        "code": "rare_r25_duckmaster",
+        "name": "rare_r25_duckmaster name",
+        "description": "rare_r25_duckmaster desc"
+      },
+      {
+        "code": "rare_r25_pygmyhippo",
+        "name": "rare_r25_pygmyhippo name",
+        "description": "rare_r25_pygmyhippo desc"
       },
       {
         "code": "rare_rare_dragonlamp_11_bd",
