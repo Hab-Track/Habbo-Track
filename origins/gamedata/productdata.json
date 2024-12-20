@@ -56427,6 +56427,21 @@
         "description": "Casts spells that make you quack"
       },
       {
+        "code": "ff_c24_wrapped_chair",
+        "name": "Funky Gift",
+        "description": "What's inside?"
+      },
+      {
+        "code": "ff_c24_wrapped_duck",
+        "name": "Funky Gift",
+        "description": "What's inside?"
+      },
+      {
+        "code": "ff_c24_wrapped_table",
+        "name": "Funky Gift",
+        "description": "What's inside?"
+      },
+      {
         "code": "ff_c24_zombunny",
         "name": "Zombunny",
         "description": "Smells like death"
@@ -104190,6 +104205,11 @@
         "code": "wl_wall2",
         "name": "Habbo Hotel",
         "description": "Habbo Hotel"
+      },
+      {
+        "code": "wrapped_duck",
+        "name": "Funky Gift",
+        "description": ""
       },
       {
         "code": "xm09_bauble_10",
