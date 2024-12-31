@@ -2750,9 +2750,19 @@
     "CF_250_fancywatch desc"
   ],
   [
+    "CF_250_frogprince",
+    "Golden Frog Prince",
+    ""
+  ],
+  [
     "CF_250_goldencheck",
     "Gold Card Rug",
     "CF_250_goldencheck desc"
+  ],
+  [
+    "CF_250_goldenchessboard",
+    "Golden Chess Board",
+    ""
   ],
   [
     "CF_250_goldenfloor",
@@ -2790,6 +2800,11 @@
     "Worth 300 Credits"
   ],
   [
+    "CF_350_aubergine",
+    "Gold Adorned Aubergine",
+    ""
+  ],
+  [
     "CF_350_d20dice",
     "Golden Icosahedron Die",
     "CF_350_d20dice desc"
@@ -2823,6 +2838,11 @@
     "CF_350_goldendecanter",
     "Golden Decanter",
     "CF_350_goldendecanter desc"
+  ],
+  [
+    "CF_350_goldenorb",
+    "Gold Orb",
+    ""
   ],
   [
     "CF_350_goldenwall",
@@ -2875,8 +2895,13 @@
     ""
   ],
   [
+    "CF_500_goldenglobe",
+    "Golden Globe",
+    ""
+  ],
+  [
     "CF_500_goldengoose",
-    "CF_500_goldengoose name",
+    "Golden Goose",
     "CF_500_goldengoose desc"
   ],
   [
@@ -2941,7 +2966,7 @@
   ],
   [
     "CF_750_goldenegg",
-    "CF_750_goldenegg name",
+    "Golden Cracked Egg",
     "CF_750_goldenegg desc"
   ],
   [
@@ -30366,7 +30391,7 @@
   ],
   [
     "china_goldensnake",
-    "china_goldensnake name",
+    "Golden Snake Statue",
     "china_goldensnake desc"
   ],
   [
@@ -31132,6 +31157,11 @@
   [
     "cl_ltd23_80sretro_bd",
     "80s Nostalgia Outfit",
+    ""
+  ],
+  [
+    "cl_r25_poshwaistcoat_bd",
+    "Posh Waistcoat",
     ""
   ],
   [
@@ -33086,7 +33116,7 @@
   ],
   [
     "clothing_cnysnake",
-    "clothing_cnysnake name",
+    "Snake Accessories",
     "clothing_cnysnake desc"
   ],
   [
@@ -33471,17 +33501,17 @@
   ],
   [
     "clothing_diaplume",
-    "clothing_diaplume name",
+    "Diamond Plume",
     "clothing_diaplume desc"
   ],
   [
     "clothing_diasparkleparty",
-    "clothing_diasparkleparty name",
+    "Diamond Cracker Hat",
     "clothing_diasparkleparty desc"
   ],
   [
     "clothing_diastar",
-    "clothing_diastar name",
+    "Diamond Star Clip",
     "clothing_diastar desc"
   ],
   [
@@ -34773,6 +34803,11 @@
     "clothing_lionmask",
     "Animatronic Eddie Mask",
     "clothing_lionmask desc"
+  ],
+  [
+    "clothing_littlesnowman_bd",
+    "Snowfolk Headband",
+    "clothing_littlesnowman desc"
   ],
   [
     "clothing_littlesnowman",
@@ -52231,12 +52266,12 @@
   ],
   [
     "diamond_c25_giftbox4",
-    "diamond_c25_giftbox4 name",
+    "Diamond Gift Box 4",
     "diamond_c25_giftbox4 desc"
   ],
   [
     "diamond_c25_giftbox4b",
-    "diamond_c25_giftbox4b name",
+    "Diamond Gift Box 4",
     "diamond_c25_giftbox4b desc"
   ],
   [

@@ -2752,9 +2752,19 @@
         "description": "CF_250_fancywatch desc"
       },
       {
+        "code": "CF_250_frogprince",
+        "name": "Golden Frog Prince",
+        "description": ""
+      },
+      {
         "code": "CF_250_goldencheck",
         "name": "Gold Card Rug",
         "description": "CF_250_goldencheck desc"
+      },
+      {
+        "code": "CF_250_goldenchessboard",
+        "name": "Golden Chess Board",
+        "description": ""
       },
       {
         "code": "CF_250_goldenfloor",
@@ -2792,6 +2802,11 @@
         "description": "Worth 300 Credits"
       },
       {
+        "code": "CF_350_aubergine",
+        "name": "Gold Adorned Aubergine",
+        "description": ""
+      },
+      {
         "code": "CF_350_d20dice",
         "name": "Golden Icosahedron Die",
         "description": "CF_350_d20dice desc"
@@ -2825,6 +2840,11 @@
         "code": "CF_350_goldendecanter",
         "name": "Golden Decanter",
         "description": "CF_350_goldendecanter desc"
+      },
+      {
+        "code": "CF_350_goldenorb",
+        "name": "Gold Orb",
+        "description": ""
       },
       {
         "code": "CF_350_goldenwall",
@@ -2877,8 +2897,13 @@
         "description": ""
       },
       {
+        "code": "CF_500_goldenglobe",
+        "name": "Golden Globe",
+        "description": ""
+      },
+      {
         "code": "CF_500_goldengoose",
-        "name": "CF_500_goldengoose name",
+        "name": "Golden Goose",
         "description": "CF_500_goldengoose desc"
       },
       {
@@ -2943,7 +2968,7 @@
       },
       {
         "code": "CF_750_goldenegg",
-        "name": "CF_750_goldenegg name",
+        "name": "Golden Cracked Egg",
         "description": "CF_750_goldenegg desc"
       },
       {
@@ -30368,7 +30393,7 @@
       },
       {
         "code": "china_goldensnake",
-        "name": "china_goldensnake name",
+        "name": "Golden Snake Statue",
         "description": "china_goldensnake desc"
       },
       {
@@ -31134,6 +31159,11 @@
       {
         "code": "cl_ltd23_80sretro_bd",
         "name": "80s Nostalgia Outfit",
+        "description": ""
+      },
+      {
+        "code": "cl_r25_poshwaistcoat_bd",
+        "name": "Posh Waistcoat",
         "description": ""
       },
       {
@@ -33088,7 +33118,7 @@
       },
       {
         "code": "clothing_cnysnake",
-        "name": "clothing_cnysnake name",
+        "name": "Snake Accessories",
         "description": "clothing_cnysnake desc"
       },
       {
@@ -33473,17 +33503,17 @@
       },
       {
         "code": "clothing_diaplume",
-        "name": "clothing_diaplume name",
+        "name": "Diamond Plume",
         "description": "clothing_diaplume desc"
       },
       {
         "code": "clothing_diasparkleparty",
-        "name": "clothing_diasparkleparty name",
+        "name": "Diamond Cracker Hat",
         "description": "clothing_diasparkleparty desc"
       },
       {
         "code": "clothing_diastar",
-        "name": "clothing_diastar name",
+        "name": "Diamond Star Clip",
         "description": "clothing_diastar desc"
       },
       {
@@ -34775,6 +34805,11 @@
         "code": "clothing_lionmask",
         "name": "Animatronic Eddie Mask",
         "description": "clothing_lionmask desc"
+      },
+      {
+        "code": "clothing_littlesnowman_bd",
+        "name": "Snowfolk Headband",
+        "description": "clothing_littlesnowman desc"
       },
       {
         "code": "clothing_littlesnowman",
@@ -52233,12 +52268,12 @@
       },
       {
         "code": "diamond_c25_giftbox4",
-        "name": "diamond_c25_giftbox4 name",
+        "name": "Diamond Gift Box 4",
         "description": "diamond_c25_giftbox4 desc"
       },
       {
         "code": "diamond_c25_giftbox4b",
-        "name": "diamond_c25_giftbox4b name",
+        "name": "Diamond Gift Box 4",
         "description": "diamond_c25_giftbox4b desc"
       },
       {
