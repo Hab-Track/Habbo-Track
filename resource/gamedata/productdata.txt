@@ -79257,7 +79257,7 @@
   [
     "nft_h25_collbigchest",
     "Large Collectors Chest",
-    ""
+    "nft_h25_collbigchest desc"
   ],
   [
     "nft_h25_collpillar",
@@ -79267,7 +79267,7 @@
   [
     "nft_h25_collsmallchest",
     "Collectors Chest",
-    ""
+    "nft_h25_collsmallchest desc"
   ],
   [
     "nft_h25_collsofa",
@@ -89073,6 +89073,11 @@
     "rare_r25_duckmaster",
     "rare_r25_duckmaster name",
     "rare_r25_duckmaster desc"
+  ],
+  [
+    "rare_r25_pygmyhip_bd",
+    "Pygmy Hippo",
+    ""
   ],
   [
     "rare_r25_pygmyhippo",

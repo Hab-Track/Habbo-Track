@@ -79259,7 +79259,7 @@
       {
         "code": "nft_h25_collbigchest",
         "name": "Large Collectors Chest",
-        "description": ""
+        "description": "nft_h25_collbigchest desc"
       },
       {
         "code": "nft_h25_collpillar",
@@ -79269,7 +79269,7 @@
       {
         "code": "nft_h25_collsmallchest",
         "name": "Collectors Chest",
-        "description": ""
+        "description": "nft_h25_collsmallchest desc"
       },
       {
         "code": "nft_h25_collsofa",
@@ -89075,6 +89075,11 @@
         "code": "rare_r25_duckmaster",
         "name": "rare_r25_duckmaster name",
         "description": "rare_r25_duckmaster desc"
+      },
+      {
+        "code": "rare_r25_pygmyhip_bd",
+        "name": "Pygmy Hippo",
+        "description": ""
       },
       {
         "code": "rare_r25_pygmyhippo",
