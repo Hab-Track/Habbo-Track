@@ -6262,6 +6262,16 @@
         "description": "For making an appearance"
       },
       {
+        "code": "a0 china_corner_2",
+        "name": "Mahogany Dragon Screen",
+        "description": "Firm, fireproof foundation"
+      },
+      {
+        "code": "a0 china_wall_2",
+        "name": "Mahogany Dragon Screen",
+        "description": "For your great wall"
+      },
+      {
         "code": "a0 chinashelf",
         "name": "Chinese Lacquer Bookshelf",
         "description": "To hold the mind's treasures"
@@ -56430,6 +56440,11 @@
         "code": "ff_c24_stocking_tinsel",
         "name": "Stocking",
         "description": "Hung yours up yet?"
+      },
+      {
+        "code": "ff_c24_tearoom_bamboo",
+        "name": "Bamboo Plant",
+        "description": "A sturdy bamboo plant, said to bring good luck!"
       },
       {
         "code": "ff_c24_witchduck",
