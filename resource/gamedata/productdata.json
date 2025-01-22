@@ -2754,7 +2754,7 @@
       {
         "code": "CF_250_frogprince",
         "name": "Golden Frog Prince",
-        "description": ""
+        "description": "CF_250_frogprince desc"
       },
       {
         "code": "CF_250_goldencheck",
@@ -2804,7 +2804,7 @@
       {
         "code": "CF_350_aubergine",
         "name": "Gold Adorned Aubergine",
-        "description": ""
+        "description": "CF_350_aubergine desc"
       },
       {
         "code": "CF_350_d20dice",
@@ -2844,7 +2844,7 @@
       {
         "code": "CF_350_goldenorb",
         "name": "Gold Orb",
-        "description": ""
+        "description": "CF_350_goldenorb desc"
       },
       {
         "code": "CF_350_goldenwall",
@@ -5850,6 +5850,11 @@
         "code": "SID_c24_plush",
         "name": "SID 2024 Plushy",
         "description": "SID_c24_plush desc"
+      },
+      {
+        "code": "SID_c25_plush",
+        "name": "SID_c25_plush name",
+        "description": "SID_c25_plush desc"
       },
       {
         "code": "SMBadge_Hcalypse",
@@ -29192,6 +29197,16 @@
         "description": "Rising from the ashes, reborn again"
       },
       {
+        "code": "brbirthday_c25_coxinha",
+        "name": "brbirthday_c25_coxinha name",
+        "description": "brbirthday_c25_coxinha desc"
+      },
+      {
+        "code": "brbirthday_c25_waterfilter",
+        "name": "brbirthday_c25_waterfilter name",
+        "description": "brbirthday_c25_waterfilter desc"
+      },
+      {
         "code": "brnd_cscape_wall",
         "name": "brnd_cscape_wall name",
         "description": "brnd_cscape_wall desc"
@@ -33805,6 +33820,16 @@
         "code": "clothing_drsportsshirt",
         "name": "DR Sports T-Shirt",
         "description": "clothing_drsportsshirt desc"
+      },
+      {
+        "code": "clothing_duckethat",
+        "name": "clothing_duckethat name",
+        "description": "clothing_duckethat desc"
+      },
+      {
+        "code": "clothing_ducketshirt",
+        "name": "clothing_ducketshirt name",
+        "description": "clothing_ducketshirt desc"
       },
       {
         "code": "clothing_duckhat",
@@ -39915,6 +39940,16 @@
         "code": "clothing_r25_poshwaistcoat",
         "name": "clothing_r25_poshwaistcoat name",
         "description": "clothing_r25_poshwaistcoat desc"
+      },
+      {
+        "code": "clothing_r25_valentinesbride",
+        "name": "clothing_r25_valentinesbride name",
+        "description": "clothing_r25_valentinesbride desc"
+      },
+      {
+        "code": "clothing_r25_valentinesgroom",
+        "name": "clothing_r25_valentinesgroom name",
+        "description": "clothing_r25_valentinesgroom desc"
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -53795,6 +53830,56 @@
         "code": "duck_zombie",
         "name": "Zombie Duck",
         "description": "Braaaaiiinnns..."
+      },
+      {
+        "code": "ducket_c25_bed",
+        "name": "ducket_c25_bed name",
+        "description": "ducket_c25_bed desc"
+      },
+      {
+        "code": "ducket_c25_duck",
+        "name": "ducket_c25_duck name",
+        "description": "ducket_c25_duck desc"
+      },
+      {
+        "code": "ducket_c25_ducklamp",
+        "name": "ducket_c25_ducklamp name",
+        "description": "ducket_c25_ducklamp desc"
+      },
+      {
+        "code": "ducket_c25_duckmug",
+        "name": "ducket_c25_duckmug name",
+        "description": "ducket_c25_duckmug desc"
+      },
+      {
+        "code": "ducket_c25_ducksofa",
+        "name": "ducket_c25_ducksofa name",
+        "description": "ducket_c25_ducksofa desc"
+      },
+      {
+        "code": "ducket_c25_flowerstool",
+        "name": "ducket_c25_flowerstool name",
+        "description": "ducket_c25_flowerstool desc"
+      },
+      {
+        "code": "ducket_c25_rug",
+        "name": "ducket_c25_rug name",
+        "description": "ducket_c25_rug desc"
+      },
+      {
+        "code": "ducket_c25_table",
+        "name": "ducket_c25_table name",
+        "description": "ducket_c25_table desc"
+      },
+      {
+        "code": "ducket_c25_wall",
+        "name": "ducket_c25_wall name",
+        "description": "ducket_c25_wall desc"
+      },
+      {
+        "code": "ducket_c25_wardrobe",
+        "name": "ducket_c25_wardrobe name",
+        "description": "ducket_c25_wardrobe desc"
       },
       {
         "code": "duckets_100",
@@ -100690,6 +100775,51 @@
         "code": "scifi_r17_cruiser",
         "name": "Interstellar Cruiser",
         "description": "Space for four space-exploring Habbos."
+      },
+      {
+        "code": "sculptures_c25_fox",
+        "name": "sculptures_c25_fox name",
+        "description": "sculptures_c25_fox desc"
+      },
+      {
+        "code": "sculptures_c25_lion",
+        "name": "sculptures_c25_lion name",
+        "description": "sculptures_c25_lion desc"
+      },
+      {
+        "code": "sculptures_c25_lovelock",
+        "name": "sculptures_c25_lovelock name",
+        "description": "sculptures_c25_lovelock desc"
+      },
+      {
+        "code": "sculptures_c25_rabbit",
+        "name": "sculptures_c25_rabbit name",
+        "description": "sculptures_c25_rabbit desc"
+      },
+      {
+        "code": "sculptures_c25_raccoon",
+        "name": "sculptures_c25_raccoon name",
+        "description": "sculptures_c25_raccoon desc"
+      },
+      {
+        "code": "sculptures_c25_sheep",
+        "name": "sculptures_c25_sheep name",
+        "description": "sculptures_c25_sheep desc"
+      },
+      {
+        "code": "sculptures_c25_stag",
+        "name": "sculptures_c25_stag name",
+        "description": "sculptures_c25_stag desc"
+      },
+      {
+        "code": "sculptures_r25_doveseat",
+        "name": "sculptures_r25_doveseat name",
+        "description": "sculptures_r25_doveseat desc"
+      },
+      {
+        "code": "sculptures_r25_dragonfountain",
+        "name": "sculptures_r25_dragonfountain name",
+        "description": "sculptures_r25_dragonfountain desc"
       },
       {
         "code": "se_doorD",

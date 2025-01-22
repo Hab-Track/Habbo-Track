@@ -2752,7 +2752,7 @@
   [
     "CF_250_frogprince",
     "Golden Frog Prince",
-    ""
+    "CF_250_frogprince desc"
   ],
   [
     "CF_250_goldencheck",
@@ -2802,7 +2802,7 @@
   [
     "CF_350_aubergine",
     "Gold Adorned Aubergine",
-    ""
+    "CF_350_aubergine desc"
   ],
   [
     "CF_350_d20dice",
@@ -2842,7 +2842,7 @@
   [
     "CF_350_goldenorb",
     "Gold Orb",
-    ""
+    "CF_350_goldenorb desc"
   ],
   [
     "CF_350_goldenwall",
@@ -5848,6 +5848,11 @@
     "SID_c24_plush",
     "SID 2024 Plushy",
     "SID_c24_plush desc"
+  ],
+  [
+    "SID_c25_plush",
+    "SID_c25_plush name",
+    "SID_c25_plush desc"
   ],
   [
     "SMBadge_Hcalypse",
@@ -29190,6 +29195,16 @@
     "Rising from the ashes, reborn again"
   ],
   [
+    "brbirthday_c25_coxinha",
+    "brbirthday_c25_coxinha name",
+    "brbirthday_c25_coxinha desc"
+  ],
+  [
+    "brbirthday_c25_waterfilter",
+    "brbirthday_c25_waterfilter name",
+    "brbirthday_c25_waterfilter desc"
+  ],
+  [
     "brnd_cscape_wall",
     "brnd_cscape_wall name",
     "brnd_cscape_wall desc"
@@ -33803,6 +33818,16 @@
     "clothing_drsportsshirt",
     "DR Sports T-Shirt",
     "clothing_drsportsshirt desc"
+  ],
+  [
+    "clothing_duckethat",
+    "clothing_duckethat name",
+    "clothing_duckethat desc"
+  ],
+  [
+    "clothing_ducketshirt",
+    "clothing_ducketshirt name",
+    "clothing_ducketshirt desc"
   ],
   [
     "clothing_duckhat",
@@ -39913,6 +39938,16 @@
     "clothing_r25_poshwaistcoat",
     "clothing_r25_poshwaistcoat name",
     "clothing_r25_poshwaistcoat desc"
+  ],
+  [
+    "clothing_r25_valentinesbride",
+    "clothing_r25_valentinesbride name",
+    "clothing_r25_valentinesbride desc"
+  ],
+  [
+    "clothing_r25_valentinesgroom",
+    "clothing_r25_valentinesgroom name",
+    "clothing_r25_valentinesgroom desc"
   ],
   [
     "clothing_raccoonbeanie_bd",
@@ -53793,6 +53828,56 @@
     "duck_zombie",
     "Zombie Duck",
     "Braaaaiiinnns..."
+  ],
+  [
+    "ducket_c25_bed",
+    "ducket_c25_bed name",
+    "ducket_c25_bed desc"
+  ],
+  [
+    "ducket_c25_duck",
+    "ducket_c25_duck name",
+    "ducket_c25_duck desc"
+  ],
+  [
+    "ducket_c25_ducklamp",
+    "ducket_c25_ducklamp name",
+    "ducket_c25_ducklamp desc"
+  ],
+  [
+    "ducket_c25_duckmug",
+    "ducket_c25_duckmug name",
+    "ducket_c25_duckmug desc"
+  ],
+  [
+    "ducket_c25_ducksofa",
+    "ducket_c25_ducksofa name",
+    "ducket_c25_ducksofa desc"
+  ],
+  [
+    "ducket_c25_flowerstool",
+    "ducket_c25_flowerstool name",
+    "ducket_c25_flowerstool desc"
+  ],
+  [
+    "ducket_c25_rug",
+    "ducket_c25_rug name",
+    "ducket_c25_rug desc"
+  ],
+  [
+    "ducket_c25_table",
+    "ducket_c25_table name",
+    "ducket_c25_table desc"
+  ],
+  [
+    "ducket_c25_wall",
+    "ducket_c25_wall name",
+    "ducket_c25_wall desc"
+  ],
+  [
+    "ducket_c25_wardrobe",
+    "ducket_c25_wardrobe name",
+    "ducket_c25_wardrobe desc"
   ],
   [
     "duckets_100",
@@ -100688,6 +100773,51 @@
     "scifi_r17_cruiser",
     "Interstellar Cruiser",
     "Space for four space-exploring Habbos."
+  ],
+  [
+    "sculptures_c25_fox",
+    "sculptures_c25_fox name",
+    "sculptures_c25_fox desc"
+  ],
+  [
+    "sculptures_c25_lion",
+    "sculptures_c25_lion name",
+    "sculptures_c25_lion desc"
+  ],
+  [
+    "sculptures_c25_lovelock",
+    "sculptures_c25_lovelock name",
+    "sculptures_c25_lovelock desc"
+  ],
+  [
+    "sculptures_c25_rabbit",
+    "sculptures_c25_rabbit name",
+    "sculptures_c25_rabbit desc"
+  ],
+  [
+    "sculptures_c25_raccoon",
+    "sculptures_c25_raccoon name",
+    "sculptures_c25_raccoon desc"
+  ],
+  [
+    "sculptures_c25_sheep",
+    "sculptures_c25_sheep name",
+    "sculptures_c25_sheep desc"
+  ],
+  [
+    "sculptures_c25_stag",
+    "sculptures_c25_stag name",
+    "sculptures_c25_stag desc"
+  ],
+  [
+    "sculptures_r25_doveseat",
+    "sculptures_r25_doveseat name",
+    "sculptures_r25_doveseat desc"
+  ],
+  [
+    "sculptures_r25_dragonfountain",
+    "sculptures_r25_dragonfountain name",
+    "sculptures_r25_dragonfountain desc"
   ],
   [
     "se_doorD",
