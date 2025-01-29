@@ -93425,6 +93425,16 @@
     "room_ph desc"
   ],
   [
+    "room_switcher1",
+    "room_switcher1 name",
+    "room_switcher1 desc"
+  ],
+  [
+    "room_switcher2",
+    "room_switcher2 name",
+    "room_switcher2 desc"
+  ],
+  [
     "room_thr15_block",
     "Habbo Hotel",
     "Habbo Hotel"
@@ -110305,6 +110315,11 @@
     "This Effect teleports the triggering user to a Furni. If you select more than one Furni, the user is randomly teleported to one of them."
   ],
   [
+    "wf_act_teleport_to_room",
+    "wf_act_teleport_to_room name",
+    "wf_act_teleport_to_room desc"
+  ],
+  [
     "wf_act_toggle_state",
     "WIRED Effect: Toggle Furni State",
     "This Effect changes the state of the chosen Furni as if the Furni has just been double clicked."
@@ -110708,6 +110723,11 @@
     "wf_ringplate",
     "Ringplate",
     "Can be pressed down and lights up."
+  ],
+  [
+    "wf_room_linker",
+    "wf_room_linker name",
+    "wf_room_linker desc"
   ],
   [
     "wf_slc_furni_altitude",
