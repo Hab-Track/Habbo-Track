@@ -27554,22 +27554,22 @@
       {
         "code": "bonusbag25_1",
         "name": "Bonus Bag I",
-        "description": ""
+        "description": "bonusbag25_1 desc"
       },
       {
         "code": "bonusbag25_2",
         "name": "Bonus Bag II",
-        "description": ""
+        "description": "bonusbag25_2 desc"
       },
       {
         "code": "bonusbag25_3",
         "name": "Bonus Bag III",
-        "description": ""
+        "description": "bonusbag25_3 desc"
       },
       {
         "code": "bonusbag25_4",
         "name": "Bonus Bag IV",
-        "description": ""
+        "description": "bonusbag25_4 desc"
       },
       {
         "code": "bonusrare16_1_1",
@@ -28769,122 +28769,122 @@
       {
         "code": "bonusrare25_1_0",
         "name": "Red Drago Plush",
-        "description": ""
+        "description": "bonusrare25_1_0 desc"
       },
       {
         "code": "bonusrare25_1_1",
         "name": "Green Drago Plush",
-        "description": ""
+        "description": "bonusrare25_1_1 desc"
       },
       {
         "code": "bonusrare25_1_2",
         "name": "Purple Drago Plush",
-        "description": ""
+        "description": "bonusrare25_1_2 desc"
       },
       {
         "code": "bonusrare25_1_3",
         "name": "Blue Drago Plush",
-        "description": ""
+        "description": "bonusrare25_1_3 desc"
       },
       {
         "code": "bonusrare25_1_4",
         "name": "Pink Drago Plush",
-        "description": ""
+        "description": "bonusrare25_1_4 desc"
       },
       {
         "code": "bonusrare25_1_5",
         "name": "Orange Drago Plush",
-        "description": ""
+        "description": "bonusrare25_1_5 desc"
       },
       {
         "code": "bonusrare25_2_0",
         "name": "Sleepy Clay Planter",
-        "description": ""
+        "description": "bonusrare25_2_0 desc"
       },
       {
         "code": "bonusrare25_2_1",
         "name": "Sleepy Dark Planter",
-        "description": ""
+        "description": "bonusrare25_2_1 desc"
       },
       {
         "code": "bonusrare25_2_2",
         "name": "Sleepy Grey Planter",
-        "description": ""
+        "description": "bonusrare25_2_2 desc"
       },
       {
         "code": "bonusrare25_2_3",
         "name": "Sleepy Moss Planter",
-        "description": ""
+        "description": "bonusrare25_2_3 desc"
       },
       {
         "code": "bonusrare25_2_4",
         "name": "Sleepy Midnight Planter",
-        "description": ""
+        "description": "bonusrare25_2_4 desc"
       },
       {
         "code": "bonusrare25_2_5",
         "name": "Sleepy Tan Planter",
-        "description": ""
+        "description": "bonusrare25_2_5 desc"
       },
       {
         "code": "bonusrare25_3_0",
         "name": "Red Penguin Beanbag",
-        "description": ""
+        "description": "bonusrare25_3_0 desc"
       },
       {
         "code": "bonusrare25_3_1",
         "name": "Yellow Penguin Beanbag",
-        "description": ""
+        "description": "bonusrare25_3_1 desc"
       },
       {
         "code": "bonusrare25_3_2",
         "name": "Blue Penguin Beanbag",
-        "description": ""
+        "description": "bonusrare25_3_2 desc"
       },
       {
         "code": "bonusrare25_3_3",
         "name": "Black Penguin Beanbag",
-        "description": ""
+        "description": "bonusrare25_3_3 desc"
       },
       {
         "code": "bonusrare25_3_4",
         "name": "Lime Penguin Beanbag",
-        "description": ""
+        "description": "bonusrare25_3_4 desc"
       },
       {
         "code": "bonusrare25_3_5",
         "name": "Fuschia Penguin Beanbag",
-        "description": ""
+        "description": "bonusrare25_3_5 desc"
       },
       {
         "code": "bonusrare25_4_0",
         "name": "Yellow Duck Rug",
-        "description": ""
+        "description": "bonusrare25_4_0 desc"
       },
       {
         "code": "bonusrare25_4_1",
         "name": "Black Duck Rug",
-        "description": ""
+        "description": "bonusrare25_4_1 desc"
       },
       {
         "code": "bonusrare25_4_2",
         "name": "Blue Duck Rug",
-        "description": ""
+        "description": "bonusrare25_4_2 desc"
       },
       {
         "code": "bonusrare25_4_3",
         "name": "Fuschia Duck Rug",
-        "description": ""
+        "description": "bonusrare25_4_3 desc"
       },
       {
         "code": "bonusrare25_4_4",
         "name": "Lime Duck Rug",
-        "description": ""
+        "description": "bonusrare25_4_4 desc"
       },
       {
         "code": "bonusrare25_4_5",
         "name": "Red Duck Rug",
-        "description": ""
+        "description": "bonusrare25_4_5 desc"
       },
       {
         "code": "bonusrare_april16_d",
@@ -100802,9 +100802,19 @@
         "description": "Space for four space-exploring Habbos."
       },
       {
+        "code": "sculptures_c25_fox_bd",
+        "name": "Fox Sculpture",
+        "description": "sculptures_c25_fox desc"
+      },
+      {
         "code": "sculptures_c25_fox",
         "name": "Fox Sculpture",
         "description": "sculptures_c25_fox desc"
+      },
+      {
+        "code": "sculptures_c25_lion_bd",
+        "name": "Lion Sculpture",
+        "description": "sculptures_c25_lion desc"
       },
       {
         "code": "sculptures_c25_lion",
@@ -100813,7 +100823,7 @@
       },
       {
         "code": "sculptures_c25_loveloc_bd",
-        "name": "sculptures_c25_lovelock name",
+        "name": "Swan Sculpture Lovelock",
         "description": "sculptures_c25_lovelock desc"
       },
       {
@@ -100822,9 +100832,19 @@
         "description": "sculptures_c25_lovelock desc"
       },
       {
+        "code": "sculptures_c25_rabbit_bd",
+        "name": "Rabbit Sculpture",
+        "description": "sculptures_c25_rabbit desc"
+      },
+      {
         "code": "sculptures_c25_rabbit",
         "name": "Rabbit Sculpture",
         "description": "sculptures_c25_rabbit desc"
+      },
+      {
+        "code": "sculptures_c25_raccoon_bd",
+        "name": "Raccoon Sculpture",
+        "description": "sculptures_c25_raccoon desc"
       },
       {
         "code": "sculptures_c25_raccoon",
@@ -100832,9 +100852,19 @@
         "description": "sculptures_c25_raccoon desc"
       },
       {
+        "code": "sculptures_c25_sheep_bd",
+        "name": "Sheep Sculpture",
+        "description": "sculptures_c25_sheep desc"
+      },
+      {
         "code": "sculptures_c25_sheep",
         "name": "Sheep Sculpture",
         "description": "sculptures_c25_sheep desc"
+      },
+      {
+        "code": "sculptures_c25_stag_bd",
+        "name": "Stag Sculpture",
+        "description": "sculptures_c25_stag desc"
       },
       {
         "code": "sculptures_c25_stag",

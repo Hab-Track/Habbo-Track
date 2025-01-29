@@ -27552,22 +27552,22 @@
   [
     "bonusbag25_1",
     "Bonus Bag I",
-    ""
+    "bonusbag25_1 desc"
   ],
   [
     "bonusbag25_2",
     "Bonus Bag II",
-    ""
+    "bonusbag25_2 desc"
   ],
   [
     "bonusbag25_3",
     "Bonus Bag III",
-    ""
+    "bonusbag25_3 desc"
   ],
   [
     "bonusbag25_4",
     "Bonus Bag IV",
-    ""
+    "bonusbag25_4 desc"
   ],
   [
     "bonusrare16_1_1",
@@ -28767,122 +28767,122 @@
   [
     "bonusrare25_1_0",
     "Red Drago Plush",
-    ""
+    "bonusrare25_1_0 desc"
   ],
   [
     "bonusrare25_1_1",
     "Green Drago Plush",
-    ""
+    "bonusrare25_1_1 desc"
   ],
   [
     "bonusrare25_1_2",
     "Purple Drago Plush",
-    ""
+    "bonusrare25_1_2 desc"
   ],
   [
     "bonusrare25_1_3",
     "Blue Drago Plush",
-    ""
+    "bonusrare25_1_3 desc"
   ],
   [
     "bonusrare25_1_4",
     "Pink Drago Plush",
-    ""
+    "bonusrare25_1_4 desc"
   ],
   [
     "bonusrare25_1_5",
     "Orange Drago Plush",
-    ""
+    "bonusrare25_1_5 desc"
   ],
   [
     "bonusrare25_2_0",
     "Sleepy Clay Planter",
-    ""
+    "bonusrare25_2_0 desc"
   ],
   [
     "bonusrare25_2_1",
     "Sleepy Dark Planter",
-    ""
+    "bonusrare25_2_1 desc"
   ],
   [
     "bonusrare25_2_2",
     "Sleepy Grey Planter",
-    ""
+    "bonusrare25_2_2 desc"
   ],
   [
     "bonusrare25_2_3",
     "Sleepy Moss Planter",
-    ""
+    "bonusrare25_2_3 desc"
   ],
   [
     "bonusrare25_2_4",
     "Sleepy Midnight Planter",
-    ""
+    "bonusrare25_2_4 desc"
   ],
   [
     "bonusrare25_2_5",
     "Sleepy Tan Planter",
-    ""
+    "bonusrare25_2_5 desc"
   ],
   [
     "bonusrare25_3_0",
     "Red Penguin Beanbag",
-    ""
+    "bonusrare25_3_0 desc"
   ],
   [
     "bonusrare25_3_1",
     "Yellow Penguin Beanbag",
-    ""
+    "bonusrare25_3_1 desc"
   ],
   [
     "bonusrare25_3_2",
     "Blue Penguin Beanbag",
-    ""
+    "bonusrare25_3_2 desc"
   ],
   [
     "bonusrare25_3_3",
     "Black Penguin Beanbag",
-    ""
+    "bonusrare25_3_3 desc"
   ],
   [
     "bonusrare25_3_4",
     "Lime Penguin Beanbag",
-    ""
+    "bonusrare25_3_4 desc"
   ],
   [
     "bonusrare25_3_5",
     "Fuschia Penguin Beanbag",
-    ""
+    "bonusrare25_3_5 desc"
   ],
   [
     "bonusrare25_4_0",
     "Yellow Duck Rug",
-    ""
+    "bonusrare25_4_0 desc"
   ],
   [
     "bonusrare25_4_1",
     "Black Duck Rug",
-    ""
+    "bonusrare25_4_1 desc"
   ],
   [
     "bonusrare25_4_2",
     "Blue Duck Rug",
-    ""
+    "bonusrare25_4_2 desc"
   ],
   [
     "bonusrare25_4_3",
     "Fuschia Duck Rug",
-    ""
+    "bonusrare25_4_3 desc"
   ],
   [
     "bonusrare25_4_4",
     "Lime Duck Rug",
-    ""
+    "bonusrare25_4_4 desc"
   ],
   [
     "bonusrare25_4_5",
     "Red Duck Rug",
-    ""
+    "bonusrare25_4_5 desc"
   ],
   [
     "bonusrare_april16_d",
@@ -100800,9 +100800,19 @@
     "Space for four space-exploring Habbos."
   ],
   [
+    "sculptures_c25_fox_bd",
+    "Fox Sculpture",
+    "sculptures_c25_fox desc"
+  ],
+  [
     "sculptures_c25_fox",
     "Fox Sculpture",
     "sculptures_c25_fox desc"
+  ],
+  [
+    "sculptures_c25_lion_bd",
+    "Lion Sculpture",
+    "sculptures_c25_lion desc"
   ],
   [
     "sculptures_c25_lion",
@@ -100811,7 +100821,7 @@
   ],
   [
     "sculptures_c25_loveloc_bd",
-    "sculptures_c25_lovelock name",
+    "Swan Sculpture Lovelock",
     "sculptures_c25_lovelock desc"
   ],
   [
@@ -100820,9 +100830,19 @@
     "sculptures_c25_lovelock desc"
   ],
   [
+    "sculptures_c25_rabbit_bd",
+    "Rabbit Sculpture",
+    "sculptures_c25_rabbit desc"
+  ],
+  [
     "sculptures_c25_rabbit",
     "Rabbit Sculpture",
     "sculptures_c25_rabbit desc"
+  ],
+  [
+    "sculptures_c25_raccoon_bd",
+    "Raccoon Sculpture",
+    "sculptures_c25_raccoon desc"
   ],
   [
     "sculptures_c25_raccoon",
@@ -100830,9 +100850,19 @@
     "sculptures_c25_raccoon desc"
   ],
   [
+    "sculptures_c25_sheep_bd",
+    "Sheep Sculpture",
+    "sculptures_c25_sheep desc"
+  ],
+  [
     "sculptures_c25_sheep",
     "Sheep Sculpture",
     "sculptures_c25_sheep desc"
+  ],
+  [
+    "sculptures_c25_stag_bd",
+    "Stag Sculpture",
+    "sculptures_c25_stag desc"
   ],
   [
     "sculptures_c25_stag",
