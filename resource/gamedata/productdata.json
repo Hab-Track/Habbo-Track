@@ -5853,7 +5853,7 @@
       },
       {
         "code": "SID_c25_plush",
-        "name": "SID_c25_plush name",
+        "name": "SID 2025 Plushy",
         "description": "SID_c25_plush desc"
       },
       {
@@ -35682,6 +35682,11 @@
         "description": "clothing_nftbluefloat desc"
       },
       {
+        "code": "clothing_nftbluehearteyes",
+        "name": "Electric Blue Heart Eyes",
+        "description": ""
+      },
+      {
         "code": "clothing_nftblueheartshades",
         "name": "Blue Heart Shades",
         "description": "clothing_nftblueheartshades desc"
@@ -35900,6 +35905,11 @@
         "code": "clothing_nftfloraradiance",
         "name": "Floral Garland Wings",
         "description": "clothing_nftfloraradiance desc"
+      },
+      {
+        "code": "clothing_nftflowerfairy",
+        "name": "Valentines Flower Fairy",
+        "description": ""
       },
       {
         "code": "clothing_nftfourtail",
@@ -36270,6 +36280,11 @@
         "code": "clothing_nftpinkbikini",
         "name": "Pink Bikini",
         "description": "clothing_nftpinkbikini desc"
+      },
+      {
+        "code": "clothing_nftpinkhearteyes",
+        "name": "Electric Pink Heart Eyes",
+        "description": ""
       },
       {
         "code": "clothing_nftpinkheartshades",
@@ -36747,6 +36762,11 @@
         "description": "clothing_nftunicornslippers desc"
       },
       {
+        "code": "clothing_nftvalentinesrose",
+        "name": "Valentines Rose",
+        "description": ""
+      },
+      {
         "code": "clothing_nftvivideyes",
         "name": "Lovely Vivid Eyes",
         "description": "clothing_nftvivideyes desc"
@@ -36755,6 +36775,26 @@
         "code": "clothing_nftwhitebeanie",
         "name": "White Ski Beanie",
         "description": "clothing_nftwhitebeanie desc"
+      },
+      {
+        "code": "clothing_nftwinter1",
+        "name": "Green Subzero Gear",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwinter2",
+        "name": "Red Subzero Gear",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwinter3",
+        "name": "Brown Subzero Gear",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwinter",
+        "name": "Blue Subzero Gear",
+        "description": ""
       },
       {
         "code": "clothing_nftwinterblack",
@@ -76967,6 +77007,11 @@
         "description": "nft_emerald_emerhand desc"
       },
       {
+        "code": "nft_emerald_heart_2000",
+        "name": "Emerald Valentines Heart",
+        "description": ""
+      },
+      {
         "code": "nft_emerald_pumpkin_2000",
         "name": "Emerald Pumpkin (2k Emeralds)",
         "description": "nft_emerald_pumpkin_2000 desc"
@@ -79390,6 +79435,61 @@
         "code": "nft_h25_colltable",
         "name": "Collectors Table",
         "description": "nft_h25_colltable desc"
+      },
+      {
+        "code": "nft_h25_flowers10",
+        "name": "White Peruvian Lilies",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_flowers1",
+        "name": "Sunshine Yellow Tulips",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_flowers2",
+        "name": "Bright Red Tulips",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_flowers3",
+        "name": "Rich Purple Tulips",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_flowers4",
+        "name": "Blood Red Roses",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_flowers5",
+        "name": "Bright Purple Roses",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_flowers6",
+        "name": "Royal White Roses",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_flowers7",
+        "name": "White Amaryllis",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_flowers8",
+        "name": "Purple Amaryllis",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_flowers9",
+        "name": "Pink Peruvian Lilies",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_owlsculpture",
+        "name": "Owl Sculpture",
+        "description": ""
       },
       {
         "code": "nft_habbo15_beehive",

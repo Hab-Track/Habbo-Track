@@ -5851,7 +5851,7 @@
   ],
   [
     "SID_c25_plush",
-    "SID_c25_plush name",
+    "SID 2025 Plushy",
     "SID_c25_plush desc"
   ],
   [
@@ -35680,6 +35680,11 @@
     "clothing_nftbluefloat desc"
   ],
   [
+    "clothing_nftbluehearteyes",
+    "Electric Blue Heart Eyes",
+    ""
+  ],
+  [
     "clothing_nftblueheartshades",
     "Blue Heart Shades",
     "clothing_nftblueheartshades desc"
@@ -35898,6 +35903,11 @@
     "clothing_nftfloraradiance",
     "Floral Garland Wings",
     "clothing_nftfloraradiance desc"
+  ],
+  [
+    "clothing_nftflowerfairy",
+    "Valentines Flower Fairy",
+    ""
   ],
   [
     "clothing_nftfourtail",
@@ -36268,6 +36278,11 @@
     "clothing_nftpinkbikini",
     "Pink Bikini",
     "clothing_nftpinkbikini desc"
+  ],
+  [
+    "clothing_nftpinkhearteyes",
+    "Electric Pink Heart Eyes",
+    ""
   ],
   [
     "clothing_nftpinkheartshades",
@@ -36745,6 +36760,11 @@
     "clothing_nftunicornslippers desc"
   ],
   [
+    "clothing_nftvalentinesrose",
+    "Valentines Rose",
+    ""
+  ],
+  [
     "clothing_nftvivideyes",
     "Lovely Vivid Eyes",
     "clothing_nftvivideyes desc"
@@ -36753,6 +36773,26 @@
     "clothing_nftwhitebeanie",
     "White Ski Beanie",
     "clothing_nftwhitebeanie desc"
+  ],
+  [
+    "clothing_nftwinter1",
+    "Green Subzero Gear",
+    ""
+  ],
+  [
+    "clothing_nftwinter2",
+    "Red Subzero Gear",
+    ""
+  ],
+  [
+    "clothing_nftwinter3",
+    "Brown Subzero Gear",
+    ""
+  ],
+  [
+    "clothing_nftwinter",
+    "Blue Subzero Gear",
+    ""
   ],
   [
     "clothing_nftwinterblack",
@@ -76965,6 +77005,11 @@
     "nft_emerald_emerhand desc"
   ],
   [
+    "nft_emerald_heart_2000",
+    "Emerald Valentines Heart",
+    ""
+  ],
+  [
     "nft_emerald_pumpkin_2000",
     "Emerald Pumpkin (2k Emeralds)",
     "nft_emerald_pumpkin_2000 desc"
@@ -79388,6 +79433,61 @@
     "nft_h25_colltable",
     "Collectors Table",
     "nft_h25_colltable desc"
+  ],
+  [
+    "nft_h25_flowers10",
+    "White Peruvian Lilies",
+    ""
+  ],
+  [
+    "nft_h25_flowers1",
+    "Sunshine Yellow Tulips",
+    ""
+  ],
+  [
+    "nft_h25_flowers2",
+    "Bright Red Tulips",
+    ""
+  ],
+  [
+    "nft_h25_flowers3",
+    "Rich Purple Tulips",
+    ""
+  ],
+  [
+    "nft_h25_flowers4",
+    "Blood Red Roses",
+    ""
+  ],
+  [
+    "nft_h25_flowers5",
+    "Bright Purple Roses",
+    ""
+  ],
+  [
+    "nft_h25_flowers6",
+    "Royal White Roses",
+    ""
+  ],
+  [
+    "nft_h25_flowers7",
+    "White Amaryllis",
+    ""
+  ],
+  [
+    "nft_h25_flowers8",
+    "Purple Amaryllis",
+    ""
+  ],
+  [
+    "nft_h25_flowers9",
+    "Pink Peruvian Lilies",
+    ""
+  ],
+  [
+    "nft_h25_owlsculpture",
+    "Owl Sculpture",
+    ""
   ],
   [
     "nft_habbo15_beehive",
