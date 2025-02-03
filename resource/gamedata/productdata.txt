@@ -2762,7 +2762,7 @@
   [
     "CF_250_goldenchessboard",
     "Golden Chess Board",
-    ""
+    "CF_250_goldenchessboard desc"
   ],
   [
     "CF_250_goldenfloor",
@@ -2897,7 +2897,7 @@
   [
     "CF_500_goldenglobe",
     "Golden Globe",
-    ""
+    "CF_500_goldenglobe desc"
   ],
   [
     "CF_500_goldengoose",
@@ -76510,6 +76510,21 @@
     "nft_arcade_c23_duckhunt desc"
   ],
   [
+    "nft_army15_copter",
+    "nft_army15_copter name",
+    "nft_army15_copter desc"
+  ],
+  [
+    "nft_army15_dog",
+    "nft_army15_dog name",
+    "nft_army15_dog desc"
+  ],
+  [
+    "nft_army15_scanner",
+    "nft_army15_scanner name",
+    "nft_army15_scanner desc"
+  ],
+  [
     "nft_avatar_effect229",
     "Holo Steampunk Effect",
     "NFTRoboHolo_desc"
@@ -76800,6 +76815,16 @@
     "nft_china_light desc"
   ],
   [
+    "nft_cland15_candythrone",
+    "nft_cland15_candythrone name",
+    "nft_cland15_candythrone desc"
+  ],
+  [
+    "nft_cland15_unicorn",
+    "nft_cland15_unicorn name",
+    "nft_cland15_unicorn desc"
+  ],
+  [
     "nft_cland_c15_lollytree",
     "Lollipop Tree",
     "nft_cland_c15_lollytree desc"
@@ -76910,14 +76935,34 @@
     "nft_diamond_painting68 desc"
   ],
   [
+    "nft_diamond_painting69",
+    "nft_diamond_painting69 name",
+    "nft_diamond_painting69 desc"
+  ],
+  [
     "nft_diamond_painting6",
     "$wallitem_diamond_painting6_name$",
     "nft_diamond_painting6 desc"
   ],
   [
+    "nft_diamond_painting70",
+    "nft_diamond_painting70 name",
+    "nft_diamond_painting70 desc"
+  ],
+  [
     "nft_diamond_painting71",
     "$wallitem_diamond_painting71_name$",
     "nft_diamond_painting71 desc"
+  ],
+  [
+    "nft_diamond_painting72",
+    "nft_diamond_painting72 name",
+    "nft_diamond_painting72 desc"
+  ],
+  [
+    "nft_diamond_painting75",
+    "nft_diamond_painting75 name",
+    "nft_diamond_painting75 desc"
   ],
   [
     "nft_diamond_painting82",
@@ -76933,6 +76978,26 @@
     "nft_diamond_throne",
     "nft_diamond_throne name",
     "nft_diamond_throne desc"
+  ],
+  [
+    "nft_dino15_fossil2",
+    "nft_dino15_fossil2 name",
+    "nft_dino15_fossil2 desc"
+  ],
+  [
+    "nft_dino15_fossil3",
+    "nft_dino15_fossil3 name",
+    "nft_dino15_fossil3 desc"
+  ],
+  [
+    "nft_dino15_fossil4",
+    "nft_dino15_fossil4 name",
+    "nft_dino15_fossil4 desc"
+  ],
+  [
+    "nft_dino15_fossil5",
+    "nft_dino15_fossil5 name",
+    "nft_dino15_fossil5 desc"
   ],
   [
     "nft_door_test",
@@ -91271,6 +91336,16 @@
   ],
   [
     "rm_dbl_tto251",
+    "50 per cent Off 50 Credits",
+    "Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person"
+  ],
+  [
+    "rm_dbl_tto252",
+    "50 per cent Off 220 Credits",
+    "Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person"
+  ],
+  [
+    "rm_dbl_tto253",
     "50 per cent Off 50 Credits",
     "Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person"
   ],

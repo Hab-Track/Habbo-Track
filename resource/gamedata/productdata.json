@@ -2764,7 +2764,7 @@
       {
         "code": "CF_250_goldenchessboard",
         "name": "Golden Chess Board",
-        "description": ""
+        "description": "CF_250_goldenchessboard desc"
       },
       {
         "code": "CF_250_goldenfloor",
@@ -2899,7 +2899,7 @@
       {
         "code": "CF_500_goldenglobe",
         "name": "Golden Globe",
-        "description": ""
+        "description": "CF_500_goldenglobe desc"
       },
       {
         "code": "CF_500_goldengoose",
@@ -76512,6 +76512,21 @@
         "description": "nft_arcade_c23_duckhunt desc"
       },
       {
+        "code": "nft_army15_copter",
+        "name": "nft_army15_copter name",
+        "description": "nft_army15_copter desc"
+      },
+      {
+        "code": "nft_army15_dog",
+        "name": "nft_army15_dog name",
+        "description": "nft_army15_dog desc"
+      },
+      {
+        "code": "nft_army15_scanner",
+        "name": "nft_army15_scanner name",
+        "description": "nft_army15_scanner desc"
+      },
+      {
         "code": "nft_avatar_effect229",
         "name": "Holo Steampunk Effect",
         "description": "NFTRoboHolo_desc"
@@ -76802,6 +76817,16 @@
         "description": "nft_china_light desc"
       },
       {
+        "code": "nft_cland15_candythrone",
+        "name": "nft_cland15_candythrone name",
+        "description": "nft_cland15_candythrone desc"
+      },
+      {
+        "code": "nft_cland15_unicorn",
+        "name": "nft_cland15_unicorn name",
+        "description": "nft_cland15_unicorn desc"
+      },
+      {
         "code": "nft_cland_c15_lollytree",
         "name": "Lollipop Tree",
         "description": "nft_cland_c15_lollytree desc"
@@ -76912,14 +76937,34 @@
         "description": "nft_diamond_painting68 desc"
       },
       {
+        "code": "nft_diamond_painting69",
+        "name": "nft_diamond_painting69 name",
+        "description": "nft_diamond_painting69 desc"
+      },
+      {
         "code": "nft_diamond_painting6",
         "name": "$wallitem_diamond_painting6_name$",
         "description": "nft_diamond_painting6 desc"
       },
       {
+        "code": "nft_diamond_painting70",
+        "name": "nft_diamond_painting70 name",
+        "description": "nft_diamond_painting70 desc"
+      },
+      {
         "code": "nft_diamond_painting71",
         "name": "$wallitem_diamond_painting71_name$",
         "description": "nft_diamond_painting71 desc"
+      },
+      {
+        "code": "nft_diamond_painting72",
+        "name": "nft_diamond_painting72 name",
+        "description": "nft_diamond_painting72 desc"
+      },
+      {
+        "code": "nft_diamond_painting75",
+        "name": "nft_diamond_painting75 name",
+        "description": "nft_diamond_painting75 desc"
       },
       {
         "code": "nft_diamond_painting82",
@@ -76935,6 +76980,26 @@
         "code": "nft_diamond_throne",
         "name": "nft_diamond_throne name",
         "description": "nft_diamond_throne desc"
+      },
+      {
+        "code": "nft_dino15_fossil2",
+        "name": "nft_dino15_fossil2 name",
+        "description": "nft_dino15_fossil2 desc"
+      },
+      {
+        "code": "nft_dino15_fossil3",
+        "name": "nft_dino15_fossil3 name",
+        "description": "nft_dino15_fossil3 desc"
+      },
+      {
+        "code": "nft_dino15_fossil4",
+        "name": "nft_dino15_fossil4 name",
+        "description": "nft_dino15_fossil4 desc"
+      },
+      {
+        "code": "nft_dino15_fossil5",
+        "name": "nft_dino15_fossil5 name",
+        "description": "nft_dino15_fossil5 desc"
       },
       {
         "code": "nft_door_test",
@@ -91273,6 +91338,16 @@
       },
       {
         "code": "rm_dbl_tto251",
+        "name": "50 per cent Off 50 Credits",
+        "description": "Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person"
+      },
+      {
+        "code": "rm_dbl_tto252",
+        "name": "50 per cent Off 220 Credits",
+        "description": "Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person"
+      },
+      {
+        "code": "rm_dbl_tto253",
         "name": "50 per cent Off 50 Credits",
         "description": "Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person"
       },
