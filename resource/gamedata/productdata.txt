@@ -31325,6 +31325,16 @@
     ""
   ],
   [
+    "cl_r25_valentinesbride_bd",
+    "Valentines Bride",
+    ""
+  ],
+  [
+    "cl_r25_valentinesgrom_bd",
+    "Valentines Groom",
+    ""
+  ],
+  [
     "cl_sportsponytail_bd",
     "Sports Ponytail",
     ""
@@ -35750,6 +35760,16 @@
     "clothing_nftcandycane desc"
   ],
   [
+    "clothing_nftcfbeanie",
+    "clothing_nftcfbeanie name",
+    "clothing_nftcfbeanie desc"
+  ],
+  [
+    "clothing_nftcfbeaniecol",
+    "clothing_nftcfbeaniecol name",
+    "clothing_nftcfbeaniecol desc"
+  ],
+  [
     "clothing_nftchili1",
     "Mirasol Chilli",
     "clothing_nftchili1 desc"
@@ -36762,7 +36782,7 @@
   [
     "clothing_nftvalentinesrose",
     "Valentines Rose",
-    ""
+    "clothing_nftvalentinesrose desc"
   ],
   [
     "clothing_nftvivideyes",
@@ -36777,22 +36797,22 @@
   [
     "clothing_nftwinter1",
     "Green Subzero Gear",
-    ""
+    "clothing_nftwinter1 desc"
   ],
   [
     "clothing_nftwinter2",
     "Red Subzero Gear",
-    ""
+    "clothing_nftwinter2 desc"
   ],
   [
     "clothing_nftwinter3",
     "Brown Subzero Gear",
-    ""
+    "clothing_nftwinter3 desc"
   ],
   [
     "clothing_nftwinter",
     "Blue Subzero Gear",
-    ""
+    "clothing_nftwinter desc"
   ],
   [
     "clothing_nftwinterblack",
@@ -76520,6 +76540,11 @@
     "nft_army15_dog desc"
   ],
   [
+    "nft_army15_largescreen",
+    "nft_army15_largescreen name",
+    "nft_army15_largescreen desc"
+  ],
+  [
     "nft_army15_scanner",
     "nft_army15_scanner name",
     "nft_army15_scanner desc"
@@ -76920,9 +76945,19 @@
     "nft_diamond_painting38 desc"
   ],
   [
+    "nft_diamond_painting64",
+    "nft_diamond_painting64 name",
+    "nft_diamond_painting64 desc"
+  ],
+  [
     "nft_diamond_painting65",
     "nft_diamond_painting65 name",
     "nft_diamond_painting65 desc"
+  ],
+  [
+    "nft_diamond_painting66",
+    "nft_diamond_painting66 name",
+    "nft_diamond_painting66 desc"
   ],
   [
     "nft_diamond_painting67",
@@ -76958,6 +76993,16 @@
     "nft_diamond_painting72",
     "nft_diamond_painting72 name",
     "nft_diamond_painting72 desc"
+  ],
+  [
+    "nft_diamond_painting73",
+    "nft_diamond_painting73 name",
+    "nft_diamond_painting73 desc"
+  ],
+  [
+    "nft_diamond_painting74",
+    "nft_diamond_painting74 name",
+    "nft_diamond_painting74 desc"
   ],
   [
     "nft_diamond_painting75",
@@ -79502,57 +79547,57 @@
   [
     "nft_h25_flowers10",
     "White Peruvian Lilies",
-    ""
+    "nft_h25_flowers10 desc"
   ],
   [
     "nft_h25_flowers1",
     "Sunshine Yellow Tulips",
-    ""
+    "nft_h25_flowers1 desc"
   ],
   [
     "nft_h25_flowers2",
     "Bright Red Tulips",
-    ""
+    "nft_h25_flowers2 desc"
   ],
   [
     "nft_h25_flowers3",
     "Rich Purple Tulips",
-    ""
+    "nft_h25_flowers3 desc"
   ],
   [
     "nft_h25_flowers4",
     "Blood Red Roses",
-    ""
+    "nft_h25_flowers4 desc"
   ],
   [
     "nft_h25_flowers5",
     "Bright Purple Roses",
-    ""
+    "nft_h25_flowers5 desc"
   ],
   [
     "nft_h25_flowers6",
     "Royal White Roses",
-    ""
+    "nft_h25_flowers6 desc"
   ],
   [
     "nft_h25_flowers7",
     "White Amaryllis",
-    ""
+    "nft_h25_flowers7 desc"
   ],
   [
     "nft_h25_flowers8",
     "Purple Amaryllis",
-    ""
+    "nft_h25_flowers8 desc"
   ],
   [
     "nft_h25_flowers9",
     "Pink Peruvian Lilies",
-    ""
+    "nft_h25_flowers9 desc"
   ],
   [
     "nft_h25_owlsculpture",
     "Owl Sculpture",
-    ""
+    "nft_h25_owlsculpture desc"
   ],
   [
     "nft_habbo15_beehive",
@@ -100983,6 +101028,16 @@
     "scifi_r17_cruiser",
     "Interstellar Cruiser",
     "Space for four space-exploring Habbos."
+  ],
+  [
+    "sculp_r25_doveseat_bd",
+    "Dove Swing",
+    ""
+  ],
+  [
+    "sculp_r25_dragonfounta_bd",
+    "Dragon Fountain",
+    ""
   ],
   [
     "sculptures_c25_fox_bd",
