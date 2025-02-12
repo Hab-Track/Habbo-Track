@@ -40152,6 +40152,16 @@
         "description": "clothing_r24_xmastreebackpack desc"
       },
       {
+        "code": "clothing_r25_curlyponytail",
+        "name": "clothing_r25_curlyponytail name",
+        "description": "clothing_r25_curlyponytail desc"
+      },
+      {
+        "code": "clothing_r25_froggybackpack",
+        "name": "clothing_r25_froggybackpack name",
+        "description": "clothing_r25_froggybackpack desc"
+      },
+      {
         "code": "clothing_r25_goosefriend",
         "name": "clothing_r25_goosefriend name",
         "description": "clothing_r25_goosefriend desc"
@@ -40160,6 +40170,11 @@
         "code": "clothing_r25_poshwaistcoat",
         "name": "clothing_r25_poshwaistcoat name",
         "description": "clothing_r25_poshwaistcoat desc"
+      },
+      {
+        "code": "clothing_r25_redpandabag",
+        "name": "clothing_r25_redpandabag name",
+        "description": "clothing_r25_redpandabag desc"
       },
       {
         "code": "clothing_r25_valentinesbride",
@@ -40805,6 +40820,11 @@
         "code": "clothing_techpants",
         "name": "Cargo Pants",
         "description": "clothing_techpants desc"
+      },
+      {
+        "code": "clothing_teddycompanion",
+        "name": "clothing_teddycompanion name",
+        "description": "clothing_teddycompanion desc"
       },
       {
         "code": "clothing_tentaclehead",
@@ -59870,6 +59890,91 @@
         "code": "g0 group_product",
         "name": "group product",
         "description": "A group product"
+      },
+      {
+        "code": "gacha_c25_duck",
+        "name": "gacha_c25_duck name",
+        "description": "gacha_c25_duck desc"
+      },
+      {
+        "code": "gacha_c25_gachamachine",
+        "name": "gacha_c25_gachamachine name",
+        "description": "gacha_c25_gachamachine desc"
+      },
+      {
+        "code": "gacha_c25_gachamachineb",
+        "name": "gacha_c25_gachamachineb name",
+        "description": "gacha_c25_gachamachineb desc"
+      },
+      {
+        "code": "gacha_c25_hyena",
+        "name": "gacha_c25_hyena name",
+        "description": "gacha_c25_hyena desc"
+      },
+      {
+        "code": "gacha_c25_octopus",
+        "name": "gacha_c25_octopus name",
+        "description": "gacha_c25_octopus desc"
+      },
+      {
+        "code": "gacha_c25_owl",
+        "name": "gacha_c25_owl name",
+        "description": "gacha_c25_owl desc"
+      },
+      {
+        "code": "gacha_c25_royalduck",
+        "name": "gacha_c25_royalduck name",
+        "description": "gacha_c25_royalduck desc"
+      },
+      {
+        "code": "gacha_c25_royalgacha",
+        "name": "gacha_c25_royalgacha name",
+        "description": "gacha_c25_royalgacha desc"
+      },
+      {
+        "code": "gacha_c25_royalgachab",
+        "name": "gacha_c25_royalgachab name",
+        "description": "gacha_c25_royalgachab desc"
+      },
+      {
+        "code": "gacha_c25_royalhyena",
+        "name": "gacha_c25_royalhyena name",
+        "description": "gacha_c25_royalhyena desc"
+      },
+      {
+        "code": "gacha_c25_royaloctopus",
+        "name": "gacha_c25_royaloctopus name",
+        "description": "gacha_c25_royaloctopus desc"
+      },
+      {
+        "code": "gacha_c25_royalowl",
+        "name": "gacha_c25_royalowl name",
+        "description": "gacha_c25_royalowl desc"
+      },
+      {
+        "code": "gacha_c25_royalsheep",
+        "name": "gacha_c25_royalsheep name",
+        "description": "gacha_c25_royalsheep desc"
+      },
+      {
+        "code": "gacha_c25_royaltiger",
+        "name": "gacha_c25_royaltiger name",
+        "description": "gacha_c25_royaltiger desc"
+      },
+      {
+        "code": "gacha_c25_sheep",
+        "name": "gacha_c25_sheep name",
+        "description": "gacha_c25_sheep desc"
+      },
+      {
+        "code": "gacha_c25_tiger",
+        "name": "gacha_c25_tiger name",
+        "description": "gacha_c25_tiger desc"
+      },
+      {
+        "code": "gacha_r25_teddyking",
+        "name": "gacha_r25_teddyking name",
+        "description": "gacha_r25_teddyking desc"
       },
       {
         "code": "gaming_c18_chairpro",
@@ -79262,6 +79367,11 @@
         "description": "nft_h24_cb_cpu desc"
       },
       {
+        "code": "nft_h24_cb_dp22",
+        "name": "nft_h24_cb_dp22 name",
+        "description": "nft_h24_cb_dp22 desc"
+      },
+      {
         "code": "nft_h24_cb_forge",
         "name": "Curator’s Forge",
         "description": "nft_h24_cb_forge desc"
@@ -79295,6 +79405,11 @@
         "code": "nft_h24_cb_partners22",
         "name": "Habbo Partners 2022 Trophy",
         "description": "nft_h24_cb_partners22 desc"
+      },
+      {
+        "code": "nft_h24_cb_pillars1",
+        "name": "nft_h24_cb_pillars1 name",
+        "description": "nft_h24_cb_pillars1 desc"
       },
       {
         "code": "nft_h24_cb_pillows1",
