@@ -14128,7 +14128,7 @@
       },
       {
         "code": "avatar_effect48",
-        "name": "",
+        "name": "Car Doggy",
         "description": ""
       },
       {
@@ -94033,12 +94033,12 @@
       },
       {
         "code": "room_switcher1",
-        "name": "room_switcher1 name",
+        "name": "Circular Room Switcher",
         "description": "room_switcher1 desc"
       },
       {
         "code": "room_switcher2",
-        "name": "room_switcher2 name",
+        "name": "Arrow Room Switcher",
         "description": "room_switcher2 desc"
       },
       {
@@ -105657,6 +105657,36 @@
         "description": "Stack Magic Tile"
       },
       {
+        "code": "tile_walkmagic1x2",
+        "name": "1x2 Walk Magic Tile",
+        "description": ""
+      },
+      {
+        "code": "tile_walkmagic1x4",
+        "name": "1x4 Walk Magic Tile",
+        "description": ""
+      },
+      {
+        "code": "tile_walkmagic1x8",
+        "name": "1x8 Walk Magic Tile",
+        "description": ""
+      },
+      {
+        "code": "tile_walkmagic2x2",
+        "name": "2x2 Walk Magic Tile",
+        "description": ""
+      },
+      {
+        "code": "tile_walkmagic4x4",
+        "name": "4x4 Walk Magic Tile",
+        "description": ""
+      },
+      {
+        "code": "tile_walkmagic8x8",
+        "name": "8x8 Walk Magic Tile",
+        "description": ""
+      },
+      {
         "code": "tile_walkmagic",
         "name": "Walk Magic Tile",
         "description": "tile_walkmagic desc"
@@ -110938,7 +110968,7 @@
       },
       {
         "code": "wf_act_teleport_to_room",
-        "name": "wf_act_teleport_to_room name",
+        "name": "WIRED Effect: Teleport to Room",
         "description": "wf_act_teleport_to_room desc"
       },
       {
@@ -111348,7 +111378,7 @@
       },
       {
         "code": "wf_room_linker",
-        "name": "wf_room_linker name",
+        "name": "WIRED Room Linker",
         "description": "wf_room_linker desc"
       },
       {
@@ -111522,6 +111552,11 @@
         "description": "wf_trg_click_tile desc"
       },
       {
+        "code": "wf_trg_click_user",
+        "name": "WIRED Trigger: User clicks User",
+        "description": ""
+      },
+      {
         "code": "wf_trg_clock_counter",
         "name": "Wired Trigger: Counter Reaches Set Time",
         "description": "wf_trg_clock_counter desc"
@@ -111642,9 +111677,24 @@
         "description": "wf_var_context desc"
       },
       {
+        "code": "wf_var_echo",
+        "name": "WIRED Variable: Echo",
+        "description": ""
+      },
+      {
         "code": "wf_var_furni",
         "name": "WIRED Variable: Furni Variable",
         "description": "wf_var_furni desc"
+      },
+      {
+        "code": "wf_var_quest_chain",
+        "name": "WIRED Variable: Quest Chain",
+        "description": ""
+      },
+      {
+        "code": "wf_var_quest",
+        "name": "WIRED Variable: Quest",
+        "description": ""
       },
       {
         "code": "wf_var_reference",
@@ -111762,9 +111812,19 @@
         "description": "Only one previously unused Effect in this stack is triggered at a time."
       },
       {
+        "code": "wf_xtra_var_lvlup_system",
+        "name": "Variable Add-on: Level-up System",
+        "description": ""
+      },
+      {
         "code": "wf_xtra_var_text_connector",
         "name": "Variable Add-on: Text Connector",
         "description": "wf_xtra_var_text_connector desc"
+      },
+      {
+        "code": "wf_xtra_var_time_util",
+        "name": "Variable Add-on: Time Utilities",
+        "description": ""
       },
       {
         "code": "white diner_bardesk_corner",

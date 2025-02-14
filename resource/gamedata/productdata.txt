@@ -14126,7 +14126,7 @@
   ],
   [
     "avatar_effect48",
-    "",
+    "Car Doggy",
     ""
   ],
   [
@@ -94031,12 +94031,12 @@
   ],
   [
     "room_switcher1",
-    "room_switcher1 name",
+    "Circular Room Switcher",
     "room_switcher1 desc"
   ],
   [
     "room_switcher2",
-    "room_switcher2 name",
+    "Arrow Room Switcher",
     "room_switcher2 desc"
   ],
   [
@@ -105655,6 +105655,36 @@
     "Stack Magic Tile"
   ],
   [
+    "tile_walkmagic1x2",
+    "1x2 Walk Magic Tile",
+    ""
+  ],
+  [
+    "tile_walkmagic1x4",
+    "1x4 Walk Magic Tile",
+    ""
+  ],
+  [
+    "tile_walkmagic1x8",
+    "1x8 Walk Magic Tile",
+    ""
+  ],
+  [
+    "tile_walkmagic2x2",
+    "2x2 Walk Magic Tile",
+    ""
+  ],
+  [
+    "tile_walkmagic4x4",
+    "4x4 Walk Magic Tile",
+    ""
+  ],
+  [
+    "tile_walkmagic8x8",
+    "8x8 Walk Magic Tile",
+    ""
+  ],
+  [
     "tile_walkmagic",
     "Walk Magic Tile",
     "tile_walkmagic desc"
@@ -110936,7 +110966,7 @@
   ],
   [
     "wf_act_teleport_to_room",
-    "wf_act_teleport_to_room name",
+    "WIRED Effect: Teleport to Room",
     "wf_act_teleport_to_room desc"
   ],
   [
@@ -111346,7 +111376,7 @@
   ],
   [
     "wf_room_linker",
-    "wf_room_linker name",
+    "WIRED Room Linker",
     "wf_room_linker desc"
   ],
   [
@@ -111520,6 +111550,11 @@
     "wf_trg_click_tile desc"
   ],
   [
+    "wf_trg_click_user",
+    "WIRED Trigger: User clicks User",
+    ""
+  ],
+  [
     "wf_trg_clock_counter",
     "Wired Trigger: Counter Reaches Set Time",
     "wf_trg_clock_counter desc"
@@ -111640,9 +111675,24 @@
     "wf_var_context desc"
   ],
   [
+    "wf_var_echo",
+    "WIRED Variable: Echo",
+    ""
+  ],
+  [
     "wf_var_furni",
     "WIRED Variable: Furni Variable",
     "wf_var_furni desc"
+  ],
+  [
+    "wf_var_quest_chain",
+    "WIRED Variable: Quest Chain",
+    ""
+  ],
+  [
+    "wf_var_quest",
+    "WIRED Variable: Quest",
+    ""
   ],
   [
     "wf_var_reference",
@@ -111760,9 +111810,19 @@
     "Only one previously unused Effect in this stack is triggered at a time."
   ],
   [
+    "wf_xtra_var_lvlup_system",
+    "Variable Add-on: Level-up System",
+    ""
+  ],
+  [
     "wf_xtra_var_text_connector",
     "Variable Add-on: Text Connector",
     "wf_xtra_var_text_connector desc"
+  ],
+  [
+    "wf_xtra_var_time_util",
+    "Variable Add-on: Time Utilities",
+    ""
   ],
   [
     "white diner_bardesk_corner",
