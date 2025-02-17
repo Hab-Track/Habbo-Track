@@ -40,6 +40,311 @@
     ""
   ],
   [
+    "t_A0_rarexmasscreen",
+    "",
+    ""
+  ],
+  [
+    "t_Christmas_Reindeer_Rare",
+    "",
+    ""
+  ],
+  [
+    "t_a0_pillow",
+    "",
+    ""
+  ],
+  [
+    "t_a0_snowrug",
+    "",
+    ""
+  ],
+  [
+    "t_a10_pillar",
+    "",
+    ""
+  ],
+  [
+    "t_a11_pillow",
+    "",
+    ""
+  ],
+  [
+    "t_a4_pillar",
+    "",
+    ""
+  ],
+  [
+    "t_a4_pillow",
+    "",
+    ""
+  ],
+  [
+    "t_a5_pillar",
+    "",
+    ""
+  ],
+  [
+    "t_a5_pillow",
+    "",
+    ""
+  ],
+  [
+    "t_a9_pillar",
+    "",
+    ""
+  ],
+  [
+    "t_a9_pillow",
+    "",
+    ""
+  ],
+  [
+    "t_army15_copter",
+    "",
+    ""
+  ],
+  [
+    "t_army15_dog",
+    "",
+    ""
+  ],
+  [
+    "t_army15_largescreen",
+    "",
+    ""
+  ],
+  [
+    "t_army15_scanner",
+    "",
+    ""
+  ],
+  [
+    "t_cland15_candythrone",
+    "",
+    ""
+  ],
+  [
+    "t_cland15_unicorn",
+    "",
+    ""
+  ],
+  [
+    "t_diamond_painting64",
+    "",
+    ""
+  ],
+  [
+    "t_diamond_painting65",
+    "",
+    ""
+  ],
+  [
+    "t_diamond_painting66",
+    "",
+    ""
+  ],
+  [
+    "t_diamond_painting68",
+    "",
+    ""
+  ],
+  [
+    "t_diamond_painting69",
+    "",
+    ""
+  ],
+  [
+    "t_diamond_painting70",
+    "",
+    ""
+  ],
+  [
+    "t_diamond_painting72",
+    "",
+    ""
+  ],
+  [
+    "t_diamond_painting73",
+    "",
+    ""
+  ],
+  [
+    "t_diamond_painting74",
+    "",
+    ""
+  ],
+  [
+    "t_diamond_painting75",
+    "",
+    ""
+  ],
+  [
+    "t_diamond_throne",
+    "",
+    ""
+  ],
+  [
+    "t_dino15_fossil2",
+    "",
+    ""
+  ],
+  [
+    "t_dino15_fossil3",
+    "",
+    ""
+  ],
+  [
+    "t_dino15_fossil4",
+    "",
+    ""
+  ],
+  [
+    "t_dino15_fossil5",
+    "",
+    ""
+  ],
+  [
+    "t_easter_r19_mysticalbird",
+    "",
+    ""
+  ],
+  [
+    "t_easter_r19_treeswing",
+    "",
+    ""
+  ],
+  [
+    "t_gold_c15_arc_statue",
+    "",
+    ""
+  ],
+  [
+    "t_ktchn15_bubblejuicerack",
+    "",
+    ""
+  ],
+  [
+    "t_ktchn15_cabinet",
+    "",
+    ""
+  ],
+  [
+    "t_ny16_stars",
+    "",
+    ""
+  ],
+  [
+    "t_qt_xm10_ice_fish",
+    "",
+    ""
+  ],
+  [
+    "t_qt_xm10_iceclubsofa",
+    "",
+    ""
+  ],
+  [
+    "t_qt_xm10_icedragon",
+    "",
+    ""
+  ],
+  [
+    "t_qt_xm10_iceelephant",
+    "",
+    ""
+  ],
+  [
+    "t_qt_xm10_icepillar",
+    "",
+    ""
+  ],
+  [
+    "t_qt_xm10_trex",
+    "",
+    ""
+  ],
+  [
+    "t_rare_r19_car1",
+    "",
+    ""
+  ],
+  [
+    "t_rare_royalchair",
+    "",
+    ""
+  ],
+  [
+    "t_rclr_sofa",
+    "",
+    ""
+  ],
+  [
+    "t_val_r19_bath",
+    "",
+    ""
+  ],
+  [
+    "t_val_r19_puppy",
+    "",
+    ""
+  ],
+  [
+    "t_val_r19_recordplayer",
+    "",
+    ""
+  ],
+  [
+    "t_val_r19_sofa",
+    "",
+    ""
+  ],
+  [
+    "t_xm09_cocoa",
+    "",
+    ""
+  ],
+  [
+    "t_xmas11_btlr",
+    "",
+    ""
+  ],
+  [
+    "t_xmas11_throne",
+    "",
+    ""
+  ],
+  [
+    "t_xmas12_nutcracker",
+    "",
+    ""
+  ],
+  [
+    "t_xmas14_sharkthrone",
+    "",
+    ""
+  ],
+  [
+    "t_xmas15_clocktower",
+    "",
+    ""
+  ],
+  [
+    "t_xmas15_rudolf",
+    "",
+    ""
+  ],
+  [
+    "t_xmas15_sleigh",
+    "",
+    ""
+  ],
+  [
+    "t_xmas15_stand",
+    "",
+    ""
+  ],
+  [
     "re_dragonlamp*11",
     "",
     ""
@@ -75796,7 +76101,7 @@
   ],
   [
     "nft_A0_rarexmasscreen",
-    "Lappland Greetings",
+    "$furni_rare_xmas_screen_name$",
     "Ho Ho Ho!"
   ],
   [
@@ -75896,7 +76201,7 @@
   ],
   [
     "nft_Christmas_Reindeer_Rare",
-    "Reindeer",
+    "$furni_christmas_reindeer_name$",
     "Stuffed animal on wheels"
   ],
   [
@@ -76076,7 +76381,7 @@
   ],
   [
     "nft_a0_pillow",
-    "Pillow - snow",
+    "$furni_pillow*0_name$",
     "Comfort with style"
   ],
   [
@@ -76151,7 +76456,7 @@
   ],
   [
     "nft_a0_snowrug",
-    "Snow Rug",
+    "$furni_rare_snowrug_name$",
     "null"
   ],
   [
@@ -76191,7 +76496,7 @@
   ],
   [
     "nft_a10_pillar",
-    "Pillar - olive",
+    "$furni_pillar*8_name$",
     "Corinthian coolness"
   ],
   [
@@ -76251,7 +76556,7 @@
   ],
   [
     "nft_a11_pillow",
-    "Pillow - grass",
+    "$furni_pillow*9_name$",
     "Comfort with style"
   ],
   [
@@ -76451,12 +76756,12 @@
   ],
   [
     "nft_a4_pillar",
-    "Pillar - mahogany",
+    "$furni_pillar*2_name$",
     "Corinthian coolness"
   ],
   [
     "nft_a4_pillow",
-    "Pillow - red",
+    "$furni_pillow*2_name$",
     "Comfort with style"
   ],
   [
@@ -76511,12 +76816,12 @@
   ],
   [
     "nft_a5_pillar",
-    "Pillar - blue",
+    "$furni_pillar*3_name$",
     "Corinthian coolness"
   ],
   [
     "nft_a5_pillow",
-    "Pillow - aqua",
+    "$furni_pillow*3_name$",
     "Comfort with style"
   ],
   [
@@ -76751,12 +77056,12 @@
   ],
   [
     "nft_a9_pillar",
-    "Pillar - gold",
+    "$furni_pillar*7_name$",
     "Corinthian coolness"
   ],
   [
     "nft_a9_pillow",
-    "Pillow - purple",
+    "$furni_pillow*7_name$",
     "Comfort with style"
   ],
   [
@@ -76801,22 +77106,22 @@
   ],
   [
     "nft_army15_copter",
-    "nft_army15_copter name",
+    "$furni_army15_copter_name$",
     "nft_army15_copter desc"
   ],
   [
     "nft_army15_dog",
-    "nft_army15_dog name",
+    "$furni_army15_dog_name$",
     "nft_army15_dog desc"
   ],
   [
     "nft_army15_largescreen",
-    "nft_army15_largescreen name",
+    "$wallitem_army15_largescreen_name$",
     "nft_army15_largescreen desc"
   ],
   [
     "nft_army15_scanner",
-    "nft_army15_scanner name",
+    "$furni_army15_scanner_name$",
     "nft_army15_scanner desc"
   ],
   [
@@ -77216,12 +77521,12 @@
   ],
   [
     "nft_cland15_candythrone",
-    "nft_cland15_candythrone name",
+    "$furni_cland15_candythrone_name$",
     "nft_cland15_candythrone desc"
   ],
   [
     "nft_cland15_unicorn",
-    "nft_cland15_unicorn name",
+    "$furni_cland15_unicorn_name$",
     "nft_cland15_unicorn desc"
   ],
   [
@@ -77321,17 +77626,17 @@
   ],
   [
     "nft_diamond_painting64",
-    "nft_diamond_painting64 name",
+    "$wallitem_diamond_painting64_name$",
     "nft_diamond_painting64 desc"
   ],
   [
     "nft_diamond_painting65",
-    "nft_diamond_painting65 name",
+    "$wallitem_diamond_painting65_name$",
     "nft_diamond_painting65 desc"
   ],
   [
     "nft_diamond_painting66",
-    "nft_diamond_painting66 name",
+    "$wallitem_diamond_painting66_name$",
     "nft_diamond_painting66 desc"
   ],
   [
@@ -77341,12 +77646,12 @@
   ],
   [
     "nft_diamond_painting68",
-    "nft_diamond_painting68 name",
+    "$wallitem_diamond_painting68_name$",
     "nft_diamond_painting68 desc"
   ],
   [
     "nft_diamond_painting69",
-    "nft_diamond_painting69 name",
+    "$furni_diamond_painting69_name$",
     "nft_diamond_painting69 desc"
   ],
   [
@@ -77356,7 +77661,7 @@
   ],
   [
     "nft_diamond_painting70",
-    "nft_diamond_painting70 name",
+    "$furni_diamond_painting70_name$",
     "nft_diamond_painting70 desc"
   ],
   [
@@ -77366,22 +77671,22 @@
   ],
   [
     "nft_diamond_painting72",
-    "nft_diamond_painting72 name",
+    "$furni_diamond_painting72_name$",
     "nft_diamond_painting72 desc"
   ],
   [
     "nft_diamond_painting73",
-    "nft_diamond_painting73 name",
+    "$wallitem_diamond_painting73_name$",
     "nft_diamond_painting73 desc"
   ],
   [
     "nft_diamond_painting74",
-    "nft_diamond_painting74 name",
+    "$wallitem_diamond_painting74_name$",
     "nft_diamond_painting74 desc"
   ],
   [
     "nft_diamond_painting75",
-    "nft_diamond_painting75 name",
+    "$furni_diamond_painting75_name$",
     "nft_diamond_painting75 desc"
   ],
   [
@@ -77396,27 +77701,27 @@
   ],
   [
     "nft_diamond_throne",
-    "nft_diamond_throne name",
+    "$furni_diamond_throne_name$",
     "nft_diamond_throne desc"
   ],
   [
     "nft_dino15_fossil2",
-    "nft_dino15_fossil2 name",
+    "$furni_dino15_fossil2_name$",
     "nft_dino15_fossil2 desc"
   ],
   [
     "nft_dino15_fossil3",
-    "nft_dino15_fossil3 name",
+    "$furni_dino15_fossil3_name$",
     "nft_dino15_fossil3 desc"
   ],
   [
     "nft_dino15_fossil4",
-    "nft_dino15_fossil4 name",
+    "$furni_dino15_fossil4_name$",
     "nft_dino15_fossil4 desc"
   ],
   [
     "nft_dino15_fossil5",
-    "nft_dino15_fossil5 name",
+    "$furni_dino15_fossil5_name$",
     "nft_dino15_fossil5 desc"
   ],
   [
@@ -77431,12 +77736,12 @@
   ],
   [
     "nft_easter_r19_mysticalbird",
-    "nft_easter_r19_mysticalbird name",
+    "$furni_easter_r19_mysticalbird_name$",
     "nft_easter_r19_mysticalbird desc"
   ],
   [
     "nft_easter_r19_treeswing",
-    "nft_easter_r19_treeswing name",
+    "$furni_easter_r19_treeswing_name$",
     "nft_easter_r19_treeswing desc"
   ],
   [
@@ -77911,7 +78216,7 @@
   ],
   [
     "nft_gold_c15_arc_statue",
-    "nft_gold_c15_arc_statue name",
+    "$furni_gold_c15_arc_statue_name$",
     "nft_gold_c15_arc_statue desc"
   ],
   [
@@ -80121,12 +80426,12 @@
   ],
   [
     "nft_ktchn15_bubblejuicerack",
-    "nft_ktchn15_bubblejuicerack name",
+    "$furni_ktchn15_bubblejuicerack_name$",
     "nft_ktchn15_bubblejuicerack desc"
   ],
   [
     "nft_ktchn15_cabinet",
-    "nft_ktchn15_cabinet name",
+    "$furni_ktchn15_cabinet_name$",
     "nft_ktchn15_cabinet desc"
   ],
   [
@@ -80221,7 +80526,7 @@
   ],
   [
     "nft_ny16_stars",
-    "nft_ny16_stars name",
+    "$furni_ny16_stars_name$",
     "nft_ny16_stars desc"
   ],
   [
@@ -80241,32 +80546,32 @@
   ],
   [
     "nft_qt_xm10_ice_fish",
-    "nft_qt_xm10_ice_fish name",
+    "$furni_qt_xm10_ice_fish_name$",
     "nft_qt_xm10_ice_fish desc"
   ],
   [
     "nft_qt_xm10_iceclubsofa",
-    "nft_qt_xm10_iceclubsofa name",
+    "$furni_qt_xm10_iceclubsofa_name$",
     "nft_qt_xm10_iceclubsofa desc"
   ],
   [
     "nft_qt_xm10_icedragon",
-    "nft_qt_xm10_icedragon name",
+    "$furni_qt_xm10_icedragon_name$",
     "nft_qt_xm10_icedragon desc"
   ],
   [
     "nft_qt_xm10_iceelephant",
-    "nft_qt_xm10_iceelephant name",
+    "$furni_qt_xm10_iceelephant_name$",
     "nft_qt_xm10_iceelephant desc"
   ],
   [
     "nft_qt_xm10_icepillar",
-    "nft_qt_xm10_icepillar name",
+    "$furni_qt_xm10_icepillar_name$",
     "nft_qt_xm10_icepillar desc"
   ],
   [
     "nft_qt_xm10_trex",
-    "nft_qt_xm10_trex name",
+    "$furni_qt_xm10_trex_name$",
     "nft_qt_xm10_trex desc"
   ],
   [
@@ -80546,12 +80851,12 @@
   ],
   [
     "nft_rare_r19_car1",
-    "nft_rare_r19_car1 name",
+    "$furni_rare_r19_car1_name$",
     "nft_rare_r19_car1 desc"
   ],
   [
     "nft_rare_royalchair",
-    "nft_rare_royalchair name",
+    "$furni_rare_royalchair_name$",
     "nft_rare_royalchair desc"
   ],
   [
@@ -80566,7 +80871,7 @@
   ],
   [
     "nft_rclr_sofa",
-    "Polar Sofa",
+    "$furni_rclr_sofa_name$",
     "Snuggle up together"
   ],
   [
@@ -80791,22 +81096,22 @@
   ],
   [
     "nft_val_r19_bath",
-    "nft_val_r19_bath name",
+    "$furni_val_r19_bath_name$",
     "nft_val_r19_bath desc"
   ],
   [
     "nft_val_r19_puppy",
-    "nft_val_r19_puppy name",
+    "$furni_val_r19_puppy_name$",
     "nft_val_r19_puppy desc"
   ],
   [
     "nft_val_r19_recordplayer",
-    "nft_val_r19_recordplayer name",
+    "$furni_val_r19_recordplayer_name$",
     "nft_val_r19_recordplayer desc"
   ],
   [
     "nft_val_r19_sofa",
-    "nft_val_r19_sofa name",
+    "$furni_val_r19_sofa_name$",
     "nft_val_r19_sofa desc"
   ],
   [
@@ -80821,47 +81126,47 @@
   ],
   [
     "nft_xm09_cocoa",
-    "nft_xm09_cocoa",
+    "$furni_xm09_cocoa_name$",
     "get some hot chocolade"
   ],
   [
     "nft_xmas11_btlr",
-    "nft_xmas11_btlr name",
+    "$furni_xmas11_btlr_name$",
     "nft_xmas11_btlr desc"
   ],
   [
     "nft_xmas11_throne",
-    "nft_xmas11_throne name",
+    "$furni_xmas11_throne_name$",
     "nft_xmas11_throne desc"
   ],
   [
     "nft_xmas12_nutcracker",
-    "nft_xmas12_nutcracker name",
+    "$furni_xmas12_nutcracker_name$",
     "nft_xmas12_nutcracker desc"
   ],
   [
     "nft_xmas14_sharkthrone",
-    "nft_xmas14_sharkthrone name",
+    "$furni_xmas14_sharkthrone_name$",
     "nft_xmas14_sharkthrone desc"
   ],
   [
     "nft_xmas15_clocktower",
-    "nft_xmas15_clocktower name",
+    "$furni_xmas15_clocktower_name$",
     "nft_xmas15_clocktower desc"
   ],
   [
     "nft_xmas15_rudolf",
-    "nft_xmas15_rudolf name",
+    "$furni_xmas15_rudolf_name$",
     "nft_xmas15_rudolf desc"
   ],
   [
     "nft_xmas15_sleigh",
-    "nft_xmas15_sleigh name",
+    "$furni_xmas15_sleigh_name$",
     "nft_xmas15_sleigh desc"
   ],
   [
     "nft_xmas15_stand",
-    "nft_xmas15_stand name",
+    "$furni_xmas15_stand_name$",
     "nft_xmas15_stand desc"
   ],
   [
