@@ -33607,6 +33607,11 @@
         "description": "clothing_cobra desc"
       },
       {
+        "code": "clothing_colornftcfbeanie",
+        "name": "Colourable Cotton Beanie",
+        "description": ""
+      },
+      {
         "code": "clothing_conductoroutfit",
         "name": "Conducter Outfit",
         "description": "clothing_conductoroutfit desc"
@@ -35868,22 +35873,22 @@
       },
       {
         "code": "clothing_nftabcd",
-        "name": "clothing_nftabcd name",
+        "name": "ABCD Print",
         "description": "clothing_nftabcd desc"
       },
       {
         "code": "clothing_nftafk",
-        "name": "clothing_nftafk name",
+        "name": "AFK Print",
         "description": "clothing_nftafk desc"
       },
       {
         "code": "clothing_nftanime",
-        "name": "clothing_nftanime name",
+        "name": "Anime Print",
         "description": "clothing_nftanime desc"
       },
       {
         "code": "clothing_nftantagonist",
-        "name": "clothing_nftantagonist name",
+        "name": "Antagonist Face",
         "description": "clothing_nftantagonist desc"
       },
       {
@@ -36068,7 +36073,7 @@
       },
       {
         "code": "clothing_nftbrat",
-        "name": "clothing_nftbrat name",
+        "name": "Brat Print",
         "description": "clothing_nftbrat desc"
       },
       {
@@ -36083,7 +36088,7 @@
       },
       {
         "code": "clothing_nftbronzeskin",
-        "name": "clothing_nftbronzeskin name",
+        "name": "Bronze Skin",
         "description": "clothing_nftbronzeskin desc"
       },
       {
@@ -36103,17 +36108,17 @@
       },
       {
         "code": "clothing_nftcartoonhero",
-        "name": "clothing_nftcartoonhero name",
+        "name": "Cartoon Hero Face",
         "description": "clothing_nftcartoonhero desc"
       },
       {
         "code": "clothing_nftcartoonheroine",
-        "name": "clothing_nftcartoonheroine name",
+        "name": "Cartoon Heroine Face",
         "description": "clothing_nftcartoonheroine desc"
       },
       {
         "code": "clothing_nftcfbeanie",
-        "name": "clothing_nftcfbeanie name",
+        "name": "Plain Cotton Beanie",
         "description": "clothing_nftcfbeanie desc"
       },
       {
@@ -36158,37 +36163,37 @@
       },
       {
         "code": "clothing_nftcolorbandana",
-        "name": "clothing_nftcolorbandana name",
+        "name": "Colourable Silk Bandana",
         "description": "clothing_nftcolorbandana desc"
       },
       {
         "code": "clothing_nftcolorshirt",
-        "name": "clothing_nftcolorshirt name",
+        "name": "Colourable Cotton Shirt",
         "description": "clothing_nftcolorshirt desc"
       },
       {
         "code": "clothing_nftcolorshirtribbon",
-        "name": "clothing_nftcolorshirtribbon name",
+        "name": "Colourable Cotton Shirt with Ribbon",
         "description": "clothing_nftcolorshirtribbon desc"
       },
       {
         "code": "clothing_nftcolorshirtwatch",
-        "name": "clothing_nftcolorshirtwatch name",
+        "name": "Colourable Cotton Shirt with Watch",
         "description": "clothing_nftcolorshirtwatch desc"
       },
       {
         "code": "clothing_nftcolorsneakers2",
-        "name": "clothing_nftcolorsneakers2 name",
+        "name": "Colourable Sneakers #2",
         "description": "clothing_nftcolorsneakers2 desc"
       },
       {
         "code": "clothing_nftcolorsneakers",
-        "name": "clothing_nftcolorsneakers name",
+        "name": "Colourable Sneakers #1",
         "description": "clothing_nftcolorsneakers desc"
       },
       {
         "code": "clothing_nftcolorwidebrim",
-        "name": "clothing_nftcolorwidebrim name",
+        "name": "Colourable wide-brim hat",
         "description": "clothing_nftcolorwidebrim desc"
       },
       {
@@ -36368,7 +36373,7 @@
       },
       {
         "code": "clothing_nftgameover",
-        "name": "clothing_nftgameover name",
+        "name": "Game Over Print",
         "description": "clothing_nftgameover desc"
       },
       {
@@ -36398,7 +36403,7 @@
       },
       {
         "code": "clothing_nftgoldskin",
-        "name": "clothing_nftgoldskin name",
+        "name": "Gold Skin",
         "description": "clothing_nftgoldskin desc"
       },
       {
@@ -36463,7 +36468,7 @@
       },
       {
         "code": "clothing_nfthaha",
-        "name": "clothing_nfthaha name",
+        "name": "HAHA Print",
         "description": "clothing_nfthaha desc"
       },
       {
@@ -36473,7 +36478,7 @@
       },
       {
         "code": "clothing_nfthiphop",
-        "name": "clothing_nfthiphop name",
+        "name": "Hip Hop Print",
         "description": "clothing_nfthiphop desc"
       },
       {
@@ -36523,17 +36528,17 @@
       },
       {
         "code": "clothing_nftking",
-        "name": "clothing_nftking name",
+        "name": "King Print",
         "description": "clothing_nftking desc"
       },
       {
         "code": "clothing_nftkpop",
-        "name": "clothing_nftkpop name",
+        "name": "K-pop Print",
         "description": "clothing_nftkpop desc"
       },
       {
         "code": "clothing_nftleatherwidebrim",
-        "name": "clothing_nftleatherwidebrim name",
+        "name": "Leather wide-brim hat",
         "description": "clothing_nftleatherwidebrim desc"
       },
       {
@@ -36643,7 +36648,7 @@
       },
       {
         "code": "clothing_nftmythichair",
-        "name": "clothing_nftmythichair name",
+        "name": "Mythic Tufts",
         "description": "clothing_nftmythichair desc"
       },
       {
@@ -36658,12 +36663,12 @@
       },
       {
         "code": "clothing_nftnoob",
-        "name": "clothing_nftnoob name",
+        "name": "Noob Print",
         "description": "clothing_nftnoob desc"
       },
       {
         "code": "clothing_nftnpc",
-        "name": "clothing_nftnpc name",
+        "name": "NPC Print",
         "description": "clothing_nftnpc desc"
       },
       {
@@ -36768,7 +36773,7 @@
       },
       {
         "code": "clothing_nftplainshirt",
-        "name": "clothing_nftplainshirt name",
+        "name": "Plain Cotton Shirt",
         "description": "clothing_nftplainshirt desc"
       },
       {
@@ -36793,7 +36798,7 @@
       },
       {
         "code": "clothing_nftqueen",
-        "name": "clothing_nftqueen name",
+        "name": "Queen Print",
         "description": "clothing_nftqueen desc"
       },
       {
@@ -36928,12 +36933,12 @@
       },
       {
         "code": "clothing_nftsilkbandana",
-        "name": "clothing_nftsilkbandana name",
+        "name": "Silk Bandana",
         "description": "clothing_nftsilkbandana desc"
       },
       {
         "code": "clothing_nftsilverskin",
-        "name": "clothing_nftsilverskin name",
+        "name": "Silver Skin",
         "description": "clothing_nftsilverskin desc"
       },
       {
@@ -36988,12 +36993,12 @@
       },
       {
         "code": "clothing_nftsneakers2",
-        "name": "clothing_nftsneakers2 name",
+        "name": "Sneakers #2",
         "description": "clothing_nftsneakers2 desc"
       },
       {
         "code": "clothing_nftsneakers",
-        "name": "clothing_nftsneakers name",
+        "name": "Sneakers #1",
         "description": "clothing_nftsneakers desc"
       },
       {
@@ -77403,107 +77408,107 @@
       },
       {
         "code": "nft_cf25_bronzebar",
-        "name": "nft_cf25_bronzebar name",
+        "name": "Bronze Bar",
         "description": "nft_cf25_bronzebar desc"
       },
       {
         "code": "nft_cf25_commonbox",
-        "name": "nft_cf25_commonbox name",
+        "name": "Common Textiles Box",
         "description": "nft_cf25_commonbox desc"
       },
       {
         "code": "nft_cf25_cotton",
-        "name": "nft_cf25_cotton name",
+        "name": "Cotton",
         "description": "nft_cf25_cotton desc"
       },
       {
         "code": "nft_cf25_cottondye",
-        "name": "nft_cf25_cottondye name",
+        "name": "Cotton Dye",
         "description": "nft_cf25_cottondye desc"
       },
       {
         "code": "nft_cf25_epicbox",
-        "name": "nft_cf25_epicbox name",
+        "name": "Epic Textiles Box",
         "description": "nft_cf25_epicbox desc"
       },
       {
         "code": "nft_cf25_fabricscissors",
-        "name": "nft_cf25_fabricscissors name",
+        "name": "Fabric Scissors",
         "description": "nft_cf25_fabricscissors desc"
       },
       {
         "code": "nft_cf25_goldbar",
-        "name": "nft_cf25_goldbar name",
+        "name": "Gold Bar",
         "description": "nft_cf25_goldbar desc"
       },
       {
         "code": "nft_cf25_hairdye",
-        "name": "nft_cf25_hairdye name",
+        "name": "Hair Dye",
         "description": "nft_cf25_hairdye desc"
       },
       {
         "code": "nft_cf25_leather",
-        "name": "nft_cf25_leather name",
+        "name": "Leather",
         "description": "nft_cf25_leather desc"
       },
       {
         "code": "nft_cf25_leatherdye",
-        "name": "nft_cf25_leatherdye name",
+        "name": "Leather Dye",
         "description": "nft_cf25_leatherdye desc"
       },
       {
         "code": "nft_cf25_legendarybox",
-        "name": "nft_cf25_legendarybox name",
+        "name": "Legendary Materials Box",
         "description": "nft_cf25_legendarybox desc"
       },
       {
         "code": "nft_cf25_mythicbox",
-        "name": "nft_cf25_mythicbox name",
+        "name": "Mythic Materials Box",
         "description": "nft_cf25_mythicbox desc"
       },
       {
         "code": "nft_cf25_mythicdust",
-        "name": "nft_cf25_mythicdust name",
+        "name": "Mythic Dust",
         "description": "nft_cf25_mythicdust desc"
       },
       {
         "code": "nft_cf25_nylon",
-        "name": "nft_cf25_nylon name",
+        "name": "Nylon",
         "description": "nft_cf25_nylon desc"
       },
       {
         "code": "nft_cf25_nylondye",
-        "name": "nft_cf25_nylondye name",
+        "name": "Nylon Dye",
         "description": "nft_cf25_nylondye desc"
       },
       {
         "code": "nft_cf25_rarebox",
-        "name": "nft_cf25_rarebox name",
+        "name": "Rare Textiles Box",
         "description": "nft_cf25_rarebox desc"
       },
       {
         "code": "nft_cf25_silk",
-        "name": "nft_cf25_silk name",
+        "name": "Silk",
         "description": "nft_cf25_silk desc"
       },
       {
         "code": "nft_cf25_silkdye",
-        "name": "nft_cf25_silkdye name",
+        "name": "Silk Dye",
         "description": "nft_cf25_silkdye desc"
       },
       {
         "code": "nft_cf25_silverbar",
-        "name": "nft_cf25_silverbar name",
+        "name": "Silver Bar",
         "description": "nft_cf25_silverbar desc"
       },
       {
         "code": "nft_cf25_uncommonbox",
-        "name": "nft_cf25_uncommonbox name",
+        "name": "Uncommon Textiles Box",
         "description": "nft_cf25_uncommonbox desc"
       },
       {
         "code": "nft_cf25_yarn",
-        "name": "nft_cf25_yarn name",
+        "name": "Ball of Yarn",
         "description": "nft_cf25_yarn desc"
       },
       {
