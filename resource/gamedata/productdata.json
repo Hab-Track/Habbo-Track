@@ -742,9 +742,19 @@
         "description": ""
       },
       {
+        "code": "A0 petfood1_dt",
+        "name": "Doggy Bones",
+        "description": ""
+      },
+      {
         "code": "A0 petfood1",
         "name": "Doggy Bones",
         "description": "Natural Energy for the barking one (550 nutrition)"
+      },
+      {
+        "code": "A0 petfood2_dt",
+        "name": "Sardines",
+        "description": ""
       },
       {
         "code": "A0 petfood2",
@@ -752,14 +762,29 @@
         "description": "Fresh catch of yesterday (400 nutrition)"
       },
       {
+        "code": "A0 petfood3_dt",
+        "name": "Cabbage",
+        "description": ""
+      },
+      {
         "code": "A0 petfood3",
         "name": "Cabbage",
         "description": "Health food for pets (155 nutrition)"
       },
       {
+        "code": "A0 petgoodie1a_dt",
+        "name": "Marzipan Man",
+        "description": ""
+      },
+      {
         "code": "A0 petgoodie1a",
         "name": "Marzipan Man",
         "description": "Crunchy Dog Treat (Low Energy)"
+      },
+      {
+        "code": "A0 petgoodie1b_dt",
+        "name": "Marzipan Man",
+        "description": ""
       },
       {
         "code": "A0 petgoodie1b",
@@ -770,6 +795,11 @@
         "code": "A0 petgoodie1c",
         "name": "Marzipan Man",
         "description": "Crunchy Dog Treat (Low Energy)"
+      },
+      {
+        "code": "A0 petgoodie2_dt",
+        "name": "Chocolate Mouse",
+        "description": ""
       },
       {
         "code": "A0 petgoodie2",
@@ -7150,6 +7180,11 @@
         "code": "a0 pet9",
         "name": "Turtle and starter food",
         "description": "Can even swim"
+      },
+      {
+        "code": "a0 petfood4_dt",
+        "name": "T-Bones",
+        "description": ""
       },
       {
         "code": "a0 petfood4",
@@ -13582,9 +13617,19 @@
         "description": "autumn_r20_pond desc"
       },
       {
+        "code": "avatar_effect100_dt",
+        "name": "Dragon Outfit",
+        "description": ""
+      },
+      {
         "code": "avatar_effect100",
         "name": "Dragon Outfit",
         "description": "Join the festivities!"
+      },
+      {
+        "code": "avatar_effect101_dt",
+        "name": "Waving Gun",
+        "description": ""
       },
       {
         "code": "avatar_effect101",
@@ -13612,6 +13657,11 @@
         "description": "dubbelfrisss_desc"
       },
       {
+        "code": "avatar_effect106_dt",
+        "name": "Blue Torch FX_name",
+        "description": ""
+      },
+      {
         "code": "avatar_effect106",
         "name": "Blue Torch FX_name",
         "description": "Blue Torch FX_desc"
@@ -13622,9 +13672,19 @@
         "description": "plasto_pod_chair_desc"
       },
       {
+        "code": "avatar_effect108_dt",
+        "name": "Disappear, without a trace...",
+        "description": ""
+      },
+      {
         "code": "avatar_effect108",
         "name": "Disappear, without a trace...",
         "description": "Dragon Ninja Technique"
+      },
+      {
+        "code": "avatar_effect109_dt",
+        "name": "Bronze Medal",
+        "description": ""
       },
       {
         "code": "avatar_effect109",
@@ -13632,14 +13692,29 @@
         "description": "Bronze Medal"
       },
       {
+        "code": "avatar_effect10_dt",
+        "name": "Flies",
+        "description": ""
+      },
+      {
         "code": "avatar_effect10",
         "name": "Flies",
         "description": "Time to take a bath?"
       },
       {
+        "code": "avatar_effect110_dt",
+        "name": "Silver Medal",
+        "description": ""
+      },
+      {
         "code": "avatar_effect110",
         "name": "Silver Medal",
         "description": "Silver Medal"
+      },
+      {
+        "code": "avatar_effect111_dt",
+        "name": "Gold Medal",
+        "description": ""
       },
       {
         "code": "avatar_effect111",
@@ -13652,14 +13727,29 @@
         "description": "Spider-Man FX_desc"
       },
       {
+        "code": "avatar_effect113_dt",
+        "name": "Rain Cloud",
+        "description": ""
+      },
+      {
         "code": "avatar_effect113",
         "name": "Rain Cloud",
         "description": "Always take the weather with you"
       },
       {
+        "code": "avatar_effect114_dt",
+        "name": "Strong Arms",
+        "description": ""
+      },
+      {
         "code": "avatar_effect114",
         "name": "Strong Arms",
         "description": "These 24 inch pythons are perfect for heavy lifting"
+      },
+      {
+        "code": "avatar_effect115_dt",
+        "name": "Ringmaster Costume",
+        "description": ""
       },
       {
         "code": "avatar_effect115",
@@ -13672,9 +13762,19 @@
         "description": "Argh! Show up on a date with this and find out if looks really don't matter."
       },
       {
+        "code": "avatar_effect117_dt",
+        "name": "Executioner Hood",
+        "description": ""
+      },
+      {
         "code": "avatar_effect117",
         "name": "Executioner Hood",
         "description": "A child of death, his face a mystery to all but his victims (and his mother)"
+      },
+      {
+        "code": "avatar_effect118_dt",
+        "name": "Evil Clown Paint",
+        "description": ""
       },
       {
         "code": "avatar_effect118",
@@ -13682,9 +13782,19 @@
         "description": "He'll make you laugh until you cry"
       },
       {
+        "code": "avatar_effect119_dt",
+        "name": "Alien Costume",
+        "description": ""
+      },
+      {
         "code": "avatar_effect119",
         "name": "Alien Costume",
         "description": "Straight outta Roswell"
+      },
+      {
+        "code": "avatar_effect11_dt",
+        "name": "X-Ray",
+        "description": ""
       },
       {
         "code": "avatar_effect11",
@@ -13692,9 +13802,19 @@
         "description": "X-rayed"
       },
       {
+        "code": "avatar_effect120_dt",
+        "name": "Giant Mouth Costume",
+        "description": ""
+      },
+      {
         "code": "avatar_effect120",
         "name": "Giant Mouth Costume",
         "description": "Cursed with an unnameable hunger (for broccoli)"
+      },
+      {
+        "code": "avatar_effect121_dt",
+        "name": "Swamp Creature Costume",
+        "description": ""
       },
       {
         "code": "avatar_effect121",
@@ -13710,6 +13830,11 @@
         "code": "avatar_effect123",
         "name": "Nightmare Bride Costume",
         "description": "You might want to skip the honeymoon"
+      },
+      {
+        "code": "avatar_effect124_dt",
+        "name": "Mummy Costume",
+        "description": ""
       },
       {
         "code": "avatar_effect124",
@@ -13732,9 +13857,19 @@
         "description": "Watch out he's a howler"
       },
       {
+        "code": "avatar_effect128_dt",
+        "name": "Zombie Costume",
+        "description": ""
+      },
+      {
         "code": "avatar_effect128",
         "name": "Zombie Costume",
         "description": "I like my braaaaaaaainsssss with AUTHENTIC Wasabi"
+      },
+      {
+        "code": "avatar_effect129_dt",
+        "name": "Back Stabbed",
+        "description": ""
       },
       {
         "code": "avatar_effect129",
@@ -13742,9 +13877,19 @@
         "description": "Ow! I didn't see that coming"
       },
       {
+        "code": "avatar_effect12_dt",
+        "name": "Frozen",
+        "description": ""
+      },
+      {
         "code": "avatar_effect12",
         "name": "Frozen",
         "description": "Ice cold!"
+      },
+      {
+        "code": "avatar_effect130_dt",
+        "name": "Butterfly Wings",
+        "description": ""
       },
       {
         "code": "avatar_effect130",
@@ -13752,9 +13897,19 @@
         "description": "Fly away!"
       },
       {
+        "code": "avatar_effect131_dt",
+        "name": "Fairy Wings",
+        "description": ""
+      },
+      {
         "code": "avatar_effect131",
         "name": "Fairy Wings",
         "description": "Because you're an angel really ;)"
+      },
+      {
+        "code": "avatar_effect132_dt",
+        "name": "Ghost Costume",
+        "description": ""
       },
       {
         "code": "avatar_effect132",
@@ -13767,9 +13922,19 @@
         "description": "I failed my math test, I just haven't the head for numbers (Ha Ha ha)"
       },
       {
+        "code": "avatar_effect134_dt",
+        "name": "Snake Costume",
+        "description": ""
+      },
+      {
         "code": "avatar_effect134",
         "name": "Snake Costume",
         "description": "*Hiss*"
+      },
+      {
+        "code": "avatar_effect135_dt",
+        "name": "Puppeteer Costume",
+        "description": ""
       },
       {
         "code": "avatar_effect135",
@@ -13777,9 +13942,19 @@
         "description": "No strings attached?"
       },
       {
+        "code": "avatar_effect136_dt",
+        "name": "It's out of this world",
+        "description": ""
+      },
+      {
         "code": "avatar_effect136",
         "name": "It's out of this world",
         "description": "Mars Walk"
+      },
+      {
+        "code": "avatar_effect137_dt",
+        "name": "All eyes are on you!",
+        "description": ""
       },
       {
         "code": "avatar_effect137",
@@ -13787,14 +13962,29 @@
         "description": "Golden Spotlight"
       },
       {
+        "code": "avatar_effect138_dt",
+        "name": "Golden Sunglasses",
+        "description": ""
+      },
+      {
         "code": "avatar_effect138",
         "name": "Golden Sunglasses",
         "description": "The future's so bright, you gotta wear shades!"
       },
       {
+        "code": "avatar_effect139_dt",
+        "name": "Get yourself heard!",
+        "description": ""
+      },
+      {
         "code": "avatar_effect139",
         "name": "Get yourself heard!",
         "description": "Golden Microphone"
+      },
+      {
+        "code": "avatar_effect13_dt",
+        "name": "Ghost",
+        "description": ""
       },
       {
         "code": "avatar_effect13",
@@ -13807,9 +13997,19 @@
         "description": "HabnamDance_desc"
       },
       {
+        "code": "avatar_effect141_dt",
+        "name": "Flower Mask",
+        "description": ""
+      },
+      {
         "code": "avatar_effect141",
         "name": "Flower Mask",
         "description": "Who's behind that mask?"
+      },
+      {
+        "code": "avatar_effect142_dt",
+        "name": "Goat Mask",
+        "description": ""
       },
       {
         "code": "avatar_effect142",
@@ -13822,9 +14022,19 @@
         "description": "Who's behind that mask?"
       },
       {
+        "code": "avatar_effect144_dt",
+        "name": "Feather Mask",
+        "description": ""
+      },
+      {
         "code": "avatar_effect144",
         "name": "Feather Mask",
         "description": "Who's behind that mask?"
+      },
+      {
+        "code": "avatar_effect145_dt",
+        "name": "Feather Mask",
+        "description": ""
       },
       {
         "code": "avatar_effect145",
@@ -13842,6 +14052,11 @@
         "description": "Who's behind that mask?"
       },
       {
+        "code": "avatar_effect148_dt",
+        "name": "Peacock Mask",
+        "description": ""
+      },
+      {
         "code": "avatar_effect148",
         "name": "Peacock Mask",
         "description": "Who's behind that mask?"
@@ -13857,9 +14072,19 @@
         "description": "The future of transportation in pink."
       },
       {
+        "code": "avatar_effect150_dt",
+        "name": "Peacock Mask",
+        "description": ""
+      },
+      {
         "code": "avatar_effect150",
         "name": "Peacock Mask",
         "description": "Who's behind that mask?"
+      },
+      {
+        "code": "avatar_effect151_dt",
+        "name": "Goat Mask",
+        "description": ""
       },
       {
         "code": "avatar_effect151",
@@ -13897,14 +14122,29 @@
         "description": "Bulging Pimple_desc"
       },
       {
+        "code": "avatar_effect158_dt",
+        "name": "Rainbow Pinata Stick",
+        "description": ""
+      },
+      {
         "code": "avatar_effect158",
         "name": "Rainbow Pinata Stick",
         "description": "Use this and walk under a Pinata 100 times to break it open."
       },
       {
+        "code": "avatar_effect159_dt",
+        "name": "Walking Barrel",
+        "description": ""
+      },
+      {
         "code": "avatar_effect159",
         "name": "Walking Barrel",
         "description": "Don't fall or you'll roll!"
+      },
+      {
+        "code": "avatar_effect15_dt",
+        "name": "Yellow Hover Board",
+        "description": ""
       },
       {
         "code": "avatar_effect15",
@@ -13917,9 +14157,19 @@
         "description": "Make em walk the plank n' swim with the sharks!"
       },
       {
+        "code": "avatar_effect161_dt",
+        "name": "Captains right hand pirate",
+        "description": ""
+      },
+      {
         "code": "avatar_effect161",
         "name": "Captains right hand pirate",
         "description": "Pirate First Mate"
+      },
+      {
+        "code": "avatar_effect162_dt",
+        "name": "Pirate Sword",
+        "description": ""
       },
       {
         "code": "avatar_effect162",
@@ -13932,6 +14182,11 @@
         "description": "Your head's stuck in the sand!"
       },
       {
+        "code": "avatar_effect164_dt",
+        "name": "Pirate Musketoon",
+        "description": ""
+      },
+      {
         "code": "avatar_effect164",
         "name": "Pirate Musketoon",
         "description": "Don't ye be talking too soon."
@@ -13940,6 +14195,11 @@
         "code": "avatar_effect165",
         "name": "Facebooker!",
         "description": "Special Effect for Facebook Connect."
+      },
+      {
+        "code": "avatar_effect166_dt",
+        "name": "Goblin mask",
+        "description": ""
       },
       {
         "code": "avatar_effect166",
@@ -13962,9 +14222,19 @@
         "description": "I've been SLIMED. ugh."
       },
       {
+        "code": "avatar_effect16_dt",
+        "name": "Microphone",
+        "description": ""
+      },
+      {
         "code": "avatar_effect16",
         "name": "Microphone",
         "description": "Sing the night away!"
+      },
+      {
+        "code": "avatar_effect170_dt",
+        "name": "Duck_name",
+        "description": ""
       },
       {
         "code": "avatar_effect170",
@@ -13977,14 +14247,29 @@
         "description": "Space bunny helmet_desc"
       },
       {
+        "code": "avatar_effect172_dt",
+        "name": "Steelscar Helmet and Torch",
+        "description": ""
+      },
+      {
         "code": "avatar_effect172",
         "name": "Steelscar Helmet and Torch",
         "description": "Set fire to the coties!"
       },
       {
+        "code": "avatar_effect173_dt",
+        "name": "Battleshade Helmet and Torch",
+        "description": ""
+      },
+      {
         "code": "avatar_effect173",
         "name": "Battleshade Helmet and Torch",
         "description": "Set fire to the coties!"
+      },
+      {
+        "code": "avatar_effect174_dt",
+        "name": "Hoverboard Green_name",
+        "description": ""
       },
       {
         "code": "avatar_effect174",
@@ -14012,9 +14297,19 @@
         "description": "Count on me!"
       },
       {
+        "code": "avatar_effect179_dt",
+        "name": "Luchador Mask",
+        "description": ""
+      },
+      {
         "code": "avatar_effect179",
         "name": "Luchador Mask",
         "description": "This effect lasts 6 days"
+      },
+      {
+        "code": "avatar_effect17_dt",
+        "name": "Pink UFO",
+        "description": ""
       },
       {
         "code": "avatar_effect17",
@@ -14022,9 +14317,19 @@
         "description": "Fly away with this UFO of love."
       },
       {
+        "code": "avatar_effect180_dt",
+        "name": "Azul Marino Calaca Mask",
+        "description": ""
+      },
+      {
         "code": "avatar_effect180",
         "name": "Azul Marino Calaca Mask",
         "description": "This effect lasts 6 days"
+      },
+      {
+        "code": "avatar_effect181_dt",
+        "name": "Brillante Calaca Mask",
+        "description": ""
       },
       {
         "code": "avatar_effect181",
@@ -14035,6 +14340,11 @@
         "code": "avatar_effect182",
         "name": "Cyberpunk gun_name",
         "description": "Cyberpunk gun_desc"
+      },
+      {
+        "code": "avatar_effect183_dt",
+        "name": "Fossil hammer_name",
+        "description": ""
       },
       {
         "code": "avatar_effect183",
@@ -14050,6 +14360,11 @@
         "code": "avatar_effect185",
         "name": "Swim Evil_name",
         "description": "Swim Evil_desc"
+      },
+      {
+        "code": "avatar_effect186_dt",
+        "name": "Magic Wand Effect",
+        "description": ""
       },
       {
         "code": "avatar_effect186",
@@ -14072,6 +14387,11 @@
         "description": "Mobiles Disco FX_desc"
       },
       {
+        "code": "avatar_effect18_dt",
+        "name": "Yellow UFO",
+        "description": ""
+      },
+      {
         "code": "avatar_effect18",
         "name": "Yellow UFO",
         "description": "Unidentified yellow flying object."
@@ -14080,6 +14400,11 @@
         "code": "avatar_effect190",
         "name": "Mobiles Disco FX2_name",
         "description": "Mobiles Disco FX2_desc"
+      },
+      {
+        "code": "avatar_effect191_dt",
+        "name": "Hover Plank_name",
+        "description": ""
       },
       {
         "code": "avatar_effect191",
@@ -14127,9 +14452,19 @@
         "description": "Turtle ride_desc"
       },
       {
+        "code": "avatar_effect19_dt",
+        "name": "BluesMobile",
+        "description": ""
+      },
+      {
         "code": "avatar_effect19",
         "name": "BluesMobile",
         "description": "We'got a show tonite"
+      },
+      {
+        "code": "avatar_effect1_dt",
+        "name": "Spotlight",
+        "description": ""
       },
       {
         "code": "avatar_effect1",
@@ -14187,6 +14522,11 @@
         "description": "LightstickGreen_desc"
       },
       {
+        "code": "avatar_effect20_dt",
+        "name": "HelpMobile",
+        "description": ""
+      },
+      {
         "code": "avatar_effect20",
         "name": "HelpMobile",
         "description": "I'll help you if I can"
@@ -14242,6 +14582,11 @@
         "description": "Hide_desc"
       },
       {
+        "code": "avatar_effect21_dt",
+        "name": "RebelMobile",
+        "description": ""
+      },
+      {
         "code": "avatar_effect21",
         "name": "RebelMobile",
         "description": "Rebel without a cause"
@@ -14287,6 +14632,11 @@
         "description": "NFTRoboHolo_desc"
       },
       {
+        "code": "avatar_effect22_dt",
+        "name": "Bad bad BadMobile",
+        "description": ""
+      },
+      {
         "code": "avatar_effect22",
         "name": "Bad bad BadMobile",
         "description": "Get all evil with this BadMobile"
@@ -14330,6 +14680,11 @@
         "code": "avatar_effect29",
         "name": "Swimming_name",
         "description": "Swimming_desc"
+      },
+      {
+        "code": "avatar_effect2_dt",
+        "name": "Hover Board",
+        "description": ""
       },
       {
         "code": "avatar_effect2",
@@ -14387,6 +14742,11 @@
         "description": "Ice skating - Girls_desc"
       },
       {
+        "code": "avatar_effect3_dt",
+        "name": "UFO",
+        "description": ""
+      },
+      {
         "code": "avatar_effect3",
         "name": "UFO",
         "description": "Help, I'm being abducted!"
@@ -14432,6 +14792,11 @@
         "description": "Can you find a superhero to fight?"
       },
       {
+        "code": "avatar_effect48_dt",
+        "name": "Car Doggy",
+        "description": ""
+      },
+      {
         "code": "avatar_effect48",
         "name": "Car Doggy",
         "description": ""
@@ -14440,6 +14805,11 @@
         "code": "avatar_effect49",
         "name": "ES red Untouchable_name",
         "description": "ES red Untouchable_desc"
+      },
+      {
+        "code": "avatar_effect4_dt",
+        "name": "Twinkle",
+        "description": ""
       },
       {
         "code": "avatar_effect4",
@@ -14497,6 +14867,11 @@
         "description": "sunnydelight_desc"
       },
       {
+        "code": "avatar_effect5_dt",
+        "name": "Torch",
+        "description": ""
+      },
+      {
         "code": "avatar_effect5",
         "name": "Torch",
         "description": "Light the dark corners of your existence."
@@ -14520,6 +14895,11 @@
         "code": "avatar_effect63",
         "name": "disney3_name",
         "description": "disney3_desc"
+      },
+      {
+        "code": "avatar_effect64_dt",
+        "name": "Candle Pixel Effect",
+        "description": ""
       },
       {
         "code": "avatar_effect64",
@@ -14552,6 +14932,11 @@
         "description": "volkswagen_desc"
       },
       {
+        "code": "avatar_effect6_dt",
+        "name": "HRJP-3000",
+        "description": ""
+      },
+      {
         "code": "avatar_effect6",
         "name": "HRJP-3000",
         "description": "Habbo Rocket Jet Pack."
@@ -14565,6 +14950,11 @@
         "code": "avatar_effect71",
         "name": "Special Skate Effect",
         "description": "For HC, lasts 1 hour."
+      },
+      {
+        "code": "avatar_effect72_dt",
+        "name": "Skate Effect",
+        "description": ""
       },
       {
         "code": "avatar_effect72",
@@ -14602,9 +14992,19 @@
         "description": "perry_desc"
       },
       {
+        "code": "avatar_effect79_dt",
+        "name": "Alien",
+        "description": ""
+      },
+      {
         "code": "avatar_effect79",
         "name": "Alien",
         "description": "Beware the curse of ChronoZomfg..."
+      },
+      {
+        "code": "avatar_effect7_dt",
+        "name": "Butterflies",
+        "description": ""
       },
       {
         "code": "avatar_effect7",
@@ -14612,9 +15012,19 @@
         "description": "Not only in your stomach."
       },
       {
+        "code": "avatar_effect80_dt",
+        "name": "Bad Breath",
+        "description": ""
+      },
+      {
         "code": "avatar_effect80",
         "name": "Bad Breath",
         "description": "Beware the curse of ChronoZomfg..."
+      },
+      {
+        "code": "avatar_effect81_dt",
+        "name": "Swamp Creature",
+        "description": ""
       },
       {
         "code": "avatar_effect81",
@@ -14622,9 +15032,19 @@
         "description": "Beware the curse of ChronoZomfg..."
       },
       {
+        "code": "avatar_effect82_dt",
+        "name": "Ink Face",
+        "description": ""
+      },
+      {
         "code": "avatar_effect82",
         "name": "Ink Face",
         "description": "Beware the curse of ChronoZomfg..."
+      },
+      {
+        "code": "avatar_effect83_dt",
+        "name": "Dead Bride",
+        "description": ""
       },
       {
         "code": "avatar_effect83",
@@ -14632,9 +15052,19 @@
         "description": "Beware the curse of ChronoZomfg..."
       },
       {
+        "code": "avatar_effect84_dt",
+        "name": "Mummy",
+        "description": ""
+      },
+      {
         "code": "avatar_effect84",
         "name": "Mummy",
         "description": "Beware the curse of ChronoZomfg..."
+      },
+      {
+        "code": "avatar_effect85_dt",
+        "name": "Pum King",
+        "description": ""
       },
       {
         "code": "avatar_effect85",
@@ -14645,6 +15075,11 @@
         "code": "avatar_effect86",
         "name": "Scarecrow",
         "description": "Beware the curse of ChronoZomfg..."
+      },
+      {
+        "code": "avatar_effect87_dt",
+        "name": "Werewolf",
+        "description": ""
       },
       {
         "code": "avatar_effect87",
@@ -14660,6 +15095,11 @@
         "code": "avatar_effect89",
         "name": "Knife in the Back",
         "description": "Ow!"
+      },
+      {
+        "code": "avatar_effect8_dt",
+        "name": "Fireflies",
+        "description": ""
       },
       {
         "code": "avatar_effect8",
@@ -14710,6 +15150,11 @@
         "code": "avatar_effect99",
         "name": "Niko Effect",
         "description": "Join Niko's quest in Niko the game!"
+      },
+      {
+        "code": "avatar_effect9_dt",
+        "name": "Love Birds",
+        "description": ""
       },
       {
         "code": "avatar_effect9",
@@ -76108,7 +76553,7 @@
       },
       {
         "code": "nft_A0_rarexmasscreen",
-        "name": "$furni_rare_xmas_screen_name$",
+        "name": "Santa and Elf",
         "description": "Ho Ho Ho!"
       },
       {
@@ -76208,7 +76653,7 @@
       },
       {
         "code": "nft_Christmas_Reindeer_Rare",
-        "name": "$furni_christmas_reindeer_name$",
+        "name": "Reindeer",
         "description": "Stuffed animal on wheels"
       },
       {
@@ -76388,7 +76833,7 @@
       },
       {
         "code": "nft_a0_pillow",
-        "name": "$furni_pillow*0_name$",
+        "name": "A Snow Drift",
         "description": "Comfort with style"
       },
       {
@@ -76463,7 +76908,7 @@
       },
       {
         "code": "nft_a0_snowrug",
-        "name": "$furni_rare_snowrug_name$",
+        "name": "Snow Patch",
         "description": null
       },
       {
@@ -76503,7 +76948,7 @@
       },
       {
         "code": "nft_a10_pillar",
-        "name": "$furni_pillar*8_name$",
+        "name": "Doric Olive Green Pillar",
         "description": "Corinthian coolness"
       },
       {
@@ -76563,7 +77008,7 @@
       },
       {
         "code": "nft_a11_pillow",
-        "name": "$furni_pillow*9_name$",
+        "name": "Green Giant Pillow",
         "description": "Comfort with style"
       },
       {
@@ -76763,12 +77208,12 @@
       },
       {
         "code": "nft_a4_pillar",
-        "name": "$furni_pillar*2_name$",
+        "name": "Leap Day Pillar",
         "description": "Corinthian coolness"
       },
       {
         "code": "nft_a4_pillow",
-        "name": "$furni_pillow*2_name$",
+        "name": "Festive Red Pillow",
         "description": "Comfort with style"
       },
       {
@@ -76823,12 +77268,12 @@
       },
       {
         "code": "nft_a5_pillar",
-        "name": "$furni_pillar*3_name$",
+        "name": "Doric Blue Pillar",
         "description": "Corinthian coolness"
       },
       {
         "code": "nft_a5_pillow",
-        "name": "$furni_pillow*3_name$",
+        "name": "Turquoise Giant Pillow",
         "description": "Comfort with style"
       },
       {
@@ -77063,12 +77508,12 @@
       },
       {
         "code": "nft_a9_pillar",
-        "name": "$furni_pillar*7_name$",
+        "name": "Doric Gold Pillar",
         "description": "Corinthian coolness"
       },
       {
         "code": "nft_a9_pillow",
-        "name": "$furni_pillow*7_name$",
+        "name": "Bonnie Blonde's Pillow",
         "description": "Comfort with style"
       },
       {
@@ -77113,22 +77558,22 @@
       },
       {
         "code": "nft_army15_copter",
-        "name": "$furni_army15_copter_name$",
+        "name": "HabboCopter",
         "description": "nft_army15_copter desc"
       },
       {
         "code": "nft_army15_dog",
-        "name": "$furni_army15_dog_name$",
+        "name": "Hector the German Shepherd",
         "description": "nft_army15_dog desc"
       },
       {
         "code": "nft_army15_largescreen",
-        "name": "$wallitem_army15_largescreen_name$",
+        "name": "Global Satellite Screen",
         "description": "nft_army15_largescreen desc"
       },
       {
         "code": "nft_army15_scanner",
-        "name": "$furni_army15_scanner_name$",
+        "name": "X-Ray Scanner",
         "description": "nft_army15_scanner desc"
       },
       {
@@ -77528,12 +77973,12 @@
       },
       {
         "code": "nft_cland15_candythrone",
-        "name": "$furni_cland15_candythrone_name$",
+        "name": "Candy Throne",
         "description": "nft_cland15_candythrone desc"
       },
       {
         "code": "nft_cland15_unicorn",
-        "name": "$furni_cland15_unicorn_name$",
+        "name": "Magical Candy Unicorn",
         "description": "nft_cland15_unicorn desc"
       },
       {
@@ -77633,17 +78078,17 @@
       },
       {
         "code": "nft_diamond_painting64",
-        "name": "$wallitem_diamond_painting64_name$",
+        "name": "Welcome Lounge Family",
         "description": "nft_diamond_painting64 desc"
       },
       {
         "code": "nft_diamond_painting65",
-        "name": "$wallitem_diamond_painting65_name$",
+        "name": "Foggy Frank",
         "description": "nft_diamond_painting65 desc"
       },
       {
         "code": "nft_diamond_painting66",
-        "name": "$wallitem_diamond_painting66_name$",
+        "name": "Seeing Red",
         "description": "nft_diamond_painting66 desc"
       },
       {
@@ -77653,12 +78098,12 @@
       },
       {
         "code": "nft_diamond_painting68",
-        "name": "$wallitem_diamond_painting68_name$",
+        "name": "Pixel Saint",
         "description": "nft_diamond_painting68 desc"
       },
       {
         "code": "nft_diamond_painting69",
-        "name": "$furni_diamond_painting69_name$",
+        "name": "Divine Statue",
         "description": "nft_diamond_painting69 desc"
       },
       {
@@ -77668,7 +78113,7 @@
       },
       {
         "code": "nft_diamond_painting70",
-        "name": "$furni_diamond_painting70_name$",
+        "name": "One Very Stuck Sword",
         "description": "nft_diamond_painting70 desc"
       },
       {
@@ -77678,22 +78123,22 @@
       },
       {
         "code": "nft_diamond_painting72",
-        "name": "$furni_diamond_painting72_name$",
+        "name": "A Habbo's Best Friend",
         "description": "nft_diamond_painting72 desc"
       },
       {
         "code": "nft_diamond_painting73",
-        "name": "$wallitem_diamond_painting73_name$",
+        "name": "Presidential Suite Portrait",
         "description": "nft_diamond_painting73 desc"
       },
       {
         "code": "nft_diamond_painting74",
-        "name": "$wallitem_diamond_painting74_name$",
+        "name": "The Madness of Pixels",
         "description": "nft_diamond_painting74 desc"
       },
       {
         "code": "nft_diamond_painting75",
-        "name": "$furni_diamond_painting75_name$",
+        "name": "Habbo of the North",
         "description": "nft_diamond_painting75 desc"
       },
       {
@@ -77708,27 +78153,27 @@
       },
       {
         "code": "nft_diamond_throne",
-        "name": "$furni_diamond_throne_name$",
+        "name": "Diamond Throne",
         "description": "nft_diamond_throne desc"
       },
       {
         "code": "nft_dino15_fossil2",
-        "name": "$furni_dino15_fossil2_name$",
+        "name": "Plesiosaurus Fossil (Needs Fossil hammer_name)",
         "description": "nft_dino15_fossil2 desc"
       },
       {
         "code": "nft_dino15_fossil3",
-        "name": "$furni_dino15_fossil3_name$",
+        "name": "Raptor Fossil (Needs Fossil hammer_name)",
         "description": "nft_dino15_fossil3 desc"
       },
       {
         "code": "nft_dino15_fossil4",
-        "name": "$furni_dino15_fossil4_name$",
+        "name": "Triceratops Fossil (Needs Fossil hammer_name)",
         "description": "nft_dino15_fossil4 desc"
       },
       {
         "code": "nft_dino15_fossil5",
-        "name": "$furni_dino15_fossil5_name$",
+        "name": "Archaeopteryx Fossil (Needs Fossil hammer_name)",
         "description": "nft_dino15_fossil5 desc"
       },
       {
@@ -77743,12 +78188,12 @@
       },
       {
         "code": "nft_easter_r19_mysticalbird",
-        "name": "$furni_easter_r19_mysticalbird_name$",
+        "name": "Rainbow Forest Chicken",
         "description": "nft_easter_r19_mysticalbird desc"
       },
       {
         "code": "nft_easter_r19_treeswing",
-        "name": "$furni_easter_r19_treeswing_name$",
+        "name": "Fairytale Forest Swing",
         "description": "nft_easter_r19_treeswing desc"
       },
       {
@@ -78223,7 +78668,7 @@
       },
       {
         "code": "nft_gold_c15_arc_statue",
-        "name": "$furni_gold_c15_arc_statue_name$",
+        "name": "Solid Gold Penguin",
         "description": "nft_gold_c15_arc_statue desc"
       },
       {
@@ -80433,12 +80878,12 @@
       },
       {
         "code": "nft_ktchn15_bubblejuicerack",
-        "name": "$furni_ktchn15_bubblejuicerack_name$",
+        "name": "Bobba Juice Rack",
         "description": "nft_ktchn15_bubblejuicerack desc"
       },
       {
         "code": "nft_ktchn15_cabinet",
-        "name": "$furni_ktchn15_cabinet_name$",
+        "name": "Antique Crockery Cupboard",
         "description": "nft_ktchn15_cabinet desc"
       },
       {
@@ -80533,7 +80978,7 @@
       },
       {
         "code": "nft_ny16_stars",
-        "name": "$furni_ny16_stars_name$",
+        "name": "Snazzy Star Decoration",
         "description": "nft_ny16_stars desc"
       },
       {
@@ -80553,32 +80998,32 @@
       },
       {
         "code": "nft_qt_xm10_ice_fish",
-        "name": "$furni_qt_xm10_ice_fish_name$",
+        "name": "Frozen Fish",
         "description": "nft_qt_xm10_ice_fish desc"
       },
       {
         "code": "nft_qt_xm10_iceclubsofa",
-        "name": "$furni_qt_xm10_iceclubsofa_name$",
+        "name": "Cool Club Sofa",
         "description": "nft_qt_xm10_iceclubsofa desc"
       },
       {
         "code": "nft_qt_xm10_icedragon",
-        "name": "$furni_qt_xm10_icedragon_name$",
+        "name": "Blizzard Dragon",
         "description": "nft_qt_xm10_icedragon desc"
       },
       {
         "code": "nft_qt_xm10_iceelephant",
-        "name": "$furni_qt_xm10_iceelephant_name$",
+        "name": "Woah Nelly!",
         "description": "nft_qt_xm10_iceelephant desc"
       },
       {
         "code": "nft_qt_xm10_icepillar",
-        "name": "$furni_qt_xm10_icepillar_name$",
+        "name": "Frozen Pillar",
         "description": "nft_qt_xm10_icepillar desc"
       },
       {
         "code": "nft_qt_xm10_trex",
-        "name": "$furni_qt_xm10_trex_name$",
+        "name": "Frozen In Time",
         "description": "nft_qt_xm10_trex desc"
       },
       {
@@ -80858,12 +81303,12 @@
       },
       {
         "code": "nft_rare_r19_car1",
-        "name": "$furni_rare_r19_car1_name$",
+        "name": "The Bonnie Blonde Mobile",
         "description": "nft_rare_r19_car1 desc"
       },
       {
         "code": "nft_rare_royalchair",
-        "name": "$furni_rare_royalchair_name$",
+        "name": "Rare Vintage Armchair",
         "description": "nft_rare_royalchair desc"
       },
       {
@@ -80878,7 +81323,7 @@
       },
       {
         "code": "nft_rclr_sofa",
-        "name": "$furni_rclr_sofa_name$",
+        "name": "Polar Sofa",
         "description": "Snuggle up together"
       },
       {
@@ -81103,22 +81548,22 @@
       },
       {
         "code": "nft_val_r19_bath",
-        "name": "$furni_val_r19_bath_name$",
+        "name": "Romantic Bathtub",
         "description": "nft_val_r19_bath desc"
       },
       {
         "code": "nft_val_r19_puppy",
-        "name": "$furni_val_r19_puppy_name$",
+        "name": "Puppy Present",
         "description": "nft_val_r19_puppy desc"
       },
       {
         "code": "nft_val_r19_recordplayer",
-        "name": "$furni_val_r19_recordplayer_name$",
+        "name": "Romantic Record Player",
         "description": "nft_val_r19_recordplayer desc"
       },
       {
         "code": "nft_val_r19_sofa",
-        "name": "$furni_val_r19_sofa_name$",
+        "name": "Romantic Sofa",
         "description": "nft_val_r19_sofa desc"
       },
       {
@@ -81133,47 +81578,47 @@
       },
       {
         "code": "nft_xm09_cocoa",
-        "name": "$furni_xm09_cocoa_name$",
+        "name": "Hot Chocolate Maker",
         "description": "get some hot chocolade"
       },
       {
         "code": "nft_xmas11_btlr",
-        "name": "$furni_xmas11_btlr_name$",
+        "name": "The Santa Butler",
         "description": "nft_xmas11_btlr desc"
       },
       {
         "code": "nft_xmas11_throne",
-        "name": "$furni_xmas11_throne_name$",
+        "name": "Xmas Throne",
         "description": "nft_xmas11_throne desc"
       },
       {
         "code": "nft_xmas12_nutcracker",
-        "name": "$furni_xmas12_nutcracker_name$",
+        "name": "The Nutcracker",
         "description": "nft_xmas12_nutcracker desc"
       },
       {
         "code": "nft_xmas14_sharkthrone",
-        "name": "$furni_xmas14_sharkthrone_name$",
+        "name": "Shark Santa Throne",
         "description": "nft_xmas14_sharkthrone desc"
       },
       {
         "code": "nft_xmas15_clocktower",
-        "name": "$furni_xmas15_clocktower_name$",
+        "name": "Clock Tower",
         "description": "nft_xmas15_clocktower desc"
       },
       {
         "code": "nft_xmas15_rudolf",
-        "name": "$furni_xmas15_rudolf_name$",
+        "name": "Rudolf the Red-Nosed Reindeer",
         "description": "nft_xmas15_rudolf desc"
       },
       {
         "code": "nft_xmas15_sleigh",
-        "name": "$furni_xmas15_sleigh_name$",
+        "name": "Ornate Winter Sleigh",
         "description": "nft_xmas15_sleigh desc"
       },
       {
         "code": "nft_xmas15_stand",
-        "name": "$furni_xmas15_stand_name$",
+        "name": "Bavarian Christmas Photo Stand",
         "description": "nft_xmas15_stand desc"
       },
       {
@@ -83737,6 +84182,11 @@
         "description": "Use this box to breed your Terriers"
       },
       {
+        "code": "pet_food_corn_dt",
+        "name": "Corn",
+        "description": ""
+      },
+      {
         "code": "pet_food_corn",
         "name": "Corn",
         "description": "Nutritious but a bit corny (Low energy)"
@@ -83777,9 +84227,19 @@
         "description": "petbox_epic desc"
       },
       {
+        "code": "petfood10_dt",
+        "name": "Holiday Cake",
+        "description": ""
+      },
+      {
         "code": "petfood10",
         "name": "Holiday Cake",
         "description": "For special moments (825 nutrition)"
+      },
+      {
+        "code": "petfood11_dt",
+        "name": "Pile Of Letters",
+        "description": ""
       },
       {
         "code": "petfood11",
@@ -83787,9 +84247,19 @@
         "description": "A pile of bills, probably (130 nutrition)"
       },
       {
+        "code": "petfood12_dt",
+        "name": "Books",
+        "description": ""
+      },
+      {
         "code": "petfood12",
         "name": "Books",
         "description": "Culture gives you food (100 nutrition)"
+      },
+      {
+        "code": "petfood13_dt",
+        "name": "TV Remote",
+        "description": ""
       },
       {
         "code": "petfood13",
@@ -83797,9 +84267,19 @@
         "description": "Argh! Now I can't change the channel! (120 nutrition)"
       },
       {
+        "code": "petfood14_dt",
+        "name": "Chocolate Gazelle",
+        "description": ""
+      },
+      {
         "code": "petfood14",
         "name": "Chocolate Gazelle",
         "description": "Sweets for your lion! (High Energy)"
+      },
+      {
+        "code": "petfood15_dt",
+        "name": "Hay",
+        "description": ""
       },
       {
         "code": "petfood15",
@@ -83807,9 +84287,19 @@
         "description": "A pleasant snack (400 nutrition)"
       },
       {
+        "code": "petfood16_dt",
+        "name": "Popsicles",
+        "description": ""
+      },
+      {
         "code": "petfood16",
         "name": "Popsicles",
         "description": "Fresh and sweet! (130 nutrition)"
+      },
+      {
+        "code": "petfood17_dt",
+        "name": "Grapes",
+        "description": ""
       },
       {
         "code": "petfood17",
@@ -83817,9 +84307,19 @@
         "description": "Juicy and delicious. (Low Energy)"
       },
       {
+        "code": "petfood18_dt",
+        "name": "Webbed Grapes",
+        "description": ""
+      },
+      {
         "code": "petfood18",
         "name": "Webbed Grapes",
         "description": "Juicy and delicious, for spiders only! (375 nutrition)"
+      },
+      {
+        "code": "petfood19_dt",
+        "name": "The Fly",
+        "description": ""
       },
       {
         "code": "petfood19",
@@ -83837,9 +84337,19 @@
         "description": "Fresh and tasty (100 nutrition)"
       },
       {
+        "code": "petfood22_dt",
+        "name": "Red Pepper",
+        "description": ""
+      },
+      {
         "code": "petfood22",
         "name": "Red Pepper",
         "description": "Hot hot hot! (375 nutrition)"
+      },
+      {
+        "code": "petfood23_dt",
+        "name": "Yellow Chili",
+        "description": ""
       },
       {
         "code": "petfood23",
@@ -83847,9 +84357,19 @@
         "description": "Hot hot hot! (375 nutrition)"
       },
       {
+        "code": "petfood24_dt",
+        "name": "Shrimps",
+        "description": ""
+      },
+      {
         "code": "petfood24",
         "name": "Shrimps",
         "description": "Only for the turtle (375 nutrition)"
+      },
+      {
+        "code": "petfood25_dt",
+        "name": "Banana",
+        "description": ""
       },
       {
         "code": "petfood25",
@@ -83857,9 +84377,19 @@
         "description": "No drama with this banana just good eating! (375 nutrition)"
       },
       {
+        "code": "petfood26_dt",
+        "name": "Hay Bucket",
+        "description": ""
+      },
+      {
         "code": "petfood26",
         "name": "Hay Bucket",
         "description": "Tasty food for your large farmyard pets (375 nutrition)"
+      },
+      {
+        "code": "petfood27_dt",
+        "name": "Grass Duck",
+        "description": ""
       },
       {
         "code": "petfood27",
@@ -83867,9 +84397,19 @@
         "description": "For your large farmyard pets to munch! (1375 nutrition)"
       },
       {
+        "code": "petfood28_dt",
+        "name": "Carrot",
+        "description": ""
+      },
+      {
         "code": "petfood28",
         "name": "Carrot",
         "description": "Nom nom nom (50 nutrition)"
+      },
+      {
+        "code": "petfood29_dt",
+        "name": "Choco-Bunny",
+        "description": ""
       },
       {
         "code": "petfood29",
@@ -83877,9 +84417,19 @@
         "description": "Tasty Pet treat (50 nutrition)"
       },
       {
+        "code": "petfood30_dt",
+        "name": "Meat Bone",
+        "description": ""
+      },
+      {
         "code": "petfood30",
         "name": "Meat Bone",
         "description": "Medium rare"
+      },
+      {
+        "code": "petfood31_dt",
+        "name": "Kale",
+        "description": ""
       },
       {
         "code": "petfood31",
@@ -83892,6 +84442,11 @@
         "description": "Get 6 Green apples in this deal!"
       },
       {
+        "code": "petfood5_dt",
+        "name": "Green Apples",
+        "description": ""
+      },
+      {
         "code": "petfood5",
         "name": "Green Apples",
         "description": "Full of vitamin G (350 nutrition)"
@@ -83900,6 +84455,11 @@
         "code": "petfood6_6pack",
         "name": "Red Apple 6 Pack",
         "description": "Get 6 Red apples in this deal!"
+      },
+      {
+        "code": "petfood6_dt",
+        "name": "Red Apples",
+        "description": ""
       },
       {
         "code": "petfood6",
@@ -83912,6 +84472,11 @@
         "description": "6 Ice Apples in 1 pack!"
       },
       {
+        "code": "petfood7_dt",
+        "name": "Ice Apples",
+        "description": ""
+      },
+      {
         "code": "petfood7_horseshoe",
         "name": "petfood7_horseshoe name",
         "description": "petfood7_horseshoe desc"
@@ -83920,6 +84485,11 @@
         "code": "petfood7",
         "name": "Ice Apples",
         "description": "Full of vitamin I (750 nutrition)"
+      },
+      {
+        "code": "petfood8_dt",
+        "name": "Chicken",
+        "description": ""
       },
       {
         "code": "petfood8",
@@ -83932,9 +84502,19 @@
         "description": "6 Salmon for the price of 4."
       },
       {
+        "code": "petfood9_dt",
+        "name": "Salmon",
+        "description": ""
+      },
+      {
         "code": "petfood9",
         "name": "Salmon",
         "description": "Fresh salmon from the mountains (1375 nutrition)"
+      },
+      {
+        "code": "petfood_19_dt",
+        "name": "Leaves",
+        "description": ""
       },
       {
         "code": "petfood_19",
@@ -92088,6 +92668,16 @@
       },
       {
         "code": "rm_dbl_tto253",
+        "name": "50 per cent Off 50 Credits",
+        "description": "Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person"
+      },
+      {
+        "code": "rm_dbl_tto254",
+        "name": "50 per cent Off 220 Credits",
+        "description": "Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person"
+      },
+      {
+        "code": "rm_dbl_tto255",
         "name": "50 per cent Off 50 Credits",
         "description": "Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person"
       },

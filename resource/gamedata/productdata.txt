@@ -740,9 +740,19 @@
     ""
   ],
   [
+    "A0 petfood1_dt",
+    "Doggy Bones",
+    ""
+  ],
+  [
     "A0 petfood1",
     "Doggy Bones",
     "Natural Energy for the barking one (550 nutrition)"
+  ],
+  [
+    "A0 petfood2_dt",
+    "Sardines",
+    ""
   ],
   [
     "A0 petfood2",
@@ -750,14 +760,29 @@
     "Fresh catch of yesterday (400 nutrition)"
   ],
   [
+    "A0 petfood3_dt",
+    "Cabbage",
+    ""
+  ],
+  [
     "A0 petfood3",
     "Cabbage",
     "Health food for pets (155 nutrition)"
   ],
   [
+    "A0 petgoodie1a_dt",
+    "Marzipan Man",
+    ""
+  ],
+  [
     "A0 petgoodie1a",
     "Marzipan Man",
     "Crunchy Dog Treat (Low Energy)"
+  ],
+  [
+    "A0 petgoodie1b_dt",
+    "Marzipan Man",
+    ""
   ],
   [
     "A0 petgoodie1b",
@@ -768,6 +793,11 @@
     "A0 petgoodie1c",
     "Marzipan Man",
     "Crunchy Dog Treat (Low Energy)"
+  ],
+  [
+    "A0 petgoodie2_dt",
+    "Chocolate Mouse",
+    ""
   ],
   [
     "A0 petgoodie2",
@@ -7148,6 +7178,11 @@
     "a0 pet9",
     "Turtle and starter food",
     "Can even swim"
+  ],
+  [
+    "a0 petfood4_dt",
+    "T-Bones",
+    ""
   ],
   [
     "a0 petfood4",
@@ -13580,9 +13615,19 @@
     "autumn_r20_pond desc"
   ],
   [
+    "avatar_effect100_dt",
+    "Dragon Outfit",
+    ""
+  ],
+  [
     "avatar_effect100",
     "Dragon Outfit",
     "Join the festivities!"
+  ],
+  [
+    "avatar_effect101_dt",
+    "Waving Gun",
+    ""
   ],
   [
     "avatar_effect101",
@@ -13610,6 +13655,11 @@
     "dubbelfrisss_desc"
   ],
   [
+    "avatar_effect106_dt",
+    "Blue Torch FX_name",
+    ""
+  ],
+  [
     "avatar_effect106",
     "Blue Torch FX_name",
     "Blue Torch FX_desc"
@@ -13620,9 +13670,19 @@
     "plasto_pod_chair_desc"
   ],
   [
+    "avatar_effect108_dt",
+    "Disappear, without a trace...",
+    ""
+  ],
+  [
     "avatar_effect108",
     "Disappear, without a trace...",
     "Dragon Ninja Technique"
+  ],
+  [
+    "avatar_effect109_dt",
+    "Bronze Medal",
+    ""
   ],
   [
     "avatar_effect109",
@@ -13630,14 +13690,29 @@
     "Bronze Medal"
   ],
   [
+    "avatar_effect10_dt",
+    "Flies",
+    ""
+  ],
+  [
     "avatar_effect10",
     "Flies",
     "Time to take a bath?"
   ],
   [
+    "avatar_effect110_dt",
+    "Silver Medal",
+    ""
+  ],
+  [
     "avatar_effect110",
     "Silver Medal",
     "Silver Medal"
+  ],
+  [
+    "avatar_effect111_dt",
+    "Gold Medal",
+    ""
   ],
   [
     "avatar_effect111",
@@ -13650,14 +13725,29 @@
     "Spider-Man FX_desc"
   ],
   [
+    "avatar_effect113_dt",
+    "Rain Cloud",
+    ""
+  ],
+  [
     "avatar_effect113",
     "Rain Cloud",
     "Always take the weather with you"
   ],
   [
+    "avatar_effect114_dt",
+    "Strong Arms",
+    ""
+  ],
+  [
     "avatar_effect114",
     "Strong Arms",
     "These 24 inch pythons are perfect for heavy lifting"
+  ],
+  [
+    "avatar_effect115_dt",
+    "Ringmaster Costume",
+    ""
   ],
   [
     "avatar_effect115",
@@ -13670,9 +13760,19 @@
     "Argh! Show up on a date with this and find out if looks really don't matter."
   ],
   [
+    "avatar_effect117_dt",
+    "Executioner Hood",
+    ""
+  ],
+  [
     "avatar_effect117",
     "Executioner Hood",
     "A child of death, his face a mystery to all but his victims (and his mother)"
+  ],
+  [
+    "avatar_effect118_dt",
+    "Evil Clown Paint",
+    ""
   ],
   [
     "avatar_effect118",
@@ -13680,9 +13780,19 @@
     "He'll make you laugh until you cry"
   ],
   [
+    "avatar_effect119_dt",
+    "Alien Costume",
+    ""
+  ],
+  [
     "avatar_effect119",
     "Alien Costume",
     "Straight outta Roswell"
+  ],
+  [
+    "avatar_effect11_dt",
+    "X-Ray",
+    ""
   ],
   [
     "avatar_effect11",
@@ -13690,9 +13800,19 @@
     "X-rayed"
   ],
   [
+    "avatar_effect120_dt",
+    "Giant Mouth Costume",
+    ""
+  ],
+  [
     "avatar_effect120",
     "Giant Mouth Costume",
     "Cursed with an unnameable hunger (for broccoli)"
+  ],
+  [
+    "avatar_effect121_dt",
+    "Swamp Creature Costume",
+    ""
   ],
   [
     "avatar_effect121",
@@ -13708,6 +13828,11 @@
     "avatar_effect123",
     "Nightmare Bride Costume",
     "You might want to skip the honeymoon"
+  ],
+  [
+    "avatar_effect124_dt",
+    "Mummy Costume",
+    ""
   ],
   [
     "avatar_effect124",
@@ -13730,9 +13855,19 @@
     "Watch out he's a howler"
   ],
   [
+    "avatar_effect128_dt",
+    "Zombie Costume",
+    ""
+  ],
+  [
     "avatar_effect128",
     "Zombie Costume",
     "I like my braaaaaaaainsssss with AUTHENTIC Wasabi"
+  ],
+  [
+    "avatar_effect129_dt",
+    "Back Stabbed",
+    ""
   ],
   [
     "avatar_effect129",
@@ -13740,9 +13875,19 @@
     "Ow! I didn't see that coming"
   ],
   [
+    "avatar_effect12_dt",
+    "Frozen",
+    ""
+  ],
+  [
     "avatar_effect12",
     "Frozen",
     "Ice cold!"
+  ],
+  [
+    "avatar_effect130_dt",
+    "Butterfly Wings",
+    ""
   ],
   [
     "avatar_effect130",
@@ -13750,9 +13895,19 @@
     "Fly away!"
   ],
   [
+    "avatar_effect131_dt",
+    "Fairy Wings",
+    ""
+  ],
+  [
     "avatar_effect131",
     "Fairy Wings",
     "Because you're an angel really ;)"
+  ],
+  [
+    "avatar_effect132_dt",
+    "Ghost Costume",
+    ""
   ],
   [
     "avatar_effect132",
@@ -13765,9 +13920,19 @@
     "I failed my math test, I just haven't the head for numbers (Ha Ha ha)"
   ],
   [
+    "avatar_effect134_dt",
+    "Snake Costume",
+    ""
+  ],
+  [
     "avatar_effect134",
     "Snake Costume",
     "*Hiss*"
+  ],
+  [
+    "avatar_effect135_dt",
+    "Puppeteer Costume",
+    ""
   ],
   [
     "avatar_effect135",
@@ -13775,9 +13940,19 @@
     "No strings attached?"
   ],
   [
+    "avatar_effect136_dt",
+    "It's out of this world",
+    ""
+  ],
+  [
     "avatar_effect136",
     "It's out of this world",
     "Mars Walk"
+  ],
+  [
+    "avatar_effect137_dt",
+    "All eyes are on you!",
+    ""
   ],
   [
     "avatar_effect137",
@@ -13785,14 +13960,29 @@
     "Golden Spotlight"
   ],
   [
+    "avatar_effect138_dt",
+    "Golden Sunglasses",
+    ""
+  ],
+  [
     "avatar_effect138",
     "Golden Sunglasses",
     "The future's so bright, you gotta wear shades!"
   ],
   [
+    "avatar_effect139_dt",
+    "Get yourself heard!",
+    ""
+  ],
+  [
     "avatar_effect139",
     "Get yourself heard!",
     "Golden Microphone"
+  ],
+  [
+    "avatar_effect13_dt",
+    "Ghost",
+    ""
   ],
   [
     "avatar_effect13",
@@ -13805,9 +13995,19 @@
     "HabnamDance_desc"
   ],
   [
+    "avatar_effect141_dt",
+    "Flower Mask",
+    ""
+  ],
+  [
     "avatar_effect141",
     "Flower Mask",
     "Who's behind that mask?"
+  ],
+  [
+    "avatar_effect142_dt",
+    "Goat Mask",
+    ""
   ],
   [
     "avatar_effect142",
@@ -13820,9 +14020,19 @@
     "Who's behind that mask?"
   ],
   [
+    "avatar_effect144_dt",
+    "Feather Mask",
+    ""
+  ],
+  [
     "avatar_effect144",
     "Feather Mask",
     "Who's behind that mask?"
+  ],
+  [
+    "avatar_effect145_dt",
+    "Feather Mask",
+    ""
   ],
   [
     "avatar_effect145",
@@ -13840,6 +14050,11 @@
     "Who's behind that mask?"
   ],
   [
+    "avatar_effect148_dt",
+    "Peacock Mask",
+    ""
+  ],
+  [
     "avatar_effect148",
     "Peacock Mask",
     "Who's behind that mask?"
@@ -13855,9 +14070,19 @@
     "The future of transportation in pink."
   ],
   [
+    "avatar_effect150_dt",
+    "Peacock Mask",
+    ""
+  ],
+  [
     "avatar_effect150",
     "Peacock Mask",
     "Who's behind that mask?"
+  ],
+  [
+    "avatar_effect151_dt",
+    "Goat Mask",
+    ""
   ],
   [
     "avatar_effect151",
@@ -13895,14 +14120,29 @@
     "Bulging Pimple_desc"
   ],
   [
+    "avatar_effect158_dt",
+    "Rainbow Pinata Stick",
+    ""
+  ],
+  [
     "avatar_effect158",
     "Rainbow Pinata Stick",
     "Use this and walk under a Pinata 100 times to break it open."
   ],
   [
+    "avatar_effect159_dt",
+    "Walking Barrel",
+    ""
+  ],
+  [
     "avatar_effect159",
     "Walking Barrel",
     "Don't fall or you'll roll!"
+  ],
+  [
+    "avatar_effect15_dt",
+    "Yellow Hover Board",
+    ""
   ],
   [
     "avatar_effect15",
@@ -13915,9 +14155,19 @@
     "Make em walk the plank n' swim with the sharks!"
   ],
   [
+    "avatar_effect161_dt",
+    "Captains right hand pirate",
+    ""
+  ],
+  [
     "avatar_effect161",
     "Captains right hand pirate",
     "Pirate First Mate"
+  ],
+  [
+    "avatar_effect162_dt",
+    "Pirate Sword",
+    ""
   ],
   [
     "avatar_effect162",
@@ -13930,6 +14180,11 @@
     "Your head's stuck in the sand!"
   ],
   [
+    "avatar_effect164_dt",
+    "Pirate Musketoon",
+    ""
+  ],
+  [
     "avatar_effect164",
     "Pirate Musketoon",
     "Don't ye be talking too soon."
@@ -13938,6 +14193,11 @@
     "avatar_effect165",
     "Facebooker!",
     "Special Effect for Facebook Connect."
+  ],
+  [
+    "avatar_effect166_dt",
+    "Goblin mask",
+    ""
   ],
   [
     "avatar_effect166",
@@ -13960,9 +14220,19 @@
     "I've been SLIMED. ugh."
   ],
   [
+    "avatar_effect16_dt",
+    "Microphone",
+    ""
+  ],
+  [
     "avatar_effect16",
     "Microphone",
     "Sing the night away!"
+  ],
+  [
+    "avatar_effect170_dt",
+    "Duck_name",
+    ""
   ],
   [
     "avatar_effect170",
@@ -13975,14 +14245,29 @@
     "Space bunny helmet_desc"
   ],
   [
+    "avatar_effect172_dt",
+    "Steelscar Helmet and Torch",
+    ""
+  ],
+  [
     "avatar_effect172",
     "Steelscar Helmet and Torch",
     "Set fire to the coties!"
   ],
   [
+    "avatar_effect173_dt",
+    "Battleshade Helmet and Torch",
+    ""
+  ],
+  [
     "avatar_effect173",
     "Battleshade Helmet and Torch",
     "Set fire to the coties!"
+  ],
+  [
+    "avatar_effect174_dt",
+    "Hoverboard Green_name",
+    ""
   ],
   [
     "avatar_effect174",
@@ -14010,9 +14295,19 @@
     "Count on me!"
   ],
   [
+    "avatar_effect179_dt",
+    "Luchador Mask",
+    ""
+  ],
+  [
     "avatar_effect179",
     "Luchador Mask",
     "This effect lasts 6 days"
+  ],
+  [
+    "avatar_effect17_dt",
+    "Pink UFO",
+    ""
   ],
   [
     "avatar_effect17",
@@ -14020,9 +14315,19 @@
     "Fly away with this UFO of love."
   ],
   [
+    "avatar_effect180_dt",
+    "Azul Marino Calaca Mask",
+    ""
+  ],
+  [
     "avatar_effect180",
     "Azul Marino Calaca Mask",
     "This effect lasts 6 days"
+  ],
+  [
+    "avatar_effect181_dt",
+    "Brillante Calaca Mask",
+    ""
   ],
   [
     "avatar_effect181",
@@ -14033,6 +14338,11 @@
     "avatar_effect182",
     "Cyberpunk gun_name",
     "Cyberpunk gun_desc"
+  ],
+  [
+    "avatar_effect183_dt",
+    "Fossil hammer_name",
+    ""
   ],
   [
     "avatar_effect183",
@@ -14048,6 +14358,11 @@
     "avatar_effect185",
     "Swim Evil_name",
     "Swim Evil_desc"
+  ],
+  [
+    "avatar_effect186_dt",
+    "Magic Wand Effect",
+    ""
   ],
   [
     "avatar_effect186",
@@ -14070,6 +14385,11 @@
     "Mobiles Disco FX_desc"
   ],
   [
+    "avatar_effect18_dt",
+    "Yellow UFO",
+    ""
+  ],
+  [
     "avatar_effect18",
     "Yellow UFO",
     "Unidentified yellow flying object."
@@ -14078,6 +14398,11 @@
     "avatar_effect190",
     "Mobiles Disco FX2_name",
     "Mobiles Disco FX2_desc"
+  ],
+  [
+    "avatar_effect191_dt",
+    "Hover Plank_name",
+    ""
   ],
   [
     "avatar_effect191",
@@ -14125,9 +14450,19 @@
     "Turtle ride_desc"
   ],
   [
+    "avatar_effect19_dt",
+    "BluesMobile",
+    ""
+  ],
+  [
     "avatar_effect19",
     "BluesMobile",
     "We'got a show tonite"
+  ],
+  [
+    "avatar_effect1_dt",
+    "Spotlight",
+    ""
   ],
   [
     "avatar_effect1",
@@ -14185,6 +14520,11 @@
     "LightstickGreen_desc"
   ],
   [
+    "avatar_effect20_dt",
+    "HelpMobile",
+    ""
+  ],
+  [
     "avatar_effect20",
     "HelpMobile",
     "I'll help you if I can"
@@ -14240,6 +14580,11 @@
     "Hide_desc"
   ],
   [
+    "avatar_effect21_dt",
+    "RebelMobile",
+    ""
+  ],
+  [
     "avatar_effect21",
     "RebelMobile",
     "Rebel without a cause"
@@ -14285,6 +14630,11 @@
     "NFTRoboHolo_desc"
   ],
   [
+    "avatar_effect22_dt",
+    "Bad bad BadMobile",
+    ""
+  ],
+  [
     "avatar_effect22",
     "Bad bad BadMobile",
     "Get all evil with this BadMobile"
@@ -14328,6 +14678,11 @@
     "avatar_effect29",
     "Swimming_name",
     "Swimming_desc"
+  ],
+  [
+    "avatar_effect2_dt",
+    "Hover Board",
+    ""
   ],
   [
     "avatar_effect2",
@@ -14385,6 +14740,11 @@
     "Ice skating - Girls_desc"
   ],
   [
+    "avatar_effect3_dt",
+    "UFO",
+    ""
+  ],
+  [
     "avatar_effect3",
     "UFO",
     "Help, I'm being abducted!"
@@ -14430,6 +14790,11 @@
     "Can you find a superhero to fight?"
   ],
   [
+    "avatar_effect48_dt",
+    "Car Doggy",
+    ""
+  ],
+  [
     "avatar_effect48",
     "Car Doggy",
     ""
@@ -14438,6 +14803,11 @@
     "avatar_effect49",
     "ES red Untouchable_name",
     "ES red Untouchable_desc"
+  ],
+  [
+    "avatar_effect4_dt",
+    "Twinkle",
+    ""
   ],
   [
     "avatar_effect4",
@@ -14495,6 +14865,11 @@
     "sunnydelight_desc"
   ],
   [
+    "avatar_effect5_dt",
+    "Torch",
+    ""
+  ],
+  [
     "avatar_effect5",
     "Torch",
     "Light the dark corners of your existence."
@@ -14518,6 +14893,11 @@
     "avatar_effect63",
     "disney3_name",
     "disney3_desc"
+  ],
+  [
+    "avatar_effect64_dt",
+    "Candle Pixel Effect",
+    ""
   ],
   [
     "avatar_effect64",
@@ -14550,6 +14930,11 @@
     "volkswagen_desc"
   ],
   [
+    "avatar_effect6_dt",
+    "HRJP-3000",
+    ""
+  ],
+  [
     "avatar_effect6",
     "HRJP-3000",
     "Habbo Rocket Jet Pack."
@@ -14563,6 +14948,11 @@
     "avatar_effect71",
     "Special Skate Effect",
     "For HC, lasts 1 hour."
+  ],
+  [
+    "avatar_effect72_dt",
+    "Skate Effect",
+    ""
   ],
   [
     "avatar_effect72",
@@ -14600,9 +14990,19 @@
     "perry_desc"
   ],
   [
+    "avatar_effect79_dt",
+    "Alien",
+    ""
+  ],
+  [
     "avatar_effect79",
     "Alien",
     "Beware the curse of ChronoZomfg..."
+  ],
+  [
+    "avatar_effect7_dt",
+    "Butterflies",
+    ""
   ],
   [
     "avatar_effect7",
@@ -14610,9 +15010,19 @@
     "Not only in your stomach."
   ],
   [
+    "avatar_effect80_dt",
+    "Bad Breath",
+    ""
+  ],
+  [
     "avatar_effect80",
     "Bad Breath",
     "Beware the curse of ChronoZomfg..."
+  ],
+  [
+    "avatar_effect81_dt",
+    "Swamp Creature",
+    ""
   ],
   [
     "avatar_effect81",
@@ -14620,9 +15030,19 @@
     "Beware the curse of ChronoZomfg..."
   ],
   [
+    "avatar_effect82_dt",
+    "Ink Face",
+    ""
+  ],
+  [
     "avatar_effect82",
     "Ink Face",
     "Beware the curse of ChronoZomfg..."
+  ],
+  [
+    "avatar_effect83_dt",
+    "Dead Bride",
+    ""
   ],
   [
     "avatar_effect83",
@@ -14630,9 +15050,19 @@
     "Beware the curse of ChronoZomfg..."
   ],
   [
+    "avatar_effect84_dt",
+    "Mummy",
+    ""
+  ],
+  [
     "avatar_effect84",
     "Mummy",
     "Beware the curse of ChronoZomfg..."
+  ],
+  [
+    "avatar_effect85_dt",
+    "Pum King",
+    ""
   ],
   [
     "avatar_effect85",
@@ -14643,6 +15073,11 @@
     "avatar_effect86",
     "Scarecrow",
     "Beware the curse of ChronoZomfg..."
+  ],
+  [
+    "avatar_effect87_dt",
+    "Werewolf",
+    ""
   ],
   [
     "avatar_effect87",
@@ -14658,6 +15093,11 @@
     "avatar_effect89",
     "Knife in the Back",
     "Ow!"
+  ],
+  [
+    "avatar_effect8_dt",
+    "Fireflies",
+    ""
   ],
   [
     "avatar_effect8",
@@ -14708,6 +15148,11 @@
     "avatar_effect99",
     "Niko Effect",
     "Join Niko's quest in Niko the game!"
+  ],
+  [
+    "avatar_effect9_dt",
+    "Love Birds",
+    ""
   ],
   [
     "avatar_effect9",
@@ -76106,7 +76551,7 @@
   ],
   [
     "nft_A0_rarexmasscreen",
-    "$furni_rare_xmas_screen_name$",
+    "Santa and Elf",
     "Ho Ho Ho!"
   ],
   [
@@ -76206,7 +76651,7 @@
   ],
   [
     "nft_Christmas_Reindeer_Rare",
-    "$furni_christmas_reindeer_name$",
+    "Reindeer",
     "Stuffed animal on wheels"
   ],
   [
@@ -76386,7 +76831,7 @@
   ],
   [
     "nft_a0_pillow",
-    "$furni_pillow*0_name$",
+    "A Snow Drift",
     "Comfort with style"
   ],
   [
@@ -76461,7 +76906,7 @@
   ],
   [
     "nft_a0_snowrug",
-    "$furni_rare_snowrug_name$",
+    "Snow Patch",
     "null"
   ],
   [
@@ -76501,7 +76946,7 @@
   ],
   [
     "nft_a10_pillar",
-    "$furni_pillar*8_name$",
+    "Doric Olive Green Pillar",
     "Corinthian coolness"
   ],
   [
@@ -76561,7 +77006,7 @@
   ],
   [
     "nft_a11_pillow",
-    "$furni_pillow*9_name$",
+    "Green Giant Pillow",
     "Comfort with style"
   ],
   [
@@ -76761,12 +77206,12 @@
   ],
   [
     "nft_a4_pillar",
-    "$furni_pillar*2_name$",
+    "Leap Day Pillar",
     "Corinthian coolness"
   ],
   [
     "nft_a4_pillow",
-    "$furni_pillow*2_name$",
+    "Festive Red Pillow",
     "Comfort with style"
   ],
   [
@@ -76821,12 +77266,12 @@
   ],
   [
     "nft_a5_pillar",
-    "$furni_pillar*3_name$",
+    "Doric Blue Pillar",
     "Corinthian coolness"
   ],
   [
     "nft_a5_pillow",
-    "$furni_pillow*3_name$",
+    "Turquoise Giant Pillow",
     "Comfort with style"
   ],
   [
@@ -77061,12 +77506,12 @@
   ],
   [
     "nft_a9_pillar",
-    "$furni_pillar*7_name$",
+    "Doric Gold Pillar",
     "Corinthian coolness"
   ],
   [
     "nft_a9_pillow",
-    "$furni_pillow*7_name$",
+    "Bonnie Blonde's Pillow",
     "Comfort with style"
   ],
   [
@@ -77111,22 +77556,22 @@
   ],
   [
     "nft_army15_copter",
-    "$furni_army15_copter_name$",
+    "HabboCopter",
     "nft_army15_copter desc"
   ],
   [
     "nft_army15_dog",
-    "$furni_army15_dog_name$",
+    "Hector the German Shepherd",
     "nft_army15_dog desc"
   ],
   [
     "nft_army15_largescreen",
-    "$wallitem_army15_largescreen_name$",
+    "Global Satellite Screen",
     "nft_army15_largescreen desc"
   ],
   [
     "nft_army15_scanner",
-    "$furni_army15_scanner_name$",
+    "X-Ray Scanner",
     "nft_army15_scanner desc"
   ],
   [
@@ -77526,12 +77971,12 @@
   ],
   [
     "nft_cland15_candythrone",
-    "$furni_cland15_candythrone_name$",
+    "Candy Throne",
     "nft_cland15_candythrone desc"
   ],
   [
     "nft_cland15_unicorn",
-    "$furni_cland15_unicorn_name$",
+    "Magical Candy Unicorn",
     "nft_cland15_unicorn desc"
   ],
   [
@@ -77631,17 +78076,17 @@
   ],
   [
     "nft_diamond_painting64",
-    "$wallitem_diamond_painting64_name$",
+    "Welcome Lounge Family",
     "nft_diamond_painting64 desc"
   ],
   [
     "nft_diamond_painting65",
-    "$wallitem_diamond_painting65_name$",
+    "Foggy Frank",
     "nft_diamond_painting65 desc"
   ],
   [
     "nft_diamond_painting66",
-    "$wallitem_diamond_painting66_name$",
+    "Seeing Red",
     "nft_diamond_painting66 desc"
   ],
   [
@@ -77651,12 +78096,12 @@
   ],
   [
     "nft_diamond_painting68",
-    "$wallitem_diamond_painting68_name$",
+    "Pixel Saint",
     "nft_diamond_painting68 desc"
   ],
   [
     "nft_diamond_painting69",
-    "$furni_diamond_painting69_name$",
+    "Divine Statue",
     "nft_diamond_painting69 desc"
   ],
   [
@@ -77666,7 +78111,7 @@
   ],
   [
     "nft_diamond_painting70",
-    "$furni_diamond_painting70_name$",
+    "One Very Stuck Sword",
     "nft_diamond_painting70 desc"
   ],
   [
@@ -77676,22 +78121,22 @@
   ],
   [
     "nft_diamond_painting72",
-    "$furni_diamond_painting72_name$",
+    "A Habbo's Best Friend",
     "nft_diamond_painting72 desc"
   ],
   [
     "nft_diamond_painting73",
-    "$wallitem_diamond_painting73_name$",
+    "Presidential Suite Portrait",
     "nft_diamond_painting73 desc"
   ],
   [
     "nft_diamond_painting74",
-    "$wallitem_diamond_painting74_name$",
+    "The Madness of Pixels",
     "nft_diamond_painting74 desc"
   ],
   [
     "nft_diamond_painting75",
-    "$furni_diamond_painting75_name$",
+    "Habbo of the North",
     "nft_diamond_painting75 desc"
   ],
   [
@@ -77706,27 +78151,27 @@
   ],
   [
     "nft_diamond_throne",
-    "$furni_diamond_throne_name$",
+    "Diamond Throne",
     "nft_diamond_throne desc"
   ],
   [
     "nft_dino15_fossil2",
-    "$furni_dino15_fossil2_name$",
+    "Plesiosaurus Fossil (Needs Fossil hammer_name)",
     "nft_dino15_fossil2 desc"
   ],
   [
     "nft_dino15_fossil3",
-    "$furni_dino15_fossil3_name$",
+    "Raptor Fossil (Needs Fossil hammer_name)",
     "nft_dino15_fossil3 desc"
   ],
   [
     "nft_dino15_fossil4",
-    "$furni_dino15_fossil4_name$",
+    "Triceratops Fossil (Needs Fossil hammer_name)",
     "nft_dino15_fossil4 desc"
   ],
   [
     "nft_dino15_fossil5",
-    "$furni_dino15_fossil5_name$",
+    "Archaeopteryx Fossil (Needs Fossil hammer_name)",
     "nft_dino15_fossil5 desc"
   ],
   [
@@ -77741,12 +78186,12 @@
   ],
   [
     "nft_easter_r19_mysticalbird",
-    "$furni_easter_r19_mysticalbird_name$",
+    "Rainbow Forest Chicken",
     "nft_easter_r19_mysticalbird desc"
   ],
   [
     "nft_easter_r19_treeswing",
-    "$furni_easter_r19_treeswing_name$",
+    "Fairytale Forest Swing",
     "nft_easter_r19_treeswing desc"
   ],
   [
@@ -78221,7 +78666,7 @@
   ],
   [
     "nft_gold_c15_arc_statue",
-    "$furni_gold_c15_arc_statue_name$",
+    "Solid Gold Penguin",
     "nft_gold_c15_arc_statue desc"
   ],
   [
@@ -80431,12 +80876,12 @@
   ],
   [
     "nft_ktchn15_bubblejuicerack",
-    "$furni_ktchn15_bubblejuicerack_name$",
+    "Bobba Juice Rack",
     "nft_ktchn15_bubblejuicerack desc"
   ],
   [
     "nft_ktchn15_cabinet",
-    "$furni_ktchn15_cabinet_name$",
+    "Antique Crockery Cupboard",
     "nft_ktchn15_cabinet desc"
   ],
   [
@@ -80531,7 +80976,7 @@
   ],
   [
     "nft_ny16_stars",
-    "$furni_ny16_stars_name$",
+    "Snazzy Star Decoration",
     "nft_ny16_stars desc"
   ],
   [
@@ -80551,32 +80996,32 @@
   ],
   [
     "nft_qt_xm10_ice_fish",
-    "$furni_qt_xm10_ice_fish_name$",
+    "Frozen Fish",
     "nft_qt_xm10_ice_fish desc"
   ],
   [
     "nft_qt_xm10_iceclubsofa",
-    "$furni_qt_xm10_iceclubsofa_name$",
+    "Cool Club Sofa",
     "nft_qt_xm10_iceclubsofa desc"
   ],
   [
     "nft_qt_xm10_icedragon",
-    "$furni_qt_xm10_icedragon_name$",
+    "Blizzard Dragon",
     "nft_qt_xm10_icedragon desc"
   ],
   [
     "nft_qt_xm10_iceelephant",
-    "$furni_qt_xm10_iceelephant_name$",
+    "Woah Nelly!",
     "nft_qt_xm10_iceelephant desc"
   ],
   [
     "nft_qt_xm10_icepillar",
-    "$furni_qt_xm10_icepillar_name$",
+    "Frozen Pillar",
     "nft_qt_xm10_icepillar desc"
   ],
   [
     "nft_qt_xm10_trex",
-    "$furni_qt_xm10_trex_name$",
+    "Frozen In Time",
     "nft_qt_xm10_trex desc"
   ],
   [
@@ -80856,12 +81301,12 @@
   ],
   [
     "nft_rare_r19_car1",
-    "$furni_rare_r19_car1_name$",
+    "The Bonnie Blonde Mobile",
     "nft_rare_r19_car1 desc"
   ],
   [
     "nft_rare_royalchair",
-    "$furni_rare_royalchair_name$",
+    "Rare Vintage Armchair",
     "nft_rare_royalchair desc"
   ],
   [
@@ -80876,7 +81321,7 @@
   ],
   [
     "nft_rclr_sofa",
-    "$furni_rclr_sofa_name$",
+    "Polar Sofa",
     "Snuggle up together"
   ],
   [
@@ -81101,22 +81546,22 @@
   ],
   [
     "nft_val_r19_bath",
-    "$furni_val_r19_bath_name$",
+    "Romantic Bathtub",
     "nft_val_r19_bath desc"
   ],
   [
     "nft_val_r19_puppy",
-    "$furni_val_r19_puppy_name$",
+    "Puppy Present",
     "nft_val_r19_puppy desc"
   ],
   [
     "nft_val_r19_recordplayer",
-    "$furni_val_r19_recordplayer_name$",
+    "Romantic Record Player",
     "nft_val_r19_recordplayer desc"
   ],
   [
     "nft_val_r19_sofa",
-    "$furni_val_r19_sofa_name$",
+    "Romantic Sofa",
     "nft_val_r19_sofa desc"
   ],
   [
@@ -81131,47 +81576,47 @@
   ],
   [
     "nft_xm09_cocoa",
-    "$furni_xm09_cocoa_name$",
+    "Hot Chocolate Maker",
     "get some hot chocolade"
   ],
   [
     "nft_xmas11_btlr",
-    "$furni_xmas11_btlr_name$",
+    "The Santa Butler",
     "nft_xmas11_btlr desc"
   ],
   [
     "nft_xmas11_throne",
-    "$furni_xmas11_throne_name$",
+    "Xmas Throne",
     "nft_xmas11_throne desc"
   ],
   [
     "nft_xmas12_nutcracker",
-    "$furni_xmas12_nutcracker_name$",
+    "The Nutcracker",
     "nft_xmas12_nutcracker desc"
   ],
   [
     "nft_xmas14_sharkthrone",
-    "$furni_xmas14_sharkthrone_name$",
+    "Shark Santa Throne",
     "nft_xmas14_sharkthrone desc"
   ],
   [
     "nft_xmas15_clocktower",
-    "$furni_xmas15_clocktower_name$",
+    "Clock Tower",
     "nft_xmas15_clocktower desc"
   ],
   [
     "nft_xmas15_rudolf",
-    "$furni_xmas15_rudolf_name$",
+    "Rudolf the Red-Nosed Reindeer",
     "nft_xmas15_rudolf desc"
   ],
   [
     "nft_xmas15_sleigh",
-    "$furni_xmas15_sleigh_name$",
+    "Ornate Winter Sleigh",
     "nft_xmas15_sleigh desc"
   ],
   [
     "nft_xmas15_stand",
-    "$furni_xmas15_stand_name$",
+    "Bavarian Christmas Photo Stand",
     "nft_xmas15_stand desc"
   ],
   [
@@ -83735,6 +84180,11 @@
     "Use this box to breed your Terriers"
   ],
   [
+    "pet_food_corn_dt",
+    "Corn",
+    ""
+  ],
+  [
     "pet_food_corn",
     "Corn",
     "Nutritious but a bit corny (Low energy)"
@@ -83775,9 +84225,19 @@
     "petbox_epic desc"
   ],
   [
+    "petfood10_dt",
+    "Holiday Cake",
+    ""
+  ],
+  [
     "petfood10",
     "Holiday Cake",
     "For special moments (825 nutrition)"
+  ],
+  [
+    "petfood11_dt",
+    "Pile Of Letters",
+    ""
   ],
   [
     "petfood11",
@@ -83785,9 +84245,19 @@
     "A pile of bills, probably (130 nutrition)"
   ],
   [
+    "petfood12_dt",
+    "Books",
+    ""
+  ],
+  [
     "petfood12",
     "Books",
     "Culture gives you food (100 nutrition)"
+  ],
+  [
+    "petfood13_dt",
+    "TV Remote",
+    ""
   ],
   [
     "petfood13",
@@ -83795,9 +84265,19 @@
     "Argh! Now I can't change the channel! (120 nutrition)"
   ],
   [
+    "petfood14_dt",
+    "Chocolate Gazelle",
+    ""
+  ],
+  [
     "petfood14",
     "Chocolate Gazelle",
     "Sweets for your lion! (High Energy)"
+  ],
+  [
+    "petfood15_dt",
+    "Hay",
+    ""
   ],
   [
     "petfood15",
@@ -83805,9 +84285,19 @@
     "A pleasant snack (400 nutrition)"
   ],
   [
+    "petfood16_dt",
+    "Popsicles",
+    ""
+  ],
+  [
     "petfood16",
     "Popsicles",
     "Fresh and sweet! (130 nutrition)"
+  ],
+  [
+    "petfood17_dt",
+    "Grapes",
+    ""
   ],
   [
     "petfood17",
@@ -83815,9 +84305,19 @@
     "Juicy and delicious. (Low Energy)"
   ],
   [
+    "petfood18_dt",
+    "Webbed Grapes",
+    ""
+  ],
+  [
     "petfood18",
     "Webbed Grapes",
     "Juicy and delicious, for spiders only! (375 nutrition)"
+  ],
+  [
+    "petfood19_dt",
+    "The Fly",
+    ""
   ],
   [
     "petfood19",
@@ -83835,9 +84335,19 @@
     "Fresh and tasty (100 nutrition)"
   ],
   [
+    "petfood22_dt",
+    "Red Pepper",
+    ""
+  ],
+  [
     "petfood22",
     "Red Pepper",
     "Hot hot hot! (375 nutrition)"
+  ],
+  [
+    "petfood23_dt",
+    "Yellow Chili",
+    ""
   ],
   [
     "petfood23",
@@ -83845,9 +84355,19 @@
     "Hot hot hot! (375 nutrition)"
   ],
   [
+    "petfood24_dt",
+    "Shrimps",
+    ""
+  ],
+  [
     "petfood24",
     "Shrimps",
     "Only for the turtle (375 nutrition)"
+  ],
+  [
+    "petfood25_dt",
+    "Banana",
+    ""
   ],
   [
     "petfood25",
@@ -83855,9 +84375,19 @@
     "No drama with this banana just good eating! (375 nutrition)"
   ],
   [
+    "petfood26_dt",
+    "Hay Bucket",
+    ""
+  ],
+  [
     "petfood26",
     "Hay Bucket",
     "Tasty food for your large farmyard pets (375 nutrition)"
+  ],
+  [
+    "petfood27_dt",
+    "Grass Duck",
+    ""
   ],
   [
     "petfood27",
@@ -83865,9 +84395,19 @@
     "For your large farmyard pets to munch! (1375 nutrition)"
   ],
   [
+    "petfood28_dt",
+    "Carrot",
+    ""
+  ],
+  [
     "petfood28",
     "Carrot",
     "Nom nom nom (50 nutrition)"
+  ],
+  [
+    "petfood29_dt",
+    "Choco-Bunny",
+    ""
   ],
   [
     "petfood29",
@@ -83875,9 +84415,19 @@
     "Tasty Pet treat (50 nutrition)"
   ],
   [
+    "petfood30_dt",
+    "Meat Bone",
+    ""
+  ],
+  [
     "petfood30",
     "Meat Bone",
     "Medium rare"
+  ],
+  [
+    "petfood31_dt",
+    "Kale",
+    ""
   ],
   [
     "petfood31",
@@ -83890,6 +84440,11 @@
     "Get 6 Green apples in this deal!"
   ],
   [
+    "petfood5_dt",
+    "Green Apples",
+    ""
+  ],
+  [
     "petfood5",
     "Green Apples",
     "Full of vitamin G (350 nutrition)"
@@ -83898,6 +84453,11 @@
     "petfood6_6pack",
     "Red Apple 6 Pack",
     "Get 6 Red apples in this deal!"
+  ],
+  [
+    "petfood6_dt",
+    "Red Apples",
+    ""
   ],
   [
     "petfood6",
@@ -83910,6 +84470,11 @@
     "6 Ice Apples in 1 pack!"
   ],
   [
+    "petfood7_dt",
+    "Ice Apples",
+    ""
+  ],
+  [
     "petfood7_horseshoe",
     "petfood7_horseshoe name",
     "petfood7_horseshoe desc"
@@ -83918,6 +84483,11 @@
     "petfood7",
     "Ice Apples",
     "Full of vitamin I (750 nutrition)"
+  ],
+  [
+    "petfood8_dt",
+    "Chicken",
+    ""
   ],
   [
     "petfood8",
@@ -83930,9 +84500,19 @@
     "6 Salmon for the price of 4."
   ],
   [
+    "petfood9_dt",
+    "Salmon",
+    ""
+  ],
+  [
     "petfood9",
     "Salmon",
     "Fresh salmon from the mountains (1375 nutrition)"
+  ],
+  [
+    "petfood_19_dt",
+    "Leaves",
+    ""
   ],
   [
     "petfood_19",
@@ -92086,6 +92666,16 @@
   ],
   [
     "rm_dbl_tto253",
+    "50 per cent Off 50 Credits",
+    "Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person"
+  ],
+  [
+    "rm_dbl_tto254",
+    "50 per cent Off 220 Credits",
+    "Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person"
+  ],
+  [
+    "rm_dbl_tto255",
     "50 per cent Off 50 Credits",
     "Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person"
   ],
