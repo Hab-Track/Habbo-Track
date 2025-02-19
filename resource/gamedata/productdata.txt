@@ -106557,32 +106557,32 @@
   [
     "tile_walkmagic1x2",
     "1x2 Walk Magic Tile",
-    ""
+    "tile_walkmagic1x2 desc"
   ],
   [
     "tile_walkmagic1x4",
     "1x4 Walk Magic Tile",
-    ""
+    "tile_walkmagic1x4 desc"
   ],
   [
     "tile_walkmagic1x8",
     "1x8 Walk Magic Tile",
-    ""
+    "tile_walkmagic1x8 desc"
   ],
   [
     "tile_walkmagic2x2",
     "2x2 Walk Magic Tile",
-    ""
+    "tile_walkmagic2x2 desc"
   ],
   [
     "tile_walkmagic4x4",
     "4x4 Walk Magic Tile",
-    ""
+    "tile_walkmagic4x4 desc"
   ],
   [
     "tile_walkmagic8x8",
     "8x8 Walk Magic Tile",
-    ""
+    "tile_walkmagic8x8 desc"
   ],
   [
     "tile_walkmagic",
@@ -112452,7 +112452,7 @@
   [
     "wf_trg_click_user",
     "WIRED Trigger: User clicks User",
-    ""
+    "wf_trg_click_user desc"
   ],
   [
     "wf_trg_clock_counter",
@@ -112587,12 +112587,12 @@
   [
     "wf_var_quest_chain",
     "WIRED Variable: Quest Chain",
-    ""
+    "wf_var_quest_chain desc"
   ],
   [
     "wf_var_quest",
     "WIRED Variable: Quest",
-    ""
+    "wf_var_quest desc"
   ],
   [
     "wf_var_reference",

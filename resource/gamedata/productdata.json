@@ -106559,32 +106559,32 @@
       {
         "code": "tile_walkmagic1x2",
         "name": "1x2 Walk Magic Tile",
-        "description": ""
+        "description": "tile_walkmagic1x2 desc"
       },
       {
         "code": "tile_walkmagic1x4",
         "name": "1x4 Walk Magic Tile",
-        "description": ""
+        "description": "tile_walkmagic1x4 desc"
       },
       {
         "code": "tile_walkmagic1x8",
         "name": "1x8 Walk Magic Tile",
-        "description": ""
+        "description": "tile_walkmagic1x8 desc"
       },
       {
         "code": "tile_walkmagic2x2",
         "name": "2x2 Walk Magic Tile",
-        "description": ""
+        "description": "tile_walkmagic2x2 desc"
       },
       {
         "code": "tile_walkmagic4x4",
         "name": "4x4 Walk Magic Tile",
-        "description": ""
+        "description": "tile_walkmagic4x4 desc"
       },
       {
         "code": "tile_walkmagic8x8",
         "name": "8x8 Walk Magic Tile",
-        "description": ""
+        "description": "tile_walkmagic8x8 desc"
       },
       {
         "code": "tile_walkmagic",
@@ -112454,7 +112454,7 @@
       {
         "code": "wf_trg_click_user",
         "name": "WIRED Trigger: User clicks User",
-        "description": ""
+        "description": "wf_trg_click_user desc"
       },
       {
         "code": "wf_trg_clock_counter",
@@ -112589,12 +112589,12 @@
       {
         "code": "wf_var_quest_chain",
         "name": "WIRED Variable: Quest Chain",
-        "description": ""
+        "description": "wf_var_quest_chain desc"
       },
       {
         "code": "wf_var_quest",
         "name": "WIRED Variable: Quest",
-        "description": ""
+        "description": "wf_var_quest desc"
       },
       {
         "code": "wf_var_reference",
