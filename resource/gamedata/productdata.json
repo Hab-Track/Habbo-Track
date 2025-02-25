@@ -36474,7 +36474,7 @@
       {
         "code": "clothing_nftbluehearteyes",
         "name": "Electric Blue Heart Eyes",
-        "description": ""
+        "description": "clothing_nftbluehearteyes desc"
       },
       {
         "code": "clothing_nftblueheartshades",
@@ -36764,7 +36764,7 @@
       {
         "code": "clothing_nftflowerfairy",
         "name": "Valentines Flower Fairy",
-        "description": ""
+        "description": "clothing_nftflowerfairy desc"
       },
       {
         "code": "clothing_nftfourtail",
@@ -37189,7 +37189,7 @@
       {
         "code": "clothing_nftpinkhearteyes",
         "name": "Electric Pink Heart Eyes",
-        "description": ""
+        "description": "clothing_nftpinkhearteyes desc"
       },
       {
         "code": "clothing_nftpinkheartshades",
@@ -80735,6 +80735,11 @@
         "code": "nft_h25_flowers9",
         "name": "Pink Peruvian Lilies",
         "description": "nft_h25_flowers9 desc"
+      },
+      {
+        "code": "nft_h25_haf_reddevil",
+        "name": "nft_h25_haf_reddevil name",
+        "description": "nft_h25_haf_reddevil desc"
       },
       {
         "code": "nft_h25_owlsculpture",

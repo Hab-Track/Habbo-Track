@@ -36472,7 +36472,7 @@
   [
     "clothing_nftbluehearteyes",
     "Electric Blue Heart Eyes",
-    ""
+    "clothing_nftbluehearteyes desc"
   ],
   [
     "clothing_nftblueheartshades",
@@ -36762,7 +36762,7 @@
   [
     "clothing_nftflowerfairy",
     "Valentines Flower Fairy",
-    ""
+    "clothing_nftflowerfairy desc"
   ],
   [
     "clothing_nftfourtail",
@@ -37187,7 +37187,7 @@
   [
     "clothing_nftpinkhearteyes",
     "Electric Pink Heart Eyes",
-    ""
+    "clothing_nftpinkhearteyes desc"
   ],
   [
     "clothing_nftpinkheartshades",
@@ -80733,6 +80733,11 @@
     "nft_h25_flowers9",
     "Pink Peruvian Lilies",
     "nft_h25_flowers9 desc"
+  ],
+  [
+    "nft_h25_haf_reddevil",
+    "nft_h25_haf_reddevil name",
+    "nft_h25_haf_reddevil desc"
   ],
   [
     "nft_h25_owlsculpture",
