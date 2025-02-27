@@ -36327,6 +36327,11 @@
         "description": "clothing_nftafk desc"
       },
       {
+        "code": "clothing_nftakaiakuma",
+        "name": "Akai Akuma Hair",
+        "description": ""
+      },
+      {
         "code": "clothing_nftanime",
         "name": "Anime Print",
         "description": "clothing_nftanime desc"
@@ -36425,6 +36430,11 @@
         "code": "clothing_nftbiglollipop",
         "name": "Bonus Lollipop",
         "description": "clothing_nftbiglollipop desc"
+      },
+      {
+        "code": "clothing_nftbigsword",
+        "name": "Huge Sword",
+        "description": ""
       },
       {
         "code": "clothing_nftblackbeanie",
@@ -36560,6 +36570,41 @@
         "code": "clothing_nftcartoonheroine",
         "name": "Cartoon Heroine Face",
         "description": "clothing_nftcartoonheroine desc"
+      },
+      {
+        "code": "clothing_nftcat",
+        "name": "Cat Cafe Cat",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftcatheadband2",
+        "name": "Dark Neko Headband",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftcatheadband",
+        "name": "Pink Neko Headband",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftcatmaiddress2",
+        "name": "Dark Neko Dress",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftcatmaiddress",
+        "name": "Pink Neko Dress",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftcatslippers2",
+        "name": "Black Cat Slippers",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftcatslippers",
+        "name": "White Cat Slippers",
+        "description": ""
       },
       {
         "code": "clothing_nftcfbeanie",
@@ -37367,6 +37412,11 @@
         "description": "clothing_nftsbvisor desc"
       },
       {
+        "code": "clothing_nftscarface",
+        "name": "Scar Face",
+        "description": ""
+      },
+      {
         "code": "clothing_nftshiba",
         "name": "Faithful Shiba Inu",
         "description": "clothing_nftshiba desc"
@@ -37820,6 +37870,11 @@
         "code": "clothing_nftyellowraincoat",
         "name": "Yellow Translucent Anorak",
         "description": "clothing_nftyellowraincoat desc"
+      },
+      {
+        "code": "clothing_nftyumekawa",
+        "name": "Yume Kawaii Hair",
+        "description": ""
       },
       {
         "code": "clothing_nftyummy",
@@ -80738,7 +80793,7 @@
       },
       {
         "code": "nft_h25_haf_reddevil",
-        "name": "nft_h25_haf_reddevil name",
+        "name": "Red Devil Action Figure",
         "description": "nft_h25_haf_reddevil desc"
       },
       {
