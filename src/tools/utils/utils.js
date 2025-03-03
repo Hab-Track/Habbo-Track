@@ -1,4 +1,4 @@
-const { execSync } = require('child_process');
+const { execSync, spawnSync } = require('child_process');
 const path = require('path')
 
 function getLastCommitSha() {
@@ -42,10 +42,8 @@ function formatName(filePath) {
 
 function getCommitLines(commitSha) {
   try {
-    return execSync(`git show ${commitSha}`, { maxBuffer: 1024 * 1024 * 10 })
-      .toString()
-      .trim()
-      .split('\n');
+    const result = spawnSync('git', ['show', commitSha]);
+    return result.stdout.toString().trim().split('\n');
   } catch (error) {
     console.error(`Error executing git show: ${error.message}`);
     return [];

@@ -1,7 +1,7 @@
 const { generateDiscordDiffMessages, formatName, getLastCommitSha } = require('./utils')
 
 async function processVars(bot) {
-    const fileToMessagesMap = generateDiscordDiffMessages(getLastCommitSha()) // Correction: ajout des parenthèses
+    const fileToMessagesMap = generateDiscordDiffMessages(getLastCommitSha())
 
     for (const [file, messages] of fileToMessagesMap.entries()) {
         if (file.endsWith('furnidata.xml') ||

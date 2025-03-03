@@ -16,7 +16,7 @@ async function processCommand(cmd, domain, bot) {
     if (domain) {
         config.domain = domain;
     }
-    await require(`./command/${cmd}`)();
+    await require(`./habbo/command/${cmd}`)();
     await processVars(bot);
     if (cmd !== 'gamedata') {
         await processImages(bot);

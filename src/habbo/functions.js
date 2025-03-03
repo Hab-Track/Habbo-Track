@@ -75,7 +75,7 @@ async function fetchOne(src, dst, replace = false) {
     await fs.promises.mkdir(path.dirname(dst), { recursive: true })
     await formatTxt(dst, res, png_name)
 
-    console.log(`Downloaded ${dst.split("/").pop()}`)
+    console.log(`Downloaded ${dst}`)
   }
 }
 
