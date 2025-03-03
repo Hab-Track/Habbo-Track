@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const argv = require('minimist')(process.argv.slice(2))
-const { getProd, config } = require('./habbo/functions')
+const { getProd } = require('./habbo/functions')
 const DiscordBot = require('./tools/discord-bot')
 const processVars = require('./tools/utils/send_vars')
 const processImages = require('./tools/utils/send_images')
@@ -12,14 +12,12 @@ process.exit = (o => code => {
     console.trace()
 })(process.exit);
 
-async function processCommand(cmd, domain, bot) {
+async function processCommand(cmd, domain, bot, prod_version) {
     if (domain) {
-        config.domain = domain;
+        await require(`./habbo/command/gamedata`)(domain ,prod_version);
     }
-    await require(`./habbo/command/${cmd}`)();
-    await processVars(bot);
-    if (cmd !== 'gamedata') {
-        await processImages(bot);
+    else {
+        await require(`./habbo/command/${cmd}`)(prod_version);
     }
 }
 
@@ -28,7 +26,8 @@ async function main() {
         console.error('DISCORD_BOT_TOKEN is not set in .env file');
         return;
     }
-    if (!await getProd()) {
+    prod_version = await getProd();
+    if (!prod_version) {
         return;
     }
 
@@ -49,20 +48,22 @@ async function main() {
             for (const cmd of commands) {
                 if (cmd === 'gamedata') {
                     for (const domain of domains) {
-                        await processCommand(cmd, domain, bot);
+                        await processCommand(cmd, domain, bot, prod_version);
                     }
                 } else {
-                    await processCommand(cmd, null, bot);
+                    await processCommand(cmd, null, bot, prod_version);
                 }
             }
         } else if (command === 'gamedata') {
             for (const domain of domains) {
-                await processCommand(command, domain, bot);
+                await processCommand(command, domain, bot, prod_version);
             }
         } else {
-            await processCommand(command, null, bot);
+            await processCommand(command, null, bot, prod_version);
         }
 
+        await processVars(bot);
+        await processImages(bot);
         await bot.sendAllMessages();
     } catch (err) {
         console.error("huehuebr") // I forgot this lmao

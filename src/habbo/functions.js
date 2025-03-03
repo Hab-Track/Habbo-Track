@@ -5,14 +5,6 @@ const fs = require('fs')
 const { XMLParser } = require('fast-xml-parser')
 const { formatTxt } = require('./make_ouput_format')
 
-const config = {
-  sockets: 100,
-  domain: 'com',
-  format: 'png',
-  prod: false,
-  output: './resource',
-}
-
 const opt = {
   agent: new https.Agent({
     keepAlive: true,
@@ -62,7 +54,7 @@ async function fetchJson(src) {
 
 
 async function fetchOne(src, dst, replace = false) {
-  dst = path.join(config.output, dst)
+  dst = path.join("./resource", dst)
   let png_name = dst.replace('.swf', '.png')
 
   if ((await fileExists(dst) || await fileExists(png_name)) && replace === false) {
@@ -95,17 +87,16 @@ async function parseXml(txt) {
   return parser.parse(txt)
 }
 
-
 async function getProd() {
   try {
-    let ext_var = await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)
-    config.prod = ext_var.match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
-    return true
+    let ext_var = await fetchText(`https://www.habbo.com/gamedata/external_variables/0`)
+    prod_version = ext_var.match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
+    return prod_version
   }
   catch (e) {
     console.error("Cant get config prod, maybe habbo down")
-    return false
+    return
   }
 }
 
-module.exports = { fetchText, fetchJson, fetchOne, fetchMany, parseXml, getProd, config }
+module.exports = { fetchText, fetchJson, fetchOne, fetchMany, parseXml, getProd }

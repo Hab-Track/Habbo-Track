@@ -1,4 +1,4 @@
-const { fetchText, fetchMany, config } = require('../functions')
+const { fetchText, fetchMany } = require('../functions')
 
 const regexOne = /^badge_(?:name|desc)_([^=]+)=/gmi
 const regexTwo = /^(.*)_badge_(?:name|desc).*=/gmi
@@ -38,8 +38,8 @@ async function handle () {
 
     await fetchMany([...all].map((code) => {
       return {
-        src: `https://images.habbo.com/c_images/album1584/${code}.${config.format}`,
-        dst: `badges/${d}/${code}.${config.format}`
+        src: `https://images.habbo.com/c_images/album1584/${code}.png`,
+        dst: `badges/${d}/${code}.png`
       }
     }))
   }

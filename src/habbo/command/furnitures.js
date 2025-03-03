@@ -1,4 +1,4 @@
-const { fetchMany, fetchJson, config } = require('../functions')
+const { fetchMany, fetchJson } = require('../functions')
 
 async function parse (json) {
   const all = [
@@ -19,7 +19,7 @@ async function parse (json) {
 }
 
 async function handle () {
-  const json = await fetchJson(`https://www.habbo.${config.domain}/gamedata/furnidata_json/0`)
+  const json = await fetchJson(`https://www.habbo.com/gamedata/furnidata_json/0`)
   const all = await parse(json)
 
   await fetchMany([...all].map((item) => {
