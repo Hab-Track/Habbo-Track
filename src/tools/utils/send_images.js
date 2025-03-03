@@ -1,8 +1,8 @@
 const path = require('path');
-const { isImage, formatName, getLastCommitFiles, getLastCommitSha } = require('./utils')
+const { isImage, formatName, getLastCommitFiles } = require('./utils')
 
 async function processImages(bot) {
-    const lastCommitFiles = getLastCommitFiles(getLastCommitSha())
+  const lastCommitFiles = getLastCommitFiles()
   console.log('Modified files in the commit:', lastCommitFiles);
 
   const imageFiles = lastCommitFiles.filter(isImage);

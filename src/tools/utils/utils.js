@@ -1,12 +1,8 @@
-const { execSync, spawnSync } = require('child_process');
+const { execSync } = require('child_process');
 const path = require('path')
 
-function getLastCommitSha() {
-  return execSync('git rev-parse HEAD').toString().trim();
-}
-
-function getLastCommitFiles(commitSha) {
-  return execSync(`git diff-tree --no-commit-id --name-only -r ${commitSha}`)
+function getLastCommitFiles() {
+  return execSync(`git ls-files --modified --others --exclude-standard`)
     .toString()
     .trim()
     .split('\n');
@@ -40,23 +36,34 @@ function formatName(filePath) {
   return domain ? `> ${type} (${domain}): ${name}` : type === 'Vars' ? `> ${name}` : `> ${type}: ${name}`
 }
 
-function getCommitLines(commitSha) {
-  try {
-    const result = spawnSync('git', ['show', commitSha]);
-    return result.stdout.toString().trim().split('\n');
-  } catch (error) {
-    console.error(`Error executing git show: ${error.message}`);
-    return [];
+function getAllFilesDiff() {
+  const modifiedFiles = getLastCommitFiles();
+  let fullDiff = [];
+
+  for (const file of modifiedFiles) {
+    if (!file) continue;
+    
+    try {
+      fullDiff.push(`diff --git a/${file} b/${file}`);
+      const diff = execSync(`git diff -- "${file}"`).toString();
+      fullDiff.push(...diff.split('\n'));
+    } catch (error) {
+      console.error(`Error getting diff for ${file}:`, error);
+    }
   }
+
+  return fullDiff;
 }
 
-function generateDiscordDiffMessages(commitSha) {
+function generateDiscordDiffMessages() {
   const fileToMessagesMap = new Map()
   const characterLimit = 1800 // max character amount in a single message
   let currentFile
   let message
-  const commitLines = getCommitLines(commitSha)
-  for (const line of commitLines) {
+
+  const lines = getAllFilesDiff();
+
+  for (const line of lines) {
     const match = line.match(/diff --git a\/([^ ]+)/)
     if (match) {
       if (message?.length > 7) {
@@ -87,4 +94,4 @@ function generateDiscordDiffMessages(commitSha) {
   return fileToMessagesMap
 }
 
-module.exports = { isImage, formatName, generateDiscordDiffMessages, getLastCommitSha, getLastCommitFiles }
+module.exports = { isImage, formatName, generateDiscordDiffMessages, getLastCommitFiles }
