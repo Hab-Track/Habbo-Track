@@ -2,9 +2,9 @@
   "name": "habbo-track",
   "version": "1.0.0",
   "description": "Track Habbo updates",
-  "main": "src/habbo/index.js",
+  "main": "src/main.js",
   "scripts": {
-    "test": "node src/habbo/index.js -c clothes"
+    "test": "node src/main.js -d com"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Hab-Track/Habbo-Track#readme",
   "dependencies": {
     "discord.js": "^14.15.3",
+    "dotenv": "^16.4.7",
     "fast-xml-parser": "^4.4.0",
     "lodash": "^4.17.21",
     "minimist": "^1.2.8",

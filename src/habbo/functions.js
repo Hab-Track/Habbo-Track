@@ -82,7 +82,11 @@ async function fetchOne(src, dst, replace = false) {
 async function fetchMany(all, replace = false) {
   await Promise.allSettled(
     all.map((v) => fetchOne(v.src, v.dst, replace)
-      .catch((err) => console.error(err))
+      .catch((err) => {
+        if (!err.message?.includes('Status 404')) {
+          console.error(err)
+        }
+      })
     )
   )
 }
@@ -92,11 +96,7 @@ async function parseXml(txt) {
 }
 
 
-async function initConfig(argv) {
-  const o = argv.o || argv.output
-
-  if (o) config.output = o
-
+async function getProd() {
   try {
     let ext_var = await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)
     config.prod = ext_var.match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
@@ -108,4 +108,4 @@ async function initConfig(argv) {
   }
 }
 
-module.exports = { fetchText, fetchJson, fetchOne, fetchMany, parseXml, initConfig, config }
+module.exports = { fetchText, fetchJson, fetchOne, fetchMany, parseXml, getProd, config }

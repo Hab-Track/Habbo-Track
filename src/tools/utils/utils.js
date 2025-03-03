@@ -1,18 +1,8 @@
 const { execSync } = require('child_process');
 const path = require('path')
 
-function getCommitDetails(commitSha) {
-  const commitDetails = execSync(`git show -s --format="%H;%an;%s" ${commitSha}`).toString().trim();
-  const [sha, authorName, subject] = commitDetails.split(';');
-  return { sha, authorName, subject };
-}
-
-function getBranchName() {
-  return execSync('git rev-parse --abbrev-ref HEAD').toString().trim();
-}
-
-function getUserAvatar() {
-  return "https://i.imgur.com/V4pRaxV.gif"
+function getLastCommitSha() {
+  return execSync('git rev-parse HEAD').toString().trim();
 }
 
 function getLastCommitFiles(commitSha) {
@@ -99,4 +89,4 @@ function generateDiscordDiffMessages(commitSha) {
   return fileToMessagesMap
 }
 
-module.exports = { getCommitDetails, getBranchName, getUserAvatar, getLastCommitFiles, isImage, formatName, generateDiscordDiffMessages }
+module.exports = { isImage, formatName, generateDiscordDiffMessages, getLastCommitSha, getLastCommitFiles }

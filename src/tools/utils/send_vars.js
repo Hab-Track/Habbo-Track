@@ -1,12 +1,12 @@
-const { generateDiscordDiffMessages, formatName } = require('./utils')
+const { generateDiscordDiffMessages, formatName, getLastCommitSha } = require('./utils')
 
-async function sendVars(commitSha, webhookClient) {
-    const fileToMessagesMap = generateDiscordDiffMessages(commitSha)
+async function processVars(bot) {
+    const fileToMessagesMap = generateDiscordDiffMessages(getLastCommitSha()) // Correction: ajout des parenthèses
 
     for (const [file, messages] of fileToMessagesMap.entries()) {
-        if (file.endsWith('furnidata.xml') || 
-            file.endsWith('furnidata.txt') || 
-            file.endsWith('productdata.xml') || 
+        if (file.endsWith('furnidata.xml') ||
+            file.endsWith('furnidata.txt') ||
+            file.endsWith('productdata.xml') ||
             file.endsWith('productdata.txt')) {
             continue
         }
@@ -21,9 +21,9 @@ async function sendVars(commitSha, webhookClient) {
                 messageContent = message
             }
 
-            await webhookClient.send({ content: messageContent })
+            bot.queueTextMessage({ content: messageContent }, file);
         }
     }
 }
 
-module.exports = sendVars
+module.exports = processVars;

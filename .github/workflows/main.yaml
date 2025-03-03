@@ -1,8 +1,5 @@
 name: Download Habbo Files
 
-env:
-  FILE_PATH: src/habbo/index.js
-
 on:
   schedule:
     - cron: "0 */4 * * *"
@@ -11,7 +8,6 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      # Setup
       - uses: actions/checkout@v4
         with:
           submodules: "true"
@@ -24,23 +20,11 @@ jobs:
           npm i
           node src/tools/preventUncaughtExceptionBigLog.mjs
 
-      # Download assets
-      - name: Download Badges
-        run: node $FILE_PATH -c badges
+      - name: Run main script
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+        run: node src/main.js
 
-      - name: Download Clothes
-        run: node $FILE_PATH -c clothes
-
-      - name: Download Effects
-        run: node $FILE_PATH -c effects
-
-      - name: Download Furnitures
-        run: node $FILE_PATH -c furnitures
-
-      - name: Download Gamedata Files
-        run: node $FILE_PATH -c gamedata
-
-      # Commit
       - uses: EndBug/add-and-commit@v9
         with:
           message: New changes detected for Habbo

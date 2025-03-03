@@ -1,10 +1,8 @@
 const path = require('path');
-const { isImage, formatName, getLastCommitFiles } = require('../../tools/utils/utils')
+const { isImage, formatName, getLastCommitFiles, getLastCommitSha } = require('./utils')
 
-async function sendImagesToWebhook(commitSha, webhookClient) {
-  // Get the list of modified files in the specified commit
-  const lastCommitFiles = getLastCommitFiles(commitSha)
-
+async function processImages(bot) {
+    const lastCommitFiles = getLastCommitFiles(getLastCommitSha())
   console.log('Modified files in the commit:', lastCommitFiles);
 
   const imageFiles = lastCommitFiles.filter(isImage);
@@ -14,20 +12,15 @@ async function sendImagesToWebhook(commitSha, webhookClient) {
     return;
   }
 
-  // Send each image to the webhook
   for (const file of imageFiles) {
-    const fileName = path.basename(file);
     const filePath = path.resolve(file);
     const messageContent = formatName(filePath);
 
-    const payload = {
+    bot.queueImageMessage({
       content: messageContent,
-      files: [filePath],
-    };
-
-    await webhookClient.send(payload);
-    console.log(`File ${fileName} sent.`);
+      files: [filePath]
+    });
   }
 }
 
-module.exports = sendImagesToWebhook;
+module.exports = processImages;
