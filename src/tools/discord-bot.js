@@ -62,13 +62,18 @@ class DiscordBot {
                 await this.channels.images.send(message);
             }
 
-            for (const [domain, messages] of this.messageQueue.text.entries()) {
-                const channel = this.channels.text.get(domain);
-                if (channel) {
-                    console.log(`Sending messages for domain: ${domain}`);
-                    await this.sendTextToChannel(channel, messages, domain);
-                }
-            }
+            // Send text messages for all domains in parallel
+            await Promise.all(
+                Array.from(this.messageQueue.text.entries()).map(
+                    async ([domain, messages]) => {
+                        const channel = this.channels.text.get(domain);
+                        if (channel) {
+                            console.log(`Sending messages for domain: ${domain}`);
+                            await this.sendTextToChannel(channel, messages, domain);
+                        }
+                    }
+                )
+            );
 
             console.log('All messages sent successfully');
         } catch (error) {
