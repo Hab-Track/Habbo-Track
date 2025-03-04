@@ -13,6 +13,18 @@ function isImage(file) {
   return imageExtensions.includes(path.extname(file).toLowerCase());
 }
 
+function formatLabel(type, domain, name) {
+  if (type === 'Vars') {
+    return `> ${name}`;
+  }
+  
+  if (domain) {
+    return `> ${type} (${domain}): ${name}`;
+  }
+
+  return `> ${type}: ${name}`;
+}
+
 function formatName(filePath) {
   // examples: "> Badge (com.br): 14XR1" and "> Clothe: acc_chest_anubisbackpack"
   const domains = [
@@ -33,7 +45,7 @@ function formatName(filePath) {
   const domain = domains.filter((d) => parts.includes(d)).pop()
   const type = types[Object.keys(types).filter((type) => parts.includes(type)).pop()]
   const name = path.basename(filePath).substring(0, path.basename(filePath).lastIndexOf('.'))
-  return domain ? `> ${type} (${domain}): ${name}` : type === 'Vars' ? `> ${name}` : `> ${type}: ${name}`
+  return formatLabel(type, domain, name);
 }
 
 function getAllFilesDiff() {
