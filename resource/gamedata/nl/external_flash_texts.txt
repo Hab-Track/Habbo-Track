@@ -38798,7 +38798,7 @@ wiredfurni.params.length.minutes=Duur: %minutes% minuten
 wiredfurni.params.level_selection=Set level: %level%
 wiredfurni.params.levelup.first_level_xp=Basis XP:
 wiredfurni.params.levelup.increase_factor=Verhogingsfactor (%):
-wiredfurni.params.levelup.interpolation_placeholder=
+wiredfurni.params.levelup.interpolation_placeholder=5=100             (Level 5 = 100 XP)\n10=500\n20=4000\n...
 wiredfurni.params.levelup.max_level=Max Niveau:
 wiredfurni.params.levelup.mode.0=Handmatige input
 wiredfurni.params.levelup.mode.1=Lineair
