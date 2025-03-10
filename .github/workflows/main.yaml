@@ -27,7 +27,7 @@ jobs:
 
       - uses: EndBug/add-and-commit@v9
         with:
-          message: New changes detected for Habbo
+          message: New changes detected
           default_author: github_actions
-          author_name: Hab Track
+          author_name: Hab-Track
           committer_name: habbo-downloader
