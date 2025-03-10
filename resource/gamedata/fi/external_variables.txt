@@ -148,6 +148,12 @@ effects.in.avatar.editor=true
 effects.reactivate.on.room.entry=true
 email.verification.url=${url.prefix}/profile?tab=3
 embed.showInRoomInfo=true
+error_handling.crash_on_critical_error=false
+error_handling.exclude_crashing=2015
+error_handling.exclude_warnings=2015
+error_handling.show_error.include_non_critical=false
+error_handling.show_error=true
+error_handling.show_stacktrace=true
 eventinfo.enabled=true
 external.figurepartlist.txt=http://www.habbo.fi/gamedata/figuredata
 external.texts.txt=${url.prefix}/gamedata/external_flash_texts/1
@@ -8579,8 +8585,8 @@ zoom.enabled=1
 
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202502261252-360607460/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.fi/gamedata/external_flash_texts/83fc4d6fb229463e7cca23bd9e6b9756892b7563
+external.texts.txt=https://www.habbo.fi/gamedata/external_flash_texts/675f6be32d4b25bc6ca7844ce1680a99cbc8bfd2
 external.figurepartlist.txt=https://www.habbo.fi/gamedata/figuredata/33c70ed7c172786a4792e544448443b7cc54efff
 productdata.load.url=http://www.habbo.fi/gamedata/productdata/e22ed465dd7fed66ef374e536ff868cf3d12b174
-furnidata.load.url=http://www.habbo.fi/gamedata/furnidata_xml/bc4481160efebd71db203d753598f9ba5f176b34
-external.override.texts.txt=https://www.habbo.fi/gamedata/override/external_flash_override_texts/83fc4d6fb229463e7cca23bd9e6b9756892b7563
+furnidata.load.url=http://www.habbo.fi/gamedata/furnidata_xml/355b0c62b749c99da46eb903ab15b4e7746ee50f
+external.override.texts.txt=https://www.habbo.fi/gamedata/override/external_flash_override_texts/675f6be32d4b25bc6ca7844ce1680a99cbc8bfd2

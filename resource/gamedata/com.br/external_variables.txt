@@ -150,6 +150,12 @@ effects.in.avatar.editor=true
 effects.reactivate.on.room.entry=true
 email.verification.url=${url.prefix}/profile?tab=3
 embed.showInRoomInfo=true
+error_handling.crash_on_critical_error=false
+error_handling.exclude_crashing=2015
+error_handling.exclude_warnings=2015
+error_handling.show_error.include_non_critical=false
+error_handling.show_error=true
+error_handling.show_stacktrace=true
 eventinfo.enabled=true
 external.figurepartlist.txt=http://www.habbo.com.br/gamedata/figuredata
 external.texts.txt=${url.prefix}/gamedata/external_flash_texts/1
@@ -8645,8 +8651,8 @@ zoom.enabled=1
 
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202502261252-360607460/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.com.br/gamedata/external_flash_texts/d9a193eeeefba9c7ba42a3bbd2d4f93c86855abd
+external.texts.txt=https://www.habbo.com.br/gamedata/external_flash_texts/3ff9950dd29c23e031e13fe21321edc2dc63fce9
 external.figurepartlist.txt=https://www.habbo.com.br/gamedata/figuredata/33c70ed7c172786a4792e544448443b7cc54efff
 productdata.load.url=http://www.habbo.com.br/gamedata/productdata/5cfbaa7a9a99d653055a1cf0cf56a1dc97027cd5
 furnidata.load.url=http://www.habbo.com.br/gamedata/furnidata_xml/8d3ba37b7bae71ddaaeae24ed33c83f90d2c1715
-external.override.texts.txt=https://www.habbo.com.br/gamedata/override/external_flash_override_texts/d9a193eeeefba9c7ba42a3bbd2d4f93c86855abd
+external.override.texts.txt=https://www.habbo.com.br/gamedata/override/external_flash_override_texts/3ff9950dd29c23e031e13fe21321edc2dc63fce9
