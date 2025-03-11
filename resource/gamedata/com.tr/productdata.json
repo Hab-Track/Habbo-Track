@@ -37124,7 +37124,7 @@
       {
         "code": "clothing_nftbigsword",
         "name": "Dev Kılıç",
-        "description": ""
+        "description": "clothing_nftbigsword desc"
       },
       {
         "code": "clothing_nftblackbeanie",
@@ -38104,7 +38104,7 @@
       {
         "code": "clothing_nftscarface",
         "name": "Yara İzli",
-        "description": ""
+        "description": "clothing_nftscarface desc"
       },
       {
         "code": "clothing_nftshiba",
@@ -60197,6 +60197,86 @@
         "description": "easter_c24_well desc"
       },
       {
+        "code": "easter_c25_blueprint1",
+        "name": "easter_c25_blueprint1 name",
+        "description": "easter_c25_blueprint1 desc"
+      },
+      {
+        "code": "easter_c25_blueprint2",
+        "name": "easter_c25_blueprint2 name",
+        "description": "easter_c25_blueprint2 desc"
+      },
+      {
+        "code": "easter_c25_blueprint3",
+        "name": "easter_c25_blueprint3 name",
+        "description": "easter_c25_blueprint3 desc"
+      },
+      {
+        "code": "easter_c25_blueprint4",
+        "name": "easter_c25_blueprint4 name",
+        "description": "easter_c25_blueprint4 desc"
+      },
+      {
+        "code": "easter_c25_bunnypicnic",
+        "name": "easter_c25_bunnypicnic name",
+        "description": "easter_c25_bunnypicnic desc"
+      },
+      {
+        "code": "easter_c25_clothescrafter",
+        "name": "easter_c25_clothescrafter name",
+        "description": "easter_c25_clothescrafter desc"
+      },
+      {
+        "code": "easter_c25_craftingtools",
+        "name": "easter_c25_craftingtools name",
+        "description": "easter_c25_craftingtools desc"
+      },
+      {
+        "code": "easter_c25_designerbag2",
+        "name": "easter_c25_designerbag2 name",
+        "description": "easter_c25_designerbag2 desc"
+      },
+      {
+        "code": "easter_c25_designerbag2b",
+        "name": "easter_c25_designerbag2b name",
+        "description": "easter_c25_designerbag2b desc"
+      },
+      {
+        "code": "easter_c25_designerbag",
+        "name": "easter_c25_designerbag name",
+        "description": "easter_c25_designerbag desc"
+      },
+      {
+        "code": "easter_c25_designerbagb",
+        "name": "easter_c25_designerbagb name",
+        "description": "easter_c25_designerbagb desc"
+      },
+      {
+        "code": "easter_c25_eastereggbush",
+        "name": "easter_c25_eastereggbush name",
+        "description": "easter_c25_eastereggbush desc"
+      },
+      {
+        "code": "easter_c25_eastereggtree",
+        "name": "easter_c25_eastereggtree name",
+        "description": "easter_c25_eastereggtree desc"
+      },
+      {
+        "code": "easter_c25_easterhangingdecor",
+        "name": "easter_c25_easterhangingdecor name",
+        "description": "easter_c25_easterhangingdecor desc"
+      },
+      {
+        "code": "easter_c25_hairgel",
+        "name": "easter_c25_hairgel name",
+        "description": "easter_c25_hairgel desc"
+      },
+      {
+        "code": "easter_c25_hotairballoon",
+        "name": "easter_c25_hotairballoon name",
+        "description": "easter_c25_hotairballoon desc"
+      },
+      {
         "code": "easter_c2_picnicfood",
         "name": "Piknik Yiyecekleri",
         "description": ""
@@ -60465,6 +60545,11 @@
         "code": "easter_r24_wheelbbed_bd",
         "name": "Tavşanlı El Arabası",
         "description": "easter_r24_wheelbarrowbed desc"
+      },
+      {
+        "code": "easter_r25_easterpatch",
+        "name": "easter_r25_easterpatch name",
+        "description": "easter_r25_easterpatch desc"
       },
       {
         "code": "easy_bowl2",
@@ -64205,6 +64290,11 @@
         "code": "gift_vend_phone",
         "name": "H-Phone",
         "description": "Parıl parıl parıldıyor"
+      },
+      {
+        "code": "giftbox_c25_crackable1",
+        "name": "giftbox_c25_crackable1 name",
+        "description": "giftbox_c25_crackable1 desc"
       },
       {
         "code": "gld_badgewall_tall",
