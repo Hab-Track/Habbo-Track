@@ -35817,7 +35817,7 @@
   [
     "clothing_nftakaiakuma",
     "Peinado Akai Akuma",
-    ""
+    "clothing_nftakaiakuma desc"
   ],
   [
     "clothing_nftanime",
@@ -36062,37 +36062,37 @@
   [
     "clothing_nftcat",
     "Café Cafetero",
-    ""
+    "clothing_nftcat desc"
   ],
   [
     "clothing_nftcatheadband2",
     "Diadema Neko Negra",
-    ""
+    "clothing_nftcatheadband2 desc"
   ],
   [
     "clothing_nftcatheadband",
     "Diadema Neko Rosa",
-    ""
+    "clothing_nftcatheadband desc"
   ],
   [
     "clothing_nftcatmaiddress2",
     "Vestido Neko Negro",
-    ""
+    "clothing_nftcatmaiddress2 desc"
   ],
   [
     "clothing_nftcatmaiddress",
     "Vestido Neko Rosa",
-    ""
+    "clothing_nftcatmaiddress desc"
   ],
   [
     "clothing_nftcatslippers2",
     "Zapatillas Negras de Gato",
-    ""
+    "clothing_nftcatslippers2 desc"
   ],
   [
     "clothing_nftcatslippers",
     "Zapatillas Blancas de Gato",
-    ""
+    "clothing_nftcatslippers desc"
   ],
   [
     "clothing_nftcfbeanie",
@@ -37362,7 +37362,7 @@
   [
     "clothing_nftyumekawa",
     "Cabello Yume Kawaii",
-    ""
+    "clothing_nftyumekawa desc"
   ],
   [
     "clothing_nftyummy",
@@ -73923,6 +73923,36 @@
     "nft_h24_xmas_snowhotel",
     "Hotel de Nieve",
     "nft_h24_xmas_snowhotel desc"
+  ],
+  [
+    "nft_h25_boogieblast_egg",
+    "nft_h25_boogieblast_egg name",
+    "nft_h25_boogieblast_egg desc"
+  ],
+  [
+    "nft_h25_boogieblast_mirrorballchair",
+    "nft_h25_boogieblast_mirrorballchair name",
+    "nft_h25_boogieblast_mirrorballchair desc"
+  ],
+  [
+    "nft_h25_boogieblast_sofa",
+    "nft_h25_boogieblast_sofa name",
+    "nft_h25_boogieblast_sofa desc"
+  ],
+  [
+    "nft_h25_boogieblast_stool",
+    "nft_h25_boogieblast_stool name",
+    "nft_h25_boogieblast_stool desc"
+  ],
+  [
+    "nft_h25_boogieblast_table",
+    "nft_h25_boogieblast_table name",
+    "nft_h25_boogieblast_table desc"
+  ],
+  [
+    "nft_h25_boogieblast_tile",
+    "nft_h25_boogieblast_tile name",
+    "nft_h25_boogieblast_tile desc"
   ],
   [
     "nft_h25_cb_collchair",

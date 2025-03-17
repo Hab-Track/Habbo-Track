@@ -35934,7 +35934,7 @@
       {
         "code": "clothing_nftakaiakuma",
         "name": "Acconciatura Akai Akuma",
-        "description": ""
+        "description": "clothing_nftakaiakuma desc"
       },
       {
         "code": "clothing_nftanime",
@@ -36179,37 +36179,37 @@
       {
         "code": "clothing_nftcat",
         "name": "Gatto Cat Cafe",
-        "description": ""
+        "description": "clothing_nftcat desc"
       },
       {
         "code": "clothing_nftcatheadband2",
         "name": "Cerchietto Neko Scuro",
-        "description": ""
+        "description": "clothing_nftcatheadband2 desc"
       },
       {
         "code": "clothing_nftcatheadband",
         "name": "Cerchietto Neko Rosa",
-        "description": ""
+        "description": "clothing_nftcatheadband desc"
       },
       {
         "code": "clothing_nftcatmaiddress2",
         "name": "Vestito Neko Scuro",
-        "description": ""
+        "description": "clothing_nftcatmaiddress2 desc"
       },
       {
         "code": "clothing_nftcatmaiddress",
         "name": "Vestito Neko Rosa",
-        "description": ""
+        "description": "clothing_nftcatmaiddress desc"
       },
       {
         "code": "clothing_nftcatslippers2",
         "name": "Pantofole Gatto Nere",
-        "description": ""
+        "description": "clothing_nftcatslippers2 desc"
       },
       {
         "code": "clothing_nftcatslippers",
         "name": "Pantofole Gatto Bianche",
-        "description": ""
+        "description": "clothing_nftcatslippers desc"
       },
       {
         "code": "clothing_nftcfbeanie",
@@ -37479,7 +37479,7 @@
       {
         "code": "clothing_nftyumekawa",
         "name": "Acconciatura Yume Kawaii",
-        "description": ""
+        "description": "clothing_nftyumekawa desc"
       },
       {
         "code": "clothing_nftyummy",
@@ -74505,6 +74505,36 @@
         "code": "nft_h24_xmas_snowhotel",
         "name": "Hotel di Neve",
         "description": "nft_h24_xmas_snowhotel desc"
+      },
+      {
+        "code": "nft_h25_boogieblast_egg",
+        "name": "nft_h25_boogieblast_egg name",
+        "description": "nft_h25_boogieblast_egg desc"
+      },
+      {
+        "code": "nft_h25_boogieblast_mirrorballchair",
+        "name": "nft_h25_boogieblast_mirrorballchair name",
+        "description": "nft_h25_boogieblast_mirrorballchair desc"
+      },
+      {
+        "code": "nft_h25_boogieblast_sofa",
+        "name": "nft_h25_boogieblast_sofa name",
+        "description": "nft_h25_boogieblast_sofa desc"
+      },
+      {
+        "code": "nft_h25_boogieblast_stool",
+        "name": "nft_h25_boogieblast_stool name",
+        "description": "nft_h25_boogieblast_stool desc"
+      },
+      {
+        "code": "nft_h25_boogieblast_table",
+        "name": "nft_h25_boogieblast_table name",
+        "description": "nft_h25_boogieblast_table desc"
+      },
+      {
+        "code": "nft_h25_boogieblast_tile",
+        "name": "nft_h25_boogieblast_tile name",
+        "description": "nft_h25_boogieblast_tile desc"
       },
       {
         "code": "nft_h25_cb_collchair",

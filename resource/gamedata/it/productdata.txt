@@ -35932,7 +35932,7 @@
   [
     "clothing_nftakaiakuma",
     "Acconciatura Akai Akuma",
-    ""
+    "clothing_nftakaiakuma desc"
   ],
   [
     "clothing_nftanime",
@@ -36177,37 +36177,37 @@
   [
     "clothing_nftcat",
     "Gatto Cat Cafe",
-    ""
+    "clothing_nftcat desc"
   ],
   [
     "clothing_nftcatheadband2",
     "Cerchietto Neko Scuro",
-    ""
+    "clothing_nftcatheadband2 desc"
   ],
   [
     "clothing_nftcatheadband",
     "Cerchietto Neko Rosa",
-    ""
+    "clothing_nftcatheadband desc"
   ],
   [
     "clothing_nftcatmaiddress2",
     "Vestito Neko Scuro",
-    ""
+    "clothing_nftcatmaiddress2 desc"
   ],
   [
     "clothing_nftcatmaiddress",
     "Vestito Neko Rosa",
-    ""
+    "clothing_nftcatmaiddress desc"
   ],
   [
     "clothing_nftcatslippers2",
     "Pantofole Gatto Nere",
-    ""
+    "clothing_nftcatslippers2 desc"
   ],
   [
     "clothing_nftcatslippers",
     "Pantofole Gatto Bianche",
-    ""
+    "clothing_nftcatslippers desc"
   ],
   [
     "clothing_nftcfbeanie",
@@ -37477,7 +37477,7 @@
   [
     "clothing_nftyumekawa",
     "Acconciatura Yume Kawaii ",
-    ""
+    "clothing_nftyumekawa desc"
   ],
   [
     "clothing_nftyummy",
@@ -74503,6 +74503,36 @@
     "nft_h24_xmas_snowhotel",
     "Hotel di Neve",
     "nft_h24_xmas_snowhotel desc"
+  ],
+  [
+    "nft_h25_boogieblast_egg",
+    "nft_h25_boogieblast_egg name",
+    "nft_h25_boogieblast_egg desc"
+  ],
+  [
+    "nft_h25_boogieblast_mirrorballchair",
+    "nft_h25_boogieblast_mirrorballchair name",
+    "nft_h25_boogieblast_mirrorballchair desc"
+  ],
+  [
+    "nft_h25_boogieblast_sofa",
+    "nft_h25_boogieblast_sofa name",
+    "nft_h25_boogieblast_sofa desc"
+  ],
+  [
+    "nft_h25_boogieblast_stool",
+    "nft_h25_boogieblast_stool name",
+    "nft_h25_boogieblast_stool desc"
+  ],
+  [
+    "nft_h25_boogieblast_table",
+    "nft_h25_boogieblast_table name",
+    "nft_h25_boogieblast_table desc"
+  ],
+  [
+    "nft_h25_boogieblast_tile",
+    "nft_h25_boogieblast_tile name",
+    "nft_h25_boogieblast_tile desc"
   ],
   [
     "nft_h25_cb_collchair",
