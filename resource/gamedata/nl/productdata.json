@@ -31972,6 +31972,11 @@
         "description": "Designer ready-to-wear"
       },
       {
+        "code": "clothing_animalprintshortsleevedshirt",
+        "name": "clothing_animalprintshortsleevedshirt name",
+        "description": "clothing_animalprintshortsleevedshirt desc"
+      },
+      {
         "code": "clothing_animehair",
         "name": "Anime Kapsel",
         "description": "clothing_animehair desc"
@@ -32399,7 +32404,7 @@
       {
         "code": "clothing_bratzcameronhair",
         "name": "Bratz Cameron´s Haar",
-        "description": ""
+        "description": "clothing_bratzcameronhair desc"
       },
       {
         "code": "clothing_bratzchloeface",
@@ -32424,17 +32429,17 @@
       {
         "code": "clothing_bratzcloebag",
         "name": "Bratz Cloe´s Tas",
-        "description": ""
+        "description": "clothing_bratzcloebag desc"
       },
       {
         "code": "clothing_bratzdylanbelt",
         "name": "Bratz Dylan´s Riem",
-        "description": ""
+        "description": "clothing_bratzdylanbelt desc"
       },
       {
         "code": "clothing_bratzeitantrousers",
         "name": "Bratz Eitan´s Broek",
-        "description": ""
+        "description": "clothing_bratzeitantrousers desc"
       },
       {
         "code": "clothing_bratzheels",
@@ -32464,12 +32469,12 @@
       {
         "code": "clothing_bratzjadeskirt",
         "name": "Bratz Jade´s Rokje",
-        "description": ""
+        "description": "clothing_bratzjadeskirt desc"
       },
       {
         "code": "clothing_bratzkobyface",
         "name": "Bratz Koby´s Gezicht",
-        "description": ""
+        "description": "clothing_bratzkobyface desc"
       },
       {
         "code": "clothing_bratzsashabeanie",
@@ -32484,7 +32489,7 @@
       {
         "code": "clothing_bratzsashahair2",
         "name": "Bratz Sasha´s Lokken",
-        "description": ""
+        "description": "clothing_bratzsashahair2 desc"
       },
       {
         "code": "clothing_bratzsashahair",
@@ -32504,12 +32509,12 @@
       {
         "code": "clothing_bratzyasminmole",
         "name": "Bratz Yasmin´s Wrat",
-        "description": ""
+        "description": "clothing_bratzyasminmole desc"
       },
       {
         "code": "clothing_bratzyasminpearls",
         "name": "Bratz Yasmin´s Parelketting",
-        "description": ""
+        "description": "clothing_bratzyasminpearls desc"
       },
       {
         "code": "clothing_bratzyasminscarf",
@@ -32540,6 +32545,26 @@
         "code": "clothing_bunnybackpack",
         "name": "Knuffel Bunny Rugzak",
         "description": "clothing_bunnybackpack desc"
+      },
+      {
+        "code": "clothing_bunnyclipshorts",
+        "name": "clothing_bunnyclipshorts name",
+        "description": "clothing_bunnyclipshorts desc"
+      },
+      {
+        "code": "clothing_bunnyearrings",
+        "name": "clothing_bunnyearrings name",
+        "description": "clothing_bunnyearrings desc"
+      },
+      {
+        "code": "clothing_bunnyeyepatch",
+        "name": "clothing_bunnyeyepatch name",
+        "description": "clothing_bunnyeyepatch desc"
+      },
+      {
+        "code": "clothing_bunnyface",
+        "name": "clothing_bunnyface name",
+        "description": "clothing_bunnyface desc"
       },
       {
         "code": "clothing_bunnyflowerheadband",
@@ -32580,6 +32605,11 @@
         "code": "clothing_buttonpants",
         "name": "Broek met knopen",
         "description": "clothing_buttonpants desc"
+      },
+      {
+        "code": "clothing_buttontubetop",
+        "name": "clothing_buttontubetop name",
+        "description": "clothing_buttontubetop desc"
       },
       {
         "code": "clothing_c18_cutething",
@@ -32677,6 +32707,11 @@
         "description": "Obbah Wobbah bobba-dee-dah-doo. We hebben de perfecte kleding voor jou!"
       },
       {
+        "code": "clothing_canvasbag",
+        "name": "clothing_canvasbag name",
+        "description": "clothing_canvasbag desc"
+      },
+      {
         "code": "clothing_capecoat",
         "name": "Wollen Cape Jas",
         "description": "clothing_capecoat desc"
@@ -32695,6 +32730,11 @@
         "code": "clothing_casualoutfit1",
         "name": "Huispak",
         "description": "Voor die luie ochtenden na het feestje."
+      },
+      {
+        "code": "clothing_casualshorthair",
+        "name": "clothing_casualshorthair name",
+        "description": "clothing_casualshorthair desc"
       },
       {
         "code": "clothing_catbeanie_bd",
@@ -32887,6 +32927,11 @@
         "description": "clothing_cobra desc"
       },
       {
+        "code": "clothing_coinnecklace",
+        "name": "clothing_coinnecklace name",
+        "description": "clothing_coinnecklace desc"
+      },
+      {
         "code": "clothing_colornftcfbeanie",
         "name": "Kleurrijke Katoenen Muts",
         "description": ""
@@ -32960,6 +33005,11 @@
         "code": "clothing_crownbraid",
         "name": "Kroonvlecht",
         "description": "Country-style"
+      },
+      {
+        "code": "clothing_crystalnecklace",
+        "name": "clothing_crystalnecklace name",
+        "description": "clothing_crystalnecklace desc"
       },
       {
         "code": "clothing_cshorts",
@@ -33220,6 +33270,11 @@
         "code": "clothing_denimshorts",
         "name": "Kort Spijkerbroekje",
         "description": "Blote benen!"
+      },
+      {
+        "code": "clothing_denimtubetop",
+        "name": "clothing_denimtubetop name",
+        "description": "clothing_denimtubetop desc"
       },
       {
         "code": "clothing_denimvest",
@@ -33607,6 +33662,16 @@
         "description": "clothing_farmstrawhat desc"
       },
       {
+        "code": "clothing_fashionboots",
+        "name": "clothing_fashionboots name",
+        "description": "clothing_fashionboots desc"
+      },
+      {
+        "code": "clothing_fashionsunglasses",
+        "name": "clothing_fashionsunglasses name",
+        "description": "clothing_fashionsunglasses desc"
+      },
+      {
         "code": "clothing_fballpresenter1",
         "name": "Football Presenter Message Shirt",
         "description": "clothing_fballpresenter1 desc"
@@ -33702,9 +33767,24 @@
         "description": "clothing_floralbag desc"
       },
       {
+        "code": "clothing_floralcanvasbag",
+        "name": "clothing_floralcanvasbag name",
+        "description": "clothing_floralcanvasbag desc"
+      },
+      {
+        "code": "clothing_floraldress",
+        "name": "clothing_floraldress name",
+        "description": "clothing_floraldress desc"
+      },
+      {
         "code": "clothing_floralguitar",
         "name": "Bloemen Gitaar",
         "description": "clothing_floralguitar desc"
+      },
+      {
+        "code": "clothing_floralkshortsleevedshirt",
+        "name": "clothing_floralkshortsleevedshirt name",
+        "description": "clothing_floralkshortsleevedshirt desc"
       },
       {
         "code": "clothing_floraloutfit",
@@ -33715,6 +33795,11 @@
         "code": "clothing_floralskirt",
         "name": "Bebloemde Maxi Rok",
         "description": "Designer ready-to-wear"
+      },
+      {
+        "code": "clothing_floraltubetop",
+        "name": "clothing_floraltubetop name",
+        "description": "clothing_floraltubetop desc"
       },
       {
         "code": "clothing_flowerbeard",
@@ -34070,6 +34155,11 @@
         "code": "clothing_halfcurlyhair",
         "name": "Super Gekruld Kapsel",
         "description": "clothing_halfcurlyhair desc"
+      },
+      {
+        "code": "clothing_halfmanbunhair",
+        "name": "clothing_halfmanbunhair name",
+        "description": "clothing_halfmanbunhair desc"
       },
       {
         "code": "clothing_halftiedhair",
@@ -34477,9 +34567,19 @@
         "description": "Habbo Couture: Kerst 2015"
       },
       {
+        "code": "clothing_knittedbikini",
+        "name": "clothing_knittedbikini name",
+        "description": "clothing_knittedbikini desc"
+      },
+      {
         "code": "clothing_knittedbunnybeanie",
         "name": "Gebreide Konijnenmuts",
         "description": "clothing_knittedbunnybeanie desc"
+      },
+      {
+        "code": "clothing_knittedcanvasbag",
+        "name": "clothing_knittedcanvasbag name",
+        "description": "clothing_knittedcanvasbag desc"
       },
       {
         "code": "clothing_kpop",
@@ -34615,6 +34715,11 @@
         "code": "clothing_littlesnowman",
         "name": "Sneeuwpop Haarband",
         "description": "clothing_littlesnowman desc"
+      },
+      {
+        "code": "clothing_longdress",
+        "name": "clothing_longdress name",
+        "description": "clothing_longdress desc"
       },
       {
         "code": "clothing_longmohawk",
@@ -37147,6 +37252,11 @@
         "description": "clothing_offshouldercardigan desc"
       },
       {
+        "code": "clothing_offshoulderjacket",
+        "name": "clothing_offshoulderjacket name",
+        "description": "clothing_offshoulderjacket desc"
+      },
+      {
         "code": "clothing_offshoulderjumpsuit",
         "name": "Jumpsuit met Bloemetjes Motief",
         "description": "clothing_offshoulderjumpsuit desc"
@@ -37435,6 +37545,11 @@
         "code": "clothing_polkadress",
         "name": "Jurk met stippen",
         "description": "Stippen zijn altijd modieus."
+      },
+      {
+        "code": "clothing_polkaheartcutdress",
+        "name": "clothing_polkaheartcutdress name",
+        "description": "clothing_polkaheartcutdress desc"
       },
       {
         "code": "clothing_pompadour",
@@ -39822,6 +39937,16 @@
         "description": "clothing_r24_xmastreebackpack desc"
       },
       {
+        "code": "clothing_r25_bosscoat",
+        "name": "clothing_r25_bosscoat name",
+        "description": "clothing_r25_bosscoat desc"
+      },
+      {
+        "code": "clothing_r25_bunnycompanion",
+        "name": "clothing_r25_bunnycompanion name",
+        "description": "clothing_r25_bunnycompanion desc"
+      },
+      {
         "code": "clothing_r25_curlyponytail",
         "name": "clothing_r25_curlyponytail name",
         "description": "clothing_r25_curlyponytail desc"
@@ -39847,6 +39972,11 @@
         "description": "clothing_r25_redpandabag desc"
       },
       {
+        "code": "clothing_r25_twotonedlonghair",
+        "name": "clothing_r25_twotonedlonghair name",
+        "description": "clothing_r25_twotonedlonghair desc"
+      },
+      {
         "code": "clothing_r25_valentinesbride",
         "name": "Valentijns Bruidsjurk",
         "description": "clothing_r25_valentinesbride desc"
@@ -39865,6 +39995,11 @@
         "code": "clothing_raccoonbeanie",
         "name": "Wasbeer Oesjanka Muts",
         "description": "clothing_raccoonbeanie desc"
+      },
+      {
+        "code": "clothing_rainbowcanvasbag",
+        "name": "clothing_rainbowcanvasbag name",
+        "description": "clothing_rainbowcanvasbag desc"
       },
       {
         "code": "clothing_rainbowegg",
@@ -40132,6 +40267,11 @@
         "description": "clothing_shaggyswepthair desc"
       },
       {
+        "code": "clothing_sharkplushie",
+        "name": "clothing_sharkplushie name",
+        "description": "clothing_sharkplushie desc"
+      },
+      {
         "code": "clothing_shavedside",
         "name": "Opgeschoren Haar",
         "description": "Designer ready-to-wear"
@@ -40177,6 +40317,11 @@
         "description": "clothing_shortscarf desc"
       },
       {
+        "code": "clothing_shortsleeveshirt",
+        "name": "clothing_shortsleeveshirt name",
+        "description": "clothing_shortsleeveshirt desc"
+      },
+      {
         "code": "clothing_shy",
         "name": "Verlegen Emoji",
         "description": "Jij verlegen Habbootje."
@@ -40212,6 +40357,11 @@
         "description": "clothing_silverjamtoastbackpack desc"
       },
       {
+        "code": "clothing_simplechainnecklace",
+        "name": "clothing_simplechainnecklace name",
+        "description": "clothing_simplechainnecklace desc"
+      },
+      {
         "code": "clothing_skullguitar",
         "name": "Skull Gitaar",
         "description": "clothing_skullguitar desc"
@@ -40227,9 +40377,19 @@
         "description": "Een ongeluksbrenger voor een verloren ziel"
       },
       {
+        "code": "clothing_slickedbackhair2",
+        "name": "clothing_slickedbackhair2 name",
+        "description": "clothing_slickedbackhair2 desc"
+      },
+      {
         "code": "clothing_slickedbackhair",
         "name": "Uitgaanskapsel",
         "description": "clothing_slickedbackhair desc"
+      },
+      {
+        "code": "clothing_slickedpartedhair",
+        "name": "clothing_slickedpartedhair name",
+        "description": "clothing_slickedpartedhair desc"
       },
       {
         "code": "clothing_sliponcanvas",
@@ -40427,9 +40587,19 @@
         "description": "clothing_starwitchhat desc"
       },
       {
+        "code": "clothing_strappysatindress",
+        "name": "clothing_strappysatindress name",
+        "description": "clothing_strappysatindress desc"
+      },
+      {
         "code": "clothing_straw2",
         "name": "Rieten hoed",
         "description": "Designer ready-to-wear"
+      },
+      {
+        "code": "clothing_stripeyshortsleevedshirt",
+        "name": "clothing_stripeyshortsleevedshirt name",
+        "description": "clothing_stripeyshortsleevedshirt desc"
       },
       {
         "code": "clothing_stubblebeard",
@@ -40537,6 +40707,11 @@
         "description": "clothing_theoneset desc"
       },
       {
+        "code": "clothing_thinscarf",
+        "name": "clothing_thinscarf name",
+        "description": "clothing_thinscarf desc"
+      },
+      {
         "code": "clothing_tie1",
         "name": "Stropdas",
         "description": "Maak een goede indruk bij je baas"
@@ -40642,6 +40817,11 @@
         "description": "clothing_treepartyhat desc"
       },
       {
+        "code": "clothing_tribalnecklace",
+        "name": "clothing_tribalnecklace name",
+        "description": "clothing_tribalnecklace desc"
+      },
+      {
         "code": "clothing_tshirt_rolled",
         "name": "Opgestroopt Shirt",
         "description": "Designer ready-to-wear"
@@ -40677,6 +40857,11 @@
         "description": "clothing_ttslingbagtw desc"
       },
       {
+        "code": "clothing_tubetop",
+        "name": "clothing_tubetop name",
+        "description": "clothing_tubetop desc"
+      },
+      {
         "code": "clothing_turban",
         "name": "Traditionele Tulband",
         "description": "clothing_turban desc"
@@ -40705,6 +40890,11 @@
         "code": "clothing_twotonecardi",
         "name": "Tweekleurig Vest",
         "description": "Designer ready-to-wear"
+      },
+      {
+        "code": "clothing_twotonedplaitedwavehair",
+        "name": "clothing_twotonedplaitedwavehair name",
+        "description": "clothing_twotonedplaitedwavehair desc"
       },
       {
         "code": "clothing_twotonehoodie",
@@ -40740,6 +40930,11 @@
         "code": "clothing_ultrafantasysword",
         "name": "Onbreekbaar Fantasy Zwaard",
         "description": "clothing_ultrafantasysword desc"
+      },
+      {
+        "code": "clothing_umbrella",
+        "name": "clothing_umbrella name",
+        "description": "clothing_umbrella desc"
       },
       {
         "code": "clothing_unibackpack1",

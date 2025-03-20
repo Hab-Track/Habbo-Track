@@ -33452,6 +33452,11 @@
         "description": "Valmiina baanalle"
       },
       {
+        "code": "clothing_animalprintshortsleevedshirt",
+        "name": "clothing_animalprintshortsleevedshirt name",
+        "description": "clothing_animalprintshortsleevedshirt desc"
+      },
+      {
         "code": "clothing_animehair",
         "name": "Anime-hiukset",
         "description": "clothing_animehair desc"
@@ -33879,7 +33884,7 @@
       {
         "code": "clothing_bratzcameronhair",
         "name": "Bratz Cameronin kampaus",
-        "description": ""
+        "description": "clothing_bratzcameronhair desc"
       },
       {
         "code": "clothing_bratzchloeface",
@@ -33904,17 +33909,17 @@
       {
         "code": "clothing_bratzcloebag",
         "name": "Bratz Cloen käsilaukku",
-        "description": ""
+        "description": "clothing_bratzcloebag desc"
       },
       {
         "code": "clothing_bratzdylanbelt",
         "name": "Bratz Dylanin vyöketju",
-        "description": ""
+        "description": "clothing_bratzdylanbelt desc"
       },
       {
         "code": "clothing_bratzeitantrousers",
         "name": "Bratz Eitanin lökäpöksyt",
-        "description": ""
+        "description": "clothing_bratzeitantrousers desc"
       },
       {
         "code": "clothing_bratzheels",
@@ -33944,12 +33949,12 @@
       {
         "code": "clothing_bratzjadeskirt",
         "name": "Bratz Jaden minihame",
-        "description": ""
+        "description": "clothing_bratzjadeskirt desc"
       },
       {
         "code": "clothing_bratzkobyface",
         "name": "Bratz Kobyn kasvot",
-        "description": ""
+        "description": "clothing_bratzkobyface desc"
       },
       {
         "code": "clothing_bratzsashabeanie",
@@ -33964,7 +33969,7 @@
       {
         "code": "clothing_bratzsashahair2",
         "name": "Bratz Sashan kutrit",
-        "description": ""
+        "description": "clothing_bratzsashahair2 desc"
       },
       {
         "code": "clothing_bratzsashahair",
@@ -33984,12 +33989,12 @@
       {
         "code": "clothing_bratzyasminmole",
         "name": "Bratz Yasminin kauneuspilkku",
-        "description": ""
+        "description": "clothing_bratzyasminmole desc"
       },
       {
         "code": "clothing_bratzyasminpearls",
         "name": "Bratz Yasminin helmikaulakoru",
-        "description": ""
+        "description": "clothing_bratzyasminpearls desc"
       },
       {
         "code": "clothing_bratzyasminscarf",
@@ -34020,6 +34025,26 @@
         "code": "clothing_bunnybackpack",
         "name": "Pehmoinen pupureppu",
         "description": "clothing_bunnybackpack desc"
+      },
+      {
+        "code": "clothing_bunnyclipshorts",
+        "name": "clothing_bunnyclipshorts name",
+        "description": "clothing_bunnyclipshorts desc"
+      },
+      {
+        "code": "clothing_bunnyearrings",
+        "name": "clothing_bunnyearrings name",
+        "description": "clothing_bunnyearrings desc"
+      },
+      {
+        "code": "clothing_bunnyeyepatch",
+        "name": "clothing_bunnyeyepatch name",
+        "description": "clothing_bunnyeyepatch desc"
+      },
+      {
+        "code": "clothing_bunnyface",
+        "name": "clothing_bunnyface name",
+        "description": "clothing_bunnyface desc"
       },
       {
         "code": "clothing_bunnyflowerheadband",
@@ -34060,6 +34085,11 @@
         "code": "clothing_buttonpants",
         "name": "Napitetut housut",
         "description": "clothing_buttonpants desc"
+      },
+      {
+        "code": "clothing_buttontubetop",
+        "name": "clothing_buttontubetop name",
+        "description": "clothing_buttontubetop desc"
       },
       {
         "code": "clothing_c18_cutething",
@@ -34157,6 +34187,11 @@
         "description": "Obbah Wobbah, veikeän makea. Makeampia kuteita saa hakea!"
       },
       {
+        "code": "clothing_canvasbag",
+        "name": "clothing_canvasbag name",
+        "description": "clothing_canvasbag desc"
+      },
+      {
         "code": "clothing_capecoat",
         "name": "Villakangas viittatakki",
         "description": "clothing_capecoat desc"
@@ -34175,6 +34210,11 @@
         "code": "clothing_casualoutfit1",
         "name": "Mukava oloasu",
         "description": "Laiskoihin sunnuntaipäiviin"
+      },
+      {
+        "code": "clothing_casualshorthair",
+        "name": "clothing_casualshorthair name",
+        "description": "clothing_casualshorthair desc"
       },
       {
         "code": "clothing_catbeanie_bd",
@@ -34367,6 +34407,11 @@
         "description": "clothing_cobra desc"
       },
       {
+        "code": "clothing_coinnecklace",
+        "name": "clothing_coinnecklace name",
+        "description": "clothing_coinnecklace desc"
+      },
+      {
         "code": "clothing_colornftcfbeanie",
         "name": "Värillinen puuvillapipo",
         "description": ""
@@ -34440,6 +34485,11 @@
         "code": "clothing_crownbraid",
         "name": "Lettikampaus",
         "description": "Maalaistunnelmaa"
+      },
+      {
+        "code": "clothing_crystalnecklace",
+        "name": "clothing_crystalnecklace name",
+        "description": "clothing_crystalnecklace desc"
       },
       {
         "code": "clothing_cshorts",
@@ -34695,6 +34745,11 @@
         "code": "clothing_denimshorts",
         "name": "Farkkushortsit",
         "description": "Pikselisäihkysääret esiin!"
+      },
+      {
+        "code": "clothing_denimtubetop",
+        "name": "clothing_denimtubetop name",
+        "description": "clothing_denimtubetop desc"
       },
       {
         "code": "clothing_denimvest",
@@ -35082,6 +35137,16 @@
         "description": "clothing_farmstrawhat desc"
       },
       {
+        "code": "clothing_fashionboots",
+        "name": "clothing_fashionboots name",
+        "description": "clothing_fashionboots desc"
+      },
+      {
+        "code": "clothing_fashionsunglasses",
+        "name": "clothing_fashionsunglasses name",
+        "description": "clothing_fashionsunglasses desc"
+      },
+      {
         "code": "clothing_fballpresenter1",
         "name": "Football Presenter Message Shirt",
         "description": "clothing_fballpresenter1 desc"
@@ -35177,9 +35242,24 @@
         "description": "clothing_floralbag desc"
       },
       {
+        "code": "clothing_floralcanvasbag",
+        "name": "clothing_floralcanvasbag name",
+        "description": "clothing_floralcanvasbag desc"
+      },
+      {
+        "code": "clothing_floraldress",
+        "name": "clothing_floraldress name",
+        "description": "clothing_floraldress desc"
+      },
+      {
         "code": "clothing_floralguitar",
         "name": "Kukkakitara",
         "description": "clothing_floralguitar desc"
+      },
+      {
+        "code": "clothing_floralkshortsleevedshirt",
+        "name": "clothing_floralkshortsleevedshirt name",
+        "description": "clothing_floralkshortsleevedshirt desc"
       },
       {
         "code": "clothing_floraloutfit",
@@ -35190,6 +35270,11 @@
         "code": "clothing_floralskirt",
         "name": "Kukikas maxihame",
         "description": "Valmiina baanalle"
+      },
+      {
+        "code": "clothing_floraltubetop",
+        "name": "clothing_floraltubetop name",
+        "description": "clothing_floraltubetop desc"
       },
       {
         "code": "clothing_flowerbeard",
@@ -35545,6 +35630,11 @@
         "code": "clothing_halfcurlyhair",
         "name": "Äärimmäisen kikkarat hiukset",
         "description": "clothing_halfcurlyhair desc"
+      },
+      {
+        "code": "clothing_halfmanbunhair",
+        "name": "clothing_halfmanbunhair name",
+        "description": "clothing_halfmanbunhair desc"
       },
       {
         "code": "clothing_halftiedhair",
@@ -35947,9 +36037,19 @@
         "description": "Habbo Couture: joulu 2015"
       },
       {
+        "code": "clothing_knittedbikini",
+        "name": "clothing_knittedbikini name",
+        "description": "clothing_knittedbikini desc"
+      },
+      {
         "code": "clothing_knittedbunnybeanie",
         "name": "Neulottu pupupipo",
         "description": "clothing_knittedbunnybeanie desc"
+      },
+      {
+        "code": "clothing_knittedcanvasbag",
+        "name": "clothing_knittedcanvasbag name",
+        "description": "clothing_knittedcanvasbag desc"
       },
       {
         "code": "clothing_kpop",
@@ -36085,6 +36185,11 @@
         "code": "clothing_littlesnowman",
         "name": "Lumiukkopanta",
         "description": "clothing_littlesnowman desc"
+      },
+      {
+        "code": "clothing_longdress",
+        "name": "clothing_longdress name",
+        "description": "clothing_longdress desc"
       },
       {
         "code": "clothing_longmohawk",
@@ -38617,6 +38722,11 @@
         "description": "clothing_offshouldercardigan desc"
       },
       {
+        "code": "clothing_offshoulderjacket",
+        "name": "clothing_offshoulderjacket name",
+        "description": "clothing_offshoulderjacket desc"
+      },
+      {
         "code": "clothing_offshoulderjumpsuit",
         "name": "Kuviollinen haalari",
         "description": "clothing_offshoulderjumpsuit desc"
@@ -38905,6 +39015,11 @@
         "code": "clothing_polkadress",
         "name": "Pallomekko",
         "description": "Aina muodikas"
+      },
+      {
+        "code": "clothing_polkaheartcutdress",
+        "name": "clothing_polkaheartcutdress name",
+        "description": "clothing_polkaheartcutdress desc"
       },
       {
         "code": "clothing_pompadour",
@@ -41292,6 +41407,16 @@
         "description": "clothing_r24_xmastreebackpack desc"
       },
       {
+        "code": "clothing_r25_bosscoat",
+        "name": "clothing_r25_bosscoat name",
+        "description": "clothing_r25_bosscoat desc"
+      },
+      {
+        "code": "clothing_r25_bunnycompanion",
+        "name": "clothing_r25_bunnycompanion name",
+        "description": "clothing_r25_bunnycompanion desc"
+      },
+      {
         "code": "clothing_r25_curlyponytail",
         "name": "clothing_r25_curlyponytail name",
         "description": "clothing_r25_curlyponytail desc"
@@ -41317,6 +41442,11 @@
         "description": "clothing_r25_redpandabag desc"
       },
       {
+        "code": "clothing_r25_twotonedlonghair",
+        "name": "clothing_r25_twotonedlonghair name",
+        "description": "clothing_r25_twotonedlonghair desc"
+      },
+      {
         "code": "clothing_r25_valentinesbride",
         "name": "Rakastavaisen häämekko",
         "description": "clothing_r25_valentinesbride desc"
@@ -41335,6 +41465,11 @@
         "code": "clothing_raccoonbeanie",
         "name": "Pesukarhupipo",
         "description": "clothing_raccoonbeanie desc"
+      },
+      {
+        "code": "clothing_rainbowcanvasbag",
+        "name": "clothing_rainbowcanvasbag name",
+        "description": "clothing_rainbowcanvasbag desc"
       },
       {
         "code": "clothing_rainbowegg",
@@ -41602,6 +41737,11 @@
         "description": "clothing_shaggyswepthair desc"
       },
       {
+        "code": "clothing_sharkplushie",
+        "name": "clothing_sharkplushie name",
+        "description": "clothing_sharkplushie desc"
+      },
+      {
         "code": "clothing_shavedside",
         "name": "Piilokalju",
         "description": "Valmiina baanalle"
@@ -41647,6 +41787,11 @@
         "description": "clothing_shortscarf desc"
       },
       {
+        "code": "clothing_shortsleeveshirt",
+        "name": "clothing_shortsleeveshirt name",
+        "description": "clothing_shortsleeveshirt desc"
+      },
+      {
         "code": "clothing_shy",
         "name": "Ujo emoji",
         "description": "Ujo habbo."
@@ -41682,6 +41827,11 @@
         "description": "clothing_silverjamtoastbackpack desc"
       },
       {
+        "code": "clothing_simplechainnecklace",
+        "name": "clothing_simplechainnecklace name",
+        "description": "clothing_simplechainnecklace desc"
+      },
+      {
         "code": "clothing_skullguitar",
         "name": "Kallokitara",
         "description": "clothing_skullguitar desc"
@@ -41697,9 +41847,19 @@
         "description": "Epäonnen amuletti kadonneille sieluille"
       },
       {
+        "code": "clothing_slickedbackhair2",
+        "name": "clothing_slickedbackhair2 name",
+        "description": "clothing_slickedbackhair2 desc"
+      },
+      {
         "code": "clothing_slickedbackhair",
         "name": "Salitanssijan kampaus",
         "description": "Salitanssijan kampaus"
+      },
+      {
+        "code": "clothing_slickedpartedhair",
+        "name": "clothing_slickedpartedhair name",
+        "description": "clothing_slickedpartedhair desc"
       },
       {
         "code": "clothing_sliponcanvas",
@@ -41897,9 +42057,19 @@
         "description": "clothing_starwitchhat desc"
       },
       {
+        "code": "clothing_strappysatindress",
+        "name": "clothing_strappysatindress name",
+        "description": "clothing_strappysatindress desc"
+      },
+      {
         "code": "clothing_straw2",
         "name": "Olkihattu",
         "description": "Valmiina baanalle"
+      },
+      {
+        "code": "clothing_stripeyshortsleevedshirt",
+        "name": "clothing_stripeyshortsleevedshirt name",
+        "description": "clothing_stripeyshortsleevedshirt desc"
       },
       {
         "code": "clothing_stubblebeard",
@@ -42007,6 +42177,11 @@
         "description": "clothing_theoneset desc"
       },
       {
+        "code": "clothing_thinscarf",
+        "name": "clothing_thinscarf name",
+        "description": "clothing_thinscarf desc"
+      },
+      {
         "code": "clothing_tie1",
         "name": "Työkravaatti",
         "description": "Tee pomoihin vaikutus."
@@ -42112,6 +42287,11 @@
         "description": "clothing_treepartyhat desc"
       },
       {
+        "code": "clothing_tribalnecklace",
+        "name": "clothing_tribalnecklace name",
+        "description": "clothing_tribalnecklace desc"
+      },
+      {
         "code": "clothing_tshirt_rolled",
         "name": "Käärityt hihat",
         "description": "Valmiina baanalle"
@@ -42147,6 +42327,11 @@
         "description": "clothing_ttslingbagtw desc"
       },
       {
+        "code": "clothing_tubetop",
+        "name": "clothing_tubetop name",
+        "description": "clothing_tubetop desc"
+      },
+      {
         "code": "clothing_turban",
         "name": "Perinneturbaani",
         "description": "clothing_turban desc"
@@ -42175,6 +42360,11 @@
         "code": "clothing_twotonecardi",
         "name": "Sävytetty villatakki",
         "description": "Valmiina baanalle"
+      },
+      {
+        "code": "clothing_twotonedplaitedwavehair",
+        "name": "clothing_twotonedplaitedwavehair name",
+        "description": "clothing_twotonedplaitedwavehair desc"
       },
       {
         "code": "clothing_twotonehoodie",
@@ -42210,6 +42400,11 @@
         "code": "clothing_ultrafantasysword",
         "name": "Koristeltu fantasiamiekka",
         "description": "clothing_ultrafantasysword desc"
+      },
+      {
+        "code": "clothing_umbrella",
+        "name": "clothing_umbrella name",
+        "description": "clothing_umbrella desc"
       },
       {
         "code": "clothing_unibackpack1",

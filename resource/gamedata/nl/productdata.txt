@@ -31970,6 +31970,11 @@
     "Designer ready-to-wear"
   ],
   [
+    "clothing_animalprintshortsleevedshirt",
+    "clothing_animalprintshortsleevedshirt name",
+    "clothing_animalprintshortsleevedshirt desc"
+  ],
+  [
     "clothing_animehair",
     "Anime Kapsel",
     "clothing_animehair desc"
@@ -32397,7 +32402,7 @@
   [
     "clothing_bratzcameronhair",
     "Bratz Cameron´s Haar",
-    ""
+    "clothing_bratzcameronhair desc"
   ],
   [
     "clothing_bratzchloeface",
@@ -32422,17 +32427,17 @@
   [
     "clothing_bratzcloebag",
     "Bratz Cloe´s Tas",
-    ""
+    "clothing_bratzcloebag desc"
   ],
   [
     "clothing_bratzdylanbelt",
     "Bratz Dylan´s Riem",
-    ""
+    "clothing_bratzdylanbelt desc"
   ],
   [
     "clothing_bratzeitantrousers",
     "Bratz Eitan´s Broek",
-    ""
+    "clothing_bratzeitantrousers desc"
   ],
   [
     "clothing_bratzheels",
@@ -32462,12 +32467,12 @@
   [
     "clothing_bratzjadeskirt",
     "Bratz Jade´s Rokje",
-    ""
+    "clothing_bratzjadeskirt desc"
   ],
   [
     "clothing_bratzkobyface",
     "Bratz Koby´s Gezicht",
-    ""
+    "clothing_bratzkobyface desc"
   ],
   [
     "clothing_bratzsashabeanie",
@@ -32482,7 +32487,7 @@
   [
     "clothing_bratzsashahair2",
     "Bratz Sasha´s Lokken",
-    ""
+    "clothing_bratzsashahair2 desc"
   ],
   [
     "clothing_bratzsashahair",
@@ -32502,12 +32507,12 @@
   [
     "clothing_bratzyasminmole",
     "Bratz Yasmin´s Wrat",
-    ""
+    "clothing_bratzyasminmole desc"
   ],
   [
     "clothing_bratzyasminpearls",
     "Bratz Yasmin´s Parelketting",
-    ""
+    "clothing_bratzyasminpearls desc"
   ],
   [
     "clothing_bratzyasminscarf",
@@ -32538,6 +32543,26 @@
     "clothing_bunnybackpack",
     "Knuffel Bunny Rugzak",
     "clothing_bunnybackpack desc"
+  ],
+  [
+    "clothing_bunnyclipshorts",
+    "clothing_bunnyclipshorts name",
+    "clothing_bunnyclipshorts desc"
+  ],
+  [
+    "clothing_bunnyearrings",
+    "clothing_bunnyearrings name",
+    "clothing_bunnyearrings desc"
+  ],
+  [
+    "clothing_bunnyeyepatch",
+    "clothing_bunnyeyepatch name",
+    "clothing_bunnyeyepatch desc"
+  ],
+  [
+    "clothing_bunnyface",
+    "clothing_bunnyface name",
+    "clothing_bunnyface desc"
   ],
   [
     "clothing_bunnyflowerheadband",
@@ -32578,6 +32603,11 @@
     "clothing_buttonpants",
     "Broek met knopen",
     "clothing_buttonpants desc"
+  ],
+  [
+    "clothing_buttontubetop",
+    "clothing_buttontubetop name",
+    "clothing_buttontubetop desc"
   ],
   [
     "clothing_c18_cutething",
@@ -32675,6 +32705,11 @@
     "Obbah Wobbah bobba-dee-dah-doo. We hebben de perfecte kleding voor jou!"
   ],
   [
+    "clothing_canvasbag",
+    "clothing_canvasbag name",
+    "clothing_canvasbag desc"
+  ],
+  [
     "clothing_capecoat",
     "Wollen Cape Jas",
     "clothing_capecoat desc"
@@ -32693,6 +32728,11 @@
     "clothing_casualoutfit1",
     "Huispak",
     "Voor die luie ochtenden na het feestje."
+  ],
+  [
+    "clothing_casualshorthair",
+    "clothing_casualshorthair name",
+    "clothing_casualshorthair desc"
   ],
   [
     "clothing_catbeanie_bd",
@@ -32885,6 +32925,11 @@
     "clothing_cobra desc"
   ],
   [
+    "clothing_coinnecklace",
+    "clothing_coinnecklace name",
+    "clothing_coinnecklace desc"
+  ],
+  [
     "clothing_colornftcfbeanie",
     "Kleurrijke Katoenen Muts",
     ""
@@ -32958,6 +33003,11 @@
     "clothing_crownbraid",
     "Kroonvlecht",
     "Country-style"
+  ],
+  [
+    "clothing_crystalnecklace",
+    "clothing_crystalnecklace name",
+    "clothing_crystalnecklace desc"
   ],
   [
     "clothing_cshorts",
@@ -33218,6 +33268,11 @@
     "clothing_denimshorts",
     "Kort Spijkerbroekje",
     "Blote benen!"
+  ],
+  [
+    "clothing_denimtubetop",
+    "clothing_denimtubetop name",
+    "clothing_denimtubetop desc"
   ],
   [
     "clothing_denimvest",
@@ -33605,6 +33660,16 @@
     "clothing_farmstrawhat desc"
   ],
   [
+    "clothing_fashionboots",
+    "clothing_fashionboots name",
+    "clothing_fashionboots desc"
+  ],
+  [
+    "clothing_fashionsunglasses",
+    "clothing_fashionsunglasses name",
+    "clothing_fashionsunglasses desc"
+  ],
+  [
     "clothing_fballpresenter1",
     "Football Presenter Message Shirt",
     "clothing_fballpresenter1 desc"
@@ -33700,9 +33765,24 @@
     "clothing_floralbag desc"
   ],
   [
+    "clothing_floralcanvasbag",
+    "clothing_floralcanvasbag name",
+    "clothing_floralcanvasbag desc"
+  ],
+  [
+    "clothing_floraldress",
+    "clothing_floraldress name",
+    "clothing_floraldress desc"
+  ],
+  [
     "clothing_floralguitar",
     "Bloemen Gitaar",
     "clothing_floralguitar desc"
+  ],
+  [
+    "clothing_floralkshortsleevedshirt",
+    "clothing_floralkshortsleevedshirt name",
+    "clothing_floralkshortsleevedshirt desc"
   ],
   [
     "clothing_floraloutfit",
@@ -33713,6 +33793,11 @@
     "clothing_floralskirt",
     "Bebloemde Maxi Rok",
     "Designer ready-to-wear"
+  ],
+  [
+    "clothing_floraltubetop",
+    "clothing_floraltubetop name",
+    "clothing_floraltubetop desc"
   ],
   [
     "clothing_flowerbeard",
@@ -34068,6 +34153,11 @@
     "clothing_halfcurlyhair",
     "Super Gekruld Kapsel",
     "clothing_halfcurlyhair desc"
+  ],
+  [
+    "clothing_halfmanbunhair",
+    "clothing_halfmanbunhair name",
+    "clothing_halfmanbunhair desc"
   ],
   [
     "clothing_halftiedhair",
@@ -34475,9 +34565,19 @@
     "Habbo Couture: Kerst 2015"
   ],
   [
+    "clothing_knittedbikini",
+    "clothing_knittedbikini name",
+    "clothing_knittedbikini desc"
+  ],
+  [
     "clothing_knittedbunnybeanie",
     "Gebreide Konijnenmuts",
     "clothing_knittedbunnybeanie desc"
+  ],
+  [
+    "clothing_knittedcanvasbag",
+    "clothing_knittedcanvasbag name",
+    "clothing_knittedcanvasbag desc"
   ],
   [
     "clothing_kpop",
@@ -34613,6 +34713,11 @@
     "clothing_littlesnowman",
     "Sneeuwpop Haarband",
     "clothing_littlesnowman desc"
+  ],
+  [
+    "clothing_longdress",
+    "clothing_longdress name",
+    "clothing_longdress desc"
   ],
   [
     "clothing_longmohawk",
@@ -37145,6 +37250,11 @@
     "clothing_offshouldercardigan desc"
   ],
   [
+    "clothing_offshoulderjacket",
+    "clothing_offshoulderjacket name",
+    "clothing_offshoulderjacket desc"
+  ],
+  [
     "clothing_offshoulderjumpsuit",
     "Jumpsuit met Bloemetjes Motief",
     "clothing_offshoulderjumpsuit desc"
@@ -37433,6 +37543,11 @@
     "clothing_polkadress",
     "Jurk met stippen",
     "Stippen zijn altijd modieus."
+  ],
+  [
+    "clothing_polkaheartcutdress",
+    "clothing_polkaheartcutdress name",
+    "clothing_polkaheartcutdress desc"
   ],
   [
     "clothing_pompadour",
@@ -39820,6 +39935,16 @@
     "clothing_r24_xmastreebackpack desc"
   ],
   [
+    "clothing_r25_bosscoat",
+    "clothing_r25_bosscoat name",
+    "clothing_r25_bosscoat desc"
+  ],
+  [
+    "clothing_r25_bunnycompanion",
+    "clothing_r25_bunnycompanion name",
+    "clothing_r25_bunnycompanion desc"
+  ],
+  [
     "clothing_r25_curlyponytail",
     "clothing_r25_curlyponytail name",
     "clothing_r25_curlyponytail desc"
@@ -39845,6 +39970,11 @@
     "clothing_r25_redpandabag desc"
   ],
   [
+    "clothing_r25_twotonedlonghair",
+    "clothing_r25_twotonedlonghair name",
+    "clothing_r25_twotonedlonghair desc"
+  ],
+  [
     "clothing_r25_valentinesbride",
     "Valentijns Bruidsjurk",
     "clothing_r25_valentinesbride desc"
@@ -39863,6 +39993,11 @@
     "clothing_raccoonbeanie",
     "Wasbeer Oesjanka Muts",
     "clothing_raccoonbeanie desc"
+  ],
+  [
+    "clothing_rainbowcanvasbag",
+    "clothing_rainbowcanvasbag name",
+    "clothing_rainbowcanvasbag desc"
   ],
   [
     "clothing_rainbowegg",
@@ -40130,6 +40265,11 @@
     "clothing_shaggyswepthair desc"
   ],
   [
+    "clothing_sharkplushie",
+    "clothing_sharkplushie name",
+    "clothing_sharkplushie desc"
+  ],
+  [
     "clothing_shavedside",
     "Opgeschoren Haar",
     "Designer ready-to-wear"
@@ -40175,6 +40315,11 @@
     "clothing_shortscarf desc"
   ],
   [
+    "clothing_shortsleeveshirt",
+    "clothing_shortsleeveshirt name",
+    "clothing_shortsleeveshirt desc"
+  ],
+  [
     "clothing_shy",
     "Verlegen Emoji",
     "Jij verlegen Habbootje."
@@ -40210,6 +40355,11 @@
     "clothing_silverjamtoastbackpack desc"
   ],
   [
+    "clothing_simplechainnecklace",
+    "clothing_simplechainnecklace name",
+    "clothing_simplechainnecklace desc"
+  ],
+  [
     "clothing_skullguitar",
     "Skull Gitaar",
     "clothing_skullguitar desc"
@@ -40225,9 +40375,19 @@
     "Een ongeluksbrenger voor een verloren ziel"
   ],
   [
+    "clothing_slickedbackhair2",
+    "clothing_slickedbackhair2 name",
+    "clothing_slickedbackhair2 desc"
+  ],
+  [
     "clothing_slickedbackhair",
     "Uitgaanskapsel",
     "clothing_slickedbackhair desc"
+  ],
+  [
+    "clothing_slickedpartedhair",
+    "clothing_slickedpartedhair name",
+    "clothing_slickedpartedhair desc"
   ],
   [
     "clothing_sliponcanvas",
@@ -40425,9 +40585,19 @@
     "clothing_starwitchhat desc"
   ],
   [
+    "clothing_strappysatindress",
+    "clothing_strappysatindress name",
+    "clothing_strappysatindress desc"
+  ],
+  [
     "clothing_straw2",
     "Rieten hoed",
     "Designer ready-to-wear"
+  ],
+  [
+    "clothing_stripeyshortsleevedshirt",
+    "clothing_stripeyshortsleevedshirt name",
+    "clothing_stripeyshortsleevedshirt desc"
   ],
   [
     "clothing_stubblebeard",
@@ -40535,6 +40705,11 @@
     "clothing_theoneset desc"
   ],
   [
+    "clothing_thinscarf",
+    "clothing_thinscarf name",
+    "clothing_thinscarf desc"
+  ],
+  [
     "clothing_tie1",
     "Stropdas",
     "Maak een goede indruk bij je baas"
@@ -40640,6 +40815,11 @@
     "clothing_treepartyhat desc"
   ],
   [
+    "clothing_tribalnecklace",
+    "clothing_tribalnecklace name",
+    "clothing_tribalnecklace desc"
+  ],
+  [
     "clothing_tshirt_rolled",
     "Opgestroopt Shirt",
     "Designer ready-to-wear"
@@ -40675,6 +40855,11 @@
     "clothing_ttslingbagtw desc"
   ],
   [
+    "clothing_tubetop",
+    "clothing_tubetop name",
+    "clothing_tubetop desc"
+  ],
+  [
     "clothing_turban",
     "Traditionele Tulband",
     "clothing_turban desc"
@@ -40703,6 +40888,11 @@
     "clothing_twotonecardi",
     "Tweekleurig Vest",
     "Designer ready-to-wear"
+  ],
+  [
+    "clothing_twotonedplaitedwavehair",
+    "clothing_twotonedplaitedwavehair name",
+    "clothing_twotonedplaitedwavehair desc"
   ],
   [
     "clothing_twotonehoodie",
@@ -40738,6 +40928,11 @@
     "clothing_ultrafantasysword",
     "Onbreekbaar Fantasy Zwaard",
     "clothing_ultrafantasysword desc"
+  ],
+  [
+    "clothing_umbrella",
+    "clothing_umbrella name",
+    "clothing_umbrella desc"
   ],
   [
     "clothing_unibackpack1",

@@ -32790,6 +32790,11 @@
     "Pronto ad essere indossato"
   ],
   [
+    "clothing_animalprintshortsleevedshirt",
+    "clothing_animalprintshortsleevedshirt name",
+    "clothing_animalprintshortsleevedshirt desc"
+  ],
+  [
     "clothing_animehair",
     "Acconciatura Anime",
     "clothing_animehair desc"
@@ -33217,7 +33222,7 @@
   [
     "clothing_bratzcameronhair",
     "Acconciatura di Bratz Cameron",
-    ""
+    "clothing_bratzcameronhair desc"
   ],
   [
     "clothing_bratzchloeface",
@@ -33242,17 +33247,17 @@
   [
     "clothing_bratzcloebag",
     "Borsa di Bratz Cloe",
-    ""
+    "clothing_bratzcloebag desc"
   ],
   [
     "clothing_bratzdylanbelt",
     "Cintura Bratz Dylan",
-    ""
+    "clothing_bratzdylanbelt desc"
   ],
   [
     "clothing_bratzeitantrousers",
     "Pantaloni di Bratz Eitan",
-    ""
+    "clothing_bratzeitantrousers desc"
   ],
   [
     "clothing_bratzheels",
@@ -33282,12 +33287,12 @@
   [
     "clothing_bratzjadeskirt",
     "Gonna di Bratz Jade",
-    ""
+    "clothing_bratzjadeskirt desc"
   ],
   [
     "clothing_bratzkobyface",
     "Volto di Bratz Koby",
-    ""
+    "clothing_bratzkobyface desc"
   ],
   [
     "clothing_bratzsashabeanie",
@@ -33302,7 +33307,7 @@
   [
     "clothing_bratzsashahair2",
     "Onde di Bratz Sasha",
-    ""
+    "clothing_bratzsashahair2 desc"
   ],
   [
     "clothing_bratzsashahair",
@@ -33322,12 +33327,12 @@
   [
     "clothing_bratzyasminmole",
     "Neo di Bratz Yasmin",
-    ""
+    "clothing_bratzyasminmole desc"
   ],
   [
     "clothing_bratzyasminpearls",
     "Perle di Bratz Yasmin",
-    ""
+    "clothing_bratzyasminpearls desc"
   ],
   [
     "clothing_bratzyasminscarf",
@@ -33358,6 +33363,26 @@
     "clothing_bunnybackpack",
     "Zaino a Coniglietto Squishy",
     "clothing_bunnybackpack desc"
+  ],
+  [
+    "clothing_bunnyclipshorts",
+    "clothing_bunnyclipshorts name",
+    "clothing_bunnyclipshorts desc"
+  ],
+  [
+    "clothing_bunnyearrings",
+    "clothing_bunnyearrings name",
+    "clothing_bunnyearrings desc"
+  ],
+  [
+    "clothing_bunnyeyepatch",
+    "clothing_bunnyeyepatch name",
+    "clothing_bunnyeyepatch desc"
+  ],
+  [
+    "clothing_bunnyface",
+    "clothing_bunnyface name",
+    "clothing_bunnyface desc"
   ],
   [
     "clothing_bunnyflowerheadband",
@@ -33398,6 +33423,11 @@
     "clothing_buttonpants",
     "Pantaloni con Bottoni",
     "clothing_buttonpants desc"
+  ],
+  [
+    "clothing_buttontubetop",
+    "clothing_buttontubetop name",
+    "clothing_buttontubetop desc"
   ],
   [
     "clothing_c18_cutething",
@@ -33495,6 +33525,11 @@
     "Obbah Wobbah bobba-lellalle. Abbiamo il vestito perfetto per te!"
   ],
   [
+    "clothing_canvasbag",
+    "clothing_canvasbag name",
+    "clothing_canvasbag desc"
+  ],
+  [
     "clothing_capecoat",
     "Cappa di Lana",
     "clothing_capecoat desc"
@@ -33513,6 +33548,11 @@
     "clothing_casualoutfit1",
     "Look Comodo",
     "Per quelle pigre mattine post-party"
+  ],
+  [
+    "clothing_casualshorthair",
+    "clothing_casualshorthair name",
+    "clothing_casualshorthair desc"
   ],
   [
     "clothing_catbeanie_bd",
@@ -33705,6 +33745,11 @@
     "clothing_cobra desc"
   ],
   [
+    "clothing_coinnecklace",
+    "clothing_coinnecklace name",
+    "clothing_coinnecklace desc"
+  ],
+  [
     "clothing_colornftcfbeanie",
     "Cappellino di Cotone Colorabile",
     ""
@@ -33778,6 +33823,11 @@
     "clothing_crownbraid",
     "Corona di Trecce",
     "Un look campagnolo."
+  ],
+  [
+    "clothing_crystalnecklace",
+    "clothing_crystalnecklace name",
+    "clothing_crystalnecklace desc"
   ],
   [
     "clothing_cshorts",
@@ -34033,6 +34083,11 @@
     "clothing_denimshorts",
     "Shorts Denim",
     "Mostra le gambe!"
+  ],
+  [
+    "clothing_denimtubetop",
+    "clothing_denimtubetop name",
+    "clothing_denimtubetop desc"
   ],
   [
     "clothing_denimvest",
@@ -34420,6 +34475,16 @@
     "clothing_farmstrawhat desc"
   ],
   [
+    "clothing_fashionboots",
+    "clothing_fashionboots name",
+    "clothing_fashionboots desc"
+  ],
+  [
+    "clothing_fashionsunglasses",
+    "clothing_fashionsunglasses name",
+    "clothing_fashionsunglasses desc"
+  ],
+  [
     "clothing_fballpresenter1",
     "Maglietta con Messaggio del Presentatore di Calcio",
     "clothing_fballpresenter1 desc"
@@ -34515,9 +34580,24 @@
     "clothing_floralbag desc"
   ],
   [
+    "clothing_floralcanvasbag",
+    "clothing_floralcanvasbag name",
+    "clothing_floralcanvasbag desc"
+  ],
+  [
+    "clothing_floraldress",
+    "clothing_floraldress name",
+    "clothing_floraldress desc"
+  ],
+  [
     "clothing_floralguitar",
     "Chitarra Floreale",
     "clothing_floralguitar desc"
+  ],
+  [
+    "clothing_floralkshortsleevedshirt",
+    "clothing_floralkshortsleevedshirt name",
+    "clothing_floralkshortsleevedshirt desc"
   ],
   [
     "clothing_floraloutfit",
@@ -34528,6 +34608,11 @@
     "clothing_floralskirt",
     "Gonna Lunga Floreale",
     "Pronto ad essere indossato"
+  ],
+  [
+    "clothing_floraltubetop",
+    "clothing_floraltubetop name",
+    "clothing_floraltubetop desc"
   ],
   [
     "clothing_flowerbeard",
@@ -34883,6 +34968,11 @@
     "clothing_halfcurlyhair",
     "Capelli Ultra Ricci",
     "clothing_halfcurlyhair desc"
+  ],
+  [
+    "clothing_halfmanbunhair",
+    "clothing_halfmanbunhair name",
+    "clothing_halfmanbunhair desc"
   ],
   [
     "clothing_halftiedhair",
@@ -35275,9 +35365,19 @@
     "Vestiti Habbo: Natale 2015"
   ],
   [
+    "clothing_knittedbikini",
+    "clothing_knittedbikini name",
+    "clothing_knittedbikini desc"
+  ],
+  [
     "clothing_knittedbunnybeanie",
     "Berretto fatto a mano Coniglietto",
     "clothing_knittedbunnybeanie desc"
+  ],
+  [
+    "clothing_knittedcanvasbag",
+    "clothing_knittedcanvasbag name",
+    "clothing_knittedcanvasbag desc"
   ],
   [
     "clothing_kpop",
@@ -35413,6 +35513,11 @@
     "clothing_littlesnowman",
     "Fascia Pupazzo di Neve",
     "clothing_littlesnowman desc"
+  ],
+  [
+    "clothing_longdress",
+    "clothing_longdress name",
+    "clothing_longdress desc"
   ],
   [
     "clothing_longmohawk",
@@ -37945,6 +38050,11 @@
     "clothing_offshouldercardigan desc"
   ],
   [
+    "clothing_offshoulderjacket",
+    "clothing_offshoulderjacket name",
+    "clothing_offshoulderjacket desc"
+  ],
+  [
     "clothing_offshoulderjumpsuit",
     "Tuta a fantasia",
     "clothing_offshoulderjumpsuit desc"
@@ -38233,6 +38343,11 @@
     "clothing_polkadress",
     "Vestitino a pois",
     "Il pois è SEMPRE di moda"
+  ],
+  [
+    "clothing_polkaheartcutdress",
+    "clothing_polkaheartcutdress name",
+    "clothing_polkaheartcutdress desc"
   ],
   [
     "clothing_pompadour",
@@ -40620,6 +40735,16 @@
     "clothing_r24_xmastreebackpack desc"
   ],
   [
+    "clothing_r25_bosscoat",
+    "clothing_r25_bosscoat name",
+    "clothing_r25_bosscoat desc"
+  ],
+  [
+    "clothing_r25_bunnycompanion",
+    "clothing_r25_bunnycompanion name",
+    "clothing_r25_bunnycompanion desc"
+  ],
+  [
     "clothing_r25_curlyponytail",
     "clothing_r25_curlyponytail name",
     "clothing_r25_curlyponytail desc"
@@ -40645,6 +40770,11 @@
     "clothing_r25_redpandabag desc"
   ],
   [
+    "clothing_r25_twotonedlonghair",
+    "clothing_r25_twotonedlonghair name",
+    "clothing_r25_twotonedlonghair desc"
+  ],
+  [
     "clothing_r25_valentinesbride",
     "Sposa di San Valentino",
     "clothing_r25_valentinesbride desc"
@@ -40663,6 +40793,11 @@
     "clothing_raccoonbeanie",
     "Cappellino con Procione",
     "clothing_raccoonbeanie desc"
+  ],
+  [
+    "clothing_rainbowcanvasbag",
+    "clothing_rainbowcanvasbag name",
+    "clothing_rainbowcanvasbag desc"
   ],
   [
     "clothing_rainbowegg",
@@ -40930,6 +41065,11 @@
     "clothing_shaggyswepthair desc"
   ],
   [
+    "clothing_sharkplushie",
+    "clothing_sharkplushie name",
+    "clothing_sharkplushie desc"
+  ],
+  [
     "clothing_shavedside",
     "Capelli Undercut",
     "Pronto per essere indossato"
@@ -40975,6 +41115,11 @@
     "clothing_shortscarf desc"
   ],
   [
+    "clothing_shortsleeveshirt",
+    "clothing_shortsleeveshirt name",
+    "clothing_shortsleeveshirt desc"
+  ],
+  [
     "clothing_shy",
     "Emoji Timida",
     "Habbo timidino,"
@@ -41010,6 +41155,11 @@
     "clothing_silverjamtoastbackpack desc"
   ],
   [
+    "clothing_simplechainnecklace",
+    "clothing_simplechainnecklace name",
+    "clothing_simplechainnecklace desc"
+  ],
+  [
     "clothing_skullguitar",
     "Chitarra Death Axe",
     "clothing_skullguitar desc"
@@ -41025,9 +41175,19 @@
     "Uno sfortunato accessorio per un'anima perduta"
   ],
   [
+    "clothing_slickedbackhair2",
+    "clothing_slickedbackhair2 name",
+    "clothing_slickedbackhair2 desc"
+  ],
+  [
     "clothing_slickedbackhair",
     "Rubacuori da Sala da Ballo",
     "clothing_slickedbackhair desc"
+  ],
+  [
+    "clothing_slickedpartedhair",
+    "clothing_slickedpartedhair name",
+    "clothing_slickedpartedhair desc"
   ],
   [
     "clothing_sliponcanvas",
@@ -41225,9 +41385,19 @@
     "clothing_starwitchhat desc"
   ],
   [
+    "clothing_strappysatindress",
+    "clothing_strappysatindress name",
+    "clothing_strappysatindress desc"
+  ],
+  [
     "clothing_straw2",
     "Cappello in Paglia",
     "Pronto ad essere indossato"
+  ],
+  [
+    "clothing_stripeyshortsleevedshirt",
+    "clothing_stripeyshortsleevedshirt name",
+    "clothing_stripeyshortsleevedshirt desc"
   ],
   [
     "clothing_stubblebeard",
@@ -41335,6 +41505,11 @@
     "clothing_theoneset desc"
   ],
   [
+    "clothing_thinscarf",
+    "clothing_thinscarf name",
+    "clothing_thinscarf desc"
+  ],
+  [
     "clothing_tie1",
     "Cravatta da ufficio",
     "Impressiona il capo"
@@ -41440,6 +41615,11 @@
     "clothing_treepartyhat desc"
   ],
   [
+    "clothing_tribalnecklace",
+    "clothing_tribalnecklace name",
+    "clothing_tribalnecklace desc"
+  ],
+  [
     "clothing_tshirt_rolled",
     "Maglietta con Maniche arrotolate",
     "Pronto ad essere indossato"
@@ -41475,6 +41655,11 @@
     "clothing_ttslingbagtw desc"
   ],
   [
+    "clothing_tubetop",
+    "clothing_tubetop name",
+    "clothing_tubetop desc"
+  ],
+  [
     "clothing_turban",
     "Turbante Tradizionale",
     "clothing_turban desc"
@@ -41503,6 +41688,11 @@
     "clothing_twotonecardi",
     "Cardigan a due colori",
     "Pronto per essere indossato"
+  ],
+  [
+    "clothing_twotonedplaitedwavehair",
+    "clothing_twotonedplaitedwavehair name",
+    "clothing_twotonedplaitedwavehair desc"
   ],
   [
     "clothing_twotonehoodie",
@@ -41538,6 +41728,11 @@
     "clothing_ultrafantasysword",
     "Spada Indistruttibile Fantasy",
     "clothing_ultrafantasysword desc"
+  ],
+  [
+    "clothing_umbrella",
+    "clothing_umbrella name",
+    "clothing_umbrella desc"
   ],
   [
     "clothing_unibackpack1",
