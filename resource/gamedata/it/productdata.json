@@ -31563,7 +31563,7 @@
       },
       {
         "code": "cl_bratzcamhair_bd",
-        "name": "$product_clothing_bratzcameronhair_name$",
+        "name": "Acconciatura di Bratz Cameron",
         "description": ""
       },
       {
@@ -31578,17 +31578,17 @@
       },
       {
         "code": "cl_bratzcloebag_bd",
-        "name": "$product_clothing_bratzcloebag_name$",
+        "name": "Borsa di Bratz Cloe",
         "description": ""
       },
       {
         "code": "cl_bratzdylanbelt_bd",
-        "name": "$product_clothing_bratzdylanbelt_name$",
+        "name": "Cintura Bratz Dylan",
         "description": ""
       },
       {
         "code": "cl_bratzeitantrousers_bd",
-        "name": "$product_clothing_bratzeitantrousers_name$",
+        "name": "Pantaloni di Bratz Eitan",
         "description": ""
       },
       {
@@ -31608,12 +31608,12 @@
       },
       {
         "code": "cl_bratzjadeskirt_bd",
-        "name": "$product_clothing_bratzjadeskirt_name$",
+        "name": "Gonna di Bratz Jade",
         "description": ""
       },
       {
         "code": "cl_bratzkobyface_bd",
-        "name": "$product_clothing_bratzkobyface_name$",
+        "name": "Volto di Bratz Koby",
         "description": ""
       },
       {
@@ -31653,12 +31653,12 @@
       },
       {
         "code": "cl_bratzyasminmole_bd",
-        "name": "$product_clothing_bratzyasminmole_name$",
+        "name": "Segno di Bellezza di Bratz Yasmin",
         "description": ""
       },
       {
         "code": "cl_bratzyasminpearls_bd",
-        "name": "$product_clothing_bratzyasminpearls_name$",
+        "name": "Perle di Bratz Yasmin",
         "description": ""
       },
       {
@@ -31673,7 +31673,7 @@
       },
       {
         "code": "cl_r25_curlyponytail_bd",
-        "name": "Coda di Cavallo Anni 50",
+        "name": "Coda di Cavallo Anni '50",
         "description": ""
       },
       {
@@ -33217,6 +33217,11 @@
         "description": "clothing_bratzboots desc"
       },
       {
+        "code": "clothing_bratzcameronhair",
+        "name": "Acconciatura di Bratz Cameron",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzchloeface",
         "name": "Viso della Bratz Cloe",
         "description": "clothing_bratzchloeface desc"
@@ -33235,6 +33240,21 @@
         "code": "clothing_bratzchloeheadband",
         "name": "Fascia della Bratz Cloe",
         "description": "clothing_bratzchloeheadband desc"
+      },
+      {
+        "code": "clothing_bratzcloebag",
+        "name": "Borsa di Bratz Cloe",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzdylanbelt",
+        "name": "Cintura Bratz Dylan",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzeitantrousers",
+        "name": "Pantaloni di Bratz Eitan",
+        "description": ""
       },
       {
         "code": "clothing_bratzheels",
@@ -33262,6 +33282,16 @@
         "description": "clothing_bratzjadehair desc"
       },
       {
+        "code": "clothing_bratzjadeskirt",
+        "name": "Gonna di Bratz Jade",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzkobyface",
+        "name": "Volto di Bratz Koby",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzsashabeanie",
         "name": "Cappello della Bratz Sasha",
         "description": "clothing_bratzsashabeanie desc"
@@ -33270,6 +33300,11 @@
         "code": "clothing_bratzsashaface",
         "name": "Viso della Bratz Sasha",
         "description": "clothing_bratzsashaface desc"
+      },
+      {
+        "code": "clothing_bratzsashahair2",
+        "name": "Onde di Bratz Sasha",
+        "description": ""
       },
       {
         "code": "clothing_bratzsashahair",
@@ -33285,6 +33320,16 @@
         "code": "clothing_bratzyasminhair",
         "name": "Acconciatura della Bratz Yasmine",
         "description": "clothing_bratzyasminhair desc"
+      },
+      {
+        "code": "clothing_bratzyasminmole",
+        "name": "Neo di Bratz Yasmin",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzyasminpearls",
+        "name": "Perle di Bratz Yasmin",
+        "description": ""
       },
       {
         "code": "clothing_bratzyasminscarf",

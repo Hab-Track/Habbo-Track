@@ -31628,7 +31628,7 @@
       },
       {
         "code": "cl_bratzcamhair_bd",
-        "name": "$product_clothing_bratzcameronhair_name$",
+        "name": "Cabelo Cameron Bratz",
         "description": ""
       },
       {
@@ -31643,17 +31643,17 @@
       },
       {
         "code": "cl_bratzcloebag_bd",
-        "name": "$product_clothing_bratzcloebag_name$",
+        "name": "Bolsa Cloe Bratz",
         "description": ""
       },
       {
         "code": "cl_bratzdylanbelt_bd",
-        "name": "$product_clothing_bratzdylanbelt_name$",
+        "name": "Cinto Dylan Bratz",
         "description": ""
       },
       {
         "code": "cl_bratzeitantrousers_bd",
-        "name": "$product_clothing_bratzeitantrousers_name$",
+        "name": "Calças Eitan Bratz",
         "description": ""
       },
       {
@@ -31673,12 +31673,12 @@
       },
       {
         "code": "cl_bratzjadeskirt_bd",
-        "name": "$product_clothing_bratzjadeskirt_name$",
+        "name": "Saia Jade Bratz",
         "description": ""
       },
       {
         "code": "cl_bratzkobyface_bd",
-        "name": "$product_clothing_bratzkobyface_name$",
+        "name": "Rosto Koby Bratz",
         "description": ""
       },
       {
@@ -31718,12 +31718,12 @@
       },
       {
         "code": "cl_bratzyasminmole_bd",
-        "name": "$product_clothing_bratzyasminmole_name$",
+        "name": "Pintinha Bratz da Yasmin",
         "description": ""
       },
       {
         "code": "cl_bratzyasminpearls_bd",
-        "name": "$product_clothing_bratzyasminpearls_name$",
+        "name": "Pérolas Yasmin Bratz",
         "description": ""
       },
       {
@@ -31738,7 +31738,7 @@
       },
       {
         "code": "cl_r25_curlyponytail_bd",
-        "name": "Rabo de Cavalo dos Anos 50",
+        "name": "Rabo de Cavalo Anos 50",
         "description": ""
       },
       {
@@ -33282,6 +33282,11 @@
         "description": "clothing_bratzboots desc"
       },
       {
+        "code": "clothing_bratzcameronhair",
+        "name": "Cabelo Cameron Bratz",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzchloeface",
         "name": "Maquiagem Bratz Cloe",
         "description": "clothing_bratzchloeface desc"
@@ -33300,6 +33305,21 @@
         "code": "clothing_bratzchloeheadband",
         "name": "Bandana Bratz Cloe",
         "description": "clothing_bratzchloeheadband desc"
+      },
+      {
+        "code": "clothing_bratzcloebag",
+        "name": "Bolsa Cloe Bratz",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzdylanbelt",
+        "name": "Cinto Dylan Bratz",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzeitantrousers",
+        "name": "Calças Eitan Bratz",
+        "description": ""
       },
       {
         "code": "clothing_bratzheels",
@@ -33327,6 +33347,16 @@
         "description": "clothing_bratzjadehair desc"
       },
       {
+        "code": "clothing_bratzjadeskirt",
+        "name": "Saia Jade Bratz",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzkobyface",
+        "name": "Rosto Koby Bratz",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzsashabeanie",
         "name": "Gorro Bratz Sasha",
         "description": "clothing_bratzsashabeanie desc"
@@ -33335,6 +33365,11 @@
         "code": "clothing_bratzsashaface",
         "name": "Maquiagem Bratz Sasha",
         "description": "clothing_bratzsashaface desc"
+      },
+      {
+        "code": "clothing_bratzsashahair2",
+        "name": "Cabelo Ondulado Sasha Bratz",
+        "description": ""
       },
       {
         "code": "clothing_bratzsashahair",
@@ -33350,6 +33385,16 @@
         "code": "clothing_bratzyasminhair",
         "name": "Penteado Bratz Yasmin",
         "description": "clothing_bratzyasminhair desc"
+      },
+      {
+        "code": "clothing_bratzyasminmole",
+        "name": "Pinta Yasmin Bratz",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzyasminpearls",
+        "name": "Pérolas Yasmin Bratz",
+        "description": ""
       },
       {
         "code": "clothing_bratzyasminscarf",
@@ -84118,42 +84163,42 @@
       },
       {
         "code": "rare_prize25_0",
-        "name": "Ovelha Bebê Bronze",
+        "name": "Carneirinho Bronze",
         "description": "rare_prize25_0 desc"
       },
       {
         "code": "rare_prize25_10",
-        "name": "Ovelha Bebê Safira",
+        "name": "Carneirinho Safira",
         "description": "rare_prize25_10 desc"
       },
       {
         "code": "rare_prize25_11",
-        "name": "Ovelha Bebê Jade",
+        "name": "Carneirinho Jade",
         "description": "rare_prize25_11 desc"
       },
       {
         "code": "rare_prize25_12",
-        "name": "Ovelha Bebê Pérola",
+        "name": "Carneirinho Pérola",
         "description": "rare_prize25_12 desc"
       },
       {
         "code": "rare_prize25_13",
-        "name": "Ovelha Bebê Turquesa",
+        "name": "Carneirinho Turquesa",
         "description": "rare_prize25_13 desc"
       },
       {
         "code": "rare_prize25_14",
-        "name": "Ovelha Bebê Rosa",
+        "name": "Carneirinho Rosa",
         "description": "rare_prize25_14 desc"
       },
       {
         "code": "rare_prize25_1",
-        "name": "Ovelha Bebê Rubi",
+        "name": "Carneirinho Rubi",
         "description": "rare_prize25_1 desc"
       },
       {
         "code": "rare_prize25_2",
-        "name": "Ovelha Bebê Obsidiana",
+        "name": "Carneirinho Obsidiana",
         "description": "rare_prize25_2 desc"
       },
       {
@@ -84163,32 +84208,32 @@
       },
       {
         "code": "rare_prize25_4",
-        "name": "Ovelha Bebê Ametista",
+        "name": "Carneirinho Ametista",
         "description": "rare_prize25_4 desc"
       },
       {
         "code": "rare_prize25_5",
-        "name": "Ovelha Bebê Jásper",
+        "name": "Carneirinho Jásper",
         "description": "rare_prize25_5 desc"
       },
       {
         "code": "rare_prize25_6",
-        "name": "Ovelha Bebê Esmeralda",
+        "name": "Carneirinho Esmeralda",
         "description": "rare_prize25_6 desc"
       },
       {
         "code": "rare_prize25_7",
-        "name": "Ovelha Bebê Tanzanita",
+        "name": "Carneirinho Tanzanita",
         "description": "rare_prize25_7 desc"
       },
       {
         "code": "rare_prize25_8",
-        "name": "Ovelha Bebê Água-marinha",
+        "name": "Carneirinho Água-marinha",
         "description": "rare_prize25_8 desc"
       },
       {
         "code": "rare_prize25_9",
-        "name": "Ovelha Bebê Rodocrosita",
+        "name": "Carneirinho Rodocrosita",
         "description": "rare_prize25_9 desc"
       },
       {

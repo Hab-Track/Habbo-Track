@@ -32221,7 +32221,7 @@
   ],
   [
     "cl_bratzcamhair_bd",
-    "$product_clothing_bratzcameronhair_name$",
+    "Bratz Cameronin kampaus",
     ""
   ],
   [
@@ -32236,17 +32236,17 @@
   ],
   [
     "cl_bratzcloebag_bd",
-    "$product_clothing_bratzcloebag_name$",
+    "Bratz Cloen käsilaukku",
     ""
   ],
   [
     "cl_bratzdylanbelt_bd",
-    "$product_clothing_bratzdylanbelt_name$",
+    "Bratz Dylanin vyöketju",
     ""
   ],
   [
     "cl_bratzeitantrousers_bd",
-    "$product_clothing_bratzeitantrousers_name$",
+    "Bratz Eitanin lökäpöksyt",
     ""
   ],
   [
@@ -32266,12 +32266,12 @@
   ],
   [
     "cl_bratzjadeskirt_bd",
-    "$product_clothing_bratzjadeskirt_name$",
+    "Bratz Jaden minihame",
     ""
   ],
   [
     "cl_bratzkobyface_bd",
-    "$product_clothing_bratzkobyface_name$",
+    "Bratz Kobyn kasvot",
     ""
   ],
   [
@@ -32311,12 +32311,12 @@
   ],
   [
     "cl_bratzyasminmole_bd",
-    "$product_clothing_bratzyasminmole_name$",
+    "Bratz Yasminin kauneuspilkku",
     ""
   ],
   [
     "cl_bratzyasminpearls_bd",
-    "$product_clothing_bratzyasminpearls_name$",
+    "Bratz Yasminin helmikaulakoru",
     ""
   ],
   [
@@ -32331,7 +32331,7 @@
   ],
   [
     "cl_r25_curlyponytail_bd",
-    "Fiftariponnari ",
+    "Fiftariponnari",
     ""
   ],
   [
@@ -33875,6 +33875,11 @@
     "clothing_bratzboots desc"
   ],
   [
+    "clothing_bratzcameronhair",
+    "Bratz Cameronin kampaus",
+    ""
+  ],
+  [
     "clothing_bratzchloeface",
     "Bratz Cloen meikki",
     "clothing_bratzchloeface desc"
@@ -33893,6 +33898,21 @@
     "clothing_bratzchloeheadband",
     "Bratz Cloen hiuspanta",
     "clothing_bratzchloeheadband desc"
+  ],
+  [
+    "clothing_bratzcloebag",
+    "Bratz Cloen käsilaukku",
+    ""
+  ],
+  [
+    "clothing_bratzdylanbelt",
+    "Bratz Dylanin vyöketju",
+    ""
+  ],
+  [
+    "clothing_bratzeitantrousers",
+    "Bratz Eitanin lökäpöksyt",
+    ""
   ],
   [
     "clothing_bratzheels",
@@ -33920,6 +33940,16 @@
     "clothing_bratzjadehair desc"
   ],
   [
+    "clothing_bratzjadeskirt",
+    "Bratz Jaden minihame",
+    ""
+  ],
+  [
+    "clothing_bratzkobyface",
+    "Bratz Kobyn kasvot",
+    ""
+  ],
+  [
     "clothing_bratzsashabeanie",
     "Bratz Sashan pipo",
     "clothing_bratzsashabeanie desc"
@@ -33928,6 +33958,11 @@
     "clothing_bratzsashaface",
     "Bratz Sashan meikki",
     "clothing_bratzsashaface desc"
+  ],
+  [
+    "clothing_bratzsashahair2",
+    "Bratz Sashan kutrit",
+    ""
   ],
   [
     "clothing_bratzsashahair",
@@ -33943,6 +33978,16 @@
     "clothing_bratzyasminhair",
     "Bratz Yasminin kampaus",
     "clothing_bratzyasminhair desc"
+  ],
+  [
+    "clothing_bratzyasminmole",
+    "Bratz Yasminin kauneuspilkku",
+    ""
+  ],
+  [
+    "clothing_bratzyasminpearls",
+    "Bratz Yasminin helmikaulakoru",
+    ""
   ],
   [
     "clothing_bratzyasminscarf",

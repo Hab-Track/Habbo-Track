@@ -31411,7 +31411,7 @@
   ],
   [
     "cl_bratzcamhair_bd",
-    "$product_clothing_bratzcameronhair_name$",
+    "Pelo estilo Cameron Bratz",
     ""
   ],
   [
@@ -31426,17 +31426,17 @@
   ],
   [
     "cl_bratzcloebag_bd",
-    "$product_clothing_bratzcloebag_name$",
+    "Bolso de Cloe Bratz",
     ""
   ],
   [
     "cl_bratzdylanbelt_bd",
-    "$product_clothing_bratzdylanbelt_name$",
+    "Cinturón de Dylan Brat",
     ""
   ],
   [
     "cl_bratzeitantrousers_bd",
-    "$product_clothing_bratzeitantrousers_name$",
+    "Pantalones de Eitan Bratz",
     ""
   ],
   [
@@ -31456,12 +31456,12 @@
   ],
   [
     "cl_bratzjadeskirt_bd",
-    "$product_clothing_bratzjadeskirt_name$",
+    "Falda de Jade Bratz",
     ""
   ],
   [
     "cl_bratzkobyface_bd",
-    "$product_clothing_bratzkobyface_name$",
+    "Cara de Koby Bratz",
     ""
   ],
   [
@@ -31501,12 +31501,12 @@
   ],
   [
     "cl_bratzyasminmole_bd",
-    "$product_clothing_bratzyasminmole_name$",
+    "Lunar Atractivo de Yasmin Bratz",
     ""
   ],
   [
     "cl_bratzyasminpearls_bd",
-    "$product_clothing_bratzyasminpearls_name$",
+    "Perlas de Yasmin Bratz",
     ""
   ],
   [
@@ -33065,6 +33065,11 @@
     "clothing_bratzboots desc"
   ],
   [
+    "clothing_bratzcameronhair",
+    "Pelo estilo Cameron Bratz",
+    ""
+  ],
+  [
     "clothing_bratzchloeface",
     "Cara de Bratz Cloe",
     "clothing_bratzchloeface desc"
@@ -33083,6 +33088,21 @@
     "clothing_bratzchloeheadband",
     "Cinta de Bratz Cloe",
     "clothing_bratzchloeheadband desc"
+  ],
+  [
+    "clothing_bratzcloebag",
+    "Bolso de Cloe Bratz",
+    ""
+  ],
+  [
+    "clothing_bratzdylanbelt",
+    "Cinturón de Dylan Brat",
+    ""
+  ],
+  [
+    "clothing_bratzeitantrousers",
+    "Pantalones de Eitan Bratz",
+    ""
   ],
   [
     "clothing_bratzheels",
@@ -33110,6 +33130,16 @@
     "clothing_bratzjadehair desc"
   ],
   [
+    "clothing_bratzjadeskirt",
+    "Falda de Jade Bratz",
+    ""
+  ],
+  [
+    "clothing_bratzkobyface",
+    "Cara de Koby Bratz",
+    ""
+  ],
+  [
     "clothing_bratzsashabeanie",
     "Gorro de Bratz Sasha",
     "clothing_bratzsashabeanie desc"
@@ -33118,6 +33148,11 @@
     "clothing_bratzsashaface",
     "Cara de Bratz Sasha",
     "clothing_bratzsashaface desc"
+  ],
+  [
+    "clothing_bratzsashahair2",
+    "Ondas de Sasha Bratz",
+    ""
   ],
   [
     "clothing_bratzsashahair",
@@ -33133,6 +33168,16 @@
     "clothing_bratzyasminhair",
     "Peinado de Bratz Yasmin",
     "clothing_bratzyasminhair desc"
+  ],
+  [
+    "clothing_bratzyasminmole",
+    "Lunar de Yasmin Bratz",
+    ""
+  ],
+  [
+    "clothing_bratzyasminpearls",
+    "Perlas de Yasmin Bratz",
+    ""
   ],
   [
     "clothing_bratzyasminscarf",

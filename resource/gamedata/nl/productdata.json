@@ -30743,7 +30743,7 @@
       },
       {
         "code": "cl_bratzcamhair_bd",
-        "name": "$product_clothing_bratzcameronhair_name$",
+        "name": "Bratz Cameron´s Haar",
         "description": ""
       },
       {
@@ -30758,17 +30758,17 @@
       },
       {
         "code": "cl_bratzcloebag_bd",
-        "name": "$product_clothing_bratzcloebag_name$",
+        "name": "Bratz Cloe´s Tas",
         "description": ""
       },
       {
         "code": "cl_bratzdylanbelt_bd",
-        "name": "$product_clothing_bratzdylanbelt_name$",
+        "name": "Bratz Dylan´s Riem",
         "description": ""
       },
       {
         "code": "cl_bratzeitantrousers_bd",
-        "name": "$product_clothing_bratzeitantrousers_name$",
+        "name": "Bratz Eitan´s Broek",
         "description": ""
       },
       {
@@ -30788,12 +30788,12 @@
       },
       {
         "code": "cl_bratzjadeskirt_bd",
-        "name": "$product_clothing_bratzjadeskirt_name$",
+        "name": "Bratz Jade´s Rokje",
         "description": ""
       },
       {
         "code": "cl_bratzkobyface_bd",
-        "name": "$product_clothing_bratzkobyface_name$",
+        "name": "Bratz Koby´s Gezicht",
         "description": ""
       },
       {
@@ -30833,12 +30833,12 @@
       },
       {
         "code": "cl_bratzyasminmole_bd",
-        "name": "$product_clothing_bratzyasminmole_name$",
+        "name": "Bratz Yasmin´s Schoonheidsvlekje",
         "description": ""
       },
       {
         "code": "cl_bratzyasminpearls_bd",
-        "name": "$product_clothing_bratzyasminpearls_name$",
+        "name": "Bratz Yasmin´s Parelketting",
         "description": ""
       },
       {
@@ -32397,6 +32397,11 @@
         "description": "clothing_bratzboots desc"
       },
       {
+        "code": "clothing_bratzcameronhair",
+        "name": "Bratz Cameron´s Haar",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzchloeface",
         "name": "Bratz Cloe´s gezicht",
         "description": "clothing_bratzchloeface desc"
@@ -32415,6 +32420,21 @@
         "code": "clothing_bratzchloeheadband",
         "name": "Bratz Cloe´s haarband",
         "description": "clothing_bratzchloeheadband desc"
+      },
+      {
+        "code": "clothing_bratzcloebag",
+        "name": "Bratz Cloe´s Tas",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzdylanbelt",
+        "name": "Bratz Dylan´s Riem",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzeitantrousers",
+        "name": "Bratz Eitan´s Broek",
+        "description": ""
       },
       {
         "code": "clothing_bratzheels",
@@ -32442,6 +32462,16 @@
         "description": "clothing_bratzjadehair desc"
       },
       {
+        "code": "clothing_bratzjadeskirt",
+        "name": "Bratz Jade´s Rokje",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzkobyface",
+        "name": "Bratz Koby´s Gezicht",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzsashabeanie",
         "name": "Bratz Sasha´s Muts",
         "description": "clothing_bratzsashabeanie desc"
@@ -32450,6 +32480,11 @@
         "code": "clothing_bratzsashaface",
         "name": "Bratz Sasha´s gezicht",
         "description": "clothing_bratzsashaface desc"
+      },
+      {
+        "code": "clothing_bratzsashahair2",
+        "name": "Bratz Sasha´s Lokken",
+        "description": ""
       },
       {
         "code": "clothing_bratzsashahair",
@@ -32465,6 +32500,16 @@
         "code": "clothing_bratzyasminhair",
         "name": "Bratz Yasmin´s Kapsel",
         "description": "clothing_bratzyasminhair desc"
+      },
+      {
+        "code": "clothing_bratzyasminmole",
+        "name": "Bratz Yasmin´s Wrat",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzyasminpearls",
+        "name": "Bratz Yasmin´s Parelketting",
+        "description": ""
       },
       {
         "code": "clothing_bratzyasminscarf",

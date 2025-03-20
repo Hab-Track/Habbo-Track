@@ -30741,7 +30741,7 @@
   ],
   [
     "cl_bratzcamhair_bd",
-    "$product_clothing_bratzcameronhair_name$",
+    "Bratz Cameron´s Haar",
     ""
   ],
   [
@@ -30756,17 +30756,17 @@
   ],
   [
     "cl_bratzcloebag_bd",
-    "$product_clothing_bratzcloebag_name$",
+    "Bratz Cloe´s Tas",
     ""
   ],
   [
     "cl_bratzdylanbelt_bd",
-    "$product_clothing_bratzdylanbelt_name$",
+    "Bratz Dylan´s Riem",
     ""
   ],
   [
     "cl_bratzeitantrousers_bd",
-    "$product_clothing_bratzeitantrousers_name$",
+    "Bratz Eitan´s Broek",
     ""
   ],
   [
@@ -30786,12 +30786,12 @@
   ],
   [
     "cl_bratzjadeskirt_bd",
-    "$product_clothing_bratzjadeskirt_name$",
+    "Bratz Jade´s Rokje",
     ""
   ],
   [
     "cl_bratzkobyface_bd",
-    "$product_clothing_bratzkobyface_name$",
+    "Bratz Koby´s Gezicht",
     ""
   ],
   [
@@ -30831,12 +30831,12 @@
   ],
   [
     "cl_bratzyasminmole_bd",
-    "$product_clothing_bratzyasminmole_name$",
+    "Bratz Yasmin´s Schoonheidsvlekje",
     ""
   ],
   [
     "cl_bratzyasminpearls_bd",
-    "$product_clothing_bratzyasminpearls_name$",
+    "Bratz Yasmin´s Parelketting",
     ""
   ],
   [
@@ -32395,6 +32395,11 @@
     "clothing_bratzboots desc"
   ],
   [
+    "clothing_bratzcameronhair",
+    "Bratz Cameron´s Haar",
+    ""
+  ],
+  [
     "clothing_bratzchloeface",
     "Bratz Cloe´s gezicht",
     "clothing_bratzchloeface desc"
@@ -32413,6 +32418,21 @@
     "clothing_bratzchloeheadband",
     "Bratz Cloe´s haarband",
     "clothing_bratzchloeheadband desc"
+  ],
+  [
+    "clothing_bratzcloebag",
+    "Bratz Cloe´s Tas",
+    ""
+  ],
+  [
+    "clothing_bratzdylanbelt",
+    "Bratz Dylan´s Riem",
+    ""
+  ],
+  [
+    "clothing_bratzeitantrousers",
+    "Bratz Eitan´s Broek",
+    ""
   ],
   [
     "clothing_bratzheels",
@@ -32440,6 +32460,16 @@
     "clothing_bratzjadehair desc"
   ],
   [
+    "clothing_bratzjadeskirt",
+    "Bratz Jade´s Rokje",
+    ""
+  ],
+  [
+    "clothing_bratzkobyface",
+    "Bratz Koby´s Gezicht",
+    ""
+  ],
+  [
     "clothing_bratzsashabeanie",
     "Bratz Sasha´s Muts",
     "clothing_bratzsashabeanie desc"
@@ -32448,6 +32478,11 @@
     "clothing_bratzsashaface",
     "Bratz Sasha´s gezicht",
     "clothing_bratzsashaface desc"
+  ],
+  [
+    "clothing_bratzsashahair2",
+    "Bratz Sasha´s Lokken",
+    ""
   ],
   [
     "clothing_bratzsashahair",
@@ -32463,6 +32498,16 @@
     "clothing_bratzyasminhair",
     "Bratz Yasmin´s Kapsel",
     "clothing_bratzyasminhair desc"
+  ],
+  [
+    "clothing_bratzyasminmole",
+    "Bratz Yasmin´s Wrat",
+    ""
+  ],
+  [
+    "clothing_bratzyasminpearls",
+    "Bratz Yasmin´s Parelketting",
+    ""
   ],
   [
     "clothing_bratzyasminscarf",

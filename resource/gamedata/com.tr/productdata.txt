@@ -32631,7 +32631,7 @@
   ],
   [
     "cl_bratzcamhair_bd",
-    "$product_clothing_bratzcameronhair_name$",
+    "Bratz Cameron’ın Saçları",
     ""
   ],
   [
@@ -32646,17 +32646,17 @@
   ],
   [
     "cl_bratzcloebag_bd",
-    "$product_clothing_bratzcloebag_name$",
+    "Bratz Cloe’nin Çantası",
     ""
   ],
   [
     "cl_bratzdylanbelt_bd",
-    "$product_clothing_bratzdylanbelt_name$",
+    "Bratz Dylan’ın Kemeri",
     ""
   ],
   [
     "cl_bratzeitantrousers_bd",
-    "$product_clothing_bratzeitantrousers_name$",
+    "Bratz Eitan’ın Pantolonu",
     ""
   ],
   [
@@ -32676,12 +32676,12 @@
   ],
   [
     "cl_bratzjadeskirt_bd",
-    "$product_clothing_bratzjadeskirt_name$",
+    "Bratz Jade’in Eteği",
     ""
   ],
   [
     "cl_bratzkobyface_bd",
-    "$product_clothing_bratzkobyface_name$",
+    "Bratz Koby’nin Yüzü",
     ""
   ],
   [
@@ -32721,12 +32721,12 @@
   ],
   [
     "cl_bratzyasminmole_bd",
-    "$product_clothing_bratzyasminmole_name$",
+    "Bratz Yasmin’in Güzellik Beni",
     ""
   ],
   [
     "cl_bratzyasminpearls_bd",
-    "$product_clothing_bratzyasminpearls_name$",
+    "Bratz Yasmin’in İnci Kolyesi",
     ""
   ],
   [
@@ -34290,6 +34290,11 @@
     "clothing_bratzboots desc"
   ],
   [
+    "clothing_bratzcameronhair",
+    "Bratz Cameron’ın Saçları",
+    ""
+  ],
+  [
     "clothing_bratzchloeface",
     "Bratz Cloe’nin Yüzü",
     "clothing_bratzchloeface desc"
@@ -34308,6 +34313,21 @@
     "clothing_bratzchloeheadband",
     "Bratz Cloe’nin saç bandı",
     "clothing_bratzchloeheadband desc"
+  ],
+  [
+    "clothing_bratzcloebag",
+    "Bratz Cloe’nin Çantası",
+    ""
+  ],
+  [
+    "clothing_bratzdylanbelt",
+    "Bratz Dylan’ın Kemeri",
+    ""
+  ],
+  [
+    "clothing_bratzeitantrousers",
+    "Bratz Eitan’ın Pantolonu",
+    ""
   ],
   [
     "clothing_bratzheels",
@@ -34335,6 +34355,16 @@
     "clothing_bratzjadehair desc"
   ],
   [
+    "clothing_bratzjadeskirt",
+    "Bratz Jade’in Eteği",
+    ""
+  ],
+  [
+    "clothing_bratzkobyface",
+    "Bratz Koby’nin Yüzü",
+    ""
+  ],
+  [
     "clothing_bratzsashabeanie",
     "Bratz Sasha'nın Beresi",
     "clothing_bratzsashabeanie desc"
@@ -34343,6 +34373,11 @@
     "clothing_bratzsashaface",
     "Bratz Sasha'nın Yüzü",
     "clothing_bratzsashaface desc"
+  ],
+  [
+    "clothing_bratzsashahair2",
+    "Bratz Sasha’nın Dalgalı Saçları",
+    ""
   ],
   [
     "clothing_bratzsashahair",
@@ -34358,6 +34393,16 @@
     "clothing_bratzyasminhair",
     "Bratz Yasmin'in saçı",
     "clothing_bratzyasminhair desc"
+  ],
+  [
+    "clothing_bratzyasminmole",
+    "Bratz Yasmin’in Beni",
+    ""
+  ],
+  [
+    "clothing_bratzyasminpearls",
+    "Bratz Yasmin’in İnci Kolyesi",
+    ""
   ],
   [
     "clothing_bratzyasminscarf",

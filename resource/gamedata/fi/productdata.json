@@ -32223,7 +32223,7 @@
       },
       {
         "code": "cl_bratzcamhair_bd",
-        "name": "$product_clothing_bratzcameronhair_name$",
+        "name": "Bratz Cameronin kampaus",
         "description": ""
       },
       {
@@ -32238,17 +32238,17 @@
       },
       {
         "code": "cl_bratzcloebag_bd",
-        "name": "$product_clothing_bratzcloebag_name$",
+        "name": "Bratz Cloen käsilaukku",
         "description": ""
       },
       {
         "code": "cl_bratzdylanbelt_bd",
-        "name": "$product_clothing_bratzdylanbelt_name$",
+        "name": "Bratz Dylanin vyöketju",
         "description": ""
       },
       {
         "code": "cl_bratzeitantrousers_bd",
-        "name": "$product_clothing_bratzeitantrousers_name$",
+        "name": "Bratz Eitanin lökäpöksyt",
         "description": ""
       },
       {
@@ -32268,12 +32268,12 @@
       },
       {
         "code": "cl_bratzjadeskirt_bd",
-        "name": "$product_clothing_bratzjadeskirt_name$",
+        "name": "Bratz Jaden minihame",
         "description": ""
       },
       {
         "code": "cl_bratzkobyface_bd",
-        "name": "$product_clothing_bratzkobyface_name$",
+        "name": "Bratz Kobyn kasvot",
         "description": ""
       },
       {
@@ -32313,12 +32313,12 @@
       },
       {
         "code": "cl_bratzyasminmole_bd",
-        "name": "$product_clothing_bratzyasminmole_name$",
+        "name": "Bratz Yasminin kauneuspilkku",
         "description": ""
       },
       {
         "code": "cl_bratzyasminpearls_bd",
-        "name": "$product_clothing_bratzyasminpearls_name$",
+        "name": "Bratz Yasminin helmikaulakoru",
         "description": ""
       },
       {
@@ -33877,6 +33877,11 @@
         "description": "clothing_bratzboots desc"
       },
       {
+        "code": "clothing_bratzcameronhair",
+        "name": "Bratz Cameronin kampaus",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzchloeface",
         "name": "Bratz Cloen meikki",
         "description": "clothing_bratzchloeface desc"
@@ -33895,6 +33900,21 @@
         "code": "clothing_bratzchloeheadband",
         "name": "Bratz Cloen hiuspanta",
         "description": "clothing_bratzchloeheadband desc"
+      },
+      {
+        "code": "clothing_bratzcloebag",
+        "name": "Bratz Cloen käsilaukku",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzdylanbelt",
+        "name": "Bratz Dylanin vyöketju",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzeitantrousers",
+        "name": "Bratz Eitanin lökäpöksyt",
+        "description": ""
       },
       {
         "code": "clothing_bratzheels",
@@ -33922,6 +33942,16 @@
         "description": "clothing_bratzjadehair desc"
       },
       {
+        "code": "clothing_bratzjadeskirt",
+        "name": "Bratz Jaden minihame",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzkobyface",
+        "name": "Bratz Kobyn kasvot",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzsashabeanie",
         "name": "Bratz Sashan pipo",
         "description": "clothing_bratzsashabeanie desc"
@@ -33930,6 +33960,11 @@
         "code": "clothing_bratzsashaface",
         "name": "Bratz Sashan meikki",
         "description": "clothing_bratzsashaface desc"
+      },
+      {
+        "code": "clothing_bratzsashahair2",
+        "name": "Bratz Sashan kutrit",
+        "description": ""
       },
       {
         "code": "clothing_bratzsashahair",
@@ -33945,6 +33980,16 @@
         "code": "clothing_bratzyasminhair",
         "name": "Bratz Yasminin kampaus",
         "description": "clothing_bratzyasminhair desc"
+      },
+      {
+        "code": "clothing_bratzyasminmole",
+        "name": "Bratz Yasminin kauneuspilkku",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzyasminpearls",
+        "name": "Bratz Yasminin helmikaulakoru",
+        "description": ""
       },
       {
         "code": "clothing_bratzyasminscarf",

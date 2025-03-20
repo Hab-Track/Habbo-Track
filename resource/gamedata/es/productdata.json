@@ -31413,7 +31413,7 @@
       },
       {
         "code": "cl_bratzcamhair_bd",
-        "name": "$product_clothing_bratzcameronhair_name$",
+        "name": "Pelo estilo Cameron Bratz",
         "description": ""
       },
       {
@@ -31428,17 +31428,17 @@
       },
       {
         "code": "cl_bratzcloebag_bd",
-        "name": "$product_clothing_bratzcloebag_name$",
+        "name": "Bolso de Cloe Bratz",
         "description": ""
       },
       {
         "code": "cl_bratzdylanbelt_bd",
-        "name": "$product_clothing_bratzdylanbelt_name$",
+        "name": "Cinturón de Dylan Brat",
         "description": ""
       },
       {
         "code": "cl_bratzeitantrousers_bd",
-        "name": "$product_clothing_bratzeitantrousers_name$",
+        "name": "Pantalones de Eitan Bratz",
         "description": ""
       },
       {
@@ -31458,12 +31458,12 @@
       },
       {
         "code": "cl_bratzjadeskirt_bd",
-        "name": "$product_clothing_bratzjadeskirt_name$",
+        "name": "Falda de Jade Bratz",
         "description": ""
       },
       {
         "code": "cl_bratzkobyface_bd",
-        "name": "$product_clothing_bratzkobyface_name$",
+        "name": "Cara de Koby Bratz",
         "description": ""
       },
       {
@@ -31503,12 +31503,12 @@
       },
       {
         "code": "cl_bratzyasminmole_bd",
-        "name": "$product_clothing_bratzyasminmole_name$",
+        "name": "Lunar Atractivo de Yasmin Bratz",
         "description": ""
       },
       {
         "code": "cl_bratzyasminpearls_bd",
-        "name": "$product_clothing_bratzyasminpearls_name$",
+        "name": "Perlas de Yasmin Bratz",
         "description": ""
       },
       {
@@ -33067,6 +33067,11 @@
         "description": "clothing_bratzboots desc"
       },
       {
+        "code": "clothing_bratzcameronhair",
+        "name": "Pelo estilo Cameron Bratz",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzchloeface",
         "name": "Cara de Bratz Cloe",
         "description": "clothing_bratzchloeface desc"
@@ -33085,6 +33090,21 @@
         "code": "clothing_bratzchloeheadband",
         "name": "Cinta de Bratz Cloe",
         "description": "clothing_bratzchloeheadband desc"
+      },
+      {
+        "code": "clothing_bratzcloebag",
+        "name": "Bolso de Cloe Bratz",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzdylanbelt",
+        "name": "Cinturón de Dylan Brat",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzeitantrousers",
+        "name": "Pantalones de Eitan Bratz",
+        "description": ""
       },
       {
         "code": "clothing_bratzheels",
@@ -33112,6 +33132,16 @@
         "description": "clothing_bratzjadehair desc"
       },
       {
+        "code": "clothing_bratzjadeskirt",
+        "name": "Falda de Jade Bratz",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzkobyface",
+        "name": "Cara de Koby Bratz",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzsashabeanie",
         "name": "Gorro de Bratz Sasha",
         "description": "clothing_bratzsashabeanie desc"
@@ -33120,6 +33150,11 @@
         "code": "clothing_bratzsashaface",
         "name": "Cara de Bratz Sasha",
         "description": "clothing_bratzsashaface desc"
+      },
+      {
+        "code": "clothing_bratzsashahair2",
+        "name": "Ondas de Sasha Bratz",
+        "description": ""
       },
       {
         "code": "clothing_bratzsashahair",
@@ -33135,6 +33170,16 @@
         "code": "clothing_bratzyasminhair",
         "name": "Peinado de Bratz Yasmin",
         "description": "clothing_bratzyasminhair desc"
+      },
+      {
+        "code": "clothing_bratzyasminmole",
+        "name": "Lunar de Yasmin Bratz",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzyasminpearls",
+        "name": "Perlas de Yasmin Bratz",
+        "description": ""
       },
       {
         "code": "clothing_bratzyasminscarf",

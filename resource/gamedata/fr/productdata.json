@@ -30938,7 +30938,7 @@
       },
       {
         "code": "cl_bratzcamhair_bd",
-        "name": "$product_clothing_bratzcameronhair_name$",
+        "name": "Chevelure de Cameron Bratz",
         "description": ""
       },
       {
@@ -30953,17 +30953,17 @@
       },
       {
         "code": "cl_bratzcloebag_bd",
-        "name": "$product_clothing_bratzcloebag_name$",
+        "name": "Sac de Cloe Bratz",
         "description": ""
       },
       {
         "code": "cl_bratzdylanbelt_bd",
-        "name": "$product_clothing_bratzdylanbelt_name$",
+        "name": "Ceinture de Dylan Bratz",
         "description": ""
       },
       {
         "code": "cl_bratzeitantrousers_bd",
-        "name": "$product_clothing_bratzeitantrousers_name$",
+        "name": "Pantalons d'Eitan Bratz",
         "description": ""
       },
       {
@@ -30983,12 +30983,12 @@
       },
       {
         "code": "cl_bratzjadeskirt_bd",
-        "name": "$product_clothing_bratzjadeskirt_name$",
+        "name": "Jupe de Jade Bratz",
         "description": ""
       },
       {
         "code": "cl_bratzkobyface_bd",
-        "name": "$product_clothing_bratzkobyface_name$",
+        "name": "Visage de Koby Bratz",
         "description": ""
       },
       {
@@ -31028,12 +31028,12 @@
       },
       {
         "code": "cl_bratzyasminmole_bd",
-        "name": "$product_clothing_bratzyasminmole_name$",
+        "name": "Marque de beauté de Yasmin Bratz",
         "description": ""
       },
       {
         "code": "cl_bratzyasminpearls_bd",
-        "name": "$product_clothing_bratzyasminpearls_name$",
+        "name": "Perles de Yasmin Bratz",
         "description": ""
       },
       {
@@ -32592,6 +32592,11 @@
         "description": "clothing_bratzboots desc"
       },
       {
+        "code": "clothing_bratzcameronhair",
+        "name": "Chevelure de Cameron Bratz",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzchloeface",
         "name": "Visage Bratz Cloé",
         "description": "clothing_bratzchloeface desc"
@@ -32610,6 +32615,21 @@
         "code": "clothing_bratzchloeheadband",
         "name": "Bandeau de Bratz Cloe",
         "description": "clothing_bratzchloeheadband desc"
+      },
+      {
+        "code": "clothing_bratzcloebag",
+        "name": "Sac de Cloe Bratz",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzdylanbelt",
+        "name": "Ceinture de Dylan Bratz",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzeitantrousers",
+        "name": "Pantalons d'Eitan Bratz",
+        "description": ""
       },
       {
         "code": "clothing_bratzheels",
@@ -32637,6 +32657,16 @@
         "description": "clothing_bratzjadehair desc"
       },
       {
+        "code": "clothing_bratzjadeskirt",
+        "name": "Jupe de Jade Bratz",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzkobyface",
+        "name": "Visage de Koby Bratz",
+        "description": ""
+      },
+      {
         "code": "clothing_bratzsashabeanie",
         "name": "Bonnet Bratz Sasha",
         "description": "clothing_bratzsashabeanie desc"
@@ -32645,6 +32675,11 @@
         "code": "clothing_bratzsashaface",
         "name": "Visage Bratz Sasha",
         "description": "clothing_bratzsashaface desc"
+      },
+      {
+        "code": "clothing_bratzsashahair2",
+        "name": "Chevelure ondulée de Sasha Bratz",
+        "description": ""
       },
       {
         "code": "clothing_bratzsashahair",
@@ -32660,6 +32695,16 @@
         "code": "clothing_bratzyasminhair",
         "name": "Cheveux Bratz Yasmin",
         "description": "clothing_bratzyasminhair desc"
+      },
+      {
+        "code": "clothing_bratzyasminmole",
+        "name": "Grain de beauté de Yasmin Bratz",
+        "description": ""
+      },
+      {
+        "code": "clothing_bratzyasminpearls",
+        "name": "Perles de Yasmin Bratz",
+        "description": ""
       },
       {
         "code": "clothing_bratzyasminscarf",
@@ -39958,7 +40003,7 @@
       },
       {
         "code": "clothing_r25_curlyponytail",
-        "name": "clothing_r25_curlyponytail name",
+        "name": "Queue de cheval des années 50",
         "description": "clothing_r25_curlyponytail desc"
       },
       {
