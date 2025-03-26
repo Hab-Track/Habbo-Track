@@ -14555,6 +14555,10 @@
             <set id="5983" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="6488" type="ca" colorable="1" index="0" colorindex="1"/>
             </set>
+            <set id="5984" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="6489" type="ca" colorable="0" index="0" colorindex="0"/>
+                <part id="6492" type="ca" colorable="1" index="1" colorindex="1"/>
+            </set>
             <set id="6040" gender="U" club="0" colorable="0" selectable="1" preselectable="0" sellable="1">
                 <part id="6596" type="ca" colorable="0" index="0" colorindex="0"/>
             </set>
@@ -17396,14 +17400,6 @@
                     <layer parttype="rs"/>
                     <layer parttype="ls"/>
                 </hiddenlayers>
-            </set>
-            <set id="5984" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
-                <part id="6489" type="cc" colorable="0" index="0" colorindex="0"/>
-                <part id="6489" type="lc" colorable="0" index="0" colorindex="0"/>
-                <part id="6489" type="rc" colorable="0" index="0" colorindex="0"/>
-                <part id="6492" type="cc" colorable="1" index="1" colorindex="1"/>
-                <part id="6492" type="lc" colorable="1" index="1" colorindex="1"/>
-                <part id="6492" type="rc" colorable="1" index="1" colorindex="1"/>
             </set>
             <set id="5992" gender="U" club="0" colorable="0" selectable="1" preselectable="0" sellable="1">
                 <part id="6500" type="cc" colorable="0" index="0" colorindex="0"/>
