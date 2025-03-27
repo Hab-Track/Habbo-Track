@@ -70482,9 +70482,24 @@
         "description": "nft_hc_bkshlf"
       },
       {
+        "code": "nft_a0_hc_btlr",
+        "name": "nft_hc_btlr",
+        "description": "nft_hc_btlr"
+      },
+      {
         "code": "nft_a0_hc_chr",
         "name": "$product_hc_chr_name$",
         "description": "Royal comfort"
+      },
+      {
+        "code": "nft_a0_hc_crtn",
+        "name": "Club Curtain",
+        "description": "Club Curtain"
+      },
+      {
+        "code": "nft_a0_hc_djset",
+        "name": "nft_hc_djset",
+        "description": "nft_hc_djset"
       },
       {
         "code": "nft_a0_hc_dsk",
@@ -70492,9 +70507,19 @@
         "description": "For Habbo scholars"
       },
       {
+        "code": "nft_a0_hc_frplc",
+        "name": "Heavy Duty Fireplace",
+        "description": "Pixel-powered for maximum heating"
+      },
+      {
         "code": "nft_a0_hc_lmp",
         "name": "$product_hc_lmp_name$",
         "description": "Be enlightened"
+      },
+      {
+        "code": "nft_a0_hc_lmpst",
+        "name": "nft_hc_lmpst",
+        "description": "nft_hc_lmpst"
       },
       {
         "code": "nft_a0_hc_machine",
@@ -70515,6 +70540,11 @@
         "code": "nft_a0_hc_tbl",
         "name": "$product_hc_tbl_name$",
         "description": "Perfect for banquets"
+      },
+      {
+        "code": "nft_a0_hc_trll",
+        "name": "nft_hc_trll",
+        "description": "nft_hc_trll"
       },
       {
         "code": "nft_a0_hc_wall_lamp",
@@ -71875,6 +71905,61 @@
         "code": "nft_diamond_painting38",
         "name": "$wallitem_diamond_painting38_name$",
         "description": "nft_diamond_painting38 desc"
+      },
+      {
+        "code": "nft_diamond_painting53",
+        "name": "nft_diamond_painting53 name",
+        "description": "nft_diamond_painting53 desc"
+      },
+      {
+        "code": "nft_diamond_painting54",
+        "name": "nft_diamond_painting54 name",
+        "description": "nft_diamond_painting54 desc"
+      },
+      {
+        "code": "nft_diamond_painting55",
+        "name": "nft_diamond_painting55 name",
+        "description": "nft_diamond_painting55 desc"
+      },
+      {
+        "code": "nft_diamond_painting56",
+        "name": "nft_diamond_painting56 name",
+        "description": "nft_diamond_painting56 desc"
+      },
+      {
+        "code": "nft_diamond_painting57",
+        "name": "nft_diamond_painting57 name",
+        "description": "nft_diamond_painting57 desc"
+      },
+      {
+        "code": "nft_diamond_painting58",
+        "name": "nft_diamond_painting58 name",
+        "description": "nft_diamond_painting58 desc"
+      },
+      {
+        "code": "nft_diamond_painting59",
+        "name": "nft_diamond_painting59 name",
+        "description": "nft_diamond_painting59 desc"
+      },
+      {
+        "code": "nft_diamond_painting60",
+        "name": "nft_diamond_painting60 name",
+        "description": "nft_diamond_painting60 desc"
+      },
+      {
+        "code": "nft_diamond_painting61",
+        "name": "nft_diamond_painting61 name",
+        "description": "nft_diamond_painting61 desc"
+      },
+      {
+        "code": "nft_diamond_painting62",
+        "name": "nft_diamond_painting62 name",
+        "description": "nft_diamond_painting62 desc"
+      },
+      {
+        "code": "nft_diamond_painting63",
+        "name": "nft_diamond_painting63 name",
+        "description": "nft_diamond_painting63 desc"
       },
       {
         "code": "nft_diamond_painting64",
@@ -73932,6 +74017,11 @@
         "description": "nft_h24_cb_cpu desc"
       },
       {
+        "code": "nft_h24_cb_dp21",
+        "name": "nft_h24_cb_dp21 name",
+        "description": "nft_h24_cb_dp21 desc"
+      },
+      {
         "code": "nft_h24_cb_dp22",
         "name": "nft_h24_cb_dp22 name",
         "description": "nft_h24_cb_dp22 desc"
@@ -73950,6 +74040,11 @@
         "code": "nft_h24_cb_gen1club",
         "name": "Elektrische Butler Actiefiguur",
         "description": ""
+      },
+      {
+        "code": "nft_h24_cb_gen2club",
+        "name": "nft_h24_cb_gen2club name",
+        "description": "nft_h24_cb_gen2club desc"
       },
       {
         "code": "nft_h24_cb_ghostduck",
@@ -73985,6 +74080,11 @@
         "code": "nft_h24_cb_pillows1",
         "name": "nft_h24_cb_pillows1 name",
         "description": "nft_h24_cb_pillows1 desc"
+      },
+      {
+        "code": "nft_h24_cb_smokem2",
+        "name": "nft_h24_cb_smokem2 name",
+        "description": "nft_h24_cb_smokem2 desc"
       },
       {
         "code": "nft_h24_cb_summer22",
@@ -74915,6 +75015,11 @@
         "code": "nft_rare_blackrosegold_scifidoor",
         "name": "Roségouden Ruimtesluis",
         "description": "nft_rare_blackrosegold_scifidoor desc"
+      },
+      {
+        "code": "nft_rare_blackrosegold_scifirocket",
+        "name": "nft_rare_blackrosegold_scifirocket name",
+        "description": "nft_rare_blackrosegold_scifirocket desc"
       },
       {
         "code": "nft_rare_blackrosegold_wooden_screen",
