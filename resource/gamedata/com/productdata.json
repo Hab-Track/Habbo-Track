@@ -12602,6 +12602,11 @@
         "description": ""
       },
       {
+        "code": "apr25shark",
+        "name": "Shark Plushie",
+        "description": ""
+      },
+      {
         "code": "april14_roombundle_intern",
         "name": "Jellybean Jungle Bundle",
         "description": "The sound of birds chirping... This eerie Easter bundle comes brimming with over X items and includes a AWESOME Badge! With mystery and magic, this unearthly bundle is available via direct purchase and credits."
@@ -33243,7 +33248,7 @@
       },
       {
         "code": "clothing_animalprintshortsleevedshirt",
-        "name": "clothing_animalprintshortsleevedshirt name",
+        "name": "Cheetah Print Collared Shirt",
         "description": "clothing_animalprintshortsleevedshirt desc"
       },
       {
@@ -33818,22 +33823,22 @@
       },
       {
         "code": "clothing_bunnyclipshorts",
-        "name": "clothing_bunnyclipshorts name",
+        "name": "Bunny Suspender Shorts",
         "description": "clothing_bunnyclipshorts desc"
       },
       {
         "code": "clothing_bunnyearrings",
-        "name": "clothing_bunnyearrings name",
+        "name": "Bunny Studs",
         "description": "clothing_bunnyearrings desc"
       },
       {
         "code": "clothing_bunnyeyepatch",
-        "name": "clothing_bunnyeyepatch name",
+        "name": "Bunny Fashion Eyepatch",
         "description": "clothing_bunnyeyepatch desc"
       },
       {
         "code": "clothing_bunnyface",
-        "name": "clothing_bunnyface name",
+        "name": "Bunny Face",
         "description": "clothing_bunnyface desc"
       },
       {
@@ -33878,7 +33883,7 @@
       },
       {
         "code": "clothing_buttontubetop",
-        "name": "clothing_buttontubetop name",
+        "name": "Button-up Tube Top",
         "description": "clothing_buttontubetop desc"
       },
       {
@@ -33978,7 +33983,7 @@
       },
       {
         "code": "clothing_canvasbag",
-        "name": "clothing_canvasbag name",
+        "name": "Basic Canvas Bag",
         "description": "clothing_canvasbag desc"
       },
       {
@@ -34003,7 +34008,7 @@
       },
       {
         "code": "clothing_casualshorthair",
-        "name": "clothing_casualshorthair name",
+        "name": "Outgrown Hair",
         "description": "clothing_casualshorthair desc"
       },
       {
@@ -34198,7 +34203,7 @@
       },
       {
         "code": "clothing_coinnecklace",
-        "name": "clothing_coinnecklace name",
+        "name": "Lucky Coin Necklace",
         "description": "clothing_coinnecklace desc"
       },
       {
@@ -34278,7 +34283,7 @@
       },
       {
         "code": "clothing_crystalnecklace",
-        "name": "clothing_crystalnecklace name",
+        "name": "Crystal Drop Necklace",
         "description": "clothing_crystalnecklace desc"
       },
       {
@@ -34538,7 +34543,7 @@
       },
       {
         "code": "clothing_denimtubetop",
-        "name": "clothing_denimtubetop name",
+        "name": "Denim Detail Tube Top",
         "description": "clothing_denimtubetop desc"
       },
       {
@@ -34928,12 +34933,12 @@
       },
       {
         "code": "clothing_fashionboots",
-        "name": "clothing_fashionboots name",
+        "name": "Fashion Ankle Boots",
         "description": "clothing_fashionboots desc"
       },
       {
         "code": "clothing_fashionsunglasses",
-        "name": "clothing_fashionsunglasses name",
+        "name": "Tinted Sunglasses",
         "description": "clothing_fashionsunglasses desc"
       },
       {
@@ -35033,12 +35038,12 @@
       },
       {
         "code": "clothing_floralcanvasbag",
-        "name": "clothing_floralcanvasbag name",
+        "name": "Floral Canvas Bag",
         "description": "clothing_floralcanvasbag desc"
       },
       {
         "code": "clothing_floraldress",
-        "name": "clothing_floraldress name",
+        "name": "Dainty Floral Dress",
         "description": "clothing_floraldress desc"
       },
       {
@@ -35048,7 +35053,7 @@
       },
       {
         "code": "clothing_floralkshortsleevedshirt",
-        "name": "clothing_floralkshortsleevedshirt name",
+        "name": "Flowery Collared Shirt",
         "description": "clothing_floralkshortsleevedshirt desc"
       },
       {
@@ -35063,7 +35068,7 @@
       },
       {
         "code": "clothing_floraltubetop",
-        "name": "clothing_floraltubetop name",
+        "name": "Floral Tube Top",
         "description": "clothing_floraltubetop desc"
       },
       {
@@ -35423,7 +35428,7 @@
       },
       {
         "code": "clothing_halfmanbunhair",
-        "name": "clothing_halfmanbunhair name",
+        "name": "Loose Half Bun",
         "description": "clothing_halfmanbunhair desc"
       },
       {
@@ -35818,7 +35823,7 @@
       },
       {
         "code": "clothing_knittedbikini",
-        "name": "clothing_knittedbikini name",
+        "name": "Crochet Bikini",
         "description": "clothing_knittedbikini desc"
       },
       {
@@ -35828,7 +35833,7 @@
       },
       {
         "code": "clothing_knittedcanvasbag",
-        "name": "clothing_knittedcanvasbag name",
+        "name": "Knit Canvas Bag",
         "description": "clothing_knittedcanvasbag desc"
       },
       {
@@ -35968,7 +35973,7 @@
       },
       {
         "code": "clothing_longdress",
-        "name": "clothing_longdress name",
+        "name": "Basic Bodycon Dress",
         "description": "clothing_longdress desc"
       },
       {
@@ -36652,6 +36657,11 @@
         "description": "clothing_nftblackbeanie desc"
       },
       {
+        "code": "clothing_nftblingnecklace",
+        "name": "clothing_nftblingnecklace name",
+        "description": "clothing_nftblingnecklace desc"
+      },
+      {
         "code": "clothing_nftbloody",
         "name": "Blood Crown",
         "description": "clothing_nftbloody desc"
@@ -36755,6 +36765,26 @@
         "code": "clothing_nftbronzeskin",
         "name": "Bronze Skin",
         "description": "clothing_nftbronzeskin desc"
+      },
+      {
+        "code": "clothing_nftbunnycapeoutfit",
+        "name": "Bunny Cape",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftbunnyshades1",
+        "name": "clothing_nftbunnyshades1 name",
+        "description": "clothing_nftbunnyshades1 desc"
+      },
+      {
+        "code": "clothing_nftbunnyshades2",
+        "name": "clothing_nftbunnyshades2 name",
+        "description": "clothing_nftbunnyshades2 desc"
+      },
+      {
+        "code": "clothing_nftbunnyshoes",
+        "name": "Bunny Sneakers",
+        "description": ""
       },
       {
         "code": "clothing_nftcakehat",
@@ -37000,6 +37030,11 @@
         "code": "clothing_nftdummy",
         "name": "Ventriloquist’s Dummy Face",
         "description": "clothing_nftdummy desc"
+      },
+      {
+        "code": "clothing_nfteastereggcrown",
+        "name": "Painted Egg Crown",
+        "description": ""
       },
       {
         "code": "clothing_nfteyebow",
@@ -37345,6 +37380,11 @@
         "code": "clothing_nftmininoob",
         "name": "Noob Keyring",
         "description": "clothing_nftmininoob desc"
+      },
+      {
+        "code": "clothing_nftmop",
+        "name": "clothing_nftmop name",
+        "description": "clothing_nftmop desc"
       },
       {
         "code": "clothing_nftmythichair",
@@ -37920,6 +37960,11 @@
         "code": "clothing_nfttangeberet",
         "name": "Tangerine Beret",
         "description": "clothing_nfttangeberet desc"
+      },
+      {
+        "code": "clothing_nftthebigcap",
+        "name": "clothing_nftthebigcap name",
+        "description": "clothing_nftthebigcap desc"
       },
       {
         "code": "clothing_nfttoga",
@@ -38503,7 +38548,7 @@
       },
       {
         "code": "clothing_offshoulderjacket",
-        "name": "clothing_offshoulderjacket name",
+        "name": "Exposed Shoulder Jacket",
         "description": "clothing_offshoulderjacket desc"
       },
       {
@@ -38798,7 +38843,7 @@
       },
       {
         "code": "clothing_polkaheartcutdress",
-        "name": "clothing_polkaheartcutdress name",
+        "name": "Heart Cut-Out Dress",
         "description": "clothing_polkaheartcutdress desc"
       },
       {
@@ -41187,13 +41232,28 @@
         "description": "clothing_r24_xmastreebackpack desc"
       },
       {
+        "code": "clothing_r25_2tonelong_bd",
+        "name": "Split-Dye Model Locks",
+        "description": ""
+      },
+      {
+        "code": "clothing_r25_bosscoat_bd",
+        "name": "Boss Coat",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_bosscoat",
-        "name": "clothing_r25_bosscoat name",
+        "name": "Boss Coat",
         "description": "clothing_r25_bosscoat desc"
       },
       {
+        "code": "clothing_r25_bunnycomp_bd",
+        "name": "Bunny Companion",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_bunnycompanion",
-        "name": "clothing_r25_bunnycompanion name",
+        "name": "Bunny Companion",
         "description": "clothing_r25_bunnycompanion desc"
       },
       {
@@ -41223,7 +41283,7 @@
       },
       {
         "code": "clothing_r25_twotonedlonghair",
-        "name": "clothing_r25_twotonedlonghair name",
+        "name": "Split-Dye Model Locks",
         "description": "clothing_r25_twotonedlonghair desc"
       },
       {
@@ -41248,7 +41308,7 @@
       },
       {
         "code": "clothing_rainbowcanvasbag",
-        "name": "clothing_rainbowcanvasbag name",
+        "name": "Rainbow Canvas Bag",
         "description": "clothing_rainbowcanvasbag desc"
       },
       {
@@ -41517,8 +41577,13 @@
         "description": "clothing_shaggyswepthair desc"
       },
       {
+        "code": "clothing_sharkplushie_bd",
+        "name": "Shark Plushie",
+        "description": ""
+      },
+      {
         "code": "clothing_sharkplushie",
-        "name": "clothing_sharkplushie name",
+        "name": "Shark Plushie",
         "description": "clothing_sharkplushie desc"
       },
       {
@@ -41568,7 +41633,7 @@
       },
       {
         "code": "clothing_shortsleeveshirt",
-        "name": "clothing_shortsleeveshirt name",
+        "name": "Basic Collared Shirt",
         "description": "clothing_shortsleeveshirt desc"
       },
       {
@@ -41608,7 +41673,7 @@
       },
       {
         "code": "clothing_simplechainnecklace",
-        "name": "clothing_simplechainnecklace name",
+        "name": "Link Chain Necklace",
         "description": "clothing_simplechainnecklace desc"
       },
       {
@@ -41633,12 +41698,12 @@
       },
       {
         "code": "clothing_slickedbackhair",
-        "name": "Ballroom Charmer",
+        "name": "Gelled Short Hair",
         "description": "clothing_slickedbackhair desc"
       },
       {
         "code": "clothing_slickedpartedhair",
-        "name": "clothing_slickedpartedhair name",
+        "name": "Long Fringe Cut",
         "description": "clothing_slickedpartedhair desc"
       },
       {
@@ -41838,7 +41903,7 @@
       },
       {
         "code": "clothing_strappysatindress",
-        "name": "clothing_strappysatindress name",
+        "name": "Satin Evening Dress",
         "description": "clothing_strappysatindress desc"
       },
       {
@@ -41848,7 +41913,7 @@
       },
       {
         "code": "clothing_stripeyshortsleevedshirt",
-        "name": "clothing_stripeyshortsleevedshirt name",
+        "name": "Striped Collared Shirt",
         "description": "clothing_stripeyshortsleevedshirt desc"
       },
       {
@@ -41958,7 +42023,7 @@
       },
       {
         "code": "clothing_thinscarf",
-        "name": "clothing_thinscarf name",
+        "name": "Striped Skinny Scarf",
         "description": "clothing_thinscarf desc"
       },
       {
@@ -42068,7 +42133,7 @@
       },
       {
         "code": "clothing_tribalnecklace",
-        "name": "clothing_tribalnecklace name",
+        "name": "Sabertooth Necklace",
         "description": "clothing_tribalnecklace desc"
       },
       {
@@ -42108,7 +42173,7 @@
       },
       {
         "code": "clothing_tubetop",
-        "name": "clothing_tubetop name",
+        "name": "Basic Tube Top",
         "description": "clothing_tubetop desc"
       },
       {
@@ -42143,7 +42208,7 @@
       },
       {
         "code": "clothing_twotonedplaitedwavehair",
-        "name": "clothing_twotonedplaitedwavehair name",
+        "name": "Alien Braid Waves",
         "description": "clothing_twotonedplaitedwavehair desc"
       },
       {
@@ -42183,7 +42248,7 @@
       },
       {
         "code": "clothing_umbrella",
-        "name": "clothing_umbrella name",
+        "name": "Large Umbrella",
         "description": "clothing_umbrella desc"
       },
       {
@@ -57748,77 +57813,77 @@
       },
       {
         "code": "easter_c25_blueprint1",
-        "name": "easter_c25_blueprint1 name",
+        "name": "Top Blueprint",
         "description": "easter_c25_blueprint1 desc"
       },
       {
         "code": "easter_c25_blueprint2",
-        "name": "easter_c25_blueprint2 name",
+        "name": "Bag Blueprint",
         "description": "easter_c25_blueprint2 desc"
       },
       {
         "code": "easter_c25_blueprint3",
-        "name": "easter_c25_blueprint3 name",
+        "name": "Dress Blueprint",
         "description": "easter_c25_blueprint3 desc"
       },
       {
         "code": "easter_c25_blueprint4",
-        "name": "easter_c25_blueprint4 name",
+        "name": "Shirt Blueprint",
         "description": "easter_c25_blueprint4 desc"
       },
       {
         "code": "easter_c25_bunnypicnic",
-        "name": "easter_c25_bunnypicnic name",
+        "name": "Bunny Picnic",
         "description": "easter_c25_bunnypicnic desc"
       },
       {
         "code": "easter_c25_clothescrafter",
-        "name": "easter_c25_clothescrafter name",
+        "name": "Luna McDuck Crafting Table",
         "description": "easter_c25_clothescrafter desc"
       },
       {
         "code": "easter_c25_craftingtools",
-        "name": "easter_c25_craftingtools name",
+        "name": "Embellishment Tools",
         "description": "easter_c25_craftingtools desc"
       },
       {
         "code": "easter_c25_designerbag2",
-        "name": "easter_c25_designerbag2 name",
+        "name": "McDuck Camel Bag",
         "description": "easter_c25_designerbag2 desc"
       },
       {
         "code": "easter_c25_designerbag2b",
-        "name": "easter_c25_designerbag2b name",
+        "name": "McDuck Camel Bag",
         "description": "easter_c25_designerbag2b desc"
       },
       {
         "code": "easter_c25_designerbag",
-        "name": "easter_c25_designerbag name",
+        "name": "McDuck Tanned Bag",
         "description": "easter_c25_designerbag desc"
       },
       {
         "code": "easter_c25_designerbagb",
-        "name": "easter_c25_designerbagb name",
+        "name": "McDuck Tanned Bag",
         "description": "easter_c25_designerbagb desc"
       },
       {
         "code": "easter_c25_eastereggbush",
-        "name": "easter_c25_eastereggbush name",
+        "name": "Painted Egg Bush",
         "description": "easter_c25_eastereggbush desc"
       },
       {
         "code": "easter_c25_eastereggtree",
-        "name": "easter_c25_eastereggtree name",
+        "name": "Painted Egg Tree",
         "description": "easter_c25_eastereggtree desc"
       },
       {
         "code": "easter_c25_easterhangingdecor",
-        "name": "easter_c25_easterhangingdecor name",
+        "name": "Easter Bunting",
         "description": "easter_c25_easterhangingdecor desc"
       },
       {
         "code": "easter_c25_hairgel",
-        "name": "easter_c25_hairgel name",
+        "name": "Super Hold Hair Gel",
         "description": "easter_c25_hairgel desc"
       },
       {
@@ -58097,8 +58162,13 @@
         "description": "easter_r24_wheelbarrowbed desc"
       },
       {
+        "code": "easter_r25_easterpatch_bd",
+        "name": "Easter Patch",
+        "description": ""
+      },
+      {
         "code": "easter_r25_easterpatch",
-        "name": "easter_r25_easterpatch name",
+        "name": "Easter Patch",
         "description": "easter_r25_easterpatch desc"
       },
       {
@@ -82190,6 +82260,16 @@
         "code": "nft_sc24_nelly",
         "name": "Nelly Plushie",
         "description": "nft_sc24_nelly desc"
+      },
+      {
+        "code": "nft_sc25_bigbunnybed",
+        "name": "Bunny Cuddle Bed",
+        "description": ""
+      },
+      {
+        "code": "nft_sc25_chickballoon",
+        "name": "Chick Balloon",
+        "description": ""
       },
       {
         "code": "nft_sf_pod",
