@@ -35593,7 +35593,7 @@
       },
       {
         "code": "clothing_nftblingnecklace",
-        "name": "clothing_nftblingnecklace name",
+        "name": "Collier H en or",
         "description": "clothing_nftblingnecklace desc"
       },
       {
@@ -35708,12 +35708,12 @@
       },
       {
         "code": "clothing_nftbunnyshades1",
-        "name": "clothing_nftbunnyshades1 name",
+        "name": "Lapin rose",
         "description": "clothing_nftbunnyshades1 desc"
       },
       {
         "code": "clothing_nftbunnyshades2",
-        "name": "clothing_nftbunnyshades2 name",
+        "name": "Lapin sombre",
         "description": "clothing_nftbunnyshades2 desc"
       },
       {
@@ -36322,6 +36322,11 @@
         "description": "clothing_nftmop desc"
       },
       {
+        "code": "clothing_nftmophair",
+        "name": "Chevelure Mop",
+        "description": ""
+      },
+      {
         "code": "clothing_nftmythichair",
         "name": "Tufts mythique",
         "description": "clothing_nftmythichair desc"
@@ -36892,13 +36897,18 @@
         "description": "clothing_nftsunflowershorts desc"
       },
       {
+        "code": "clothing_nfttallcrown",
+        "name": "Grande couronne",
+        "description": ""
+      },
+      {
         "code": "clothing_nfttangeberet",
         "name": "Béret mandarine",
         "description": "clothing_nfttangeberet desc"
       },
       {
         "code": "clothing_nftthebigcap",
-        "name": "clothing_nftthebigcap name",
+        "name": "Le Grand Chapeau",
         "description": "clothing_nftthebigcap desc"
       },
       {
@@ -36910,6 +36920,11 @@
         "code": "clothing_nfttophat",
         "name": "Chapeau psychédélique",
         "description": "clothing_nfttophat desc"
+      },
+      {
+        "code": "clothing_nfttrench",
+        "name": "Trench-coat ouvert",
+        "description": ""
       },
       {
         "code": "clothing_nfttropical",
@@ -53933,7 +53948,7 @@
       },
       {
         "code": "giftbox_c25_crackable1",
-        "name": "giftbox_c25_crackable1 name",
+        "name": "Boîte-cadeau de Pâques 2025",
         "description": "giftbox_c25_crackable1 desc"
       },
       {
@@ -73140,6 +73155,11 @@
         "code": "nft_h25_colltable",
         "name": "Table de Collectionneur",
         "description": "nft_h25_colltable desc"
+      },
+      {
+        "code": "nft_h25_deluxemannequin",
+        "name": "Mannequin Deluxe",
+        "description": ""
       },
       {
         "code": "nft_h25_flowers10",
@@ -92560,6 +92580,36 @@
         "code": "rotating_roomdeal433",
         "name": "PACK Anniversaire Habbo Brésil",
         "description": "Nous célébrons l'anniversaire de Habbo BR et de leur merveilleuse communauté avec ce nouveau pack contenant deux nouveaux articles ! Créé par Diafrix."
+      },
+      {
+        "code": "rotating_roomdeal434_10c",
+        "name": "Pack pique-nique de Pâques",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434_d",
+        "name": "Pack pique-nique de Pâques",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434",
+        "name": "Pack pique-nique de Pâques",
+        "description": "Tout ce dont tu as besoin pour ton pique-nique de Pâques se trouve ici. Alors, assieds-toi, détends-toi et profite de quelques NOUVEAUTÉS et mobis EXCLUSIFS !"
+      },
+      {
+        "code": "rotating_roomdeal435_10c",
+        "name": "Pack chasse aux œufs de Pâques",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435_d",
+        "name": "Pack chasse aux œufs de Pâques",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435",
+        "name": "Pack chasse aux œufs de Pâques",
+        "description": "Rassemble tes amis, tu as des œufs de Pâques à trouver !"
       },
       {
         "code": "rotating_roomdeal43_10c",

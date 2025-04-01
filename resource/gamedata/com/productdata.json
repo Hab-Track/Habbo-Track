@@ -36658,7 +36658,7 @@
       },
       {
         "code": "clothing_nftblingnecklace",
-        "name": "clothing_nftblingnecklace name",
+        "name": "Gold H Necklace",
         "description": "clothing_nftblingnecklace desc"
       },
       {
@@ -36773,12 +36773,12 @@
       },
       {
         "code": "clothing_nftbunnyshades1",
-        "name": "clothing_nftbunnyshades1 name",
+        "name": "Pink Bunny Shades",
         "description": "clothing_nftbunnyshades1 desc"
       },
       {
         "code": "clothing_nftbunnyshades2",
-        "name": "clothing_nftbunnyshades2 name",
+        "name": "Dark Bunny Shades",
         "description": "clothing_nftbunnyshades2 desc"
       },
       {
@@ -37387,6 +37387,11 @@
         "description": "clothing_nftmop desc"
       },
       {
+        "code": "clothing_nftmophair",
+        "name": "Mop Hair",
+        "description": ""
+      },
+      {
         "code": "clothing_nftmythichair",
         "name": "Mythic Tufts",
         "description": "clothing_nftmythichair desc"
@@ -37957,13 +37962,18 @@
         "description": "clothing_nftsunflowershorts desc"
       },
       {
+        "code": "clothing_nfttallcrown",
+        "name": "Tall Crown",
+        "description": ""
+      },
+      {
         "code": "clothing_nfttangeberet",
         "name": "Tangerine Beret",
         "description": "clothing_nfttangeberet desc"
       },
       {
         "code": "clothing_nftthebigcap",
-        "name": "clothing_nftthebigcap name",
+        "name": "The Big Cap",
         "description": "clothing_nftthebigcap desc"
       },
       {
@@ -37975,6 +37985,11 @@
         "code": "clothing_nfttophat",
         "name": "Trippy Top Hat",
         "description": "clothing_nfttophat desc"
+      },
+      {
+        "code": "clothing_nfttrench",
+        "name": "Open Trench Coat",
+        "description": ""
       },
       {
         "code": "clothing_nfttropical",
@@ -61838,7 +61853,7 @@
       },
       {
         "code": "giftbox_c25_crackable1",
-        "name": "giftbox_c25_crackable1 name",
+        "name": "2025 Easter Gift Box",
         "description": "giftbox_c25_crackable1 desc"
       },
       {
@@ -81517,6 +81532,11 @@
         "description": "nft_h25_colltable desc"
       },
       {
+        "code": "nft_h25_deluxemannequin",
+        "name": "Deluxe Mannequin",
+        "description": ""
+      },
+      {
         "code": "nft_h25_flowers10",
         "name": "White Peruvian Lilies",
         "description": "nft_h25_flowers10 desc"
@@ -101120,6 +101140,36 @@
         "code": "rotating_roomdeal433",
         "name": "Habbo Brazil Birthday Bundle",
         "description": "We’re celebrating Habbo BR and the wonderful community’s birthday with this brand new bundle, containing 2 brand new furni items! Made by Diafrix."
+      },
+      {
+        "code": "rotating_roomdeal434_10c",
+        "name": "Easter Picnic Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434_d",
+        "name": "Easter Picnic Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434",
+        "name": "Easter Picnic Bundle",
+        "description": "Everything you need for your Easter picnic can be found right here. So sit back, relax, and enjoy some NEW and EXCLUSIVE furni!"
+      },
+      {
+        "code": "rotating_roomdeal435_10c",
+        "name": "Easter Egg Hunt Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435_d",
+        "name": "Easter Egg Hunt Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435",
+        "name": "Easter Egg Hunt Bundle",
+        "description": "Get your friends together because you have Easter Eggs to find!"
       },
       {
         "code": "rotating_roomdeal43_10c",

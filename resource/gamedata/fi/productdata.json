@@ -36883,7 +36883,7 @@
       },
       {
         "code": "clothing_nftblingnecklace",
-        "name": "clothing_nftblingnecklace name",
+        "name": "H-kultaketju",
         "description": "clothing_nftblingnecklace desc"
       },
       {
@@ -36998,12 +36998,12 @@
       },
       {
         "code": "clothing_nftbunnyshades1",
-        "name": "clothing_nftbunnyshades1 name",
+        "name": "Vaaleanpunaiset pupulasit",
         "description": "clothing_nftbunnyshades1 desc"
       },
       {
         "code": "clothing_nftbunnyshades2",
-        "name": "clothing_nftbunnyshades2 name",
+        "name": "Tummennetut pupulasit",
         "description": "clothing_nftbunnyshades2 desc"
       },
       {
@@ -37612,6 +37612,11 @@
         "description": "clothing_nftmop desc"
       },
       {
+        "code": "clothing_nftmophair",
+        "name": "Moppikampaus",
+        "description": ""
+      },
+      {
         "code": "clothing_nftmythichair",
         "name": "Myyttinen töyhtö",
         "description": "clothing_nftmythichair desc"
@@ -38182,13 +38187,18 @@
         "description": "clothing_nftsunflowershorts desc"
       },
       {
+        "code": "clothing_nfttallcrown",
+        "name": "Pitkulainen kruunu",
+        "description": ""
+      },
+      {
         "code": "clothing_nfttangeberet",
         "name": "Mandariinibaskeri",
         "description": "clothing_nfttangeberet desc"
       },
       {
         "code": "clothing_nftthebigcap",
-        "name": "clothing_nftthebigcap name",
+        "name": "Jättilippis",
         "description": "clothing_nftthebigcap desc"
       },
       {
@@ -38200,6 +38210,11 @@
         "code": "clothing_nfttophat",
         "name": "Psykedeelinen silinteri",
         "description": "clothing_nfttophat desc"
+      },
+      {
+        "code": "clothing_nfttrench",
+        "name": "Avonainen trenssi",
+        "description": ""
       },
       {
         "code": "clothing_nfttropical",
@@ -55698,7 +55713,7 @@
       },
       {
         "code": "giftbox_c25_crackable1",
-        "name": "giftbox_c25_crackable1 name",
+        "name": "Pääsiäisen 2025 lahjapakkaus",
         "description": "giftbox_c25_crackable1 desc"
       },
       {
@@ -75085,6 +75100,11 @@
         "code": "nft_h25_colltable",
         "name": "Keräilijän pöytä",
         "description": "nft_h25_colltable desc"
+      },
+      {
+        "code": "nft_h25_deluxemannequin",
+        "name": "Luksusmallinukke",
+        "description": ""
       },
       {
         "code": "nft_h25_flowers10",
@@ -94515,6 +94535,36 @@
         "code": "rotating_roomdeal433",
         "name": "Brasilian Habbon synttäripaketti",
         "description": "Juhlistamme Brasilian Habboa ja sen ihanaa yhteisöä upouudella huonepaketilla, joka sisältää kaksi ennen julkaisematonta tuotetta! Huoneentekijä: Diafrix."
+      },
+      {
+        "code": "rotating_roomdeal434_10c",
+        "name": "Pääsiäispiknik-huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434_d",
+        "name": "Pääsiäispiknik-huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434",
+        "name": "Pääsiäispiknik",
+        "description": "Paketti sisältää kaiken tarvitsemasi pääsiäispiknikille. Istu alas, rentoudu ja nauti sen UUSISTA ja AINUTLAATUISISTA kamoista!"
+      },
+      {
+        "code": "rotating_roomdeal435_10c",
+        "name": "Pääsiäismunajahti-huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435_d",
+        "name": "Pääsiäismunajahti-huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435",
+        "name": "Pääsiäismunajahti-huonepaketti",
+        "description": "Kokoonnu kavereidesi kanssa pääsiäismunajahtiin!"
       },
       {
         "code": "rotating_roomdeal43_10c",

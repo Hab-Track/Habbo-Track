@@ -36213,7 +36213,7 @@
       },
       {
         "code": "clothing_nftblingnecklace",
-        "name": "clothing_nftblingnecklace name",
+        "name": "Collana con H Oro",
         "description": "clothing_nftblingnecklace desc"
       },
       {
@@ -36328,12 +36328,12 @@
       },
       {
         "code": "clothing_nftbunnyshades1",
-        "name": "clothing_nftbunnyshades1 name",
+        "name": "Occhiali da Sole Coniglietto Rosa",
         "description": "clothing_nftbunnyshades1 desc"
       },
       {
         "code": "clothing_nftbunnyshades2",
-        "name": "clothing_nftbunnyshades2 name",
+        "name": "Occhiali da Sole Coniglietto Scuri",
         "description": "clothing_nftbunnyshades2 desc"
       },
       {
@@ -36942,6 +36942,11 @@
         "description": "clothing_nftmop desc"
       },
       {
+        "code": "clothing_nftmophair",
+        "name": "Capelli Mocio",
+        "description": ""
+      },
+      {
         "code": "clothing_nftmythichair",
         "name": "Ciuffo Mitico",
         "description": "clothing_nftmythichair desc"
@@ -37512,13 +37517,18 @@
         "description": "clothing_nftsunflowershorts desc"
       },
       {
+        "code": "clothing_nfttallcrown",
+        "name": "Corona Alta",
+        "description": ""
+      },
+      {
         "code": "clothing_nfttangeberet",
         "name": "Berretto Color Mandarino",
         "description": "clothing_nfttangeberet desc"
       },
       {
         "code": "clothing_nftthebigcap",
-        "name": "clothing_nftthebigcap name",
+        "name": "Il Grande Cappello",
         "description": "clothing_nftthebigcap desc"
       },
       {
@@ -37530,6 +37540,11 @@
         "code": "clothing_nfttophat",
         "name": "Cilindro Psichedelico",
         "description": "clothing_nfttophat desc"
+      },
+      {
+        "code": "clothing_nfttrench",
+        "name": "Trench Aperto",
+        "description": ""
       },
       {
         "code": "clothing_nfttropical",
@@ -55673,7 +55688,7 @@
       },
       {
         "code": "giftbox_c25_crackable1",
-        "name": "giftbox_c25_crackable1 name",
+        "name": "Pacco Regalo di Pasqua 2025",
         "description": "giftbox_c25_crackable1 desc"
       },
       {
@@ -75065,6 +75080,11 @@
         "code": "nft_h25_colltable",
         "name": "Tavolo per Collezionisti",
         "description": "nft_h25_colltable desc"
+      },
+      {
+        "code": "nft_h25_deluxemannequin",
+        "name": "Manichino Deluxe",
+        "description": ""
       },
       {
         "code": "nft_h25_flowers10",
@@ -94575,6 +94595,36 @@
         "code": "rotating_roomdeal433",
         "name": "Affare Stanza Compleanno di Habbo Brasile",
         "description": "Stiamo celebrando Habbo BR e la sua magnifica comunità con questo nuovissimo affare stanza che contiene due nuovi furni! Creato da Diafrix."
+      },
+      {
+        "code": "rotating_roomdeal434_10c",
+        "name": "Affare Stanza Picnic di Pasqua",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434_d",
+        "name": "Affare Stanza Picnic di Pasqua",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434",
+        "name": "Affare Stanza Picnic di Pasqua",
+        "description": "Tutto ciò di cui hai bisogno per il tuo picnic di Pasqua lo potrai trovare qui. Quindi, mettiti comodo, rilassati e goditi dei furni NUOVI ed ESCLUSIVI!"
+      },
+      {
+        "code": "rotating_roomdeal435_10c",
+        "name": "Affare Stanza Caccia all'uovo di Pasqua",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435_d",
+        "name": "Affare Stanza Caccia all'uovo di Pasqua",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435",
+        "name": "Affare Stanza Caccia all'uovo di Pasqua",
+        "description": "Riunisci i tuoi amici perché hai delle Uova di Pasqua da trovare!"
       },
       {
         "code": "rotating_roomdeal43_10c",

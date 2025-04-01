@@ -35413,7 +35413,7 @@
       },
       {
         "code": "clothing_nftblingnecklace",
-        "name": "clothing_nftblingnecklace name",
+        "name": "Gouden H Ketting",
         "description": "clothing_nftblingnecklace desc"
       },
       {
@@ -35528,12 +35528,12 @@
       },
       {
         "code": "clothing_nftbunnyshades1",
-        "name": "clothing_nftbunnyshades1 name",
+        "name": "Roze Bunny Zonnebril",
         "description": "clothing_nftbunnyshades1 desc"
       },
       {
         "code": "clothing_nftbunnyshades2",
-        "name": "clothing_nftbunnyshades2 name",
+        "name": "Donkere Bunny Zonnebril",
         "description": "clothing_nftbunnyshades2 desc"
       },
       {
@@ -36142,6 +36142,11 @@
         "description": "clothing_nftmop desc"
       },
       {
+        "code": "clothing_nftmophair",
+        "name": "Wild Kapsel",
+        "description": ""
+      },
+      {
         "code": "clothing_nftmythichair",
         "name": "Mythische Plukjes",
         "description": "clothing_nftmythichair desc"
@@ -36712,13 +36717,18 @@
         "description": "clothing_nftsunflowershorts desc"
       },
       {
+        "code": "clothing_nfttallcrown",
+        "name": "Hoge Kroon",
+        "description": ""
+      },
+      {
         "code": "clothing_nfttangeberet",
         "name": "Fruitige Baret",
         "description": "clothing_nfttangeberet desc"
       },
       {
         "code": "clothing_nftthebigcap",
-        "name": "clothing_nftthebigcap name",
+        "name": "De Grote Pet",
         "description": "clothing_nftthebigcap desc"
       },
       {
@@ -36730,6 +36740,11 @@
         "code": "clothing_nfttophat",
         "name": "Trippy Hoge Hoed",
         "description": "clothing_nfttophat desc"
+      },
+      {
+        "code": "clothing_nfttrench",
+        "name": "Open Trenchcoat",
+        "description": ""
       },
       {
         "code": "clothing_nfttropical",
@@ -55453,7 +55468,7 @@
       },
       {
         "code": "giftbox_c25_crackable1",
-        "name": "giftbox_c25_crackable1 name",
+        "name": "2025 Paas Cadeaubox",
         "description": "giftbox_c25_crackable1 desc"
       },
       {
@@ -74775,6 +74790,11 @@
         "code": "nft_h25_colltable",
         "name": "Collectors Tafel",
         "description": "nft_h25_colltable desc"
+      },
+      {
+        "code": "nft_h25_deluxemannequin",
+        "name": "Luxe Mannequin",
+        "description": ""
       },
       {
         "code": "nft_h25_flowers10",
@@ -94315,6 +94335,36 @@
         "code": "rotating_roomdeal433",
         "name": "Habbo Brazilië Verjaardagsbundel",
         "description": "We vieren de verjaardag van Habbo BR met deze gloednieuwe bundel met twee nieuwe meubi items! Gemaakt door Diafrix"
+      },
+      {
+        "code": "rotating_roomdeal434_10c",
+        "name": "Paas Picknick Bundel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434_d",
+        "name": "Paas Picknick Bundel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434",
+        "name": "Paas Picknick Bundel",
+        "description": "Alles wat je nodig hebt voor een echte Paas picknick vind je hier. Dus ga lekker zitten, relax en geniet van NIEUWE en EXCLUSIEVE meubi!"
+      },
+      {
+        "code": "rotating_roomdeal435_10c",
+        "name": "Paaseitjes Zoeken Bundel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435_d",
+        "name": "Paaseitjes Zoeken Bundel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435",
+        "name": "Paaseitjes Zoeken Bundel",
+        "description": "Roep je vrienden bij elkaar, want je moet paaseieren vinden!"
       },
       {
         "code": "rotating_roomdeal43_10c",

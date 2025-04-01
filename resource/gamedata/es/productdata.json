@@ -36098,7 +36098,7 @@
       },
       {
         "code": "clothing_nftblingnecklace",
-        "name": "clothing_nftblingnecklace name",
+        "name": "Collar H de Oro",
         "description": "clothing_nftblingnecklace desc"
       },
       {
@@ -36213,12 +36213,12 @@
       },
       {
         "code": "clothing_nftbunnyshades1",
-        "name": "clothing_nftbunnyshades1 name",
+        "name": "Gafas de sol Polarizadas Conejito Rosa",
         "description": "clothing_nftbunnyshades1 desc"
       },
       {
         "code": "clothing_nftbunnyshades2",
-        "name": "clothing_nftbunnyshades2 name",
+        "name": "Gafas de sol Polarizadas Conejito Oscuro",
         "description": "clothing_nftbunnyshades2 desc"
       },
       {
@@ -36827,6 +36827,11 @@
         "description": "clothing_nftmop desc"
       },
       {
+        "code": "clothing_nftmophair",
+        "name": "Corte Mop",
+        "description": ""
+      },
+      {
         "code": "clothing_nftmythichair",
         "name": "Mechones Míticos",
         "description": "clothing_nftmythichair desc"
@@ -37397,13 +37402,18 @@
         "description": "clothing_nftsunflowershorts desc"
       },
       {
+        "code": "clothing_nfttallcrown",
+        "name": "Corona Alta",
+        "description": ""
+      },
+      {
         "code": "clothing_nfttangeberet",
         "name": "Boina mandarina",
         "description": "clothing_nfttangeberet desc"
       },
       {
         "code": "clothing_nftthebigcap",
-        "name": "clothing_nftthebigcap name",
+        "name": "Gorra Copa Alta",
         "description": "clothing_nftthebigcap desc"
       },
       {
@@ -37415,6 +37425,11 @@
         "code": "clothing_nfttophat",
         "name": "Sombrero de Copa Fiesta",
         "description": "clothing_nfttophat desc"
+      },
+      {
+        "code": "clothing_nfttrench",
+        "name": "Gabardina abierta",
+        "description": ""
       },
       {
         "code": "clothing_nfttropical",
@@ -55138,7 +55153,7 @@
       },
       {
         "code": "giftbox_c25_crackable1",
-        "name": "giftbox_c25_crackable1 name",
+        "name": "Caja Regalo Pascua 2025",
         "description": "giftbox_c25_crackable1 desc"
       },
       {
@@ -74485,6 +74500,11 @@
         "code": "nft_h25_colltable",
         "name": "Mesa de Coleccionista",
         "description": "nft_h25_colltable desc"
+      },
+      {
+        "code": "nft_h25_deluxemannequin",
+        "name": "Maniquí Deluxe",
+        "description": ""
       },
       {
         "code": "nft_h25_flowers10",
@@ -94115,6 +94135,36 @@
         "code": "rotating_roomdeal433",
         "name": "Lote Aniversario de Habbo Brasil",
         "description": "Estamos celebrando el cumpleaños de Habbo BR y su maravillosa comunidad con este nuevo lote, que contiene ¡2 nuevos furnis! Creado por Diafrix."
+      },
+      {
+        "code": "rotating_roomdeal434_10c",
+        "name": "Lote Pícnic de Pascua",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434_d",
+        "name": "Lote Pícnic de Pascua",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434",
+        "name": "Lote Pícnic de Pascua",
+        "description": "Todo lo que necesitas para tu pícnic en Pascua lo puedes encontrar aquí. Así que toma asiento, relájate, ¡y disfruta de estos NUEVOS y EXCLUSIVOS furnis!"
+      },
+      {
+        "code": "rotating_roomdeal435_10c",
+        "name": "Lote Búsqueda de Huevos de Pascua",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435_d",
+        "name": "Lote Búsqueda de Huevos de Pascua",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435",
+        "name": "Lote Búsqueda de Huevos de Pascua",
+        "description": "¡Avisa a tus contactos porque tienes Huevos de Pascua que encontrar!"
       },
       {
         "code": "rotating_roomdeal43_10c",

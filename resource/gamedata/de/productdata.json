@@ -35693,7 +35693,7 @@
       },
       {
         "code": "clothing_nftblingnecklace",
-        "name": "clothing_nftblingnecklace name",
+        "name": "Goldene H-Kette",
         "description": "clothing_nftblingnecklace desc"
       },
       {
@@ -35808,12 +35808,12 @@
       },
       {
         "code": "clothing_nftbunnyshades1",
-        "name": "clothing_nftbunnyshades1 name",
+        "name": "Pinke Hasensonnenbrille",
         "description": "clothing_nftbunnyshades1 desc"
       },
       {
         "code": "clothing_nftbunnyshades2",
-        "name": "clothing_nftbunnyshades2 name",
+        "name": "Dunkle Hasensonnenbrille",
         "description": "clothing_nftbunnyshades2 desc"
       },
       {
@@ -36422,6 +36422,11 @@
         "description": "clothing_nftmop desc"
       },
       {
+        "code": "clothing_nftmophair",
+        "name": "Wischmop-Frisur",
+        "description": ""
+      },
+      {
         "code": "clothing_nftmythichair",
         "name": "Mysteriöse Haarbüschel",
         "description": "clothing_nftmythichair desc"
@@ -36992,13 +36997,18 @@
         "description": "clothing_nftsunflowershorts desc"
       },
       {
+        "code": "clothing_nfttallcrown",
+        "name": "Hohe Krone",
+        "description": ""
+      },
+      {
         "code": "clothing_nfttangeberet",
         "name": "Mandarinen-Baskenmütze",
         "description": "clothing_nfttangeberet desc"
       },
       {
         "code": "clothing_nftthebigcap",
-        "name": "clothing_nftthebigcap name",
+        "name": "Das grosse Käppi",
         "description": "clothing_nftthebigcap desc"
       },
       {
@@ -37010,6 +37020,11 @@
         "code": "clothing_nfttophat",
         "name": "Bizarrer Zylinder",
         "description": "clothing_nfttophat desc"
+      },
+      {
+        "code": "clothing_nfttrench",
+        "name": "Offener Trenchcoat",
+        "description": ""
       },
       {
         "code": "clothing_nfttropical",
@@ -54763,7 +54778,7 @@
       },
       {
         "code": "giftbox_c25_crackable1",
-        "name": "giftbox_c25_crackable1 name",
+        "name": "Ostergeschenkbox 2025",
         "description": "giftbox_c25_crackable1 desc"
       },
       {
@@ -74070,6 +74085,11 @@
         "code": "nft_h25_colltable",
         "name": "Sammler-Tisch",
         "description": "nft_h25_colltable desc"
+      },
+      {
+        "code": "nft_h25_deluxemannequin",
+        "name": "Deluxe Mannequin",
+        "description": ""
       },
       {
         "code": "nft_h25_flowers10",
@@ -93600,6 +93620,36 @@
         "code": "rotating_roomdeal433",
         "name": "NEUES Habbo Brasilien Geburtstagsbündel",
         "description": "Wir feiern Habbo BR und den Geburtstag dieser einzigartigen Community mit diesem brandneuen Bündel, das 2 brandneue Möbel-Items enthält! Erstellt von Diafrix."
+      },
+      {
+        "code": "rotating_roomdeal434_10c",
+        "name": "Osterpicknick-Bündel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434_d",
+        "name": "Osterpicknick-Bündel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434",
+        "name": "Osterpicknick-Bündel",
+        "description": "Alles, was ihr für euer Osterpicknick braucht, findet ihr hier. Also, setzt euch, entspannt euch und geniesst die NEUEN und EXKLUSIVEN Möbel!"
+      },
+      {
+        "code": "rotating_roomdeal435_10c",
+        "name": "Ostereiersuche-Bündel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435_d",
+        "name": "Ostereiersuche-Bündel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435",
+        "name": "Ostereiersuche-Bündel",
+        "description": "Trommelt eure Freunde zusammen, denn ihr müsst die Ostereier suchen!"
       },
       {
         "code": "rotating_roomdeal43_10c",

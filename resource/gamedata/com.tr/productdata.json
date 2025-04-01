@@ -37298,7 +37298,7 @@
       },
       {
         "code": "clothing_nftblingnecklace",
-        "name": "clothing_nftblingnecklace name",
+        "name": "Altın H Kolye",
         "description": "clothing_nftblingnecklace desc"
       },
       {
@@ -37413,12 +37413,12 @@
       },
       {
         "code": "clothing_nftbunnyshades1",
-        "name": "clothing_nftbunnyshades1 name",
+        "name": "Pembe Tavşan Gözlüğü",
         "description": "clothing_nftbunnyshades1 desc"
       },
       {
         "code": "clothing_nftbunnyshades2",
-        "name": "clothing_nftbunnyshades2 name",
+        "name": "Koyu Tavşan Gözlüğü",
         "description": "clothing_nftbunnyshades2 desc"
       },
       {
@@ -38027,6 +38027,11 @@
         "description": "clothing_nftmop desc"
       },
       {
+        "code": "clothing_nftmophair",
+        "name": "Mop Saç",
+        "description": ""
+      },
+      {
         "code": "clothing_nftmythichair",
         "name": "Mistik Tüy Detayları",
         "description": "clothing_nftmythichair desc"
@@ -38597,13 +38602,18 @@
         "description": "clothing_nftsunflowershorts desc"
       },
       {
+        "code": "clothing_nfttallcrown",
+        "name": "Uzun Taç",
+        "description": ""
+      },
+      {
         "code": "clothing_nfttangeberet",
         "name": "Mandalina Bere",
         "description": "clothing_nfttangeberet desc"
       },
       {
         "code": "clothing_nftthebigcap",
-        "name": "clothing_nftthebigcap name",
+        "name": "Kocaman Şapka",
         "description": "clothing_nftthebigcap desc"
       },
       {
@@ -38615,6 +38625,11 @@
         "code": "clothing_nfttophat",
         "name": "Trip Şapka",
         "description": "clothing_nfttophat desc"
+      },
+      {
+        "code": "clothing_nfttrench",
+        "name": "Açık Trençkot",
+        "description": ""
       },
       {
         "code": "clothing_nfttropical",
@@ -64688,7 +64703,7 @@
       },
       {
         "code": "giftbox_c25_crackable1",
-        "name": "giftbox_c25_crackable1 name",
+        "name": "2025 Paskalya Hediye Kutusu",
         "description": "giftbox_c25_crackable1 desc"
       },
       {
@@ -84432,6 +84447,11 @@
         "description": "nft_h25_colltable desc"
       },
       {
+        "code": "nft_h25_deluxemannequin",
+        "name": "Delüks Manken",
+        "description": ""
+      },
+      {
         "code": "nft_h25_flowers10",
         "name": "Beyaz Peru Zambakları",
         "description": "nft_h25_flowers10 desc"
@@ -104095,6 +104115,36 @@
         "code": "rotating_roomdeal433",
         "name": "Habbo Brezilya Doğum Günü Paketi",
         "description": "Habbo BR ve topluluğunun yıl dönümünü, 2 yepyeni mobili bu yepyeni paketle kutluyoruz! Diafrix tarafından yapılmıştır."
+      },
+      {
+        "code": "rotating_roomdeal434_10c",
+        "name": "Paskalya Piknik Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434_d",
+        "name": "Paskalya Piknik Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal434",
+        "name": "Paskalya Piknik Paketi",
+        "description": "Paskalya pikniğin için ihtiyacın olan her şey bu pakette! Arkana yaslan, rahatla ve yepyeni, sadece bu pakete özel eşyaların tadını çıkar!"
+      },
+      {
+        "code": "rotating_roomdeal435_10c",
+        "name": "Paskalya Yumurta Avı Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435_d",
+        "name": "Paskalya Yumurta Avı Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal435",
+        "name": "Paskalya Yumurta Avı Paketi",
+        "description": "Arkadaşlarını topla çünkü bulunacak Paskalya Yumurtaları seni bekliyor!"
       },
       {
         "code": "rotating_roomdeal43_10c",
