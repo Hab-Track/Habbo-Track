@@ -12152,6 +12152,9 @@
                     <layer parttype="hrb"/>
                 </hiddenlayers>
             </set>
+            <set id="6080" gender="U" club="0" colorable="0" selectable="1" preselectable="0" sellable="1">
+                <part id="6671" type="ha" colorable="0" index="0" colorindex="0"/>
+            </set>
             <set id="1003" gender="U" club="0" colorable="1" selectable="1" preselectable="1">
                 <part id="3" type="ha" colorable="1" index="0" colorindex="1"/>
                 <hiddenlayers>
@@ -17462,6 +17465,15 @@
                 <part id="6667" type="cc" colorable="0" index="0" colorindex="0"/>
                 <part id="6667" type="lc" colorable="0" index="0" colorindex="0"/>
                 <part id="6667" type="rc" colorable="0" index="0" colorindex="0"/>
+            </set>
+            <set id="6079" gender="U" club="0" colorable="0" selectable="1" preselectable="0" sellable="1">
+                <part id="6670" type="cc" colorable="0" index="0" colorindex="0"/>
+                <part id="6670" type="lc" colorable="0" index="0" colorindex="0"/>
+                <part id="6670" type="rc" colorable="0" index="0" colorindex="0"/>
+                <hiddenlayers>
+                    <layer parttype="rs"/>
+                    <layer parttype="ls"/>
+                </hiddenlayers>
             </set>
             <set id="9563" gender="F" club="2" colorable="1" selectable="1" preselectable="0">
                 <part id="2233" type="cc" colorable="1" index="0" colorindex="1"/>
