@@ -34456,7 +34456,7 @@
   ],
   [
     "clothing_bunnyearrings",
-    "Tavşan Pikniği",
+    "Tavşan Küpeleri",
     "clothing_bunnyearrings desc"
   ],
   [
@@ -35566,7 +35566,7 @@
   ],
   [
     "clothing_fashionsunglasses",
-    "Tavşan Küpeleri",
+    "Renkli Güneş Gözlüğü",
     "clothing_fashionsunglasses desc"
   ],
   [
@@ -35666,7 +35666,7 @@
   ],
   [
     "clothing_floralcanvasbag",
-    "Çiçekli Yakalı Gömlek",
+    "Çiçek Desenli Çanta",
     "clothing_floralcanvasbag desc"
   ],
   [
@@ -36471,7 +36471,7 @@
   ],
   [
     "clothing_knittedcanvasbag",
-    "Çizgili Yakalı Gömlek",
+    "Örgü Çanta",
     "clothing_knittedcanvasbag desc"
   ],
   [
@@ -37407,7 +37407,7 @@
   [
     "clothing_nftbunnycapeoutfit",
     "Tavşan Pelerini",
-    ""
+    "clothing_nftbunnycapeoutfit desc"
   ],
   [
     "clothing_nftbunnyshades1",
@@ -37422,7 +37422,7 @@
   [
     "clothing_nftbunnyshoes",
     "Tavşan Spor Ayakkabısı",
-    ""
+    "clothing_nftbunnyshoes desc"
   ],
   [
     "clothing_nftcakehat",
@@ -37672,7 +37672,7 @@
   [
     "clothing_nfteastereggcrown",
     "Boyanmış Yumurta Tacı",
-    ""
+    "clothing_nfteastereggcrown desc"
   ],
   [
     "clothing_nfteyebow",
@@ -56720,6 +56720,11 @@
     "Ressam Frankaelangelo"
   ],
   [
+    "diamond_painting110",
+    "diamond_painting110 name",
+    "diamond_painting110 desc"
+  ],
+  [
     "diamond_painting111",
     "diamond_painting111 name",
     "diamond_painting111 desc"
@@ -60641,7 +60646,7 @@
   ],
   [
     "easter_c25_bunnypicnic",
-    "Tavşan Spor Ayakkabısı",
+    "Tavşan Pikniği",
     "easter_c25_bunnypicnic desc"
   ],
   [
@@ -84560,6 +84565,11 @@
     "nft_h25_flowers9 desc"
   ],
   [
+    "nft_h25_giftopentestfurni",
+    "nft_h25_giftopentestfurni name",
+    "nft_h25_giftopentestfurni desc"
+  ],
+  [
     "nft_h25_haf_reddevil",
     "Kırmızı Şeytan Aksiyon Figürü",
     "nft_h25_haf_reddevil desc"
@@ -85257,12 +85267,12 @@
   [
     "nft_sc25_bigbunnybed",
     "Tavşan Sarılmalı Yatak",
-    ""
+    "nft_sc25_bigbunnybed desc"
   ],
   [
     "nft_sc25_chickballoon",
     "Civciv Balonu",
-    ""
+    "nft_sc25_chickballoon desc"
   ],
   [
     "nft_sf_pod",

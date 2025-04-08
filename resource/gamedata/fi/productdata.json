@@ -36994,7 +36994,7 @@
       {
         "code": "clothing_nftbunnycapeoutfit",
         "name": "Pupuviitta",
-        "description": ""
+        "description": "clothing_nftbunnycapeoutfit desc"
       },
       {
         "code": "clothing_nftbunnyshades1",
@@ -37009,7 +37009,7 @@
       {
         "code": "clothing_nftbunnyshoes",
         "name": "Pupulenkkarit",
-        "description": ""
+        "description": "clothing_nftbunnyshoes desc"
       },
       {
         "code": "clothing_nftcakehat",
@@ -37259,7 +37259,7 @@
       {
         "code": "clothing_nfteastereggcrown",
         "name": "Pääsiäismunaseppele",
-        "description": ""
+        "description": "clothing_nfteastereggcrown desc"
       },
       {
         "code": "clothing_nfteyebow",
@@ -48005,6 +48005,11 @@
         "code": "diamond_painting10",
         "name": "Habbo-taidetta",
         "description": "Frankaelangelon tekosia"
+      },
+      {
+        "code": "diamond_painting110",
+        "name": "diamond_painting110 name",
+        "description": "diamond_painting110 desc"
       },
       {
         "code": "diamond_painting111",
@@ -75217,6 +75222,11 @@
         "description": "nft_h25_flowers9 desc"
       },
       {
+        "code": "nft_h25_giftopentestfurni",
+        "name": "nft_h25_giftopentestfurni name",
+        "description": "nft_h25_giftopentestfurni desc"
+      },
+      {
         "code": "nft_h25_haf_reddevil",
         "name": "Punaisten pirujen toimintafiguuri",
         "description": "nft_h25_haf_reddevil desc"
@@ -75914,12 +75924,12 @@
       {
         "code": "nft_sc25_bigbunnybed",
         "name": "Pupuhalipeti",
-        "description": ""
+        "description": "nft_sc25_bigbunnybed desc"
       },
       {
         "code": "nft_sc25_chickballoon",
         "name": "Tipukuumailmapallo",
-        "description": ""
+        "description": "nft_sc25_chickballoon desc"
       },
       {
         "code": "nft_sf_pod",

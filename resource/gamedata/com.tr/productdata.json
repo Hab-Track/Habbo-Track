@@ -34458,7 +34458,7 @@
       },
       {
         "code": "clothing_bunnyearrings",
-        "name": "Tavşan Pikniği",
+        "name": "Tavşan Küpeleri",
         "description": "clothing_bunnyearrings desc"
       },
       {
@@ -35568,7 +35568,7 @@
       },
       {
         "code": "clothing_fashionsunglasses",
-        "name": "Tavşan Küpeleri",
+        "name": "Renkli Güneş Gözlüğü",
         "description": "clothing_fashionsunglasses desc"
       },
       {
@@ -35668,7 +35668,7 @@
       },
       {
         "code": "clothing_floralcanvasbag",
-        "name": "Çiçekli Yakalı Gömlek",
+        "name": "Çiçek Desenli Çanta",
         "description": "clothing_floralcanvasbag desc"
       },
       {
@@ -36473,7 +36473,7 @@
       },
       {
         "code": "clothing_knittedcanvasbag",
-        "name": "Çizgili Yakalı Gömlek",
+        "name": "Örgü Çanta",
         "description": "clothing_knittedcanvasbag desc"
       },
       {
@@ -37409,7 +37409,7 @@
       {
         "code": "clothing_nftbunnycapeoutfit",
         "name": "Tavşan Pelerini",
-        "description": ""
+        "description": "clothing_nftbunnycapeoutfit desc"
       },
       {
         "code": "clothing_nftbunnyshades1",
@@ -37424,7 +37424,7 @@
       {
         "code": "clothing_nftbunnyshoes",
         "name": "Tavşan Spor Ayakkabısı",
-        "description": ""
+        "description": "clothing_nftbunnyshoes desc"
       },
       {
         "code": "clothing_nftcakehat",
@@ -37674,7 +37674,7 @@
       {
         "code": "clothing_nfteastereggcrown",
         "name": "Boyanmış Yumurta Tacı",
-        "description": ""
+        "description": "clothing_nfteastereggcrown desc"
       },
       {
         "code": "clothing_nfteyebow",
@@ -56722,6 +56722,11 @@
         "description": "Ressam Frankaelangelo"
       },
       {
+        "code": "diamond_painting110",
+        "name": "diamond_painting110 name",
+        "description": "diamond_painting110 desc"
+      },
+      {
         "code": "diamond_painting111",
         "name": "diamond_painting111 name",
         "description": "diamond_painting111 desc"
@@ -60643,7 +60648,7 @@
       },
       {
         "code": "easter_c25_bunnypicnic",
-        "name": "Tavşan Spor Ayakkabısı",
+        "name": "Tavşan Pikniği",
         "description": "easter_c25_bunnypicnic desc"
       },
       {
@@ -84562,6 +84567,11 @@
         "description": "nft_h25_flowers9 desc"
       },
       {
+        "code": "nft_h25_giftopentestfurni",
+        "name": "nft_h25_giftopentestfurni name",
+        "description": "nft_h25_giftopentestfurni desc"
+      },
+      {
         "code": "nft_h25_haf_reddevil",
         "name": "Kırmızı Şeytan Aksiyon Figürü",
         "description": "nft_h25_haf_reddevil desc"
@@ -85259,12 +85269,12 @@
       {
         "code": "nft_sc25_bigbunnybed",
         "name": "Tavşan Sarılmalı Yatak",
-        "description": ""
+        "description": "nft_sc25_bigbunnybed desc"
       },
       {
         "code": "nft_sc25_chickballoon",
         "name": "Civciv Balonu",
-        "description": ""
+        "description": "nft_sc25_chickballoon desc"
       },
       {
         "code": "nft_sf_pod",

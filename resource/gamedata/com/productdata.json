@@ -36769,7 +36769,7 @@
       {
         "code": "clothing_nftbunnycapeoutfit",
         "name": "Bunny Cape",
-        "description": ""
+        "description": "clothing_nftbunnycapeoutfit desc"
       },
       {
         "code": "clothing_nftbunnyshades1",
@@ -36784,7 +36784,7 @@
       {
         "code": "clothing_nftbunnyshoes",
         "name": "Bunny Sneakers",
-        "description": ""
+        "description": "clothing_nftbunnyshoes desc"
       },
       {
         "code": "clothing_nftcakehat",
@@ -37034,7 +37034,7 @@
       {
         "code": "clothing_nfteastereggcrown",
         "name": "Painted Egg Crown",
-        "description": ""
+        "description": "clothing_nfteastereggcrown desc"
       },
       {
         "code": "clothing_nfteyebow",
@@ -53995,6 +53995,11 @@
         "code": "diamond_painting10",
         "name": "Creation of Habbo",
         "description": "By Frankaelangelo"
+      },
+      {
+        "code": "diamond_painting110",
+        "name": "diamond_painting110 name",
+        "description": "diamond_painting110 desc"
       },
       {
         "code": "diamond_painting111",
@@ -81647,6 +81652,11 @@
         "description": "nft_h25_flowers9 desc"
       },
       {
+        "code": "nft_h25_giftopentestfurni",
+        "name": "nft_h25_giftopentestfurni name",
+        "description": "nft_h25_giftopentestfurni desc"
+      },
+      {
         "code": "nft_h25_haf_reddevil",
         "name": "Red Devil Action Figure",
         "description": "nft_h25_haf_reddevil desc"
@@ -82344,12 +82354,12 @@
       {
         "code": "nft_sc25_bigbunnybed",
         "name": "Bunny Cuddle Bed",
-        "description": ""
+        "description": "nft_sc25_bigbunnybed desc"
       },
       {
         "code": "nft_sc25_chickballoon",
         "name": "Chick Balloon",
-        "description": ""
+        "description": "nft_sc25_chickballoon desc"
       },
       {
         "code": "nft_sf_pod",

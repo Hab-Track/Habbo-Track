@@ -36322,7 +36322,7 @@
   [
     "clothing_nftbunnycapeoutfit",
     "Cappa da Coniglietto",
-    ""
+    "clothing_nftbunnycapeoutfit desc"
   ],
   [
     "clothing_nftbunnyshades1",
@@ -36337,7 +36337,7 @@
   [
     "clothing_nftbunnyshoes",
     "Sneakers a Coniglietto",
-    ""
+    "clothing_nftbunnyshoes desc"
   ],
   [
     "clothing_nftcakehat",
@@ -36587,7 +36587,7 @@
   [
     "clothing_nfteastereggcrown",
     "Corona con Uova Dipinte",
-    ""
+    "clothing_nfteastereggcrown desc"
   ],
   [
     "clothing_nfteyebow",
@@ -47908,6 +47908,11 @@
     "diamond_painting10",
     "Dipinto: Creazione di Habbo",
     "Di Frankangelo"
+  ],
+  [
+    "diamond_painting110",
+    "diamond_painting110 name",
+    "diamond_painting110 desc"
   ],
   [
     "diamond_painting111",
@@ -75195,6 +75200,11 @@
     "nft_h25_flowers9 desc"
   ],
   [
+    "nft_h25_giftopentestfurni",
+    "nft_h25_giftopentestfurni name",
+    "nft_h25_giftopentestfurni desc"
+  ],
+  [
     "nft_h25_haf_reddevil",
     "Action Figure Red Devil",
     "nft_h25_haf_reddevil desc"
@@ -75892,12 +75902,12 @@
   [
     "nft_sc25_bigbunnybed",
     "Letto Coccole del Coniglietto",
-    ""
+    "nft_sc25_bigbunnybed desc"
   ],
   [
     "nft_sc25_chickballoon",
     "Palloncino Pulcino",
-    ""
+    "nft_sc25_chickballoon desc"
   ],
   [
     "nft_sf_pod",

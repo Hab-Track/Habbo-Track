@@ -35522,7 +35522,7 @@
   [
     "clothing_nftbunnycapeoutfit",
     "Konijnen Cape",
-    ""
+    "clothing_nftbunnycapeoutfit desc"
   ],
   [
     "clothing_nftbunnyshades1",
@@ -35537,7 +35537,7 @@
   [
     "clothing_nftbunnyshoes",
     "Konijnen Sneakers",
-    ""
+    "clothing_nftbunnyshoes desc"
   ],
   [
     "clothing_nftcakehat",
@@ -35787,7 +35787,7 @@
   [
     "clothing_nfteastereggcrown",
     " Kroon met Beschilderde Eieren",
-    ""
+    "clothing_nfteastereggcrown desc"
   ],
   [
     "clothing_nfteyebow",
@@ -47713,6 +47713,11 @@
     "diamond_painting10",
     "Creatie van Habbo",
     "Door Frankaelangelo"
+  ],
+  [
+    "diamond_painting110",
+    "diamond_painting110 name",
+    "diamond_painting110 desc"
   ],
   [
     "diamond_painting111",
@@ -74905,6 +74910,11 @@
     "nft_h25_flowers9 desc"
   ],
   [
+    "nft_h25_giftopentestfurni",
+    "nft_h25_giftopentestfurni name",
+    "nft_h25_giftopentestfurni desc"
+  ],
+  [
     "nft_h25_haf_reddevil",
     "Rode Duivel Actiefiguur",
     "nft_h25_haf_reddevil desc"
@@ -75602,12 +75612,12 @@
   [
     "nft_sc25_bigbunnybed",
     "Knuffelbed",
-    ""
+    "nft_sc25_bigbunnybed desc"
   ],
   [
     "nft_sc25_chickballoon",
     "Luchtballon met Kuiken",
-    ""
+    "nft_sc25_chickballoon desc"
   ],
   [
     "nft_sf_pod",

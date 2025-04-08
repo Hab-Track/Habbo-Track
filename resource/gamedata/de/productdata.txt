@@ -35802,7 +35802,7 @@
   [
     "clothing_nftbunnycapeoutfit",
     "Hasenumhang",
-    ""
+    "clothing_nftbunnycapeoutfit desc"
   ],
   [
     "clothing_nftbunnyshades1",
@@ -35817,7 +35817,7 @@
   [
     "clothing_nftbunnyshoes",
     "Hasen-Sneaker",
-    ""
+    "clothing_nftbunnyshoes desc"
   ],
   [
     "clothing_nftcakehat",
@@ -36067,7 +36067,7 @@
   [
     "clothing_nfteastereggcrown",
     "Bemalte Eierkrone",
-    ""
+    "clothing_nfteastereggcrown desc"
   ],
   [
     "clothing_nfteyebow",
@@ -47048,6 +47048,11 @@
     "diamond_painting10",
     "Die Erschaffung des Habbos",
     "Von Frankangelo"
+  ],
+  [
+    "diamond_painting110",
+    "diamond_painting110 name",
+    "diamond_painting110 desc"
   ],
   [
     "diamond_painting111",
@@ -74200,6 +74205,11 @@
     "nft_h25_flowers9 desc"
   ],
   [
+    "nft_h25_giftopentestfurni",
+    "nft_h25_giftopentestfurni name",
+    "nft_h25_giftopentestfurni desc"
+  ],
+  [
     "nft_h25_haf_reddevil",
     "Red Devil Actionfigur",
     "nft_h25_haf_reddevil desc"
@@ -74897,12 +74907,12 @@
   [
     "nft_sc25_bigbunnybed",
     "Kuscheliges Hasenbett",
-    ""
+    "nft_sc25_bigbunnybed desc"
   ],
   [
     "nft_sc25_chickballoon",
     "Kükenballon",
-    ""
+    "nft_sc25_chickballoon desc"
   ],
   [
     "nft_sf_pod",
