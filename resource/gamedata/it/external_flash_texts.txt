@@ -38733,7 +38733,7 @@ report.status.info.manually_moderated.no_action=L'utente segnalato non è stato 
 report.status.info.no_action=Nessun provvedimento preso
 report.status.info.reported.date=Data segnalata
 report.status.info.reported=Segnalazione inviata
-report.status.info.sanction_help=Per richieste correlate, puoi contattare il <a href="Supporto al Giocatore di Habbo">%url%</a> entro sei mesi.
+report.status.info.sanction_help=Per richieste correlate, puoi contattare il <a href="%url%">Supporto al Giocatore di Habbo</a> entro sei mesi.
 report.status.info.sanction_pending=In attesa di revisione
 report.status.info.title=Info sullo status del report
 report.status.no_reports=Niente da mostrare
