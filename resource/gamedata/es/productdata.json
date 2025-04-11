@@ -105358,17 +105358,17 @@
       },
       {
         "code": "wf_act_adjust_clock",
-        "name": "Efecto WIRED: ajustar el tiempo del contador",
+        "name": "Efecto WIRED: Cambiar Tiempo de Contador",
         "description": "wf_act_adjust_clock desc"
       },
       {
         "code": "wf_act_bot_clothes",
-        "name": "Efecto WIRED: Bot cambia ropa",
+        "name": "Efecto WIRED: Bot Cambia de Ropa",
         "description": "Este efecto cambia la ropa del Bot seleccionado"
       },
       {
         "code": "wf_act_bot_follow_avatar",
-        "name": "Efecto WIRED: Bot sigue usuario",
+        "name": "Efecto WIRED: Bot Sigue a Usuario",
         "description": "Este efecto hace que el Bot seleccionado siga a los usuarios que lo accionan"
       },
       {
@@ -105378,17 +105378,17 @@
       },
       {
         "code": "wf_act_bot_move",
-        "name": "Efecto WIRED: Bot mover a furni",
+        "name": "Efecto WIRED: Bot Camina a Furni",
         "description": "Esto efecto hace que el Bot seleccionado se mueva a uno de los Furnis seleccionados"
       },
       {
         "code": "wf_act_bot_talk",
-        "name": "Efecto WIRED: Bot habla a todos los usuarios",
+        "name": "Efecto WIRED: Mensaje de Bot",
         "description": "Este efecto hace que el Bot seleccionado hable o grite a todos los usuarios"
       },
       {
         "code": "wf_act_bot_talk_to_avatar",
-        "name": "Efecto WIRED: Bot habla o susurra a usuario",
+        "name": "Efecto WIRED: Bot Habla o Susurra a Usuario",
         "description": "Este efecto hace que el Bot seleccionado hable o susurre al usuario que lo acciona"
       },
       {
@@ -105403,12 +105403,12 @@
       },
       {
         "code": "wf_act_change_var_val",
-        "name": "Efecto Wired: Cambiar valor de variable",
+        "name": "Efecto WIRED: Cambiar Valor de Variable",
         "description": "wf_act_change_var_val desc"
       },
       {
         "code": "wf_act_chase",
-        "name": "EFECTO WIRED: Caza",
+        "name": "Efecto WIRED: Caza",
         "description": "Este Efecto acerca los Furni seleccionados al usuario más cercano que se encuentre en la misma fila o columna. Se activará si hay un usuario junto al Furni más el 'Causante WIRED: Colisión'."
       },
       {
@@ -105468,12 +105468,12 @@
       },
       {
         "code": "wf_act_leave_team",
-        "name": "EFECTO WIRED: Abandonar Equipo",
+        "name": "Efecto WIRED: Abandonar Equipo",
         "description": "El avatar causante abandonará el equipo preestablecido"
       },
       {
         "code": "wf_act_match_to_sshot",
-        "name": "Efecto WIRED: A cero",
+        "name": "Efecto WIRED: A Cero",
         "description": "Este efecto devuelve al Furni seleccionado a sus condiciones originales."
       },
       {
@@ -105493,7 +105493,7 @@
       },
       {
         "code": "wf_act_move_to_dir",
-        "name": "Efecto WIRED: Cambiar dirección de Furni",
+        "name": "Efecto WIRED: Cambiar Dirección de Furni",
         "description": "Este Efecto cambia las direcciones de Furni. Si algo bloquea el movimiento, el Furni cambiará de dirección según los ajustes. Se activará si hay un usuario junto al Furni más el 'Causante WIRED: Colisión'."
       },
       {
@@ -105563,7 +105563,7 @@
       },
       {
         "code": "wf_act_toggle_to_rnd",
-        "name": "Efecto WIRED: Estado Aleatorios del Furni",
+        "name": "Efecto WIRED: Cambiar a Estado Aleatorio",
         "description": "Este Efecto cambia el estado de un Furni aleatoriamente."
       },
       {
@@ -106118,37 +106118,37 @@
       },
       {
         "code": "wf_trg_bot_reached_avtr",
-        "name": "Causante WIRED: Bot alcanza usuario",
+        "name": "Causante WIRED: Bot Alcanza Usuario",
         "description": "Los efectos son accionados cuando el Bot seleccionado alcanza a un usuario"
       },
       {
         "code": "wf_trg_bot_reached_stf",
-        "name": "Causante WIRED: Bot alcanza furni",
+        "name": "Causante WIRED: Bot Alcanza Furni",
         "description": "Los efectos son accionados cuando el Bot seleccionado alcanza uno de los Furnis seleccionados"
       },
       {
         "code": "wf_trg_click_furni",
-        "name": "Causante WIRED: Hacer Clic en Furni",
+        "name": "Causante WIRED: Clic en Furni",
         "description": "wf_trg_click_furni desc"
       },
       {
         "code": "wf_trg_click_tile",
-        "name": "Causante WIRED: usuario hace clic en baldosa",
+        "name": "Causante WIRED: Clic en Baldosa",
         "description": "wf_trg_click_tile desc"
       },
       {
         "code": "wf_trg_click_user",
-        "name": "Causante WIRED: Habbo clica a Habbo",
+        "name": "Causante WIRED: Usuario Da Clic a Usuario",
         "description": "wf_trg_click_user desc"
       },
       {
         "code": "wf_trg_clock_counter",
-        "name": "Causante Wired: El contador transcurre el tiempo establecido",
+        "name": "Causante WIRED: Contador Alcanza el Tiempo Establecido",
         "description": "wf_trg_clock_counter desc"
       },
       {
         "code": "wf_trg_collision",
-        "name": "CAUSANTE WIRED: Colisión",
+        "name": "Causante WIRED: Colisión",
         "description": "Causado cuando al mover un Furni (usando Wired Caza o Fuga) choca con un avatar: el usuario causante es el avatar que choca."
       },
       {
@@ -106163,22 +106163,22 @@
       },
       {
         "code": "wf_trg_game_starts",
-        "name": "Causante WIRED: Comienza el juego",
+        "name": "Causante WIRED: Comienza el Juego",
         "description": "Los efectos tienen lugar cuando se inicia un juego de Battle Banzai en una Sala"
       },
       {
         "code": "wf_trg_leave_room",
-        "name": "Causante WIRED: Usuario sale de la sala",
+        "name": "Causante WIRED: Salida",
         "description": "wf_trg_leave_room desc"
       },
       {
         "code": "wf_trg_period_long",
-        "name": "CAUSANTE WIRED: Periódico Largo",
+        "name": "Causante WIRED: Periodos Largos",
         "description": "¡Juegos más largos! Los Efectos se desencadenan cuando transcurre un tiempo determinado. ¡Como el Causante Periódico, pero más largo!"
       },
       {
         "code": "wf_trg_period_short",
-        "name": "Causante WIRED: Efecto Repetición (Corto)",
+        "name": "Causante WIRED: Periodos Cortos",
         "description": "wf_trg_period_short desc"
       },
       {
@@ -106203,7 +106203,7 @@
       },
       {
         "code": "wf_trg_score_achieved",
-        "name": "CAUSANTE WIRED: Puntos conseguidos",
+        "name": "Causante WIRED: Puntos Conseguidos",
         "description": "Se activa cuando se alcanza una puntuación determinada"
       },
       {
@@ -106213,17 +106213,17 @@
       },
       {
         "code": "wf_trg_stuff_state",
-        "name": "Causante WIRED: Cambia el Estado de los Furnis",
+        "name": "Causante WIRED: Estado de los Furnis Cambia",
         "description": "wf_trg_stuff_state desc"
       },
       {
         "code": "wf_trg_user_performs_action",
-        "name": "Causante WIRED: Usuario ejecuta acción",
+        "name": "Causante WIRED: Usuario Realiza Acción",
         "description": "wf_trg_user_performs_action desc"
       },
       {
         "code": "wf_trg_var_changed",
-        "name": "Causante Wired: Variable cambiada",
+        "name": "Causante WIRED: Cambios de la Variable",
         "description": "wf_trg_var_changed desc"
       },
       {

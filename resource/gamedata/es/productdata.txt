@@ -105356,17 +105356,17 @@
   ],
   [
     "wf_act_adjust_clock",
-    "Efecto WIRED: ajustar el tiempo del contador",
+    "Efecto WIRED: Cambiar Tiempo de Contador",
     "wf_act_adjust_clock desc"
   ],
   [
     "wf_act_bot_clothes",
-    "Efecto WIRED: Bot cambia ropa",
+    "Efecto WIRED: Bot Cambia de Ropa",
     "Este efecto cambia la ropa del Bot seleccionado"
   ],
   [
     "wf_act_bot_follow_avatar",
-    "Efecto WIRED: Bot sigue usuario",
+    "Efecto WIRED: Bot Sigue a Usuario",
     "Este efecto hace que el Bot seleccionado siga a los usuarios que lo accionan"
   ],
   [
@@ -105376,17 +105376,17 @@
   ],
   [
     "wf_act_bot_move",
-    "Efecto WIRED: Bot mover a furni",
+    "Efecto WIRED: Bot Camina a Furni",
     "Esto efecto hace que el Bot seleccionado se mueva a uno de los Furnis seleccionados"
   ],
   [
     "wf_act_bot_talk",
-    "Efecto WIRED: Bot habla a todos los usuarios",
+    "Efecto WIRED: Mensaje de Bot",
     "Este efecto hace que el Bot seleccionado hable o grite a todos los usuarios"
   ],
   [
     "wf_act_bot_talk_to_avatar",
-    "Efecto WIRED: Bot habla o susurra a usuario",
+    "Efecto WIRED: Bot Habla o Susurra a Usuario",
     "Este efecto hace que el Bot seleccionado hable o susurre al usuario que lo acciona"
   ],
   [
@@ -105401,12 +105401,12 @@
   ],
   [
     "wf_act_change_var_val",
-    "Efecto Wired: Cambiar valor de variable",
+    "Efecto WIRED: Cambiar Valor de Variable",
     "wf_act_change_var_val desc"
   ],
   [
     "wf_act_chase",
-    "EFECTO WIRED: Caza",
+    "Efecto WIRED: Caza",
     "Este Efecto acerca los Furni seleccionados al usuario más cercano que se encuentre en la misma fila o columna. Se activará si hay un usuario junto al Furni más el 'Causante WIRED: Colisión'."
   ],
   [
@@ -105466,12 +105466,12 @@
   ],
   [
     "wf_act_leave_team",
-    "EFECTO WIRED: Abandonar Equipo",
+    "Efecto WIRED: Abandonar Equipo",
     "El avatar causante abandonará el equipo preestablecido"
   ],
   [
     "wf_act_match_to_sshot",
-    "Efecto WIRED: A cero",
+    "Efecto WIRED: A Cero",
     "Este efecto devuelve al Furni seleccionado a sus condiciones originales."
   ],
   [
@@ -105491,7 +105491,7 @@
   ],
   [
     "wf_act_move_to_dir",
-    "Efecto WIRED: Cambiar dirección de Furni",
+    "Efecto WIRED: Cambiar Dirección de Furni",
     "Este Efecto cambia las direcciones de Furni. Si algo bloquea el movimiento, el Furni cambiará de dirección según los ajustes. Se activará si hay un usuario junto al Furni más el 'Causante WIRED: Colisión'."
   ],
   [
@@ -105561,7 +105561,7 @@
   ],
   [
     "wf_act_toggle_to_rnd",
-    "Efecto WIRED: Estado Aleatorios del Furni",
+    "Efecto WIRED: Cambiar a Estado Aleatorio",
     "Este Efecto cambia el estado de un Furni aleatoriamente."
   ],
   [
@@ -106116,37 +106116,37 @@
   ],
   [
     "wf_trg_bot_reached_avtr",
-    "Causante WIRED: Bot alcanza usuario",
+    "Causante WIRED: Bot Alcanza Usuario",
     "Los efectos son accionados cuando el Bot seleccionado alcanza a un usuario"
   ],
   [
     "wf_trg_bot_reached_stf",
-    "Causante WIRED: Bot alcanza furni",
+    "Causante WIRED: Bot Alcanza Furni",
     "Los efectos son accionados cuando el Bot seleccionado alcanza uno de los Furnis seleccionados"
   ],
   [
     "wf_trg_click_furni",
-    "Causante WIRED: Hacer Clic en Furni",
+    "Causante WIRED: Clic en Furni",
     "wf_trg_click_furni desc"
   ],
   [
     "wf_trg_click_tile",
-    "Causante WIRED: usuario hace clic en baldosa",
+    "Causante WIRED: Clic en Baldosa",
     "wf_trg_click_tile desc"
   ],
   [
     "wf_trg_click_user",
-    "Causante WIRED: Habbo clica a Habbo",
+    "Causante WIRED: Usuario Da Clic a Usuario",
     "wf_trg_click_user desc"
   ],
   [
     "wf_trg_clock_counter",
-    "Causante Wired: El contador transcurre el tiempo establecido",
+    "Causante WIRED: Contador Alcanza el Tiempo Establecido",
     "wf_trg_clock_counter desc"
   ],
   [
     "wf_trg_collision",
-    "CAUSANTE WIRED: Colisión",
+    "Causante WIRED: Colisión",
     "Causado cuando al mover un Furni (usando Wired Caza o Fuga) choca con un avatar: el usuario causante es el avatar que choca."
   ],
   [
@@ -106161,22 +106161,22 @@
   ],
   [
     "wf_trg_game_starts",
-    "Causante WIRED: Comienza el juego",
+    "Causante WIRED: Comienza el Juego",
     "Los efectos tienen lugar cuando se inicia un juego de Battle Banzai en una Sala"
   ],
   [
     "wf_trg_leave_room",
-    "Causante WIRED: Usuario sale de la sala",
+    "Causante WIRED: Salida",
     "wf_trg_leave_room desc"
   ],
   [
     "wf_trg_period_long",
-    "CAUSANTE WIRED: Periódico Largo",
+    "Causante WIRED: Periodos Largos",
     "¡Juegos más largos! Los Efectos se desencadenan cuando transcurre un tiempo determinado. ¡Como el Causante Periódico, pero más largo!"
   ],
   [
     "wf_trg_period_short",
-    "Causante WIRED: Efecto Repetición (Corto)",
+    "Causante WIRED: Periodos Cortos",
     "wf_trg_period_short desc"
   ],
   [
@@ -106201,7 +106201,7 @@
   ],
   [
     "wf_trg_score_achieved",
-    "CAUSANTE WIRED: Puntos conseguidos",
+    "Causante WIRED: Puntos Conseguidos",
     "Se activa cuando se alcanza una puntuación determinada"
   ],
   [
@@ -106211,17 +106211,17 @@
   ],
   [
     "wf_trg_stuff_state",
-    "Causante WIRED: Cambia el Estado de los Furnis",
+    "Causante WIRED: Estado de los Furnis Cambia",
     "wf_trg_stuff_state desc"
   ],
   [
     "wf_trg_user_performs_action",
-    "Causante WIRED: Usuario ejecuta acción",
+    "Causante WIRED: Usuario Realiza Acción",
     "wf_trg_user_performs_action desc"
   ],
   [
     "wf_trg_var_changed",
-    "Causante Wired: Variable cambiada",
+    "Causante WIRED: Cambios de la Variable",
     "wf_trg_var_changed desc"
   ],
   [
