@@ -105371,7 +105371,7 @@
   ],
   [
     "wf_act_bot_give_handitem",
-    "Efecto WIRED: Dar Item de mano",
+    "Efecto WIRED: Dar Objeto de Mano",
     "Este efecto hace que el Bot seleccionado de el ítem de mano seleccionado"
   ],
   [
@@ -105391,12 +105391,12 @@
   ],
   [
     "wf_act_bot_teleport",
-    "Efecto WIRED: Teletransporte Bot a Furni",
+    "Efecto WIRED: Teletransportar Bot a Furni",
     "Este efecto teletransporta al Bot seleccionado al Furni seleccionado"
   ],
   [
     "wf_act_call_stacks",
-    "EFECTO WIRED: Ejecuta Pilas Wired",
+    "Efecto WIRED: Ejecuta Pilas",
     "Te permite seleccionar 5 Pilas Wired para ejecutarlas desde un solo Causante, con independencia de las Condiciones o Causantes existentes."
   ],
   [
@@ -105411,12 +105411,12 @@
   ],
   [
     "wf_act_control_clock",
-    "Efecto Wired: Contador de Control",
+    "Efecto WIRED: Control de Contador",
     "wf_act_control_clock desc"
   ],
   [
     "wf_act_flee",
-    "EFECTO WIRED: Fuga",
+    "Efecto WIRED: Fuga",
     "Al activarlo, el Furni se aleja una baldosa del avatar más cercano."
   ],
   [
@@ -105441,17 +105441,17 @@
   ],
   [
     "wf_act_give_score",
-    "Efecto WIRED: Dar puntos",
+    "Efecto WIRED: Dar Puntos",
     "Este efecto da la cantidad de puntos que corresponda y se haya programado a los jugadores de un equipo. También puedes elegir cuántas veces se puede dar esos puntos en un mismo juego."
   ],
   [
     "wf_act_give_score_tm",
-    "EFECTO WIRED: Dar Puntuación",
+    "Efecto WIRED: Dar Puntos a Equipo",
     "Da puntos al equipo preestablecido"
   ],
   [
     "wf_act_give_var",
-    "Efecto Wired: Dar variable",
+    "Efecto WIRED: Dar Variable",
     "wf_act_give_var desc"
   ],
   [
@@ -105461,7 +105461,7 @@
   ],
   [
     "wf_act_kick_user",
-    "EFECTO WIRED: Expulsar usuario",
+    "Efecto WIRED: Expulsar Usuario",
     "Este Efecto expulsa al usuario en función de los criterios causantes."
   ],
   [
@@ -105481,12 +105481,12 @@
   ],
   [
     "wf_act_move_rotate",
-    "Efecto WIRED: Mover",
+    "Efecto WIRED: Mover y Rotar Furni",
     "Este efecto mueve y rota los Furni seleccionados"
   ],
   [
     "wf_act_move_rotate_user",
-    "Efecto WIRED: Mover y rotar usuario",
+    "Efecto WIRED: Mover y Rotar Usuario",
     "wf_act_move_rotate_user desc"
   ],
   [
@@ -105501,22 +105501,22 @@
   ],
   [
     "wf_act_neg_call_stacks",
-    "Efecto WIRED inverso: apilar",
+    "Efecto Negativo WIRED: Ejecuta Pilas",
     "wf_act_neg_call_stacks desc"
   ],
   [
     "wf_act_neg_send_signal",
-    "Efecto WIRED inverso: enviar señal",
+    "Efecto Negativo WIRED: Enviar Señal",
     "wf_act_neg_send_signal desc"
   ],
   [
     "wf_act_rel_mov",
-    "Efecto WIRED: Movimiento Furni Relativo",
+    "Efecto WIRED: Movimiento Relativo de Furni",
     "wf_act_rel_mov desc"
   ],
   [
     "wf_act_remove_var",
-    "Efecto Wired: Retirar variable",
+    "Efecto WIRED: Retirar Variable",
     "wf_act_remove_var desc"
   ],
   [
@@ -105536,7 +105536,7 @@
   ],
   [
     "wf_act_set_altitude",
-    "Efecto WIRED: Establecer Altura de Furni",
+    "Efecto WIRED: Cambiar Altitud de Furni",
     "wf_act_set_altitude desc"
   ],
   [
@@ -105571,7 +105571,7 @@
   ],
   [
     "wf_act_user_to_furni",
-    "Efecto WIRED: Trasladar usuario a furni",
+    "Efecto WIRED: Mover Usuario a Furni",
     "wf_act_user_to_furni desc"
   ],
   [
@@ -105621,17 +105621,17 @@
   ],
   [
     "wf_cnd_actor_in_group",
-    "CONDICIÓN WIRED: Miembro del Grupo",
+    "Condición WIRED: Miembro del Grupo",
     "La condición se da cuando hay un grupo de sala y el avatar es miembro de ese grupo"
   ],
   [
     "wf_cnd_actor_in_team",
-    "CONDICIÓN WIRED: Miembro del Equipo",
+    "Condición WIRED: Miembro del Equipo",
     "Se produce la Condición cuando el avatar es miembro del equipo preestablecido"
   ],
   [
     "wf_cnd_counter_time_matches",
-    "Condición WIRED: Contador Coincidente",
+    "Condición WIRED: Contador Coincide",
     "wf_cnd_counter_time_matches desc"
   ],
   [
@@ -105641,42 +105641,42 @@
   ],
   [
     "wf_cnd_furnis_hv_avtrs",
-    "Condición WIRED: Furnis con avatares",
+    "Condición WIRED: Furnis con Usuarios",
     "El Efecto tiene lugar si todos los Furni seleccionados tienen un avatar encima."
   ],
   [
     "wf_cnd_has_altitude",
-    "Condición WIRED: Altura de Furni Coincide",
+    "Condición WIRED: Altitud de Furni Coincide",
     "wf_cnd_has_altitude desc"
   ],
   [
     "wf_cnd_has_furni_on",
-    "Condición WIRED: Furni encima",
+    "Condición WIRED: Tiene Furnis Encima",
     "El Efecto sólo funcionará si uno o todos los Furni elegidos tienen otro Furni encima"
   ],
   [
     "wf_cnd_has_handitem",
-    "Condición WIRED: Usuario tiene item de mano",
+    "Condición WIRED: Tiene Objeto de Mano",
     "La acción está permitida si el usuario sostiene el ítem de mano seleccionado"
   ],
   [
     "wf_cnd_has_var",
-    "Condición Wired: Tiene variable",
+    "Condición WIRED: Tiene Variable",
     "wf_cnd_has_var desc"
   ],
   [
     "wf_cnd_match_date",
-    "Condición WIRED: Fecha Coincidente",
+    "Condición WIRED: Fecha",
     "wf_cnd_match_date desc"
   ],
   [
     "wf_cnd_match_snapshot",
-    "Condición WIRED: Coincidencia",
+    "Condición WIRED: Posición o Estado Coincide",
     "El Efecto tiene lugar si los estados de los Furni seleccionados coinciden."
   ],
   [
     "wf_cnd_match_time",
-    "Condición WIRED: Hora Coincidente",
+    "Condición WIRED: Hora",
     "wf_cnd_match_time desc"
   ],
   [
@@ -105696,7 +105696,7 @@
   ],
   [
     "wf_cnd_not_hv_avtrs",
-    "WIRED Condición Negativa: los Furnis NO tienen avatares",
+    "Condición Negativa WIRED: Furnis SIN Usuarios",
     "Condición perimitida si ninguno de los Furnis seleccionados NO tiene avatares encima."
   ],
   [
@@ -105721,22 +105721,22 @@
   ],
   [
     "wf_cnd_not_stuff_is",
-    "WIRED Condición: Furni NO se corresponde",
+    "Condición Negativa WIRED: Furni NO Coincide",
     "La condición ocurre si el Furni causante NO es uno de los Furnis elegidos y no es del mismo tipo."
   ],
   [
     "wf_cnd_not_trggrer_on",
-    "WIRED Condición Negativa: el causante no está en el furni",
+    "Condición Negativa WIRED: Desencadenante NO está en el Furni",
     "La condición ocurre si ésta NO está en uno de los furnis seleccionados."
   ],
   [
     "wf_cnd_not_triggerer_match",
-    "WIRED  Condición Negativa: Causante NO coincide",
+    "Condición Negativa WIRED: Desencadenante NO Coincide",
     "wf_cnd_not_triggerer_match desc"
   ],
   [
     "wf_cnd_not_user_count",
-    "Condición WIRED: el recuento de usuarios no es",
+    "Condición Negativa WIRED: Aforo NO Coincide",
     "La condición ocurre si el usuario en sala NO tiene los límites definidos"
   ],
   [
@@ -105756,12 +105756,12 @@
   ],
   [
     "wf_cnd_slc_quantity",
-    "Condición WIRED: Selector de Cantidad",
+    "Condición WIRED: Cantidad",
     "wf_cnd_slc_quantity desc"
   ],
   [
     "wf_cnd_stuff_is",
-    "Condición WIRED: Furnis Coinciden",
+    "Condición WIRED: Furni Coincide",
     "El efecto tendrá lugar si el Furni causante es uno de los Furnis elegidos o es del mismo tipo"
   ],
   [
@@ -105771,7 +105771,7 @@
   ],
   [
     "wf_cnd_team_has_score",
-    "Condición WIRED: Equipo Tiene Puntos",
+    "Condición WIRED: Puntos de Equipo",
     "wf_cnd_team_has_score desc"
   ],
   [
@@ -105786,17 +105786,17 @@
   ],
   [
     "wf_cnd_trggrer_on_frn",
-    "Condición WIRED: Písalo tú",
+    "Condición WIRED: Desencadenantes Sobre Furni",
     "El Efecto tiene lugar si el usuario seleccionado está sobre uno de los Furni programados."
   ],
   [
     "wf_cnd_triggerer_match",
-    "Condición WIRED: El Desencadenante Es",
+    "Condición WIRED: El Desencadenante es...",
     "wf_cnd_triggerer_match desc"
   ],
   [
     "wf_cnd_user_count_in",
-    "WIRED Condition: Usuarios en sala",
+    "Condición WIRED: Aforo Coincide",
     "El Efecto tiene lugar si el recuento de usuarios en sala está dentro de los límites establecidos."
   ],
   [
@@ -105806,17 +105806,17 @@
   ],
   [
     "wf_cnd_user_performs_action",
-    "Condición WIRED: Usuario está realizando acción",
+    "Condición WIRED: Usuario está Realizando Acción",
     "wf_cnd_user_performs_action desc"
   ],
   [
     "wf_cnd_valid_moves",
-    "Condición WIRED: puede realizar movimientos",
+    "Condición WIRED: Movimiento Válido",
     "wf_cnd_valid_moves desc"
   ],
   [
     "wf_cnd_var_age_match",
-    "Condición Wired: Edad de la variable",
+    "Condición WIRED: Edad de Variable",
     "wf_cnd_var_age_match desc"
   ],
   [
