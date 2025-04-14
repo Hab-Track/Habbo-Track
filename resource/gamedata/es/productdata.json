@@ -42368,22 +42368,22 @@
       },
       {
         "code": "conf_area_hide",
-        "name": "Ocultador de zona",
+        "name": "Controlador: Zona Oculta",
         "description": "conf_area_hide desc"
       },
       {
         "code": "conf_handitem_block",
-        "name": "Stop Objeto de Mano",
+        "name": "Controlador: Objeto de Mano",
         "description": "conf_handitem_block desc"
       },
       {
         "code": "conf_invis_control",
-        "name": "Control Furni Invisible",
+        "name": "Controlador: Furni Invisible",
         "description": "conf_invis_control desc"
       },
       {
         "code": "conf_queue_speed",
-        "name": "Control Velocidad Roller",
+        "name": "Controlador: Velocidad del Roller",
         "description": "conf_queue_speed desc"
       },
       {
@@ -88763,12 +88763,12 @@
       },
       {
         "code": "room_invisible_block3",
-        "name": "Bloque Invisible (no apilable, pisable)",
+        "name": "Bloque Invisible: No apilable, Pisable",
         "description": "room_invisible_block3 desc"
       },
       {
         "code": "room_invisible_block4",
-        "name": "Bloque Invisible (no apilable, no pisable)",
+        "name": "Bloque Invisible: No apilable, No pisable",
         "description": "room_invisible_block4 desc"
       },
       {
@@ -88778,12 +88778,12 @@
       },
       {
         "code": "room_invisible_click_tile",
-        "name": "Baldosa Clic Invisible",
+        "name": "Baldosa Invisible: Clic",
         "description": "room_invisible_click_tile desc"
       },
       {
         "code": "room_invisible_sit_tile",
-        "name": "Baldosa Silla Invisible",
+        "name": "Baldosa Invisible: Silla",
         "description": "room_invisible_sit_tile desc"
       },
       {
@@ -100493,12 +100493,12 @@
       },
       {
         "code": "tile_stackmagic1",
-        "name": "2x1 Baldosa Apilar Mágica",
+        "name": "Baldosa Mágica: Apilar 2x1",
         "description": "Desafía las leyes de la física apilando muchos furnis sobre esta baldosa. Podrás reutilizarla para apilar otras cosas."
       },
       {
         "code": "tile_stackmagic2",
-        "name": "2x2 Baldosa Apilar Mágica",
+        "name": "Baldosa Mágica: Apilar 2x2",
         "description": "Desafía las leyes de la física apilando muchos furnis sobre esta baldosa. Podrás reutilizarla para apilar otras cosas."
       },
       {
@@ -100508,22 +100508,22 @@
       },
       {
         "code": "tile_stackmagic6x6",
-        "name": "6x6 Baldosa de Apilar Mágica",
+        "name": "Baldosa Mágica: Apilar 6x6",
         "description": "tile_stackmagic6x6 desc"
       },
       {
         "code": "tile_stackmagic8x8",
-        "name": "8x8 Baldosa de Apilar Mágica",
+        "name": "Baldosa Mágica: Apilar 8x8",
         "description": "tile_stackmagic8x8 desc"
       },
       {
         "code": "tile_stackmagic",
-        "name": "Baldosa Apilar Magia",
+        "name": "Baldosa Mágica: Apilar 1x1",
         "description": "Desafía las leyes de la física apilando muchos furnis sobre esta baldosa. Podrás reutilizarla para apilar otras cosas."
       },
       {
         "code": "tile_walkmagic1x2",
-        "name": "1x2 Baldosa Caminar Mágica",
+        "name": "Baldosa Mágica: Caminar 1x2",
         "description": "tile_walkmagic1x2 desc"
       },
       {
@@ -100533,7 +100533,7 @@
       },
       {
         "code": "tile_walkmagic1x8",
-        "name": "1x8 Baldosa Caminar Mágica",
+        "name": "Baldosa Mágica: Caminar 1x8",
         "description": "tile_walkmagic1x8 desc"
       },
       {
@@ -100543,17 +100543,17 @@
       },
       {
         "code": "tile_walkmagic4x4",
-        "name": "4x4 Baldosa Caminar Mágica",
+        "name": "Baldosa Mágica: Caminar 4x4",
         "description": "tile_walkmagic4x4 desc"
       },
       {
         "code": "tile_walkmagic8x8",
-        "name": "8x8 Baldosa Caminar Mágica",
+        "name": "Baldosa Mágica: Caminar 8x8",
         "description": "tile_walkmagic8x8 desc"
       },
       {
         "code": "tile_walkmagic",
-        "name": "Baldosa Caminar Mágica",
+        "name": "Baldosa Mágica: Caminar 1x1",
         "description": "tile_walkmagic desc"
       },
       {
@@ -105578,7 +105578,7 @@
       },
       {
         "code": "wf_antenna1",
-        "name": "Antena Wired",
+        "name": "Antena Wired Grande",
         "description": "wf_antenna1 desc"
       },
       {
@@ -105588,12 +105588,12 @@
       },
       {
         "code": "wf_arrowplate",
-        "name": "Casilla Flechas",
+        "name": "Casilla Flecha",
         "description": "¿Por aquí o por allí?"
       },
       {
         "code": "wf_blob2",
-        "name": "WIRED GAME: Super Blob",
+        "name": "Juego WIRED: Super Blob",
         "description": "Concede 5 puntos al equipo que recoge: se puede hacer visible con el Wired cambio de estado (deberás utilizar el comando :furni)."
       },
       {
@@ -105608,12 +105608,12 @@
       },
       {
         "code": "wf_blob",
-        "name": "WIRED GAME: Blob",
+        "name": "Juego WIRED: Blob",
         "description": "Concede 1 punto al equipo que recoge"
       },
       {
         "code": "wf_box",
-        "name": "Caja para Puzzles",
+        "name": "Caja para Puzzle",
         "description": "Colócate a su lado y haz doble clic en ella para empujarla"
       },
       {
@@ -105683,17 +105683,17 @@
       },
       {
         "code": "wf_cnd_neg_has_var",
-        "name": "Condición Wired negativa: NO tiene variable",
+        "name": "Condición Negativa WIRED: NO Tiene Variable",
         "description": "wf_cnd_neg_has_var desc"
       },
       {
         "code": "wf_cnd_not_furni_on",
-        "name": "Condición Negativa WIRED: NO tiene Furni Encima",
+        "name": "Condición Negativa WIRED: NO Tiene Furnis Encima",
         "description": "Condición permitida si ninguno de los Furnis seleccionados NO tiene otro Furni encima."
       },
       {
         "code": "wf_cnd_not_has_handitem",
-        "name": "WIRED Condición Negativa: Usuario NO tiene ítem de mano",
+        "name": "Condición Negativa WIRED: NO Tiene Objeto de Mano",
         "description": "wf_cnd_not_has_handitem desc"
       },
       {
@@ -105703,17 +105703,17 @@
       },
       {
         "code": "wf_cnd_not_in_group",
-        "name": "WIRED Condición Negativa: usuario NO es Miembro del Grupo",
+        "name": "Condición Negativa WIRED: NO es Miembro del Grupo",
         "description": "La condición ocurre cuando estás en una sala de grupo y el avatar NO es miembro de ese grupo."
       },
       {
         "code": "wf_cnd_not_in_team",
-        "name": "WIRED Condición Negativa: Usuario No Miembro del Equipo",
+        "name": "Condición Negativa WIRED: NO es Miembro del Equipo",
         "description": "La condición ocurre cuando el avatar NO  es un miembro del equipo pre-establecido"
       },
       {
         "code": "wf_cnd_not_match_snap",
-        "name": "WIRED Condición Negativa: el estado de los Furnis NO coincide",
+        "name": "Condición Negativa WIRED: Posición o Estado NO Coincide",
         "description": "Condición permitida si los estados de los furnis seleccionados NO se corresponde."
       },
       {
@@ -105743,7 +105743,7 @@
       },
       {
         "code": "wf_cnd_not_user_performs_action",
-        "name": "WIRED Condición Negativa: Usuario NO está realizando acción",
+        "name": "Condición Negativa WIRED: Usuario NO está Realizando Acción",
         "description": "wf_cnd_not_user_performs_action desc"
       },
       {
@@ -105908,37 +105908,37 @@
       },
       {
         "code": "wf_game_upcounter1",
-        "name": "Contador Juego Wired",
+        "name": "Contador Wired",
         "description": "wf_game_upcounter1 desc"
       },
       {
         "code": "wf_game_upcounter2",
-        "name": "Contador Juego Wired",
+        "name": "Contador Wired",
         "description": "wf_game_upcounter2 desc"
       },
       {
         "code": "wf_glassdoor",
-        "name": "Puerta de cristal",
+        "name": "Puerta de Cristal",
         "description": "Hacia arriba y abajo"
       },
       {
         "code": "wf_glowball",
-        "name": "Bola de Fuego",
+        "name": "Bola Brillante",
         "description": "Iluminando"
       },
       {
         "code": "wf_maze",
-        "name": "Divisor para Puzzles",
+        "name": "Divisor de Laberinto",
         "description": "Para usar en tus más enrevesados laberintos"
       },
       {
         "code": "wf_numbertile1",
-        "name": "Baldosa Oscura Número",
+        "name": "Casilla Numérica Clara",
         "description": "wf_numbertile1 desc"
       },
       {
         "code": "wf_numbertile2",
-        "name": "Baldosa Tenue Número",
+        "name": "Casilla Numérica Oscura",
         "description": "wf_numbertile2 desc"
       },
       {
@@ -105968,17 +105968,17 @@
       },
       {
         "code": "wf_slc_furni_altitude",
-        "name": "Selector WIRED: Furni con Altura",
+        "name": "Selector WIRED: Furnis por Altitud",
         "description": "wf_slc_furni_altitude desc"
       },
       {
         "code": "wf_slc_furni_area",
-        "name": "Selector WIRED: Furni en Área",
+        "name": "Selector WIRED: Furnis en Área",
         "description": "wf_slc_furni_area desc"
       },
       {
         "code": "wf_slc_furni_bytype",
-        "name": "Selector WIRED: Furni por Tipo",
+        "name": "Selector WIRED: Furnis por Tipo",
         "description": "wf_slc_furni_bytype desc"
       },
       {
@@ -105988,7 +105988,7 @@
       },
       {
         "code": "wf_slc_furni_onfurni",
-        "name": "Selector WIRED: Furni sobre Furni",
+        "name": "Selector WIRED: Furnis sobre Furni",
         "description": "wf_slc_furni_onfurni desc"
       },
       {
@@ -106003,12 +106003,12 @@
       },
       {
         "code": "wf_slc_furni_with_var",
-        "name": "Selector WIRED: Furni con variable",
+        "name": "Selector WIRED: Furnis con Variable",
         "description": "wf_slc_furni_with_var desc"
       },
       {
         "code": "wf_slc_remote",
-        "name": "Selector Wired: Selección en remoto",
+        "name": "Selector WIRED: Selección Remota",
         "description": "wf_slc_remote desc"
       },
       {
@@ -106038,7 +106038,7 @@
       },
       {
         "code": "wf_slc_users_handitem",
-        "name": "Selector WIRED: Usuarios con Ítem de mano",
+        "name": "Selector WIRED: Usuarios con Objeto de Mano",
         "description": "wf_slc_users_handitem desc"
       },
       {
@@ -106063,7 +106063,7 @@
       },
       {
         "code": "wf_slc_users_with_var",
-        "name": "Selector WIRED: Usuarios con variable",
+        "name": "Selector WIRED: Usuarios con Variable",
         "description": "wf_slc_users_with_var desc"
       },
       {
@@ -106098,12 +106098,12 @@
       },
       {
         "code": "wf_tile1",
-        "name": "Baldosa Oscura",
+        "name": "Casilla Oscura",
         "description": "wf_tile1 desc"
       },
       {
         "code": "wf_tile2",
-        "name": "Baldosa Tenue",
+        "name": "Casilla Clara",
         "description": "wf_tile2 desc"
       },
       {
@@ -106243,22 +106243,22 @@
       },
       {
         "code": "wf_upcounter2",
-        "name": "Contador Reloj de Arena",
+        "name": "Reloj de Arena (Contador Wired)",
         "description": "wf_upcounter2 desc"
       },
       {
         "code": "wf_var_context",
-        "name": "Variable Wired: Variable de contexto",
+        "name": "Variable WIRED: Variable de Contexto",
         "description": "wf_var_context desc"
       },
       {
         "code": "wf_var_echo",
-        "name": "Variable Wired: Eco",
+        "name": "Variable WIRED: Eco",
         "description": "wf_var_echo desc"
       },
       {
         "code": "wf_var_furni",
-        "name": "Variable Wired: Variable de furni",
+        "name": "Variable WIRED: Variable de Furni",
         "description": "wf_var_furni desc"
       },
       {
@@ -106273,37 +106273,37 @@
       },
       {
         "code": "wf_var_reference",
-        "name": "Variable Wired: Desde otra sala",
+        "name": "Variable WIRED: De Otra Sala",
         "description": "wf_var_reference desc"
       },
       {
         "code": "wf_var_room",
-        "name": "Variable Wired: Variable global",
+        "name": "Variable WIRED: Variable Global",
         "description": "wf_var_room desc"
       },
       {
         "code": "wf_var_user",
-        "name": "Variable Wired: Variable de usuario",
+        "name": "Variable WIRED: Variable de Usuario",
         "description": "wf_var_user desc"
       },
       {
         "code": "wf_wire1",
-        "name": "Cableado - Recta",
+        "name": "Cableado: Recto",
         "description": "A colocar en una Sala"
       },
       {
         "code": "wf_wire2",
-        "name": "Cableado - Intersección",
+        "name": "Cableado: Intersección",
         "description": "A colocar en una Sala"
       },
       {
         "code": "wf_wire3",
-        "name": "Cableado - Esquina",
+        "name": "Cableado: Esquina",
         "description": "A colocar en una Sala"
       },
       {
         "code": "wf_wire4",
-        "name": "Cableado - Tres tipos",
+        "name": "Cableado: Tres vías",
         "description": "A colocar en una Sala"
       },
       {
@@ -106313,7 +106313,7 @@
       },
       {
         "code": "wf_xtra_exec_in_order",
-        "name": "Complemento Wired: Ejecutar en orden",
+        "name": "Complemento WIRED: Ejecutar en Orden",
         "description": "wf_xtra_exec_in_order desc"
       },
       {
@@ -106323,17 +106323,17 @@
       },
       {
         "code": "wf_xtra_filter_furni_by_var",
-        "name": "Filtro Wired: Furnis con la variable más alta/baja",
+        "name": "Filtro WIRED: Furnis con Variable Más Alta/Baja",
         "description": "wf_xtra_filter_furni_by_var desc"
       },
       {
         "code": "wf_xtra_filter_furni",
-        "name": "Filtro WIRED: Filtrar a X Furni",
+        "name": "Filtro WIRED: Filtrar a X Furnis",
         "description": "wf_xtra_filter_furni desc"
       },
       {
         "code": "wf_xtra_filter_users_by_var",
-        "name": "Filtro Wired: Usuarios con la variable más alta/baja",
+        "name": "Filtro WIRED: Usuarios con Variable Más Alta/Baja",
         "description": "wf_xtra_filter_users_by_var desc"
       },
       {
@@ -106358,12 +106358,12 @@
       },
       {
         "code": "wf_xtra_or_eval",
-        "name": "Wired Complemento: Al menos una condición es verdadera",
+        "name": "Complemento WIRED: Lógica de Condición",
         "description": "wf_xtra_or_eval desc"
       },
       {
         "code": "wf_xtra_random",
-        "name": "Complemento WIRED: Efecto aleatorio",
+        "name": "Complemento WIRED: Efecto Aleatorio",
         "description": "Sólo un Efecto aleatorio tiene lugar a la vez en esta pila"
       },
       {
@@ -106373,32 +106373,32 @@
       },
       {
         "code": "wf_xtra_text_output_username",
-        "name": "Complemento de texto: Ejemplo de nombre",
+        "name": "Complemento de Texto WIRED: Identificar Nombres",
         "description": "wf_xtra_text_output_username desc"
       },
       {
         "code": "wf_xtra_text_output_variable",
-        "name": "Complemento de texto: Ejemplo de variable",
+        "name": "Complemento de Texto WIRED: Identificar Variables",
         "description": "wf_xtra_text_output_variable desc"
       },
       {
         "code": "wf_xtra_unseen",
-        "name": "Complemento WIRED: Efecto no visto",
+        "name": "Complemento WIRED: Efecto WIRED No Visto",
         "description": "Sólo un Efecto previamente no usado tiene lugar a la vez en esta pila"
       },
       {
         "code": "wf_xtra_var_lvlup_system",
-        "name": "Complemento de variable: Sistema de niveles",
+        "name": "Complemento de Variable WIRED: Sistema de Subida de Nivel",
         "description": "wf_xtra_var_lvlup_system desc"
       },
       {
         "code": "wf_xtra_var_text_connector",
-        "name": "Complemento de variable: Conector de texto",
+        "name": "Complemento de Variable WIRED: Conector de Texto",
         "description": "wf_xtra_var_text_connector desc"
       },
       {
         "code": "wf_xtra_var_time_util",
-        "name": "Complemento de variable: Utilidades de tiempo",
+        "name": "Complemento de Variable WIRED: Utilidades de Tiempo",
         "description": "wf_xtra_var_time_util desc"
       },
       {

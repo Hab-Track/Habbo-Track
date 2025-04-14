@@ -42366,22 +42366,22 @@
   ],
   [
     "conf_area_hide",
-    "Ocultador de zona",
+    "Controlador: Zona Oculta",
     "conf_area_hide desc"
   ],
   [
     "conf_handitem_block",
-    "Stop Objeto de Mano",
+    "Controlador: Objeto de Mano",
     "conf_handitem_block desc"
   ],
   [
     "conf_invis_control",
-    "Control Furni Invisible",
+    "Controlador: Furni Invisible",
     "conf_invis_control desc"
   ],
   [
     "conf_queue_speed",
-    "Control Velocidad Roller",
+    "Controlador: Velocidad del Roller",
     "conf_queue_speed desc"
   ],
   [
@@ -88761,12 +88761,12 @@
   ],
   [
     "room_invisible_block3",
-    "Bloque Invisible (no apilable, pisable)",
+    "Bloque Invisible: No apilable, Pisable",
     "room_invisible_block3 desc"
   ],
   [
     "room_invisible_block4",
-    "Bloque Invisible (no apilable, no pisable)",
+    "Bloque Invisible: No apilable, No pisable",
     "room_invisible_block4 desc"
   ],
   [
@@ -88776,12 +88776,12 @@
   ],
   [
     "room_invisible_click_tile",
-    "Baldosa Clic Invisible",
+    "Baldosa Invisible: Clic",
     "room_invisible_click_tile desc"
   ],
   [
     "room_invisible_sit_tile",
-    "Baldosa Silla Invisible",
+    "Baldosa Invisible: Silla",
     "room_invisible_sit_tile desc"
   ],
   [
@@ -100491,12 +100491,12 @@
   ],
   [
     "tile_stackmagic1",
-    "2x1 Baldosa Apilar Mágica",
+    "Baldosa Mágica: Apilar 2x1",
     "Desafía las leyes de la física apilando muchos furnis sobre esta baldosa. Podrás reutilizarla para apilar otras cosas."
   ],
   [
     "tile_stackmagic2",
-    "2x2 Baldosa Apilar Mágica",
+    "Baldosa Mágica: Apilar 2x2",
     "Desafía las leyes de la física apilando muchos furnis sobre esta baldosa. Podrás reutilizarla para apilar otras cosas."
   ],
   [
@@ -100506,22 +100506,22 @@
   ],
   [
     "tile_stackmagic6x6",
-    "6x6 Baldosa de Apilar Mágica",
+    "Baldosa Mágica: Apilar 6x6",
     "tile_stackmagic6x6 desc"
   ],
   [
     "tile_stackmagic8x8",
-    "8x8 Baldosa de Apilar Mágica",
+    "Baldosa Mágica: Apilar 8x8",
     "tile_stackmagic8x8 desc"
   ],
   [
     "tile_stackmagic",
-    "Baldosa Apilar Magia",
+    "Baldosa Mágica: Apilar 1x1",
     "Desafía las leyes de la física apilando muchos furnis sobre esta baldosa. Podrás reutilizarla para apilar otras cosas."
   ],
   [
     "tile_walkmagic1x2",
-    "1x2 Baldosa Caminar Mágica",
+    "Baldosa Mágica: Caminar 1x2",
     "tile_walkmagic1x2 desc"
   ],
   [
@@ -100531,7 +100531,7 @@
   ],
   [
     "tile_walkmagic1x8",
-    "1x8 Baldosa Caminar Mágica",
+    "Baldosa Mágica: Caminar 1x8",
     "tile_walkmagic1x8 desc"
   ],
   [
@@ -100541,17 +100541,17 @@
   ],
   [
     "tile_walkmagic4x4",
-    "4x4 Baldosa Caminar Mágica",
+    "Baldosa Mágica: Caminar 4x4",
     "tile_walkmagic4x4 desc"
   ],
   [
     "tile_walkmagic8x8",
-    "8x8 Baldosa Caminar Mágica",
+    "Baldosa Mágica: Caminar 8x8",
     "tile_walkmagic8x8 desc"
   ],
   [
     "tile_walkmagic",
-    "Baldosa Caminar Mágica",
+    "Baldosa Mágica: Caminar 1x1",
     "tile_walkmagic desc"
   ],
   [
@@ -105576,7 +105576,7 @@
   ],
   [
     "wf_antenna1",
-    "Antena Wired",
+    "Antena Wired Grande",
     "wf_antenna1 desc"
   ],
   [
@@ -105586,12 +105586,12 @@
   ],
   [
     "wf_arrowplate",
-    "Casilla Flechas",
+    "Casilla Flecha",
     "¿Por aquí o por allí?"
   ],
   [
     "wf_blob2",
-    "WIRED GAME: Super Blob",
+    "Juego WIRED: Super Blob",
     "Concede 5 puntos al equipo que recoge: se puede hacer visible con el Wired cambio de estado (deberás utilizar el comando :furni)."
   ],
   [
@@ -105606,12 +105606,12 @@
   ],
   [
     "wf_blob",
-    "WIRED GAME: Blob",
+    "Juego WIRED: Blob",
     "Concede 1 punto al equipo que recoge"
   ],
   [
     "wf_box",
-    "Caja para Puzzles",
+    "Caja para Puzzle",
     "Colócate a su lado y haz doble clic en ella para empujarla"
   ],
   [
@@ -105681,17 +105681,17 @@
   ],
   [
     "wf_cnd_neg_has_var",
-    "Condición Wired negativa: NO tiene variable",
+    "Condición Negativa WIRED: NO Tiene Variable",
     "wf_cnd_neg_has_var desc"
   ],
   [
     "wf_cnd_not_furni_on",
-    "Condición Negativa WIRED: NO tiene Furni Encima",
+    "Condición Negativa WIRED: NO Tiene Furnis Encima",
     "Condición permitida si ninguno de los Furnis seleccionados NO tiene otro Furni encima."
   ],
   [
     "wf_cnd_not_has_handitem",
-    "WIRED Condición Negativa: Usuario NO tiene ítem de mano",
+    "Condición Negativa WIRED: NO Tiene Objeto de Mano",
     "wf_cnd_not_has_handitem desc"
   ],
   [
@@ -105701,17 +105701,17 @@
   ],
   [
     "wf_cnd_not_in_group",
-    "WIRED Condición Negativa: usuario NO es Miembro del Grupo",
+    "Condición Negativa WIRED: NO es Miembro del Grupo",
     "La condición ocurre cuando estás en una sala de grupo y el avatar NO es miembro de ese grupo. "
   ],
   [
     "wf_cnd_not_in_team",
-    "WIRED Condición Negativa: Usuario No Miembro del Equipo",
+    "Condición Negativa WIRED: NO es Miembro del Equipo",
     "La condición ocurre cuando el avatar NO  es un miembro del equipo pre-establecido"
   ],
   [
     "wf_cnd_not_match_snap",
-    "WIRED Condición Negativa: el estado de los Furnis NO coincide",
+    "Condición Negativa WIRED: Posición o Estado NO Coincide",
     "Condición permitida si los estados de los furnis seleccionados NO se corresponde."
   ],
   [
@@ -105741,7 +105741,7 @@
   ],
   [
     "wf_cnd_not_user_performs_action",
-    "WIRED Condición Negativa: Usuario NO está realizando acción",
+    "Condición Negativa WIRED: Usuario NO está Realizando Acción",
     "wf_cnd_not_user_performs_action desc"
   ],
   [
@@ -105906,37 +105906,37 @@
   ],
   [
     "wf_game_upcounter1",
-    "Contador Juego Wired",
+    "Contador Wired",
     "wf_game_upcounter1 desc"
   ],
   [
     "wf_game_upcounter2",
-    "Contador Juego Wired",
+    "Contador Wired",
     "wf_game_upcounter2 desc"
   ],
   [
     "wf_glassdoor",
-    "Puerta de cristal",
+    "Puerta de Cristal",
     "Hacia arriba y abajo"
   ],
   [
     "wf_glowball",
-    "Bola de Fuego",
+    "Bola Brillante",
     "Iluminando"
   ],
   [
     "wf_maze",
-    "Divisor para Puzzles",
+    "Divisor de Laberinto",
     "Para usar en tus más enrevesados laberintos"
   ],
   [
     "wf_numbertile1",
-    "Baldosa Oscura Número",
+    "Casilla Numérica Clara",
     "wf_numbertile1 desc"
   ],
   [
     "wf_numbertile2",
-    "Baldosa Tenue Número",
+    "Casilla Numérica Oscura",
     "wf_numbertile2 desc"
   ],
   [
@@ -105966,17 +105966,17 @@
   ],
   [
     "wf_slc_furni_altitude",
-    "Selector WIRED: Furni con Altura",
+    "Selector WIRED: Furnis por Altitud",
     "wf_slc_furni_altitude desc"
   ],
   [
     "wf_slc_furni_area",
-    "Selector WIRED: Furni en Área",
+    "Selector WIRED: Furnis en Área",
     "wf_slc_furni_area desc"
   ],
   [
     "wf_slc_furni_bytype",
-    "Selector WIRED: Furni por Tipo",
+    "Selector WIRED: Furnis por Tipo",
     "wf_slc_furni_bytype desc"
   ],
   [
@@ -105986,7 +105986,7 @@
   ],
   [
     "wf_slc_furni_onfurni",
-    "Selector WIRED: Furni sobre Furni",
+    "Selector WIRED: Furnis sobre Furni",
     "wf_slc_furni_onfurni desc"
   ],
   [
@@ -106001,12 +106001,12 @@
   ],
   [
     "wf_slc_furni_with_var",
-    "Selector WIRED: Furni con variable",
+    "Selector WIRED: Furnis con Variable",
     "wf_slc_furni_with_var desc"
   ],
   [
     "wf_slc_remote",
-    "Selector Wired: Selección en remoto",
+    "Selector WIRED: Selección Remota",
     "wf_slc_remote desc"
   ],
   [
@@ -106036,7 +106036,7 @@
   ],
   [
     "wf_slc_users_handitem",
-    "Selector WIRED: Usuarios con Ítem de mano",
+    "Selector WIRED: Usuarios con Objeto de Mano",
     "wf_slc_users_handitem desc"
   ],
   [
@@ -106061,7 +106061,7 @@
   ],
   [
     "wf_slc_users_with_var",
-    "Selector WIRED: Usuarios con variable",
+    "Selector WIRED: Usuarios con Variable",
     "wf_slc_users_with_var desc"
   ],
   [
@@ -106096,12 +106096,12 @@
   ],
   [
     "wf_tile1",
-    "Baldosa Oscura",
+    "Casilla Oscura",
     "wf_tile1 desc"
   ],
   [
     "wf_tile2",
-    "Baldosa Tenue",
+    "Casilla Clara",
     "wf_tile2 desc"
   ],
   [
@@ -106241,22 +106241,22 @@
   ],
   [
     "wf_upcounter2",
-    "Contador Reloj de Arena",
+    "Reloj de Arena (Contador Wired)",
     "wf_upcounter2 desc"
   ],
   [
     "wf_var_context",
-    "Variable Wired: Variable de contexto",
+    "Variable WIRED: Variable de Contexto",
     "wf_var_context desc"
   ],
   [
     "wf_var_echo",
-    "Variable Wired: Eco",
+    "Variable WIRED: Eco",
     "wf_var_echo desc"
   ],
   [
     "wf_var_furni",
-    "Variable Wired: Variable de furni",
+    "Variable WIRED: Variable de Furni",
     "wf_var_furni desc"
   ],
   [
@@ -106271,37 +106271,37 @@
   ],
   [
     "wf_var_reference",
-    "Variable Wired: Desde otra sala",
+    "Variable WIRED: De Otra Sala",
     "wf_var_reference desc"
   ],
   [
     "wf_var_room",
-    "Variable Wired: Variable global",
+    "Variable WIRED: Variable Global",
     "wf_var_room desc"
   ],
   [
     "wf_var_user",
-    "Variable Wired: Variable de usuario",
+    "Variable WIRED: Variable de Usuario",
     "wf_var_user desc"
   ],
   [
     "wf_wire1",
-    "Cableado - Recta",
+    "Cableado: Recto",
     "A colocar en una Sala"
   ],
   [
     "wf_wire2",
-    "Cableado - Intersección",
+    "Cableado: Intersección",
     "A colocar en una Sala"
   ],
   [
     "wf_wire3",
-    "Cableado - Esquina",
+    "Cableado: Esquina",
     "A colocar en una Sala"
   ],
   [
     "wf_wire4",
-    "Cableado - Tres tipos",
+    "Cableado: Tres vías",
     "A colocar en una Sala"
   ],
   [
@@ -106311,7 +106311,7 @@
   ],
   [
     "wf_xtra_exec_in_order",
-    "Complemento Wired: Ejecutar en orden",
+    "Complemento WIRED: Ejecutar en Orden",
     "wf_xtra_exec_in_order desc"
   ],
   [
@@ -106321,17 +106321,17 @@
   ],
   [
     "wf_xtra_filter_furni_by_var",
-    "Filtro Wired: Furnis con la variable más alta/baja",
+    "Filtro WIRED: Furnis con Variable Más Alta/Baja",
     "wf_xtra_filter_furni_by_var desc"
   ],
   [
     "wf_xtra_filter_furni",
-    "Filtro WIRED: Filtrar a X Furni",
+    "Filtro WIRED: Filtrar a X Furnis",
     "wf_xtra_filter_furni desc"
   ],
   [
     "wf_xtra_filter_users_by_var",
-    "Filtro Wired: Usuarios con la variable más alta/baja",
+    "Filtro WIRED: Usuarios con Variable Más Alta/Baja",
     "wf_xtra_filter_users_by_var desc"
   ],
   [
@@ -106356,12 +106356,12 @@
   ],
   [
     "wf_xtra_or_eval",
-    "Wired Complemento: Al menos una condición es verdadera",
+    "Complemento WIRED: Lógica de Condición",
     "wf_xtra_or_eval desc"
   ],
   [
     "wf_xtra_random",
-    "Complemento WIRED: Efecto aleatorio",
+    "Complemento WIRED: Efecto Aleatorio",
     "Sólo un Efecto aleatorio tiene lugar a la vez en esta pila"
   ],
   [
@@ -106371,32 +106371,32 @@
   ],
   [
     "wf_xtra_text_output_username",
-    "Complemento de texto: Ejemplo de nombre",
+    "Complemento de Texto WIRED: Identificar Nombres",
     "wf_xtra_text_output_username desc"
   ],
   [
     "wf_xtra_text_output_variable",
-    "Complemento de texto: Ejemplo de variable",
+    "Complemento de Texto WIRED: Identificar Variables",
     "wf_xtra_text_output_variable desc"
   ],
   [
     "wf_xtra_unseen",
-    "Complemento WIRED: Efecto no visto",
+    "Complemento WIRED: Efecto WIRED No Visto",
     "Sólo un Efecto previamente no usado tiene lugar a la vez en esta pila"
   ],
   [
     "wf_xtra_var_lvlup_system",
-    "Complemento de variable: Sistema de niveles",
+    "Complemento de Variable WIRED: Sistema de Subida de Nivel",
     "wf_xtra_var_lvlup_system desc"
   ],
   [
     "wf_xtra_var_text_connector",
-    "Complemento de variable: Conector de texto",
+    "Complemento de Variable WIRED: Conector de Texto",
     "wf_xtra_var_text_connector desc"
   ],
   [
     "wf_xtra_var_time_util",
-    "Complemento de variable: Utilidades de tiempo",
+    "Complemento de Variable WIRED: Utilidades de Tiempo",
     "wf_xtra_var_time_util desc"
   ],
   [
