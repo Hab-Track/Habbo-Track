@@ -892,6 +892,12 @@
 25fashion02.image=web_promo_small/spromo_25fashion02.png
 25fashion02.text=¡Vente al Estudio de Costura!\n\nEn el estresante mundo de la moda, no se trata solo de diseñar, ¡hay que hacer que las cosas fluyan correctamente! ¿Qué tienes que conseguir? ¡Haz que las máquinas de coser se pongan a funcionar y lograremos que la última colección de Luna McDuck se convierta en realidad!\n\n¿Eres capaz de soportar la presión, reparar las máquinas averiadas y terminar la colección antes de que se acabe el tiempo?\n\nh2. Cómo se juega:\n\n- Acércate a un puesto y siéntate en el taburete blanco.\n- Teclea "*" para encender la máquina.\n- Si el aparato funciona, recibirás una señal de pulgares arriba.\n- Si la máquina está averiada, saldrá humo y se te comunicará qué problema tiene.\n\nMinijuegos:\n\n- Cada puesto cuenta con un minijuego especial que salta cuando hay que repararlo.\n- Se mostrarán dos minijuegos aleatoriamente en cada ronda.\n- Resuelve el minijuego que toque y arreglarás la máquina.\n- Una vez que todos los aparatos estén arreglados y en funcionamiento, ¡siéntate en la silla del despacho (en la oficina) para terminar y ganar!
 25fashion02.title=¡Moda primavera!
+25fashion03.image=web_promo_small/spromo_25fashion03.png
+25fashion03.text=¡Empieza la batalla por Luna!\n\nEn este desafío de moda de altos vuelos, ¡tienes que montar la pasarela perfecta y proclamar tu victoria! Sal a la caza de los elementos adecuados y combínalos hasta que todo encaje con precisión. ¡Crea un espectáculo de moda de impacto que se ajuste al tema!\n\n¿Conseguirás destacar por encima de lxs demás y ganarte el favor de Luna? ¡Que empiece la batalla por el trono de la moda!\n\nCómo se juega:\n\n- El bot te asignará un tema. Tendrás 2:30 m para elegir ocho furnis que vayan con él para la escena de la pasarela.\n - Usa las flechas (< y >) para mostrar las piezas y el botón rosa para seleccionarlas.\n- Cuando lo tengas todo listo, pulsa el botón verde para terminar. \n- Si has conseguido dar con los elementos adecuados, te llevas el premio. \n- Usa el botón rojo para reiniciar el juego.\n- ¿Quieres una pista? ¡Mira en la tienda del Club del Arquitecto para inspirarte! 
+25fashion03.title=¡Moda Primavera!
+25fashion04.image=web_promo_small/spromo_25fashion04.png
+25fashion04.text=Bienvenidxs al Desafío Final: ¡El Reto de la Pasarela!\n\nEl escenario está listo para la última prueba de creatividad. Dos poderosas casas de moda se disputan los talentos de Luna. De ti depende que sus modelos superen la gran prueba final.\n\n¿Se decantará Luna por la sofisticación o romperá moldes con algo superarriesgado?  ¡La pasarela es toda para Luna!\n\nCómo se juega:\n\n- Guía al bot Modelo (junto a Luna McDuck) hasta las baldosas rosas del fondo de la pasarela antes que tu rival.\n- Utiliza las flechas para dirigir a tu modelo.\n- Pisa en las baldosas verdes para ganar bonus y lanzar ropa al paso de tu oponente.\n- ¡Suma más baldosas verdes para tener más opciones de frenar a tu rival!\n- ¡Cuidado! ¡También te pueden lanzar ropa a ti! Si pisas la ropa, te congelarás durante cinco segundos.\n- ¡Quien llegue antes a las baldosas rosas gana!
+25fashion04.title=¡Moda Primavera!
 ACH_PinataBreaker1_badge_name=${ACH_pinatabreaker1_badge_name}
 ACH_PinataBreaker2_badge_name=${ACH_pinatabreaker1_badge_name}
 ACH_PinataBreaker3_badge_name=${ACH_pinatabreaker1_badge_name}
@@ -44926,7 +44932,7 @@ report.status.info.manually_moderated.no_action=La cuenta del usuario que has re
 report.status.info.no_action=Ninguna acción tomada
 report.status.info.reported.date=Fecha en que se reportó
 report.status.info.reported=Denunciado
-report.status.info.sanction_help=Para consultas relacionadas, puedes ponerte en contacto con el <a href="%url%">equipo de soporte de Habbo</a> dentro de los seis meses siguientes.
+report.status.info.sanction_help=Para consultas relacionadas, puedes ponerte en contacto con el <a href="%url%"> equipo de soporte de Habbo</a> dentro de los seis meses siguientes.
 report.status.info.sanction_pending=Esperando revisión
 report.status.info.title=Estado del reporte
 report.status.no_reports=No hay resultados
