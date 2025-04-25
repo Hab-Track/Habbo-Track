@@ -79998,7 +79998,7 @@
       },
       {
         "code": "pixel_walldeco",
-        "name": "Decoração de Parde Base",
+        "name": "Decoração de Parede Base",
         "description": "A atenção está nos detalhes."
       },
       {
@@ -84618,7 +84618,7 @@
       },
       {
         "code": "rare_prize22xmas",
-        "name": "Xmas Anteater",
+        "name": "Tamanduá de Natal",
         "description": "rare_prize22xmas desc"
       },
       {
@@ -84778,7 +84778,7 @@
       },
       {
         "code": "rare_prize24_xmas",
-        "name": "rare_prize24_xmas name",
+        "name": "Lontra de Natal",
         "description": "rare_prize24_xmas desc"
       },
       {
@@ -93989,7 +93989,7 @@
       {
         "code": "rotating_roomdeal388",
         "name": "Pack Fogo-fátuo",
-        "description": "Você conhece os Fogos-fátuos, também conhecidos popularmente como \"boitatá\"? Pois com este pack, você terá um mundo místico cheio deles! Este pack inclui mobis novinhos em folha que você não encontrará em nenhum outro lugar."
+        "description": "Você conhece os Fogos-fátuos, também conhecidos popularmente como \"boitatá\"? Pois com este pack, você terá um mundo místico cheio deles! Este pack inclui mobis que você não encontrará em nenhum outro lugar."
       },
       {
         "code": "rotating_roomdeal389_10c",
@@ -94695,6 +94695,66 @@
         "code": "rotating_roomdeal435",
         "name": "Pack Caça aos Ovos de Páscoa",
         "description": "Reúna seus amigos, porque você tem ovos de Páscoa para encontrar!"
+      },
+      {
+        "code": "rotating_roomdeal436_10c",
+        "name": "Pack País das Maravilhas",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal436_d",
+        "name": "Pack País das Maravilhas",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal436",
+        "name": "Pack País das Maravilhas",
+        "description": "Feliz desaniversário para você! Nesta viagem ao País das Maravilhas só falta uma coisa: Alice."
+      },
+      {
+        "code": "rotating_roomdeal437_10c",
+        "name": "Pack Galeria Habbiana - Sala do Restauro",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal437_d",
+        "name": "Pack Galeria Habbiana - Sala do Restauro",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal437",
+        "name": "Pack Galeria Habbiana - Sala do Restauro",
+        "description": "Obtenha toda a arte que você sempre quis com um desconto incrível!"
+      },
+      {
+        "code": "rotating_roomdeal438_10c",
+        "name": "Pack Galeria Habbiana - Sala Étnica",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal438_d",
+        "name": "Pack Galeria Habbiana - Sala Étnica",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal438",
+        "name": "Pack Galeria Habbiana - Sala Étnica",
+        "description": "Obtenha toda a arte que você sempre quis com um desconto incrível!"
+      },
+      {
+        "code": "rotating_roomdeal439_10c",
+        "name": "Pack Galeria Habbiana - Sala da Balaustrada",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal439_d",
+        "name": "Pack Galeria Habbiana - Sala da Balaustrada",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal439",
+        "name": "Pack Galeria Habbiana - Sala da Balaustrada",
+        "description": "Obtenha toda a arte que você sempre quis com um desconto incrível!"
       },
       {
         "code": "rotating_roomdeal43_10c",
@@ -105813,7 +105873,7 @@
       },
       {
         "code": "wf_act_give_reward",
-        "name": "wf_act_give_reward name",
+        "name": "EFEITO WIRED: Entrega Prêmios",
         "description": "wf_act_give_reward desc"
       },
       {
