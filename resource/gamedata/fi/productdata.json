@@ -32352,6 +32352,16 @@
         "description": ""
       },
       {
+        "code": "cl_r25_heartqueendress_bd",
+        "name": "Herttakuningattaren mekko",
+        "description": ""
+      },
+      {
+        "code": "cl_r25_knightarmor_bd",
+        "name": "Ritarin haarniska",
+        "description": ""
+      },
+      {
         "code": "cl_r25_poshwaistcoat_bd",
         "name": "Tyylikäs liivi",
         "description": ""
@@ -33443,12 +33453,12 @@
       },
       {
         "code": "clothing_alicedress",
-        "name": "clothing_alicedress name",
+        "name": "Liisan mekko",
         "description": "clothing_alicedress desc"
       },
       {
         "code": "clothing_alicehair",
-        "name": "clothing_alicehair name",
+        "name": "Liisan kampaus",
         "description": "clothing_alicehair desc"
       },
       {
@@ -34308,7 +34318,7 @@
       },
       {
         "code": "clothing_chesscrown",
-        "name": "clothing_chesscrown name",
+        "name": "Šakkikruunu",
         "description": "clothing_chesscrown desc"
       },
       {
@@ -34388,7 +34398,7 @@
       },
       {
         "code": "clothing_clocknecklace",
-        "name": "clothing_clocknecklace name",
+        "name": "Kellokaulakoru",
         "description": "clothing_clocknecklace desc"
       },
       {
@@ -34413,7 +34423,7 @@
       },
       {
         "code": "clothing_clubclip",
-        "name": "clothing_clubclip name",
+        "name": "Ristipinni",
         "description": "clothing_clubclip desc"
       },
       {
@@ -34828,7 +34838,7 @@
       },
       {
         "code": "clothing_diamondclip",
-        "name": "clothing_diamondclip name",
+        "name": "Ruutupinni",
         "description": "clothing_diamondclip desc"
       },
       {
@@ -35793,7 +35803,7 @@
       },
       {
         "code": "clothing_heartclip",
-        "name": "clothing_heartclip name",
+        "name": "Herttapinni",
         "description": "clothing_heartclip desc"
       },
       {
@@ -35813,7 +35823,7 @@
       },
       {
         "code": "clothing_hearttrumpet",
-        "name": "clothing_hearttrumpet name",
+        "name": "Herttatrumpetti",
         "description": "clothing_hearttrumpet desc"
       },
       {
@@ -36730,6 +36740,11 @@
         "code": "clothing_net",
         "name": "Bug Net",
         "description": "clothing_net desc"
+      },
+      {
+        "code": "clothing_nft10shillings6p",
+        "name": "Kymmenen šillinkiä ja kuusi penniä",
+        "description": ""
       },
       {
         "code": "clothing_nft2023tuxedo",
@@ -37785,6 +37800,11 @@
         "code": "clothing_nftplainshirt",
         "name": "Tavallinen puuvillapaita",
         "description": "clothing_nftplainshirt desc"
+      },
+      {
+        "code": "clothing_nftplayingcardoutfit",
+        "name": "Pelikorttiasu",
+        "description": ""
       },
       {
         "code": "clothing_nftpompomcardigan",
@@ -41553,12 +41573,12 @@
       },
       {
         "code": "clothing_r25_heartqueendress",
-        "name": "clothing_r25_heartqueendress name",
+        "name": "Herttakuningattaren mekko",
         "description": "clothing_r25_heartqueendress desc"
       },
       {
         "code": "clothing_r25_knightarmor",
-        "name": "clothing_r25_knightarmor name",
+        "name": "Ritarin haarniska",
         "description": "clothing_r25_knightarmor desc"
       },
       {
@@ -42088,7 +42108,7 @@
       },
       {
         "code": "clothing_spadeclip",
-        "name": "clothing_spadeclip name",
+        "name": "Patapinni",
         "description": "clothing_spadeclip desc"
       },
       {
@@ -42258,7 +42278,7 @@
       },
       {
         "code": "clothing_teacuphat",
-        "name": "clothing_teacuphat name",
+        "name": "Teekippopäähine",
         "description": "clothing_teacuphat desc"
       },
       {
@@ -42753,7 +42773,7 @@
       },
       {
         "code": "clothing_woodensword",
-        "name": "clothing_woodensword name",
+        "name": "Puumiekka",
         "description": "clothing_woodensword desc"
       },
       {
@@ -48018,52 +48038,52 @@
       },
       {
         "code": "diamond_painting100",
-        "name": "diamond_painting100 name",
+        "name": "Sacabambaspis-kala",
         "description": "diamond_painting100 desc"
       },
       {
         "code": "diamond_painting101",
-        "name": "diamond_painting101 name",
+        "name": "Habbo-ketjua pukeva vanha mies",
         "description": "diamond_painting101 desc"
       },
       {
         "code": "diamond_painting102",
-        "name": "diamond_painting102 name",
+        "name": "The Dark Side of the Bobba",
         "description": "diamond_painting102 desc"
       },
       {
         "code": "diamond_painting103",
-        "name": "diamond_painting103 name",
+        "name": "Habbo-tanssija",
         "description": "diamond_painting103 desc"
       },
       {
         "code": "diamond_painting104",
-        "name": "diamond_painting104 name",
+        "name": "Willendorfin Venus",
         "description": "diamond_painting104 desc"
       },
       {
         "code": "diamond_painting105",
-        "name": "diamond_painting105 name",
+        "name": "Speak Later (Habbo's Version)",
         "description": "diamond_painting105 desc"
       },
       {
         "code": "diamond_painting106",
-        "name": "diamond_painting106 name",
+        "name": "My Little Ducky",
         "description": "diamond_painting106 desc"
       },
       {
         "code": "diamond_painting107",
-        "name": "diamond_painting107 name",
+        "name": "Obliteration-plastyk",
         "description": "diamond_painting107 desc"
       },
       {
         "code": "diamond_painting108",
-        "name": "diamond_painting108 name",
+        "name": "Habbo-hevonen",
         "description": "diamond_painting108 desc"
       },
       {
         "code": "diamond_painting109",
-        "name": "diamond_painting109 name",
+        "name": "Höyrylaiva Frank",
         "description": "diamond_painting109 desc"
       },
       {
@@ -48073,12 +48093,12 @@
       },
       {
         "code": "diamond_painting110",
-        "name": "diamond_painting110 name",
+        "name": "Habbon Anne",
         "description": "diamond_painting110 desc"
       },
       {
         "code": "diamond_painting111",
-        "name": "diamond_painting111 name",
+        "name": "Pikselityttö",
         "description": "diamond_painting111 desc"
       },
       {
@@ -75167,6 +75187,21 @@
         "description": "nft_h24_xmas_snowhotel desc"
       },
       {
+        "code": "nft_h25_alhambrahookah",
+        "name": "Alhambra-kuplajuomapiippu",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_alhambrapillowpile",
+        "name": "Alhambra-tyynyt",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_alicefigure",
+        "name": "Liisa-keräilyfiguuri",
+        "description": ""
+      },
+      {
         "code": "nft_h25_boogieblast_egg",
         "name": "Diskodinon muna",
         "description": "nft_h25_boogieblast_egg desc"
@@ -75197,9 +75232,24 @@
         "description": "nft_h25_boogieblast_tile desc"
       },
       {
+        "code": "nft_h25_caterpillarfigure",
+        "name": "Kaalimato-keräilyfiguuri",
+        "description": ""
+      },
+      {
         "code": "nft_h25_cb_collchair",
         "name": "Keräilijän nojatuoli",
         "description": "nft_h25_cb_collchair desc"
+      },
+      {
+        "code": "nft_h25_cheshirecatfigure",
+        "name": "Veijarikissa-keräilyfiguuri",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_cheshiregrin",
+        "name": "Veijarikissan irvistys",
+        "description": ""
       },
       {
         "code": "nft_h25_collbench",
@@ -75295,6 +75345,11 @@
         "code": "nft_h25_haf_reddevil",
         "name": "Punaisten pirujen toimintafiguuri",
         "description": "nft_h25_haf_reddevil desc"
+      },
+      {
+        "code": "nft_h25_hatterfigure",
+        "name": "Hatuntekijä-keräilyfiguuri",
+        "description": ""
       },
       {
         "code": "nft_h25_owlsculpture",
@@ -107487,153 +107542,163 @@
         "description": "Habbo Hotel"
       },
       {
+        "code": "wland_r25_heartrabbit_bd",
+        "name": "Herttakani",
+        "description": ""
+      },
+      {
+        "code": "wland_r25_mirrortele_bd",
+        "name": "Ihmemaan peili",
+        "description": ""
+      },
+      {
         "code": "wonderland_c25_cardthrone",
-        "name": "wonderland_c25_cardthrone name",
+        "name": "Korttitalovaltaistuin",
         "description": "wonderland_c25_cardthrone desc"
       },
       {
         "code": "wonderland_c25_castletower",
-        "name": "wonderland_c25_castletower name",
+        "name": "Ruusuinen linnan torni",
         "description": "wonderland_c25_castletower desc"
       },
       {
         "code": "wonderland_c25_castlewall",
-        "name": "wonderland_c25_castlewall name",
+        "name": "Ruusuinen linnan muuri",
         "description": "wonderland_c25_castlewall desc"
       },
       {
         "code": "wonderland_c25_clubcard",
-        "name": "wonderland_c25_clubcard name",
+        "name": "Ristikortti",
         "description": "wonderland_c25_clubcard desc"
       },
       {
         "code": "wonderland_c25_crackable",
-        "name": "wonderland_c25_crackable name",
+        "name": "Valkoisen kuningattaren viesti",
         "description": "wonderland_c25_crackable desc"
       },
       {
         "code": "wonderland_c25_crackableb",
-        "name": "wonderland_c25_crackableb name",
+        "name": "Valkoisen kuningattaren viesti",
         "description": "wonderland_c25_crackableb desc"
       },
       {
         "code": "wonderland_c25_diamondcard",
-        "name": "wonderland_c25_diamondcard name",
+        "name": "Ruutukortti",
         "description": "wonderland_c25_diamondcard desc"
       },
       {
         "code": "wonderland_c25_drinkme",
-        "name": "wonderland_c25_drinkme name",
+        "name": "Juo minut-pullo",
         "description": "wonderland_c25_drinkme desc"
       },
       {
         "code": "wonderland_c25_eatme",
-        "name": "wonderland_c25_eatme name",
+        "name": "Syö minut-kakku",
         "description": "wonderland_c25_eatme desc"
       },
       {
         "code": "wonderland_c25_floor",
-        "name": "wonderland_c25_floor name",
+        "name": "Korttilattia",
         "description": "wonderland_c25_floor desc"
       },
       {
         "code": "wonderland_c25_grass",
-        "name": "wonderland_c25_grass name",
+        "name": "Ihmemaan nurmikko",
         "description": "wonderland_c25_grass desc"
       },
       {
         "code": "wonderland_c25_hattercrafting",
-        "name": "wonderland_c25_hattercrafting name",
+        "name": "Hatuntekijä-tehtailupöytä",
         "description": "wonderland_c25_hattercrafting desc"
       },
       {
         "code": "wonderland_c25_heartcard",
-        "name": "wonderland_c25_heartcard name",
+        "name": "Herttakortti",
         "description": "wonderland_c25_heartcard desc"
       },
       {
         "code": "wonderland_c25_heartcardguard",
-        "name": "wonderland_c25_heartcardguard name",
+        "name": "Herttavartija",
         "description": "wonderland_c25_heartcardguard desc"
       },
       {
         "code": "wonderland_c25_longneckalice",
-        "name": "wonderland_c25_longneckalice name",
+        "name": "Pitkäkaulainen Liisa",
         "description": "wonderland_c25_longneckalice desc"
       },
       {
         "code": "wonderland_c25_paintbrush",
-        "name": "wonderland_c25_paintbrush name",
+        "name": "Sivellin punaisella maalilla",
         "description": "wonderland_c25_paintbrush desc"
       },
       {
         "code": "wonderland_c25_paintedbush",
-        "name": "wonderland_c25_paintedbush name",
+        "name": "Maalattu punaruusupensas",
         "description": "wonderland_c25_paintedbush desc"
       },
       {
         "code": "wonderland_c25_redcrackable",
-        "name": "wonderland_c25_redcrackable name",
+        "name": "Punaisen kuningattaren viesti",
         "description": "wonderland_c25_redcrackable desc"
       },
       {
         "code": "wonderland_c25_redcrackableb",
-        "name": "wonderland_c25_redcrackableb name",
+        "name": "Punaisen kuningattaren viesti",
         "description": "wonderland_c25_redcrackableb desc"
       },
       {
         "code": "wonderland_c25_redqueen",
-        "name": "wonderland_c25_redqueen name",
+        "name": "Punainen kuningatar",
         "description": "wonderland_c25_redqueen desc"
       },
       {
         "code": "wonderland_c25_redroseclock",
-        "name": "wonderland_c25_redroseclock name",
+        "name": "Punaruusuinen kaappikello",
         "description": "wonderland_c25_redroseclock desc"
       },
       {
         "code": "wonderland_c25_rosebush",
-        "name": "wonderland_c25_rosebush name",
+        "name": "Valkoruusupensas",
         "description": "wonderland_c25_rosebush desc"
       },
       {
         "code": "wonderland_c25_spadecard",
-        "name": "wonderland_c25_spadecard name",
+        "name": "Patakortti",
         "description": "wonderland_c25_spadecard desc"
       },
       {
         "code": "wonderland_c25_spadecardguard",
-        "name": "wonderland_c25_spadecardguard name",
+        "name": "Patavartija",
         "description": "wonderland_c25_spadecardguard desc"
       },
       {
         "code": "wonderland_c25_talkingflowers",
-        "name": "wonderland_c25_talkingflowers name",
+        "name": "Juoruilevat kukkaset",
         "description": "wonderland_c25_talkingflowers desc"
       },
       {
         "code": "wonderland_c25_teacup",
-        "name": "wonderland_c25_teacup name",
+        "name": "Teekestien kippo",
         "description": "wonderland_c25_teacup desc"
       },
       {
         "code": "wonderland_c25_teapot",
-        "name": "wonderland_c25_teapot name",
+        "name": "Teekestien pannu",
         "description": "wonderland_c25_teapot desc"
       },
       {
         "code": "wonderland_c25_whiteroseclock",
-        "name": "wonderland_c25_whiteroseclock name",
+        "name": "Valkoruusuinen kaappikello",
         "description": "wonderland_c25_whiteroseclock desc"
       },
       {
         "code": "wonderland_r25_heartrabbit",
-        "name": "wonderland_r25_heartrabbit name",
+        "name": "Herttakani",
         "description": "wonderland_r25_heartrabbit desc"
       },
       {
         "code": "wonderland_r25_mirrortele",
-        "name": "wonderland_r25_mirrortele name",
+        "name": "Ihmemaan peili",
         "description": "wonderland_r25_mirrortele desc"
       },
       {

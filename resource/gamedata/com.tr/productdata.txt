@@ -32760,6 +32760,16 @@
     ""
   ],
   [
+    "cl_r25_heartqueendress_bd",
+    "Kupa Kızı Elbisesi",
+    ""
+  ],
+  [
+    "cl_r25_knightarmor_bd",
+    "Şövalye Zırhı",
+    ""
+  ],
+  [
     "cl_r25_poshwaistcoat_bd",
     "Havalı Yelek",
     ""
@@ -33856,12 +33866,12 @@
   ],
   [
     "clothing_alicedress",
-    "clothing_alicedress name",
+    "Alice'in Elbisesi",
     "clothing_alicedress desc"
   ],
   [
     "clothing_alicehair",
-    "clothing_alicehair name",
+    "Alice'in Saçı ",
     "clothing_alicehair desc"
   ],
   [
@@ -34721,7 +34731,7 @@
   ],
   [
     "clothing_chesscrown",
-    "clothing_chesscrown name",
+    "Satranç Tacı ",
     "clothing_chesscrown desc"
   ],
   [
@@ -34801,7 +34811,7 @@
   ],
   [
     "clothing_clocknecklace",
-    "clothing_clocknecklace name",
+    "Saat Kolyesi",
     "clothing_clocknecklace desc"
   ],
   [
@@ -34826,7 +34836,7 @@
   ],
   [
     "clothing_clubclip",
-    "clothing_clubclip name",
+    "Sinek Tokası ",
     "clothing_clubclip desc"
   ],
   [
@@ -35241,7 +35251,7 @@
   ],
   [
     "clothing_diamondclip",
-    "clothing_diamondclip name",
+    "Karo Tokası ",
     "clothing_diamondclip desc"
   ],
   [
@@ -36206,7 +36216,7 @@
   ],
   [
     "clothing_heartclip",
-    "clothing_heartclip name",
+    "Kupa Tokası ",
     "clothing_heartclip desc"
   ],
   [
@@ -36226,7 +36236,7 @@
   ],
   [
     "clothing_hearttrumpet",
-    "clothing_hearttrumpet name",
+    "Kupa Trompeti",
     "clothing_hearttrumpet desc"
   ],
   [
@@ -37143,6 +37153,11 @@
     "clothing_net",
     "Böcek Ağı",
     "clothing_net desc"
+  ],
+  [
+    "clothing_nft10shillings6p",
+    "On Şilin Altı Pens",
+    ""
   ],
   [
     "clothing_nft2023tuxedo",
@@ -38198,6 +38213,11 @@
     "clothing_nftplainshirt",
     "Düz Pamuklu Tişört",
     "clothing_nftplainshirt desc"
+  ],
+  [
+    "clothing_nftplayingcardoutfit",
+    "İskambil Kartı Kıyafeti",
+    ""
   ],
   [
     "clothing_nftpompomcardigan",
@@ -41966,12 +41986,12 @@
   ],
   [
     "clothing_r25_heartqueendress",
-    "clothing_r25_heartqueendress name",
+    "Kupa Kızı Elbisesi",
     "clothing_r25_heartqueendress desc"
   ],
   [
     "clothing_r25_knightarmor",
-    "clothing_r25_knightarmor name",
+    "Şövalye Zırhı",
     "clothing_r25_knightarmor desc"
   ],
   [
@@ -42501,7 +42521,7 @@
   ],
   [
     "clothing_spadeclip",
-    "clothing_spadeclip name",
+    "Maça Tokası ",
     "clothing_spadeclip desc"
   ],
   [
@@ -42671,7 +42691,7 @@
   ],
   [
     "clothing_teacuphat",
-    "clothing_teacuphat name",
+    "Çaydanlık Şapka ",
     "clothing_teacuphat desc"
   ],
   [
@@ -43166,7 +43186,7 @@
   ],
   [
     "clothing_woodensword",
-    "clothing_woodensword name",
+    "Tahta Kılıç ",
     "clothing_woodensword desc"
   ],
   [
@@ -56731,52 +56751,52 @@
   ],
   [
     "diamond_painting100",
-    "diamond_painting100 name",
+    "Sacabambaspis Balığı ",
     "diamond_painting100 desc"
   ],
   [
     "diamond_painting101",
-    "diamond_painting101 name",
+    "Habbo Zincirli Yaşlı Adam",
     "diamond_painting101 desc"
   ],
   [
     "diamond_painting102",
-    "diamond_painting102 name",
+    "Bobba'nın Karanlık Yüzü ",
     "diamond_painting102 desc"
   ],
   [
     "diamond_painting103",
-    "diamond_painting103 name",
+    "Habbo Balerini",
     "diamond_painting103 desc"
   ],
   [
     "diamond_painting104",
-    "diamond_painting104 name",
+    "Habbo Venüs'ü",
     "diamond_painting104 desc"
   ],
   [
     "diamond_painting105",
-    "diamond_painting105 name",
+    "Speak Later (Habbo Versiyonu) Tablosu",
     "diamond_painting105 desc"
   ],
   [
     "diamond_painting106",
-    "diamond_painting106 name",
+    "My Little Ducky Tablosu",
     "diamond_painting106 desc"
   ],
   [
     "diamond_painting107",
-    "diamond_painting107 name",
+    "Çılgın Kapsül Sandalye",
     "diamond_painting107 desc"
   ],
   [
     "diamond_painting108",
-    "diamond_painting108 name",
+    "Habbo At Tablosu",
     "diamond_painting108 desc"
   ],
   [
     "diamond_painting109",
-    "diamond_painting109 name",
+    "Frankie ve Buharlı Gemisi Tablosu",
     "diamond_painting109 desc"
   ],
   [
@@ -56786,12 +56806,12 @@
   ],
   [
     "diamond_painting110",
-    "diamond_painting110 name",
+    "Habbo'lu Anne Portresi",
     "diamond_painting110 desc"
   ],
   [
     "diamond_painting111",
-    "diamond_painting111 name",
+    "Piksel Sütçü Kız Tablosu",
     "diamond_painting111 desc"
   ],
   [
@@ -84510,6 +84530,21 @@
     "nft_h24_xmas_snowhotel desc"
   ],
   [
+    "nft_h25_alhambrahookah",
+    "Alhambra Kabarcıklı Meyve Suyu Nargilesi",
+    ""
+  ],
+  [
+    "nft_h25_alhambrapillowpile",
+    "Alhambra Yastıkları",
+    ""
+  ],
+  [
+    "nft_h25_alicefigure",
+    "Alice Koleksiyon Figürü",
+    ""
+  ],
+  [
     "nft_h25_boogieblast_egg",
     "Disko Dino Yumurtası",
     "nft_h25_boogieblast_egg desc"
@@ -84540,9 +84575,24 @@
     "nft_h25_boogieblast_tile desc"
   ],
   [
+    "nft_h25_caterpillarfigure",
+    "Tırtıl Koleksiyon Figürü",
+    ""
+  ],
+  [
     "nft_h25_cb_collchair",
     "Koleksiyoncu Koltuğu",
     "nft_h25_cb_collchair desc"
+  ],
+  [
+    "nft_h25_cheshirecatfigure",
+    "Cheshire Kedisi Koleksiyon Figürü",
+    ""
+  ],
+  [
+    "nft_h25_cheshiregrin",
+    "Cheshire Kedisi Gülümsemesi",
+    ""
   ],
   [
     "nft_h25_collbench",
@@ -84638,6 +84688,11 @@
     "nft_h25_haf_reddevil",
     "Kırmızı Şeytan Aksiyon Figürü",
     "nft_h25_haf_reddevil desc"
+  ],
+  [
+    "nft_h25_hatterfigure",
+    "Şapkacı Koleksiyon Figürü",
+    ""
   ],
   [
     "nft_h25_owlsculpture",
@@ -117670,153 +117725,163 @@
     "Habbo Hotel"
   ],
   [
+    "wland_r25_heartrabbit_bd",
+    "Beyaz Tavşan",
+    ""
+  ],
+  [
+    "wland_r25_mirrortele_bd",
+    "Harikalar Diyarı Aynası",
+    ""
+  ],
+  [
     "wonderland_c25_cardthrone",
-    "wonderland_c25_cardthrone name",
+    "İskambil Tahtı ",
     "wonderland_c25_cardthrone desc"
   ],
   [
     "wonderland_c25_castletower",
-    "wonderland_c25_castletower name",
+    "Güllü Kule",
     "wonderland_c25_castletower desc"
   ],
   [
     "wonderland_c25_castlewall",
-    "wonderland_c25_castlewall name",
+    "Güllü Kale Surları ",
     "wonderland_c25_castlewall desc"
   ],
   [
     "wonderland_c25_clubcard",
-    "wonderland_c25_clubcard name",
+    "Sinek Kâğıdı",
     "wonderland_c25_clubcard desc"
   ],
   [
     "wonderland_c25_crackable",
-    "wonderland_c25_crackable name",
+    "Beyaz Kraliçe Zarfı ",
     "wonderland_c25_crackable desc"
   ],
   [
     "wonderland_c25_crackableb",
-    "wonderland_c25_crackableb name",
+    "Beyaz Kraliçe Zarfı ",
     "wonderland_c25_crackableb desc"
   ],
   [
     "wonderland_c25_diamondcard",
-    "wonderland_c25_diamondcard name",
+    "Karo Kâğıdı",
     "wonderland_c25_diamondcard desc"
   ],
   [
     "wonderland_c25_drinkme",
-    "wonderland_c25_drinkme name",
+    "İç Beni Şişe",
     "wonderland_c25_drinkme desc"
   ],
   [
     "wonderland_c25_eatme",
-    "wonderland_c25_eatme name",
+    "Ye Beni Pasta",
     "wonderland_c25_eatme desc"
   ],
   [
     "wonderland_c25_floor",
-    "wonderland_c25_floor name",
+    "İskambil Döşeme ",
     "wonderland_c25_floor desc"
   ],
   [
     "wonderland_c25_grass",
-    "wonderland_c25_grass name",
+    "Harikalar Diyarı Çimeni",
     "wonderland_c25_grass desc"
   ],
   [
     "wonderland_c25_hattercrafting",
-    "wonderland_c25_hattercrafting name",
+    "Şapkacı'nın çalışma masası",
     "wonderland_c25_hattercrafting desc"
   ],
   [
     "wonderland_c25_heartcard",
-    "wonderland_c25_heartcard name",
+    "Kupa Kâğıdı",
     "wonderland_c25_heartcard desc"
   ],
   [
     "wonderland_c25_heartcardguard",
-    "wonderland_c25_heartcardguard name",
+    "Kupa Gardiyanı",
     "wonderland_c25_heartcardguard desc"
   ],
   [
     "wonderland_c25_longneckalice",
-    "wonderland_c25_longneckalice name",
+    "Uzun Boyunlu Alice",
     "wonderland_c25_longneckalice desc"
   ],
   [
     "wonderland_c25_paintbrush",
-    "wonderland_c25_paintbrush name",
+    "Kirli Kırmızı Fırça ",
     "wonderland_c25_paintbrush desc"
   ],
   [
     "wonderland_c25_paintedbush",
-    "wonderland_c25_paintedbush name",
+    "Boyalı Kırmızı Gül Çalısı ",
     "wonderland_c25_paintedbush desc"
   ],
   [
     "wonderland_c25_redcrackable",
-    "wonderland_c25_redcrackable name",
+    "Kırmızı Kraliçe Zarfı ",
     "wonderland_c25_redcrackable desc"
   ],
   [
     "wonderland_c25_redcrackableb",
-    "wonderland_c25_redcrackableb name",
+    "Kırmızı Kraliçe Zarfı ",
     "wonderland_c25_redcrackableb desc"
   ],
   [
     "wonderland_c25_redqueen",
-    "wonderland_c25_redqueen name",
+    "Kırmızı Kraliçe",
     "wonderland_c25_redqueen desc"
   ],
   [
     "wonderland_c25_redroseclock",
-    "wonderland_c25_redroseclock name",
+    "Kırmızı Gül Dolaplı Saat",
     "wonderland_c25_redroseclock desc"
   ],
   [
     "wonderland_c25_rosebush",
-    "wonderland_c25_rosebush name",
+    "Beyaz Gül Çalısı",
     "wonderland_c25_rosebush desc"
   ],
   [
     "wonderland_c25_spadecard",
-    "wonderland_c25_spadecard name",
+    "Maça Kâğıdı",
     "wonderland_c25_spadecard desc"
   ],
   [
     "wonderland_c25_spadecardguard",
-    "wonderland_c25_spadecardguard name",
+    "Maça Gardiyanı",
     "wonderland_c25_spadecardguard desc"
   ],
   [
     "wonderland_c25_talkingflowers",
-    "wonderland_c25_talkingflowers name",
+    "Geveze Çiçekler",
     "wonderland_c25_talkingflowers desc"
   ],
   [
     "wonderland_c25_teacup",
-    "wonderland_c25_teacup name",
+    "Çay Partisi Fincanı ",
     "wonderland_c25_teacup desc"
   ],
   [
     "wonderland_c25_teapot",
-    "wonderland_c25_teapot name",
+    "Çay Partisi Çaydanlığı",
     "wonderland_c25_teapot desc"
   ],
   [
     "wonderland_c25_whiteroseclock",
-    "wonderland_c25_whiteroseclock name",
+    "Beyaz Gül Dolaplı Saat",
     "wonderland_c25_whiteroseclock desc"
   ],
   [
     "wonderland_r25_heartrabbit",
-    "wonderland_r25_heartrabbit name",
+    "Beyaz Tavşan",
     "wonderland_r25_heartrabbit desc"
   ],
   [
     "wonderland_r25_mirrortele",
-    "wonderland_r25_mirrortele name",
+    "Harikalar Diyarı Aynası",
     "wonderland_r25_mirrortele desc"
   ],
   [

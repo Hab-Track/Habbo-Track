@@ -30875,6 +30875,16 @@
     ""
   ],
   [
+    "cl_r25_heartqueendress_bd",
+    "Hartenkoningin Jurk",
+    ""
+  ],
+  [
+    "cl_r25_knightarmor_bd",
+    "Ridder Pantser Pak",
+    ""
+  ],
+  [
     "cl_r25_poshwaistcoat_bd",
     "Chique Gilet",
     ""
@@ -31966,12 +31976,12 @@
   ],
   [
     "clothing_alicedress",
-    "clothing_alicedress name",
+    "De Jurk van Alice",
     "clothing_alicedress desc"
   ],
   [
     "clothing_alicehair",
-    "clothing_alicehair name",
+    "Alice´s Kapsel",
     "clothing_alicehair desc"
   ],
   [
@@ -32831,7 +32841,7 @@
   ],
   [
     "clothing_chesscrown",
-    "clothing_chesscrown name",
+    "Schaak Kroon",
     "clothing_chesscrown desc"
   ],
   [
@@ -32911,7 +32921,7 @@
   ],
   [
     "clothing_clocknecklace",
-    "clothing_clocknecklace name",
+    "Ketting met Klok",
     "clothing_clocknecklace desc"
   ],
   [
@@ -32936,7 +32946,7 @@
   ],
   [
     "clothing_clubclip",
-    "clothing_clubclip name",
+    "Klaveren Haar Clip",
     "clothing_clubclip desc"
   ],
   [
@@ -33356,7 +33366,7 @@
   ],
   [
     "clothing_diamondclip",
-    "clothing_diamondclip name",
+    "Ruiten Haar Clip",
     "clothing_diamondclip desc"
   ],
   [
@@ -34321,7 +34331,7 @@
   ],
   [
     "clothing_heartclip",
-    "clothing_heartclip name",
+    "Hart Haar Clip",
     "clothing_heartclip desc"
   ],
   [
@@ -34341,7 +34351,7 @@
   ],
   [
     "clothing_hearttrumpet",
-    "clothing_hearttrumpet name",
+    "Trompet Met Hartje",
     "clothing_hearttrumpet desc"
   ],
   [
@@ -35263,6 +35273,11 @@
     "clothing_net",
     "Bug Net",
     "clothing_net desc"
+  ],
+  [
+    "clothing_nft10shillings6p",
+    "Tien Gulden en Zes Cent",
+    ""
   ],
   [
     "clothing_nft2023tuxedo",
@@ -36318,6 +36333,11 @@
     "clothing_nftplainshirt",
     "Effen Katoenen Shirt",
     "clothing_nftplainshirt desc"
+  ],
+  [
+    "clothing_nftplayingcardoutfit",
+    "Speelkaarten Outfit",
+    ""
   ],
   [
     "clothing_nftpompomcardigan",
@@ -40086,12 +40106,12 @@
   ],
   [
     "clothing_r25_heartqueendress",
-    "clothing_r25_heartqueendress name",
+    "Hartenkoningin Jurk",
     "clothing_r25_heartqueendress desc"
   ],
   [
     "clothing_r25_knightarmor",
-    "clothing_r25_knightarmor name",
+    "Ridder Pantser Pak",
     "clothing_r25_knightarmor desc"
   ],
   [
@@ -40621,7 +40641,7 @@
   ],
   [
     "clothing_spadeclip",
-    "clothing_spadeclip name",
+    "Schoppen Clip",
     "clothing_spadeclip desc"
   ],
   [
@@ -40791,7 +40811,7 @@
   ],
   [
     "clothing_teacuphat",
-    "clothing_teacuphat name",
+    "Theekopjes Hoed",
     "clothing_teacuphat desc"
   ],
   [
@@ -41286,7 +41306,7 @@
   ],
   [
     "clothing_woodensword",
-    "clothing_woodensword name",
+    "Houten Zwaard",
     "clothing_woodensword desc"
   ],
   [
@@ -47731,52 +47751,52 @@
   ],
   [
     "diamond_painting100",
-    "diamond_painting100 name",
+    "Sacabambaspis-vis",
     "diamond_painting100 desc"
   ],
   [
     "diamond_painting101",
-    "diamond_painting101 name",
+    "Oude Man met een Habbo Ketting",
     "diamond_painting101 desc"
   ],
   [
     "diamond_painting102",
-    "diamond_painting102 name",
+    "De Donkere Kant van de Bobba",
     "diamond_painting102 desc"
   ],
   [
     "diamond_painting103",
-    "diamond_painting103 name",
+    "Habbo Danser",
     "diamond_painting103 desc"
   ],
   [
     "diamond_painting104",
-    "diamond_painting104 name",
+    "Venus van Habbo",
     "diamond_painting104 desc"
   ],
   [
     "diamond_painting105",
-    "diamond_painting105 name",
+    "Speak Later (Habbo Versie)",
     "diamond_painting105 desc"
   ],
   [
     "diamond_painting106",
-    "diamond_painting106 name",
+    "My Little Ducky",
     "diamond_painting106 desc"
   ],
   [
     "diamond_painting107",
-    "diamond_painting107 name",
+    "Kuipstoel met Gekleurde Stippen",
     "diamond_painting107 desc"
   ],
   [
     "diamond_painting108",
-    "diamond_painting108 name",
+    "Habbo Paarden Schilderij",
     "diamond_painting108 desc"
   ],
   [
     "diamond_painting109",
-    "diamond_painting109 name",
+    "Stoomboot Frankie",
     "diamond_painting109 desc"
   ],
   [
@@ -47786,12 +47806,12 @@
   ],
   [
     "diamond_painting110",
-    "diamond_painting110 name",
+    "Anne van Habbo",
     "diamond_painting110 desc"
   ],
   [
     "diamond_painting111",
-    "diamond_painting111 name",
+    "Het Pixel Meisje",
     "diamond_painting111 desc"
   ],
   [
@@ -74860,6 +74880,21 @@
     "nft_h24_xmas_snowhotel desc"
   ],
   [
+    "nft_h25_alhambrahookah",
+    "Alhambra Bubble Juice Pijp",
+    ""
+  ],
+  [
+    "nft_h25_alhambrapillowpile",
+    "Alhambra Kussens",
+    ""
+  ],
+  [
+    "nft_h25_alicefigure",
+    "Alice Collectible Poppetje",
+    ""
+  ],
+  [
     "nft_h25_boogieblast_egg",
     "Disco Dino Ei",
     "nft_h25_boogieblast_egg desc"
@@ -74890,9 +74925,24 @@
     "nft_h25_boogieblast_tile desc"
   ],
   [
+    "nft_h25_caterpillarfigure",
+    "Rups Collectible Poppetje",
+    ""
+  ],
+  [
     "nft_h25_cb_collchair",
     "Collectors Armstoel",
     "nft_h25_cb_collchair desc"
+  ],
+  [
+    "nft_h25_cheshirecatfigure",
+    "Chesire Kat Collectible Poppetje",
+    ""
+  ],
+  [
+    "nft_h25_cheshiregrin",
+    "Chesire Kat Grijns",
+    ""
   ],
   [
     "nft_h25_collbench",
@@ -74988,6 +75038,11 @@
     "nft_h25_haf_reddevil",
     "Rode Duivel Actiefiguur",
     "nft_h25_haf_reddevil desc"
+  ],
+  [
+    "nft_h25_hatterfigure",
+    "Hoedenmaker Collectible Poppetje",
+    ""
   ],
   [
     "nft_h25_owlsculpture",
@@ -107440,153 +107495,163 @@
     "Habbo Hotel"
   ],
   [
+    "wland_r25_heartrabbit_bd",
+    "Witte Hartenkonijn",
+    ""
+  ],
+  [
+    "wland_r25_mirrortele_bd",
+    "Wonderland Spiegel",
+    ""
+  ],
+  [
     "wonderland_c25_cardthrone",
-    "wonderland_c25_cardthrone name",
+    "Troon van Kaarten",
     "wonderland_c25_cardthrone desc"
   ],
   [
     "wonderland_c25_castletower",
-    "wonderland_c25_castletower name",
+    "Kasteeltoren met Rozenstruik",
     "wonderland_c25_castletower desc"
   ],
   [
     "wonderland_c25_castlewall",
-    "wonderland_c25_castlewall name",
+    "Kasteelmuur met Rozenstruik",
     "wonderland_c25_castlewall desc"
   ],
   [
     "wonderland_c25_clubcard",
-    "wonderland_c25_clubcard name",
+    "Klaverenkaart",
     "wonderland_c25_clubcard desc"
   ],
   [
     "wonderland_c25_crackable",
-    "wonderland_c25_crackable name",
+    "Witte Dame Envelop",
     "wonderland_c25_crackable desc"
   ],
   [
     "wonderland_c25_crackableb",
-    "wonderland_c25_crackableb name",
+    "Witte Dame Envelop",
     "wonderland_c25_crackableb desc"
   ],
   [
     "wonderland_c25_diamondcard",
-    "wonderland_c25_diamondcard name",
+    "Ruitenkaart",
     "wonderland_c25_diamondcard desc"
   ],
   [
     "wonderland_c25_drinkme",
-    "wonderland_c25_drinkme name",
+    "Drink Mij Fles",
     "wonderland_c25_drinkme desc"
   ],
   [
     "wonderland_c25_eatme",
-    "wonderland_c25_eatme name",
+    "Eet Mij Taartpunt",
     "wonderland_c25_eatme desc"
   ],
   [
     "wonderland_c25_floor",
-    "wonderland_c25_floor name",
+    "Kaartenvloer",
     "wonderland_c25_floor desc"
   ],
   [
     "wonderland_c25_grass",
-    "wonderland_c25_grass name",
+    "Wonderland Gras",
     "wonderland_c25_grass desc"
   ],
   [
     "wonderland_c25_hattercrafting",
-    "wonderland_c25_hattercrafting name",
+    "Hoedenmaker Craft Tafel",
     "wonderland_c25_hattercrafting desc"
   ],
   [
     "wonderland_c25_heartcard",
-    "wonderland_c25_heartcard name",
+    "Hartenkaart",
     "wonderland_c25_heartcard desc"
   ],
   [
     "wonderland_c25_heartcardguard",
-    "wonderland_c25_heartcardguard name",
+    "Hartenkaart Bewaker",
     "wonderland_c25_heartcardguard desc"
   ],
   [
     "wonderland_c25_longneckalice",
-    "wonderland_c25_longneckalice name",
+    "Langnek Alice",
     "wonderland_c25_longneckalice desc"
   ],
   [
     "wonderland_c25_paintbrush",
-    "wonderland_c25_paintbrush name",
+    "Gevlekte rode kwast",
     "wonderland_c25_paintbrush desc"
   ],
   [
     "wonderland_c25_paintedbush",
-    "wonderland_c25_paintedbush name",
+    "Geverfde Rode Rozenstruik",
     "wonderland_c25_paintedbush desc"
   ],
   [
     "wonderland_c25_redcrackable",
-    "wonderland_c25_redcrackable name",
+    "Rode Dame Envelop",
     "wonderland_c25_redcrackable desc"
   ],
   [
     "wonderland_c25_redcrackableb",
-    "wonderland_c25_redcrackableb name",
+    "Rode Dame Envelop",
     "wonderland_c25_redcrackableb desc"
   ],
   [
     "wonderland_c25_redqueen",
-    "wonderland_c25_redqueen name",
+    "Rode Dame",
     "wonderland_c25_redqueen desc"
   ],
   [
     "wonderland_c25_redroseclock",
-    "wonderland_c25_redroseclock name",
+    "Rode Roos Grootvaders Klok",
     "wonderland_c25_redroseclock desc"
   ],
   [
     "wonderland_c25_rosebush",
-    "wonderland_c25_rosebush name",
+    "Witte Rozenstruik",
     "wonderland_c25_rosebush desc"
   ],
   [
     "wonderland_c25_spadecard",
-    "wonderland_c25_spadecard name",
+    "Schoppenkaart",
     "wonderland_c25_spadecard desc"
   ],
   [
     "wonderland_c25_spadecardguard",
-    "wonderland_c25_spadecardguard name",
+    "Schoppenkaart Bewaker",
     "wonderland_c25_spadecardguard desc"
   ],
   [
     "wonderland_c25_talkingflowers",
-    "wonderland_c25_talkingflowers name",
+    "Babbelende Bloemen",
     "wonderland_c25_talkingflowers desc"
   ],
   [
     "wonderland_c25_teacup",
-    "wonderland_c25_teacup name",
+    "Theekrans Kopje",
     "wonderland_c25_teacup desc"
   ],
   [
     "wonderland_c25_teapot",
-    "wonderland_c25_teapot name",
+    "Theekrans Theepot",
     "wonderland_c25_teapot desc"
   ],
   [
     "wonderland_c25_whiteroseclock",
-    "wonderland_c25_whiteroseclock name",
+    "Witte Roos Grootvaders Klok",
     "wonderland_c25_whiteroseclock desc"
   ],
   [
     "wonderland_r25_heartrabbit",
-    "wonderland_r25_heartrabbit name",
+    "Witte Hartenkonijn",
     "wonderland_r25_heartrabbit desc"
   ],
   [
     "wonderland_r25_mirrortele",
-    "wonderland_r25_mirrortele name",
+    "Wonderland Spiegel",
     "wonderland_r25_mirrortele desc"
   ],
   [

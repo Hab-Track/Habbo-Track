@@ -32762,6 +32762,16 @@
         "description": ""
       },
       {
+        "code": "cl_r25_heartqueendress_bd",
+        "name": "Kupa Kızı Elbisesi",
+        "description": ""
+      },
+      {
+        "code": "cl_r25_knightarmor_bd",
+        "name": "Şövalye Zırhı",
+        "description": ""
+      },
+      {
         "code": "cl_r25_poshwaistcoat_bd",
         "name": "Havalı Yelek",
         "description": ""
@@ -33858,12 +33868,12 @@
       },
       {
         "code": "clothing_alicedress",
-        "name": "clothing_alicedress name",
+        "name": "Alice'in Elbisesi",
         "description": "clothing_alicedress desc"
       },
       {
         "code": "clothing_alicehair",
-        "name": "clothing_alicehair name",
+        "name": "Alice'in Saçı",
         "description": "clothing_alicehair desc"
       },
       {
@@ -34723,7 +34733,7 @@
       },
       {
         "code": "clothing_chesscrown",
-        "name": "clothing_chesscrown name",
+        "name": "Satranç Tacı",
         "description": "clothing_chesscrown desc"
       },
       {
@@ -34803,7 +34813,7 @@
       },
       {
         "code": "clothing_clocknecklace",
-        "name": "clothing_clocknecklace name",
+        "name": "Saat Kolyesi",
         "description": "clothing_clocknecklace desc"
       },
       {
@@ -34828,7 +34838,7 @@
       },
       {
         "code": "clothing_clubclip",
-        "name": "clothing_clubclip name",
+        "name": "Sinek Tokası",
         "description": "clothing_clubclip desc"
       },
       {
@@ -35243,7 +35253,7 @@
       },
       {
         "code": "clothing_diamondclip",
-        "name": "clothing_diamondclip name",
+        "name": "Karo Tokası",
         "description": "clothing_diamondclip desc"
       },
       {
@@ -36208,7 +36218,7 @@
       },
       {
         "code": "clothing_heartclip",
-        "name": "clothing_heartclip name",
+        "name": "Kupa Tokası",
         "description": "clothing_heartclip desc"
       },
       {
@@ -36228,7 +36238,7 @@
       },
       {
         "code": "clothing_hearttrumpet",
-        "name": "clothing_hearttrumpet name",
+        "name": "Kupa Trompeti",
         "description": "clothing_hearttrumpet desc"
       },
       {
@@ -37145,6 +37155,11 @@
         "code": "clothing_net",
         "name": "Böcek Ağı",
         "description": "clothing_net desc"
+      },
+      {
+        "code": "clothing_nft10shillings6p",
+        "name": "On Şilin Altı Pens",
+        "description": ""
       },
       {
         "code": "clothing_nft2023tuxedo",
@@ -38200,6 +38215,11 @@
         "code": "clothing_nftplainshirt",
         "name": "Düz Pamuklu Tişört",
         "description": "clothing_nftplainshirt desc"
+      },
+      {
+        "code": "clothing_nftplayingcardoutfit",
+        "name": "İskambil Kartı Kıyafeti",
+        "description": ""
       },
       {
         "code": "clothing_nftpompomcardigan",
@@ -41968,12 +41988,12 @@
       },
       {
         "code": "clothing_r25_heartqueendress",
-        "name": "clothing_r25_heartqueendress name",
+        "name": "Kupa Kızı Elbisesi",
         "description": "clothing_r25_heartqueendress desc"
       },
       {
         "code": "clothing_r25_knightarmor",
-        "name": "clothing_r25_knightarmor name",
+        "name": "Şövalye Zırhı",
         "description": "clothing_r25_knightarmor desc"
       },
       {
@@ -42503,7 +42523,7 @@
       },
       {
         "code": "clothing_spadeclip",
-        "name": "clothing_spadeclip name",
+        "name": "Maça Tokası",
         "description": "clothing_spadeclip desc"
       },
       {
@@ -42673,7 +42693,7 @@
       },
       {
         "code": "clothing_teacuphat",
-        "name": "clothing_teacuphat name",
+        "name": "Çaydanlık Şapka",
         "description": "clothing_teacuphat desc"
       },
       {
@@ -43168,7 +43188,7 @@
       },
       {
         "code": "clothing_woodensword",
-        "name": "clothing_woodensword name",
+        "name": "Tahta Kılıç",
         "description": "clothing_woodensword desc"
       },
       {
@@ -56733,52 +56753,52 @@
       },
       {
         "code": "diamond_painting100",
-        "name": "diamond_painting100 name",
+        "name": "Sacabambaspis Balığı",
         "description": "diamond_painting100 desc"
       },
       {
         "code": "diamond_painting101",
-        "name": "diamond_painting101 name",
+        "name": "Habbo Zincirli Yaşlı Adam",
         "description": "diamond_painting101 desc"
       },
       {
         "code": "diamond_painting102",
-        "name": "diamond_painting102 name",
+        "name": "Bobba'nın Karanlık Yüzü",
         "description": "diamond_painting102 desc"
       },
       {
         "code": "diamond_painting103",
-        "name": "diamond_painting103 name",
+        "name": "Habbo Balerini",
         "description": "diamond_painting103 desc"
       },
       {
         "code": "diamond_painting104",
-        "name": "diamond_painting104 name",
+        "name": "Habbo Venüs'ü",
         "description": "diamond_painting104 desc"
       },
       {
         "code": "diamond_painting105",
-        "name": "diamond_painting105 name",
+        "name": "Speak Later (Habbo Versiyonu) Tablosu",
         "description": "diamond_painting105 desc"
       },
       {
         "code": "diamond_painting106",
-        "name": "diamond_painting106 name",
+        "name": "My Little Ducky Tablosu",
         "description": "diamond_painting106 desc"
       },
       {
         "code": "diamond_painting107",
-        "name": "diamond_painting107 name",
+        "name": "Çılgın Kapsül Sandalye",
         "description": "diamond_painting107 desc"
       },
       {
         "code": "diamond_painting108",
-        "name": "diamond_painting108 name",
+        "name": "Habbo At Tablosu",
         "description": "diamond_painting108 desc"
       },
       {
         "code": "diamond_painting109",
-        "name": "diamond_painting109 name",
+        "name": "Frankie ve Buharlı Gemisi Tablosu",
         "description": "diamond_painting109 desc"
       },
       {
@@ -56788,12 +56808,12 @@
       },
       {
         "code": "diamond_painting110",
-        "name": "diamond_painting110 name",
+        "name": "Habbo'lu Anne Portresi",
         "description": "diamond_painting110 desc"
       },
       {
         "code": "diamond_painting111",
-        "name": "diamond_painting111 name",
+        "name": "Piksel Sütçü Kız Tablosu",
         "description": "diamond_painting111 desc"
       },
       {
@@ -84512,6 +84532,21 @@
         "description": "nft_h24_xmas_snowhotel desc"
       },
       {
+        "code": "nft_h25_alhambrahookah",
+        "name": "Alhambra Kabarcıklı Meyve Suyu Nargilesi",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_alhambrapillowpile",
+        "name": "Alhambra Yastıkları",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_alicefigure",
+        "name": "Alice Koleksiyon Figürü",
+        "description": ""
+      },
+      {
         "code": "nft_h25_boogieblast_egg",
         "name": "Disko Dino Yumurtası",
         "description": "nft_h25_boogieblast_egg desc"
@@ -84542,9 +84577,24 @@
         "description": "nft_h25_boogieblast_tile desc"
       },
       {
+        "code": "nft_h25_caterpillarfigure",
+        "name": "Tırtıl Koleksiyon Figürü",
+        "description": ""
+      },
+      {
         "code": "nft_h25_cb_collchair",
         "name": "Koleksiyoncu Koltuğu",
         "description": "nft_h25_cb_collchair desc"
+      },
+      {
+        "code": "nft_h25_cheshirecatfigure",
+        "name": "Cheshire Kedisi Koleksiyon Figürü",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_cheshiregrin",
+        "name": "Cheshire Kedisi Gülümsemesi",
+        "description": ""
       },
       {
         "code": "nft_h25_collbench",
@@ -84640,6 +84690,11 @@
         "code": "nft_h25_haf_reddevil",
         "name": "Kırmızı Şeytan Aksiyon Figürü",
         "description": "nft_h25_haf_reddevil desc"
+      },
+      {
+        "code": "nft_h25_hatterfigure",
+        "name": "Şapkacı Koleksiyon Figürü",
+        "description": ""
       },
       {
         "code": "nft_h25_owlsculpture",
@@ -117672,153 +117727,163 @@
         "description": "Habbo Hotel"
       },
       {
+        "code": "wland_r25_heartrabbit_bd",
+        "name": "Beyaz Tavşan",
+        "description": ""
+      },
+      {
+        "code": "wland_r25_mirrortele_bd",
+        "name": "Harikalar Diyarı Aynası",
+        "description": ""
+      },
+      {
         "code": "wonderland_c25_cardthrone",
-        "name": "wonderland_c25_cardthrone name",
+        "name": "İskambil Tahtı",
         "description": "wonderland_c25_cardthrone desc"
       },
       {
         "code": "wonderland_c25_castletower",
-        "name": "wonderland_c25_castletower name",
+        "name": "Güllü Kule",
         "description": "wonderland_c25_castletower desc"
       },
       {
         "code": "wonderland_c25_castlewall",
-        "name": "wonderland_c25_castlewall name",
+        "name": "Güllü Kale Surları",
         "description": "wonderland_c25_castlewall desc"
       },
       {
         "code": "wonderland_c25_clubcard",
-        "name": "wonderland_c25_clubcard name",
+        "name": "Sinek Kâğıdı",
         "description": "wonderland_c25_clubcard desc"
       },
       {
         "code": "wonderland_c25_crackable",
-        "name": "wonderland_c25_crackable name",
+        "name": "Beyaz Kraliçe Zarfı",
         "description": "wonderland_c25_crackable desc"
       },
       {
         "code": "wonderland_c25_crackableb",
-        "name": "wonderland_c25_crackableb name",
+        "name": "Beyaz Kraliçe Zarfı",
         "description": "wonderland_c25_crackableb desc"
       },
       {
         "code": "wonderland_c25_diamondcard",
-        "name": "wonderland_c25_diamondcard name",
+        "name": "Karo Kâğıdı",
         "description": "wonderland_c25_diamondcard desc"
       },
       {
         "code": "wonderland_c25_drinkme",
-        "name": "wonderland_c25_drinkme name",
+        "name": "İç Beni Şişe",
         "description": "wonderland_c25_drinkme desc"
       },
       {
         "code": "wonderland_c25_eatme",
-        "name": "wonderland_c25_eatme name",
+        "name": "Ye Beni Pasta",
         "description": "wonderland_c25_eatme desc"
       },
       {
         "code": "wonderland_c25_floor",
-        "name": "wonderland_c25_floor name",
+        "name": "İskambil Döşeme",
         "description": "wonderland_c25_floor desc"
       },
       {
         "code": "wonderland_c25_grass",
-        "name": "wonderland_c25_grass name",
+        "name": "Harikalar Diyarı Çimeni",
         "description": "wonderland_c25_grass desc"
       },
       {
         "code": "wonderland_c25_hattercrafting",
-        "name": "wonderland_c25_hattercrafting name",
+        "name": "Şapkacı'nın çalışma masası",
         "description": "wonderland_c25_hattercrafting desc"
       },
       {
         "code": "wonderland_c25_heartcard",
-        "name": "wonderland_c25_heartcard name",
+        "name": "Kupa Kâğıdı",
         "description": "wonderland_c25_heartcard desc"
       },
       {
         "code": "wonderland_c25_heartcardguard",
-        "name": "wonderland_c25_heartcardguard name",
+        "name": "Kupa Gardiyanı",
         "description": "wonderland_c25_heartcardguard desc"
       },
       {
         "code": "wonderland_c25_longneckalice",
-        "name": "wonderland_c25_longneckalice name",
+        "name": "Uzun Boyunlu Alice",
         "description": "wonderland_c25_longneckalice desc"
       },
       {
         "code": "wonderland_c25_paintbrush",
-        "name": "wonderland_c25_paintbrush name",
+        "name": "Kirli Kırmızı Fırça",
         "description": "wonderland_c25_paintbrush desc"
       },
       {
         "code": "wonderland_c25_paintedbush",
-        "name": "wonderland_c25_paintedbush name",
+        "name": "Boyalı Kırmızı Gül Çalısı",
         "description": "wonderland_c25_paintedbush desc"
       },
       {
         "code": "wonderland_c25_redcrackable",
-        "name": "wonderland_c25_redcrackable name",
+        "name": "Kırmızı Kraliçe Zarfı",
         "description": "wonderland_c25_redcrackable desc"
       },
       {
         "code": "wonderland_c25_redcrackableb",
-        "name": "wonderland_c25_redcrackableb name",
+        "name": "Kırmızı Kraliçe Zarfı",
         "description": "wonderland_c25_redcrackableb desc"
       },
       {
         "code": "wonderland_c25_redqueen",
-        "name": "wonderland_c25_redqueen name",
+        "name": "Kırmızı Kraliçe",
         "description": "wonderland_c25_redqueen desc"
       },
       {
         "code": "wonderland_c25_redroseclock",
-        "name": "wonderland_c25_redroseclock name",
+        "name": "Kırmızı Gül Dolaplı Saat",
         "description": "wonderland_c25_redroseclock desc"
       },
       {
         "code": "wonderland_c25_rosebush",
-        "name": "wonderland_c25_rosebush name",
+        "name": "Beyaz Gül Çalısı",
         "description": "wonderland_c25_rosebush desc"
       },
       {
         "code": "wonderland_c25_spadecard",
-        "name": "wonderland_c25_spadecard name",
+        "name": "Maça Kâğıdı",
         "description": "wonderland_c25_spadecard desc"
       },
       {
         "code": "wonderland_c25_spadecardguard",
-        "name": "wonderland_c25_spadecardguard name",
+        "name": "Maça Gardiyanı",
         "description": "wonderland_c25_spadecardguard desc"
       },
       {
         "code": "wonderland_c25_talkingflowers",
-        "name": "wonderland_c25_talkingflowers name",
+        "name": "Geveze Çiçekler",
         "description": "wonderland_c25_talkingflowers desc"
       },
       {
         "code": "wonderland_c25_teacup",
-        "name": "wonderland_c25_teacup name",
+        "name": "Çay Partisi Fincanı",
         "description": "wonderland_c25_teacup desc"
       },
       {
         "code": "wonderland_c25_teapot",
-        "name": "wonderland_c25_teapot name",
+        "name": "Çay Partisi Çaydanlığı",
         "description": "wonderland_c25_teapot desc"
       },
       {
         "code": "wonderland_c25_whiteroseclock",
-        "name": "wonderland_c25_whiteroseclock name",
+        "name": "Beyaz Gül Dolaplı Saat",
         "description": "wonderland_c25_whiteroseclock desc"
       },
       {
         "code": "wonderland_r25_heartrabbit",
-        "name": "wonderland_r25_heartrabbit name",
+        "name": "Beyaz Tavşan",
         "description": "wonderland_r25_heartrabbit desc"
       },
       {
         "code": "wonderland_r25_mirrortele",
-        "name": "wonderland_r25_mirrortele name",
+        "name": "Harikalar Diyarı Aynası",
         "description": "wonderland_r25_mirrortele desc"
       },
       {

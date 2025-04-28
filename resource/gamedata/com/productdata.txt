@@ -32130,6 +32130,16 @@
     ""
   ],
   [
+    "cl_r25_heartqueendress_bd",
+    "Queen of Hearts Dress",
+    ""
+  ],
+  [
+    "cl_r25_knightarmor_bd",
+    "Knight's Armour",
+    ""
+  ],
+  [
     "cl_r25_poshwaistcoat_bd",
     "Posh Waistcoat",
     ""
@@ -33226,12 +33236,12 @@
   ],
   [
     "clothing_alicedress",
-    "clothing_alicedress name",
+    "Alice's Dress",
     "clothing_alicedress desc"
   ],
   [
     "clothing_alicehair",
-    "clothing_alicehair name",
+    "Alice's Hair",
     "clothing_alicehair desc"
   ],
   [
@@ -34091,7 +34101,7 @@
   ],
   [
     "clothing_chesscrown",
-    "clothing_chesscrown name",
+    "Chess Crown",
     "clothing_chesscrown desc"
   ],
   [
@@ -34171,7 +34181,7 @@
   ],
   [
     "clothing_clocknecklace",
-    "clothing_clocknecklace name",
+    "Clock Necklace",
     "clothing_clocknecklace desc"
   ],
   [
@@ -34196,7 +34206,7 @@
   ],
   [
     "clothing_clubclip",
-    "clothing_clubclip name",
+    "Club Clip",
     "clothing_clubclip desc"
   ],
   [
@@ -34611,7 +34621,7 @@
   ],
   [
     "clothing_diamondclip",
-    "clothing_diamondclip name",
+    "Diamond Clip",
     "clothing_diamondclip desc"
   ],
   [
@@ -35576,7 +35586,7 @@
   ],
   [
     "clothing_heartclip",
-    "clothing_heartclip name",
+    "Heart Clip",
     "clothing_heartclip desc"
   ],
   [
@@ -35596,7 +35606,7 @@
   ],
   [
     "clothing_hearttrumpet",
-    "clothing_hearttrumpet name",
+    "Trumpet of Hearts",
     "clothing_hearttrumpet desc"
   ],
   [
@@ -36503,6 +36513,11 @@
     "clothing_net",
     "Bug Net",
     "clothing_net desc"
+  ],
+  [
+    "clothing_nft10shillings6p",
+    "Ten Shillings and Six Pence",
+    ""
   ],
   [
     "clothing_nft2023tuxedo",
@@ -37558,6 +37573,11 @@
     "clothing_nftplainshirt",
     "Plain Cotton Shirt",
     "clothing_nftplainshirt desc"
+  ],
+  [
+    "clothing_nftplayingcardoutfit",
+    "Playing Card Outfit",
+    ""
   ],
   [
     "clothing_nftpompomcardigan",
@@ -41326,12 +41346,12 @@
   ],
   [
     "clothing_r25_heartqueendress",
-    "clothing_r25_heartqueendress name",
+    "Queen of Hearts Dress",
     "clothing_r25_heartqueendress desc"
   ],
   [
     "clothing_r25_knightarmor",
-    "clothing_r25_knightarmor name",
+    "Knight's Armour",
     "clothing_r25_knightarmor desc"
   ],
   [
@@ -41861,7 +41881,7 @@
   ],
   [
     "clothing_spadeclip",
-    "clothing_spadeclip name",
+    "Spade Clip",
     "clothing_spadeclip desc"
   ],
   [
@@ -42031,7 +42051,7 @@
   ],
   [
     "clothing_teacuphat",
-    "clothing_teacuphat name",
+    "Teacup Hat",
     "clothing_teacuphat desc"
   ],
   [
@@ -42526,7 +42546,7 @@
   ],
   [
     "clothing_woodensword",
-    "clothing_woodensword name",
+    "Wooden Sword",
     "clothing_woodensword desc"
   ],
   [
@@ -54006,52 +54026,52 @@
   ],
   [
     "diamond_painting100",
-    "diamond_painting100 name",
+    "Sacabambaspis Fish",
     "diamond_painting100 desc"
   ],
   [
     "diamond_painting101",
-    "diamond_painting101 name",
+    "Old Man with a Habbo Chain",
     "diamond_painting101 desc"
   ],
   [
     "diamond_painting102",
-    "diamond_painting102 name",
+    "The Dark Side of the Bobba",
     "diamond_painting102 desc"
   ],
   [
     "diamond_painting103",
-    "diamond_painting103 name",
+    "Habbo Dancer",
     "diamond_painting103 desc"
   ],
   [
     "diamond_painting104",
-    "diamond_painting104 name",
+    "Venus of Habbo",
     "diamond_painting104 desc"
   ],
   [
     "diamond_painting105",
-    "diamond_painting105 name",
+    "Speak Later (Habbo's Version)",
     "diamond_painting105 desc"
   ],
   [
     "diamond_painting106",
-    "diamond_painting106 name",
+    "My Little Ducky",
     "diamond_painting106 desc"
   ],
   [
     "diamond_painting107",
-    "diamond_painting107 name",
+    "Obliterated Pod Chair",
     "diamond_painting107 desc"
   ],
   [
     "diamond_painting108",
-    "diamond_painting108 name",
+    "Habbo Horse Painting",
     "diamond_painting108 desc"
   ],
   [
     "diamond_painting109",
-    "diamond_painting109 name",
+    "Steamboat Frankie",
     "diamond_painting109 desc"
   ],
   [
@@ -54061,12 +54081,12 @@
   ],
   [
     "diamond_painting110",
-    "diamond_painting110 name",
+    "Anne of Habbo",
     "diamond_painting110 desc"
   ],
   [
     "diamond_painting111",
-    "diamond_painting111 name",
+    "The Pixel Maid",
     "diamond_painting111 desc"
   ],
   [
@@ -81595,6 +81615,21 @@
     "nft_h24_xmas_snowhotel desc"
   ],
   [
+    "nft_h25_alhambrahookah",
+    "Alhambra Bubble Juice Pipe",
+    ""
+  ],
+  [
+    "nft_h25_alhambrapillowpile",
+    "Alhambra Pillows",
+    ""
+  ],
+  [
+    "nft_h25_alicefigure",
+    "Alice Collectible Figure",
+    ""
+  ],
+  [
     "nft_h25_boogieblast_egg",
     "Disco Dino Egg",
     "nft_h25_boogieblast_egg desc"
@@ -81625,9 +81660,24 @@
     "nft_h25_boogieblast_tile desc"
   ],
   [
+    "nft_h25_caterpillarfigure",
+    "Caterpillar Collectible Figure",
+    ""
+  ],
+  [
     "nft_h25_cb_collchair",
     "Collectors Armchair",
     "nft_h25_cb_collchair desc"
+  ],
+  [
+    "nft_h25_cheshirecatfigure",
+    "Cheshire Cat Collectible Figure",
+    ""
+  ],
+  [
+    "nft_h25_cheshiregrin",
+    "Cheshire Cat Grin",
+    ""
   ],
   [
     "nft_h25_collbench",
@@ -81723,6 +81773,11 @@
     "nft_h25_haf_reddevil",
     "Red Devil Action Figure",
     "nft_h25_haf_reddevil desc"
+  ],
+  [
+    "nft_h25_hatterfigure",
+    "Hatter Collectible Figure",
+    ""
   ],
   [
     "nft_h25_owlsculpture",
@@ -114620,153 +114675,163 @@
     "Habbo Hotel"
   ],
   [
+    "wland_r25_heartrabbit_bd",
+    "White Rabbit of Hearts",
+    ""
+  ],
+  [
+    "wland_r25_mirrortele_bd",
+    "Wonderland Mirror",
+    ""
+  ],
+  [
     "wonderland_c25_cardthrone",
-    "wonderland_c25_cardthrone name",
+    "Throne of Cards",
     "wonderland_c25_cardthrone desc"
   ],
   [
     "wonderland_c25_castletower",
-    "wonderland_c25_castletower name",
+    "Rosy Castle Tower",
     "wonderland_c25_castletower desc"
   ],
   [
     "wonderland_c25_castlewall",
-    "wonderland_c25_castlewall name",
+    "Rosy Castle Wall",
     "wonderland_c25_castlewall desc"
   ],
   [
     "wonderland_c25_clubcard",
-    "wonderland_c25_clubcard name",
+    "Card of Clubs",
     "wonderland_c25_clubcard desc"
   ],
   [
     "wonderland_c25_crackable",
-    "wonderland_c25_crackable name",
+    "White Queen Envelope",
     "wonderland_c25_crackable desc"
   ],
   [
     "wonderland_c25_crackableb",
-    "wonderland_c25_crackableb name",
+    "White Queen Envelope",
     "wonderland_c25_crackableb desc"
   ],
   [
     "wonderland_c25_diamondcard",
-    "wonderland_c25_diamondcard name",
+    "Card of Diamonds",
     "wonderland_c25_diamondcard desc"
   ],
   [
     "wonderland_c25_drinkme",
-    "wonderland_c25_drinkme name",
+    "Drink Me Bottle",
     "wonderland_c25_drinkme desc"
   ],
   [
     "wonderland_c25_eatme",
-    "wonderland_c25_eatme name",
+    "Eat Me Cake",
     "wonderland_c25_eatme desc"
   ],
   [
     "wonderland_c25_floor",
-    "wonderland_c25_floor name",
+    "Card Floor",
     "wonderland_c25_floor desc"
   ],
   [
     "wonderland_c25_grass",
-    "wonderland_c25_grass name",
+    "Wonderland Grass",
     "wonderland_c25_grass desc"
   ],
   [
     "wonderland_c25_hattercrafting",
-    "wonderland_c25_hattercrafting name",
+    "Hatter Crafting Table",
     "wonderland_c25_hattercrafting desc"
   ],
   [
     "wonderland_c25_heartcard",
-    "wonderland_c25_heartcard name",
+    "Card of Hearts",
     "wonderland_c25_heartcard desc"
   ],
   [
     "wonderland_c25_heartcardguard",
-    "wonderland_c25_heartcardguard name",
+    "Heart Card Guard",
     "wonderland_c25_heartcardguard desc"
   ],
   [
     "wonderland_c25_longneckalice",
-    "wonderland_c25_longneckalice name",
+    "Long Neck Alice",
     "wonderland_c25_longneckalice desc"
   ],
   [
     "wonderland_c25_paintbrush",
-    "wonderland_c25_paintbrush name",
+    "Stained Red Brush",
     "wonderland_c25_paintbrush desc"
   ],
   [
     "wonderland_c25_paintedbush",
-    "wonderland_c25_paintedbush name",
+    "Painted Red Rose Bush",
     "wonderland_c25_paintedbush desc"
   ],
   [
     "wonderland_c25_redcrackable",
-    "wonderland_c25_redcrackable name",
+    "Red Queen Envelope",
     "wonderland_c25_redcrackable desc"
   ],
   [
     "wonderland_c25_redcrackableb",
-    "wonderland_c25_redcrackableb name",
+    "Red Queen Envelope",
     "wonderland_c25_redcrackableb desc"
   ],
   [
     "wonderland_c25_redqueen",
-    "wonderland_c25_redqueen name",
+    "Red Queen",
     "wonderland_c25_redqueen desc"
   ],
   [
     "wonderland_c25_redroseclock",
-    "wonderland_c25_redroseclock name",
+    "Red Rose Grandfather Clock",
     "wonderland_c25_redroseclock desc"
   ],
   [
     "wonderland_c25_rosebush",
-    "wonderland_c25_rosebush name",
+    "White Rose Bush",
     "wonderland_c25_rosebush desc"
   ],
   [
     "wonderland_c25_spadecard",
-    "wonderland_c25_spadecard name",
+    "Card of Spades",
     "wonderland_c25_spadecard desc"
   ],
   [
     "wonderland_c25_spadecardguard",
-    "wonderland_c25_spadecardguard name",
+    "Spade Card Guard",
     "wonderland_c25_spadecardguard desc"
   ],
   [
     "wonderland_c25_talkingflowers",
-    "wonderland_c25_talkingflowers name",
+    "Chatty Flowers",
     "wonderland_c25_talkingflowers desc"
   ],
   [
     "wonderland_c25_teacup",
-    "wonderland_c25_teacup name",
+    "Tea Party Cup",
     "wonderland_c25_teacup desc"
   ],
   [
     "wonderland_c25_teapot",
-    "wonderland_c25_teapot name",
+    "Tea Party Pot",
     "wonderland_c25_teapot desc"
   ],
   [
     "wonderland_c25_whiteroseclock",
-    "wonderland_c25_whiteroseclock name",
+    "White Rose Grandfather Clock",
     "wonderland_c25_whiteroseclock desc"
   ],
   [
     "wonderland_r25_heartrabbit",
-    "wonderland_r25_heartrabbit name",
+    "White Rabbit of Hearts",
     "wonderland_r25_heartrabbit desc"
   ],
   [
     "wonderland_r25_mirrortele",
-    "wonderland_r25_mirrortele name",
+    "Wonderland Mirror",
     "wonderland_r25_mirrortele desc"
   ],
   [

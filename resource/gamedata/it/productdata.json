@@ -3448,7 +3448,7 @@
       },
       {
         "code": "CF_350_aubergine",
-        "name": "Melanzana Adornata Dorata",
+        "name": "Melanzana Decorata Dorata",
         "description": "CF_350_aubergine desc"
       },
       {
@@ -31692,6 +31692,16 @@
         "description": ""
       },
       {
+        "code": "cl_r25_heartqueendress_bd",
+        "name": "Vestito Regina di Cuori",
+        "description": ""
+      },
+      {
+        "code": "cl_r25_knightarmor_bd",
+        "name": "Armatura da Cavaliere",
+        "description": ""
+      },
+      {
         "code": "cl_r25_poshwaistcoat_bd",
         "name": "Gilet Elegante",
         "description": ""
@@ -32783,12 +32793,12 @@
       },
       {
         "code": "clothing_alicedress",
-        "name": "clothing_alicedress name",
+        "name": "Il Vestito di Alice",
         "description": "clothing_alicedress desc"
       },
       {
         "code": "clothing_alicehair",
-        "name": "clothing_alicehair name",
+        "name": "I Capelli di Alice",
         "description": "clothing_alicehair desc"
       },
       {
@@ -33648,7 +33658,7 @@
       },
       {
         "code": "clothing_chesscrown",
-        "name": "clothing_chesscrown name",
+        "name": "Corona di Scacchi",
         "description": "clothing_chesscrown desc"
       },
       {
@@ -33728,7 +33738,7 @@
       },
       {
         "code": "clothing_clocknecklace",
-        "name": "clothing_clocknecklace name",
+        "name": "Collana con Orologio",
         "description": "clothing_clocknecklace desc"
       },
       {
@@ -33753,7 +33763,7 @@
       },
       {
         "code": "clothing_clubclip",
-        "name": "clothing_clubclip name",
+        "name": "Clip con Fiore",
         "description": "clothing_clubclip desc"
       },
       {
@@ -34168,7 +34178,7 @@
       },
       {
         "code": "clothing_diamondclip",
-        "name": "clothing_diamondclip name",
+        "name": "Clip con Quadri",
         "description": "clothing_diamondclip desc"
       },
       {
@@ -35133,7 +35143,7 @@
       },
       {
         "code": "clothing_heartclip",
-        "name": "clothing_heartclip name",
+        "name": "Clip con Cuore",
         "description": "clothing_heartclip desc"
       },
       {
@@ -35153,7 +35163,7 @@
       },
       {
         "code": "clothing_hearttrumpet",
-        "name": "clothing_hearttrumpet name",
+        "name": "Tromba di Cuori",
         "description": "clothing_hearttrumpet desc"
       },
       {
@@ -36060,6 +36070,11 @@
         "code": "clothing_net",
         "name": "Bug Net",
         "description": "clothing_net desc"
+      },
+      {
+        "code": "clothing_nft10shillings6p",
+        "name": "Dieci Scellini e Sei Penny",
+        "description": ""
       },
       {
         "code": "clothing_nft2023tuxedo",
@@ -37115,6 +37130,11 @@
         "code": "clothing_nftplainshirt",
         "name": "Maglietta di Cotone Semplice",
         "description": "clothing_nftplainshirt desc"
+      },
+      {
+        "code": "clothing_nftplayingcardoutfit",
+        "name": "Outfit Carte da Gioco",
+        "description": ""
       },
       {
         "code": "clothing_nftpompomcardigan",
@@ -40883,12 +40903,12 @@
       },
       {
         "code": "clothing_r25_heartqueendress",
-        "name": "clothing_r25_heartqueendress name",
+        "name": "Vestito Regina di Cuori",
         "description": "clothing_r25_heartqueendress desc"
       },
       {
         "code": "clothing_r25_knightarmor",
-        "name": "clothing_r25_knightarmor name",
+        "name": "Armatura da Cavaliere",
         "description": "clothing_r25_knightarmor desc"
       },
       {
@@ -41418,7 +41438,7 @@
       },
       {
         "code": "clothing_spadeclip",
-        "name": "clothing_spadeclip name",
+        "name": "Clip con Picche",
         "description": "clothing_spadeclip desc"
       },
       {
@@ -41588,7 +41608,7 @@
       },
       {
         "code": "clothing_teacuphat",
-        "name": "clothing_teacuphat name",
+        "name": "Cappello Tazza da Tè",
         "description": "clothing_teacuphat desc"
       },
       {
@@ -42083,7 +42103,7 @@
       },
       {
         "code": "clothing_woodensword",
-        "name": "clothing_woodensword name",
+        "name": "Spada di Legno",
         "description": "clothing_woodensword desc"
       },
       {
@@ -47923,52 +47943,52 @@
       },
       {
         "code": "diamond_painting100",
-        "name": "diamond_painting100 name",
+        "name": "Pesce Sacabambaspis",
         "description": "diamond_painting100 desc"
       },
       {
         "code": "diamond_painting101",
-        "name": "diamond_painting101 name",
+        "name": "Vecchio con Catena Habbo",
         "description": "diamond_painting101 desc"
       },
       {
         "code": "diamond_painting102",
-        "name": "diamond_painting102 name",
+        "name": "Il Lato Oscuro di Bobba",
         "description": "diamond_painting102 desc"
       },
       {
         "code": "diamond_painting103",
-        "name": "diamond_painting103 name",
+        "name": "Ballerino/a Habbo",
         "description": "diamond_painting103 desc"
       },
       {
         "code": "diamond_painting104",
-        "name": "diamond_painting104 name",
+        "name": "Venere di Habbo",
         "description": "diamond_painting104 desc"
       },
       {
         "code": "diamond_painting105",
-        "name": "diamond_painting105 name",
+        "name": "Parla Dopo (Versione Habbo)",
         "description": "diamond_painting105 desc"
       },
       {
         "code": "diamond_painting106",
-        "name": "diamond_painting106 name",
+        "name": "Il Mio Piccolo Anatroccolo",
         "description": "diamond_painting106 desc"
       },
       {
         "code": "diamond_painting107",
-        "name": "diamond_painting107 name",
+        "name": "Sedia a Capsula con Pois",
         "description": "diamond_painting107 desc"
       },
       {
         "code": "diamond_painting108",
-        "name": "diamond_painting108 name",
+        "name": "Dipinto di un Cavallo Habbo",
         "description": "diamond_painting108 desc"
       },
       {
         "code": "diamond_painting109",
-        "name": "diamond_painting109 name",
+        "name": "Frankie Battello a Vapore",
         "description": "diamond_painting109 desc"
       },
       {
@@ -47978,12 +47998,12 @@
       },
       {
         "code": "diamond_painting110",
-        "name": "diamond_painting110 name",
+        "name": "Anna di Habbo",
         "description": "diamond_painting110 desc"
       },
       {
         "code": "diamond_painting111",
-        "name": "diamond_painting111 name",
+        "name": "La Domestica Pixel",
         "description": "diamond_painting111 desc"
       },
       {
@@ -49443,7 +49463,7 @@
       },
       {
         "code": "ducket_c25_wardrobe",
-        "name": "Credenza dgli Anatroccoli",
+        "name": "Credenza degli Anatroccoli",
         "description": "ducket_c25_wardrobe desc"
       },
       {
@@ -75147,6 +75167,21 @@
         "description": "nft_h24_xmas_snowhotel desc"
       },
       {
+        "code": "nft_h25_alhambrahookah",
+        "name": "Narghilè Bubble Juice Alhambra",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_alhambrapillowpile",
+        "name": "Cuscini Alhambra",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_alicefigure",
+        "name": "Figura da Collezione Alice",
+        "description": ""
+      },
+      {
         "code": "nft_h25_boogieblast_egg",
         "name": "Uovo di Dinosauro da Discoteca",
         "description": "nft_h25_boogieblast_egg desc"
@@ -75177,9 +75212,24 @@
         "description": "nft_h25_boogieblast_tile desc"
       },
       {
+        "code": "nft_h25_caterpillarfigure",
+        "name": "Figura da Collezione Bruco",
+        "description": ""
+      },
+      {
         "code": "nft_h25_cb_collchair",
         "name": "Poltrona per Collezionisti",
         "description": "nft_h25_cb_collchair desc"
+      },
+      {
+        "code": "nft_h25_cheshirecatfigure",
+        "name": "Figura da Collezione Gatto del Cheshire",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_cheshiregrin",
+        "name": "Ghigno da Gatto del Cheshire",
+        "description": ""
       },
       {
         "code": "nft_h25_collbench",
@@ -75275,6 +75325,11 @@
         "code": "nft_h25_haf_reddevil",
         "name": "Action Figure Red Devil",
         "description": "nft_h25_haf_reddevil desc"
+      },
+      {
+        "code": "nft_h25_hatterfigure",
+        "name": "Figura da Collezione Cappellaio",
+        "description": ""
       },
       {
         "code": "nft_h25_owlsculpture",
@@ -107632,153 +107687,163 @@
         "description": "Habbo Hotel"
       },
       {
+        "code": "wland_r25_heartrabbit_bd",
+        "name": "Bianconiglio di Cuori",
+        "description": ""
+      },
+      {
+        "code": "wland_r25_mirrortele_bd",
+        "name": "Specchio Paese delle Meraviglie",
+        "description": ""
+      },
+      {
         "code": "wonderland_c25_cardthrone",
-        "name": "wonderland_c25_cardthrone name",
+        "name": "Trono di Carte",
         "description": "wonderland_c25_cardthrone desc"
       },
       {
         "code": "wonderland_c25_castletower",
-        "name": "wonderland_c25_castletower name",
+        "name": "Torre del Castello con Rose",
         "description": "wonderland_c25_castletower desc"
       },
       {
         "code": "wonderland_c25_castlewall",
-        "name": "wonderland_c25_castlewall name",
+        "name": "Muro del Castello con Rose",
         "description": "wonderland_c25_castlewall desc"
       },
       {
         "code": "wonderland_c25_clubcard",
-        "name": "wonderland_c25_clubcard name",
+        "name": "Carta di Fiori",
         "description": "wonderland_c25_clubcard desc"
       },
       {
         "code": "wonderland_c25_crackable",
-        "name": "wonderland_c25_crackable name",
+        "name": "Busta della Regina Bianca",
         "description": "wonderland_c25_crackable desc"
       },
       {
         "code": "wonderland_c25_crackableb",
-        "name": "wonderland_c25_crackableb name",
+        "name": "Busta della Regina Bianca",
         "description": "wonderland_c25_crackableb desc"
       },
       {
         "code": "wonderland_c25_diamondcard",
-        "name": "wonderland_c25_diamondcard name",
+        "name": "Carta di Quadri",
         "description": "wonderland_c25_diamondcard desc"
       },
       {
         "code": "wonderland_c25_drinkme",
-        "name": "wonderland_c25_drinkme name",
+        "name": "Bottiglia Bevimi",
         "description": "wonderland_c25_drinkme desc"
       },
       {
         "code": "wonderland_c25_eatme",
-        "name": "wonderland_c25_eatme name",
+        "name": "Torta Mangiami",
         "description": "wonderland_c25_eatme desc"
       },
       {
         "code": "wonderland_c25_floor",
-        "name": "wonderland_c25_floor name",
+        "name": "Pavimento di Carte",
         "description": "wonderland_c25_floor desc"
       },
       {
         "code": "wonderland_c25_grass",
-        "name": "wonderland_c25_grass name",
+        "name": "Erba del Paese delle Meraviglie",
         "description": "wonderland_c25_grass desc"
       },
       {
         "code": "wonderland_c25_hattercrafting",
-        "name": "wonderland_c25_hattercrafting name",
+        "name": "Tavolo del Crafting Cappellaio",
         "description": "wonderland_c25_hattercrafting desc"
       },
       {
         "code": "wonderland_c25_heartcard",
-        "name": "wonderland_c25_heartcard name",
+        "name": "Carta di Cuori",
         "description": "wonderland_c25_heartcard desc"
       },
       {
         "code": "wonderland_c25_heartcardguard",
-        "name": "wonderland_c25_heartcardguard name",
+        "name": "Guardia Carta di Cuori",
         "description": "wonderland_c25_heartcardguard desc"
       },
       {
         "code": "wonderland_c25_longneckalice",
-        "name": "wonderland_c25_longneckalice name",
+        "name": "Alice dal Collo Lungo",
         "description": "wonderland_c25_longneckalice desc"
       },
       {
         "code": "wonderland_c25_paintbrush",
-        "name": "wonderland_c25_paintbrush name",
+        "name": "Pennello Macchiato di Rosso",
         "description": "wonderland_c25_paintbrush desc"
       },
       {
         "code": "wonderland_c25_paintedbush",
-        "name": "wonderland_c25_paintedbush name",
+        "name": "Cespuglio di Rose Rosse Dipinte",
         "description": "wonderland_c25_paintedbush desc"
       },
       {
         "code": "wonderland_c25_redcrackable",
-        "name": "wonderland_c25_redcrackable name",
+        "name": "Busta della Regina Rossa",
         "description": "wonderland_c25_redcrackable desc"
       },
       {
         "code": "wonderland_c25_redcrackableb",
-        "name": "wonderland_c25_redcrackableb name",
+        "name": "Busta della Regina Rossa",
         "description": "wonderland_c25_redcrackableb desc"
       },
       {
         "code": "wonderland_c25_redqueen",
-        "name": "wonderland_c25_redqueen name",
+        "name": "Regina Rossa",
         "description": "wonderland_c25_redqueen desc"
       },
       {
         "code": "wonderland_c25_redroseclock",
-        "name": "wonderland_c25_redroseclock name",
+        "name": "Orologio a Pendolo con Rose Rosse",
         "description": "wonderland_c25_redroseclock desc"
       },
       {
         "code": "wonderland_c25_rosebush",
-        "name": "wonderland_c25_rosebush name",
+        "name": "Cespuglio di Rose Bianche",
         "description": "wonderland_c25_rosebush desc"
       },
       {
         "code": "wonderland_c25_spadecard",
-        "name": "wonderland_c25_spadecard name",
+        "name": "Carta di Picche",
         "description": "wonderland_c25_spadecard desc"
       },
       {
         "code": "wonderland_c25_spadecardguard",
-        "name": "wonderland_c25_spadecardguard name",
+        "name": "Guardia Carta di Picche",
         "description": "wonderland_c25_spadecardguard desc"
       },
       {
         "code": "wonderland_c25_talkingflowers",
-        "name": "wonderland_c25_talkingflowers name",
+        "name": "Fiori Chiacchieroni",
         "description": "wonderland_c25_talkingflowers desc"
       },
       {
         "code": "wonderland_c25_teacup",
-        "name": "wonderland_c25_teacup name",
+        "name": "Tazza da Tè",
         "description": "wonderland_c25_teacup desc"
       },
       {
         "code": "wonderland_c25_teapot",
-        "name": "wonderland_c25_teapot name",
+        "name": "Teiera",
         "description": "wonderland_c25_teapot desc"
       },
       {
         "code": "wonderland_c25_whiteroseclock",
-        "name": "wonderland_c25_whiteroseclock name",
+        "name": "Orologio a Pendolo con Rose Bianche",
         "description": "wonderland_c25_whiteroseclock desc"
       },
       {
         "code": "wonderland_r25_heartrabbit",
-        "name": "wonderland_r25_heartrabbit name",
+        "name": "Bianconiglio di Cuori",
         "description": "wonderland_r25_heartrabbit desc"
       },
       {
         "code": "wonderland_r25_mirrortele",
-        "name": "wonderland_r25_mirrortele name",
+        "name": "Specchio Paese delle Meraviglie",
         "description": "wonderland_r25_mirrortele desc"
       },
       {

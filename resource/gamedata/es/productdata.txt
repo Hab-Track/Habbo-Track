@@ -2986,7 +2986,7 @@
   ],
   [
     "CF_350_aubergine",
-    "Berenjena Ornamentación Dorada",
+    "Berenjena Adornada en Oro",
     "CF_350_aubergine desc"
   ],
   [
@@ -31540,6 +31540,16 @@
     ""
   ],
   [
+    "cl_r25_heartqueendress_bd",
+    "Vestido Reina de Corazones",
+    ""
+  ],
+  [
+    "cl_r25_knightarmor_bd",
+    "Armadura Medieval",
+    ""
+  ],
+  [
     "cl_r25_poshwaistcoat_bd",
     "Chaleco Elegante",
     ""
@@ -32631,12 +32641,12 @@
   ],
   [
     "clothing_alicedress",
-    "clothing_alicedress name",
+    "Vestido de Alicia",
     "clothing_alicedress desc"
   ],
   [
     "clothing_alicehair",
-    "clothing_alicehair name",
+    "Cabello de Alicia",
     "clothing_alicehair desc"
   ],
   [
@@ -33496,7 +33506,7 @@
   ],
   [
     "clothing_chesscrown",
-    "clothing_chesscrown name",
+    "Corona de Ajedrez",
     "clothing_chesscrown desc"
   ],
   [
@@ -33586,7 +33596,7 @@
   ],
   [
     "clothing_clocknecklace",
-    "clothing_clocknecklace name",
+    "Reloj de Cuello",
     "clothing_clocknecklace desc"
   ],
   [
@@ -33611,7 +33621,7 @@
   ],
   [
     "clothing_clubclip",
-    "clothing_clubclip name",
+    "Prendedor de Tréboles",
     "clothing_clubclip desc"
   ],
   [
@@ -34031,7 +34041,7 @@
   ],
   [
     "clothing_diamondclip",
-    "clothing_diamondclip name",
+    "Prendedor de Diamantes",
     "clothing_diamondclip desc"
   ],
   [
@@ -34996,7 +35006,7 @@
   ],
   [
     "clothing_heartclip",
-    "clothing_heartclip name",
+    "Prendedor de Corazones",
     "clothing_heartclip desc"
   ],
   [
@@ -35016,7 +35026,7 @@
   ],
   [
     "clothing_hearttrumpet",
-    "clothing_hearttrumpet name",
+    "Trompeta de Corazones",
     "clothing_hearttrumpet desc"
   ],
   [
@@ -35943,6 +35953,11 @@
     "clothing_net",
     "Bug Net",
     "clothing_net desc"
+  ],
+  [
+    "clothing_nft10shillings6p",
+    "Diez chelines y seis peniques.",
+    ""
   ],
   [
     "clothing_nft2023tuxedo",
@@ -36998,6 +37013,11 @@
     "clothing_nftplainshirt",
     "Camiseta de Algodón Lisa",
     "clothing_nftplainshirt desc"
+  ],
+  [
+    "clothing_nftplayingcardoutfit",
+    "Outfit de Naipe",
+    ""
   ],
   [
     "clothing_nftpompomcardigan",
@@ -40766,12 +40786,12 @@
   ],
   [
     "clothing_r25_heartqueendress",
-    "clothing_r25_heartqueendress name",
+    "Vestido Reina de Corazones",
     "clothing_r25_heartqueendress desc"
   ],
   [
     "clothing_r25_knightarmor",
-    "clothing_r25_knightarmor name",
+    "Armadura Medieval",
     "clothing_r25_knightarmor desc"
   ],
   [
@@ -41301,7 +41321,7 @@
   ],
   [
     "clothing_spadeclip",
-    "clothing_spadeclip name",
+    "Prendedor de Picas",
     "clothing_spadeclip desc"
   ],
   [
@@ -41471,7 +41491,7 @@
   ],
   [
     "clothing_teacuphat",
-    "clothing_teacuphat name",
+    "Sombrero de Tetera",
     "clothing_teacuphat desc"
   ],
   [
@@ -41966,7 +41986,7 @@
   ],
   [
     "clothing_woodensword",
-    "clothing_woodensword name",
+    "Espada de Madera",
     "clothing_woodensword desc"
   ],
   [
@@ -47386,52 +47406,52 @@
   ],
   [
     "diamond_painting100",
-    "diamond_painting100 name",
+    "Pez Sacabambaspis",
     "diamond_painting100 desc"
   ],
   [
     "diamond_painting101",
-    "diamond_painting101 name",
+    "Anciano con Cadena de Habbo",
     "diamond_painting101 desc"
   ],
   [
     "diamond_painting102",
-    "diamond_painting102 name",
+    "The Dark Side of the Bobba",
     "diamond_painting102 desc"
   ],
   [
     "diamond_painting103",
-    "diamond_painting103 name",
+    "Habbo Bailarina",
     "diamond_painting103 desc"
   ],
   [
     "diamond_painting104",
-    "diamond_painting104 name",
+    "Venus de Habbo",
     "diamond_painting104 desc"
   ],
   [
     "diamond_painting105",
-    "diamond_painting105 name",
+    "Speak Later (Versión Habbo)",
     "diamond_painting105 desc"
   ],
   [
     "diamond_painting106",
-    "diamond_painting106 name",
+    "My Little Pati",
     "diamond_painting106 desc"
   ],
   [
     "diamond_painting107",
-    "diamond_painting107 name",
+    "Pod Obliterado",
     "diamond_painting107 desc"
   ],
   [
     "diamond_painting108",
-    "diamond_painting108 name",
+    "Habbo Caballo",
     "diamond_painting108 desc"
   ],
   [
     "diamond_painting109",
-    "diamond_painting109 name",
+    "Frankie y el Barco de Vapor",
     "diamond_painting109 desc"
   ],
   [
@@ -47441,12 +47461,12 @@
   ],
   [
     "diamond_painting110",
-    "diamond_painting110 name",
+    "Ana de Habbo",
     "diamond_painting110 desc"
   ],
   [
     "diamond_painting111",
-    "diamond_painting111 name",
+    "La Lechera del Píxel",
     "diamond_painting111 desc"
   ],
   [
@@ -74565,6 +74585,21 @@
     "nft_h24_xmas_snowhotel desc"
   ],
   [
+    "nft_h25_alhambrahookah",
+    "Pipa de Zumo Alhambra",
+    ""
+  ],
+  [
+    "nft_h25_alhambrapillowpile",
+    "Cojines Alhambra",
+    ""
+  ],
+  [
+    "nft_h25_alicefigure",
+    "Coleccionable Figurita de Alicia",
+    ""
+  ],
+  [
     "nft_h25_boogieblast_egg",
     "Huevo de Dino Disco",
     "nft_h25_boogieblast_egg desc"
@@ -74595,9 +74630,24 @@
     "nft_h25_boogieblast_tile desc"
   ],
   [
+    "nft_h25_caterpillarfigure",
+    "Coleccionable Figurita de Oruga",
+    ""
+  ],
+  [
     "nft_h25_cb_collchair",
     "Sillón de Coleccionista",
     "nft_h25_cb_collchair desc"
+  ],
+  [
+    "nft_h25_cheshirecatfigure",
+    "Coleccionable Figurita Gato de Cheshire",
+    ""
+  ],
+  [
+    "nft_h25_cheshiregrin",
+    "Sonrisa del Gato de Cheshire",
+    ""
   ],
   [
     "nft_h25_collbench",
@@ -74693,6 +74743,11 @@
     "nft_h25_haf_reddevil",
     "Figura de acción Red Devil",
     "nft_h25_haf_reddevil desc"
+  ],
+  [
+    "nft_h25_hatterfigure",
+    "Coleccionable Figurita del Sombrerero",
+    ""
   ],
   [
     "nft_h25_owlsculpture",
@@ -107115,153 +107170,163 @@
     "Habbo Hotel"
   ],
   [
+    "wland_r25_heartrabbit_bd",
+    "Conejo de Corazones",
+    ""
+  ],
+  [
+    "wland_r25_mirrortele_bd",
+    "Espejo de las Maravillas",
+    ""
+  ],
+  [
     "wonderland_c25_cardthrone",
-    "wonderland_c25_cardthrone name",
+    "Trono de Cartas",
     "wonderland_c25_cardthrone desc"
   ],
   [
     "wonderland_c25_castletower",
-    "wonderland_c25_castletower name",
+    "Torre con Rosas",
     "wonderland_c25_castletower desc"
   ],
   [
     "wonderland_c25_castlewall",
-    "wonderland_c25_castlewall name",
+    "Muralla con Rosas",
     "wonderland_c25_castlewall desc"
   ],
   [
     "wonderland_c25_clubcard",
-    "wonderland_c25_clubcard name",
+    "Carta de Tréboles",
     "wonderland_c25_clubcard desc"
   ],
   [
     "wonderland_c25_crackable",
-    "wonderland_c25_crackable name",
+    "Sobre de la Reina Blanca",
     "wonderland_c25_crackable desc"
   ],
   [
     "wonderland_c25_crackableb",
-    "wonderland_c25_crackableb name",
+    "Sobre de la Reina Blanca",
     "wonderland_c25_crackableb desc"
   ],
   [
     "wonderland_c25_diamondcard",
-    "wonderland_c25_diamondcard name",
+    "Carta de Diamantes",
     "wonderland_c25_diamondcard desc"
   ],
   [
     "wonderland_c25_drinkme",
-    "wonderland_c25_drinkme name",
+    "Botella Bébeme",
     "wonderland_c25_drinkme desc"
   ],
   [
     "wonderland_c25_eatme",
-    "wonderland_c25_eatme name",
+    "Tarta Cómeme",
     "wonderland_c25_eatme desc"
   ],
   [
     "wonderland_c25_floor",
-    "wonderland_c25_floor name",
+    "Suelo de Cartas",
     "wonderland_c25_floor desc"
   ],
   [
     "wonderland_c25_grass",
-    "wonderland_c25_grass name",
+    "Césped del País de las Maravillas",
     "wonderland_c25_grass desc"
   ],
   [
     "wonderland_c25_hattercrafting",
-    "wonderland_c25_hattercrafting name",
+    "Mesa de Crafteo del Sombrerero",
     "wonderland_c25_hattercrafting desc"
   ],
   [
     "wonderland_c25_heartcard",
-    "wonderland_c25_heartcard name",
+    "Carta de Corazones",
     "wonderland_c25_heartcard desc"
   ],
   [
     "wonderland_c25_heartcardguard",
-    "wonderland_c25_heartcardguard name",
+    "Guardia de Carta de Corazones",
     "wonderland_c25_heartcardguard desc"
   ],
   [
     "wonderland_c25_longneckalice",
-    "wonderland_c25_longneckalice name",
+    "Alicia de Cuello Largo",
     "wonderland_c25_longneckalice desc"
   ],
   [
     "wonderland_c25_paintbrush",
-    "wonderland_c25_paintbrush name",
+    "Brocha Manchada de Rojo",
     "wonderland_c25_paintbrush desc"
   ],
   [
     "wonderland_c25_paintedbush",
-    "wonderland_c25_paintedbush name",
+    "Árbol de Rosas Rojas Pintadas",
     "wonderland_c25_paintedbush desc"
   ],
   [
     "wonderland_c25_redcrackable",
-    "wonderland_c25_redcrackable name",
+    "Sobre de la Reina Roja",
     "wonderland_c25_redcrackable desc"
   ],
   [
     "wonderland_c25_redcrackableb",
-    "wonderland_c25_redcrackableb name",
+    "Sobre de la Reina Roja",
     "wonderland_c25_redcrackableb desc"
   ],
   [
     "wonderland_c25_redqueen",
-    "wonderland_c25_redqueen name",
+    "Reina Roja",
     "wonderland_c25_redqueen desc"
   ],
   [
     "wonderland_c25_redroseclock",
-    "wonderland_c25_redroseclock name",
+    "Reloj del Abuelo con Rosas Rojas",
     "wonderland_c25_redroseclock desc"
   ],
   [
     "wonderland_c25_rosebush",
-    "wonderland_c25_rosebush name",
+    "Árbol de Rosas Blancas",
     "wonderland_c25_rosebush desc"
   ],
   [
     "wonderland_c25_spadecard",
-    "wonderland_c25_spadecard name",
+    "Carta de Picas",
     "wonderland_c25_spadecard desc"
   ],
   [
     "wonderland_c25_spadecardguard",
-    "wonderland_c25_spadecardguard name",
+    "Guardia de Carta de Picas",
     "wonderland_c25_spadecardguard desc"
   ],
   [
     "wonderland_c25_talkingflowers",
-    "wonderland_c25_talkingflowers name",
+    "Flores Parlantes",
     "wonderland_c25_talkingflowers desc"
   ],
   [
     "wonderland_c25_teacup",
-    "wonderland_c25_teacup name",
+    "Taza Fiesta del Té",
     "wonderland_c25_teacup desc"
   ],
   [
     "wonderland_c25_teapot",
-    "wonderland_c25_teapot name",
+    "Tetera Fiesta del Té",
     "wonderland_c25_teapot desc"
   ],
   [
     "wonderland_c25_whiteroseclock",
-    "wonderland_c25_whiteroseclock name",
+    "Reloj del Abuelo con Rosas Blancas",
     "wonderland_c25_whiteroseclock desc"
   ],
   [
     "wonderland_r25_heartrabbit",
-    "wonderland_r25_heartrabbit name",
+    "Conejo de Corazones",
     "wonderland_r25_heartrabbit desc"
   ],
   [
     "wonderland_r25_mirrortele",
-    "wonderland_r25_mirrortele name",
+    "Espejo de las Maravillas",
     "wonderland_r25_mirrortele desc"
   ],
   [
