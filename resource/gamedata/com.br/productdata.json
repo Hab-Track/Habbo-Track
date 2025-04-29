@@ -6868,12 +6868,12 @@
       },
       {
         "code": "a10 marquee_bd",
-        "name": "Toldo Roxo",
+        "name": "Toldo Violeta",
         "description": ""
       },
       {
         "code": "a10 marquee",
-        "name": "Toldo Roxo",
+        "name": "Toldo Violeta",
         "description": "Porta e sombra ao mesmo tempo!"
       },
       {
@@ -72472,6 +72472,11 @@
         "description": "nft_diamond_dragon desc"
       },
       {
+        "code": "nft_diamond_painting31",
+        "name": "nft_diamond_painting31 name",
+        "description": "nft_diamond_painting31 desc"
+      },
+      {
         "code": "nft_diamond_painting32",
         "name": "$wallitem_diamond_painting32_name$",
         "description": "nft_diamond_painting32 desc"
@@ -72487,9 +72492,34 @@
         "description": "nft_diamond_painting34 desc"
       },
       {
+        "code": "nft_diamond_painting35",
+        "name": "nft_diamond_painting35 name",
+        "description": "nft_diamond_painting35 desc"
+      },
+      {
+        "code": "nft_diamond_painting36",
+        "name": "nft_diamond_painting36 name",
+        "description": "nft_diamond_painting36 desc"
+      },
+      {
+        "code": "nft_diamond_painting37",
+        "name": "nft_diamond_painting37 name",
+        "description": "nft_diamond_painting37 desc"
+      },
+      {
         "code": "nft_diamond_painting38",
         "name": "$wallitem_diamond_painting38_name$",
         "description": "nft_diamond_painting38 desc"
+      },
+      {
+        "code": "nft_diamond_painting40",
+        "name": "nft_diamond_painting40 name",
+        "description": "nft_diamond_painting40 desc"
+      },
+      {
+        "code": "nft_diamond_painting41",
+        "name": "nft_diamond_painting41 name",
+        "description": "nft_diamond_painting41 desc"
       },
       {
         "code": "nft_diamond_painting53",
@@ -72670,6 +72700,51 @@
         "code": "nft_eco_cactus3",
         "name": "",
         "description": "nft_eco_cactus3 desc"
+      },
+      {
+        "code": "nft_eco_curtains1",
+        "name": "nft_eco_curtains1 name",
+        "description": "nft_eco_curtains1 desc"
+      },
+      {
+        "code": "nft_eco_curtains2",
+        "name": "nft_eco_curtains2 name",
+        "description": "nft_eco_curtains2 desc"
+      },
+      {
+        "code": "nft_eco_curtains3",
+        "name": "nft_eco_curtains3 name",
+        "description": "nft_eco_curtains3 desc"
+      },
+      {
+        "code": "nft_eco_fruits1",
+        "name": "nft_eco_fruits1 name",
+        "description": "nft_eco_fruits1 desc"
+      },
+      {
+        "code": "nft_eco_fruits2",
+        "name": "nft_eco_fruits2 name",
+        "description": "nft_eco_fruits2 desc"
+      },
+      {
+        "code": "nft_eco_fruits3",
+        "name": "nft_eco_fruits3 name",
+        "description": "nft_eco_fruits3 desc"
+      },
+      {
+        "code": "nft_eco_mush1",
+        "name": "nft_eco_mush1",
+        "description": ""
+      },
+      {
+        "code": "nft_eco_mush2",
+        "name": "nft_eco_mush2",
+        "description": ""
+      },
+      {
+        "code": "nft_eco_tree1",
+        "name": "nft_eco_tree1 name",
+        "description": "nft_eco_tree1 desc"
       },
       {
         "code": "nft_eco_tree2",
@@ -74602,6 +74677,11 @@
         "description": "nft_h24_cb_cpu desc"
       },
       {
+        "code": "nft_h24_cb_dp19",
+        "name": "nft_h24_cb_dp19 name",
+        "description": "nft_h24_cb_dp19 desc"
+      },
+      {
         "code": "nft_h24_cb_dp21",
         "name": "nft_h24_cb_dp21 name",
         "description": "nft_h24_cb_dp21 desc"
@@ -74615,6 +74695,11 @@
         "code": "nft_h24_cb_ecotron1",
         "name": "nft_h24_cb_ecotron1 name",
         "description": "nft_h24_cb_ecotron1 desc"
+      },
+      {
+        "code": "nft_h24_cb_ecotron2_3",
+        "name": "nft_h24_cb_ecotron2_3 name",
+        "description": "nft_h24_cb_ecotron2_3 desc"
       },
       {
         "code": "nft_h24_cb_forge",
@@ -74665,6 +74750,11 @@
         "code": "nft_h24_cb_pillows1",
         "name": "nft_h24_cb_pillows1 name",
         "description": "nft_h24_cb_pillows1 desc"
+      },
+      {
+        "code": "nft_h24_cb_sbags2",
+        "name": "nft_h24_cb_sbags2 name",
+        "description": "nft_h24_cb_sbags2 desc"
       },
       {
         "code": "nft_h24_cb_smokem2",
@@ -75650,6 +75740,11 @@
         "code": "nft_rare_blackrosegold_scifirocket",
         "name": "nft_rare_blackrosegold_scifirocket name",
         "description": "nft_rare_blackrosegold_scifirocket desc"
+      },
+      {
+        "code": "nft_rare_blackrosegold_sleepingbag",
+        "name": "nft_rare_blackrosegold_sleepingbag name",
+        "description": "nft_rare_blackrosegold_sleepingbag desc"
       },
       {
         "code": "nft_rare_blackrosegold_wooden_screen",
