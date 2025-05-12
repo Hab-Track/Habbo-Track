@@ -10832,6 +10832,11 @@
         "description": "Groeit tot gigantische grootte"
       },
       {
+        "code": "alice_rmoffer",
+        "name": "Alice Outfit Aanbieding",
+        "description": ""
+      },
+      {
         "code": "america_r17_armad_bd",
         "name": "Gordeldier",
         "description": ""
@@ -28730,6 +28735,11 @@
         "code": "br_c25_cocoatree",
         "name": "br_c25_cocoatree name",
         "description": "br_c25_cocoatree desc"
+      },
+      {
+        "code": "br_c25_curupiracrafting",
+        "name": "br_c25_curupiracrafting name",
+        "description": "br_c25_curupiracrafting desc"
       },
       {
         "code": "br_c25_dvdr",
@@ -75512,6 +75522,11 @@
         "description": "nft_h25_owlsculpture desc"
       },
       {
+        "code": "nft_h25_robotikpenguin",
+        "name": "nft_h25_robotikpenguin name",
+        "description": "nft_h25_robotikpenguin desc"
+      },
+      {
         "code": "nft_habbo15_beehive",
         "name": "habbo15_beehive name",
         "description": "habbo15_beehive desc"
@@ -101917,6 +101932,26 @@
         "description": "Dit is pas stapelen!"
       },
       {
+        "code": "trophy_chatterbox_bronze",
+        "name": "trophy_chatterbox_bronze name",
+        "description": "trophy_chatterbox_bronze desc"
+      },
+      {
+        "code": "trophy_chatterbox_gold",
+        "name": "trophy_chatterbox_gold name",
+        "description": "trophy_chatterbox_gold desc"
+      },
+      {
+        "code": "trophy_chatterbox_iron",
+        "name": "trophy_chatterbox_iron name",
+        "description": "trophy_chatterbox_iron desc"
+      },
+      {
+        "code": "trophy_chatterbox_silver",
+        "name": "trophy_chatterbox_silver name",
+        "description": "trophy_chatterbox_silver desc"
+      },
+      {
         "code": "trophy_display",
         "name": "Trofee Display",
         "description": "Een Trofee Display voor je harde werk als student!"
@@ -101962,6 +101997,26 @@
         "description": "trophy_netsafety_0 desc"
       },
       {
+        "code": "trophy_photographer_bronze",
+        "name": "trophy_photographer_bronze name",
+        "description": "trophy_photographer_bronze desc"
+      },
+      {
+        "code": "trophy_photographer_gold",
+        "name": "trophy_photographer_gold name",
+        "description": "trophy_photographer_gold desc"
+      },
+      {
+        "code": "trophy_photographer_iron",
+        "name": "trophy_photographer_iron name",
+        "description": "trophy_photographer_iron desc"
+      },
+      {
+        "code": "trophy_photographer_silver",
+        "name": "trophy_photographer_silver name",
+        "description": "trophy_photographer_silver desc"
+      },
+      {
         "code": "trophy_snowstorm_bronze",
         "name": "trophy_snowstorm_bronze name",
         "description": "trophy_snowstorm_bronze desc"
@@ -101982,9 +102037,69 @@
         "description": "trophy_snowstorm_stone desc"
       },
       {
+        "code": "trophy_streamer_bronze",
+        "name": "trophy_streamer_bronze name",
+        "description": "trophy_streamer_bronze desc"
+      },
+      {
+        "code": "trophy_streamer_gold",
+        "name": "trophy_streamer_gold name",
+        "description": "trophy_streamer_gold desc"
+      },
+      {
+        "code": "trophy_streamer_iron",
+        "name": "trophy_streamer_iron name",
+        "description": "trophy_streamer_iron desc"
+      },
+      {
+        "code": "trophy_streamer_silver",
+        "name": "trophy_streamer_silver name",
+        "description": "trophy_streamer_silver desc"
+      },
+      {
         "code": "trophy_torch",
         "name": "Torch Trophy",
         "description": "Burning bright"
+      },
+      {
+        "code": "trophy_videographer_bronze",
+        "name": "trophy_videographer_bronze name",
+        "description": "trophy_videographer_bronze desc"
+      },
+      {
+        "code": "trophy_videographer_gold",
+        "name": "trophy_videographer_gold name",
+        "description": "trophy_videographer_gold desc"
+      },
+      {
+        "code": "trophy_videographer_iron",
+        "name": "trophy_videographer_iron name",
+        "description": "trophy_videographer_iron desc"
+      },
+      {
+        "code": "trophy_videographer_silver",
+        "name": "trophy_videographer_silver name",
+        "description": "trophy_videographer_silver desc"
+      },
+      {
+        "code": "trophy_viraldancer_bronze",
+        "name": "trophy_viraldancer_bronze name",
+        "description": "trophy_viraldancer_bronze desc"
+      },
+      {
+        "code": "trophy_viraldancer_gold",
+        "name": "trophy_viraldancer_gold name",
+        "description": "trophy_viraldancer_gold desc"
+      },
+      {
+        "code": "trophy_viraldancer_iron",
+        "name": "trophy_viraldancer_iron name",
+        "description": "trophy_viraldancer_iron desc"
+      },
+      {
+        "code": "trophy_viraldancer_silver",
+        "name": "trophy_viraldancer_silver name",
+        "description": "trophy_viraldancer_silver desc"
       },
       {
         "code": "trophy_wired",
