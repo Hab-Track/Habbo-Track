@@ -37073,22 +37073,22 @@
       },
       {
         "code": "clothing_nftbonniecateyeshades",
-        "name": "clothing_nftbonniecateyeshades name",
+        "name": "Bonnie’s Shades",
         "description": "clothing_nftbonniecateyeshades desc"
       },
       {
         "code": "clothing_nftbonniehitcheddress",
-        "name": "clothing_nftbonniehitcheddress name",
+        "name": "Bonnie’s Hitched Dress",
         "description": "clothing_nftbonniehitcheddress desc"
       },
       {
         "code": "clothing_nftbonnielonglonghair",
-        "name": "clothing_nftbonnielonglonghair name",
+        "name": "Bonnie’s LONG Hair",
         "description": "clothing_nftbonnielonglonghair desc"
       },
       {
         "code": "clothing_nftbonnieshoestights",
-        "name": "clothing_nftbonnieshoestights name",
+        "name": "Bonnie’s Shoes",
         "description": "clothing_nftbonnieshoestights desc"
       },
       {
@@ -37557,6 +37557,11 @@
         "description": "clothing_nfthabbohoodie desc"
       },
       {
+        "code": "clothing_nfthabbopants",
+        "name": "Habbo Pants 2022",
+        "description": ""
+      },
+      {
         "code": "clothing_nfthabboshirt23",
         "name": "Habbo T-Shirt 2023",
         "description": "clothing_nfthabboshirt23 desc"
@@ -37772,6 +37777,11 @@
         "description": "clothing_nftneondevilmask desc"
       },
       {
+        "code": "clothing_nftnewspaperhat",
+        "name": "Newspaper Origami Hat",
+        "description": ""
+      },
+      {
         "code": "clothing_nftnoob",
         "name": "Noob Print",
         "description": "clothing_nftnoob desc"
@@ -37980,6 +37990,11 @@
         "code": "clothing_nftrobotikcrown",
         "name": "Robotik Noble Crown",
         "description": "clothing_nftrobotikcrown desc"
+      },
+      {
+        "code": "clothing_nftrockstar",
+        "name": "Rock Star Guitar",
+        "description": ""
       },
       {
         "code": "clothing_nftroundshades0",
@@ -81553,27 +81568,27 @@
       },
       {
         "code": "nft_h24_cb_dp19",
-        "name": "nft_h24_cb_dp19 name",
+        "name": "Diamond Paintings 2019 Easel",
         "description": "nft_h24_cb_dp19 desc"
       },
       {
         "code": "nft_h24_cb_dp21",
-        "name": "nft_h24_cb_dp21 name",
+        "name": "Diamond Paintings 2021 Easel",
         "description": "nft_h24_cb_dp21 desc"
       },
       {
         "code": "nft_h24_cb_dp22",
-        "name": "nft_h24_cb_dp22 name",
+        "name": "Diamond Paintings 2022 Easel",
         "description": "nft_h24_cb_dp22 desc"
       },
       {
         "code": "nft_h24_cb_ecotron1",
-        "name": "nft_h24_cb_ecotron1 name",
+        "name": "Ecotron Gen 1 Trophy",
         "description": "nft_h24_cb_ecotron1 desc"
       },
       {
         "code": "nft_h24_cb_ecotron2_3",
-        "name": "nft_h24_cb_ecotron2_3 name",
+        "name": "Ecotron Gen 2 Set 3 Trophy",
         "description": "nft_h24_cb_ecotron2_3 desc"
       },
       {
@@ -81588,7 +81603,7 @@
       },
       {
         "code": "nft_h24_cb_gen2club",
-        "name": "nft_h24_cb_gen2club name",
+        "name": "Electric Butler Action Figure",
         "description": "nft_h24_cb_gen2club desc"
       },
       {
@@ -81618,22 +81633,27 @@
       },
       {
         "code": "nft_h24_cb_pillars1",
-        "name": "nft_h24_cb_pillars1 name",
+        "name": "Pillars 1 Trophy",
         "description": "nft_h24_cb_pillars1 desc"
       },
       {
         "code": "nft_h24_cb_pillows1",
-        "name": "nft_h24_cb_pillows1 name",
+        "name": "Pillows 1 Trophy",
         "description": "nft_h24_cb_pillows1 desc"
       },
       {
+        "code": "nft_h24_cb_pillows",
+        "name": "Pillows 2 Trophy",
+        "description": ""
+      },
+      {
         "code": "nft_h24_cb_sbags2",
-        "name": "nft_h24_cb_sbags2 name",
+        "name": "Sleeping Bags 2 Trophy",
         "description": "nft_h24_cb_sbags2 desc"
       },
       {
         "code": "nft_h24_cb_smokem2",
-        "name": "nft_h24_cb_smokem2 name",
+        "name": "Smoke Machines 2 Trophy",
         "description": "nft_h24_cb_smokem2 desc"
       },
       {
@@ -82167,6 +82187,21 @@
         "description": "nft_h25_cb_collchair desc"
       },
       {
+        "code": "nft_h25_cb_nftcr",
+        "name": "NFTC Furni Trophy",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_cb_robots",
+        "name": "Robots 2023 Trophy",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_cb_ugc24",
+        "name": "UGC 2024 Trophy",
+        "description": ""
+      },
+      {
         "code": "nft_h25_cheshirecatfigure",
         "name": "Cheshire Cat Collectible Figure",
         "description": "nft_h25_cheshirecatfigure desc"
@@ -82277,13 +82312,23 @@
         "description": ""
       },
       {
+        "code": "nft_h25_hcsohva2",
+        "name": "Cream Throne Sofa",
+        "description": "nft_h25_hcsohva2 desc"
+      },
+      {
         "code": "nft_h25_owlsculpture",
         "name": "Owl Sculpture",
         "description": "nft_h25_owlsculpture desc"
       },
       {
+        "code": "nft_h25_robotikanteater",
+        "name": "Robotik Anteater",
+        "description": ""
+      },
+      {
         "code": "nft_h25_robotikpenguin",
-        "name": "nft_h25_robotikpenguin name",
+        "name": "Robotik Penguin",
         "description": "nft_h25_robotikpenguin desc"
       },
       {
@@ -115485,6 +115530,21 @@
         "code": "wonderland_c25_teapot",
         "name": "Tea Party Pot",
         "description": "wonderland_c25_teapot desc"
+      },
+      {
+        "code": "wonderland_c25_tile1",
+        "name": "Single Tile Brown Card Floor",
+        "description": "wonderland_c25_tile1 desc"
+      },
+      {
+        "code": "wonderland_c25_tile2",
+        "name": "Single Tile Red Card Floor",
+        "description": "wonderland_c25_tile2 desc"
+      },
+      {
+        "code": "wonderland_c25_tile3",
+        "name": "wonderland_c25_tile3 name",
+        "description": "wonderland_c25_tile3 desc"
       },
       {
         "code": "wonderland_c25_whiteroseclock",

@@ -36106,22 +36106,22 @@
   ],
   [
     "clothing_nftbonniecateyeshades",
-    "clothing_nftbonniecateyeshades name",
+    "Bonnies Sonnenbrille ",
     "clothing_nftbonniecateyeshades desc"
   ],
   [
     "clothing_nftbonniehitcheddress",
-    "clothing_nftbonniehitcheddress name",
+    "Bonnies geschürztes Kleid",
     "clothing_nftbonniehitcheddress desc"
   ],
   [
     "clothing_nftbonnielonglonghair",
-    "clothing_nftbonnielonglonghair name",
+    "Bonnies LANGES Haar",
     "clothing_nftbonnielonglonghair desc"
   ],
   [
     "clothing_nftbonnieshoestights",
-    "clothing_nftbonnieshoestights name",
+    "Bonnies Schuhe",
     "clothing_nftbonnieshoestights desc"
   ],
   [
@@ -36590,6 +36590,11 @@
     "clothing_nfthabbohoodie desc"
   ],
   [
+    "clothing_nfthabbopants",
+    "Habbo-Hose 2022",
+    ""
+  ],
+  [
     "clothing_nfthabboshirt23",
     "Habbo 2023 T-Shirt ",
     "clothing_nfthabboshirt23 desc"
@@ -36805,6 +36810,11 @@
     "clothing_nftneondevilmask desc"
   ],
   [
+    "clothing_nftnewspaperhat",
+    "Zeitungs-Origami-Hut",
+    ""
+  ],
+  [
     "clothing_nftnoob",
     "Noob Druck",
     "clothing_nftnoob desc"
@@ -37013,6 +37023,11 @@
     "clothing_nftrobotikcrown",
     "Robotik Noble Krone",
     "clothing_nftrobotikcrown desc"
+  ],
+  [
+    "clothing_nftrockstar",
+    "Rockstar-Gitarre",
+    ""
   ],
   [
     "clothing_nftroundshades0",
@@ -74106,27 +74121,27 @@
   ],
   [
     "nft_h24_cb_dp19",
-    "nft_h24_cb_dp19 name",
+    "Diamantgemälde 2019-Staffelei",
     "nft_h24_cb_dp19 desc"
   ],
   [
     "nft_h24_cb_dp21",
-    "nft_h24_cb_dp21 name",
+    "Diamantgemälde 2021-Staffelei",
     "nft_h24_cb_dp21 desc"
   ],
   [
     "nft_h24_cb_dp22",
-    "nft_h24_cb_dp22 name",
+    "Diamantgemälde 2022-Staffelei",
     "nft_h24_cb_dp22 desc"
   ],
   [
     "nft_h24_cb_ecotron1",
-    "nft_h24_cb_ecotron1 name",
+    "Ecotron Gen 1-Trophäe",
     "nft_h24_cb_ecotron1 desc"
   ],
   [
     "nft_h24_cb_ecotron2_3",
-    "nft_h24_cb_ecotron2_3 name",
+    "Ecotron Gen 2 Set 3-Trophäe",
     "nft_h24_cb_ecotron2_3 desc"
   ],
   [
@@ -74141,7 +74156,7 @@
   ],
   [
     "nft_h24_cb_gen2club",
-    "nft_h24_cb_gen2club name",
+    "Elektrische Butler-Actionfigur",
     "nft_h24_cb_gen2club desc"
   ],
   [
@@ -74171,22 +74186,27 @@
   ],
   [
     "nft_h24_cb_pillars1",
-    "nft_h24_cb_pillars1 name",
+    "Säulen 1-Trophäe",
     "nft_h24_cb_pillars1 desc"
   ],
   [
     "nft_h24_cb_pillows1",
-    "Kissen-Trophäe",
+    "Kissen 1-Trophäe",
     "nft_h24_cb_pillows1 desc"
   ],
   [
+    "nft_h24_cb_pillows",
+    "Kissen 2-Trophäe",
+    ""
+  ],
+  [
     "nft_h24_cb_sbags2",
-    "nft_h24_cb_sbags2 name",
+    "Schlafsäcke 2-Trophäe",
     "nft_h24_cb_sbags2 desc"
   ],
   [
     "nft_h24_cb_smokem2",
-    "nft_h24_cb_smokem2 name",
+    "Nebelmaschinen 2-Trophäe",
     "nft_h24_cb_smokem2 desc"
   ],
   [
@@ -74720,6 +74740,21 @@
     "nft_h25_cb_collchair desc"
   ],
   [
+    "nft_h25_cb_nftcr",
+    "NFTC-Möbel-Trophäe",
+    ""
+  ],
+  [
+    "nft_h25_cb_robots",
+    "Roboter 2023-Trophäe",
+    ""
+  ],
+  [
+    "nft_h25_cb_ugc24",
+    "UGC 2024-Trophäe",
+    ""
+  ],
+  [
     "nft_h25_cheshirecatfigure",
     "Grinsekatze zum Sammeln",
     "nft_h25_cheshirecatfigure desc"
@@ -74830,13 +74865,23 @@
     ""
   ],
   [
+    "nft_h25_hcsohva2",
+    "Cremefarbenes Antikes Clubsofa",
+    "nft_h25_hcsohva2 desc"
+  ],
+  [
     "nft_h25_owlsculpture",
     "Eulenskulptur",
     "nft_h25_owlsculpture desc"
   ],
   [
+    "nft_h25_robotikanteater",
+    "Robo-Ameisenbär",
+    ""
+  ],
+  [
     "nft_h25_robotikpenguin",
-    "nft_h25_robotikpenguin name",
+    "Robo-Pinguin",
     "nft_h25_robotikpenguin desc"
   ],
   [
@@ -107433,6 +107478,21 @@
     "wonderland_c25_teapot",
     "Teeparty-Kanne",
     "wonderland_c25_teapot desc"
+  ],
+  [
+    "wonderland_c25_tile1",
+    "Single Tile Brown Card Floor",
+    "wonderland_c25_tile1 desc"
+  ],
+  [
+    "wonderland_c25_tile2",
+    "Single Tile Red Card Floor",
+    "wonderland_c25_tile2 desc"
+  ],
+  [
+    "wonderland_c25_tile3",
+    "wonderland_c25_tile3 name",
+    "wonderland_c25_tile3 desc"
   ],
   [
     "wonderland_c25_whiteroseclock",

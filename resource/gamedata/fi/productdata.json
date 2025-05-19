@@ -37298,22 +37298,22 @@
       },
       {
         "code": "clothing_nftbonniecateyeshades",
-        "name": "clothing_nftbonniecateyeshades name",
+        "name": "Bonnien plehat",
         "description": "clothing_nftbonniecateyeshades desc"
       },
       {
         "code": "clothing_nftbonniehitcheddress",
-        "name": "clothing_nftbonniehitcheddress name",
+        "name": "Bonnien minimekko",
         "description": "clothing_nftbonniehitcheddress desc"
       },
       {
         "code": "clothing_nftbonnielonglonghair",
-        "name": "clothing_nftbonnielonglonghair name",
+        "name": "Bonnien pitkät kutrit",
         "description": "clothing_nftbonnielonglonghair desc"
       },
       {
         "code": "clothing_nftbonnieshoestights",
-        "name": "clothing_nftbonnieshoestights name",
+        "name": "Bonnien kengät",
         "description": "clothing_nftbonnieshoestights desc"
       },
       {
@@ -37782,6 +37782,11 @@
         "description": "clothing_nfthabbohoodie desc"
       },
       {
+        "code": "clothing_nfthabbopants",
+        "name": "2022 Habbo-housut",
+        "description": ""
+      },
+      {
         "code": "clothing_nfthabboshirt23",
         "name": "Habbo- t-paita 2023",
         "description": "clothing_nfthabboshirt23 desc"
@@ -37997,6 +38002,11 @@
         "description": "clothing_nftneondevilmask desc"
       },
       {
+        "code": "clothing_nftnewspaperhat",
+        "name": "Sanomalehtiorigamihattu",
+        "description": ""
+      },
+      {
         "code": "clothing_nftnoob",
         "name": "Noob-printti",
         "description": "clothing_nftnoob desc"
@@ -38205,6 +38215,11 @@
         "code": "clothing_nftrobotikcrown",
         "name": "Robottikruunu",
         "description": "clothing_nftrobotikcrown desc"
+      },
+      {
+        "code": "clothing_nftrockstar",
+        "name": "Rokkistaran kitara",
+        "description": ""
       },
       {
         "code": "clothing_nftroundshades0",
@@ -75123,27 +75138,27 @@
       },
       {
         "code": "nft_h24_cb_dp19",
-        "name": "nft_h24_cb_dp19 name",
+        "name": "2019 timanttitaulun maalausteline",
         "description": "nft_h24_cb_dp19 desc"
       },
       {
         "code": "nft_h24_cb_dp21",
-        "name": "nft_h24_cb_dp21 name",
+        "name": "2021 timanttitaulun maalausteline",
         "description": "nft_h24_cb_dp21 desc"
       },
       {
         "code": "nft_h24_cb_dp22",
-        "name": "nft_h24_cb_dp22 name",
+        "name": "2022 timanttitaulun maalausteline",
         "description": "nft_h24_cb_dp22 desc"
       },
       {
         "code": "nft_h24_cb_ecotron1",
-        "name": "nft_h24_cb_ecotron1 name",
+        "name": "Ecotron Gen 1-pokaali",
         "description": "nft_h24_cb_ecotron1 desc"
       },
       {
         "code": "nft_h24_cb_ecotron2_3",
-        "name": "nft_h24_cb_ecotron2_3 name",
+        "name": "Ecotron Gen 2 - 3. setin pokaali",
         "description": "nft_h24_cb_ecotron2_3 desc"
       },
       {
@@ -75158,7 +75173,7 @@
       },
       {
         "code": "nft_h24_cb_gen2club",
-        "name": "nft_h24_cb_gen2club name",
+        "name": "Hovimestaritoimintafiguuri",
         "description": "nft_h24_cb_gen2club desc"
       },
       {
@@ -75188,22 +75203,27 @@
       },
       {
         "code": "nft_h24_cb_pillars1",
-        "name": "nft_h24_cb_pillars1 name",
+        "name": "Pylväät 1-pokaali",
         "description": "nft_h24_cb_pillars1 desc"
       },
       {
         "code": "nft_h24_cb_pillows1",
-        "name": "nft_h24_cb_pillows1 name",
+        "name": "Tyynyt 1-pokaali",
         "description": "nft_h24_cb_pillows1 desc"
       },
       {
+        "code": "nft_h24_cb_pillows",
+        "name": "Tyynyt 2-pokaali",
+        "description": ""
+      },
+      {
         "code": "nft_h24_cb_sbags2",
-        "name": "nft_h24_cb_sbags2 name",
+        "name": "Makuupussit 2-pokaali",
         "description": "nft_h24_cb_sbags2 desc"
       },
       {
         "code": "nft_h24_cb_smokem2",
-        "name": "nft_h24_cb_smokem2 name",
+        "name": "2. savukonepokaali",
         "description": "nft_h24_cb_smokem2 desc"
       },
       {
@@ -75737,6 +75757,21 @@
         "description": "nft_h25_cb_collchair desc"
       },
       {
+        "code": "nft_h25_cb_nftcr",
+        "name": "NFTC-tavarapokaali",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_cb_robots",
+        "name": "2023 robottipokaali",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_cb_ugc24",
+        "name": "2024 UGC-pokaali",
+        "description": ""
+      },
+      {
         "code": "nft_h25_cheshirecatfigure",
         "name": "Veijarikissa-keräilyfiguuri",
         "description": "nft_h25_cheshirecatfigure desc"
@@ -75847,13 +75882,23 @@
         "description": ""
       },
       {
+        "code": "nft_h25_hcsohva2",
+        "name": "Luonnonvalkea samettisohva",
+        "description": "nft_h25_hcsohva2 desc"
+      },
+      {
         "code": "nft_h25_owlsculpture",
         "name": "Pöllöveistos",
         "description": "nft_h25_owlsculpture desc"
       },
       {
+        "code": "nft_h25_robotikanteater",
+        "name": "Robottimuurahaiskarhu",
+        "description": ""
+      },
+      {
         "code": "nft_h25_robotikpenguin",
-        "name": "nft_h25_robotikpenguin name",
+        "name": "Robottipingviini",
         "description": "nft_h25_robotikpenguin desc"
       },
       {
@@ -108360,6 +108405,21 @@
         "code": "wonderland_c25_teapot",
         "name": "Teekestien pannu",
         "description": "wonderland_c25_teapot desc"
+      },
+      {
+        "code": "wonderland_c25_tile1",
+        "name": "Single Tile Brown Card Floor",
+        "description": "wonderland_c25_tile1 desc"
+      },
+      {
+        "code": "wonderland_c25_tile2",
+        "name": "Single Tile Red Card Floor",
+        "description": "wonderland_c25_tile2 desc"
+      },
+      {
+        "code": "wonderland_c25_tile3",
+        "name": "wonderland_c25_tile3 name",
+        "description": "wonderland_c25_tile3 desc"
       },
       {
         "code": "wonderland_c25_whiteroseclock",
