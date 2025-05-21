@@ -53501,12 +53501,12 @@
   ],
   [
     "fball_audbench2",
-    "Gradas",
+    "Gradas de Estadio Negras",
     "Para que se sienten todos los fans"
   ],
   [
     "fball_audbench",
-    "Graderío",
+    "Gradas de Estadio",
     "La hinchada ruge"
   ],
   [
@@ -53531,8 +53531,8 @@
   ],
   [
     "fball_ball6",
-    "Habbo Fútbol",
-    "¡1, 2, chuta!"
+    "Habbo Balón",
+    "1, 2, ¡¡chuta!!"
   ],
   [
     "fball_ball",
@@ -53541,7 +53541,7 @@
   ],
   [
     "fball_bench",
-    "Área técnica",
+    "Banca de Estadio",
     "Suplente, pero con clase"
   ],
   [
@@ -53551,7 +53551,7 @@
   ],
   [
     "fball_cote",
-    "Mampara",
+    "Mampara de Estadio",
     "La de nervios que se tiene en el banquillo"
   ],
   [
@@ -53561,8 +53561,8 @@
   ],
   [
     "fball_crnr",
-    "Valla 1 Estadio",
-    "Esquina"
+    "Esquina de Estadio",
+    "¿De qué tamaño será tu juego?"
   ],
   [
     "fball_flag_grp",
@@ -53571,17 +53571,17 @@
   ],
   [
     "fball_fnc1",
-    "Valla 2 Estadio",
+    "Valla de Estadio Corta",
     "Recta mini"
   ],
   [
     "fball_fnc3",
-    "Valla 3 Estadio",
+    "Valla de Estadio Larga",
     "Recta maxi"
   ],
   [
     "fball_gate",
-    "Vestuario Fútbol",
+    "Vestuario de Fútbol",
     "Viste reglamentariamente"
   ],
   [
@@ -53646,7 +53646,7 @@
   ],
   [
     "fball_light",
-    "Foco Estadio",
+    "Luces de Estadio",
     "Iluminando a las estrellas del balón"
   ],
   [
@@ -89411,7 +89411,7 @@
   ],
   [
     "room_invisible_block2",
-    "Bloque Invisible (apilable, pisable)",
+    "Bloque Invisible: Apilable, Pisable",
     "room_invisible_block2 desc"
   ],
   [
@@ -89426,7 +89426,7 @@
   ],
   [
     "room_invisible_block",
-    "Bloque invisible (apilable, no pisable)",
+    "Bloque Invisible: Apilable, No pisable",
     "room_invisible_block desc"
   ],
   [
@@ -101216,7 +101216,7 @@
   ],
   [
     "tile_stackmagic4x4",
-    "4x4 Baldosa de Apilar Mágica",
+    "Baldosa Mágica: Apilar 4x4",
     "tile_stackmagic4x4 desc"
   ],
   [
@@ -106751,12 +106751,12 @@
   ],
   [
     "wf_numbertile1",
-    "Casilla Numérica Clara",
+    "Casilla Numérica Oscura",
     "wf_numbertile1 desc"
   ],
   [
     "wf_numbertile2",
-    "Casilla Numérica Oscura",
+    "Casilla Numérica Clara",
     "wf_numbertile2 desc"
   ],
   [
@@ -106771,7 +106771,7 @@
   ],
   [
     "wf_pyramid",
-    "Pirámide oculta",
+    "Pirámide Oculta",
     "Se esconde en el suelo y periódicamente aparece, actuando como un divisor"
   ],
   [

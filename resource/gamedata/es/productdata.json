@@ -53503,12 +53503,12 @@
       },
       {
         "code": "fball_audbench2",
-        "name": "Gradas",
+        "name": "Gradas de Estadio Negras",
         "description": "Para que se sienten todos los fans"
       },
       {
         "code": "fball_audbench",
-        "name": "Graderío",
+        "name": "Gradas de Estadio",
         "description": "La hinchada ruge"
       },
       {
@@ -53533,8 +53533,8 @@
       },
       {
         "code": "fball_ball6",
-        "name": "Habbo Fútbol",
-        "description": "¡1, 2, chuta!"
+        "name": "Habbo Balón",
+        "description": "1, 2, ¡¡chuta!!"
       },
       {
         "code": "fball_ball",
@@ -53543,7 +53543,7 @@
       },
       {
         "code": "fball_bench",
-        "name": "Área técnica",
+        "name": "Banca de Estadio",
         "description": "Suplente, pero con clase"
       },
       {
@@ -53553,7 +53553,7 @@
       },
       {
         "code": "fball_cote",
-        "name": "Mampara",
+        "name": "Mampara de Estadio",
         "description": "La de nervios que se tiene en el banquillo"
       },
       {
@@ -53563,8 +53563,8 @@
       },
       {
         "code": "fball_crnr",
-        "name": "Valla 1 Estadio",
-        "description": "Esquina"
+        "name": "Esquina de Estadio",
+        "description": "¿De qué tamaño será tu juego?"
       },
       {
         "code": "fball_flag_grp",
@@ -53573,17 +53573,17 @@
       },
       {
         "code": "fball_fnc1",
-        "name": "Valla 2 Estadio",
+        "name": "Valla de Estadio Corta",
         "description": "Recta mini"
       },
       {
         "code": "fball_fnc3",
-        "name": "Valla 3 Estadio",
+        "name": "Valla de Estadio Larga",
         "description": "Recta maxi"
       },
       {
         "code": "fball_gate",
-        "name": "Vestuario Fútbol",
+        "name": "Vestuario de Fútbol",
         "description": "Viste reglamentariamente"
       },
       {
@@ -53648,7 +53648,7 @@
       },
       {
         "code": "fball_light",
-        "name": "Foco Estadio",
+        "name": "Luces de Estadio",
         "description": "Iluminando a las estrellas del balón"
       },
       {
@@ -89413,7 +89413,7 @@
       },
       {
         "code": "room_invisible_block2",
-        "name": "Bloque Invisible (apilable, pisable)",
+        "name": "Bloque Invisible: Apilable, Pisable",
         "description": "room_invisible_block2 desc"
       },
       {
@@ -89428,7 +89428,7 @@
       },
       {
         "code": "room_invisible_block",
-        "name": "Bloque invisible (apilable, no pisable)",
+        "name": "Bloque Invisible: Apilable, No pisable",
         "description": "room_invisible_block desc"
       },
       {
@@ -101218,7 +101218,7 @@
       },
       {
         "code": "tile_stackmagic4x4",
-        "name": "4x4 Baldosa de Apilar Mágica",
+        "name": "Baldosa Mágica: Apilar 4x4",
         "description": "tile_stackmagic4x4 desc"
       },
       {
@@ -106753,12 +106753,12 @@
       },
       {
         "code": "wf_numbertile1",
-        "name": "Casilla Numérica Clara",
+        "name": "Casilla Numérica Oscura",
         "description": "wf_numbertile1 desc"
       },
       {
         "code": "wf_numbertile2",
-        "name": "Casilla Numérica Oscura",
+        "name": "Casilla Numérica Clara",
         "description": "wf_numbertile2 desc"
       },
       {
@@ -106773,7 +106773,7 @@
       },
       {
         "code": "wf_pyramid",
-        "name": "Pirámide oculta",
+        "name": "Pirámide Oculta",
         "description": "Se esconde en el suelo y periódicamente aparece, actuando como un divisor"
       },
       {
