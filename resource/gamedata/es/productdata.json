@@ -9908,12 +9908,12 @@
       },
       {
         "code": "ads_drsports_pod_bd",
-        "name": "Silla Pod Deportes DR",
+        "name": "Pod Deportes DR",
         "description": ""
       },
       {
         "code": "ads_drsports_podchair",
-        "name": "Silla Pod Deportes DR",
+        "name": "Pod Deportes DR",
         "description": "ads_drsports_podchair desc"
       },
       {
@@ -89788,12 +89788,12 @@
       },
       {
         "code": "room_switcher1",
-        "name": "Conmutador de Sala Circular",
+        "name": "Teleport Circular",
         "description": "room_switcher1 desc"
       },
       {
         "code": "room_switcher2",
-        "name": "Conmutador de Sala Flecha",
+        "name": "Teleport Flecha",
         "description": "room_switcher2 desc"
       },
       {
@@ -106468,7 +106468,7 @@
       },
       {
         "code": "wf_act_teleport_to_room",
-        "name": "Efecto Wired: Teletransporte a Sala",
+        "name": "Efecto WIRED: Teletransportar a Sala",
         "description": "wf_act_teleport_to_room desc"
       },
       {
@@ -106878,7 +106878,7 @@
       },
       {
         "code": "wf_room_linker",
-        "name": "Nexo de Sala Wired",
+        "name": "Nexo de Sala WIRED",
         "description": "wf_room_linker desc"
       },
       {
