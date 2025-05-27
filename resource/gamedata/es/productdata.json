@@ -59123,43 +59123,43 @@
       },
       {
         "code": "highscore_fastesttime_alltime",
-        "name": "Tiempo más Rápido - Todo el tiempo",
-        "description": "Tiempo más Rápido - Todo el tiempo"
+        "name": "Tabla de Clasificación: Tiempo más Rápido (todos los tiempos)",
+        "description": "Tabla de Clasificación: Tiempo más Rápido (todos los tiempos)"
       },
       {
         "code": "highscore_fastesttime_daily",
-        "name": "Tiempo más Rápido - Diario",
-        "description": "Tiempo más Rápido - Diario"
+        "name": "Tabla de Clasificación: Tiempo más Rápido (diario)",
+        "description": "Tabla de Clasificación: Tiempo más Rápido (diario)"
       },
       {
         "code": "highscore_fastesttime_monthly",
-        "name": "Tiempo más Rápido - Mensual",
-        "description": "Tiempo más Rápido - Mensual"
+        "name": "Tabla de Clasificación: Tiempo más Rápido (mensual)",
+        "description": "Tabla de Clasificación: Tiempo más Rápido (mensual)"
       },
       {
         "code": "highscore_fastesttime_weekly",
-        "name": "Tiempo más Rápido - Semanal",
-        "description": "Tiempo más Rápido - Semanal"
+        "name": "Tabla de Clasificación: Tiempo más Rápido (semanal)",
+        "description": "Tabla de Clasificación: Tiempo más Rápido (semanal)"
       },
       {
         "code": "highscore_longesttime_alltime",
-        "name": "Tiempo Más Largo - Todos los tiempos",
-        "description": "Tiempo Más Largo - Todos los tiempos"
+        "name": "Tabla de Clasificación: Tiempo Más Largo (todos los tiempos)",
+        "description": "Tabla de Clasificación: Tiempo Más Largo (todos los tiempos)"
       },
       {
         "code": "highscore_longesttime_daily",
-        "name": "Tiempo Más Largo - Diario",
-        "description": "Tiempo Más Largo - Diario"
+        "name": "Tabla de Clasificación: Tiempo Más Largo (diario)",
+        "description": "Tabla de Clasificación: Tiempo Más Largo (diario)"
       },
       {
         "code": "highscore_longesttime_monthly",
-        "name": "Tiempo Más Largo - Mensual",
-        "description": "Tiempo Más Largo - Mensual"
+        "name": "Tabla de Clasificación: Tiempo Más Largo (mensual)",
+        "description": "Tabla de Clasificación: Tiempo Más Largo (mensual)"
       },
       {
         "code": "highscore_longesttime_weekly",
-        "name": "Tiempo Más Largo - Semanal",
-        "description": "Tiempo Más Largo - Semanal"
+        "name": "Tabla de Clasificación: Tiempo Más Largo (semanal)",
+        "description": "Tabla de Clasificación: Tiempo Más Largo (semanal)"
       },
       {
         "code": "highscore_mostwin_alltime",
@@ -77749,6 +77749,26 @@
       {
         "code": "ofcomidanavidad",
         "name": "Festín Navideño",
+        "description": ""
+      },
+      {
+        "code": "offer_silver1",
+        "name": "500 Silver",
+        "description": ""
+      },
+      {
+        "code": "offer_silver2",
+        "name": "500 Silver",
+        "description": ""
+      },
+      {
+        "code": "offer_silver3",
+        "name": "500 Silver",
+        "description": ""
+      },
+      {
+        "code": "offer_silver4",
+        "name": "500 Silver",
         "description": ""
       },
       {
@@ -101848,22 +101868,22 @@
       },
       {
         "code": "trophy_chatterbox_bronze",
-        "name": "trophy_chatterbox_bronze name",
+        "name": "Bronze Chatterbox Trophy",
         "description": "trophy_chatterbox_bronze desc"
       },
       {
         "code": "trophy_chatterbox_gold",
-        "name": "trophy_chatterbox_gold name",
+        "name": "Gold Chatterbox Trophy",
         "description": "trophy_chatterbox_gold desc"
       },
       {
         "code": "trophy_chatterbox_iron",
-        "name": "trophy_chatterbox_iron name",
+        "name": "Iron Chatterbox Trophy",
         "description": "trophy_chatterbox_iron desc"
       },
       {
         "code": "trophy_chatterbox_silver",
-        "name": "trophy_chatterbox_silver name",
+        "name": "Silver Chatterbox Trophy",
         "description": "trophy_chatterbox_silver desc"
       },
       {
@@ -101913,22 +101933,22 @@
       },
       {
         "code": "trophy_photographer_bronze",
-        "name": "trophy_photographer_bronze name",
+        "name": "Bronze Photographer Trophy",
         "description": "trophy_photographer_bronze desc"
       },
       {
         "code": "trophy_photographer_gold",
-        "name": "trophy_photographer_gold name",
+        "name": "Gold Photographer Trophy",
         "description": "trophy_photographer_gold desc"
       },
       {
         "code": "trophy_photographer_iron",
-        "name": "trophy_photographer_iron name",
+        "name": "Iron Photographer Trophy",
         "description": "trophy_photographer_iron desc"
       },
       {
         "code": "trophy_photographer_silver",
-        "name": "trophy_photographer_silver name",
+        "name": "Silver Photographer Trophy",
         "description": "trophy_photographer_silver desc"
       },
       {
@@ -101953,22 +101973,22 @@
       },
       {
         "code": "trophy_streamer_bronze",
-        "name": "trophy_streamer_bronze name",
+        "name": "Bronze Streamer Trophy",
         "description": "trophy_streamer_bronze desc"
       },
       {
         "code": "trophy_streamer_gold",
-        "name": "trophy_streamer_gold name",
+        "name": "Gold Streamer Trophy",
         "description": "trophy_streamer_gold desc"
       },
       {
         "code": "trophy_streamer_iron",
-        "name": "trophy_streamer_iron name",
+        "name": "Iron Streamer Trophy",
         "description": "trophy_streamer_iron desc"
       },
       {
         "code": "trophy_streamer_silver",
-        "name": "trophy_streamer_silver name",
+        "name": "Silver Streamer Trophy",
         "description": "trophy_streamer_silver desc"
       },
       {
@@ -101978,42 +101998,42 @@
       },
       {
         "code": "trophy_videographer_bronze",
-        "name": "trophy_videographer_bronze name",
+        "name": "Bronze Videographer Trophy",
         "description": "trophy_videographer_bronze desc"
       },
       {
         "code": "trophy_videographer_gold",
-        "name": "trophy_videographer_gold name",
+        "name": "Gold Videographer Trophy",
         "description": "trophy_videographer_gold desc"
       },
       {
         "code": "trophy_videographer_iron",
-        "name": "trophy_videographer_iron name",
+        "name": "Iron Videographer Trophy",
         "description": "trophy_videographer_iron desc"
       },
       {
         "code": "trophy_videographer_silver",
-        "name": "trophy_videographer_silver name",
+        "name": "Silver Videographer Trophy",
         "description": "trophy_videographer_silver desc"
       },
       {
         "code": "trophy_viraldancer_bronze",
-        "name": "trophy_viraldancer_bronze name",
+        "name": "Bronze Viral Dancer Trophy",
         "description": "trophy_viraldancer_bronze desc"
       },
       {
         "code": "trophy_viraldancer_gold",
-        "name": "trophy_viraldancer_gold name",
+        "name": "Gold Viral Dancer Trophy",
         "description": "trophy_viraldancer_gold desc"
       },
       {
         "code": "trophy_viraldancer_iron",
-        "name": "trophy_viraldancer_iron name",
+        "name": "Iron Viral Dancer Trophy",
         "description": "trophy_viraldancer_iron desc"
       },
       {
         "code": "trophy_viraldancer_silver",
-        "name": "trophy_viraldancer_silver name",
+        "name": "Silver Viral Dancer Trophy",
         "description": "trophy_viraldancer_silver desc"
       },
       {

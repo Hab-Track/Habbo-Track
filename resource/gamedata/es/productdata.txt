@@ -59121,43 +59121,43 @@
   ],
   [
     "highscore_fastesttime_alltime",
-    "Tiempo más Rápido - Todo el tiempo",
-    "Tiempo más Rápido - Todo el tiempo"
+    "Tabla de Clasificación: Tiempo más Rápido (todos los tiempos)",
+    "Tabla de Clasificación: Tiempo más Rápido (todos los tiempos)"
   ],
   [
     "highscore_fastesttime_daily",
-    "Tiempo más Rápido - Diario",
-    "Tiempo más Rápido - Diario"
+    "Tabla de Clasificación: Tiempo más Rápido (diario)",
+    "Tabla de Clasificación: Tiempo más Rápido (diario)"
   ],
   [
     "highscore_fastesttime_monthly",
-    "Tiempo más Rápido - Mensual",
-    "Tiempo más Rápido - Mensual"
+    "Tabla de Clasificación: Tiempo más Rápido (mensual)",
+    "Tabla de Clasificación: Tiempo más Rápido (mensual)"
   ],
   [
     "highscore_fastesttime_weekly",
-    "Tiempo más Rápido - Semanal",
-    "Tiempo más Rápido - Semanal"
+    "Tabla de Clasificación: Tiempo más Rápido (semanal)",
+    "Tabla de Clasificación: Tiempo más Rápido (semanal)"
   ],
   [
     "highscore_longesttime_alltime",
-    "Tiempo Más Largo - Todos los tiempos",
-    "Tiempo Más Largo - Todos los tiempos"
+    "Tabla de Clasificación: Tiempo Más Largo (todos los tiempos)",
+    "Tabla de Clasificación: Tiempo Más Largo (todos los tiempos)"
   ],
   [
     "highscore_longesttime_daily",
-    "Tiempo Más Largo - Diario",
-    "Tiempo Más Largo - Diario"
+    "Tabla de Clasificación: Tiempo Más Largo (diario)",
+    "Tabla de Clasificación: Tiempo Más Largo (diario)"
   ],
   [
     "highscore_longesttime_monthly",
-    "Tiempo Más Largo - Mensual",
-    "Tiempo Más Largo - Mensual"
+    "Tabla de Clasificación: Tiempo Más Largo (mensual)",
+    "Tabla de Clasificación: Tiempo Más Largo (mensual)"
   ],
   [
     "highscore_longesttime_weekly",
-    "Tiempo Más Largo - Semanal",
-    "Tiempo Más Largo - Semanal"
+    "Tabla de Clasificación: Tiempo Más Largo (semanal)",
+    "Tabla de Clasificación: Tiempo Más Largo (semanal)"
   ],
   [
     "highscore_mostwin_alltime",
@@ -77747,6 +77747,26 @@
   [
     "ofcomidanavidad",
     "Festín Navideño",
+    ""
+  ],
+  [
+    "offer_silver1",
+    "500 Silver",
+    ""
+  ],
+  [
+    "offer_silver2",
+    "500 Silver",
+    ""
+  ],
+  [
+    "offer_silver3",
+    "500 Silver",
+    ""
+  ],
+  [
+    "offer_silver4",
+    "500 Silver",
     ""
   ],
   [
@@ -101846,22 +101866,22 @@
   ],
   [
     "trophy_chatterbox_bronze",
-    "trophy_chatterbox_bronze name",
+    "Bronze Chatterbox Trophy",
     "trophy_chatterbox_bronze desc"
   ],
   [
     "trophy_chatterbox_gold",
-    "trophy_chatterbox_gold name",
+    "Gold Chatterbox Trophy",
     "trophy_chatterbox_gold desc"
   ],
   [
     "trophy_chatterbox_iron",
-    "trophy_chatterbox_iron name",
+    "Iron Chatterbox Trophy",
     "trophy_chatterbox_iron desc"
   ],
   [
     "trophy_chatterbox_silver",
-    "trophy_chatterbox_silver name",
+    "Silver Chatterbox Trophy",
     "trophy_chatterbox_silver desc"
   ],
   [
@@ -101911,22 +101931,22 @@
   ],
   [
     "trophy_photographer_bronze",
-    "trophy_photographer_bronze name",
+    "Bronze Photographer Trophy",
     "trophy_photographer_bronze desc"
   ],
   [
     "trophy_photographer_gold",
-    "trophy_photographer_gold name",
+    "Gold Photographer Trophy",
     "trophy_photographer_gold desc"
   ],
   [
     "trophy_photographer_iron",
-    "trophy_photographer_iron name",
+    "Iron Photographer Trophy",
     "trophy_photographer_iron desc"
   ],
   [
     "trophy_photographer_silver",
-    "trophy_photographer_silver name",
+    "Silver Photographer Trophy",
     "trophy_photographer_silver desc"
   ],
   [
@@ -101951,22 +101971,22 @@
   ],
   [
     "trophy_streamer_bronze",
-    "trophy_streamer_bronze name",
+    "Bronze Streamer Trophy",
     "trophy_streamer_bronze desc"
   ],
   [
     "trophy_streamer_gold",
-    "trophy_streamer_gold name",
+    "Gold Streamer Trophy",
     "trophy_streamer_gold desc"
   ],
   [
     "trophy_streamer_iron",
-    "trophy_streamer_iron name",
+    "Iron Streamer Trophy",
     "trophy_streamer_iron desc"
   ],
   [
     "trophy_streamer_silver",
-    "trophy_streamer_silver name",
+    "Silver Streamer Trophy",
     "trophy_streamer_silver desc"
   ],
   [
@@ -101976,42 +101996,42 @@
   ],
   [
     "trophy_videographer_bronze",
-    "trophy_videographer_bronze name",
+    "Bronze Videographer Trophy",
     "trophy_videographer_bronze desc"
   ],
   [
     "trophy_videographer_gold",
-    "trophy_videographer_gold name",
+    "Gold Videographer Trophy",
     "trophy_videographer_gold desc"
   ],
   [
     "trophy_videographer_iron",
-    "trophy_videographer_iron name",
+    "Iron Videographer Trophy",
     "trophy_videographer_iron desc"
   ],
   [
     "trophy_videographer_silver",
-    "trophy_videographer_silver name",
+    "Silver Videographer Trophy",
     "trophy_videographer_silver desc"
   ],
   [
     "trophy_viraldancer_bronze",
-    "trophy_viraldancer_bronze name",
+    "Bronze Viral Dancer Trophy",
     "trophy_viraldancer_bronze desc"
   ],
   [
     "trophy_viraldancer_gold",
-    "trophy_viraldancer_gold name",
+    "Gold Viral Dancer Trophy",
     "trophy_viraldancer_gold desc"
   ],
   [
     "trophy_viraldancer_iron",
-    "trophy_viraldancer_iron name",
+    "Iron Viral Dancer Trophy",
     "trophy_viraldancer_iron desc"
   ],
   [
     "trophy_viraldancer_silver",
-    "trophy_viraldancer_silver name",
+    "Silver Viral Dancer Trophy",
     "trophy_viraldancer_silver desc"
   ],
   [
