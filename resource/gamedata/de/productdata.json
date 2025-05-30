@@ -29063,7 +29063,7 @@
       },
       {
         "code": "br_c25_curupiracrafting",
-        "name": "br_c25_curupiracrafting name",
+        "name": "Curupira Handwerkstisch",
         "description": "br_c25_curupiracrafting desc"
       },
       {
@@ -29285,6 +29285,11 @@
         "code": "br_r25_boitata",
         "name": "br_r25_boitata name",
         "description": "br_r25_boitata desc"
+      },
+      {
+        "code": "br_r25_ipetree_bd",
+        "name": "Lapacho-Baum",
+        "description": ""
       },
       {
         "code": "br_r25_ipetree",
@@ -30060,6 +30065,11 @@
         "code": "captain_bundle_vp",
         "name": "Kapitän Bündel (Virtual Piggy)",
         "description": "Includes 95 furni in a pre-built room, exclusive Captain's Effect and Badge. Plus a Piggy Pirate Flag!"
+      },
+      {
+        "code": "carebears_bundle_bd",
+        "name": "Glücksbärchis Paket",
+        "description": ""
       },
       {
         "code": "carnival15_hotair_brazil",
@@ -31402,8 +31412,28 @@
         "description": ""
       },
       {
+        "code": "cl_cheerbearoutfit_bd",
+        "name": "Hurrabärchi-Outfit",
+        "description": ""
+      },
+      {
         "code": "cl_footballboppers_bd",
         "name": "Football Boppers",
+        "description": ""
+      },
+      {
+        "code": "cl_funshinebearoutfit_bd",
+        "name": "Sonnenscheinbärchi-Outfit",
+        "description": ""
+      },
+      {
+        "code": "cl_goodluckbearoutfit_bd",
+        "name": "Glücksbärchi-Outfit",
+        "description": ""
+      },
+      {
+        "code": "cl_grumpybearoutfit_bd",
+        "name": "Brummbärchi-Outfit",
         "description": ""
       },
       {
@@ -31457,8 +31487,18 @@
         "description": ""
       },
       {
+        "code": "cl_sharebearoutfit_bd",
+        "name": "Teile-gern-Bärchi-Outfit",
+        "description": ""
+      },
+      {
         "code": "cl_sportsponytail_bd",
         "name": "Sports Ponytail",
+        "description": ""
+      },
+      {
+        "code": "cl_tenderheartoutfit_bd",
+        "name": "Schmusebärchi-Outfit",
         "description": ""
       },
       {
@@ -33388,7 +33428,7 @@
       },
       {
         "code": "clothing_cheerbearoutfit",
-        "name": "clothing_cheerbearoutfit name",
+        "name": "Hurrabärchi-Outfit",
         "description": "clothing_cheerbearoutfit desc"
       },
       {
@@ -34503,7 +34543,7 @@
       },
       {
         "code": "clothing_funshinebearoutfit",
-        "name": "clothing_funshinebearoutfit name",
+        "name": "Sonnenscheinbärchi-Outfit",
         "description": "clothing_funshinebearoutfit desc"
       },
       {
@@ -34683,7 +34723,7 @@
       },
       {
         "code": "clothing_goodluckbearoutfit",
-        "name": "clothing_goodluckbearoutfit name",
+        "name": "Glücksbärchi-Outfit",
         "description": "clothing_goodluckbearoutfit desc"
       },
       {
@@ -34758,7 +34798,7 @@
       },
       {
         "code": "clothing_grumpybearoutfit",
-        "name": "clothing_grumpybearoutfit name",
+        "name": "Brummbärchi-Outfit",
         "description": "clothing_grumpybearoutfit desc"
       },
       {
@@ -35967,6 +36007,11 @@
         "description": "clothing_nftbabysnowman desc"
       },
       {
+        "code": "clothing_nftbackmonkey",
+        "name": "Monkey im Tragetuch",
+        "description": ""
+      },
+      {
         "code": "clothing_nftballooncrown1",
         "name": "Gelbe 2.Geburtstags-Ballonkrone",
         "description": "clothing_nftballooncrown1 desc"
@@ -36805,6 +36850,11 @@
         "code": "clothing_nftmininoob",
         "name": "Noob-Schlüsselanhänger",
         "description": "clothing_nftmininoob desc"
+      },
+      {
+        "code": "clothing_nftmonkeyfriend",
+        "name": "Persönlicher Dschungelführer",
+        "description": ""
       },
       {
         "code": "clothing_nftmop",
@@ -40752,6 +40802,11 @@
         "description": "clothing_r25_knightarmor desc"
       },
       {
+        "code": "clothing_r25_mermaid_bd",
+        "name": "Meerjungfrau Iara Outfit",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_mermaid",
         "name": "clothing_r25_mermaid name",
         "description": "clothing_r25_mermaid desc"
@@ -41068,7 +41123,7 @@
       },
       {
         "code": "clothing_sharebearoutfit",
-        "name": "clothing_sharebearoutfit name",
+        "name": "Teile-gern-Bärchi-Outfit",
         "description": "clothing_sharebearoutfit desc"
       },
       {
@@ -41503,7 +41558,7 @@
       },
       {
         "code": "clothing_tenderheartoutfit",
-        "name": "clothing_tenderheartoutfit name",
+        "name": "Schmusebärchi-Outfit",
         "description": "clothing_tenderheartoutfit desc"
       },
       {
@@ -74958,22 +75013,22 @@
       },
       {
         "code": "nft_h25_monkeybzn_chair",
-        "name": "nft_h25_monkeybzn_chair name",
+        "name": "Riesenbananensessel",
         "description": "nft_h25_monkeybzn_chair desc"
       },
       {
         "code": "nft_h25_monkeybzn_drinks",
-        "name": "nft_h25_monkeybzn_drinks name",
+        "name": "Dschungel-Snacks",
         "description": "nft_h25_monkeybzn_drinks desc"
       },
       {
         "code": "nft_h25_monkeybzn_gang",
-        "name": "nft_h25_monkeybzn_gang name",
+        "name": "Monkey-Gang",
         "description": "nft_h25_monkeybzn_gang desc"
       },
       {
         "code": "nft_h25_monkeybzn_pond",
-        "name": "nft_h25_monkeybzn_pond name",
+        "name": "Monkey-Teich",
         "description": "nft_h25_monkeybzn_pond desc"
       },
       {

@@ -30621,7 +30621,7 @@
   ],
   [
     "br_c25_curupiracrafting",
-    "br_c25_curupiracrafting name",
+    "Curupira Üretim Masası",
     "br_c25_curupiracrafting desc"
   ],
   [
@@ -30843,6 +30843,11 @@
     "br_r25_boitata",
     "br_r25_boitata name",
     "br_r25_boitata desc"
+  ],
+  [
+    "br_r25_ipetree_bd",
+    "Lapacho Ağacı",
+    ""
   ],
   [
     "br_r25_ipetree",
@@ -31653,6 +31658,11 @@
     "captain_bundle_vp",
     "Kaptan Paketi (Sanal Tasaruf Paketi)",
     "Includes 95 furni in a pre-built room, exclusive Captain's Effect and Badge. Plus a Piggy Pirate Flag!"
+  ],
+  [
+    "carebears_bundle_bd",
+    "Sevimli Ayıcıklar Paketi",
+    ""
   ],
   [
     "carnival15_hotair_brazil",
@@ -33000,8 +33010,28 @@
     ""
   ],
   [
+    "cl_cheerbearoutfit_bd",
+    "Neşeli Ayıcık Kıyafeti",
+    ""
+  ],
+  [
     "cl_footballboppers_bd",
     "Football Boppers",
+    ""
+  ],
+  [
+    "cl_funshinebearoutfit_bd",
+    "Eğlenceli Ayıcık Kıyafeti",
+    ""
+  ],
+  [
+    "cl_goodluckbearoutfit_bd",
+    "Şanslı Ayıcık Kıyafeti",
+    ""
+  ],
+  [
+    "cl_grumpybearoutfit_bd",
+    "Huysuz Ayıcık Kıyafeti",
     ""
   ],
   [
@@ -33055,8 +33085,18 @@
     ""
   ],
   [
+    "cl_sharebearoutfit_bd",
+    "Cömert Ayıcık Kıyafeti",
+    ""
+  ],
+  [
     "cl_sportsponytail_bd",
     "Sports Ponytail",
+    ""
+  ],
+  [
+    "cl_tenderheartoutfit_bd",
+    "Şefkatli Ayıcık Kıyafeti",
     ""
   ],
   [
@@ -34991,7 +35031,7 @@
   ],
   [
     "clothing_cheerbearoutfit",
-    "clothing_cheerbearoutfit name",
+    "Neşeli Ayıcık Kıyafeti",
     "clothing_cheerbearoutfit desc"
   ],
   [
@@ -36106,7 +36146,7 @@
   ],
   [
     "clothing_funshinebearoutfit",
-    "clothing_funshinebearoutfit name",
+    "Eğlenceli Ayıcık Kıyafeti",
     "clothing_funshinebearoutfit desc"
   ],
   [
@@ -36286,7 +36326,7 @@
   ],
   [
     "clothing_goodluckbearoutfit",
-    "clothing_goodluckbearoutfit name",
+    "Şanslı Ayıcık Kıyafeti",
     "clothing_goodluckbearoutfit desc"
   ],
   [
@@ -36361,7 +36401,7 @@
   ],
   [
     "clothing_grumpybearoutfit",
-    "clothing_grumpybearoutfit name",
+    "Huysuz Ayıcık Kıyafeti",
     "clothing_grumpybearoutfit desc"
   ],
   [
@@ -37570,6 +37610,11 @@
     "clothing_nftbabysnowman desc"
   ],
   [
+    "clothing_nftbackmonkey",
+    "Askıda Maymun",
+    ""
+  ],
+  [
     "clothing_nftballooncrown1",
     "2. Yıl Dönümü Sarı Şişme Taç",
     "clothing_nftballooncrown1 desc"
@@ -38408,6 +38453,11 @@
     "clothing_nftmininoob",
     "Acemi Anahtarlık",
     "clothing_nftmininoob desc"
+  ],
+  [
+    "clothing_nftmonkeyfriend",
+    "Kişisel Orman Rehberi",
+    ""
   ],
   [
     "clothing_nftmop",
@@ -42355,6 +42405,11 @@
     "clothing_r25_knightarmor desc"
   ],
   [
+    "clothing_r25_mermaid_bd",
+    "Deniz kızı İara Kıyafeti",
+    ""
+  ],
+  [
     "clothing_r25_mermaid",
     "clothing_r25_mermaid name",
     "clothing_r25_mermaid desc"
@@ -42671,7 +42726,7 @@
   ],
   [
     "clothing_sharebearoutfit",
-    "clothing_sharebearoutfit name",
+    "Cömert Ayıcık Kıyafeti",
     "clothing_sharebearoutfit desc"
   ],
   [
@@ -43106,7 +43161,7 @@
   ],
   [
     "clothing_tenderheartoutfit",
-    "clothing_tenderheartoutfit name",
+    "Şefkatli Ayıcık Kıyafeti",
     "clothing_tenderheartoutfit desc"
   ],
   [
@@ -85316,22 +85371,22 @@
   ],
   [
     "nft_h25_monkeybzn_chair",
-    "nft_h25_monkeybzn_chair name",
+    "Dev Muz Sandalye",
     "nft_h25_monkeybzn_chair desc"
   ],
   [
     "nft_h25_monkeybzn_drinks",
-    "nft_h25_monkeybzn_drinks name",
+    "Orman Muz Meşrubatı",
     "nft_h25_monkeybzn_drinks desc"
   ],
   [
     "nft_h25_monkeybzn_gang",
-    "nft_h25_monkeybzn_gang name",
+    "Maymun Çetesi",
     "nft_h25_monkeybzn_gang desc"
   ],
   [
     "nft_h25_monkeybzn_pond",
-    "nft_h25_monkeybzn_pond name",
+    "Maymun Banyosu",
     "nft_h25_monkeybzn_pond desc"
   ],
   [

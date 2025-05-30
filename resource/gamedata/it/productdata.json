@@ -29583,7 +29583,7 @@
       },
       {
         "code": "br_c25_curupiracrafting",
-        "name": "br_c25_curupiracrafting name",
+        "name": "Tavolo del Crafting Curupira",
         "description": "br_c25_curupiracrafting desc"
       },
       {
@@ -29805,6 +29805,11 @@
         "code": "br_r25_boitata",
         "name": "br_r25_boitata name",
         "description": "br_r25_boitata desc"
+      },
+      {
+        "code": "br_r25_ipetree_bd",
+        "name": "Albero Lapacho",
+        "description": ""
       },
       {
         "code": "br_r25_ipetree",
@@ -30600,6 +30605,11 @@
         "code": "captain_bundle_vp",
         "name": "Captain Bundle (Virtual Piggy)",
         "description": "Includes 95 furni in a pre-built room, exclusive Captain's Effect and Badge. Plus a Piggy Pirate Flag!"
+      },
+      {
+        "code": "carebears_bundle_bd",
+        "name": "Pack Orsetti del Cuore",
+        "description": ""
       },
       {
         "code": "carnival15_hotair_brazil",
@@ -31937,8 +31947,28 @@
         "description": ""
       },
       {
+        "code": "cl_cheerbearoutfit_bd",
+        "name": "Outfit Allegrorsa",
+        "description": ""
+      },
+      {
         "code": "cl_footballboppers_bd",
         "name": "Football Boppers",
+        "description": ""
+      },
+      {
+        "code": "cl_funshinebearoutfit_bd",
+        "name": "Outfit Mattacchiorso",
+        "description": ""
+      },
+      {
+        "code": "cl_goodluckbearoutfit_bd",
+        "name": "Outfit Fortunorso",
+        "description": ""
+      },
+      {
+        "code": "cl_grumpybearoutfit_bd",
+        "name": "Outfit Brontolorso",
         "description": ""
       },
       {
@@ -31992,8 +32022,18 @@
         "description": ""
       },
       {
+        "code": "cl_sharebearoutfit_bd",
+        "name": "Outfit Generorso",
+        "description": ""
+      },
+      {
         "code": "cl_sportsponytail_bd",
         "name": "Sports Ponytail",
+        "description": ""
+      },
+      {
+        "code": "cl_tenderheartoutfit_bd",
+        "name": "Outfit Tenerorso",
         "description": ""
       },
       {
@@ -33923,7 +33963,7 @@
       },
       {
         "code": "clothing_cheerbearoutfit",
-        "name": "clothing_cheerbearoutfit name",
+        "name": "Outfit Allegrorsa",
         "description": "clothing_cheerbearoutfit desc"
       },
       {
@@ -35038,7 +35078,7 @@
       },
       {
         "code": "clothing_funshinebearoutfit",
-        "name": "clothing_funshinebearoutfit name",
+        "name": "Outfit Mattacchiorso",
         "description": "clothing_funshinebearoutfit desc"
       },
       {
@@ -35218,7 +35258,7 @@
       },
       {
         "code": "clothing_goodluckbearoutfit",
-        "name": "clothing_goodluckbearoutfit name",
+        "name": "Outfit Fortunorso",
         "description": "clothing_goodluckbearoutfit desc"
       },
       {
@@ -35293,7 +35333,7 @@
       },
       {
         "code": "clothing_grumpybearoutfit",
-        "name": "clothing_grumpybearoutfit name",
+        "name": "Outfit Brontolorso",
         "description": "clothing_grumpybearoutfit desc"
       },
       {
@@ -36492,6 +36532,11 @@
         "description": "clothing_nftbabysnowman desc"
       },
       {
+        "code": "clothing_nftbackmonkey",
+        "name": "Scimmia in Zaino",
+        "description": ""
+      },
+      {
         "code": "clothing_nftballooncrown1",
         "name": "Corona Palloncini Gialla Secondo Anniversario",
         "description": "clothing_nftballooncrown1 desc"
@@ -37330,6 +37375,11 @@
         "code": "clothing_nftmininoob",
         "name": "Portachiavi Noob",
         "description": "clothing_nftmininoob desc"
+      },
+      {
+        "code": "clothing_nftmonkeyfriend",
+        "name": "Guida Personale della Giungla",
+        "description": ""
       },
       {
         "code": "clothing_nftmop",
@@ -41277,6 +41327,11 @@
         "description": "clothing_r25_knightarmor desc"
       },
       {
+        "code": "clothing_r25_mermaid_bd",
+        "name": "Outfit Sirena Iara",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_mermaid",
         "name": "clothing_r25_mermaid name",
         "description": "clothing_r25_mermaid desc"
@@ -41593,7 +41648,7 @@
       },
       {
         "code": "clothing_sharebearoutfit",
-        "name": "clothing_sharebearoutfit name",
+        "name": "Outfit Generorso",
         "description": "clothing_sharebearoutfit desc"
       },
       {
@@ -42028,7 +42083,7 @@
       },
       {
         "code": "clothing_tenderheartoutfit",
-        "name": "clothing_tenderheartoutfit name",
+        "name": "Outfit Tenerorso",
         "description": "clothing_tenderheartoutfit desc"
       },
       {
@@ -75958,22 +76013,22 @@
       },
       {
         "code": "nft_h25_monkeybzn_chair",
-        "name": "nft_h25_monkeybzn_chair name",
+        "name": "Sedia a Banana Gigante",
         "description": "nft_h25_monkeybzn_chair desc"
       },
       {
         "code": "nft_h25_monkeybzn_drinks",
-        "name": "nft_h25_monkeybzn_drinks name",
+        "name": "Rinfreschi della Giungla",
         "description": "nft_h25_monkeybzn_drinks desc"
       },
       {
         "code": "nft_h25_monkeybzn_gang",
-        "name": "nft_h25_monkeybzn_gang name",
+        "name": "Gang di Scimmie",
         "description": "nft_h25_monkeybzn_gang desc"
       },
       {
         "code": "nft_h25_monkeybzn_pond",
-        "name": "nft_h25_monkeybzn_pond name",
+        "name": "Bagno per Scimmia",
         "description": "nft_h25_monkeybzn_pond desc"
       },
       {

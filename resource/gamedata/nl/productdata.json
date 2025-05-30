@@ -28743,7 +28743,7 @@
       },
       {
         "code": "br_c25_curupiracrafting",
-        "name": "br_c25_curupiracrafting name",
+        "name": "Curupira Craft Tafel",
         "description": "br_c25_curupiracrafting desc"
       },
       {
@@ -28965,6 +28965,11 @@
         "code": "br_r25_boitata",
         "name": "br_r25_boitata name",
         "description": "br_r25_boitata desc"
+      },
+      {
+        "code": "br_r25_ipetree_bd",
+        "name": "Lapacho Boom",
+        "description": ""
       },
       {
         "code": "br_r25_ipetree",
@@ -29740,6 +29745,11 @@
         "code": "captain_bundle_vp",
         "name": "Kapiteinsbundel (Virtueel biggetje)",
         "description": "Inclusief 95 Meubi in een voorafgebouwde kamer, exclusief het Kapiteins Effect en de badge. Plus een biggetjes Piraten Vlag"
+      },
+      {
+        "code": "carebears_bundle_bd",
+        "name": "Troetelbeertjes Pakket",
+        "description": ""
       },
       {
         "code": "carnival15_hotair_brazil",
@@ -31117,8 +31127,28 @@
         "description": ""
       },
       {
+        "code": "cl_cheerbearoutfit_bd",
+        "name": "Wensbeer Outfit",
+        "description": ""
+      },
+      {
         "code": "cl_footballboppers_bd",
         "name": "Football Boppers",
+        "description": ""
+      },
+      {
+        "code": "cl_funshinebearoutfit_bd",
+        "name": "Zonnebeer Outfit",
+        "description": ""
+      },
+      {
+        "code": "cl_goodluckbearoutfit_bd",
+        "name": "Geluksbeer Outfit",
+        "description": ""
+      },
+      {
+        "code": "cl_grumpybearoutfit_bd",
+        "name": "Brombeer Outfit",
         "description": ""
       },
       {
@@ -31172,8 +31202,18 @@
         "description": ""
       },
       {
+        "code": "cl_sharebearoutfit_bd",
+        "name": "Deelbeer Outfit",
+        "description": ""
+      },
+      {
         "code": "cl_sportsponytail_bd",
         "name": "Sports Ponytail",
+        "description": ""
+      },
+      {
+        "code": "cl_tenderheartoutfit_bd",
+        "name": "Knuffelbeer Outfit",
         "description": ""
       },
       {
@@ -33103,7 +33143,7 @@
       },
       {
         "code": "clothing_cheerbearoutfit",
-        "name": "clothing_cheerbearoutfit name",
+        "name": "Wensbeer Outfit",
         "description": "clothing_cheerbearoutfit desc"
       },
       {
@@ -34223,7 +34263,7 @@
       },
       {
         "code": "clothing_funshinebearoutfit",
-        "name": "clothing_funshinebearoutfit name",
+        "name": "Zonnebeer Outfit",
         "description": "clothing_funshinebearoutfit desc"
       },
       {
@@ -34403,7 +34443,7 @@
       },
       {
         "code": "clothing_goodluckbearoutfit",
-        "name": "clothing_goodluckbearoutfit name",
+        "name": "Geluksbeer Outfit",
         "description": "clothing_goodluckbearoutfit desc"
       },
       {
@@ -34478,7 +34518,7 @@
       },
       {
         "code": "clothing_grumpybearoutfit",
-        "name": "clothing_grumpybearoutfit name",
+        "name": "Brombeer Outfit",
         "description": "clothing_grumpybearoutfit desc"
       },
       {
@@ -35692,6 +35732,11 @@
         "description": "clothing_nftbabysnowman desc"
       },
       {
+        "code": "clothing_nftbackmonkey",
+        "name": "Aap in een Slinger",
+        "description": ""
+      },
+      {
         "code": "clothing_nftballooncrown1",
         "name": "Gele Opblaasbare Kroon - 2-jarig Jubileum",
         "description": "clothing_nftballooncrown1 desc"
@@ -36530,6 +36575,11 @@
         "code": "clothing_nftmininoob",
         "name": "Noob Sleutelhanger",
         "description": "clothing_nftmininoob desc"
+      },
+      {
+        "code": "clothing_nftmonkeyfriend",
+        "name": "Persoonlijke Gids in de Jungle",
+        "description": ""
       },
       {
         "code": "clothing_nftmop",
@@ -40477,6 +40527,11 @@
         "description": "clothing_r25_knightarmor desc"
       },
       {
+        "code": "clothing_r25_mermaid_bd",
+        "name": "Zeemeermin iara Outfit",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_mermaid",
         "name": "clothing_r25_mermaid name",
         "description": "clothing_r25_mermaid desc"
@@ -40793,7 +40848,7 @@
       },
       {
         "code": "clothing_sharebearoutfit",
-        "name": "clothing_sharebearoutfit name",
+        "name": "Deelbeer Outfit",
         "description": "clothing_sharebearoutfit desc"
       },
       {
@@ -41228,7 +41283,7 @@
       },
       {
         "code": "clothing_tenderheartoutfit",
-        "name": "clothing_tenderheartoutfit name",
+        "name": "Knuffelbeer Outfit",
         "description": "clothing_tenderheartoutfit desc"
       },
       {
@@ -75668,22 +75723,22 @@
       },
       {
         "code": "nft_h25_monkeybzn_chair",
-        "name": "nft_h25_monkeybzn_chair name",
+        "name": "Gigantische Bananenstoel",
         "description": "nft_h25_monkeybzn_chair desc"
       },
       {
         "code": "nft_h25_monkeybzn_drinks",
-        "name": "nft_h25_monkeybzn_drinks name",
+        "name": "Jungle Drankjes",
         "description": "nft_h25_monkeybzn_drinks desc"
       },
       {
         "code": "nft_h25_monkeybzn_gang",
-        "name": "nft_h25_monkeybzn_gang name",
+        "name": "Apenbende",
         "description": "nft_h25_monkeybzn_gang desc"
       },
       {
         "code": "nft_h25_monkeybzn_pond",
-        "name": "nft_h25_monkeybzn_pond name",
+        "name": "Apen Bad",
         "description": "nft_h25_monkeybzn_pond desc"
       },
       {

@@ -30248,7 +30248,7 @@
       },
       {
         "code": "br_c25_curupiracrafting",
-        "name": "br_c25_curupiracrafting name",
+        "name": "Curupira-tehtailupöytä",
         "description": "br_c25_curupiracrafting desc"
       },
       {
@@ -30470,6 +30470,11 @@
         "code": "br_r25_boitata",
         "name": "br_r25_boitata name",
         "description": "br_r25_boitata desc"
+      },
+      {
+        "code": "br_r25_ipetree_bd",
+        "name": "Lapacho-puu",
+        "description": ""
       },
       {
         "code": "br_r25_ipetree",
@@ -31255,6 +31260,11 @@
         "code": "captain_bundle_vp",
         "name": "Captain Bundle (Virtual Piggy)",
         "description": "Includes 95 furni in a pre-built room, exclusive Captain's Effect and Badge. Plus a Piggy Pirate Flag!"
+      },
+      {
+        "code": "carebears_bundle_bd",
+        "name": "Care Bears Pack",
+        "description": ""
       },
       {
         "code": "carnival15_hotair_brazil",
@@ -32592,8 +32602,28 @@
         "description": ""
       },
       {
+        "code": "cl_cheerbearoutfit_bd",
+        "name": "Ilonallen asu",
+        "description": ""
+      },
+      {
         "code": "cl_footballboppers_bd",
         "name": "Football Boppers",
+        "description": ""
+      },
+      {
+        "code": "cl_funshinebearoutfit_bd",
+        "name": "Aurinkoisen asu",
+        "description": ""
+      },
+      {
+        "code": "cl_goodluckbearoutfit_bd",
+        "name": "Onninallen asu",
+        "description": ""
+      },
+      {
+        "code": "cl_grumpybearoutfit_bd",
+        "name": "Mutrunallen asu",
         "description": ""
       },
       {
@@ -32647,8 +32677,18 @@
         "description": ""
       },
       {
+        "code": "cl_sharebearoutfit_bd",
+        "name": "Anteliaan asu",
+        "description": ""
+      },
+      {
         "code": "cl_sportsponytail_bd",
         "name": "Sports Ponytail",
+        "description": ""
+      },
+      {
+        "code": "cl_tenderheartoutfit_bd",
+        "name": "Helläsydämen asu",
         "description": ""
       },
       {
@@ -34578,7 +34618,7 @@
       },
       {
         "code": "clothing_cheerbearoutfit",
-        "name": "clothing_cheerbearoutfit name",
+        "name": "Ilonallen asu",
         "description": "clothing_cheerbearoutfit desc"
       },
       {
@@ -35693,7 +35733,7 @@
       },
       {
         "code": "clothing_funshinebearoutfit",
-        "name": "clothing_funshinebearoutfit name",
+        "name": "Aurinkoisen asu",
         "description": "clothing_funshinebearoutfit desc"
       },
       {
@@ -35873,7 +35913,7 @@
       },
       {
         "code": "clothing_goodluckbearoutfit",
-        "name": "clothing_goodluckbearoutfit name",
+        "name": "Onninallen asu",
         "description": "clothing_goodluckbearoutfit desc"
       },
       {
@@ -35948,7 +35988,7 @@
       },
       {
         "code": "clothing_grumpybearoutfit",
-        "name": "clothing_grumpybearoutfit name",
+        "name": "Mutrunallen asu",
         "description": "clothing_grumpybearoutfit desc"
       },
       {
@@ -37157,6 +37197,11 @@
         "description": "clothing_nftbabysnowman desc"
       },
       {
+        "code": "clothing_nftbackmonkey",
+        "name": "Apina kantohihnassa",
+        "description": ""
+      },
+      {
         "code": "clothing_nftballooncrown1",
         "name": "2. vuosipäivän ilmapallo",
         "description": "clothing_nftballooncrown1 desc"
@@ -37995,6 +38040,11 @@
         "code": "clothing_nftmininoob",
         "name": "Noob-avaimenperä",
         "description": "clothing_nftmininoob desc"
+      },
+      {
+        "code": "clothing_nftmonkeyfriend",
+        "name": "Viidakko-opas",
+        "description": ""
       },
       {
         "code": "clothing_nftmop",
@@ -41942,6 +41992,11 @@
         "description": "clothing_r25_knightarmor desc"
       },
       {
+        "code": "clothing_r25_mermaid_bd",
+        "name": "Iara-merenneidon asu",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_mermaid",
         "name": "clothing_r25_mermaid name",
         "description": "clothing_r25_mermaid desc"
@@ -42258,7 +42313,7 @@
       },
       {
         "code": "clothing_sharebearoutfit",
-        "name": "clothing_sharebearoutfit name",
+        "name": "Anteliaan asu",
         "description": "clothing_sharebearoutfit desc"
       },
       {
@@ -42693,7 +42748,7 @@
       },
       {
         "code": "clothing_tenderheartoutfit",
-        "name": "clothing_tenderheartoutfit name",
+        "name": "Helläsydämen asu",
         "description": "clothing_tenderheartoutfit desc"
       },
       {
@@ -75978,22 +76033,22 @@
       },
       {
         "code": "nft_h25_monkeybzn_chair",
-        "name": "nft_h25_monkeybzn_chair name",
+        "name": "Jättimäinen banaanipenkki",
         "description": "nft_h25_monkeybzn_chair desc"
       },
       {
         "code": "nft_h25_monkeybzn_drinks",
-        "name": "nft_h25_monkeybzn_drinks name",
+        "name": "Viidakkovirvokkeet",
         "description": "nft_h25_monkeybzn_drinks desc"
       },
       {
         "code": "nft_h25_monkeybzn_gang",
-        "name": "nft_h25_monkeybzn_gang name",
+        "name": "Apinakööri",
         "description": "nft_h25_monkeybzn_gang desc"
       },
       {
         "code": "nft_h25_monkeybzn_pond",
-        "name": "nft_h25_monkeybzn_pond name",
+        "name": "Apinakylpy",
         "description": "nft_h25_monkeybzn_pond desc"
       },
       {
