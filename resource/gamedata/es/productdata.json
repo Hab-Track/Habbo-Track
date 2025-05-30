@@ -29623,7 +29623,7 @@
       },
       {
         "code": "br_r25_boitata",
-        "name": "br_r25_boitata name",
+        "name": "Boitatá",
         "description": "br_r25_boitata desc"
       },
       {
@@ -29633,7 +29633,7 @@
       },
       {
         "code": "br_r25_ipetree",
-        "name": "br_r25_ipetree name",
+        "name": "Árbol Lapacho",
         "description": "br_r25_ipetree desc"
       },
       {
@@ -33538,7 +33538,7 @@
       },
       {
         "code": "clothing_brnecklace",
-        "name": "clothing_brnecklace name",
+        "name": "Collar de la Bandera Brasileña",
         "description": "clothing_brnecklace desc"
       },
       {
@@ -34068,7 +34068,7 @@
       },
       {
         "code": "clothing_curlylocksponytail",
-        "name": "clothing_curlylocksponytail name",
+        "name": "Coleta rizada y trenzada",
         "description": "clothing_curlylocksponytail desc"
       },
       {
@@ -34807,6 +34807,11 @@
         "description": "clothing_flippers desc"
       },
       {
+        "code": "clothing_floatingrainbow",
+        "name": "Arcoíris flotante",
+        "description": ""
+      },
+      {
         "code": "clothing_floppyhair",
         "name": "Flequillo platino",
         "description": "clothing_floppyhair desc"
@@ -34913,7 +34918,7 @@
       },
       {
         "code": "clothing_frayedstrawhat",
-        "name": "clothing_frayedstrawhat name",
+        "name": "Sombrero de Paja con borde Deshilachado",
         "description": "clothing_frayedstrawhat desc"
       },
       {
@@ -36913,7 +36918,7 @@
       },
       {
         "code": "clothing_nftfestashirt",
-        "name": "clothing_nftfestashirt name",
+        "name": "Camiseta de Festa",
         "description": "clothing_nftfestashirt desc"
       },
       {
@@ -37613,7 +37618,7 @@
       },
       {
         "code": "clothing_nftsnake",
-        "name": "clothing_nftsnake name",
+        "name": "Serpiente de aventura adoptada",
         "description": "clothing_nftsnake desc"
       },
       {
@@ -37853,7 +37858,7 @@
       },
       {
         "code": "clothing_nftsunflowerbadge",
-        "name": "clothing_nftsunflowerbadge name",
+        "name": "Pin Girasol",
         "description": "clothing_nftsunflowerbadge desc"
       },
       {
@@ -37863,7 +37868,7 @@
       },
       {
         "code": "clothing_nftsunflowerheadacc",
-        "name": "clothing_nftsunflowerheadacc name",
+        "name": "Girasol Adorno de Cabello",
         "description": "clothing_nftsunflowerheadacc desc"
       },
       {
@@ -41218,12 +41223,12 @@
       },
       {
         "code": "clothing_r25_mermaid",
-        "name": "clothing_r25_mermaid name",
+        "name": "Conjunto Sirena Iara",
         "description": "clothing_r25_mermaid desc"
       },
       {
         "code": "clothing_r25_mothwings",
-        "name": "clothing_r25_mothwings name",
+        "name": "Alas Polilla Gigante",
         "description": "clothing_r25_mothwings desc"
       },
       {
@@ -41868,7 +41873,7 @@
       },
       {
         "code": "clothing_strappybikinioutfit",
-        "name": "clothing_strappybikinioutfit name",
+        "name": "Bikini de Tirantes",
         "description": "clothing_strappybikinioutfit desc"
       },
       {
@@ -41898,12 +41903,12 @@
       },
       {
         "code": "clothing_suavesuit",
-        "name": "clothing_suavesuit name",
+        "name": "Traje Boto Encantado",
         "description": "clothing_suavesuit desc"
       },
       {
         "code": "clothing_sunburntface",
-        "name": "clothing_sunburntface name",
+        "name": "Cara Quemada por el Sol",
         "description": "clothing_sunburntface desc"
       },
       {
@@ -42128,7 +42133,7 @@
       },
       {
         "code": "clothing_tropicalplaysuit",
-        "name": "clothing_tropicalplaysuit name",
+        "name": "Mono Tropical",
         "description": "clothing_tropicalplaysuit desc"
       },
       {
@@ -76193,7 +76198,7 @@
       },
       {
         "code": "nft_sc25_sunflowers",
-        "name": "nft_sc25_sunflowers name",
+        "name": "Planta de Girasol",
         "description": "nft_sc25_sunflowers desc"
       },
       {
@@ -95250,6 +95255,21 @@
         "code": "rotating_roomdeal43",
         "name": "Lote Resort Paraíso",
         "description": "Este sugestivo lote tropical pre-decorado seguro que te ayuda a poner tu espíritu en modo festivo. ¡Exclusivo Arbusto de Ardilla incluido!"
+      },
+      {
+        "code": "rotating_roomdeal441_10c",
+        "name": "Lote Bienvenidos a Brasil",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal441_d",
+        "name": "Lote Bienvenidos a Brasil",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal441",
+        "name": "Lote Bienvenidos a Brasil",
+        "description": "Habbos, ¡bienvenidos al vibrante país de Brasil! Lote construido por ferrazmatheus y biancarms de BR."
       },
       {
         "code": "rotating_roomdeal44_10c",

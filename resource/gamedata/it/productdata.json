@@ -29803,7 +29803,7 @@
       },
       {
         "code": "br_r25_boitata",
-        "name": "br_r25_boitata name",
+        "name": "Boitatá",
         "description": "br_r25_boitata desc"
       },
       {
@@ -29813,7 +29813,7 @@
       },
       {
         "code": "br_r25_ipetree",
-        "name": "br_r25_ipetree name",
+        "name": "Albero Lapacho",
         "description": "br_r25_ipetree desc"
       },
       {
@@ -33688,7 +33688,7 @@
       },
       {
         "code": "clothing_brnecklace",
-        "name": "clothing_brnecklace name",
+        "name": "Collana con Bandiera Brasiliana",
         "description": "clothing_brnecklace desc"
       },
       {
@@ -34208,7 +34208,7 @@
       },
       {
         "code": "clothing_curlylocksponytail",
-        "name": "clothing_curlylocksponytail name",
+        "name": "Coda di Cavallo Intrecciata Riccia",
         "description": "clothing_curlylocksponytail desc"
       },
       {
@@ -34942,6 +34942,11 @@
         "description": "clothing_flippers desc"
       },
       {
+        "code": "clothing_floatingrainbow",
+        "name": "Arcobaleno Galleggiante",
+        "description": ""
+      },
+      {
         "code": "clothing_floppyhair",
         "name": "Ciuffo Laterale",
         "description": "clothing_floppyhair desc"
@@ -35048,7 +35053,7 @@
       },
       {
         "code": "clothing_frayedstrawhat",
-        "name": "clothing_frayedstrawhat name",
+        "name": "Cappello di Paglia Sfrangiato",
         "description": "clothing_frayedstrawhat desc"
       },
       {
@@ -37028,7 +37033,7 @@
       },
       {
         "code": "clothing_nftfestashirt",
-        "name": "clothing_nftfestashirt name",
+        "name": "Blusa Festa",
         "description": "clothing_nftfestashirt desc"
       },
       {
@@ -37728,7 +37733,7 @@
       },
       {
         "code": "clothing_nftsnake",
-        "name": "clothing_nftsnake name",
+        "name": "Serpente d'Avventura Adottato",
         "description": "clothing_nftsnake desc"
       },
       {
@@ -37968,7 +37973,7 @@
       },
       {
         "code": "clothing_nftsunflowerbadge",
-        "name": "clothing_nftsunflowerbadge name",
+        "name": "Spilla a Girasole",
         "description": "clothing_nftsunflowerbadge desc"
       },
       {
@@ -37978,7 +37983,7 @@
       },
       {
         "code": "clothing_nftsunflowerheadacc",
-        "name": "clothing_nftsunflowerheadacc name",
+        "name": "Fermaglio per capelli Girasole",
         "description": "clothing_nftsunflowerheadacc desc"
       },
       {
@@ -41333,12 +41338,12 @@
       },
       {
         "code": "clothing_r25_mermaid",
-        "name": "clothing_r25_mermaid name",
+        "name": "Outfit Sirena Iara",
         "description": "clothing_r25_mermaid desc"
       },
       {
         "code": "clothing_r25_mothwings",
-        "name": "clothing_r25_mothwings name",
+        "name": "Ali Falena Gigante",
         "description": "clothing_r25_mothwings desc"
       },
       {
@@ -41983,7 +41988,7 @@
       },
       {
         "code": "clothing_strappybikinioutfit",
-        "name": "clothing_strappybikinioutfit name",
+        "name": "Bikini Asimmetrico",
         "description": "clothing_strappybikinioutfit desc"
       },
       {
@@ -42013,12 +42018,12 @@
       },
       {
         "code": "clothing_suavesuit",
-        "name": "clothing_suavesuit name",
+        "name": "Completo Encantado",
         "description": "clothing_suavesuit desc"
       },
       {
         "code": "clothing_sunburntface",
-        "name": "clothing_sunburntface name",
+        "name": "Viso Ustionato",
         "description": "clothing_sunburntface desc"
       },
       {
@@ -42243,7 +42248,7 @@
       },
       {
         "code": "clothing_tropicalplaysuit",
-        "name": "clothing_tropicalplaysuit name",
+        "name": "Vestito senza spalline Tropicale",
         "description": "clothing_tropicalplaysuit desc"
       },
       {
@@ -76773,7 +76778,7 @@
       },
       {
         "code": "nft_sc25_sunflowers",
-        "name": "nft_sc25_sunflowers name",
+        "name": "Pianta di Girasoli",
         "description": "nft_sc25_sunflowers desc"
       },
       {
@@ -95720,6 +95725,21 @@
         "code": "rotating_roomdeal43",
         "name": "Affare Isola Resort Habbo",
         "description": "Questo scottante Affare Stanza pre-decorato ti è SICURAMENTE d'aiuto per entrre nel vivo dello spirito Natalizio! Esclusivo Cespuglio Scoiattolo Incluso!"
+      },
+      {
+        "code": "rotating_roomdeal441_10c",
+        "name": "Affare Stanza Benvenuto in Brasile",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal441_d",
+        "name": "Affare Stanza Benvenuto in Brasile",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal441",
+        "name": "Affare Stanza Benvenuto in Brasile",
+        "description": "Habbo, benvenuti nel vivace paese del Brasile! Affare Stanza costruito da ferrazmatheus & biancarms di BR."
       },
       {
         "code": "rotating_roomdeal44_10c",
