@@ -77942,6 +77942,21 @@
         "description": "Shake, don't break!"
       },
       {
+        "code": "nft_A0_rarelephantbronze",
+        "name": "Bronze Elephant",
+        "description": "Snouthill Handicrafts"
+      },
+      {
+        "code": "nft_A0_rarelephantgold",
+        "name": "Golden Elephant",
+        "description": "Snouthill Handicrafts"
+      },
+      {
+        "code": "nft_A0_rarelephantsilver",
+        "name": "Silver Elephant",
+        "description": "Snouthill Handicrafts"
+      },
+      {
         "code": "nft_A0_rareparasolbrown",
         "name": "Orange Parasol",
         "description": "Sun! Sun! Sun!"
@@ -78215,6 +78230,11 @@
         "code": "nft_a0_hemingway",
         "name": "$product_typingmachine_name$",
         "description": "Write that bestseller"
+      },
+      {
+        "code": "nft_a0_hologram",
+        "name": "Holopod",
+        "description": "As if by magic..."
       },
       {
         "code": "nft_a0_industrial_fan",
@@ -82572,6 +82592,11 @@
         "description": "habbo15_dragonlamp desc"
       },
       {
+        "code": "nft_habbo15_elephant",
+        "name": "habbo15_elephant name",
+        "description": "habbo15_elephant desc"
+      },
+      {
         "code": "nft_habbo15_fan",
         "name": "habbo15_fan name",
         "description": "habbo15_fan desc"
@@ -82830,6 +82855,11 @@
         "code": "nft_qt_val11_holoduck",
         "name": "Holo-Duck",
         "description": "nft_qt_val11_holoduck desc"
+      },
+      {
+        "code": "nft_qt_val11_holoheart",
+        "name": "nft_qt_val11_holoheart name",
+        "description": "nft_qt_val11_holoheart desc"
       },
       {
         "code": "nft_qt_xm10_ice_fish",
