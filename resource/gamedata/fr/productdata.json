@@ -31347,6 +31347,21 @@
         "description": ""
       },
       {
+        "code": "cl_nftfestashirt_bd",
+        "name": "Chemise de fête",
+        "description": ""
+      },
+      {
+        "code": "cl_nftsunflowerbadge_bd",
+        "name": "Épingle Tournesol",
+        "description": ""
+      },
+      {
+        "code": "cl_nftsunflowerheadacc_bd",
+        "name": "Barrette à cheveux Tournesol",
+        "description": ""
+      },
+      {
         "code": "cl_r25_curlyponytail_bd",
         "name": "Queue de cheval des années 50",
         "description": ""
@@ -74915,6 +74930,11 @@
         "code": "nft_sc25_chickballoon",
         "name": "Ballon poussin",
         "description": "nft_sc25_chickballoon desc"
+      },
+      {
+        "code": "nft_sc25_sunflowers_bd",
+        "name": "Plante de Tournesol",
+        "description": ""
       },
       {
         "code": "nft_sc25_sunflowers",

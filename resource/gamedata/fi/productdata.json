@@ -32632,6 +32632,21 @@
         "description": ""
       },
       {
+        "code": "cl_nftfestashirt_bd",
+        "name": "Festa-paita",
+        "description": ""
+      },
+      {
+        "code": "cl_nftsunflowerbadge_bd",
+        "name": "Auringonkukkapinssi",
+        "description": ""
+      },
+      {
+        "code": "cl_nftsunflowerheadacc_bd",
+        "name": "Auringonkukkaklipsi",
+        "description": ""
+      },
+      {
         "code": "cl_r25_curlyponytail_bd",
         "name": "Fiftariponnari",
         "description": ""
@@ -76860,6 +76875,11 @@
         "code": "nft_sc25_chickballoon",
         "name": "Tipukuumailmapallo",
         "description": "nft_sc25_chickballoon desc"
+      },
+      {
+        "code": "nft_sc25_sunflowers_bd",
+        "name": "Auringonkukat",
+        "description": ""
       },
       {
         "code": "nft_sc25_sunflowers",

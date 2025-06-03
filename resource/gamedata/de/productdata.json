@@ -31442,6 +31442,21 @@
         "description": ""
       },
       {
+        "code": "cl_nftfestashirt_bd",
+        "name": "Festa-Shirt",
+        "description": ""
+      },
+      {
+        "code": "cl_nftsunflowerbadge_bd",
+        "name": "Sonnenblumen-Haarschmuck",
+        "description": ""
+      },
+      {
+        "code": "cl_nftsunflowerheadacc_bd",
+        "name": "Sonnenblumen-Haarspange",
+        "description": ""
+      },
+      {
         "code": "cl_r25_curlyponytail_bd",
         "name": "50er-Jahre Pferdeschwanz",
         "description": ""
@@ -75845,6 +75860,11 @@
         "code": "nft_sc25_chickballoon",
         "name": "Kükenballon",
         "description": "nft_sc25_chickballoon desc"
+      },
+      {
+        "code": "nft_sc25_sunflowers_bd",
+        "name": "Sonnenblumen-Pflanze",
+        "description": ""
       },
       {
         "code": "nft_sc25_sunflowers",
