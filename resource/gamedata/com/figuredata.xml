@@ -17779,12 +17779,12 @@
                 <part id="6411" type="rc" colorable="0" index="0" colorindex="0"/>
             </set>
             <set id="5949" gender="M" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
-                <part id="6417" type="cc" colorable="0" index="0" colorindex="0"/>
-                <part id="6418" type="cc" colorable="1" index="1" colorindex="1"/>
+                <part id="6417" type="cc" colorable="1" index="0" colorindex="1"/>
+                <part id="6418" type="cc" colorable="0" index="1" colorindex="0"/>
             </set>
             <set id="5950" gender="F" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
-                <part id="6419" type="cc" colorable="0" index="0" colorindex="0"/>
-                <part id="6420" type="cc" colorable="1" index="1" colorindex="1"/>
+                <part id="6419" type="cc" colorable="1" index="0" colorindex="1"/>
+                <part id="6420" type="cc" colorable="0" index="1" colorindex="0"/>
             </set>
             <set id="5951" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="6421" type="cc" colorable="1" index="0" colorindex="1"/>
