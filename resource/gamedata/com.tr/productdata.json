@@ -84283,7 +84283,7 @@
       },
       {
         "code": "nft_h23_trippy_icm",
-        "name": "nft_h23_trippy_icm name",
+        "name": "Trip Dondurma Makinesi",
         "description": "nft_h23_trippy_icm desc"
       },
       {
@@ -84303,8 +84303,13 @@
       },
       {
         "code": "nft_h23_trippy_samovar",
-        "name": "nft_h23_trippy_samovar name",
+        "name": "Trip Semaver",
         "description": "nft_h23_trippy_samovar desc"
+      },
+      {
+        "code": "nft_h23_trippy_turntable",
+        "name": "Trip DJ Seti",
+        "description": ""
       },
       {
         "code": "nft_h23_turtle",
@@ -85343,7 +85348,7 @@
       },
       {
         "code": "nft_h25_cb_trippy_prize",
-        "name": "nft_h25_cb_trippy_prize name",
+        "name": "Trip Kupa Ödülü",
         "description": "nft_h25_cb_trippy_prize desc"
       },
       {
@@ -85502,23 +85507,38 @@
         "description": "nft_h25_robotikpenguin desc"
       },
       {
+        "code": "nft_h25_trippy_marquee",
+        "name": "Trip Markiz",
+        "description": ""
+      },
+      {
         "code": "nft_h25_trippy_pillar",
-        "name": "nft_h25_trippy_pillar name",
+        "name": "Trip Sütun",
         "description": "nft_h25_trippy_pillar desc"
       },
       {
+        "code": "nft_h25_trippy_scifidoor",
+        "name": "Trip Uzay Gemisi Kapısı",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_trippy_scifiport",
+        "name": "Trip Lazer Kapısı",
+        "description": ""
+      },
+      {
         "code": "nft_h25_trippy_scifirocket",
-        "name": "nft_h25_trippy_scifirocket name",
+        "name": "Trip Duman Makinesi",
         "description": "nft_h25_trippy_scifirocket desc"
       },
       {
         "code": "nft_h25_trippy_screen",
-        "name": "nft_h25_trippy_screen name",
+        "name": "Trip Şark Paravanı",
         "description": "nft_h25_trippy_screen desc"
       },
       {
         "code": "nft_h25_trippy_sleepingbag",
-        "name": "nft_h25_trippy_sleepingbag name",
+        "name": "Trip Uyku Tulumu",
         "description": "nft_h25_trippy_sleepingbag desc"
       },
       {
