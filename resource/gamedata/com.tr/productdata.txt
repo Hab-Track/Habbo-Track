@@ -37637,7 +37637,7 @@
   [
     "clothing_nftbackmonkey",
     "Askıda Maymun",
-    ""
+    "clothing_nftbackmonkey desc"
   ],
   [
     "clothing_nftballooncrown1",
@@ -37850,6 +37850,11 @@
     "clothing_nftbronzeskin desc"
   ],
   [
+    "clothing_nftbubblebath",
+    "clothing_nftbubblebath name",
+    "clothing_nftbubblebath desc"
+  ],
+  [
     "clothing_nftbunnycapeoutfit",
     "Tavşan Pelerini",
     "clothing_nftbunnycapeoutfit desc"
@@ -37965,6 +37970,11 @@
     "clothing_nftchiton desc"
   ],
   [
+    "clothing_nftchocoicecream",
+    "clothing_nftchocoicecream name",
+    "clothing_nftchocoicecream desc"
+  ],
+  [
     "clothing_nftchocolatepin",
     "Çikolata Toka",
     "clothing_nftchocolatepin desc"
@@ -38028,6 +38038,26 @@
     "clothing_nftcurlybun",
     "Sarılı Kıvırcık Topuz",
     "clothing_nftcurlybun desc"
+  ],
+  [
+    "clothing_nftdenimcap",
+    "clothing_nftdenimcap name",
+    "clothing_nftdenimcap desc"
+  ],
+  [
+    "clothing_nftdenimcroptop",
+    "clothing_nftdenimcroptop name",
+    "clothing_nftdenimcroptop desc"
+  ],
+  [
+    "clothing_nftdenimjacket",
+    "clothing_nftdenimjacket name",
+    "clothing_nftdenimjacket desc"
+  ],
+  [
+    "clothing_nftdenimshorts",
+    "clothing_nftdenimshorts name",
+    "clothing_nftdenimshorts desc"
   ],
   [
     "clothing_nftdinohoodie",
@@ -38148,6 +38178,31 @@
     "clothing_nftflowerfairy",
     "Sevgililer Günü Çiçek Perisi",
     "clothing_nftflowerfairy desc"
+  ],
+  [
+    "clothing_nftflowershades1",
+    "clothing_nftflowershades1 name",
+    "clothing_nftflowershades1 desc"
+  ],
+  [
+    "clothing_nftflowershades2",
+    "clothing_nftflowershades2 name",
+    "clothing_nftflowershades2 desc"
+  ],
+  [
+    "clothing_nftflowershades3",
+    "clothing_nftflowershades3 name",
+    "clothing_nftflowershades3 desc"
+  ],
+  [
+    "clothing_nftflowershades4",
+    "clothing_nftflowershades4 name",
+    "clothing_nftflowershades4 desc"
+  ],
+  [
+    "clothing_nftflowershades5",
+    "clothing_nftflowershades5 name",
+    "clothing_nftflowershades5 desc"
   ],
   [
     "clothing_nftfourtail",
@@ -38482,7 +38537,7 @@
   [
     "clothing_nftmonkeyfriend",
     "Kişisel Orman Rehberi",
-    ""
+    "clothing_nftmonkeyfriend desc"
   ],
   [
     "clothing_nftmop",
@@ -38625,6 +38680,11 @@
     "clothing_nftpinkswimshorts desc"
   ],
   [
+    "clothing_nftpiranha",
+    "clothing_nftpiranha name",
+    "clothing_nftpiranha desc"
+  ],
+  [
     "clothing_nftplainshirt",
     "Düz Pamuklu Tişört",
     "clothing_nftplainshirt desc"
@@ -38640,9 +38700,29 @@
     "clothing_nftpompomcardigan desc"
   ],
   [
+    "clothing_nftpopsicle1",
+    "clothing_nftpopsicle1 name",
+    "clothing_nftpopsicle1 desc"
+  ],
+  [
+    "clothing_nftpopsicle2",
+    "clothing_nftpopsicle2 name",
+    "clothing_nftpopsicle2 desc"
+  ],
+  [
+    "clothing_nftpopsicle3",
+    "clothing_nftpopsicle3 name",
+    "clothing_nftpopsicle3 desc"
+  ],
+  [
     "clothing_nftpossesseddoll",
     "Cinli Bebek Yüzü",
     "clothing_nftpossesseddoll desc"
+  ],
+  [
+    "clothing_nftpotpalm",
+    "clothing_nftpotpalm name",
+    "clothing_nftpotpalm desc"
   ],
   [
     "clothing_nftpumpkinbag",
@@ -38755,6 +38835,16 @@
     "clothing_nftroundshades4 desc"
   ],
   [
+    "clothing_nfts25glasses1",
+    "clothing_nfts25glasses1 name",
+    "clothing_nfts25glasses1 desc"
+  ],
+  [
+    "clothing_nfts25glasses2",
+    "clothing_nfts25glasses2 name",
+    "clothing_nfts25glasses2 desc"
+  ],
+  [
     "clothing_nftsack",
     "Rastalı Noel Baba'nın Çuvalı",
     "clothing_nftsack desc"
@@ -38828,6 +38918,11 @@
     "clothing_nftsleepless",
     "Uykusuz Gözler",
     "clothing_nftsleepless desc"
+  ],
+  [
+    "clothing_nftsmileyface",
+    "clothing_nftsmileyface name",
+    "clothing_nftsmileyface desc"
   ],
   [
     "clothing_nftsnake",
@@ -39068,6 +39163,11 @@
     "clothing_nftsummertop4",
     "Altın Yazlık Üst",
     "clothing_nftsummertop4 desc"
+  ],
+  [
+    "clothing_nftsun",
+    "clothing_nftsun name",
+    "clothing_nftsun desc"
   ],
   [
     "clothing_nftsunflowerbadge",
@@ -84312,7 +84412,7 @@
   [
     "nft_h23_trippy_turntable",
     "Trip DJ Seti",
-    ""
+    "nft_h23_trippy_turntable desc"
   ],
   [
     "nft_h23_turtle",
@@ -85315,6 +85415,11 @@
     "nft_h25_boogieblast_tile desc"
   ],
   [
+    "nft_h25_bronzepiranha",
+    "nft_h25_bronzepiranha name",
+    "nft_h25_bronzepiranha desc"
+  ],
+  [
     "nft_h25_caterpillarfigure",
     "Tırtıl Koleksiyon Figürü",
     "nft_h25_caterpillarfigure desc"
@@ -85368,6 +85473,16 @@
     "nft_h25_cheshiregrin",
     "Cheshire Kedisi Gülümsemesi",
     ""
+  ],
+  [
+    "nft_h25_chocoicecream",
+    "nft_h25_chocoicecream name",
+    "nft_h25_chocoicecream desc"
+  ],
+  [
+    "nft_h25_clamsofa",
+    "nft_h25_clamsofa name",
+    "nft_h25_clamsofa desc"
   ],
   [
     "nft_h25_collbench",
@@ -85460,6 +85575,11 @@
     "nft_h25_giftopentestfurni desc"
   ],
   [
+    "nft_h25_goldpiranha",
+    "nft_h25_goldpiranha name",
+    "nft_h25_goldpiranha desc"
+  ],
+  [
     "nft_h25_haf_reddevil",
     "Kırmızı Şeytan Aksiyon Figürü",
     "nft_h25_haf_reddevil desc"
@@ -85500,6 +85620,21 @@
     "nft_h25_owlsculpture desc"
   ],
   [
+    "nft_h25_popsicle1",
+    "nft_h25_popsicle1 name",
+    "nft_h25_popsicle1 desc"
+  ],
+  [
+    "nft_h25_popsicle2",
+    "nft_h25_popsicle2 name",
+    "nft_h25_popsicle2 desc"
+  ],
+  [
+    "nft_h25_popsicle3",
+    "nft_h25_popsicle3 name",
+    "nft_h25_popsicle3 desc"
+  ],
+  [
     "nft_h25_robotikanteater",
     "Robot Karınca yiyen",
     ""
@@ -85510,9 +85645,89 @@
     "nft_h25_robotikpenguin desc"
   ],
   [
+    "nft_h25_silverpiranha",
+    "nft_h25_silverpiranha name",
+    "nft_h25_silverpiranha desc"
+  ],
+  [
+    "nft_h25_summerboat_dlx",
+    "nft_h25_summerboat_dlx name",
+    "nft_h25_summerboat_dlx desc"
+  ],
+  [
+    "nft_h25_summerboat",
+    "nft_h25_summerboat name",
+    "nft_h25_summerboat desc"
+  ],
+  [
+    "nft_h25_summerduckride",
+    "nft_h25_summerduckride name",
+    "nft_h25_summerduckride desc"
+  ],
+  [
+    "nft_h25_summerletters1",
+    "nft_h25_summerletters1 name",
+    "nft_h25_summerletters1 desc"
+  ],
+  [
+    "nft_h25_summerletters2",
+    "nft_h25_summerletters2 name",
+    "nft_h25_summerletters2 desc"
+  ],
+  [
+    "nft_h25_summerletters3",
+    "nft_h25_summerletters3 name",
+    "nft_h25_summerletters3 desc"
+  ],
+  [
+    "nft_h25_summernumbers1",
+    "nft_h25_summernumbers1 name",
+    "nft_h25_summernumbers1 desc"
+  ],
+  [
+    "nft_h25_summernumbers2",
+    "nft_h25_summernumbers2 name",
+    "nft_h25_summernumbers2 desc"
+  ],
+  [
+    "nft_h25_summernumbers3",
+    "nft_h25_summernumbers3 name",
+    "nft_h25_summernumbers3 desc"
+  ],
+  [
+    "nft_h25_summersofa",
+    "nft_h25_summersofa name",
+    "nft_h25_summersofa desc"
+  ],
+  [
+    "nft_h25_summersub_dlx",
+    "nft_h25_summersub_dlx name",
+    "nft_h25_summersub_dlx desc"
+  ],
+  [
+    "nft_h25_summersub",
+    "nft_h25_summersub name",
+    "nft_h25_summersub desc"
+  ],
+  [
+    "nft_h25_summerthrone",
+    "nft_h25_summerthrone name",
+    "nft_h25_summerthrone desc"
+  ],
+  [
+    "nft_h25_summeryacht_dlx",
+    "nft_h25_summeryacht_dlx name",
+    "nft_h25_summeryacht_dlx desc"
+  ],
+  [
+    "nft_h25_summeryacht",
+    "nft_h25_summeryacht name",
+    "nft_h25_summeryacht desc"
+  ],
+  [
     "nft_h25_trippy_marquee",
     "Trip Markiz",
-    ""
+    "nft_h25_trippy_marquee desc"
   ],
   [
     "nft_h25_trippy_pillar",
@@ -85522,12 +85737,12 @@
   [
     "nft_h25_trippy_scifidoor",
     "Trip Uzay Gemisi Kapısı",
-    ""
+    "nft_h25_trippy_scifidoor desc"
   ],
   [
     "nft_h25_trippy_scifiport",
     "Trip Lazer Kapısı",
-    ""
+    "nft_h25_trippy_scifiport desc"
   ],
   [
     "nft_h25_trippy_scifirocket",
