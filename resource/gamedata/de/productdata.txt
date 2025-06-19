@@ -38545,6 +38545,11 @@
     "clothing_prizedguitar desc"
   ],
   [
+    "clothing_professionalskater",
+    "clothing_professionalskater name",
+    "clothing_professionalskater desc"
+  ],
+  [
     "clothing_puffyvest",
     "Rettungsweste",
     "clothing_puffyvest desc"
@@ -40945,6 +40950,16 @@
     "clothing_r25_poshwaistcoat desc"
   ],
   [
+    "clothing_r25_rainbowpatchjacket",
+    "clothing_r25_rainbowpatchjacket name",
+    "clothing_r25_rainbowpatchjacket desc"
+  ],
+  [
+    "clothing_r25_rainbowponytail",
+    "clothing_r25_rainbowponytail name",
+    "clothing_r25_rainbowponytail desc"
+  ],
+  [
     "clothing_r25_redpandabag",
     "Roter Panda-Rucksack",
     "clothing_r25_redpandabag desc"
@@ -40953,6 +40968,11 @@
     "clothing_r25_twotonedlonghair",
     "Zweifarbige Modelwellen",
     "clothing_r25_twotonedlonghair desc"
+  ],
+  [
+    "clothing_r25_unicorncompanion",
+    "clothing_r25_unicorncompanion name",
+    "clothing_r25_unicorncompanion desc"
   ],
   [
     "clothing_r25_valentinesbride",
@@ -49040,6 +49060,11 @@
     "duck_hc desc"
   ],
   [
+    "duck_ltd25_bonnie",
+    "duck_ltd25_bonnie name",
+    "duck_ltd25_bonnie desc"
+  ],
+  [
     "duck_scuba",
     "Taucher-Ente",
     "Enten lieben Wasser"
@@ -49113,6 +49138,21 @@
     "ducket_c25_plantpot",
     "Zierpflanze",
     "ducket_c25_plantpot desc"
+  ],
+  [
+    "ducket_c25_rainbowdeco",
+    "ducket_c25_rainbowdeco name",
+    "ducket_c25_rainbowdeco desc"
+  ],
+  [
+    "ducket_c25_rainbowstool",
+    "ducket_c25_rainbowstool name",
+    "ducket_c25_rainbowstool desc"
+  ],
+  [
+    "ducket_c25_rainbowwasher",
+    "ducket_c25_rainbowwasher name",
+    "ducket_c25_rainbowwasher desc"
   ],
   [
     "ducket_c25_rug",
@@ -56510,6 +56550,11 @@
     "habbo15_fountain_5 desc"
   ],
   [
+    "habbo15_fountain_6",
+    "habbo15_fountain_6 name",
+    "habbo15_fountain_6 desc"
+  ],
+  [
     "habbo15_fountain",
     "Kastanienbrauner Brunnen",
     "Oasis Lounge"
@@ -63623,6 +63668,251 @@
     "hygge_c18_stove",
     "Bronze-Ofen",
     "hygge_c18_stove desc"
+  ],
+  [
+    "hygge_c25_airfryer",
+    "hygge_c25_airfryer name",
+    "hygge_c25_airfryer desc"
+  ],
+  [
+    "hygge_c25_armchair",
+    "hygge_c25_armchair name",
+    "hygge_c25_armchair desc"
+  ],
+  [
+    "hygge_c25_barstool",
+    "hygge_c25_barstool name",
+    "hygge_c25_barstool desc"
+  ],
+  [
+    "hygge_c25_books",
+    "hygge_c25_books name",
+    "hygge_c25_books desc"
+  ],
+  [
+    "hygge_c25_broom",
+    "hygge_c25_broom name",
+    "hygge_c25_broom desc"
+  ],
+  [
+    "hygge_c25_carpet",
+    "hygge_c25_carpet name",
+    "hygge_c25_carpet desc"
+  ],
+  [
+    "hygge_c25_carpetfloor",
+    "hygge_c25_carpetfloor name",
+    "hygge_c25_carpetfloor desc"
+  ],
+  [
+    "hygge_c25_cleaningbucket",
+    "hygge_c25_cleaningbucket name",
+    "hygge_c25_cleaningbucket desc"
+  ],
+  [
+    "hygge_c25_cleaningrack",
+    "hygge_c25_cleaningrack name",
+    "hygge_c25_cleaningrack desc"
+  ],
+  [
+    "hygge_c25_coffeetable",
+    "hygge_c25_coffeetable name",
+    "hygge_c25_coffeetable desc"
+  ],
+  [
+    "hygge_c25_counter1",
+    "hygge_c25_counter1 name",
+    "hygge_c25_counter1 desc"
+  ],
+  [
+    "hygge_c25_counter2",
+    "hygge_c25_counter2 name",
+    "hygge_c25_counter2 desc"
+  ],
+  [
+    "hygge_c25_cupboard",
+    "hygge_c25_cupboard name",
+    "hygge_c25_cupboard desc"
+  ],
+  [
+    "hygge_c25_desklamp",
+    "hygge_c25_desklamp name",
+    "hygge_c25_desklamp desc"
+  ],
+  [
+    "hygge_c25_divider",
+    "hygge_c25_divider name",
+    "hygge_c25_divider desc"
+  ],
+  [
+    "hygge_c25_featherdeco",
+    "hygge_c25_featherdeco name",
+    "hygge_c25_featherdeco desc"
+  ],
+  [
+    "hygge_c25_floor1",
+    "hygge_c25_floor1 name",
+    "hygge_c25_floor1 desc"
+  ],
+  [
+    "hygge_c25_flowerdeco",
+    "hygge_c25_flowerdeco name",
+    "hygge_c25_flowerdeco desc"
+  ],
+  [
+    "hygge_c25_hairdryer",
+    "hygge_c25_hairdryer name",
+    "hygge_c25_hairdryer desc"
+  ],
+  [
+    "hygge_c25_hangingchair",
+    "hygge_c25_hangingchair name",
+    "hygge_c25_hangingchair desc"
+  ],
+  [
+    "hygge_c25_kitchensink",
+    "hygge_c25_kitchensink name",
+    "hygge_c25_kitchensink desc"
+  ],
+  [
+    "hygge_c25_knifeblock",
+    "hygge_c25_knifeblock name",
+    "hygge_c25_knifeblock desc"
+  ],
+  [
+    "hygge_c25_ladder",
+    "hygge_c25_ladder name",
+    "hygge_c25_ladder desc"
+  ],
+  [
+    "hygge_c25_laundrybasket",
+    "hygge_c25_laundrybasket name",
+    "hygge_c25_laundrybasket desc"
+  ],
+  [
+    "hygge_c25_microwave",
+    "hygge_c25_microwave name",
+    "hygge_c25_microwave desc"
+  ],
+  [
+    "hygge_c25_mirror",
+    "hygge_c25_mirror name",
+    "hygge_c25_mirror desc"
+  ],
+  [
+    "hygge_c25_papertowel",
+    "hygge_c25_papertowel name",
+    "hygge_c25_papertowel desc"
+  ],
+  [
+    "hygge_c25_remote",
+    "hygge_c25_remote name",
+    "hygge_c25_remote desc"
+  ],
+  [
+    "hygge_c25_shower",
+    "hygge_c25_shower name",
+    "hygge_c25_shower desc"
+  ],
+  [
+    "hygge_c25_sidetable",
+    "hygge_c25_sidetable name",
+    "hygge_c25_sidetable desc"
+  ],
+  [
+    "hygge_c25_soap",
+    "hygge_c25_soap name",
+    "hygge_c25_soap desc"
+  ],
+  [
+    "hygge_c25_sofa",
+    "hygge_c25_sofa name",
+    "hygge_c25_sofa desc"
+  ],
+  [
+    "hygge_c25_sponges",
+    "hygge_c25_sponges name",
+    "hygge_c25_sponges desc"
+  ],
+  [
+    "hygge_c25_stove",
+    "hygge_c25_stove name",
+    "hygge_c25_stove desc"
+  ],
+  [
+    "hygge_c25_toiletpaper",
+    "hygge_c25_toiletpaper name",
+    "hygge_c25_toiletpaper desc"
+  ],
+  [
+    "hygge_c25_toiletseat",
+    "hygge_c25_toiletseat name",
+    "hygge_c25_toiletseat desc"
+  ],
+  [
+    "hygge_c25_toiletsink",
+    "hygge_c25_toiletsink name",
+    "hygge_c25_toiletsink desc"
+  ],
+  [
+    "hygge_c25_towels",
+    "hygge_c25_towels name",
+    "hygge_c25_towels desc"
+  ],
+  [
+    "hygge_c25_tumbler",
+    "hygge_c25_tumbler name",
+    "hygge_c25_tumbler desc"
+  ],
+  [
+    "hygge_c25_tv",
+    "hygge_c25_tv name",
+    "hygge_c25_tv desc"
+  ],
+  [
+    "hygge_c25_waffleiron",
+    "hygge_c25_waffleiron name",
+    "hygge_c25_waffleiron desc"
+  ],
+  [
+    "hygge_c25_wall1",
+    "hygge_c25_wall1 name",
+    "hygge_c25_wall1 desc"
+  ],
+  [
+    "hygge_c25_wall2",
+    "hygge_c25_wall2 name",
+    "hygge_c25_wall2 desc"
+  ],
+  [
+    "hygge_c25_wallpaper1",
+    "hygge_c25_wallpaper1 name",
+    "hygge_c25_wallpaper1 desc"
+  ],
+  [
+    "hygge_c25_wallpaper2",
+    "hygge_c25_wallpaper2 name",
+    "hygge_c25_wallpaper2 desc"
+  ],
+  [
+    "hygge_c25_washer",
+    "hygge_c25_washer name",
+    "hygge_c25_washer desc"
+  ],
+  [
+    "hygge_c25_washyduck",
+    "hygge_c25_washyduck name",
+    "hygge_c25_washyduck desc"
+  ],
+  [
+    "hygge_c25_window1",
+    "hygge_c25_window1 name",
+    "hygge_c25_window1 desc"
+  ],
+  [
+    "hygge_c25_window2",
+    "hygge_c25_window2 name",
+    "hygge_c25_window2 desc"
   ],
   [
     "hygge_r18_fox_bd",
@@ -84198,6 +84488,11 @@
     "rare_fan4_badge",
     "Schwarzer Ventilator",
     ""
+  ],
+  [
+    "rare_fountain_7",
+    "rare_fountain_7 name",
+    "rare_fountain_7 desc"
   ],
   [
     "rare_fountain_niko",
