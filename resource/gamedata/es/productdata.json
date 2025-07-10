@@ -53993,7 +53993,7 @@
       },
       {
         "code": "fball_ptch9",
-        "name": "Campo de Fútbol",
+        "name": "Césped de Fútbol: Punto de Penalti 2",
         "description": "fball_ptch9 desc"
       },
       {
@@ -59658,27 +59658,27 @@
       },
       {
         "code": "highscore_classic_alltime",
-        "name": "Máximas Puntuaciones Clásicas: Globales",
+        "name": "Tabla de Clasificación: Máximas Puntuaciones (Todos los Tiempos)",
         "description": "Mejores puntuaciones arriba (varias entradas por equipo/avatar), compite contra ti mismo y con otros."
       },
       {
         "code": "highscore_classic_daily",
-        "name": "Máximas Puntuaciones Clásicas: Diarias",
+        "name": "Tabla de Clasificación: Máximas Puntuaciones (Diario)",
         "description": "Mejores puntuaciones arriba (varias entradas por equipo/avatar), compite contra ti mismo y con otros."
       },
       {
         "code": "highscore_classic_monthly",
-        "name": "Máximas Puntuaciones Clásicas: Mensuales",
+        "name": "Tabla de Clasificación: Máximas Puntuaciones (Mensual)",
         "description": "Mejores puntuaciones arriba (varias entradas por equipo/avatar), compite contra ti mismo y con otros."
       },
       {
         "code": "highscore_classic",
-        "name": "Máximas Puntuaciones Clásicas",
+        "name": "Máximas Puntuaciones",
         "description": "Mejores puntuaciones arriba (varias entradas por equipo/avatar), compite contra ti mismo y con otros."
       },
       {
         "code": "highscore_classic_weekly",
-        "name": "Máximas Puntuaciones Clásicas: Semanales",
+        "name": "Tabla de Clasificación: Máximas Puntuaciones (Semanal)",
         "description": "Mejores puntuaciones arriba (varias entradas por equipo/avatar), compite contra ti mismo y con otros."
       },
       {
@@ -59723,22 +59723,22 @@
       },
       {
         "code": "highscore_mostwin_alltime",
-        "name": "Máximas Puntuaciones (Más Victorias): Globales",
+        "name": "Tabla de Clasificación: Más Victorias (Todos los Tiempos)",
         "description": "El equipo con más puntos al final de una ronda consigue un punto de victoria. Las victorias se acumulan."
       },
       {
         "code": "highscore_mostwin_daily",
-        "name": "Máximas Puntuaciones (Más Victorias): Diarias",
+        "name": "Tabla de Clasificación: Más Victorias (Diario)",
         "description": "El equipo con más puntos al final de una ronda consigue un punto de victoria. Las victorias se acumulan."
       },
       {
         "code": "highscore_mostwin_monthly",
-        "name": "Máximas Puntuaciones (Más Victorias): Mensuales",
+        "name": "Tabla de Clasificación: Más Victorias (Mensual)",
         "description": "El equipo con más puntos al final de una ronda consigue un punto de victoria. Las victorias se acumulan."
       },
       {
         "code": "highscore_mostwin",
-        "name": "Máximas Puntuaciones (Más Victorias)",
+        "name": "Más Victorias",
         "description": "El equipo con más puntos al final de una ronda consigue un punto de victoria. Las victorias se acumulan."
       },
       {
@@ -59748,17 +59748,17 @@
       },
       {
         "code": "highscore_perteam_alltime",
-        "name": "Máximas Puntuaciones por Equipo: Globales",
+        "name": "Tabla de Clasificación: Máximas Puntuaciones por Equipo (Todos los Tiempos)",
         "description": "Cada configuración de equipo tiene una entrada: ¡los equipos pueden competir entre sí!"
       },
       {
         "code": "highscore_perteam_daily",
-        "name": "Máximas Puntuaciones por Equipo: Diarias",
+        "name": "Tabla de Clasificación: Máximas Puntuaciones por Equipo (Diario)",
         "description": "Cada configuración de equipo tiene una entrada: ¡los equipos pueden competir entre sí!"
       },
       {
         "code": "highscore_perteam_monthly",
-        "name": "Máximas Puntuaciones por Equipo: Mensuales",
+        "name": "Tabla de Clasificación: Máximas Puntuaciones por Equipo (Mensual)",
         "description": "Cada configuración de equipo tiene una entrada: ¡los equipos pueden competir entre sí!"
       },
       {
@@ -102593,7 +102593,7 @@
       },
       {
         "code": "tile_walkmagic1x4",
-        "name": "1x4 Baldosa Caminar Mágica",
+        "name": "Baldosa Mágica: Caminar 1x4",
         "description": "tile_walkmagic1x4 desc"
       },
       {
@@ -102603,7 +102603,7 @@
       },
       {
         "code": "tile_walkmagic2x2",
-        "name": "2x2 Baldosa Caminar Mágica",
+        "name": "Baldosa Mágica: Caminar 2x2",
         "description": "tile_walkmagic2x2 desc"
       },
       {
