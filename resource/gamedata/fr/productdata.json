@@ -30327,6 +30327,11 @@
         "description": "change_state_on_step desc"
       },
       {
+        "code": "chat_bubble_10000",
+        "name": "Bulle de Chat recyclée",
+        "description": ""
+      },
+      {
         "code": "chess_b_bishop",
         "name": "Fou Noir",
         "description": "chess_b_bishop desc"
@@ -36273,7 +36278,7 @@
       },
       {
         "code": "clothing_nftchocoicecream",
-        "name": "clothing_nftchocoicecream name",
+        "name": "Barre glacée au chocolat",
         "description": "clothing_nftchocoicecream desc"
       },
       {
@@ -36343,22 +36348,22 @@
       },
       {
         "code": "clothing_nftdenimcap",
-        "name": "clothing_nftdenimcap name",
+        "name": "Casquette en jean",
         "description": "clothing_nftdenimcap desc"
       },
       {
         "code": "clothing_nftdenimcroptop",
-        "name": "clothing_nftdenimcroptop name",
+        "name": "Top crop denim",
         "description": "clothing_nftdenimcroptop desc"
       },
       {
         "code": "clothing_nftdenimjacket",
-        "name": "clothing_nftdenimjacket name",
+        "name": "Veste en jean",
         "description": "clothing_nftdenimjacket desc"
       },
       {
         "code": "clothing_nftdenimshorts",
-        "name": "clothing_nftdenimshorts name",
+        "name": "Short en jean",
         "description": "clothing_nftdenimshorts desc"
       },
       {
@@ -36483,27 +36488,27 @@
       },
       {
         "code": "clothing_nftflowershades1",
-        "name": "clothing_nftflowershades1 name",
+        "name": "Ombres à fleurs blanches",
         "description": "clothing_nftflowershades1 desc"
       },
       {
         "code": "clothing_nftflowershades2",
-        "name": "clothing_nftflowershades2 name",
+        "name": "Ombres à fleurs vertes",
         "description": "clothing_nftflowershades2 desc"
       },
       {
         "code": "clothing_nftflowershades3",
-        "name": "clothing_nftflowershades3 name",
+        "name": "Ombres à fleurs bleues",
         "description": "clothing_nftflowershades3 desc"
       },
       {
         "code": "clothing_nftflowershades4",
-        "name": "clothing_nftflowershades4 name",
+        "name": "Ombres à fleurs violettes",
         "description": "clothing_nftflowershades4 desc"
       },
       {
         "code": "clothing_nftflowershades5",
-        "name": "clothing_nftflowershades5 name",
+        "name": "Ombres à fleurs jaunes",
         "description": "clothing_nftflowershades5 desc"
       },
       {
@@ -37003,17 +37008,17 @@
       },
       {
         "code": "clothing_nftpopsicle1",
-        "name": "clothing_nftpopsicle1 name",
+        "name": "Barre glacée à la framboise",
         "description": "clothing_nftpopsicle1 desc"
       },
       {
         "code": "clothing_nftpopsicle2",
-        "name": "clothing_nftpopsicle2 name",
+        "name": "Barre glacée à la crème de menthe",
         "description": "clothing_nftpopsicle2 desc"
       },
       {
         "code": "clothing_nftpopsicle3",
-        "name": "clothing_nftpopsicle3 name",
+        "name": "Bar à glace aux agrumes",
         "description": "clothing_nftpopsicle3 desc"
       },
       {
@@ -37138,12 +37143,12 @@
       },
       {
         "code": "clothing_nfts25glasses1",
-        "name": "clothing_nfts25glasses1 name",
+        "name": "Pare-soleil à bord",
         "description": "clothing_nfts25glasses1 desc"
       },
       {
         "code": "clothing_nfts25glasses2",
-        "name": "clothing_nfts25glasses2 name",
+        "name": "Grandes ombres d'été",
         "description": "clothing_nfts25glasses2 desc"
       },
       {
@@ -37223,7 +37228,7 @@
       },
       {
         "code": "clothing_nftsmileyface",
-        "name": "clothing_nftsmileyface name",
+        "name": "Visage souriant cartoon",
         "description": "clothing_nftsmileyface desc"
       },
       {
@@ -37468,7 +37473,7 @@
       },
       {
         "code": "clothing_nftsun",
-        "name": "clothing_nftsun name",
+        "name": "Soleil souriant",
         "description": "clothing_nftsun desc"
       },
       {
@@ -74893,12 +74898,12 @@
       },
       {
         "code": "nft_h25_chocoicecream",
-        "name": "nft_h25_chocoicecream name",
+        "name": "Barre glacée au chocolat",
         "description": "nft_h25_chocoicecream desc"
       },
       {
         "code": "nft_h25_clamsofa",
-        "name": "nft_h25_clamsofa name",
+        "name": "Palourde géante inhabitable",
         "description": "nft_h25_clamsofa desc"
       },
       {
@@ -75048,17 +75053,17 @@
       },
       {
         "code": "nft_h25_popsicle1",
-        "name": "nft_h25_popsicle1 name",
+        "name": "Barre glacée à la framboise",
         "description": "nft_h25_popsicle1 desc"
       },
       {
         "code": "nft_h25_popsicle2",
-        "name": "nft_h25_popsicle2 name",
+        "name": "Barre glacée à la crème de menthe",
         "description": "nft_h25_popsicle2 desc"
       },
       {
         "code": "nft_h25_popsicle3",
-        "name": "nft_h25_popsicle3 name",
+        "name": "Bar à glace aux agrumes",
         "description": "nft_h25_popsicle3 desc"
       },
       {
@@ -75078,77 +75083,77 @@
       },
       {
         "code": "nft_h25_summerboat_dlx",
-        "name": "nft_h25_summerboat_dlx name",
+        "name": "Mini radeau doré",
         "description": "nft_h25_summerboat_dlx desc"
       },
       {
         "code": "nft_h25_summerboat",
-        "name": "nft_h25_summerboat name",
+        "name": "Mini radeau",
         "description": "nft_h25_summerboat desc"
       },
       {
         "code": "nft_h25_summerduckride",
-        "name": "nft_h25_summerduckride name",
+        "name": "Canard pneumatique",
         "description": "nft_h25_summerduckride desc"
       },
       {
         "code": "nft_h25_summerletters1",
-        "name": "nft_h25_summerletters1 name",
+        "name": "Lettres rouges de l'été 2025",
         "description": "nft_h25_summerletters1 desc"
       },
       {
         "code": "nft_h25_summerletters2",
-        "name": "nft_h25_summerletters2 name",
+        "name": "Lettres vertes de l'été 2025",
         "description": "nft_h25_summerletters2 desc"
       },
       {
         "code": "nft_h25_summerletters3",
-        "name": "nft_h25_summerletters3 name",
+        "name": "Lettres jaunes de l'été 2025",
         "description": "nft_h25_summerletters3 desc"
       },
       {
         "code": "nft_h25_summernumbers1",
-        "name": "nft_h25_summernumbers1 name",
+        "name": "Chiffres rouges de l'été 2025",
         "description": "nft_h25_summernumbers1 desc"
       },
       {
         "code": "nft_h25_summernumbers2",
-        "name": "nft_h25_summernumbers2 name",
+        "name": "Chiffres verts de l'été 2025",
         "description": "nft_h25_summernumbers2 desc"
       },
       {
         "code": "nft_h25_summernumbers3",
-        "name": "nft_h25_summernumbers3 name",
+        "name": "Chiffres jaunes de l'été 2025",
         "description": "nft_h25_summernumbers3 desc"
       },
       {
         "code": "nft_h25_summersofa",
-        "name": "nft_h25_summersofa name",
+        "name": "Canapé gonflable Club",
         "description": "nft_h25_summersofa desc"
       },
       {
         "code": "nft_h25_summersub_dlx",
-        "name": "nft_h25_summersub_dlx name",
+        "name": "Mini-sub doré",
         "description": "nft_h25_summersub_dlx desc"
       },
       {
         "code": "nft_h25_summersub",
-        "name": "nft_h25_summersub name",
+        "name": "Mini Sub",
         "description": "nft_h25_summersub desc"
       },
       {
         "code": "nft_h25_summerthrone",
-        "name": "nft_h25_summerthrone name",
+        "name": "Trône gonflable",
         "description": "nft_h25_summerthrone desc"
       },
       {
         "code": "nft_h25_summeryacht_dlx",
-        "name": "nft_h25_summeryacht_dlx name",
+        "name": "Mini yacht doré",
         "description": "nft_h25_summeryacht_dlx desc"
       },
       {
         "code": "nft_h25_summeryacht",
-        "name": "nft_h25_summeryacht name",
+        "name": "Mini Yacht",
         "description": "nft_h25_summeryacht desc"
       },
       {
