@@ -30423,7 +30423,7 @@
       },
       {
         "code": "chair_plasto_lm1",
-        "name": "Regenbogen-Plastic-Stuhl",
+        "name": "Regenbogen-Plastikstuhl",
         "description": "Alle Farben auf einmal!"
       },
       {
@@ -33453,7 +33453,7 @@
       },
       {
         "code": "clothing_cheekbandage",
-        "name": "Wangenverband",
+        "name": "Wangenpflaster",
         "description": "clothing_cheekbandage desc"
       },
       {
@@ -33578,7 +33578,7 @@
       },
       {
         "code": "clothing_clubclip",
-        "name": "Kreuzanstecker",
+        "name": "Kreuz-Haarspange",
         "description": "clothing_clubclip desc"
       },
       {
@@ -33703,7 +33703,7 @@
       },
       {
         "code": "clothing_curlylocksponytail",
-        "name": "Lockiger gedrehter Pferdeschwanz",
+        "name": "Gezwirbelter Pferdeschwanz",
         "description": "clothing_curlylocksponytail desc"
       },
       {
@@ -33998,7 +33998,7 @@
       },
       {
         "code": "clothing_diamondclip",
-        "name": "Karostecker",
+        "name": "Karo-Haarspange",
         "description": "clothing_diamondclip desc"
       },
       {
@@ -34208,7 +34208,7 @@
       },
       {
         "code": "clothing_egyptianheadband",
-        "name": "Uräusschlange-Stirnband",
+        "name": "Uräusschlangen-Diadem",
         "description": "clothing_egyptianheadband desc"
       },
       {
@@ -34318,7 +34318,7 @@
       },
       {
         "code": "clothing_fantasyheadpiece",
-        "name": "Fantasy Goldstirnband",
+        "name": "Goldenes Fantasy-Diadem",
         "description": "clothing_fantasyheadpiece desc"
       },
       {
@@ -34943,7 +34943,7 @@
       },
       {
         "code": "clothing_headband",
-        "name": "Rockstar Stirnband",
+        "name": "Rockstar-Stirnband",
         "description": "Designer ready-to-wear"
       },
       {
@@ -34988,7 +34988,7 @@
       },
       {
         "code": "clothing_heartclip",
-        "name": "Herzanstecker",
+        "name": "Herz-Haarspange",
         "description": "clothing_heartclip desc"
       },
       {
@@ -37818,7 +37818,7 @@
       },
       {
         "code": "clothing_nosebandage",
-        "name": "Nasenverband",
+        "name": "Nasenpflaster",
         "description": "clothing_nosebandage desc"
       },
       {
@@ -38563,7 +38563,7 @@
       },
       {
         "code": "clothing_professionalskater",
-        "name": "Professioneller Skateboarder",
+        "name": "Profi Skateboarder-Outfit",
         "description": "clothing_professionalskater desc"
       },
       {
@@ -39318,7 +39318,7 @@
       },
       {
         "code": "clothing_r19_rainbowshades",
-        "name": "Regenbogensonnenbrille",
+        "name": "Regenbogen-Sonnenbrille",
         "description": "clothing_r19_rainbowshades desc"
       },
       {
@@ -39358,7 +39358,7 @@
       },
       {
         "code": "clothing_r19_shades_bd",
-        "name": "Regenbogensonnenbrille",
+        "name": "Regenbogen-Sonnenbrille",
         "description": ""
       },
       {
@@ -40243,12 +40243,12 @@
       },
       {
         "code": "clothing_r22_rosehair_bd",
-        "name": "Homecoming Rosenhaar",
+        "name": "Homecoming-Rosenhaar",
         "description": ""
       },
       {
         "code": "clothing_r22_rosehair",
-        "name": "Homecoming Rosenhaar",
+        "name": "Homecoming-Rosenhaar",
         "description": "clothing_r22_rosehair desc"
       },
       {
@@ -40268,12 +40268,12 @@
       },
       {
         "code": "clothing_r22_tuxcape_bd",
-        "name": "Homecoming Smoking",
+        "name": "Homecoming-Smoking",
         "description": ""
       },
       {
         "code": "clothing_r22_tuxedocape",
-        "name": "Homecoming Smoking",
+        "name": "Homecoming-Smoking",
         "description": "clothing_r22_tuxedocape desc"
       },
       {
@@ -41138,7 +41138,7 @@
       },
       {
         "code": "clothing_ribboncurls",
-        "name": "Band und Locken Set",
+        "name": "Haarreif und Locken-Set",
         "description": "clothing_ribboncurls desc"
       },
       {
@@ -41528,7 +41528,7 @@
       },
       {
         "code": "clothing_spadeclip",
-        "name": "Pikanstecker",
+        "name": "Pik-Haarspange",
         "description": "clothing_spadeclip desc"
       },
       {
@@ -41813,7 +41813,7 @@
       },
       {
         "code": "clothing_tiedyehoodie",
-        "name": "Regenbogen Kapuzenjacke",
+        "name": "Regenbogen-Kapuzenpulli",
         "description": "clothing_tiedyehoodie desc"
       },
       {
@@ -49353,7 +49353,7 @@
       },
       {
         "code": "easel_comp",
-        "name": "Künstlerstaffelei",
+        "name": "Künstler-Staffelei",
         "description": "easel_comp desc"
       },
       {
@@ -51928,12 +51928,12 @@
       },
       {
         "code": "easter_r19_mysticalbird_bd",
-        "name": "Regenbogen Waldhuhn",
+        "name": "Regenbogen-Waldhuhn",
         "description": ""
       },
       {
         "code": "easter_r19_mysticalbird",
-        "name": "Regenbogen Waldhuhn",
+        "name": "Regenbogen-Waldhuhn",
         "description": "easter_r19_mysticalbird desc"
       },
       {
@@ -56990,6 +56990,16 @@
         "code": "habbo25_c25_balloons",
         "name": "habbo25_c25_balloons name",
         "description": "habbo25_c25_balloons desc"
+      },
+      {
+        "code": "habbo25_c25_bdayballoon2",
+        "name": "habbo25_c25_bdayballoon2 name",
+        "description": "habbo25_c25_bdayballoon2 desc"
+      },
+      {
+        "code": "habbo25_c25_bdayballoon",
+        "name": "habbo25_c25_bdayballoon name",
+        "description": "habbo25_c25_bdayballoon desc"
       },
       {
         "code": "habbo25_c25_bedfloat1",
@@ -64053,7 +64063,7 @@
       },
       {
         "code": "hygge_c25_divider",
-        "name": "Moderner Raumteiler aus Holz",
+        "name": "Moderner Holz-Raumteiler",
         "description": "hygge_c25_divider desc"
       },
       {
@@ -64173,7 +64183,7 @@
       },
       {
         "code": "hygge_c25_tumbler",
-        "name": "Habbo-Trinkglas",
+        "name": "Habbo-Trinkbecher",
         "description": "hygge_c25_tumbler desc"
       },
       {
@@ -64213,7 +64223,7 @@
       },
       {
         "code": "hygge_c25_washyduck",
-        "name": "Enten-Flüssigkeit",
+        "name": "Enten-Spülmittel",
         "description": "hygge_c25_washyduck desc"
       },
       {
@@ -73073,7 +73083,7 @@
       },
       {
         "code": "nft_easter_r19_mysticalbird",
-        "name": "Regenbogen Waldhuhn",
+        "name": "Regenbogen-Waldhuhn",
         "description": "nft_easter_r19_mysticalbird desc"
       },
       {
@@ -76842,6 +76852,16 @@
         "description": "nft_sc25_chickballoon desc"
       },
       {
+        "code": "nft_sc25_dragonlampfloat",
+        "name": "nft_sc25_dragonlampfloat name",
+        "description": "nft_sc25_dragonlampfloat desc"
+      },
+      {
+        "code": "nft_sc25_smallpirateboat",
+        "name": "nft_sc25_smallpirateboat name",
+        "description": "nft_sc25_smallpirateboat desc"
+      },
+      {
         "code": "nft_sc25_sunflowers_bd",
         "name": "Sonnenblumenpflanze",
         "description": ""
@@ -76852,8 +76872,18 @@
         "description": "nft_sc25_sunflowers desc"
       },
       {
+        "code": "nft_sc25_turtlefloat",
+        "name": "nft_sc25_turtlefloat name",
+        "description": "nft_sc25_turtlefloat desc"
+      },
+      {
+        "code": "nft_sc25_unicornfloat",
+        "name": "nft_sc25_unicornfloat name",
+        "description": "nft_sc25_unicornfloat desc"
+      },
+      {
         "code": "nft_sf_pod",
-        "name": "Spacebett",
+        "name": "Kryobett",
         "description": ""
       },
       {
@@ -81513,7 +81543,7 @@
       },
       {
         "code": "plushie_c20_crackable",
-        "name": "Plüschhandwerksbox",
+        "name": "Plüschhandwerkskorb",
         "description": "plushie_c20_crackable desc"
       },
       {
@@ -83968,17 +83998,17 @@
       },
       {
         "code": "rainbow_ltd19_parasol",
-        "name": "Regenbogensonnenschirm",
+        "name": "Regenbogen-Sonnenschirm",
         "description": "rainbow_ltd19_parasol desc"
       },
       {
         "code": "rainbow_ltd21_dragon_bd",
-        "name": "Regenbogen Drachenlampe LTD",
+        "name": "LTD: Regenbogen-Drachenlampe",
         "description": ""
       },
       {
         "code": "rainbow_ltd21_dragonlamp",
-        "name": "Regenbogen Drachenlampe LTD",
+        "name": "LTD: Regenbogen-Drachenlampe",
         "description": "rainbow_ltd21_dragonlamp desc"
       },
       {
@@ -86113,7 +86143,7 @@
       },
       {
         "code": "rare_r24_easel2_bd",
-        "name": "RARE Habboporu Staffelei",
+        "name": "RARE Habboporu-Staffelei",
         "description": ""
       },
       {
@@ -98333,17 +98363,17 @@
       },
       {
         "code": "sf_mbar",
-        "name": "Spacebar",
+        "name": "Astro-Bar",
         "description": "Alle Vitamine mit einem Schluck."
       },
       {
         "code": "sf_pod_dark",
-        "name": "Schwarzes Spacebett",
+        "name": "Schwarzes Kryobett",
         "description": "Limitierte Auflage Rare. Fall in das schwarze Loch des Schlafes."
       },
       {
         "code": "sf_pod",
-        "name": "Spacebett",
+        "name": "Kryobett",
         "description": "Gute Nacht mein Astronaut"
       },
       {
@@ -112888,7 +112918,7 @@
       },
       {
         "code": "xmas_c24_advent8",
-        "name": "Engelstatue",
+        "name": "Engelsstatue",
         "description": "xmas_c24_advent8 desc"
       },
       {

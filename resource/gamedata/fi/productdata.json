@@ -29708,7 +29708,7 @@
       },
       {
         "code": "bonusrare24_3_0",
-        "name": "Persikkavasikka",
+        "name": "Persikkamustikki",
         "description": ""
       },
       {
@@ -29738,7 +29738,7 @@
       },
       {
         "code": "bonusrare24_3_a_1",
-        "name": "Persikkavasikka",
+        "name": "Persikkamustikki",
         "description": "bonusrare24_3_a_1 desc"
       },
       {
@@ -32378,7 +32378,7 @@
       },
       {
         "code": "circus_c24_mastergymnastsgroup",
-        "name": "Voistelijamestarit",
+        "name": "Voimistelijamestarit",
         "description": "circus_c24_mastergymnastsgroup desc"
       },
       {
@@ -57912,6 +57912,16 @@
         "description": "habbo25_c25_balloons desc"
       },
       {
+        "code": "habbo25_c25_bdayballoon2",
+        "name": "habbo25_c25_bdayballoon2 name",
+        "description": "habbo25_c25_bdayballoon2 desc"
+      },
+      {
+        "code": "habbo25_c25_bdayballoon",
+        "name": "habbo25_c25_bdayballoon name",
+        "description": "habbo25_c25_bdayballoon desc"
+      },
+      {
         "code": "habbo25_c25_bedfloat1",
         "name": "habbo25_c25_bedfloat1 name",
         "description": "habbo25_c25_bedfloat1 desc"
@@ -77852,6 +77862,16 @@
         "description": "nft_sc25_chickballoon desc"
       },
       {
+        "code": "nft_sc25_dragonlampfloat",
+        "name": "nft_sc25_dragonlampfloat name",
+        "description": "nft_sc25_dragonlampfloat desc"
+      },
+      {
+        "code": "nft_sc25_smallpirateboat",
+        "name": "nft_sc25_smallpirateboat name",
+        "description": "nft_sc25_smallpirateboat desc"
+      },
+      {
         "code": "nft_sc25_sunflowers_bd",
         "name": "Auringonkukat",
         "description": ""
@@ -77860,6 +77880,16 @@
         "code": "nft_sc25_sunflowers",
         "name": "Auringonkukat",
         "description": "nft_sc25_sunflowers desc"
+      },
+      {
+        "code": "nft_sc25_turtlefloat",
+        "name": "nft_sc25_turtlefloat name",
+        "description": "nft_sc25_turtlefloat desc"
+      },
+      {
+        "code": "nft_sc25_unicornfloat",
+        "name": "nft_sc25_unicornfloat name",
+        "description": "nft_sc25_unicornfloat desc"
       },
       {
         "code": "nft_sf_pod",
@@ -100598,7 +100628,7 @@
       },
       {
         "code": "spa_c20_incense",
-        "name": "Kypyläsuitsuke",
+        "name": "Kylpyläsuitsuke",
         "description": "spa_c20_incense desc"
       },
       {
@@ -114428,12 +114458,12 @@
       },
       {
         "code": "xmas_r17_lion_bd",
-        "name": "Viktoriaaninen leijopatsas",
+        "name": "Viktoriaaninen leijonapatsas",
         "description": ""
       },
       {
         "code": "xmas_r17_lion",
-        "name": "Viktoriaaninen leijopatsas",
+        "name": "Viktoriaaninen leijonapatsas",
         "description": "xmas_r17_lion desc"
       },
       {
