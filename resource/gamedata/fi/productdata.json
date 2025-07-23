@@ -13902,6 +13902,11 @@
         "description": ""
       },
       {
+        "code": "augprize12",
+        "name": "Collectible Set Quest Prize",
+        "description": ""
+      },
+      {
         "code": "august14_wagon_internal",
         "name": "Frontier Train Internal",
         "description": ""
@@ -77862,13 +77867,18 @@
         "description": "nft_sc25_chickballoon desc"
       },
       {
+        "code": "nft_sc25_dragon_bd",
+        "name": "Dragon Lamp Float",
+        "description": ""
+      },
+      {
         "code": "nft_sc25_dragonlampfloat",
-        "name": "nft_sc25_dragonlampfloat name",
+        "name": "Dragon Lamp Float",
         "description": "nft_sc25_dragonlampfloat desc"
       },
       {
         "code": "nft_sc25_smallpirateboat",
-        "name": "nft_sc25_smallpirateboat name",
+        "name": "Pirate Ship Float",
         "description": "nft_sc25_smallpirateboat desc"
       },
       {
@@ -77882,13 +77892,23 @@
         "description": "nft_sc25_sunflowers desc"
       },
       {
+        "code": "nft_sc25_turtle_bd",
+        "name": "Turtle Float",
+        "description": ""
+      },
+      {
         "code": "nft_sc25_turtlefloat",
-        "name": "nft_sc25_turtlefloat name",
+        "name": "Turtle Float",
         "description": "nft_sc25_turtlefloat desc"
       },
       {
+        "code": "nft_sc25_unicorn_bd",
+        "name": "Unicorn Float",
+        "description": ""
+      },
+      {
         "code": "nft_sc25_unicornfloat",
-        "name": "nft_sc25_unicornfloat name",
+        "name": "Unicorn Float",
         "description": "nft_sc25_unicornfloat desc"
       },
       {
