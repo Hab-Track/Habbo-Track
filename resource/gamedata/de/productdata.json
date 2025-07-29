@@ -32662,6 +32662,11 @@
         "description": "clothing_archerhat desc"
       },
       {
+        "code": "clothing_armfloats",
+        "name": "clothing_armfloats name",
+        "description": "clothing_armfloats desc"
+      },
+      {
         "code": "clothing_armyskirt",
         "name": "Militärsrock",
         "description": "Mach dich schick. Die Habbo Armee braucht DICH."
@@ -32820,6 +32825,11 @@
         "code": "clothing_beautyface",
         "name": "Geschminktes Gesicht",
         "description": "clothing_beautyface desc"
+      },
+      {
+        "code": "clothing_bedazzledhat",
+        "name": "clothing_bedazzledhat name",
+        "description": "clothing_bedazzledhat desc"
       },
       {
         "code": "clothing_bedhair",
@@ -33035,6 +33045,11 @@
         "code": "clothing_bowtights",
         "name": "Kellnerinnen-Schuhe",
         "description": "clothing_bowtights desc"
+      },
+      {
+        "code": "clothing_braidedpigtails",
+        "name": "clothing_braidedpigtails name",
+        "description": "clothing_braidedpigtails desc"
       },
       {
         "code": "clothing_braidedwavy",
@@ -33410,6 +33425,11 @@
         "code": "clothing_catbeanie",
         "name": "Katzenohrmütze",
         "description": "clothing_catbeanie desc"
+      },
+      {
+        "code": "clothing_catfloat",
+        "name": "clothing_catfloat name",
+        "description": "clothing_catfloat desc"
       },
       {
         "code": "clothing_cathead",
@@ -34067,6 +34087,11 @@
         "description": "Runzle nicht deine Stirn, sondern lass dein Haar herunter."
       },
       {
+        "code": "clothing_discohead",
+        "name": "clothing_discohead name",
+        "description": "clothing_discohead desc"
+      },
+      {
         "code": "clothing_docfranks",
         "name": "Doc Franks",
         "description": "clothing_docfranks desc"
@@ -34555,6 +34580,11 @@
         "code": "clothing_frayedstrawhat",
         "name": "Ausgefranster Strohhut",
         "description": "clothing_frayedstrawhat desc"
+      },
+      {
+        "code": "clothing_frillycroppedbikini",
+        "name": "clothing_frillycroppedbikini name",
+        "description": "clothing_frillycroppedbikini desc"
       },
       {
         "code": "clothing_frontswirl",
@@ -35620,6 +35650,11 @@
         "code": "clothing_maidband",
         "name": "Kellnerinnen-Haube",
         "description": "clothing_maidband desc"
+      },
+      {
+        "code": "clothing_manbun2",
+        "name": "clothing_manbun2 name",
+        "description": "clothing_manbun2 desc"
       },
       {
         "code": "clothing_manbun",
@@ -38232,6 +38267,11 @@
         "description": "Zwei Töne sind besser als einer."
       },
       {
+        "code": "clothing_ombreswimtrunks",
+        "name": "clothing_ombreswimtrunks name",
+        "description": "clothing_ombreswimtrunks desc"
+      },
+      {
         "code": "clothing_onewolfmoontshirt",
         "name": "Mond-T-Shirt mit einsamem Wolf",
         "description": "clothing_onewolfmoontshirt desc"
@@ -38525,6 +38565,11 @@
         "code": "clothing_poncho",
         "name": "Indianer-Poncho",
         "description": "clothing_poncho desc"
+      },
+      {
+        "code": "clothing_poolpartyshades",
+        "name": "clothing_poolpartyshades name",
+        "description": "clothing_poolpartyshades desc"
       },
       {
         "code": "clothing_poop",
@@ -40907,6 +40952,11 @@
         "description": ""
       },
       {
+        "code": "clothing_r25_balloon",
+        "name": "clothing_r25_balloon name",
+        "description": "clothing_r25_balloon desc"
+      },
+      {
         "code": "clothing_r25_bosscoat_bd",
         "name": "Boss-Mantel",
         "description": ""
@@ -40960,6 +41010,11 @@
         "code": "clothing_r25_heartqueendress",
         "name": "Herzköniginnenkleid",
         "description": "clothing_r25_heartqueendress desc"
+      },
+      {
+        "code": "clothing_r25_iridescentstarbag",
+        "name": "clothing_r25_iridescentstarbag name",
+        "description": "clothing_r25_iridescentstarbag desc"
       },
       {
         "code": "clothing_r25_knightarmor",
@@ -41105,6 +41160,11 @@
         "code": "clothing_rebelchest",
         "name": "Mit Nägeln versehenes Brustschild",
         "description": "clothing_rebelchest desc"
+      },
+      {
+        "code": "clothing_recycler_patchlongscarf",
+        "name": "clothing_recycler_patchlongscarf name",
+        "description": "clothing_recycler_patchlongscarf desc"
       },
       {
         "code": "clothing_regiment",
@@ -41550,6 +41610,11 @@
         "code": "clothing_spadeclip",
         "name": "Pik-Haarspange",
         "description": "clothing_spadeclip desc"
+      },
+      {
+        "code": "clothing_sparklerheadband",
+        "name": "clothing_sparklerheadband name",
+        "description": "clothing_sparklerheadband desc"
       },
       {
         "code": "clothing_spikeybunhair",
@@ -57017,9 +57082,19 @@
         "description": "habbo25_c25_bdayballoon2 desc"
       },
       {
+        "code": "habbo25_c25_bdayballoon2b",
+        "name": "habbo25_c25_bdayballoon2b name",
+        "description": "habbo25_c25_bdayballoon2b desc"
+      },
+      {
         "code": "habbo25_c25_bdayballoon",
         "name": "habbo25_c25_bdayballoon name",
         "description": "habbo25_c25_bdayballoon desc"
+      },
+      {
+        "code": "habbo25_c25_bdayballoonb",
+        "name": "habbo25_c25_bdayballoonb name",
+        "description": "habbo25_c25_bdayballoonb desc"
       },
       {
         "code": "habbo25_c25_bedfloat1",
@@ -57285,6 +57360,36 @@
         "code": "habbo25_c25_yachtmid3",
         "name": "habbo25_c25_yachtmid3 name",
         "description": "habbo25_c25_yachtmid3 desc"
+      },
+      {
+        "code": "habbo25_ltd25_duckymachine",
+        "name": "habbo25_ltd25_duckymachine name",
+        "description": "habbo25_ltd25_duckymachine desc"
+      },
+      {
+        "code": "habbo25_r25_bdaycake",
+        "name": "habbo25_r25_bdaycake name",
+        "description": "habbo25_r25_bdaycake desc"
+      },
+      {
+        "code": "habbo25_r25_blackthrone",
+        "name": "habbo25_r25_blackthrone name",
+        "description": "habbo25_r25_blackthrone desc"
+      },
+      {
+        "code": "habbo25_r25_turntable",
+        "name": "habbo25_r25_turntable name",
+        "description": "habbo25_r25_turntable desc"
+      },
+      {
+        "code": "habbo25_sc25_drinksdispenser",
+        "name": "habbo25_sc25_drinksdispenser name",
+        "description": "habbo25_sc25_drinksdispenser desc"
+      },
+      {
+        "code": "habbo25_sc25_goldenfountain",
+        "name": "habbo25_sc25_goldenfountain name",
+        "description": "habbo25_sc25_goldenfountain desc"
       },
       {
         "code": "habbogirldoll_badge",
@@ -72379,7 +72484,7 @@
       {
         "code": "nft_army15_largescreen",
         "name": "Weltweiter Satellitenbildschirm",
-        "description": "nft_army15_largescreen desc"
+        "description": "Weltweiter Satellitenbildschirm"
       },
       {
         "code": "nft_army15_scanner",
@@ -72653,8 +72758,8 @@
       },
       {
         "code": "nft_cannon",
-        "name": "nft_cannon name",
-        "description": "nft_cannon desc"
+        "name": "Kanone",
+        "description": "Kanone"
       },
       {
         "code": "nft_catcafe_c23_cattree",
@@ -72787,6 +72892,11 @@
         "description": "nft_china_light desc"
       },
       {
+        "code": "nft_christmas_reindeer",
+        "name": "$product_christmas_reindeer_name$",
+        "description": "$product_christmas_reindeer_name$"
+      },
+      {
         "code": "nft_cland15_candythrone",
         "name": "Süßigkeiten Thron",
         "description": "nft_cland15_candythrone desc"
@@ -72813,8 +72923,8 @@
       },
       {
         "code": "nft_cny16_monkeyballoon",
-        "name": "nft_cny16_monkeyballoon name",
-        "description": "nft_cny16_monkeyballoon desc"
+        "name": "Affen-Luftballon",
+        "description": "Affen-Luftballon"
       },
       {
         "code": "nft_cpunk15_blimp",
@@ -72873,13 +72983,13 @@
       },
       {
         "code": "nft_dia_podium",
-        "name": "nft_dia_podium name",
-        "description": "nft_dia_podium desc"
+        "name": "Diamant-Podium",
+        "description": "Diamant-Podium"
       },
       {
         "code": "nft_dia_uplink",
-        "name": "nft_dia_uplink name",
-        "description": "nft_dia_uplink desc"
+        "name": "Diamant-Uplinkstation",
+        "description": "Diamant-Uplinkstation"
       },
       {
         "code": "nft_diamond_dragon",
@@ -72888,8 +72998,8 @@
       },
       {
         "code": "nft_diamond_painting31",
-        "name": "nft_diamond_painting31 name",
-        "description": "nft_diamond_painting31 desc"
+        "name": "Habbo Mädchen",
+        "description": "Habbo Mädchen"
       },
       {
         "code": "nft_diamond_painting32",
@@ -72908,18 +73018,18 @@
       },
       {
         "code": "nft_diamond_painting35",
-        "name": "nft_diamond_painting35 name",
-        "description": "nft_diamond_painting35 desc"
+        "name": "Mädchen mit H",
+        "description": "Mädchen mit H"
       },
       {
         "code": "nft_diamond_painting36",
-        "name": "nft_diamond_painting36 name",
-        "description": "nft_diamond_painting36 desc"
+        "name": "Herr Pixel Face",
+        "description": "Herr Pixel Face"
       },
       {
         "code": "nft_diamond_painting37",
-        "name": "nft_diamond_painting37 name",
-        "description": "nft_diamond_painting37 desc"
+        "name": "Gebannte Aktivität",
+        "description": "Gebannte Aktivität"
       },
       {
         "code": "nft_diamond_painting38",
@@ -72928,83 +73038,83 @@
       },
       {
         "code": "nft_diamond_painting40",
-        "name": "nft_diamond_painting40 name",
-        "description": "nft_diamond_painting40 desc"
+        "name": "Ach Bonnie Rosa",
+        "description": "Ach Bonnie Rosa"
       },
       {
         "code": "nft_diamond_painting41",
-        "name": "nft_diamond_painting41 name",
-        "description": "nft_diamond_painting41 desc"
+        "name": "Entenmahr",
+        "description": "Entenmahr"
       },
       {
         "code": "nft_diamond_painting53",
-        "name": "nft_diamond_painting53 name",
-        "description": "nft_diamond_painting53 desc"
+        "name": "Rotes H auf weinrotem Hintergrund",
+        "description": "Rotes H auf weinrotem Hintergrund"
       },
       {
         "code": "nft_diamond_painting54",
-        "name": "nft_diamond_painting54 name",
-        "description": "nft_diamond_painting54 desc"
+        "name": "Die Bonnie Meerjungfrau",
+        "description": "Die Bonnie Meerjungfrau"
       },
       {
         "code": "nft_diamond_painting55",
-        "name": "nft_diamond_painting55 name",
-        "description": "nft_diamond_painting55 desc"
+        "name": "Ein verzweifelter Frank",
+        "description": "Ein verzweifelter Frank"
       },
       {
         "code": "nft_diamond_painting56",
-        "name": "nft_diamond_painting56 name",
-        "description": "nft_diamond_painting56 desc"
+        "name": "Habbo Engelchen",
+        "description": "Habbo Engelchen"
       },
       {
         "code": "nft_diamond_painting57",
-        "name": "nft_diamond_painting57 name",
-        "description": "nft_diamond_painting57 desc"
+        "name": "Selbstportrait eines Pixelkünstlers",
+        "description": "Selbstportrait eines Pixelkünstlers"
       },
       {
         "code": "nft_diamond_painting58",
-        "name": "nft_diamond_painting58 name",
-        "description": "nft_diamond_painting58 desc"
+        "name": "Hotelbesitzer geht die Treppe herunter",
+        "description": "Hotelbesitzer geht die Treppe herunter"
       },
       {
         "code": "nft_diamond_painting59",
-        "name": "nft_diamond_painting59 name",
-        "description": "nft_diamond_painting59 desc"
+        "name": "Greyfriars Alligator",
+        "description": "Greyfriars Alligator"
       },
       {
         "code": "nft_diamond_painting60",
-        "name": "nft_diamond_painting60 name",
-        "description": "nft_diamond_painting60 desc"
+        "name": "Hotelpagen-Voyageur",
+        "description": "Hotelpagen-Voyageur"
       },
       {
         "code": "nft_diamond_painting61",
-        "name": "nft_diamond_painting61 name",
-        "description": "nft_diamond_painting61 desc"
+        "name": "Pizzaliebhaber Selbstportrait",
+        "description": "Pizzaliebhaber Selbstportrait"
       },
       {
         "code": "nft_diamond_painting62",
-        "name": "nft_diamond_painting62 name",
-        "description": "nft_diamond_painting62 desc"
+        "name": "Ein Habbo Snack",
+        "description": "Ein Habbo Snack"
       },
       {
         "code": "nft_diamond_painting63",
-        "name": "nft_diamond_painting63 name",
-        "description": "nft_diamond_painting63 desc"
+        "name": "Ehrliches Frank-Foto",
+        "description": "Ehrliches Frank-Foto"
       },
       {
         "code": "nft_diamond_painting64",
         "name": "Willkommenslounge Familie",
-        "description": "nft_diamond_painting64 desc"
+        "description": "Willkommenslounge Familie"
       },
       {
         "code": "nft_diamond_painting65",
         "name": "Frank im Nebel",
-        "description": "nft_diamond_painting65 desc"
+        "description": "Frank im Nebel"
       },
       {
         "code": "nft_diamond_painting66",
         "name": "Rot sehen",
-        "description": "nft_diamond_painting66 desc"
+        "description": "Rot sehen"
       },
       {
         "code": "nft_diamond_painting67",
@@ -73014,7 +73124,7 @@
       {
         "code": "nft_diamond_painting68",
         "name": "Pixel-Heiliger",
-        "description": "nft_diamond_painting68 desc"
+        "description": "Pixel-Heiliger"
       },
       {
         "code": "nft_diamond_painting69",
@@ -73044,12 +73154,12 @@
       {
         "code": "nft_diamond_painting73",
         "name": "Präsidentenporträt",
-        "description": "nft_diamond_painting73 desc"
+        "description": "Präsidentenporträt"
       },
       {
         "code": "nft_diamond_painting74",
         "name": "Der Wahnsinn der Pixel",
-        "description": "nft_diamond_painting74 desc"
+        "description": "Der Wahnsinn der Pixel"
       },
       {
         "code": "nft_diamond_painting75",
@@ -73113,13 +73223,13 @@
       },
       {
         "code": "nft_eco_cactus1",
-        "name": "nft_eco_cactus1 name",
-        "description": "nft_eco_cactus1 desc"
+        "name": "$product_eco_cactus1_name$",
+        "description": "$product_eco_cactus1_name$"
       },
       {
         "code": "nft_eco_cactus2",
-        "name": "nft_eco_cactus2 name",
-        "description": "nft_eco_cactus2 desc"
+        "name": "$product_eco_cactus2_name$",
+        "description": "$product_eco_cactus2_name$"
       },
       {
         "code": "nft_eco_cactus3",
@@ -73128,78 +73238,78 @@
       },
       {
         "code": "nft_eco_chair1",
-        "name": "nft_eco_chair1 name",
-        "description": "nft_eco_chair1 desc"
+        "name": "$product_eco_chair1_name$",
+        "description": "$product_eco_chair1_name$"
       },
       {
         "code": "nft_eco_chair2",
-        "name": "nft_eco_chair2 name",
-        "description": "nft_eco_chair2 desc"
+        "name": "$product_eco_chair2_name$",
+        "description": "$product_eco_chair2_name$"
       },
       {
         "code": "nft_eco_chair3",
-        "name": "nft_eco_chair3 name",
-        "description": "nft_eco_chair3 desc"
+        "name": "$product_eco_chair3_name$",
+        "description": "$product_eco_chair3_name$"
       },
       {
         "code": "nft_eco_curtains1",
-        "name": "nft_eco_curtains1 name",
-        "description": "nft_eco_curtains1 desc"
+        "name": "Eco Vorhang",
+        "description": "Eco Vorhang"
       },
       {
         "code": "nft_eco_curtains2",
-        "name": "nft_eco_curtains2 name",
-        "description": "nft_eco_curtains2 desc"
+        "name": "Eco Vorhang",
+        "description": "Eco Vorhang"
       },
       {
         "code": "nft_eco_curtains3",
-        "name": "nft_eco_curtains3 name",
-        "description": "nft_eco_curtains3 desc"
+        "name": "$product_eco_curtains3_name$",
+        "description": "$product_eco_curtains3_name$"
       },
       {
         "code": "nft_eco_fruits1",
-        "name": "nft_eco_fruits1 name",
-        "description": "nft_eco_fruits1 desc"
+        "name": "$product_eco_fruits1_name$",
+        "description": "$product_eco_fruits1_name$"
       },
       {
         "code": "nft_eco_fruits2",
-        "name": "nft_eco_fruits2 name",
-        "description": "nft_eco_fruits2 desc"
+        "name": "$product_eco_fruits2_name$",
+        "description": "$product_eco_fruits2_name$"
       },
       {
         "code": "nft_eco_fruits3",
-        "name": "nft_eco_fruits3 name",
-        "description": "nft_eco_fruits3 desc"
+        "name": "$product_eco_fruits3_name$",
+        "description": "$product_eco_fruits3_name$"
       },
       {
         "code": "nft_eco_lamp1",
-        "name": "nft_eco_lamp1 name",
-        "description": "nft_eco_lamp1 desc"
+        "name": "Eco Lampe 1",
+        "description": "Eco Lampe 1"
       },
       {
         "code": "nft_eco_lamp2",
-        "name": "nft_eco_lamp2 name",
-        "description": "nft_eco_lamp2 desc"
+        "name": "Eco Lampe 2",
+        "description": "Eco Lampe 2"
       },
       {
         "code": "nft_eco_lamp3",
-        "name": "nft_eco_lamp3 name",
-        "description": "nft_eco_lamp3 desc"
+        "name": "Eco Lampe 3",
+        "description": "Eco Lampe 3"
       },
       {
         "code": "nft_eco_mush1",
-        "name": "nft_eco_mush1",
-        "description": ""
+        "name": "Magischer Pilz",
+        "description": "Magischer Pilz"
       },
       {
         "code": "nft_eco_mush2",
-        "name": "nft_eco_mush2",
-        "description": ""
+        "name": "Fliegenpilz",
+        "description": "Fliegenpilz"
       },
       {
         "code": "nft_eco_tree1",
-        "name": "nft_eco_tree1 name",
-        "description": "nft_eco_tree1 desc"
+        "name": "$product_eco_tree1_name$",
+        "description": "$product_eco_tree1_name$"
       },
       {
         "code": "nft_eco_tree2",
@@ -73648,8 +73758,8 @@
       },
       {
         "code": "nft_fireworks_13",
-        "name": "nft_fireworks_13 name",
-        "description": "nft_fireworks_13 desc"
+        "name": "Feuerdrachenlampe",
+        "description": "Feuerdrachenlampe"
       },
       {
         "code": "nft_garden15_lawnmower",
@@ -73680,6 +73790,16 @@
         "code": "nft_gothic15_toilet",
         "name": "Gotische Toilette",
         "description": "nft_gothic15_toilet desc"
+      },
+      {
+        "code": "nft_gothicfountain2",
+        "name": "$product_gothicfountain2_name$",
+        "description": "$product_gothicfountain2_name$"
+      },
+      {
+        "code": "nft_gothicfountain",
+        "name": "$product_gothicfountain_name$",
+        "description": "$product_gothicfountain_name$"
       },
       {
         "code": "nft_greek_r19_chariot",
@@ -76174,7 +76294,7 @@
       {
         "code": "nft_habbo15_fan",
         "name": "Kastanienbrauner Ventilator",
-        "description": "habbo15_fan desc"
+        "description": "Kastanienbrauner Ventilator"
       },
       {
         "code": "nft_habbo15_fountain_5",
@@ -76189,7 +76309,7 @@
       {
         "code": "nft_habbo15_icm",
         "name": "Kastanienbraune Eismaschine",
-        "description": "habbo15_icm desc"
+        "description": "Kastanienbraune Eismaschine"
       },
       {
         "code": "nft_habbo15_marquee",
@@ -76219,7 +76339,7 @@
       {
         "code": "nft_habbo15_scifiport",
         "name": "Kastanienbraune Laserschranke",
-        "description": "nft_habbo15_scifiport desc"
+        "description": "Kastanienbraune Laserschranke"
       },
       {
         "code": "nft_habbo15_scifirocket",
@@ -76247,6 +76367,41 @@
         "description": "nft_hblooza_hotdog desc"
       },
       {
+        "code": "nft_hc_btlr",
+        "name": "$product_hc_btlr_name$",
+        "description": "$product_hc_btlr_name$"
+      },
+      {
+        "code": "nft_hc_crtn",
+        "name": "$product_hc_crtn_name$",
+        "description": "$product_hc_crtn_name$"
+      },
+      {
+        "code": "nft_hc_djset",
+        "name": "$product_hc_djset_name$",
+        "description": "$product_hc_djset_name$"
+      },
+      {
+        "code": "nft_hc_frplc",
+        "name": "$product_hc_frplc_name$",
+        "description": "$product_hc_frplc_name$"
+      },
+      {
+        "code": "nft_hc_lmpst",
+        "name": "$product_hc_lmpst_name$",
+        "description": "$product_hc_lmpst_name$"
+      },
+      {
+        "code": "nft_hc_trll",
+        "name": "$product_hc_trll_name$",
+        "description": "$product_hc_trll_name$"
+      },
+      {
+        "code": "nft_hc_wall_lamp",
+        "name": "$product_hc_wall_lamp_name$",
+        "description": "$product_hc_wall_lamp_name$"
+      },
+      {
         "code": "nft_hologram1",
         "name": "NFT Bronze Holo Steampunk",
         "description": "nft_hologram1 desc"
@@ -76267,19 +76422,24 @@
         "description": "nft_hologram4 desc"
       },
       {
+        "code": "nft_hologram",
+        "name": "$product_hologram_name$",
+        "description": "$product_hologram_name$"
+      },
+      {
         "code": "nft_hween12_duck",
         "name": "Entenritt",
         "description": "nft_hween12_duck desc"
       },
       {
         "code": "nft_hween12_mirror",
-        "name": "nft_hween12_mirror name",
-        "description": "nft_hween12_mirror desc"
+        "name": "Zauberspiegel",
+        "description": "Zauberspiegel"
       },
       {
         "code": "nft_hween12_wolf",
-        "name": "nft_hween12_wolf name",
-        "description": "nft_hween12_wolf desc"
+        "name": "Wolf",
+        "description": "Wolf"
       },
       {
         "code": "nft_hween13_rose",
@@ -76295,6 +76455,11 @@
         "code": "nft_hween_r18_antiquechemset",
         "name": "Antikes Chemie-Set",
         "description": "nft_hween_r18_antiquechemset desc"
+      },
+      {
+        "code": "nft_industrialfan",
+        "name": "$product_industrialfan_name$",
+        "description": "$product_industrialfan_name$"
       },
       {
         "code": "nft_jungle_r16_basket",
@@ -76335,6 +76500,41 @@
         "code": "nft_ltd_testitem",
         "name": "nft_ltd_testitem name",
         "description": "nft_ltd_testitem desc"
+      },
+      {
+        "code": "nft_marquee_2",
+        "name": "$product_marquee_2_name$",
+        "description": "$product_marquee_2_name$"
+      },
+      {
+        "code": "nft_marquee_3",
+        "name": "$product_marquee_3_name$",
+        "description": "$product_marquee_3_name$"
+      },
+      {
+        "code": "nft_marquee_4",
+        "name": "$product_marquee_4_name$",
+        "description": "$product_marquee_4_name$"
+      },
+      {
+        "code": "nft_marquee_5",
+        "name": "$product_marquee_5_name$",
+        "description": "$product_marquee_5_name$"
+      },
+      {
+        "code": "nft_marquee_6",
+        "name": "$product_marquee_6_name$",
+        "description": "$product_marquee_6_name$"
+      },
+      {
+        "code": "nft_marquee_8",
+        "name": "$product_marquee_8_name$",
+        "description": "$product_marquee_8_name$"
+      },
+      {
+        "code": "nft_marquee_9",
+        "name": "$product_marquee_9_name$",
+        "description": "$product_marquee_9_name$"
       },
       {
         "code": "nft_matic_dispenser",
@@ -76422,6 +76622,51 @@
         "description": "nft_oneway_paygate_test desc"
       },
       {
+        "code": "nft_pillar_2",
+        "name": "$product_pillar_2_name$",
+        "description": "$product_pillar_2_name$"
+      },
+      {
+        "code": "nft_pillar_3",
+        "name": "$product_pillar_3_name$",
+        "description": "$product_pillar_3_name$"
+      },
+      {
+        "code": "nft_pillar_7",
+        "name": "$product_pillar_7_name$",
+        "description": "$product_pillar_7_name$"
+      },
+      {
+        "code": "nft_pillar_8",
+        "name": "$product_pillar_8_name$",
+        "description": "$product_pillar_8_name$"
+      },
+      {
+        "code": "nft_pillow_0",
+        "name": "$product_pillow_0_name$",
+        "description": "$product_pillow_0_name$"
+      },
+      {
+        "code": "nft_pillow_2",
+        "name": "$product_pillow_2_name$",
+        "description": "$product_pillow_2_name$"
+      },
+      {
+        "code": "nft_pillow_3",
+        "name": "$product_pillow_3_name$",
+        "description": "$product_pillow_3_name$"
+      },
+      {
+        "code": "nft_pillow_7",
+        "name": "$product_pillow_7_name$",
+        "description": "$product_pillow_7_name$"
+      },
+      {
+        "code": "nft_pillow_9",
+        "name": "$product_pillow_9_name$",
+        "description": "$product_pillow_9_name$"
+      },
+      {
         "code": "nft_qt_sum11_dragon",
         "name": "Sand Drachenlampe",
         "description": "nft_qt_sum11_dragon desc"
@@ -76433,8 +76678,8 @@
       },
       {
         "code": "nft_qt_val11_holoheart",
-        "name": "nft_qt_val11_holoheart name",
-        "description": "nft_qt_val11_holoheart desc"
+        "name": "Holoherz",
+        "description": "Holoherz"
       },
       {
         "code": "nft_qt_xm10_ice_fish",
@@ -76465,6 +76710,21 @@
         "code": "nft_qt_xm10_trex",
         "name": "Tyrannosaurus Glacius",
         "description": "nft_qt_xm10_trex desc"
+      },
+      {
+        "code": "nft_rare_beehive_bulb_2",
+        "name": "$product_rare_beehive_bulb_2_name$",
+        "description": "$product_rare_beehive_bulb_2_name$"
+      },
+      {
+        "code": "nft_rare_beehive_bulb_3",
+        "name": "$product_rare_beehive_bulb_3_name$",
+        "description": "$product_rare_beehive_bulb_3_name$"
+      },
+      {
+        "code": "nft_rare_beehive_bulb",
+        "name": "$product_rare_beehive_bulb_name$",
+        "description": "$product_rare_beehive_bulb_name$"
       },
       {
         "code": "nft_rare_blackrosegold_elephant_statue",
@@ -76503,13 +76763,13 @@
       },
       {
         "code": "nft_rare_blackrosegold_scifirocket",
-        "name": "nft_rare_blackrosegold_scifirocket name",
-        "description": "nft_rare_blackrosegold_scifirocket desc"
+        "name": "Roségoldene Rauchmaschine",
+        "description": "Roségoldene Rauchmaschine"
       },
       {
         "code": "nft_rare_blackrosegold_sleepingbag",
-        "name": "nft_rare_blackrosegold_sleepingbag name",
-        "description": "nft_rare_blackrosegold_sleepingbag desc"
+        "name": "Roségoldener Schlafsack",
+        "description": "Roségoldener Schlafsack"
       },
       {
         "code": "nft_rare_blackrosegold_wooden_screen",
@@ -76520,6 +76780,26 @@
         "code": "nft_rare_colourable_dragonlamp_1",
         "name": "$product_rare_colourable_dragonlamp*1_name$",
         "description": "nft_rare_colourable_dragonlamp_1 desc"
+      },
+      {
+        "code": "nft_rare_colourable_dragonlamp_2",
+        "name": "Smaragdgrüne Drachenlampe",
+        "description": "Smaragdgrüne Drachenlampe"
+      },
+      {
+        "code": "nft_rare_colourable_dragonlamp_3",
+        "name": "Blaugrüne Drachenlampe",
+        "description": "Blaugrüne Drachenlampe"
+      },
+      {
+        "code": "nft_rare_colourable_dragonlamp_4",
+        "name": "Braune Drachenlampe",
+        "description": "Braune Drachenlampe"
+      },
+      {
+        "code": "nft_rare_colourable_dragonlamp_5",
+        "name": "Entenblaue Drachenlampe!",
+        "description": "Entenblaue Drachenlampe!"
       },
       {
         "code": "nft_rare_colourable_elephant_statue_1",
@@ -76539,22 +76819,22 @@
       {
         "code": "nft_rare_colourable_fan_2",
         "name": "Smaragdgrüner Ventilator",
-        "description": "nft_rare_colourable_fan_2 desc"
+        "description": "Smaragdgrüner Ventilator"
       },
       {
         "code": "nft_rare_colourable_fan_3",
         "name": "Blaugrüner Ventilator",
-        "description": "nft_rare_colourable_fan_3 desc"
+        "description": "Blaugrüner Ventilator"
       },
       {
         "code": "nft_rare_colourable_fan_4",
         "name": "Schwarzer Ventilator",
-        "description": "nft_rare_colourable_fan_4 desc"
+        "description": "Schwarzer Ventilator"
       },
       {
         "code": "nft_rare_colourable_fountain_1",
         "name": "Azurblauer Brunnen",
-        "description": "nft_rare_colourable_fountain_1 desc"
+        "description": "Azurblauer Brunnen"
       },
       {
         "code": "nft_rare_colourable_fountain_2",
@@ -76574,22 +76854,22 @@
       {
         "code": "nft_rare_colourable_icecream_2",
         "name": "Smaragdgrüne Eismaschine",
-        "description": "nft_rare_colourable_icecream_2 desc"
+        "description": "Smaragdgrüne Eismaschine"
       },
       {
         "code": "nft_rare_colourable_icecream_3",
         "name": "Blaugrüne Eismaschine",
-        "description": "nft_rare_colourable_icecream_3 desc"
+        "description": "Blaugrüne Eismaschine"
       },
       {
         "code": "nft_rare_colourable_icecream_4",
         "name": "Schwarze Eismaschine",
-        "description": "nft_rare_colourable_icecream_4 desc"
+        "description": "Schwarze Eismaschine"
       },
       {
         "code": "nft_rare_colourable_icecream_5",
         "name": "Lavendelfarbene Eismaschine",
-        "description": "nft_rare_colourable_icecream_5 desc"
+        "description": "Lavendelfarbene Eismaschine"
       },
       {
         "code": "nft_rare_colourable_icecream_6",
@@ -76599,12 +76879,12 @@
       {
         "code": "nft_rare_colourable_marquee_1",
         "name": "Azurblaue Markise",
-        "description": "nft_rare_colourable_marquee_1 desc"
+        "description": "Azurblaue Markise"
       },
       {
         "code": "nft_rare_colourable_marquee_2",
         "name": "Smaragdgrüne Markise",
-        "description": "nft_rare_colourable_marquee_2 desc"
+        "description": "Smaragdgrüne Markise"
       },
       {
         "code": "nft_rare_colourable_marquee_3",
@@ -76689,7 +76969,7 @@
       {
         "code": "nft_rare_colourable_scifiport_1",
         "name": "Azurblaue Laserschranke",
-        "description": "nft_rare_colourable_scifiport_1 desc"
+        "description": "Azurblaue Laserschranke"
       },
       {
         "code": "nft_rare_colourable_scifiport_2",
@@ -76699,7 +76979,7 @@
       {
         "code": "nft_rare_colourable_scifiport_3",
         "name": "Blaugrüne Laserschranke",
-        "description": "nft_rare_colourable_scifiport_3 desc"
+        "description": "Blaugrüne Laserschranke"
       },
       {
         "code": "nft_rare_colourable_scifirocket_1",
@@ -76724,7 +77004,7 @@
       {
         "code": "nft_rare_colourable_sleepingbag_2",
         "name": "Smaragdgrüner Schlafsack",
-        "description": "nft_rare_colourable_sleepingbag_2 desc"
+        "description": "Smaragdgrüner Schlafsack"
       },
       {
         "code": "nft_rare_colourable_sleepingbag_3",
@@ -76744,7 +77024,102 @@
       {
         "code": "nft_rare_colourable_wooden_screen_3",
         "name": "Blaugrüner Paravent",
-        "description": "nft_rare_colourable_wooden_screen_3 desc"
+        "description": "Blaugrüner Paravent"
+      },
+      {
+        "code": "nft_rare_dragonlamp_9",
+        "name": "$product_rare_dragonlamp_9_name$",
+        "description": "$product_rare_dragonlamp_9_name$"
+      },
+      {
+        "code": "nft_rare_elephant_statue_1",
+        "name": "$product_rare_elephant_statue_1_name$",
+        "description": "$product_rare_elephant_statue_1_name$"
+      },
+      {
+        "code": "nft_rare_elephant_statue_2",
+        "name": "$product_rare_elephant_statue_2_name$",
+        "description": "$product_rare_elephant_statue_2_name$"
+      },
+      {
+        "code": "nft_rare_elephant_statue_3",
+        "name": "$product_rare_elephant_statue_3_name$",
+        "description": "$product_rare_elephant_statue_3_name$"
+      },
+      {
+        "code": "nft_rare_elephant_statue",
+        "name": "$product_rare_elephant_statue_name$",
+        "description": "$product_rare_elephant_statue_name$"
+      },
+      {
+        "code": "nft_rare_fan_0",
+        "name": "$product_rare_fan_0_name$",
+        "description": "$product_rare_fan_0_name$"
+      },
+      {
+        "code": "nft_rare_fan_1",
+        "name": "$product_rare_fan_1_name$",
+        "description": "$product_rare_fan_1_name$"
+      },
+      {
+        "code": "nft_rare_fan_2",
+        "name": "$product_rare_fan_2_name$",
+        "description": "$product_rare_fan_2_name$"
+      },
+      {
+        "code": "nft_rare_fan_4",
+        "name": "$product_rare_fan_4_name$",
+        "description": "$product_rare_fan_4_name$"
+      },
+      {
+        "code": "nft_rare_fan_5",
+        "name": "$product_rare_fan_5_name$",
+        "description": "$product_rare_fan_5_name$"
+      },
+      {
+        "code": "nft_rare_fan_7",
+        "name": "$product_rare_fan_7_name$",
+        "description": "$product_rare_fan_7_name$"
+      },
+      {
+        "code": "nft_rare_fountain_1",
+        "name": "$product_rare_fountain_1_name$",
+        "description": "$product_rare_fountain_1_name$"
+      },
+      {
+        "code": "nft_rare_fountain_3",
+        "name": "$product_rare_fountain_3_name$",
+        "description": "$product_rare_fountain_3_name$"
+      },
+      {
+        "code": "nft_rare_fountain_4",
+        "name": "$product_rare_fountain_4_name$",
+        "description": "$product_rare_fountain_4_name$"
+      },
+      {
+        "code": "nft_rare_fountain",
+        "name": "$product_rare_fountain_name$",
+        "description": "$product_rare_fountain_name$"
+      },
+      {
+        "code": "nft_rare_icecream_2",
+        "name": "$product_rare_icecream_2_name$",
+        "description": "$product_rare_icecream_2_name$"
+      },
+      {
+        "code": "nft_rare_icecream_3",
+        "name": "$product_rare_icecream_3_name$",
+        "description": "$product_rare_icecream_3_name$"
+      },
+      {
+        "code": "nft_rare_icecream_4",
+        "name": "$product_rare_icecream_4_name$",
+        "description": "$product_rare_icecream_4_name$"
+      },
+      {
+        "code": "nft_rare_icecream_8",
+        "name": "$product_rare_icecream_8_name$",
+        "description": "$product_rare_icecream_8_name$"
       },
       {
         "code": "nft_rare_mmmth",
@@ -76767,9 +77142,34 @@
         "description": "nft_rare_sage desc"
       },
       {
+        "code": "nft_rare_snowrug",
+        "name": "$product_rare_snowrug_name$",
+        "description": "$product_rare_snowrug_name$"
+      },
+      {
         "code": "nft_rare_vdoll",
         "name": "Voodoopuppe",
         "description": "nft_rare_vdoll desc"
+      },
+      {
+        "code": "nft_rare_xmas_screen",
+        "name": "$product_rare_xmas_screen_name$",
+        "description": "$product_rare_xmas_screen_name$"
+      },
+      {
+        "code": "nft_rclr_chair",
+        "name": "$product_rclr_chair_name$",
+        "description": "$product_rclr_chair_name$"
+      },
+      {
+        "code": "nft_rclr_garden",
+        "name": "$product_rclr_garden_name$",
+        "description": "$product_rclr_garden_name$"
+      },
+      {
+        "code": "nft_rclr_lamp",
+        "name": "$product_rclr_lamp_name$",
+        "description": "$product_rclr_lamp_name$"
       },
       {
         "code": "nft_rclr_sofa",
@@ -76902,9 +77302,79 @@
         "description": "nft_sc25_unicornfloat desc"
       },
       {
+        "code": "nft_scifidoor_1",
+        "name": "$product_scifidoor_1_name$",
+        "description": "$product_scifidoor_1_name$"
+      },
+      {
+        "code": "nft_scifidoor_2",
+        "name": "$product_scifidoor_2_name$",
+        "description": "$product_scifidoor_2_name$"
+      },
+      {
+        "code": "nft_scifidoor_3",
+        "name": "$product_scifidoor_3_name$",
+        "description": "$product_scifidoor_3_name$"
+      },
+      {
+        "code": "nft_scifidoor_5",
+        "name": "$product_scifidoor_5_name$",
+        "description": "$product_scifidoor_5_name$"
+      },
+      {
+        "code": "nft_scifiport_0",
+        "name": "$product_scifiport_0_name$",
+        "description": "$product_scifiport_0_name$"
+      },
+      {
+        "code": "nft_scifiport_1",
+        "name": "$product_scifiport_1_name$",
+        "description": "$product_scifiport_1_name$"
+      },
+      {
+        "code": "nft_scifiport_2",
+        "name": "$product_scifiport_2_name$",
+        "description": "$product_scifiport_2_name$"
+      },
+      {
+        "code": "nft_scifiport_4",
+        "name": "$product_scifiport_4_name$",
+        "description": "$product_scifiport_4_name$"
+      },
+      {
+        "code": "nft_scifiport_6",
+        "name": "$product_scifiport_6_name$",
+        "description": "$product_scifiport_6_name$"
+      },
+      {
+        "code": "nft_scifiport_7",
+        "name": "$product_scifiport_7_name$",
+        "description": "$product_scifiport_7_name$"
+      },
+      {
+        "code": "nft_scifirocket_1",
+        "name": "$product_scifirocket_1_name$",
+        "description": "$product_scifirocket_1_name$"
+      },
+      {
+        "code": "nft_scifirocket_2",
+        "name": "$product_scifirocket_2_name$",
+        "description": "$product_scifirocket_2_name$"
+      },
+      {
+        "code": "nft_scifirocket_5",
+        "name": "$product_scifirocket_5_name$",
+        "description": "$product_scifirocket_5_name$"
+      },
+      {
         "code": "nft_sf_pod",
         "name": "Kryobett",
         "description": ""
+      },
+      {
+        "code": "nft_sleepingbag_4",
+        "name": "$product_sleepingbag_4_name$",
+        "description": "$product_sleepingbag_4_name$"
       },
       {
         "code": "nft_st_wildwest_buffalo",
@@ -76938,8 +77408,8 @@
       },
       {
         "code": "nft_track12_ujack_sofa",
-        "name": "nft_track12_ujack_sofa name",
-        "description": "nft_track12_ujack_sofa desc"
+        "name": "Union Jack-Sofa",
+        "description": "Union Jack-Sofa"
       },
       {
         "code": "nft_u23_hweenduck1",
@@ -77043,23 +77513,23 @@
       },
       {
         "code": "nft_val16_float1",
-        "name": "nft_val16_float1 name",
-        "description": "nft_val16_float1 desc"
+        "name": "Glänzende Liebes-Auster",
+        "description": "Glänzende Liebes-Auster"
       },
       {
         "code": "nft_val16_float2",
-        "name": "nft_val16_float2 name",
-        "description": "nft_val16_float2 desc"
+        "name": "Blühender Vulkan",
+        "description": "Blühender Vulkan"
       },
       {
         "code": "nft_val16_float3",
-        "name": "nft_val16_float3 name",
-        "description": "nft_val16_float3 desc"
+        "name": "Strahlender Pfau",
+        "description": "Strahlender Pfau"
       },
       {
         "code": "nft_val16_float4",
-        "name": "nft_val16_float4 name",
-        "description": "nft_val16_float4 desc"
+        "name": "Blumen-Löwe",
+        "description": "Blumen-Löwe"
       },
       {
         "code": "nft_val_r19_bath",
@@ -77093,23 +77563,58 @@
       },
       {
         "code": "nft_winter15_freeze",
-        "name": "nft_winter15_freeze name",
-        "description": "nft_winter15_freeze desc"
+        "name": "Freeze Veteranstatue",
+        "description": "Freeze Veteranstatue"
       },
       {
         "code": "nft_winter15_icehockey",
-        "name": "nft_winter15_icehockey name",
-        "description": "nft_winter15_icehockey desc"
+        "name": "Eishockeystatue",
+        "description": "Eishockeystatue"
       },
       {
         "code": "nft_winter15_iceskater",
-        "name": "nft_winter15_iceskater name",
-        "description": "nft_winter15_iceskater desc"
+        "name": "Schlittschuhläuferstatue",
+        "description": "Schlittschuhläuferstatue"
       },
       {
         "code": "nft_winter15_snowboard",
-        "name": "nft_winter15_snowboard name",
-        "description": "nft_winter15_snowboard desc"
+        "name": "Snowboarderstatue",
+        "description": "Snowboarderstatue"
+      },
+      {
+        "code": "nft_wooden_screen_0",
+        "name": "$product_wooden_screen_0_name$",
+        "description": "$product_wooden_screen_0_name$"
+      },
+      {
+        "code": "nft_wooden_screen_10",
+        "name": "$product_wooden_screen_10_name$",
+        "description": "$product_wooden_screen_10_name$"
+      },
+      {
+        "code": "nft_wooden_screen_3",
+        "name": "$product_wooden_screen_3_name$",
+        "description": "$product_wooden_screen_3_name$"
+      },
+      {
+        "code": "nft_wooden_screen_4",
+        "name": "$product_wooden_screen_4_name$",
+        "description": "$product_wooden_screen_4_name$"
+      },
+      {
+        "code": "nft_wooden_screen_5",
+        "name": "$product_wooden_screen_5_name$",
+        "description": "$product_wooden_screen_5_name$"
+      },
+      {
+        "code": "nft_wooden_screen_6",
+        "name": "$product_wooden_screen_6_name$",
+        "description": "$product_wooden_screen_6_name$"
+      },
+      {
+        "code": "nft_wooden_screen_8",
+        "name": "$product_wooden_screen_8_name$",
+        "description": "$product_wooden_screen_8_name$"
       },
       {
         "code": "nft_xm09_cocoa",
@@ -77118,8 +77623,8 @@
       },
       {
         "code": "nft_xmas08_trph2",
-        "name": "nft_xmas08_trph2",
-        "description": "nft_xmas08_trph2"
+        "name": "Pinguinpokal",
+        "description": "Pinguinpokal"
       },
       {
         "code": "nft_xmas11_btlr",
@@ -77133,8 +77638,8 @@
       },
       {
         "code": "nft_xmas12_npole",
-        "name": "nft_xmas12_npole name",
-        "description": "nft_xmas12_npole desc"
+        "name": "Nordpol",
+        "description": "Nordpol"
       },
       {
         "code": "nft_xmas12_nutcracker",
@@ -86275,6 +86780,161 @@
         "code": "rare_venusstatue",
         "name": "Habbo Venus",
         "description": "Aphrodite der Habboinsel"
+      },
+      {
+        "code": "recycler_basketplant",
+        "name": "recycler_basketplant name",
+        "description": "recycler_basketplant desc"
+      },
+      {
+        "code": "recycler_baskettree",
+        "name": "recycler_baskettree name",
+        "description": "recycler_baskettree desc"
+      },
+      {
+        "code": "recycler_bedblue",
+        "name": "recycler_bedblue name",
+        "description": "recycler_bedblue desc"
+      },
+      {
+        "code": "recycler_bedpink",
+        "name": "recycler_bedpink name",
+        "description": "recycler_bedpink desc"
+      },
+      {
+        "code": "recycler_bottleherb",
+        "name": "recycler_bottleherb name",
+        "description": "recycler_bottleherb desc"
+      },
+      {
+        "code": "recycler_bottleplant",
+        "name": "recycler_bottleplant name",
+        "description": "recycler_bottleplant desc"
+      },
+      {
+        "code": "recycler_cdclockA",
+        "name": "recycler_cdclockA name",
+        "description": "recycler_cdclockA desc"
+      },
+      {
+        "code": "recycler_cdclockB",
+        "name": "recycler_cdclockB name",
+        "description": "recycler_cdclockB desc"
+      },
+      {
+        "code": "recycler_chairblue",
+        "name": "recycler_chairblue name",
+        "description": "recycler_chairblue desc"
+      },
+      {
+        "code": "recycler_chairpink",
+        "name": "recycler_chairpink name",
+        "description": "recycler_chairpink desc"
+      },
+      {
+        "code": "recycler_cratechairdark",
+        "name": "recycler_cratechairdark name",
+        "description": "recycler_cratechairdark desc"
+      },
+      {
+        "code": "recycler_cratechairlight",
+        "name": "recycler_cratechairlight name",
+        "description": "recycler_cratechairlight desc"
+      },
+      {
+        "code": "recycler_crateplantsdark",
+        "name": "recycler_crateplantsdark name",
+        "description": "recycler_crateplantsdark desc"
+      },
+      {
+        "code": "recycler_crateplantslight",
+        "name": "recycler_crateplantslight name",
+        "description": "recycler_crateplantslight desc"
+      },
+      {
+        "code": "recycler_crateplantsmoss",
+        "name": "recycler_crateplantsmoss name",
+        "description": "recycler_crateplantsmoss desc"
+      },
+      {
+        "code": "recycler_dragonlamp",
+        "name": "recycler_dragonlamp name",
+        "description": "recycler_dragonlamp desc"
+      },
+      {
+        "code": "recycler_kintsugiA",
+        "name": "recycler_kintsugiA name",
+        "description": "recycler_kintsugiA desc"
+      },
+      {
+        "code": "recycler_kintsugiB",
+        "name": "recycler_kintsugiB name",
+        "description": "recycler_kintsugiB desc"
+      },
+      {
+        "code": "recycler_mantelbooks",
+        "name": "recycler_mantelbooks name",
+        "description": "recycler_mantelbooks desc"
+      },
+      {
+        "code": "recycler_mantelclock",
+        "name": "recycler_mantelclock name",
+        "description": "recycler_mantelclock desc"
+      },
+      {
+        "code": "recycler_patchsofaorange",
+        "name": "recycler_patchsofaorange name",
+        "description": "recycler_patchsofaorange desc"
+      },
+      {
+        "code": "recycler_patchsofapink",
+        "name": "recycler_patchsofapink name",
+        "description": "recycler_patchsofapink desc"
+      },
+      {
+        "code": "recycler_resintableblue",
+        "name": "recycler_resintableblue name",
+        "description": "recycler_resintableblue desc"
+      },
+      {
+        "code": "recycler_resintableorange",
+        "name": "recycler_resintableorange name",
+        "description": "recycler_resintableorange desc"
+      },
+      {
+        "code": "recycler_rosedresser",
+        "name": "recycler_rosedresser name",
+        "description": "recycler_rosedresser desc"
+      },
+      {
+        "code": "recycler_rugblue",
+        "name": "recycler_rugblue name",
+        "description": "recycler_rugblue desc"
+      },
+      {
+        "code": "recycler_rugred",
+        "name": "recycler_rugred name",
+        "description": "recycler_rugred desc"
+      },
+      {
+        "code": "recycler_scrapbookA",
+        "name": "recycler_scrapbookA name",
+        "description": "recycler_scrapbookA desc"
+      },
+      {
+        "code": "recycler_scrapbookB",
+        "name": "recycler_scrapbookB name",
+        "description": "recycler_scrapbookB desc"
+      },
+      {
+        "code": "recycler_tabledark",
+        "name": "recycler_tabledark name",
+        "description": "recycler_tabledark desc"
+      },
+      {
+        "code": "recycler_tablelight",
+        "name": "recycler_tablelight name",
+        "description": "recycler_tablelight desc"
       },
       {
         "code": "red diner_bardesk_corner",
