@@ -14175,8 +14175,73 @@
     ""
   ],
   [
+    "augbattle1",
+    "Battle Ball Prize 1",
+    ""
+  ],
+  [
+    "augbattle2",
+    "Battle Ball Prize 2",
+    ""
+  ],
+  [
+    "augprize10",
+    "Bday Prize 10",
+    ""
+  ],
+  [
+    "augprize11",
+    "Crafting Quest Prize",
+    ""
+  ],
+  [
     "augprize12",
     "Collectible Set Quest Prize",
+    ""
+  ],
+  [
+    "augprize1",
+    "Bday Prize 1",
+    ""
+  ],
+  [
+    "augprize2",
+    "Bday Prize 2",
+    ""
+  ],
+  [
+    "augprize3",
+    "Bday Prize 3",
+    ""
+  ],
+  [
+    "augprize4",
+    "Bday Prize 4",
+    ""
+  ],
+  [
+    "augprize5",
+    "Bday Prize 5",
+    ""
+  ],
+  [
+    "augprize6",
+    "Bday Prize 6",
+    ""
+  ],
+  [
+    "augprize7",
+    "Bday Prize 7",
+    ""
+  ],
+  [
+    "augprize8",
+    "Bday Prize 8",
+    ""
+  ],
+  [
+    "augprize9",
+    "Bday Prize 9",
     ""
   ],
   [
@@ -27998,6 +28063,11 @@
     "bc_wood_6",
     "Basit Ahşap Blok",
     "Ahşaptan yapılmış. Çoğunlukla."
+  ],
+  [
+    "bdaypass25_bd",
+    "Birthday Pass",
+    ""
   ],
   [
     "beanstalk",
@@ -57647,7 +57717,7 @@
   [
     "diamond_painting31",
     "Habbo Kızı",
-    "diamond_painting31 desc"
+    "Habbo Kızı"
   ],
   [
     "diamond_painting32",
@@ -57667,17 +57737,17 @@
   [
     "diamond_painting35",
     "Kız ve H",
-    "diamond_painting35 desc"
+    "Kız ve H"
   ],
   [
     "diamond_painting36",
     "Bay Piksel Yüz",
-    "diamond_painting36 desc"
+    "Bay Piksel Yüz"
   ],
   [
     "diamond_painting37",
     "Yasaklı Etkinlik",
-    "diamond_painting37 desc"
+    "Yasaklı Etkinlik"
   ],
   [
     "diamond_painting38",
@@ -57697,12 +57767,12 @@
   [
     "diamond_painting40",
     "Bonnie",
-    "diamond_painting40 desc"
+    "Bonnie"
   ],
   [
     "diamond_painting41",
     "Ördekçe",
-    "diamond_painting41 desc"
+    "Ördekçe"
   ],
   [
     "diamond_painting42",
@@ -57767,7 +57837,7 @@
   [
     "diamond_painting53",
     "Bordo üzerinde Kırmızı H",
-    "diamond_painting53 desc"
+    "Bordo üzerinde Kırmızı H"
   ],
   [
     "diamond_painting54",
@@ -57777,22 +57847,22 @@
   [
     "diamond_painting55",
     "Umutsuz Bir Frank",
-    "diamond_painting55 desc"
+    "Umutsuz Bir Frank"
   ],
   [
     "diamond_painting56",
     "Habbo Meleği",
-    "diamond_painting56 desc"
+    "Habbo Meleği"
   ],
   [
     "diamond_painting57",
     "Bir Piksel Sanatçısının Kendi Portresi",
-    "diamond_painting57 desc"
+    "Bir Piksel Sanatçısının Kendi Portresi"
   ],
   [
     "diamond_painting58",
     "Otel Sahibi Merdivenlerden İniyor",
-    "diamond_painting58 desc"
+    "Otel Sahibi Merdivenlerden İniyor"
   ],
   [
     "diamond_painting59",
@@ -57812,7 +57882,7 @@
   [
     "diamond_painting61",
     "Pizzacıların Kendi Portresi",
-    "diamond_painting61 desc"
+    "Pizzacıların Kendi Portresi"
   ],
   [
     "diamond_painting62",
@@ -57822,22 +57892,22 @@
   [
     "diamond_painting63",
     "Candid Frank Fotoğraf",
-    "diamond_painting63 desc"
+    "Candid Frank Fotoğraf"
   ],
   [
     "diamond_painting64",
     "Karşılama Ailesi ",
-    "diamond_painting64 desc"
+    "Karşılama Ailesi"
   ],
   [
     "diamond_painting65",
     "Sisli Frank",
-    "diamond_painting65 desc"
+    "Sisli Frank"
   ],
   [
     "diamond_painting66",
     "Kırmızı Gözler",
-    "diamond_painting66 desc"
+    "Kırmızı Gözler"
   ],
   [
     "diamond_painting67",
@@ -57847,7 +57917,7 @@
   [
     "diamond_painting68",
     "Piksel Aziz",
-    "diamond_painting68 desc"
+    "Piksel Aziz"
   ],
   [
     "diamond_painting69",
@@ -57877,12 +57947,12 @@
   [
     "diamond_painting73",
     "Başkanlık Portresi ",
-    "diamond_painting73 desc"
+    "Başkanlık Portresi"
   ],
   [
     "diamond_painting74",
     "Piksellerin Çılgınlığı",
-    "diamond_painting74 desc"
+    "Piksellerin Çılgınlığı"
   ],
   [
     "diamond_painting75",
@@ -67041,7 +67111,7 @@
   ],
   [
     "habbo25_c25_bdayballoon",
-    "habbo25_c25_bdayballoon name",
+    "Bright 25 Balloons",
     "habbo25_c25_bdayballoon desc"
   ],
   [
@@ -81921,13 +81991,13 @@
   ],
   [
     "nft_a0_gothicfountain_2",
-    "$wallitem_gothicfountain2_name$",
-    "The dark side of Habbo"
+    "Gotik çeşme",
+    "Habbo'nun karanlık yüzü"
   ],
   [
     "nft_a0_gothicfountain",
-    "$wallitem_gothicfountain_name$",
-    "The dark side of Habbo"
+    "Gotik çeşme",
+    "Habbo'nun karanlık yüzü"
   ],
   [
     "nft_a0_habboween_grass",
@@ -82006,8 +82076,8 @@
   ],
   [
     "nft_a0_hc_wall_lamp",
-    "$wallitem_hc_wall_lamp_name$",
-    "Be enlightened"
+    "Eski Duvar Lambası",
+    "Çok şık!"
   ],
   [
     "nft_a0_hcamme",
@@ -82842,7 +82912,7 @@
   [
     "nft_army15_largescreen",
     "Global Uydu Ekranı",
-    "Global Uydu Ekranı"
+    "Oppss! Az önce kırmızı düğmeye mi bastın?"
   ],
   [
     "nft_army15_scanner",
@@ -83612,17 +83682,17 @@
   [
     "nft_eco_curtains1",
     "Eko Perde 1",
-    "Eko Perde 1"
+    "Isıyı içeride tut"
   ],
   [
     "nft_eco_curtains2",
     "Eko Perde 2",
-    "Eko Perde 2"
+    "Isıyı içeride tut"
   ],
   [
     "nft_eco_curtains3",
     "Eko Perde 3",
-    "Eko Perde 3"
+    "Isıyı içeride tut"
   ],
   [
     "nft_eco_fruits1",
@@ -84151,13 +84221,13 @@
   ],
   [
     "nft_gothicfountain2",
-    "$product_gothicfountain2_name$",
-    "$product_gothicfountain2_name$"
+    "Gotik çeşme",
+    "Habbo'nun karanlık yüzü"
   ],
   [
     "nft_gothicfountain",
-    "$product_gothicfountain_name$",
-    "$product_gothicfountain_name$"
+    "Gotik çeşme",
+    "Habbo'nun karanlık yüzü"
   ],
   [
     "nft_greek_r19_chariot",
@@ -86756,8 +86826,8 @@
   ],
   [
     "nft_hc_wall_lamp",
-    "$product_hc_wall_lamp_name$",
-    "$product_hc_wall_lamp_name$"
+    "Eski Duvar Lambası",
+    "Çok şık!"
   ],
   [
     "nft_hologram1",
@@ -86816,8 +86886,8 @@
   ],
   [
     "nft_industrialfan",
-    "$product_industrialfan_name$",
-    "$product_industrialfan_name$"
+    "Endüstriyel Türbin",
+    "Güçlü ve esnek"
   ],
   [
     "nft_jungle_r16_basket",

@@ -5551,17 +5551,17 @@
   ],
   [
     "a0 gothicfountain 2",
-    "Goth fontein",
+    "Gotische fontein",
     "Habbo's duistere kant"
   ],
   [
     "a0 gothicfountain_badge",
-    "Gotische bron",
+    "Gotische fontein",
     ""
   ],
   [
     "a0 gothicfountain",
-    "Gotische bron",
+    "Gotische fontein",
     "Waar komt het vandaan?"
   ],
   [
@@ -12400,8 +12400,73 @@
     ""
   ],
   [
+    "augbattle1",
+    "Battle Ball Prize 1",
+    ""
+  ],
+  [
+    "augbattle2",
+    "Battle Ball Prize 2",
+    ""
+  ],
+  [
+    "augprize10",
+    "Bday Prize 10",
+    ""
+  ],
+  [
+    "augprize11",
+    "Crafting Quest Prize",
+    ""
+  ],
+  [
     "augprize12",
     "Collectible Set Quest Prize",
+    ""
+  ],
+  [
+    "augprize1",
+    "Bday Prize 1",
+    ""
+  ],
+  [
+    "augprize2",
+    "Bday Prize 2",
+    ""
+  ],
+  [
+    "augprize3",
+    "Bday Prize 3",
+    ""
+  ],
+  [
+    "augprize4",
+    "Bday Prize 4",
+    ""
+  ],
+  [
+    "augprize5",
+    "Bday Prize 5",
+    ""
+  ],
+  [
+    "augprize6",
+    "Bday Prize 6",
+    ""
+  ],
+  [
+    "augprize7",
+    "Bday Prize 7",
+    ""
+  ],
+  [
+    "augprize8",
+    "Bday Prize 8",
+    ""
+  ],
+  [
+    "augprize9",
+    "Bday Prize 9",
     ""
   ],
   [
@@ -26158,6 +26223,11 @@
     "bc_wood_6",
     "Simpel houten blok",
     "Voornamelijk gemaakt van hout. "
+  ],
+  [
+    "bdaypass25_bd",
+    "Birthday Pass",
+    ""
   ],
   [
     "beanstalk",
@@ -57771,7 +57841,7 @@
   ],
   [
     "habbo25_c25_bdayballoon",
-    "habbo25_c25_bdayballoon name",
+    "Bright 25 Balloons",
     "habbo25_c25_bdayballoon desc"
   ],
   [
@@ -72271,13 +72341,13 @@
   ],
   [
     "nft_a0_gothicfountain_2",
-    "$wallitem_gothicfountain2_name$",
-    "The dark side of Habbo"
+    "Gotische fontein",
+    "Habbo's duistere kant"
   ],
   [
     "nft_a0_gothicfountain",
-    "$wallitem_gothicfountain_name$",
-    "The dark side of Habbo"
+    "Gotische fontein",
+    "Habbo's duistere kant"
   ],
   [
     "nft_a0_habboween_grass",
@@ -72356,8 +72426,8 @@
   ],
   [
     "nft_a0_hc_wall_lamp",
-    "$wallitem_hc_wall_lamp_name$",
-    "Be enlightened"
+    "Retro wandlamp",
+    "Art Deco in Habbostijl!"
   ],
   [
     "nft_a0_hcamme",
@@ -73192,7 +73262,7 @@
   [
     "nft_army15_largescreen",
     "Global Satelliet Scherm",
-    "Global Satelliet Scherm"
+    "Oh ooooh. Heb je nou net op de rode knop gedrukt!?"
   ],
   [
     "nft_army15_scanner",
@@ -73962,17 +74032,17 @@
   [
     "nft_eco_curtains1",
     "Ecotrongordijn",
-    "Ecotrongordijn"
+    "Klimaatneutraal verduisteren"
   ],
   [
     "nft_eco_curtains2",
     "Ecotrongordijn 2",
-    "Ecotrongordijn 2"
+    "Klimaatneutraal verduisteren"
   ],
   [
     "nft_eco_curtains3",
     "Ecotrongordijn 3",
-    "Ecotrongordijn 3"
+    "Klimaatneutraal verduisteren"
   ],
   [
     "nft_eco_fruits1",
@@ -74501,13 +74571,13 @@
   ],
   [
     "nft_gothicfountain2",
-    "$product_gothicfountain2_name$",
-    "$product_gothicfountain2_name$"
+    "Gotische fontein",
+    "Habbo's duistere kant"
   ],
   [
     "nft_gothicfountain",
-    "$product_gothicfountain_name$",
-    "$product_gothicfountain_name$"
+    "Gotische fontein",
+    "Habbo's duistere kant"
   ],
   [
     "nft_greek_r19_chariot",
@@ -77106,8 +77176,8 @@
   ],
   [
     "nft_hc_wall_lamp",
-    "$product_hc_wall_lamp_name$",
-    "$product_hc_wall_lamp_name$"
+    "Retro wandlamp",
+    "Art Deco in Habbostijl!"
   ],
   [
     "nft_hologram1",
@@ -77166,8 +77236,8 @@
   ],
   [
     "nft_industrialfan",
-    "$product_industrialfan_name$",
-    "$product_industrialfan_name$"
+    "Industriele Turbine",
+    "Frisse lucht!"
   ],
   [
     "nft_jungle_r16_basket",

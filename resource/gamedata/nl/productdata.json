@@ -5553,17 +5553,17 @@
       },
       {
         "code": "a0 gothicfountain 2",
-        "name": "Goth fontein",
+        "name": "Gotische fontein",
         "description": "Habbo's duistere kant"
       },
       {
         "code": "a0 gothicfountain_badge",
-        "name": "Gotische bron",
+        "name": "Gotische fontein",
         "description": ""
       },
       {
         "code": "a0 gothicfountain",
-        "name": "Gotische bron",
+        "name": "Gotische fontein",
         "description": "Waar komt het vandaan?"
       },
       {
@@ -12402,8 +12402,73 @@
         "description": ""
       },
       {
+        "code": "augbattle1",
+        "name": "Battle Ball Prize 1",
+        "description": ""
+      },
+      {
+        "code": "augbattle2",
+        "name": "Battle Ball Prize 2",
+        "description": ""
+      },
+      {
+        "code": "augprize10",
+        "name": "Bday Prize 10",
+        "description": ""
+      },
+      {
+        "code": "augprize11",
+        "name": "Crafting Quest Prize",
+        "description": ""
+      },
+      {
         "code": "augprize12",
         "name": "Collectible Set Quest Prize",
+        "description": ""
+      },
+      {
+        "code": "augprize1",
+        "name": "Bday Prize 1",
+        "description": ""
+      },
+      {
+        "code": "augprize2",
+        "name": "Bday Prize 2",
+        "description": ""
+      },
+      {
+        "code": "augprize3",
+        "name": "Bday Prize 3",
+        "description": ""
+      },
+      {
+        "code": "augprize4",
+        "name": "Bday Prize 4",
+        "description": ""
+      },
+      {
+        "code": "augprize5",
+        "name": "Bday Prize 5",
+        "description": ""
+      },
+      {
+        "code": "augprize6",
+        "name": "Bday Prize 6",
+        "description": ""
+      },
+      {
+        "code": "augprize7",
+        "name": "Bday Prize 7",
+        "description": ""
+      },
+      {
+        "code": "augprize8",
+        "name": "Bday Prize 8",
+        "description": ""
+      },
+      {
+        "code": "augprize9",
+        "name": "Bday Prize 9",
         "description": ""
       },
       {
@@ -26160,6 +26225,11 @@
         "code": "bc_wood_6",
         "name": "Simpel houten blok",
         "description": "Voornamelijk gemaakt van hout."
+      },
+      {
+        "code": "bdaypass25_bd",
+        "name": "Birthday Pass",
+        "description": ""
       },
       {
         "code": "beanstalk",
@@ -57773,7 +57843,7 @@
       },
       {
         "code": "habbo25_c25_bdayballoon",
-        "name": "habbo25_c25_bdayballoon name",
+        "name": "Bright 25 Balloons",
         "description": "habbo25_c25_bdayballoon desc"
       },
       {
@@ -72273,13 +72343,13 @@
       },
       {
         "code": "nft_a0_gothicfountain_2",
-        "name": "$wallitem_gothicfountain2_name$",
-        "description": "The dark side of Habbo"
+        "name": "Gotische fontein",
+        "description": "Habbo's duistere kant"
       },
       {
         "code": "nft_a0_gothicfountain",
-        "name": "$wallitem_gothicfountain_name$",
-        "description": "The dark side of Habbo"
+        "name": "Gotische fontein",
+        "description": "Habbo's duistere kant"
       },
       {
         "code": "nft_a0_habboween_grass",
@@ -72358,8 +72428,8 @@
       },
       {
         "code": "nft_a0_hc_wall_lamp",
-        "name": "$wallitem_hc_wall_lamp_name$",
-        "description": "Be enlightened"
+        "name": "Retro wandlamp",
+        "description": "Art Deco in Habbostijl!"
       },
       {
         "code": "nft_a0_hcamme",
@@ -73194,7 +73264,7 @@
       {
         "code": "nft_army15_largescreen",
         "name": "Global Satelliet Scherm",
-        "description": "Global Satelliet Scherm"
+        "description": "Oh ooooh. Heb je nou net op de rode knop gedrukt!?"
       },
       {
         "code": "nft_army15_scanner",
@@ -73964,17 +74034,17 @@
       {
         "code": "nft_eco_curtains1",
         "name": "Ecotrongordijn",
-        "description": "Ecotrongordijn"
+        "description": "Klimaatneutraal verduisteren"
       },
       {
         "code": "nft_eco_curtains2",
         "name": "Ecotrongordijn 2",
-        "description": "Ecotrongordijn 2"
+        "description": "Klimaatneutraal verduisteren"
       },
       {
         "code": "nft_eco_curtains3",
         "name": "Ecotrongordijn 3",
-        "description": "Ecotrongordijn 3"
+        "description": "Klimaatneutraal verduisteren"
       },
       {
         "code": "nft_eco_fruits1",
@@ -74503,13 +74573,13 @@
       },
       {
         "code": "nft_gothicfountain2",
-        "name": "$product_gothicfountain2_name$",
-        "description": "$product_gothicfountain2_name$"
+        "name": "Gotische fontein",
+        "description": "Habbo's duistere kant"
       },
       {
         "code": "nft_gothicfountain",
-        "name": "$product_gothicfountain_name$",
-        "description": "$product_gothicfountain_name$"
+        "name": "Gotische fontein",
+        "description": "Habbo's duistere kant"
       },
       {
         "code": "nft_greek_r19_chariot",
@@ -77108,8 +77178,8 @@
       },
       {
         "code": "nft_hc_wall_lamp",
-        "name": "$product_hc_wall_lamp_name$",
-        "description": "$product_hc_wall_lamp_name$"
+        "name": "Retro wandlamp",
+        "description": "Art Deco in Habbostijl!"
       },
       {
         "code": "nft_hologram1",
@@ -77168,8 +77238,8 @@
       },
       {
         "code": "nft_industrialfan",
-        "name": "$product_industrialfan_name$",
-        "description": "$product_industrialfan_name$"
+        "name": "Industriele Turbine",
+        "description": "Frisse lucht!"
       },
       {
         "code": "nft_jungle_r16_basket",

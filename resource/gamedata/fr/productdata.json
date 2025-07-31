@@ -12602,6 +12602,51 @@
         "description": ""
       },
       {
+        "code": "augprize1",
+        "name": "Bday Prize 1",
+        "description": ""
+      },
+      {
+        "code": "augprize2",
+        "name": "Bday Prize 2",
+        "description": ""
+      },
+      {
+        "code": "augprize3",
+        "name": "Bday Prize 3",
+        "description": ""
+      },
+      {
+        "code": "augprize4",
+        "name": "Bday Prize 4",
+        "description": ""
+      },
+      {
+        "code": "augprize5",
+        "name": "Bday Prize 5",
+        "description": ""
+      },
+      {
+        "code": "augprize6",
+        "name": "Bday Prize 6",
+        "description": ""
+      },
+      {
+        "code": "augprize7",
+        "name": "Bday Prize 7",
+        "description": ""
+      },
+      {
+        "code": "augprize8",
+        "name": "Bday Prize 8",
+        "description": ""
+      },
+      {
+        "code": "augprize9",
+        "name": "Bday Prize 9",
+        "description": ""
+      },
+      {
         "code": "august14_wagon_internal",
         "name": "Frontier Train Internal",
         "description": ""
@@ -26345,6 +26390,11 @@
         "code": "bc_wood_6",
         "name": "Simple bloc de bois",
         "description": "Fait de bois. La plupart du temps."
+      },
+      {
+        "code": "bdaypass25_bd",
+        "name": "Birthday Pass",
+        "description": ""
       },
       {
         "code": "beanstalk",
@@ -47104,7 +47154,7 @@
       {
         "code": "diamond_painting31",
         "name": "La Jeune Fille Habbo",
-        "description": "diamond_painting31 desc"
+        "description": "La Jeune Fille Habbo"
       },
       {
         "code": "diamond_painting32",
@@ -47124,17 +47174,17 @@
       {
         "code": "diamond_painting35",
         "name": "La Petite Fille au H",
-        "description": "diamond_painting35 desc"
+        "description": "La Petite Fille au H"
       },
       {
         "code": "diamond_painting36",
         "name": "Mr Visage de Pixels",
-        "description": "diamond_painting36 desc"
+        "description": "Mr Visage de Pixels"
       },
       {
         "code": "diamond_painting37",
         "name": "Banned Activity",
-        "description": "diamond_painting37 desc"
+        "description": "Banned Activity"
       },
       {
         "code": "diamond_painting38",
@@ -47154,12 +47204,12 @@
       {
         "code": "diamond_painting40",
         "name": "Bonnie",
-        "description": "diamond_painting40 desc"
+        "description": "Bonnie"
       },
       {
         "code": "diamond_painting41",
         "name": "Le Canardmar",
-        "description": "diamond_painting41 desc"
+        "description": "Le Canardmar"
       },
       {
         "code": "diamond_painting42",
@@ -47224,7 +47274,7 @@
       {
         "code": "diamond_painting53",
         "name": "H rouge sur fond marron",
-        "description": "diamond_painting53 desc"
+        "description": "H rouge sur fond marron"
       },
       {
         "code": "diamond_painting54",
@@ -47234,22 +47284,22 @@
       {
         "code": "diamond_painting55",
         "name": "Un Frank Désespéré",
-        "description": "diamond_painting55 desc"
+        "description": "Un Frank Désespéré"
       },
       {
         "code": "diamond_painting56",
         "name": "Chérubins Habbos",
-        "description": "diamond_painting56 desc"
+        "description": "Chérubins Habbos"
       },
       {
         "code": "diamond_painting57",
         "name": "Auto-portrait d'un pixel artiste",
-        "description": "diamond_painting57 desc"
+        "description": "Auto-portrait d'un pixel artiste"
       },
       {
         "code": "diamond_painting58",
         "name": "Maître d'Hôtel descendant les escaliers",
-        "description": "diamond_painting58 desc"
+        "description": "Maître d'Hôtel descendant les escaliers"
       },
       {
         "code": "diamond_painting59",
@@ -47269,7 +47319,7 @@
       {
         "code": "diamond_painting61",
         "name": "Auto-portrait d'amateur de pizzas",
-        "description": "diamond_painting61 desc"
+        "description": "Auto-portrait d'amateur de pizzas"
       },
       {
         "code": "diamond_painting62",
@@ -47279,22 +47329,22 @@
       {
         "code": "diamond_painting63",
         "name": "Photo improvisée de Frank",
-        "description": "diamond_painting63 desc"
+        "description": "Photo improvisée de Frank"
       },
       {
         "code": "diamond_painting64",
         "name": "Famille de la Réception",
-        "description": "diamond_painting64 desc"
+        "description": "Famille de la Réception"
       },
       {
         "code": "diamond_painting65",
         "name": "Frank dans le brouillard",
-        "description": "diamond_painting65 desc"
+        "description": "Frank dans le brouillard"
       },
       {
         "code": "diamond_painting66",
         "name": "Voir en rouge",
-        "description": "diamond_painting66 desc"
+        "description": "Voir en rouge"
       },
       {
         "code": "diamond_painting67",
@@ -47304,7 +47354,7 @@
       {
         "code": "diamond_painting68",
         "name": "Saint Pixel",
-        "description": "diamond_painting68 desc"
+        "description": "Saint Pixel"
       },
       {
         "code": "diamond_painting69",
@@ -47334,12 +47384,12 @@
       {
         "code": "diamond_painting73",
         "name": "Portrait présidentiel",
-        "description": "diamond_painting73 desc"
+        "description": "Portrait présidentiel"
       },
       {
         "code": "diamond_painting74",
         "name": "Pixels en folie",
-        "description": "diamond_painting74 desc"
+        "description": "Pixels en folie"
       },
       {
         "code": "diamond_painting75",
@@ -51338,17 +51388,17 @@
       },
       {
         "code": "eco_curtains1",
-        "name": "Rideau Eco 1",
+        "name": "Rideau écologique 1",
         "description": "Pour un peu d'intimité"
       },
       {
         "code": "eco_curtains2",
-        "name": "Rideau Eco 2",
+        "name": "Rideau écologique 2",
         "description": "Pour un peu d'intimité"
       },
       {
         "code": "eco_curtains3",
-        "name": "Rideau Eco 3",
+        "name": "Rideau écologique 3",
         "description": "Pour un peu d'intimité"
       },
       {
@@ -56238,7 +56288,7 @@
       },
       {
         "code": "habbo25_c25_bdayballoon",
-        "name": "habbo25_c25_bdayballoon name",
+        "name": "Bright 25 Balloons",
         "description": "habbo25_c25_bdayballoon desc"
       },
       {
@@ -70633,13 +70683,13 @@
       },
       {
         "code": "nft_a0_gothicfountain_2",
-        "name": "$wallitem_gothicfountain2_name$",
-        "description": "The dark side of Habbo"
+        "name": "Fontaine Gothique",
+        "description": "Le côté obscur d'Habbo"
       },
       {
         "code": "nft_a0_gothicfountain",
-        "name": "$wallitem_gothicfountain_name$",
-        "description": "The dark side of Habbo"
+        "name": "Fontaine Gothique",
+        "description": "Le côté obscur d'Habbo"
       },
       {
         "code": "nft_a0_habboween_grass",
@@ -70718,8 +70768,8 @@
       },
       {
         "code": "nft_a0_hc_wall_lamp",
-        "name": "$wallitem_hc_wall_lamp_name$",
-        "description": "Be enlightened"
+        "name": "Lampe murale",
+        "description": "Tres chic!"
       },
       {
         "code": "nft_a0_hcamme",
@@ -71554,7 +71604,7 @@
       {
         "code": "nft_army15_largescreen",
         "name": "Écran satellite",
-        "description": "Écran satellite"
+        "description": "Eh, oh. Tu as appuyé sur le bouton rouge !?"
       },
       {
         "code": "nft_army15_scanner",
@@ -72323,18 +72373,18 @@
       },
       {
         "code": "nft_eco_curtains1",
-        "name": "Rideau Eco 1",
-        "description": "Rideau Eco 1"
+        "name": "Rideau écologique 1",
+        "description": "Pour un peu d'intimité"
       },
       {
         "code": "nft_eco_curtains2",
-        "name": "Rideau Eco 2",
-        "description": "Rideau Eco 2"
+        "name": "Rideau écologique 2",
+        "description": "Pour un peu d'intimité"
       },
       {
         "code": "nft_eco_curtains3",
-        "name": "Rideau Eco 3",
-        "description": "Rideau Eco 3"
+        "name": "Rideau écologique 3",
+        "description": "Pour un peu d'intimité"
       },
       {
         "code": "nft_eco_fruits1",
@@ -72863,13 +72913,13 @@
       },
       {
         "code": "nft_gothicfountain2",
-        "name": "$product_gothicfountain2_name$",
-        "description": "$product_gothicfountain2_name$"
+        "name": "Fontaine Gothique",
+        "description": "Le côté obscur d'Habbo"
       },
       {
         "code": "nft_gothicfountain",
-        "name": "$product_gothicfountain_name$",
-        "description": "$product_gothicfountain_name$"
+        "name": "Fontaine Gothique",
+        "description": "Le côté obscur d'Habbo"
       },
       {
         "code": "nft_greek_r19_chariot",
@@ -75468,8 +75518,8 @@
       },
       {
         "code": "nft_hc_wall_lamp",
-        "name": "$product_hc_wall_lamp_name$",
-        "description": "$product_hc_wall_lamp_name$"
+        "name": "Lampe murale",
+        "description": "Tres chic!"
       },
       {
         "code": "nft_hologram1",
@@ -75528,8 +75578,8 @@
       },
       {
         "code": "nft_industrialfan",
-        "name": "$product_industrialfan_name$",
-        "description": "$product_industrialfan_name$"
+        "name": "Turbine",
+        "description": "Puissante et performante"
       },
       {
         "code": "nft_jungle_r16_basket",
