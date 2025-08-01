@@ -14772,6 +14772,11 @@
         "description": "Práctico y cómodo"
       },
       {
+        "code": "barrier_4",
+        "name": "Barrera de Carretera Verde Militar",
+        "description": ""
+      },
+      {
         "code": "bathfloor",
         "name": "Pinturas",
         "description": "Sécate los pies con glamour"
@@ -31932,6 +31937,11 @@
         "description": ""
       },
       {
+        "code": "cl_r25_balloon_bd",
+        "name": "Globo Estrella 25 Habbo Aniversario",
+        "description": ""
+      },
+      {
         "code": "cl_r25_curlyponytail_bd",
         "name": "Coleta Años 50",
         "description": ""
@@ -31949,6 +31959,11 @@
       {
         "code": "cl_r25_heartqueendress_bd",
         "name": "Vestido Reina de Corazones",
+        "description": ""
+      },
+      {
+        "code": "cl_r25_iridescent_bd",
+        "name": "Bolso Estrella Iridiscente",
         "description": ""
       },
       {
@@ -33118,7 +33133,7 @@
       },
       {
         "code": "clothing_armfloats",
-        "name": "clothing_armfloats name",
+        "name": "Manguitos",
         "description": "clothing_armfloats desc"
       },
       {
@@ -33283,7 +33298,7 @@
       },
       {
         "code": "clothing_bedazzledhat",
-        "name": "clothing_bedazzledhat name",
+        "name": "Sombrero Vaquero H",
         "description": "clothing_bedazzledhat desc"
       },
       {
@@ -33503,7 +33518,7 @@
       },
       {
         "code": "clothing_braidedpigtails",
-        "name": "clothing_braidedpigtails name",
+        "name": "Coletas Trenzadas",
         "description": "clothing_braidedpigtails desc"
       },
       {
@@ -33883,7 +33898,7 @@
       },
       {
         "code": "clothing_catfloat",
-        "name": "clothing_catfloat name",
+        "name": "Flotador Gato Alquitrán (no mancha)",
         "description": "clothing_catfloat desc"
       },
       {
@@ -34558,7 +34573,7 @@
       },
       {
         "code": "clothing_discohead",
-        "name": "clothing_discohead name",
+        "name": "¡Piensa en Disco-Teca!",
         "description": "clothing_discohead desc"
       },
       {
@@ -34665,6 +34680,11 @@
         "code": "clothing_drsportsshirt",
         "name": "Camiseta Deportes DR",
         "description": "clothing_drsportsshirt desc"
+      },
+      {
+        "code": "clothing_ducketduckafro",
+        "name": "Pato Afro",
+        "description": ""
       },
       {
         "code": "clothing_duckethat",
@@ -35053,7 +35073,7 @@
       },
       {
         "code": "clothing_frillycroppedbikini",
-        "name": "clothing_frillycroppedbikini name",
+        "name": "Bikini con Volantes",
         "description": "clothing_frillycroppedbikini desc"
       },
       {
@@ -35987,6 +36007,21 @@
         "description": ""
       },
       {
+        "code": "clothing_loyaltycrown_15",
+        "name": "Corona 15 Años",
+        "description": ""
+      },
+      {
+        "code": "clothing_loyaltycrown_20",
+        "name": "Corona 20 Años",
+        "description": ""
+      },
+      {
+        "code": "clothing_loyaltycrown_25",
+        "name": "Corona 25 Años",
+        "description": ""
+      },
+      {
         "code": "clothing_loyaltycrown_II",
         "name": "Corona 2 Años",
         "description": "clothing_loyaltycrown_II desc"
@@ -36133,7 +36168,7 @@
       },
       {
         "code": "clothing_manbun2",
-        "name": "clothing_manbun2 name",
+        "name": "Moño Casual con Estilo",
         "description": "clothing_manbun2 desc"
       },
       {
@@ -36513,17 +36548,27 @@
       },
       {
         "code": "clothing_nft25balloonblue",
-        "name": "clothing_nft25balloonblue name",
+        "name": "Globo Azul Habbo 25 Años",
         "description": "clothing_nft25balloonblue desc"
       },
       {
         "code": "clothing_nft25balloonred",
-        "name": "clothing_nft25balloonred name",
+        "name": "Globo Rojo Habbo 25 Años",
         "description": "clothing_nft25balloonred desc"
       },
       {
+        "code": "clothing_nft25earrings1",
+        "name": "Pendientes Habbo 25 Azules",
+        "description": ""
+      },
+      {
+        "code": "clothing_nft25earrings2",
+        "name": "Pendientes Habbo 25 Rosas",
+        "description": ""
+      },
+      {
         "code": "clothing_nft25earrings3",
-        "name": "clothing_nft25earrings3 name",
+        "name": "Pendientes Habbo 25 Dorados",
         "description": "clothing_nft25earrings3 desc"
       },
       {
@@ -36938,7 +36983,7 @@
       },
       {
         "code": "clothing_nftcola",
-        "name": "clothing_nftcola name",
+        "name": "Mochila Habbo Cola",
         "description": "clothing_nftcola desc"
       },
       {
@@ -37188,7 +37233,7 @@
       },
       {
         "code": "clothing_nftfrogfloat",
-        "name": "clothing_nftfrogfloat name",
+        "name": "Flotador Rana Feliz",
         "description": "clothing_nftfrogfloat desc"
       },
       {
@@ -37283,12 +37328,22 @@
       },
       {
         "code": "clothing_nfthabbo25crown",
-        "name": "clothing_nfthabbo25crown name",
+        "name": "Corona Habbo 25 Años",
         "description": "clothing_nfthabbo25crown desc"
       },
       {
+        "code": "clothing_nfthabbo25necklace1",
+        "name": "Collar Habbo 25 Azul",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthabbo25necklace2",
+        "name": "Collar Habbo 25 Rosa",
+        "description": ""
+      },
+      {
         "code": "clothing_nfthabbo25necklace3",
-        "name": "clothing_nfthabbo25necklace3 name",
+        "name": "Collar Habbo 25 Dorado",
         "description": "clothing_nfthabbo25necklace3 desc"
       },
       {
@@ -37853,27 +37908,27 @@
       },
       {
         "code": "clothing_nftseahorsefloat",
-        "name": "clothing_nftseahorsefloat name",
+        "name": "Flotador Caballito de Mar",
         "description": "clothing_nftseahorsefloat desc"
       },
       {
         "code": "clothing_nftseashellp1",
-        "name": "clothing_nftseashellp1 name",
+        "name": "Collar Caracola Naranja",
         "description": "clothing_nftseashellp1 desc"
       },
       {
         "code": "clothing_nftseashellp2",
-        "name": "clothing_nftseashellp2 name",
+        "name": "Collar Caracola Verde",
         "description": "clothing_nftseashellp2 desc"
       },
       {
         "code": "clothing_nftseashellp3",
-        "name": "clothing_nftseashellp3 name",
+        "name": "Collar Caracola Morada",
         "description": "clothing_nftseashellp3 desc"
       },
       {
         "code": "clothing_nftseashellp4",
-        "name": "clothing_nftseashellp4 name",
+        "name": "Collar Caracola Azul",
         "description": "clothing_nftseashellp4 desc"
       },
       {
@@ -38823,7 +38878,7 @@
       },
       {
         "code": "clothing_ombreswimtrunks",
-        "name": "clothing_ombreswimtrunks name",
+        "name": "Bañador Degradado",
         "description": "clothing_ombreswimtrunks desc"
       },
       {
@@ -39123,7 +39178,7 @@
       },
       {
         "code": "clothing_poolpartyshades",
-        "name": "clothing_poolpartyshades name",
+        "name": "Gafas de Sol Fiesta en la Piscina",
         "description": "clothing_poolpartyshades desc"
       },
       {
@@ -41508,7 +41563,7 @@
       },
       {
         "code": "clothing_r25_balloon",
-        "name": "clothing_r25_balloon name",
+        "name": "Globo Estrella 25 Habbo Aniversario",
         "description": "clothing_r25_balloon desc"
       },
       {
@@ -41568,7 +41623,7 @@
       },
       {
         "code": "clothing_r25_iridescentstarbag",
-        "name": "clothing_r25_iridescentstarbag name",
+        "name": "Bolso Estrella Iridiscente",
         "description": "clothing_r25_iridescentstarbag desc"
       },
       {
@@ -42168,7 +42223,7 @@
       },
       {
         "code": "clothing_sparklerheadband",
-        "name": "clothing_sparklerheadband name",
+        "name": "Diadema con Bengalas",
         "description": "clothing_sparklerheadband desc"
       },
       {
@@ -49717,6 +49772,11 @@
         "description": "ducket_c25_duck desc"
       },
       {
+        "code": "ducket_c25_duckcake",
+        "name": "Pato Cupcake de Cumpleaños",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_ducklamp",
         "name": "Lámpara Patito",
         "description": "ducket_c25_ducklamp desc"
@@ -49735,6 +49795,11 @@
         "code": "ducket_c25_flowerstool",
         "name": "Taburete Floral Patito",
         "description": "ducket_c25_flowerstool desc"
+      },
+      {
+        "code": "ducket_c25_lilcrocexplorer",
+        "name": "Pequeño Coco Explorador",
+        "description": ""
       },
       {
         "code": "ducket_c25_plantpot",
@@ -57132,6 +57197,26 @@
         "description": "h25_monkeybzn_pole desc"
       },
       {
+        "code": "hab25_ltd25_ducky_bd",
+        "name": "Máquina Expendedora de Patitos",
+        "description": ""
+      },
+      {
+        "code": "hab25_r25_bdaycake_bd",
+        "name": "Tarta 25 Habbo Cumpleaños",
+        "description": ""
+      },
+      {
+        "code": "hab25_r25_blackthrone_bd",
+        "name": "Trono Negro",
+        "description": ""
+      },
+      {
+        "code": "hab25_r25_turntable_bd",
+        "name": "Tocadiscos Moderno",
+        "description": ""
+      },
+      {
         "code": "habbo15_beehive",
         "name": "Luciérnaga Granate",
         "description": "¡Sólo con esto podrás ver el futuro!"
@@ -57598,12 +57683,12 @@
       },
       {
         "code": "habbo25_c25_balloons",
-        "name": "habbo25_c25_balloons name",
+        "name": "Habbo Globos",
         "description": "habbo25_c25_balloons desc"
       },
       {
         "code": "habbo25_c25_bdayballoon2",
-        "name": "habbo25_c25_bdayballoon2 name",
+        "name": "Globos Plateados 25 Años",
         "description": "habbo25_c25_bdayballoon2 desc"
       },
       {
@@ -57613,7 +57698,7 @@
       },
       {
         "code": "habbo25_c25_bdayballoon",
-        "name": "Bright 25 Balloons",
+        "name": "Globos Brillantes 25 Años",
         "description": "habbo25_c25_bdayballoon desc"
       },
       {
@@ -57623,237 +57708,237 @@
       },
       {
         "code": "habbo25_c25_bedfloat1",
-        "name": "habbo25_c25_bedfloat1 name",
+        "name": "Cama Hinchable de Cuadros Azul",
         "description": "habbo25_c25_bedfloat1 desc"
       },
       {
         "code": "habbo25_c25_bedfloat2",
-        "name": "habbo25_c25_bedfloat2 name",
+        "name": "Cama Hinchable Lima y Limón",
         "description": "habbo25_c25_bedfloat2 desc"
       },
       {
         "code": "habbo25_c25_bedfloat3",
-        "name": "habbo25_c25_bedfloat3 name",
+        "name": "Cama Hinchable de Rayas Rosas",
         "description": "habbo25_c25_bedfloat3 desc"
       },
       {
         "code": "habbo25_c25_chairfloat1",
-        "name": "habbo25_c25_chairfloat1 name",
+        "name": "Silla Hinchable Lima y Limón",
         "description": "habbo25_c25_chairfloat1 desc"
       },
       {
         "code": "habbo25_c25_chairfloat2",
-        "name": "habbo25_c25_chairfloat2 name",
+        "name": "Silla Hinchable Sol de Verano",
         "description": "habbo25_c25_chairfloat2 desc"
       },
       {
         "code": "habbo25_c25_chairfloat3",
-        "name": "habbo25_c25_chairfloat3 name",
+        "name": "Silla Hinchable Atardecer Rosado",
         "description": "habbo25_c25_chairfloat3 desc"
       },
       {
         "code": "habbo25_c25_confetti2",
-        "name": "habbo25_c25_confetti2 name",
+        "name": "Confeti Brillante 25 Años",
         "description": "habbo25_c25_confetti2 desc"
       },
       {
         "code": "habbo25_c25_confetti",
-        "name": "habbo25_c25_confetti name",
+        "name": "Confeti Metálico 25 Años",
         "description": "habbo25_c25_confetti desc"
       },
       {
         "code": "habbo25_c25_drinksfloat1",
-        "name": "habbo25_c25_drinksfloat1 name",
+        "name": "Flotador Sandía para Bebidas",
         "description": "habbo25_c25_drinksfloat1 desc"
       },
       {
         "code": "habbo25_c25_drinksfloat2",
-        "name": "habbo25_c25_drinksfloat2 name",
+        "name": "Flotador Súper Neón para Bebidas",
         "description": "habbo25_c25_drinksfloat2 desc"
       },
       {
         "code": "habbo25_c25_drinksfloat3",
-        "name": "habbo25_c25_drinksfloat3 name",
+        "name": "Flotador Súper Morado para Bebidas",
         "description": "habbo25_c25_drinksfloat3 desc"
       },
       {
         "code": "habbo25_c25_duckfloat1",
-        "name": "habbo25_c25_duckfloat1 name",
+        "name": "Hinchable Pato",
         "description": "habbo25_c25_duckfloat1 desc"
       },
       {
         "code": "habbo25_c25_duckfloat2",
-        "name": "habbo25_c25_duckfloat2 name",
+        "name": "Flotador Pato de Vacaciones",
         "description": "habbo25_c25_duckfloat2 desc"
       },
       {
         "code": "habbo25_c25_gator1",
-        "name": "habbo25_c25_gator1 name",
+        "name": "Cocodrilo Hinchable Corazón",
         "description": "habbo25_c25_gator1 desc"
       },
       {
         "code": "habbo25_c25_gator2",
-        "name": "habbo25_c25_gator2 name",
+        "name": "Cocodrilo Hinchable Arcoíris",
         "description": "habbo25_c25_gator2 desc"
       },
       {
         "code": "habbo25_c25_icebowl",
-        "name": "habbo25_c25_icebowl name",
+        "name": "Recipiente de Hielo",
         "description": "habbo25_c25_icebowl desc"
       },
       {
         "code": "habbo25_c25_jetski1",
-        "name": "habbo25_c25_jetski1 name",
+        "name": "Moto Acuática de Bloques de Color",
         "description": "habbo25_c25_jetski1 desc"
       },
       {
         "code": "habbo25_c25_jetski2",
-        "name": "habbo25_c25_jetski2 name",
+        "name": "Moto Acuática Antisalpicaduras",
         "description": "habbo25_c25_jetski2 desc"
       },
       {
         "code": "habbo25_c25_lifeguardchair1",
-        "name": "habbo25_c25_lifeguardchair1 name",
+        "name": "Silla de Socorrista Natural",
         "description": "habbo25_c25_lifeguardchair1 desc"
       },
       {
         "code": "habbo25_c25_lifeguardchair2",
-        "name": "habbo25_c25_lifeguardchair2 name",
+        "name": "Silla de Socorrista Amarilla",
         "description": "habbo25_c25_lifeguardchair2 desc"
       },
       {
         "code": "habbo25_c25_lifering",
-        "name": "habbo25_c25_lifering name",
+        "name": "Salvavidas Neón",
         "description": "habbo25_c25_lifering desc"
       },
       {
         "code": "habbo25_c25_mocktailglass",
-        "name": "habbo25_c25_mocktailglass name",
+        "name": "Vaso para Cócteles sin Alcohol",
         "description": "habbo25_c25_mocktailglass desc"
       },
       {
         "code": "habbo25_c25_paddleboat1",
-        "name": "habbo25_c25_paddleboat1 name",
+        "name": "Bote Hinchable Lima Fresca",
         "description": "habbo25_c25_paddleboat1 desc"
       },
       {
         "code": "habbo25_c25_paddleboat2",
-        "name": "habbo25_c25_paddleboat2 name",
+        "name": "Bote Hinchable Rosa Intenso",
         "description": "habbo25_c25_paddleboat2 desc"
       },
       {
         "code": "habbo25_c25_paddleboat3",
-        "name": "habbo25_c25_paddleboat3 name",
+        "name": "Bote Hinchable Naranja Intenso",
         "description": "habbo25_c25_paddleboat3 desc"
       },
       {
         "code": "habbo25_c25_palmdecor1",
-        "name": "habbo25_c25_palmdecor1 name",
+        "name": "Palmera Decorativa",
         "description": "habbo25_c25_palmdecor1 desc"
       },
       {
         "code": "habbo25_c25_palmdecor2",
-        "name": "habbo25_c25_palmdecor2 name",
+        "name": "Palmera Decorativa Neón",
         "description": "habbo25_c25_palmdecor2 desc"
       },
       {
         "code": "habbo25_c25_pearlchairfloat1",
-        "name": "habbo25_c25_pearlchairfloat1 name",
+        "name": "Flotador Perla Rosa",
         "description": "habbo25_c25_pearlchairfloat1 desc"
       },
       {
         "code": "habbo25_c25_pearlchairfloat2",
-        "name": "habbo25_c25_pearlchairfloat2 name",
+        "name": "Flotador Perla Iridiscente",
         "description": "habbo25_c25_pearlchairfloat2 desc"
       },
       {
         "code": "habbo25_c25_photoframe1",
-        "name": "habbo25_c25_photoframe1 name",
+        "name": "Portarretratos",
         "description": "habbo25_c25_photoframe1 desc"
       },
       {
         "code": "habbo25_c25_photoframe2",
-        "name": "habbo25_c25_photoframe2 name",
+        "name": "Marco Brillante",
         "description": "habbo25_c25_photoframe2 desc"
       },
       {
         "code": "habbo25_c25_poolfrank",
-        "name": "habbo25_c25_poolfrank name",
+        "name": "Mesa de Crafteo Frank de Vacaciones",
         "description": "habbo25_c25_poolfrank desc"
       },
       {
         "code": "habbo25_c25_ringfloat1",
-        "name": "habbo25_c25_ringfloat1 name",
+        "name": "Flotador Redondo de Estrellas",
         "description": "habbo25_c25_ringfloat1 desc"
       },
       {
         "code": "habbo25_c25_ringfloat2",
-        "name": "habbo25_c25_ringfloat2 name",
+        "name": "Flotador Redondo Sandía",
         "description": "habbo25_c25_ringfloat2 desc"
       },
       {
         "code": "habbo25_c25_ringfloat3",
-        "name": "habbo25_c25_ringfloat3 name",
+        "name": "Flotador Redondo de Leopardo",
         "description": "habbo25_c25_ringfloat3 desc"
       },
       {
         "code": "habbo25_c25_sofafloat1",
-        "name": "habbo25_c25_sofafloat1 name",
+        "name": "Sofá Hinchable Uva",
         "description": "habbo25_c25_sofafloat1 desc"
       },
       {
         "code": "habbo25_c25_sofafloat2",
-        "name": "habbo25_c25_sofafloat2 name",
+        "name": "Sofá Hinchable Candy",
         "description": "habbo25_c25_sofafloat2 desc"
       },
       {
         "code": "habbo25_c25_sofafloat3",
-        "name": "habbo25_c25_sofafloat3 name",
+        "name": "Sofá Hinchable Chicle",
         "description": "habbo25_c25_sofafloat3 desc"
       },
       {
         "code": "habbo25_c25_sparkler",
-        "name": "habbo25_c25_sparkler name",
+        "name": "Bengalas",
         "description": "habbo25_c25_sparkler desc"
       },
       {
         "code": "habbo25_c25_summerpartypenguin",
-        "name": "habbo25_c25_summerpartypenguin name",
+        "name": "Pingüino de Fiesta en la Piscina",
         "description": "habbo25_c25_summerpartypenguin desc"
       },
       {
         "code": "habbo25_c25_sunlounger1",
-        "name": "habbo25_c25_sunlounger1 name",
+        "name": "Tumbona de Hotel",
         "description": "habbo25_c25_sunlounger1 desc"
       },
       {
         "code": "habbo25_c25_sunlounger2",
-        "name": "habbo25_c25_sunlounger2 name",
+        "name": "Tumbona Verano Tropical",
         "description": "habbo25_c25_sunlounger2 desc"
       },
       {
         "code": "habbo25_c25_sunlounger3",
-        "name": "habbo25_c25_sunlounger3 name",
+        "name": "Tumbona Verano Refrescante",
         "description": "habbo25_c25_sunlounger3 desc"
       },
       {
         "code": "habbo25_c25_surfboard1",
-        "name": "habbo25_c25_surfboard1 name",
+        "name": "Tabla de Surf Flamenco Neón",
         "description": "habbo25_c25_surfboard1 desc"
       },
       {
         "code": "habbo25_c25_surfboard2",
-        "name": "habbo25_c25_surfboard2 name",
+        "name": "Tabla de Surf Cielo Neón",
         "description": "habbo25_c25_surfboard2 desc"
       },
       {
         "code": "habbo25_c25_surfboard3",
-        "name": "habbo25_c25_surfboard3 name",
+        "name": "Tabla de Surf Sol Neón",
         "description": "habbo25_c25_surfboard3 desc"
       },
       {
         "code": "habbo25_c25_tropicalroombg",
-        "name": "habbo25_c25_tropicalroombg name",
+        "name": "Destino Tropical",
         "description": "habbo25_c25_tropicalroombg desc"
       },
       {
@@ -57863,57 +57948,57 @@
       },
       {
         "code": "habbo25_c25_yachtback",
-        "name": "habbo25_c25_yachtback name",
+        "name": "Popa del Yate",
         "description": "habbo25_c25_yachtback desc"
       },
       {
         "code": "habbo25_c25_yachtfront",
-        "name": "habbo25_c25_yachtfront name",
+        "name": "Proa del Yate",
         "description": "habbo25_c25_yachtfront desc"
       },
       {
         "code": "habbo25_c25_yachtmid1",
-        "name": "habbo25_c25_yachtmid1 name",
+        "name": "Timón del Yate",
         "description": "habbo25_c25_yachtmid1 desc"
       },
       {
         "code": "habbo25_c25_yachtmid2",
-        "name": "habbo25_c25_yachtmid2 name",
+        "name": "Parte del Yate",
         "description": "habbo25_c25_yachtmid2 desc"
       },
       {
         "code": "habbo25_c25_yachtmid3",
-        "name": "habbo25_c25_yachtmid3 name",
+        "name": "Piscina del Yate",
         "description": "habbo25_c25_yachtmid3 desc"
       },
       {
         "code": "habbo25_ltd25_duckymachine",
-        "name": "habbo25_ltd25_duckymachine name",
+        "name": "Máquina Expendedora de Patitos",
         "description": "habbo25_ltd25_duckymachine desc"
       },
       {
         "code": "habbo25_r25_bdaycake",
-        "name": "habbo25_r25_bdaycake name",
+        "name": "Tarta 25 Habbo Cumpleaños",
         "description": "habbo25_r25_bdaycake desc"
       },
       {
         "code": "habbo25_r25_blackthrone",
-        "name": "habbo25_r25_blackthrone name",
+        "name": "Trono Negro",
         "description": "habbo25_r25_blackthrone desc"
       },
       {
         "code": "habbo25_r25_turntable",
-        "name": "habbo25_r25_turntable name",
+        "name": "Tocadiscos Moderno",
         "description": "habbo25_r25_turntable desc"
       },
       {
         "code": "habbo25_sc25_drinksdispenser",
-        "name": "habbo25_sc25_drinksdispenser name",
+        "name": "Mini Nevera JääBoost",
         "description": "habbo25_sc25_drinksdispenser desc"
       },
       {
         "code": "habbo25_sc25_goldenfountain",
-        "name": "habbo25_sc25_goldenfountain name",
+        "name": "Fontana Dorada",
         "description": "habbo25_sc25_goldenfountain desc"
       },
       {
@@ -70382,6 +70467,11 @@
         "description": ""
       },
       {
+        "code": "minirare_dragonlamp_0",
+        "name": "Mini Dragón de Fuego Naranja",
+        "description": ""
+      },
+      {
         "code": "minirare_dragonlamp_pink",
         "name": "Dragón Rosa Mini",
         "description": "minirare_dragonlamp_pink desc"
@@ -70410,6 +70500,11 @@
         "code": "minirare_elephant_statue_3",
         "name": "minirare_elephant_statue_3 name",
         "description": "minirare_elephant_statue_3 desc"
+      },
+      {
+        "code": "minirare_elephant_statue_4",
+        "name": "Mini Estatua Elefante Oro Rosado",
+        "description": ""
       },
       {
         "code": "minirare_fan_0",
@@ -70648,7 +70743,7 @@
       },
       {
         "code": "minirare_pillow_9",
-        "name": "minirare_pillow_9 name",
+        "name": "Mini Cojín Verde Lima",
         "description": "minirare_pillow_9 desc"
       },
       {
@@ -70728,7 +70823,7 @@
       },
       {
         "code": "minirare_scifirocket_1",
-        "name": "minirare_scifirocket_1 name",
+        "name": "Mini Humareda Mostaza",
         "description": "minirare_scifirocket_1 desc"
       },
       {
@@ -70780,6 +70875,11 @@
         "code": "minirare_sleepingbag_0",
         "name": "minirare_sleepingbag_0 name",
         "description": "minirare_sleepingbag_0 desc"
+      },
+      {
+        "code": "minirare_sleepingbag_10",
+        "name": "Mini Saco de dormir Caqui",
+        "description": ""
       },
       {
         "code": "minirare_sleepingbag_1",
@@ -76707,6 +76807,11 @@
         "description": "nft_h25_haf_reddevil desc"
       },
       {
+        "code": "nft_h25_haf_squabble",
+        "name": "Figura de acción Johnny Squabble",
+        "description": ""
+      },
+      {
         "code": "nft_h25_hatterfigure",
         "name": "Coleccionable Figurita del Sombrerero",
         "description": "nft_h25_hatterfigure desc"
@@ -76758,7 +76863,7 @@
       },
       {
         "code": "nft_h25_robocroc",
-        "name": "nft_h25_robocroc name",
+        "name": "Cocodrilo Robótico",
         "description": "nft_h25_robocroc desc"
       },
       {
@@ -77883,12 +77988,12 @@
       },
       {
         "code": "nft_sc25_dragonlampfloat",
-        "name": "nft_sc25_dragonlampfloat name",
+        "name": "Flotador Dragón de Fuego",
         "description": "nft_sc25_dragonlampfloat desc"
       },
       {
         "code": "nft_sc25_smallpirateboat",
-        "name": "nft_sc25_smallpirateboat name",
+        "name": "Hinchable Barco Pirata",
         "description": "nft_sc25_smallpirateboat desc"
       },
       {
@@ -77903,12 +78008,12 @@
       },
       {
         "code": "nft_sc25_turtlefloat",
-        "name": "nft_sc25_turtlefloat name",
+        "name": "Flotador Tortuga Musgo",
         "description": "nft_sc25_turtlefloat desc"
       },
       {
         "code": "nft_sc25_unicornfloat",
-        "name": "nft_sc25_unicornfloat name",
+        "name": "Flotador Unicornio",
         "description": "nft_sc25_unicornfloat desc"
       },
       {
@@ -86192,8 +86297,13 @@
         "description": ""
       },
       {
+        "code": "rare_fan_11",
+        "name": "La Ventolera Blanca",
+        "description": ""
+      },
+      {
         "code": "rare_fountain_7",
-        "name": "rare_fountain_7 name",
+        "name": "Fontana Lila",
         "description": "rare_fountain_7 desc"
       },
       {
@@ -86214,6 +86324,11 @@
       {
         "code": "rare_hween_r24_vintageprombd",
         "name": "$product_rare_hween_r24_vintagepromqueen_name$",
+        "description": ""
+      },
+      {
+        "code": "rare_icecream_12",
+        "name": "Heladera Verde Lima",
         "description": ""
       },
       {
@@ -86239,6 +86354,11 @@
       {
         "code": "rare_parasol6_badge",
         "name": "Raro Sombrilla Negra",
+        "description": ""
+      },
+      {
+        "code": "rare_parasol_5",
+        "name": "Sombrilla Gris Azul Oscuro",
         "description": ""
       },
       {
@@ -97332,6 +97452,21 @@
         "description": "Una sala de estar verdaderamente moderna para traer el Hygge a tu vida."
       },
       {
+        "code": "rotating_roomdeal446_10c",
+        "name": "Lote Habbo Aniversario",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal446_d",
+        "name": "Lote Habbo Aniversario",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal446",
+        "name": "Lote Habbo Aniversario",
+        "description": "Nos invade la nostalgia desde tan dentro que podríamos llorar. ¡Feliz aniversario, Habbo!"
+      },
+      {
         "code": "rotating_roomdeal44_10c",
         "name": "Big City Christmas Bundle",
         "description": "¡Llegó la hora de quitarle el polvo a todas tus cosas de invierno y ponerte esos patines para deslizarte por las pistas de hielo! No querrás parar ni un minuto en la ciudad que nunca duerme. Incluye un EXCLUSIVO arbusto conejo. y 10 créditos"
@@ -99490,6 +99625,11 @@
         "code": "scifi_r17_cruiser",
         "name": "Crucero Interstellar",
         "description": "Aforo limitado a 4 Astro-Habbos"
+      },
+      {
+        "code": "scifiport_11",
+        "name": "Puerta Estelar Chocolate",
+        "description": ""
       },
       {
         "code": "sculp_r25_doveseat_bd",

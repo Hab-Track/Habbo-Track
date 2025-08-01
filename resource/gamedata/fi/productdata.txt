@@ -15650,6 +15650,11 @@
     "Käytännöllinen ja mukava."
   ],
   [
+    "barrier_4",
+    "Maastonvihreä este",
+    ""
+  ],
+  [
     "bathroom_bath1",
     "Vaalenaharmaa kylpyamme",
     "Rentoudu kunnes pikselisormesi ovat rusinoilla."
@@ -32735,6 +32740,11 @@
     ""
   ],
   [
+    "cl_r25_balloon_bd",
+    "Habbo 25 -tähti-ilmapallo",
+    ""
+  ],
+  [
     "cl_r25_curlyponytail_bd",
     "Fiftariponnari",
     ""
@@ -32752,6 +32762,11 @@
   [
     "cl_r25_heartqueendress_bd",
     "Herttakuningattaren mekko",
+    ""
+  ],
+  [
+    "cl_r25_iridescent_bd",
+    "Tähtisumulaukku",
     ""
   ],
   [
@@ -33921,7 +33936,7 @@
   ],
   [
     "clothing_armfloats",
-    "clothing_armfloats name",
+    "Käsikellukkeet",
     "clothing_armfloats desc"
   ],
   [
@@ -34086,7 +34101,7 @@
   ],
   [
     "clothing_bedazzledhat",
-    "clothing_bedazzledhat name",
+    "H-stetsoni",
     "clothing_bedazzledhat desc"
   ],
   [
@@ -34306,7 +34321,7 @@
   ],
   [
     "clothing_braidedpigtails",
-    "clothing_braidedpigtails name",
+    "Letitetyt saparot",
     "clothing_braidedpigtails desc"
   ],
   [
@@ -34686,7 +34701,7 @@
   ],
   [
     "clothing_catfloat",
-    "clothing_catfloat name",
+    "Kissauimarengas",
     "clothing_catfloat desc"
   ],
   [
@@ -35346,7 +35361,7 @@
   ],
   [
     "clothing_discohead",
-    "clothing_discohead name",
+    "Diskopää",
     "clothing_discohead desc"
   ],
   [
@@ -35453,6 +35468,11 @@
     "clothing_drsportsshirt",
     "DR Sports- t-paita",
     "clothing_drsportsshirt desc"
+  ],
+  [
+    "clothing_ducketduckafro",
+    "Ankka-afro",
+    ""
   ],
   [
     "clothing_duckethat",
@@ -35841,7 +35861,7 @@
   ],
   [
     "clothing_frillycroppedbikini",
-    "clothing_frillycroppedbikini name",
+    "Röyhelöbikinit",
     "clothing_frillycroppedbikini desc"
   ],
   [
@@ -36775,6 +36795,21 @@
     ""
   ],
   [
+    "clothing_loyaltycrown_15",
+    "Viidentoista vuoden kruunu",
+    ""
+  ],
+  [
+    "clothing_loyaltycrown_20",
+    "Kahdenkymmenen vuoden kruunu",
+    ""
+  ],
+  [
+    "clothing_loyaltycrown_25",
+    "Kahdenkymmenen viiden vuoden kruunu",
+    ""
+  ],
+  [
     "clothing_loyaltycrown_II",
     "Kahden vuoden kruunu",
     "clothing_loyaltycrown_II desc"
@@ -36911,7 +36946,7 @@
   ],
   [
     "clothing_manbun2",
-    "clothing_manbun2 name",
+    "Huolettoman nuttura",
     "clothing_manbun2 desc"
   ],
   [
@@ -37291,17 +37326,27 @@
   ],
   [
     "clothing_nft25balloonblue",
-    "clothing_nft25balloonblue name",
+    "Sininen Habbo 25 -ilmapallo",
     "clothing_nft25balloonblue desc"
   ],
   [
     "clothing_nft25balloonred",
-    "clothing_nft25balloonred name",
+    "Punainen Habbo 25 -ilmapallo",
     "clothing_nft25balloonred desc"
   ],
   [
+    "clothing_nft25earrings1",
+    "Siniset Habbo 25 -korvikset",
+    ""
+  ],
+  [
+    "clothing_nft25earrings2",
+    "Pinkit Habbo 25 -korvikset",
+    ""
+  ],
+  [
     "clothing_nft25earrings3",
-    "clothing_nft25earrings3 name",
+    "Kultaiset Habbo 25 -korvikset",
     "clothing_nft25earrings3 desc"
   ],
   [
@@ -37716,7 +37761,7 @@
   ],
   [
     "clothing_nftcola",
-    "clothing_nftcola name",
+    "Kuplajuomareppu",
     "clothing_nftcola desc"
   ],
   [
@@ -37966,7 +38011,7 @@
   ],
   [
     "clothing_nftfrogfloat",
-    "clothing_nftfrogfloat name",
+    "Sammakkouimarengas",
     "clothing_nftfrogfloat desc"
   ],
   [
@@ -38061,12 +38106,22 @@
   ],
   [
     "clothing_nfthabbo25crown",
-    "clothing_nfthabbo25crown name",
+    "Habbo 25 -kruunu",
     "clothing_nfthabbo25crown desc"
   ],
   [
+    "clothing_nfthabbo25necklace1",
+    "Sininen Habbo 25 -kaulakoru",
+    ""
+  ],
+  [
+    "clothing_nfthabbo25necklace2",
+    "Pinkki Habbo 25 -kaulakoru",
+    ""
+  ],
+  [
     "clothing_nfthabbo25necklace3",
-    "clothing_nfthabbo25necklace3 name",
+    "Kultainen Habbo 25 -kaulakoru",
     "clothing_nfthabbo25necklace3 desc"
   ],
   [
@@ -38631,27 +38686,27 @@
   ],
   [
     "clothing_nftseahorsefloat",
-    "clothing_nftseahorsefloat name",
+    "Merihevosuimarengas",
     "clothing_nftseahorsefloat desc"
   ],
   [
     "clothing_nftseashellp1",
-    "clothing_nftseashellp1 name",
+    "Oranssi simpukkakaulakoru",
     "clothing_nftseashellp1 desc"
   ],
   [
     "clothing_nftseashellp2",
-    "clothing_nftseashellp2 name",
+    "Vihreä simpukkakaulakoru",
     "clothing_nftseashellp2 desc"
   ],
   [
     "clothing_nftseashellp3",
-    "clothing_nftseashellp3 name",
+    "Violetti simpukkakaulakoru",
     "clothing_nftseashellp3 desc"
   ],
   [
     "clothing_nftseashellp4",
-    "clothing_nftseashellp4 name",
+    "Sininen simpukkakaulakoru",
     "clothing_nftseashellp4 desc"
   ],
   [
@@ -39601,7 +39656,7 @@
   ],
   [
     "clothing_ombreswimtrunks",
-    "clothing_ombreswimtrunks name",
+    "Liukuvärjätyt uikkarit",
     "clothing_ombreswimtrunks desc"
   ],
   [
@@ -39901,7 +39956,7 @@
   ],
   [
     "clothing_poolpartyshades",
-    "clothing_poolpartyshades name",
+    "Allasbileplehat",
     "clothing_poolpartyshades desc"
   ],
   [
@@ -42286,7 +42341,7 @@
   ],
   [
     "clothing_r25_balloon",
-    "clothing_r25_balloon name",
+    "Habbo 25 -tähti-ilmapallo",
     "clothing_r25_balloon desc"
   ],
   [
@@ -42346,7 +42401,7 @@
   ],
   [
     "clothing_r25_iridescentstarbag",
-    "clothing_r25_iridescentstarbag name",
+    "Tähtisumulaukku",
     "clothing_r25_iridescentstarbag desc"
   ],
   [
@@ -42946,7 +43001,7 @@
   ],
   [
     "clothing_sparklerheadband",
-    "clothing_sparklerheadband name",
+    "Tähtisadetikkupanta",
     "clothing_sparklerheadband desc"
   ],
   [
@@ -50340,6 +50395,11 @@
     "ducket_c25_duck desc"
   ],
   [
+    "ducket_c25_duckcake",
+    "Synttäreiden ankkamufinssi",
+    ""
+  ],
+  [
     "ducket_c25_ducklamp",
     "Ankkalamppu",
     "ducket_c25_ducklamp desc"
@@ -50358,6 +50418,11 @@
     "ducket_c25_flowerstool",
     "Ducketti-kukkajakkara",
     "ducket_c25_flowerstool desc"
+  ],
+  [
+    "ducket_c25_lilcrocexplorer",
+    "Pieni seikkailijakroko",
+    ""
   ],
   [
     "ducket_c25_plantpot",
@@ -57675,6 +57740,26 @@
     "h25_monkeybzn_pole desc"
   ],
   [
+    "hab25_ltd25_ducky_bd",
+    "Ankka-automaatti",
+    ""
+  ],
+  [
+    "hab25_r25_bdaycake_bd",
+    "Habbo 25 -synttärikakku",
+    ""
+  ],
+  [
+    "hab25_r25_blackthrone_bd",
+    "Musta valtaistuin",
+    ""
+  ],
+  [
+    "hab25_r25_turntable_bd",
+    "Moderni levysoitin",
+    ""
+  ],
+  [
     "habbo15_beehive",
     "Kastanjanruskea mehiläislamppu",
     "Ja näet totuuden!"
@@ -58141,12 +58226,12 @@
   ],
   [
     "habbo25_c25_balloons",
-    "habbo25_c25_balloons name",
+    "Habbo-ilmapallot",
     "habbo25_c25_balloons desc"
   ],
   [
     "habbo25_c25_bdayballoon2",
-    "habbo25_c25_bdayballoon2 name",
+    "Hopeiset 25-pallot",
     "habbo25_c25_bdayballoon2 desc"
   ],
   [
@@ -58156,7 +58241,7 @@
   ],
   [
     "habbo25_c25_bdayballoon",
-    "Bright 25 Balloons",
+    "Heleät 25-pallot",
     "habbo25_c25_bdayballoon desc"
   ],
   [
@@ -58166,237 +58251,237 @@
   ],
   [
     "habbo25_c25_bedfloat1",
-    "habbo25_c25_bedfloat1 name",
+    "Sininen uimapatja",
     "habbo25_c25_bedfloat1 desc"
   ],
   [
     "habbo25_c25_bedfloat2",
-    "habbo25_c25_bedfloat2 name",
+    "Sitruksinen uimapatja",
     "habbo25_c25_bedfloat2 desc"
   ],
   [
     "habbo25_c25_bedfloat3",
-    "habbo25_c25_bedfloat3 name",
+    "Pinkki uimapatja",
     "habbo25_c25_bedfloat3 desc"
   ],
   [
     "habbo25_c25_chairfloat1",
-    "habbo25_c25_chairfloat1 name",
+    "Sitruksinen uimatuoli",
     "habbo25_c25_chairfloat1 desc"
   ],
   [
     "habbo25_c25_chairfloat2",
-    "habbo25_c25_chairfloat2 name",
+    "Poutapäivän uimatuoli",
     "habbo25_c25_chairfloat2 desc"
   ],
   [
     "habbo25_c25_chairfloat3",
-    "habbo25_c25_chairfloat3 name",
+    "Pinkki uimatuoli",
     "habbo25_c25_chairfloat3 desc"
   ],
   [
     "habbo25_c25_confetti2",
-    "habbo25_c25_confetti2 name",
+    "Neon-väriset 25-konfetit",
     "habbo25_c25_confetti2 desc"
   ],
   [
     "habbo25_c25_confetti",
-    "habbo25_c25_confetti name",
+    "Metalliset 25-konfetit",
     "habbo25_c25_confetti desc"
   ],
   [
     "habbo25_c25_drinksfloat1",
-    "habbo25_c25_drinksfloat1 name",
+    "Vesimeloninen kelluva juomateline",
     "habbo25_c25_drinksfloat1 desc"
   ],
   [
     "habbo25_c25_drinksfloat2",
-    "habbo25_c25_drinksfloat2 name",
+    "Limenvihreä kelluva juomateline",
     "habbo25_c25_drinksfloat2 desc"
   ],
   [
     "habbo25_c25_drinksfloat3",
-    "habbo25_c25_drinksfloat3 name",
+    "Violetti kelluva juomateline",
     "habbo25_c25_drinksfloat3 desc"
   ],
   [
     "habbo25_c25_duckfloat1",
-    "habbo25_c25_duckfloat1 name",
+    "Kumiankkauimarengas",
     "habbo25_c25_duckfloat1 desc"
   ],
   [
     "habbo25_c25_duckfloat2",
-    "habbo25_c25_duckfloat2 name",
+    "Lomaileva ankka -uimarengas",
     "habbo25_c25_duckfloat2 desc"
   ],
   [
     "habbo25_c25_gator1",
-    "habbo25_c25_gator1 name",
+    "Sydämellinen kroko",
     "habbo25_c25_gator1 desc"
   ],
   [
     "habbo25_c25_gator2",
-    "habbo25_c25_gator2 name",
+    "Sateenkarikroko",
     "habbo25_c25_gator2 desc"
   ],
   [
     "habbo25_c25_icebowl",
-    "habbo25_c25_icebowl name",
+    "Jääkulho",
     "habbo25_c25_icebowl desc"
   ],
   [
     "habbo25_c25_jetski1",
-    "habbo25_c25_jetski1 name",
+    "Sinikeltainen vesiskootteri",
     "habbo25_c25_jetski1 desc"
   ],
   [
     "habbo25_c25_jetski2",
-    "habbo25_c25_jetski2 name",
+    "Strösselivesiskootteri",
     "habbo25_c25_jetski2 desc"
   ],
   [
     "habbo25_c25_lifeguardchair1",
-    "habbo25_c25_lifeguardchair1 name",
+    "Valkoinen hengenpelastajan tuoli",
     "habbo25_c25_lifeguardchair1 desc"
   ],
   [
     "habbo25_c25_lifeguardchair2",
-    "habbo25_c25_lifeguardchair2 name",
+    "Keltainen hengenpelastajan tuoli",
     "habbo25_c25_lifeguardchair2 desc"
   ],
   [
     "habbo25_c25_lifering",
-    "habbo25_c25_lifering name",
+    "Neonuimarengas",
     "habbo25_c25_lifering desc"
   ],
   [
     "habbo25_c25_mocktailglass",
-    "habbo25_c25_mocktailglass name",
+    "Mocktail-lasi",
     "habbo25_c25_mocktailglass desc"
   ],
   [
     "habbo25_c25_paddleboat1",
-    "habbo25_c25_paddleboat1 name",
+    "Limenvihreä kumivene",
     "habbo25_c25_paddleboat1 desc"
   ],
   [
     "habbo25_c25_paddleboat2",
-    "habbo25_c25_paddleboat2 name",
+    "Pinkki kumivene",
     "habbo25_c25_paddleboat2 desc"
   ],
   [
     "habbo25_c25_paddleboat3",
-    "habbo25_c25_paddleboat3 name",
+    "Mandariini kumivene",
     "habbo25_c25_paddleboat3 desc"
   ],
   [
     "habbo25_c25_palmdecor1",
-    "habbo25_c25_palmdecor1 name",
+    "Palmukoriste",
     "habbo25_c25_palmdecor1 desc"
   ],
   [
     "habbo25_c25_palmdecor2",
-    "habbo25_c25_palmdecor2 name",
+    "Neon-värinen palmukoriste",
     "habbo25_c25_palmdecor2 desc"
   ],
   [
     "habbo25_c25_pearlchairfloat1",
-    "habbo25_c25_pearlchairfloat1 name",
+    "Helmenpinkki simpukkauimapatja",
     "habbo25_c25_pearlchairfloat1 desc"
   ],
   [
     "habbo25_c25_pearlchairfloat2",
-    "habbo25_c25_pearlchairfloat2 name",
+    "Eteerinen simpukkauimapatja",
     "habbo25_c25_pearlchairfloat2 desc"
   ],
   [
     "habbo25_c25_photoframe1",
-    "habbo25_c25_photoframe1 name",
+    "Valokuvakehys",
     "habbo25_c25_photoframe1 desc"
   ],
   [
     "habbo25_c25_photoframe2",
-    "habbo25_c25_photoframe2 name",
+    "Keltainen kuvakehys",
     "habbo25_c25_photoframe2 desc"
   ],
   [
     "habbo25_c25_poolfrank",
-    "habbo25_c25_poolfrank name",
+    "Loma-Frank -tehtailupöytä",
     "habbo25_c25_poolfrank desc"
   ],
   [
     "habbo25_c25_ringfloat1",
-    "habbo25_c25_ringfloat1 name",
+    "Tähtiuimarengas",
     "habbo25_c25_ringfloat1 desc"
   ],
   [
     "habbo25_c25_ringfloat2",
-    "habbo25_c25_ringfloat2 name",
+    "Vesimeloniuimarengas",
     "habbo25_c25_ringfloat2 desc"
   ],
   [
     "habbo25_c25_ringfloat3",
-    "habbo25_c25_ringfloat3 name",
+    "Leopardiuimarengas",
     "habbo25_c25_ringfloat3 desc"
   ],
   [
     "habbo25_c25_sofafloat1",
-    "habbo25_c25_sofafloat1 name",
+    "Violetti puhallettava sohva",
     "habbo25_c25_sofafloat1 desc"
   ],
   [
     "habbo25_c25_sofafloat2",
-    "habbo25_c25_sofafloat2 name",
+    "Sininen puhallettava sohva",
     "habbo25_c25_sofafloat2 desc"
   ],
   [
     "habbo25_c25_sofafloat3",
-    "habbo25_c25_sofafloat3 name",
+    "Pinkki puhallettava sohva",
     "habbo25_c25_sofafloat3 desc"
   ],
   [
     "habbo25_c25_sparkler",
-    "habbo25_c25_sparkler name",
+    "Tähtisädetikku",
     "habbo25_c25_sparkler desc"
   ],
   [
     "habbo25_c25_summerpartypenguin",
-    "habbo25_c25_summerpartypenguin name",
+    "Allasbilepingviini",
     "habbo25_c25_summerpartypenguin desc"
   ],
   [
     "habbo25_c25_sunlounger1",
-    "habbo25_c25_sunlounger1 name",
+    "Hotellin aurinkotuoli",
     "habbo25_c25_sunlounger1 desc"
   ],
   [
     "habbo25_c25_sunlounger2",
-    "habbo25_c25_sunlounger2 name",
+    "Sitruksinen aurinkotuoli",
     "habbo25_c25_sunlounger2 desc"
   ],
   [
     "habbo25_c25_sunlounger3",
-    "habbo25_c25_sunlounger3 name",
+    "Vedensininen aurinkotuoli",
     "habbo25_c25_sunlounger3 desc"
   ],
   [
     "habbo25_c25_surfboard1",
-    "habbo25_c25_surfboard1 name",
+    "Flamingosurffilauta",
     "habbo25_c25_surfboard1 desc"
   ],
   [
     "habbo25_c25_surfboard2",
-    "habbo25_c25_surfboard2 name",
+    "Pinkki taivas -surffilauta",
     "habbo25_c25_surfboard2 desc"
   ],
   [
     "habbo25_c25_surfboard3",
-    "habbo25_c25_surfboard3 name",
+    "Poutapäivän surffilauta",
     "habbo25_c25_surfboard3 desc"
   ],
   [
     "habbo25_c25_tropicalroombg",
-    "habbo25_c25_tropicalroombg name",
+    "Trooppinen tausta",
     "habbo25_c25_tropicalroombg desc"
   ],
   [
@@ -58406,57 +58491,57 @@
   ],
   [
     "habbo25_c25_yachtback",
-    "habbo25_c25_yachtback name",
+    "Jahdin takaosa",
     "habbo25_c25_yachtback desc"
   ],
   [
     "habbo25_c25_yachtfront",
-    "habbo25_c25_yachtfront name",
+    "Jahdin keula",
     "habbo25_c25_yachtfront desc"
   ],
   [
     "habbo25_c25_yachtmid1",
-    "habbo25_c25_yachtmid1 name",
+    "Jahdin ohjaamo",
     "habbo25_c25_yachtmid1 desc"
   ],
   [
     "habbo25_c25_yachtmid2",
-    "habbo25_c25_yachtmid2 name",
+    "Jahdin keskiosa",
     "habbo25_c25_yachtmid2 desc"
   ],
   [
     "habbo25_c25_yachtmid3",
-    "habbo25_c25_yachtmid3 name",
+    "Jahdin uima-allas",
     "habbo25_c25_yachtmid3 desc"
   ],
   [
     "habbo25_ltd25_duckymachine",
-    "habbo25_ltd25_duckymachine name",
+    "Ankka-automaatti",
     "habbo25_ltd25_duckymachine desc"
   ],
   [
     "habbo25_r25_bdaycake",
-    "habbo25_r25_bdaycake name",
+    "Habbo 25 -synttärikakku",
     "habbo25_r25_bdaycake desc"
   ],
   [
     "habbo25_r25_blackthrone",
-    "habbo25_r25_blackthrone name",
+    "Musta valtaistuin",
     "habbo25_r25_blackthrone desc"
   ],
   [
     "habbo25_r25_turntable",
-    "habbo25_r25_turntable name",
+    "Moderni levysoitin",
     "habbo25_r25_turntable desc"
   ],
   [
     "habbo25_sc25_drinksdispenser",
-    "habbo25_sc25_drinksdispenser name",
+    "JääBoost-minijääkaappi",
     "habbo25_sc25_drinksdispenser desc"
   ],
   [
     "habbo25_sc25_goldenfountain",
-    "habbo25_sc25_goldenfountain name",
+    "Kultainen suihkulähde",
     "habbo25_sc25_goldenfountain desc"
   ],
   [
@@ -71000,6 +71085,11 @@
     ""
   ],
   [
+    "minirare_dragonlamp_0",
+    "Oranssi miniatyyrilohikäärmelamppu",
+    ""
+  ],
+  [
     "minirare_dragonlamp_pink",
     "Pinkki miniatyyrilohikäärmelamppu",
     "minirare_dragonlamp_pink desc"
@@ -71028,6 +71118,11 @@
     "minirare_elephant_statue_3",
     "minirare_elephant_statue_3 name",
     "minirare_elephant_statue_3 desc"
+  ],
+  [
+    "minirare_elephant_statue_4",
+    "Vaaleanpunainen miniatyyrinorsupatsas",
+    ""
   ],
   [
     "minirare_fan_0",
@@ -71266,7 +71361,7 @@
   ],
   [
     "minirare_pillow_9",
-    "minirare_pillow_9 name",
+    "Limenvihreä miniatyyrityyny",
     "minirare_pillow_9 desc"
   ],
   [
@@ -71346,7 +71441,7 @@
   ],
   [
     "minirare_scifirocket_1",
-    "minirare_scifirocket_1 name",
+    "Sinapinkeltainen miniatyyrisavukone",
     "minirare_scifirocket_1 desc"
   ],
   [
@@ -71398,6 +71493,11 @@
     "minirare_sleepingbag_0",
     "minirare_sleepingbag_0 name",
     "minirare_sleepingbag_0 desc"
+  ],
+  [
+    "minirare_sleepingbag_10",
+    "Khakinvärinen miniatyyrimakuupussi",
+    ""
   ],
   [
     "minirare_sleepingbag_1",
@@ -77300,6 +77400,11 @@
     "nft_h25_haf_reddevil desc"
   ],
   [
+    "nft_h25_haf_squabble",
+    "Johnny Squabble -toimintafiguuri",
+    ""
+  ],
+  [
     "nft_h25_hatterfigure",
     "Hatuntekijä-keräilyfiguuri",
     "nft_h25_hatterfigure desc"
@@ -77351,7 +77456,7 @@
   ],
   [
     "nft_h25_robocroc",
-    "nft_h25_robocroc name",
+    "Robottikrokotiili",
     "nft_h25_robocroc desc"
   ],
   [
@@ -78476,17 +78581,17 @@
   ],
   [
     "nft_sc25_dragon_bd",
-    "Dragon Lamp Float",
+    "Lohikäärmeuimalelu",
     ""
   ],
   [
     "nft_sc25_dragonlampfloat",
-    "Dragon Lamp Float",
+    "Lohikäärmeuimalelu",
     "nft_sc25_dragonlampfloat desc"
   ],
   [
     "nft_sc25_smallpirateboat",
-    "Pirate Ship Float",
+    "Merirosvolaivauimalelu",
     "nft_sc25_smallpirateboat desc"
   ],
   [
@@ -78501,22 +78606,22 @@
   ],
   [
     "nft_sc25_turtle_bd",
-    "Turtle Float",
+    "Kilppariuimalelu",
     ""
   ],
   [
     "nft_sc25_turtlefloat",
-    "Turtle Float",
+    "Kilppariuimalelu",
     "nft_sc25_turtlefloat desc"
   ],
   [
     "nft_sc25_unicorn_bd",
-    "Unicorn Float",
+    "Yksisarvisuimalelu",
     ""
   ],
   [
     "nft_sc25_unicornfloat",
-    "Unicorn Float",
+    "Yksisarvisuimalelu",
     "nft_sc25_unicornfloat desc"
   ],
   [
@@ -86585,8 +86690,13 @@
     ""
   ],
   [
+    "rare_fan_11",
+    "Valkoinen tuuletin",
+    ""
+  ],
+  [
     "rare_fountain_7",
-    "rare_fountain_7 name",
+    "Violetti suihkulähde",
     "rare_fountain_7 desc"
   ],
   [
@@ -86607,6 +86717,11 @@
   [
     "rare_hween_r24_vintageprombd",
     "$product_rare_hween_r24_vintagepromqueen_name$",
+    ""
+  ],
+  [
+    "rare_icecream_12",
+    "Limenvihreä jäätelökone",
     ""
   ],
   [
@@ -86632,6 +86747,11 @@
   [
     "rare_parasol6_badge",
     "Harvinainen Musta auringonvarjo",
+    ""
+  ],
+  [
+    "rare_parasol_5",
+    "Tumma siniharmaa aurinkovarjo",
     ""
   ],
   [
@@ -97750,6 +97870,21 @@
     "Moderni olohuone, joka tihkuu Hyggeä."
   ],
   [
+    "rotating_roomdeal446_10c",
+    "Habbon vuosipäivä -huonepaketti",
+    ""
+  ],
+  [
+    "rotating_roomdeal446_d",
+    "Habbon vuosipäivä -huonepaketti",
+    ""
+  ],
+  [
+    "rotating_roomdeal446",
+    "Habbon vuosipäivä -huonepaketti",
+    "Tippahan tässä tulee linssiin nostalgisoidessa. Hyvää syntymäpäivää, Habbo!"
+  ],
+  [
     "rotating_roomdeal44_10c",
     "Suurkaupungin joulu -paketti",
     "Rotsi niskaan ja luistimet mukaan, kaupungissa, joka ei nuku koskaan, ei ole ikinä tylsää. Mukana ainutlaatuinen Pupun pensaspatsas ja 10 kolikkoa."
@@ -99843,6 +99978,11 @@
     "scifi_r17_cruiser",
     "Tähtienvälinen risteilijä",
     "Tilaa neljälle avaruusseikkailijalle."
+  ],
+  [
+    "scifiport_11",
+    "Ruskea laserportti",
+    ""
   ],
   [
     "sculp_r25_doveseat_bd",

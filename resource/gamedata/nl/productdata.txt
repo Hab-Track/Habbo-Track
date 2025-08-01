@@ -14150,6 +14150,11 @@
     "Stevig, zelfs op 1 been"
   ],
   [
+    "barrier_4",
+    "Legergroene Wegversperring",
+    ""
+  ],
+  [
     "bathroom_bath1",
     "Lichtgrijs Bad",
     "Relax totdat je pixel vingers beginnen te rimpelen."
@@ -31260,6 +31265,11 @@
     ""
   ],
   [
+    "cl_r25_balloon_bd",
+    "Habbo 25 jaar Sterballon",
+    ""
+  ],
+  [
     "cl_r25_curlyponytail_bd",
     "Jaren 50 Paardenstaart ",
     ""
@@ -31277,6 +31287,11 @@
   [
     "cl_r25_heartqueendress_bd",
     "Hartenkoningin Jurk",
+    ""
+  ],
+  [
+    "cl_r25_iridescent_bd",
+    "Pastelkleurige Sterrentas",
     ""
   ],
   [
@@ -32446,7 +32461,7 @@
   ],
   [
     "clothing_armfloats",
-    "clothing_armfloats name",
+    "Zwemvleugels",
     "clothing_armfloats desc"
   ],
   [
@@ -32611,7 +32626,7 @@
   ],
   [
     "clothing_bedazzledhat",
-    "clothing_bedazzledhat name",
+    "H Cowboy Hoed",
     "clothing_bedazzledhat desc"
   ],
   [
@@ -32831,7 +32846,7 @@
   ],
   [
     "clothing_braidedpigtails",
-    "clothing_braidedpigtails name",
+    "Gevlochten Paardenstaarten",
     "clothing_braidedpigtails desc"
   ],
   [
@@ -33211,7 +33226,7 @@
   ],
   [
     "clothing_catfloat",
-    "clothing_catfloat name",
+    "Katten Zwemband",
     "clothing_catfloat desc"
   ],
   [
@@ -33876,7 +33891,7 @@
   ],
   [
     "clothing_discohead",
-    "clothing_discohead name",
+    "Discobal Hoofd",
     "clothing_discohead desc"
   ],
   [
@@ -33983,6 +33998,11 @@
     "clothing_drsportsshirt",
     "DR Sports T-Shirt",
     "clothing_drsportsshirt desc"
+  ],
+  [
+    "clothing_ducketduckafro",
+    "Eendachtig Afro Kapsel",
+    ""
   ],
   [
     "clothing_duckethat",
@@ -34371,7 +34391,7 @@
   ],
   [
     "clothing_frillycroppedbikini",
-    "clothing_frillycroppedbikini name",
+    "Bikini met Ruches",
     "clothing_frillycroppedbikini desc"
   ],
   [
@@ -35310,6 +35330,21 @@
     ""
   ],
   [
+    "clothing_loyaltycrown_15",
+    "Vijftien jaar Kroon",
+    ""
+  ],
+  [
+    "clothing_loyaltycrown_20",
+    "Twintig jaar Kroon",
+    ""
+  ],
+  [
+    "clothing_loyaltycrown_25",
+    "Vijfentwintig jaar Kroon",
+    ""
+  ],
+  [
     "clothing_loyaltycrown_II",
     "Twee jaar Kroon",
     "clothing_loyaltycrown_II desc"
@@ -35446,7 +35481,7 @@
   ],
   [
     "clothing_manbun2",
-    "clothing_manbun2 name",
+    "Coole Knot",
     "clothing_manbun2 desc"
   ],
   [
@@ -35826,17 +35861,27 @@
   ],
   [
     "clothing_nft25balloonblue",
-    "clothing_nft25balloonblue name",
+    "Blauwe Habbo 25 jaar Ballon",
     "clothing_nft25balloonblue desc"
   ],
   [
     "clothing_nft25balloonred",
-    "clothing_nft25balloonred name",
+    "Rode Habbo 25 jaar Ballon",
     "clothing_nft25balloonred desc"
   ],
   [
+    "clothing_nft25earrings1",
+    "Blauwe Habbo 25 jaar Oorbellen",
+    ""
+  ],
+  [
+    "clothing_nft25earrings2",
+    "Roze Habbo 25 jaar Oorbellen",
+    ""
+  ],
+  [
     "clothing_nft25earrings3",
-    "clothing_nft25earrings3 name",
+    "Gouden Habbo 25 jaar Oorbellen",
     "clothing_nft25earrings3 desc"
   ],
   [
@@ -36251,7 +36296,7 @@
   ],
   [
     "clothing_nftcola",
-    "clothing_nftcola name",
+    "Habbo Cola Rugzak",
     "clothing_nftcola desc"
   ],
   [
@@ -36501,7 +36546,7 @@
   ],
   [
     "clothing_nftfrogfloat",
-    "clothing_nftfrogfloat name",
+    "Kikker Zwemband",
     "clothing_nftfrogfloat desc"
   ],
   [
@@ -36596,12 +36641,22 @@
   ],
   [
     "clothing_nfthabbo25crown",
-    "clothing_nfthabbo25crown name",
+    "Habbo 25 jaar Kroon",
     "clothing_nfthabbo25crown desc"
   ],
   [
+    "clothing_nfthabbo25necklace1",
+    "Blauwe Habbo 25 jaar Ketting",
+    ""
+  ],
+  [
+    "clothing_nfthabbo25necklace2",
+    "Roze Habbo 25 jaar Ketting",
+    ""
+  ],
+  [
     "clothing_nfthabbo25necklace3",
-    "clothing_nfthabbo25necklace3 name",
+    "Gouden Habbo 25 jaar Ketting",
     "clothing_nfthabbo25necklace3 desc"
   ],
   [
@@ -37166,27 +37221,27 @@
   ],
   [
     "clothing_nftseahorsefloat",
-    "clothing_nftseahorsefloat name",
+    "Zeepaard Zwemband",
     "clothing_nftseahorsefloat desc"
   ],
   [
     "clothing_nftseashellp1",
-    "clothing_nftseashellp1 name",
+    "Oranje Zeeschelp Ketting",
     "clothing_nftseashellp1 desc"
   ],
   [
     "clothing_nftseashellp2",
-    "clothing_nftseashellp2 name",
+    "Groene Zeeschelp Ketting",
     "clothing_nftseashellp2 desc"
   ],
   [
     "clothing_nftseashellp3",
-    "clothing_nftseashellp3 name",
+    "Paarse Zeeschelp Ketting",
     "clothing_nftseashellp3 desc"
   ],
   [
     "clothing_nftseashellp4",
-    "clothing_nftseashellp4 name",
+    "Blauwe Zeeschelp Ketting",
     "clothing_nftseashellp4 desc"
   ],
   [
@@ -38136,7 +38191,7 @@
   ],
   [
     "clothing_ombreswimtrunks",
-    "clothing_ombreswimtrunks name",
+    "Ombre Zwembroek",
     "clothing_ombreswimtrunks desc"
   ],
   [
@@ -38436,7 +38491,7 @@
   ],
   [
     "clothing_poolpartyshades",
-    "clothing_poolpartyshades name",
+    "Zwem Duikbril",
     "clothing_poolpartyshades desc"
   ],
   [
@@ -40821,7 +40876,7 @@
   ],
   [
     "clothing_r25_balloon",
-    "clothing_r25_balloon name",
+    "Habbo 25 jaar Sterballon",
     "clothing_r25_balloon desc"
   ],
   [
@@ -40881,7 +40936,7 @@
   ],
   [
     "clothing_r25_iridescentstarbag",
-    "clothing_r25_iridescentstarbag name",
+    "Pastelkleurige Sterrentas",
     "clothing_r25_iridescentstarbag desc"
   ],
   [
@@ -41481,7 +41536,7 @@
   ],
   [
     "clothing_sparklerheadband",
-    "clothing_sparklerheadband name",
+    "Sterretjes Haarband",
     "clothing_sparklerheadband desc"
   ],
   [
@@ -50055,6 +50110,11 @@
     "ducket_c25_duck desc"
   ],
   [
+    "ducket_c25_duckcake",
+    "Eend Verjaardagscupcake",
+    ""
+  ],
+  [
     "ducket_c25_ducklamp",
     "Eendenlamp",
     "ducket_c25_ducklamp desc"
@@ -50073,6 +50133,11 @@
     "ducket_c25_flowerstool",
     "Bloemige Eendenstoel",
     "ducket_c25_flowerstool desc"
+  ],
+  [
+    "ducket_c25_lilcrocexplorer",
+    "Kleine Krokodil Ontdekkingsreiziger",
+    ""
   ],
   [
     "ducket_c25_plantpot",
@@ -57435,6 +57500,26 @@
     "h25_monkeybzn_pole desc"
   ],
   [
+    "hab25_ltd25_ducky_bd",
+    "Eendjes Verkoopautomaat",
+    ""
+  ],
+  [
+    "hab25_r25_bdaycake_bd",
+    "Habbo 25 jaar Verjaardagstaart",
+    ""
+  ],
+  [
+    "hab25_r25_blackthrone_bd",
+    "Zwarte Troon",
+    ""
+  ],
+  [
+    "hab25_r25_turntable_bd",
+    "Moderne Draaitafel",
+    ""
+  ],
+  [
     "habbo15_beehive",
     "Donkerrode Toverlantaarn",
     "Met magische vuurvliegjes"
@@ -57901,12 +57986,12 @@
   ],
   [
     "habbo25_c25_balloons",
-    "habbo25_c25_balloons name",
+    "Habbo Ballonnen",
     "habbo25_c25_balloons desc"
   ],
   [
     "habbo25_c25_bdayballoon2",
-    "habbo25_c25_bdayballoon2 name",
+    "Zilveren 25 jaar Ballonnen",
     "habbo25_c25_bdayballoon2 desc"
   ],
   [
@@ -57916,7 +58001,7 @@
   ],
   [
     "habbo25_c25_bdayballoon",
-    "Bright 25 Balloons",
+    "Felle 25 jaar Ballonnen",
     "habbo25_c25_bdayballoon desc"
   ],
   [
@@ -57926,237 +58011,237 @@
   ],
   [
     "habbo25_c25_bedfloat1",
-    "habbo25_c25_bedfloat1 name",
+    " Blauw Luchtbed met kussentjes",
     "habbo25_c25_bedfloat1 desc"
   ],
   [
     "habbo25_c25_bedfloat2",
-    "habbo25_c25_bedfloat2 name",
+    "Citroen -en limegroen Luchtbed met kussentjes",
     "habbo25_c25_bedfloat2 desc"
   ],
   [
     "habbo25_c25_bedfloat3",
-    "habbo25_c25_bedfloat3 name",
+    "Roze Gestreept Luchtbed met kussentjes",
     "habbo25_c25_bedfloat3 desc"
   ],
   [
     "habbo25_c25_chairfloat1",
-    "habbo25_c25_chairfloat1 name",
+    "Limegroen en citroenkleurige Opblaasstoel ",
     "habbo25_c25_chairfloat1 desc"
   ],
   [
     "habbo25_c25_chairfloat2",
-    "habbo25_c25_chairfloat2 name",
+    "Zomerse Zon Opblaasstoel ",
     "habbo25_c25_chairfloat2 desc"
   ],
   [
     "habbo25_c25_chairfloat3",
-    "habbo25_c25_chairfloat3 name",
+    "Roze Sunset Opblaasstoel ",
     "habbo25_c25_chairfloat3 desc"
   ],
   [
     "habbo25_c25_confetti2",
-    "habbo25_c25_confetti2 name",
+    "Felgekleurde 25 Confetti",
     "habbo25_c25_confetti2 desc"
   ],
   [
     "habbo25_c25_confetti",
-    "habbo25_c25_confetti name",
+    "Metalen 25 Confetti",
     "habbo25_c25_confetti desc"
   ],
   [
     "habbo25_c25_drinksfloat1",
-    "habbo25_c25_drinksfloat1 name",
+    "Watermeloen Opblaas Drinkdienblad",
     "habbo25_c25_drinksfloat1 desc"
   ],
   [
     "habbo25_c25_drinksfloat2",
-    "habbo25_c25_drinksfloat2 name",
+    "Super Neon Opblaas Drinkdienblad",
     "habbo25_c25_drinksfloat2 desc"
   ],
   [
     "habbo25_c25_drinksfloat3",
-    "habbo25_c25_drinksfloat3 name",
+    "Super Paars Opblaas Drinkdienblad",
     "habbo25_c25_drinksfloat3 desc"
   ],
   [
     "habbo25_c25_duckfloat1",
-    "habbo25_c25_duckfloat1 name",
+    "Badeend Zwemband",
     "habbo25_c25_duckfloat1 desc"
   ],
   [
     "habbo25_c25_duckfloat2",
-    "habbo25_c25_duckfloat2 name",
+    "Vakantie Opblaaseend",
     "habbo25_c25_duckfloat2 desc"
   ],
   [
     "habbo25_c25_gator1",
-    "habbo25_c25_gator1 name",
+    "Opblaasbare Krokodil met Hartjes",
     "habbo25_c25_gator1 desc"
   ],
   [
     "habbo25_c25_gator2",
-    "habbo25_c25_gator2 name",
+    "Opblaasbare Krokodil in Regenboogkleur",
     "habbo25_c25_gator2 desc"
   ],
   [
     "habbo25_c25_icebowl",
-    "habbo25_c25_icebowl name",
+    "IJsemmer",
     "habbo25_c25_icebowl desc"
   ],
   [
     "habbo25_c25_jetski1",
-    "habbo25_c25_jetski1 name",
+    "Felgekleurde Jet Ski",
     "habbo25_c25_jetski1 desc"
   ],
   [
     "habbo25_c25_jetski2",
-    "habbo25_c25_jetski2 name",
+    "Besprinkelde Jet Ski",
     "habbo25_c25_jetski2 desc"
   ],
   [
     "habbo25_c25_lifeguardchair1",
-    "habbo25_c25_lifeguardchair1 name",
+    "Witte Strandwachtstoel",
     "habbo25_c25_lifeguardchair1 desc"
   ],
   [
     "habbo25_c25_lifeguardchair2",
-    "habbo25_c25_lifeguardchair2 name",
+    "Gele Strandwachtstoel",
     "habbo25_c25_lifeguardchair2 desc"
   ],
   [
     "habbo25_c25_lifering",
-    "habbo25_c25_lifering name",
+    "Neon Reddingsboei ",
     "habbo25_c25_lifering desc"
   ],
   [
     "habbo25_c25_mocktailglass",
-    "habbo25_c25_mocktailglass name",
+    "Mocktail Glas",
     "habbo25_c25_mocktailglass desc"
   ],
   [
     "habbo25_c25_paddleboat1",
-    "habbo25_c25_paddleboat1 name",
+    "Coole Limegroene Opblaasboot",
     "habbo25_c25_paddleboat1 desc"
   ],
   [
     "habbo25_c25_paddleboat2",
-    "habbo25_c25_paddleboat2 name",
+    "Felroze Opblaasboot",
     "habbo25_c25_paddleboat2 desc"
   ],
   [
     "habbo25_c25_paddleboat3",
-    "habbo25_c25_paddleboat3 name",
+    "Feloranje Opblaasboot",
     "habbo25_c25_paddleboat3 desc"
   ],
   [
     "habbo25_c25_palmdecor1",
-    "habbo25_c25_palmdecor1 name",
+    "Palm Deco",
     "habbo25_c25_palmdecor1 desc"
   ],
   [
     "habbo25_c25_palmdecor2",
-    "habbo25_c25_palmdecor2 name",
+    "Neon Palm Deco",
     "habbo25_c25_palmdecor2 desc"
   ],
   [
     "habbo25_c25_pearlchairfloat1",
-    "habbo25_c25_pearlchairfloat1 name",
+    "Roze Parelstoel",
     "habbo25_c25_pearlchairfloat1 desc"
   ],
   [
     "habbo25_c25_pearlchairfloat2",
-    "habbo25_c25_pearlchairfloat2 name",
+    "Keurige Parelstoel",
     "habbo25_c25_pearlchairfloat2 desc"
   ],
   [
     "habbo25_c25_photoframe1",
-    "habbo25_c25_photoframe1 name",
+    "Foto lijstje",
     "habbo25_c25_photoframe1 desc"
   ],
   [
     "habbo25_c25_photoframe2",
-    "habbo25_c25_photoframe2 name",
+    "Zomerse Fotolijst",
     "habbo25_c25_photoframe2 desc"
   ],
   [
     "habbo25_c25_poolfrank",
-    "habbo25_c25_poolfrank name",
+    "Vakantie vierende Frank Craft Tafel",
     "habbo25_c25_poolfrank desc"
   ],
   [
     "habbo25_c25_ringfloat1",
-    "habbo25_c25_ringfloat1 name",
+    "Zwemband met Sterren",
     "habbo25_c25_ringfloat1 desc"
   ],
   [
     "habbo25_c25_ringfloat2",
-    "habbo25_c25_ringfloat2 name",
+    "Watermeloen Zwemband",
     "habbo25_c25_ringfloat2 desc"
   ],
   [
     "habbo25_c25_ringfloat3",
-    "habbo25_c25_ringfloat3 name",
+    "Luipaard Zwemband",
     "habbo25_c25_ringfloat3 desc"
   ],
   [
     "habbo25_c25_sofafloat1",
-    "habbo25_c25_sofafloat1 name",
+    "Druifkleurige Opblaasbank",
     "habbo25_c25_sofafloat1 desc"
   ],
   [
     "habbo25_c25_sofafloat2",
-    "habbo25_c25_sofafloat2 name",
+    "Snoep Opblaasbank",
     "habbo25_c25_sofafloat2 desc"
   ],
   [
     "habbo25_c25_sofafloat3",
-    "habbo25_c25_sofafloat3 name",
+    "Bubblegum Opblaasbank",
     "habbo25_c25_sofafloat3 desc"
   ],
   [
     "habbo25_c25_sparkler",
-    "habbo25_c25_sparkler name",
+    "Sterretje",
     "habbo25_c25_sparkler desc"
   ],
   [
     "habbo25_c25_summerpartypenguin",
-    "habbo25_c25_summerpartypenguin name",
+    "Pool Party Pinguïn",
     "habbo25_c25_summerpartypenguin desc"
   ],
   [
     "habbo25_c25_sunlounger1",
-    "habbo25_c25_sunlounger1 name",
+    "Hotel Loungebed",
     "habbo25_c25_sunlounger1 desc"
   ],
   [
     "habbo25_c25_sunlounger2",
-    "habbo25_c25_sunlounger2 name",
+    "Warme Zomer Loungebed",
     "habbo25_c25_sunlounger2 desc"
   ],
   [
     "habbo25_c25_sunlounger3",
-    "habbo25_c25_sunlounger3 name",
+    "Coole Zomer Loungebed",
     "habbo25_c25_sunlounger3 desc"
   ],
   [
     "habbo25_c25_surfboard1",
-    "habbo25_c25_surfboard1 name",
+    "Neon Flamingo Surfboard",
     "habbo25_c25_surfboard1 desc"
   ],
   [
     "habbo25_c25_surfboard2",
-    "habbo25_c25_surfboard2 name",
+    "Neon Lucht Surfboard",
     "habbo25_c25_surfboard2 desc"
   ],
   [
     "habbo25_c25_surfboard3",
-    "habbo25_c25_surfboard3 name",
+    "Neon Zon Surfboard",
     "habbo25_c25_surfboard3 desc"
   ],
   [
     "habbo25_c25_tropicalroombg",
-    "habbo25_c25_tropicalroombg name",
+    "Tropische Bestemming",
     "habbo25_c25_tropicalroombg desc"
   ],
   [
@@ -58166,57 +58251,57 @@
   ],
   [
     "habbo25_c25_yachtback",
-    "habbo25_c25_yachtback name",
+    "Achterkant Jachtschip",
     "habbo25_c25_yachtback desc"
   ],
   [
     "habbo25_c25_yachtfront",
-    "habbo25_c25_yachtfront name",
+    "Voorkant Jachtship",
     "habbo25_c25_yachtfront desc"
   ],
   [
     "habbo25_c25_yachtmid1",
-    "habbo25_c25_yachtmid1 name",
+    "Kapiteinsplek Jachtschip",
     "habbo25_c25_yachtmid1 desc"
   ],
   [
     "habbo25_c25_yachtmid2",
-    "habbo25_c25_yachtmid2 name",
+    "Jachtschip Onderdeel",
     "habbo25_c25_yachtmid2 desc"
   ],
   [
     "habbo25_c25_yachtmid3",
-    "habbo25_c25_yachtmid3 name",
+    "Zwembad Jachtschip",
     "habbo25_c25_yachtmid3 desc"
   ],
   [
     "habbo25_ltd25_duckymachine",
-    "habbo25_ltd25_duckymachine name",
+    "Eendjes Verkoopautomaat",
     "habbo25_ltd25_duckymachine desc"
   ],
   [
     "habbo25_r25_bdaycake",
-    "habbo25_r25_bdaycake name",
+    "Habbo 25 jaar Verjaardagstaart",
     "habbo25_r25_bdaycake desc"
   ],
   [
     "habbo25_r25_blackthrone",
-    "habbo25_r25_blackthrone name",
+    "Zwarte Troon",
     "habbo25_r25_blackthrone desc"
   ],
   [
     "habbo25_r25_turntable",
-    "habbo25_r25_turntable name",
+    "Moderne Draaitafel",
     "habbo25_r25_turntable desc"
   ],
   [
     "habbo25_sc25_drinksdispenser",
-    "habbo25_sc25_drinksdispenser name",
+    "JääBoost Mini Koelkast",
     "habbo25_sc25_drinksdispenser desc"
   ],
   [
     "habbo25_sc25_goldenfountain",
-    "habbo25_sc25_goldenfountain name",
+    "Gouden Fontein",
     "habbo25_sc25_goldenfountain desc"
   ],
   [
@@ -70695,6 +70780,11 @@
     ""
   ],
   [
+    "minirare_dragonlamp_0",
+    "Oranje Mini Vuurdraak",
+    ""
+  ],
+  [
     "minirare_dragonlamp_pink",
     "Miniatuur Roze Vuurdraak",
     "minirare_dragonlamp_pink desc"
@@ -70723,6 +70813,11 @@
     "minirare_elephant_statue_3",
     "minirare_elephant_statue_3 name",
     "minirare_elephant_statue_3 desc"
+  ],
+  [
+    "minirare_elephant_statue_4",
+    "Rosé Roze Mini Olifant Standbeeld",
+    ""
   ],
   [
     "minirare_fan_0",
@@ -70961,7 +71056,7 @@
   ],
   [
     "minirare_pillow_9",
-    "minirare_pillow_9 name",
+    "Limegroene Mini Kussen",
     "minirare_pillow_9 desc"
   ],
   [
@@ -71041,7 +71136,7 @@
   ],
   [
     "minirare_scifirocket_1",
-    "minirare_scifirocket_1 name",
+    "Mosterdkleurige Mini Rookmachine",
     "minirare_scifirocket_1 desc"
   ],
   [
@@ -71093,6 +71188,11 @@
     "minirare_sleepingbag_0",
     "minirare_sleepingbag_0 name",
     "minirare_sleepingbag_0 desc"
+  ],
+  [
+    "minirare_sleepingbag_10",
+    "Kaki Mini Slaapzak",
+    ""
   ],
   [
     "minirare_sleepingbag_1",
@@ -76995,6 +77095,11 @@
     "nft_h25_haf_reddevil desc"
   ],
   [
+    "nft_h25_haf_squabble",
+    "Johnny Squabble Actiefiguur",
+    ""
+  ],
+  [
     "nft_h25_hatterfigure",
     "Hoedenmaker Collectible Poppetje",
     "nft_h25_hatterfigure desc"
@@ -77046,7 +77151,7 @@
   ],
   [
     "nft_h25_robocroc",
-    "nft_h25_robocroc name",
+    "Robotik Krokodil",
     "nft_h25_robocroc desc"
   ],
   [
@@ -78171,12 +78276,12 @@
   ],
   [
     "nft_sc25_dragonlampfloat",
-    "nft_sc25_dragonlampfloat name",
+    "Vuurdraak Zwemband",
     "nft_sc25_dragonlampfloat desc"
   ],
   [
     "nft_sc25_smallpirateboat",
-    "nft_sc25_smallpirateboat name",
+    "Opblaasbare Piratenschip",
     "nft_sc25_smallpirateboat desc"
   ],
   [
@@ -78191,12 +78296,12 @@
   ],
   [
     "nft_sc25_turtlefloat",
-    "nft_sc25_turtlefloat name",
+    "Opblaasbare Schildpad",
     "nft_sc25_turtlefloat desc"
   ],
   [
     "nft_sc25_unicornfloat",
-    "nft_sc25_unicornfloat name",
+    "Eenhoorn Zwemband",
     "nft_sc25_unicornfloat desc"
   ],
   [
@@ -86385,8 +86490,13 @@
     ""
   ],
   [
+    "rare_fan_11",
+    "Witte Hitteflipper",
+    ""
+  ],
+  [
     "rare_fountain_7",
-    "rare_fountain_7 name",
+    "Lila Fontein",
     "rare_fountain_7 desc"
   ],
   [
@@ -86407,6 +86517,11 @@
   [
     "rare_hween_r24_vintageprombd",
     "$product_rare_hween_r24_vintagepromqueen_name$",
+    ""
+  ],
+  [
+    "rare_icecream_12",
+    "Limegroene Droomijsmachine",
     ""
   ],
   [
@@ -86432,6 +86547,11 @@
   [
     "rare_parasol6_badge",
     "Zeldzame Zwarte Parasol",
+    ""
+  ],
+  [
+    "rare_parasol_5",
+    "Donkerblauwgrijskleurige Parasol",
     ""
   ],
   [
@@ -97555,6 +97675,21 @@
     "Een echte moderne woonkamer om Hygge in je leven te brengen."
   ],
   [
+    "rotating_roomdeal446_10c",
+    "Habbo Verjaardagsbundel",
+    ""
+  ],
+  [
+    "rotating_roomdeal446_d",
+    "Habbo Verjaardagsbundel",
+    ""
+  ],
+  [
+    "rotating_roomdeal446",
+    "Habbo Verjaardagsbundel",
+    "Wat een nostalgie! Pak de tissues er maar bij! Fijne verjaardag, Habbo!"
+  ],
+  [
     "rotating_roomdeal44_10c",
     "Grote Stad Kerstbundel",
     "Pak jezelf goed in en haal je schaatsen uit het vet, want in de stad die nooit slaapt wil je niet stilzitten. Inclusief een EXCLUSIEVE konijnvormige boom en 10 Credits!"
@@ -99643,6 +99778,11 @@
     "scifi_r17_cruiser",
     "Sterrenschip",
     "Ruimte voor vier Habbo ruimteverkenners."
+  ],
+  [
+    "scifiport_11",
+    "Chocoladekleurige Laserpoort",
+    ""
   ],
   [
     "sculp_r25_doveseat_bd",

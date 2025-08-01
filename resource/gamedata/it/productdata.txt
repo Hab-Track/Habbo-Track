@@ -14960,6 +14960,11 @@
     "Praticità e convenienza"
   ],
   [
+    "barrier_4",
+    "Transenna Verde Militare",
+    ""
+  ],
+  [
     "basicsportdeal",
     "Kit Sport",
     ""
@@ -32080,6 +32085,11 @@
     ""
   ],
   [
+    "cl_r25_balloon_bd",
+    "Palloncino Stella Habbo 25",
+    ""
+  ],
+  [
     "cl_r25_curlyponytail_bd",
     "Coda di Cavallo Anni '50",
     ""
@@ -32097,6 +32107,11 @@
   [
     "cl_r25_heartqueendress_bd",
     "Vestito Regina di Cuori",
+    ""
+  ],
+  [
+    "cl_r25_iridescent_bd",
+    "Borsa Stella Iridescente",
     ""
   ],
   [
@@ -33266,7 +33281,7 @@
   ],
   [
     "clothing_armfloats",
-    "clothing_armfloats name",
+    "Braccioli",
     "clothing_armfloats desc"
   ],
   [
@@ -33431,7 +33446,7 @@
   ],
   [
     "clothing_bedazzledhat",
-    "clothing_bedazzledhat name",
+    "Cappello da Cowboy con H",
     "clothing_bedazzledhat desc"
   ],
   [
@@ -33651,7 +33666,7 @@
   ],
   [
     "clothing_braidedpigtails",
-    "clothing_braidedpigtails name",
+    "Codini Intrecciati",
     "clothing_braidedpigtails desc"
   ],
   [
@@ -34031,7 +34046,7 @@
   ],
   [
     "clothing_catfloat",
-    "clothing_catfloat name",
+    "Ciambella Gonfiabile Gatto",
     "clothing_catfloat desc"
   ],
   [
@@ -34691,7 +34706,7 @@
   ],
   [
     "clothing_discohead",
-    "clothing_discohead name",
+    "Testa Sfera Disco",
     "clothing_discohead desc"
   ],
   [
@@ -34798,6 +34813,11 @@
     "clothing_drsportsshirt",
     "T-shirt DR Sports",
     "T-shirt DR Sports"
+  ],
+  [
+    "clothing_ducketduckafro",
+    "Anatroccolo Afro",
+    ""
   ],
   [
     "clothing_duckethat",
@@ -35186,7 +35206,7 @@
   ],
   [
     "clothing_frillycroppedbikini",
-    "clothing_frillycroppedbikini name",
+    "Bikini con Volant",
     "clothing_frillycroppedbikini desc"
   ],
   [
@@ -36110,6 +36130,21 @@
     ""
   ],
   [
+    "clothing_loyaltycrown_15",
+    "Corona 15 anni",
+    ""
+  ],
+  [
+    "clothing_loyaltycrown_20",
+    "Corona 20 anni",
+    ""
+  ],
+  [
+    "clothing_loyaltycrown_25",
+    "Corona 25 anni",
+    ""
+  ],
+  [
     "clothing_loyaltycrown_II",
     "Corona Due Anni",
     "clothing_loyaltycrown_II desc"
@@ -36246,7 +36281,7 @@
   ],
   [
     "clothing_manbun2",
-    "clothing_manbun2 name",
+    "Chignon Casual alla Moda",
     "clothing_manbun2 desc"
   ],
   [
@@ -36626,17 +36661,27 @@
   ],
   [
     "clothing_nft25balloonblue",
-    "clothing_nft25balloonblue name",
+    "Palloncino Habbo 25 Blu",
     "clothing_nft25balloonblue desc"
   ],
   [
     "clothing_nft25balloonred",
-    "clothing_nft25balloonred name",
+    "Palloncino Habbo 25 Rosso",
     "clothing_nft25balloonred desc"
   ],
   [
+    "clothing_nft25earrings1",
+    "Orecchini Habbo 25 Blu",
+    ""
+  ],
+  [
+    "clothing_nft25earrings2",
+    "Orecchini Habbo 25 Rosa",
+    ""
+  ],
+  [
     "clothing_nft25earrings3",
-    "clothing_nft25earrings3 name",
+    "Orecchini Habbo 25 Oro",
     "clothing_nft25earrings3 desc"
   ],
   [
@@ -37051,7 +37096,7 @@
   ],
   [
     "clothing_nftcola",
-    "clothing_nftcola name",
+    "Zaino Habbo Cola",
     "clothing_nftcola desc"
   ],
   [
@@ -37301,7 +37346,7 @@
   ],
   [
     "clothing_nftfrogfloat",
-    "clothing_nftfrogfloat name",
+    "Ciambella Gonfiabile Rana",
     "clothing_nftfrogfloat desc"
   ],
   [
@@ -37396,12 +37441,22 @@
   ],
   [
     "clothing_nfthabbo25crown",
-    "clothing_nfthabbo25crown name",
+    "Corona Habbo 25",
     "clothing_nfthabbo25crown desc"
   ],
   [
+    "clothing_nfthabbo25necklace1",
+    "Collana Habbo 25 Blu",
+    ""
+  ],
+  [
+    "clothing_nfthabbo25necklace2",
+    "Collana Habbo 25 Rosa",
+    ""
+  ],
+  [
     "clothing_nfthabbo25necklace3",
-    "clothing_nfthabbo25necklace3 name",
+    "Collana Habbo 25 Oro",
     "clothing_nfthabbo25necklace3 desc"
   ],
   [
@@ -37966,27 +38021,27 @@
   ],
   [
     "clothing_nftseahorsefloat",
-    "clothing_nftseahorsefloat name",
+    "Ciambella Gonfiabile Cavalluccio Marino",
     "clothing_nftseahorsefloat desc"
   ],
   [
     "clothing_nftseashellp1",
-    "clothing_nftseashellp1 name",
+    "Collana con Conchiglia Arancione",
     "clothing_nftseashellp1 desc"
   ],
   [
     "clothing_nftseashellp2",
-    "clothing_nftseashellp2 name",
+    "Collana con Conchiglia Verde",
     "clothing_nftseashellp2 desc"
   ],
   [
     "clothing_nftseashellp3",
-    "clothing_nftseashellp3 name",
+    "Collana con Conchiglia Viola",
     "clothing_nftseashellp3 desc"
   ],
   [
     "clothing_nftseashellp4",
-    "clothing_nftseashellp4 name",
+    "Collana con Conchiglia Blu",
     "clothing_nftseashellp4 desc"
   ],
   [
@@ -38936,7 +38991,7 @@
   ],
   [
     "clothing_ombreswimtrunks",
-    "clothing_ombreswimtrunks name",
+    "Costume Sfumato",
     "clothing_ombreswimtrunks desc"
   ],
   [
@@ -39236,7 +39291,7 @@
   ],
   [
     "clothing_poolpartyshades",
-    "clothing_poolpartyshades name",
+    "Occhiali da Festa in Piscina",
     "clothing_poolpartyshades desc"
   ],
   [
@@ -41621,7 +41676,7 @@
   ],
   [
     "clothing_r25_balloon",
-    "clothing_r25_balloon name",
+    "Palloncino Stella Habbo 25",
     "clothing_r25_balloon desc"
   ],
   [
@@ -41681,7 +41736,7 @@
   ],
   [
     "clothing_r25_iridescentstarbag",
-    "clothing_r25_iridescentstarbag name",
+    "Borsa Stella Iridescente",
     "clothing_r25_iridescentstarbag desc"
   ],
   [
@@ -42281,7 +42336,7 @@
   ],
   [
     "clothing_sparklerheadband",
-    "clothing_sparklerheadband name",
+    "Fascia con Scintille",
     "clothing_sparklerheadband desc"
   ],
   [
@@ -50325,6 +50380,11 @@
     "ducket_c25_duck desc"
   ],
   [
+    "ducket_c25_duckcake",
+    "Cupcake Anatroccolo di Compleanno",
+    ""
+  ],
+  [
     "ducket_c25_ducklamp",
     "Lampada Anatroccolosa",
     "ducket_c25_ducklamp desc"
@@ -50343,6 +50403,11 @@
     "ducket_c25_flowerstool",
     "Sgabello Floreale Ducket",
     "ducket_c25_flowerstool desc"
+  ],
+  [
+    "ducket_c25_lilcrocexplorer",
+    "Piccolo Coccodrillo Esploratore",
+    ""
   ],
   [
     "ducket_c25_plantpot",
@@ -57655,6 +57720,26 @@
     "h25_monkeybzn_pole desc"
   ],
   [
+    "hab25_ltd25_ducky_bd",
+    "Distributore Automatico di Anatroccoli",
+    ""
+  ],
+  [
+    "hab25_r25_bdaycake_bd",
+    "Torta di Compleanno Habbo 25",
+    ""
+  ],
+  [
+    "hab25_r25_blackthrone_bd",
+    "Trono Nero",
+    ""
+  ],
+  [
+    "hab25_r25_turntable_bd",
+    "Giradischi Moderno",
+    ""
+  ],
+  [
     "habbo15_beehive",
     "Lampada di Ambra Marrone",
     "Solo con questo sarai capace di vedere la verità"
@@ -58121,12 +58206,12 @@
   ],
   [
     "habbo25_c25_balloons",
-    "habbo25_c25_balloons name",
+    "Palloncini Habbo",
     "habbo25_c25_balloons desc"
   ],
   [
     "habbo25_c25_bdayballoon2",
-    "habbo25_c25_bdayballoon2 name",
+    "Palloncini Argento 25",
     "habbo25_c25_bdayballoon2 desc"
   ],
   [
@@ -58136,7 +58221,7 @@
   ],
   [
     "habbo25_c25_bdayballoon",
-    "Bright 25 Balloons",
+    "Palloncini Brillanti 25",
     "habbo25_c25_bdayballoon desc"
   ],
   [
@@ -58146,237 +58231,237 @@
   ],
   [
     "habbo25_c25_bedfloat1",
-    "habbo25_c25_bedfloat1 name",
+    "Materassino a Scacchi Blu",
     "habbo25_c25_bedfloat1 desc"
   ],
   [
     "habbo25_c25_bedfloat2",
-    "habbo25_c25_bedfloat2 name",
+    "Materassino Limone e Lime",
     "habbo25_c25_bedfloat2 desc"
   ],
   [
     "habbo25_c25_bedfloat3",
-    "habbo25_c25_bedfloat3 name",
+    "Materassino a Strisce Rosa",
     "habbo25_c25_bedfloat3 desc"
   ],
   [
     "habbo25_c25_chairfloat1",
-    "habbo25_c25_chairfloat1 name",
+    "Poltrona Galleggiante Limone e Lime",
     "habbo25_c25_chairfloat1 desc"
   ],
   [
     "habbo25_c25_chairfloat2",
-    "habbo25_c25_chairfloat2 name",
+    "Poltrona Galleggiante Estiva",
     "habbo25_c25_chairfloat2 desc"
   ],
   [
     "habbo25_c25_chairfloat3",
-    "habbo25_c25_chairfloat3 name",
+    "Poltrona Galleggiante Rosa Tramonto",
     "habbo25_c25_chairfloat3 desc"
   ],
   [
     "habbo25_c25_confetti2",
-    "habbo25_c25_confetti2 name",
+    "Coriandoli Luminosi 25",
     "habbo25_c25_confetti2 desc"
   ],
   [
     "habbo25_c25_confetti",
-    "habbo25_c25_confetti name",
+    "Coriandoli Metallizzati 25",
     "habbo25_c25_confetti desc"
   ],
   [
     "habbo25_c25_drinksfloat1",
-    "habbo25_c25_drinksfloat1 name",
+    "Galleggiante per Drink color Cocomero",
     "habbo25_c25_drinksfloat1 desc"
   ],
   [
     "habbo25_c25_drinksfloat2",
-    "habbo25_c25_drinksfloat2 name",
+    "Galleggiante per Drink Super Neon",
     "habbo25_c25_drinksfloat2 desc"
   ],
   [
     "habbo25_c25_drinksfloat3",
-    "habbo25_c25_drinksfloat3 name",
+    "Galleggiante per Drink Super Viola",
     "habbo25_c25_drinksfloat3 desc"
   ],
   [
     "habbo25_c25_duckfloat1",
-    "habbo25_c25_duckfloat1 name",
+    "Ciambella Anatroccolo",
     "habbo25_c25_duckfloat1 desc"
   ],
   [
     "habbo25_c25_duckfloat2",
-    "habbo25_c25_duckfloat2 name",
+    "Anatroccolo Galleggiante da Vacanza",
     "habbo25_c25_duckfloat2 desc"
   ],
   [
     "habbo25_c25_gator1",
-    "habbo25_c25_gator1 name",
+    "Coccodrillo con Cuori Gonfiabile",
     "habbo25_c25_gator1 desc"
   ],
   [
     "habbo25_c25_gator2",
-    "habbo25_c25_gator2 name",
+    "Coccodrillo Arcobaleno Gonfiabile",
     "habbo25_c25_gator2 desc"
   ],
   [
     "habbo25_c25_icebowl",
-    "habbo25_c25_icebowl name",
+    "Ciotola di Ghiaccio",
     "habbo25_c25_icebowl desc"
   ],
   [
     "habbo25_c25_jetski1",
-    "habbo25_c25_jetski1 name",
+    "Moto ad Acqua con Blocchi di Colore",
     "habbo25_c25_jetski1 desc"
   ],
   [
     "habbo25_c25_jetski2",
-    "habbo25_c25_jetski2 name",
+    "Moto ad Acqua con Trucioli Colorati",
     "habbo25_c25_jetski2 desc"
   ],
   [
     "habbo25_c25_lifeguardchair1",
-    "habbo25_c25_lifeguardchair1 name",
+    "Sedia da Bagnino Leggera",
     "habbo25_c25_lifeguardchair1 desc"
   ],
   [
     "habbo25_c25_lifeguardchair2",
-    "habbo25_c25_lifeguardchair2 name",
+    "Sedia da Bagnino Gialla",
     "habbo25_c25_lifeguardchair2 desc"
   ],
   [
     "habbo25_c25_lifering",
-    "habbo25_c25_lifering name",
+    "Ciambella Salvagente Neon",
     "habbo25_c25_lifering desc"
   ],
   [
     "habbo25_c25_mocktailglass",
-    "habbo25_c25_mocktailglass name",
+    "Bicchiere per Mocktail",
     "habbo25_c25_mocktailglass desc"
   ],
   [
     "habbo25_c25_paddleboat1",
-    "habbo25_c25_paddleboat1 name",
+    "Pedalò Color Lime Cool",
     "habbo25_c25_paddleboat1 desc"
   ],
   [
     "habbo25_c25_paddleboat2",
-    "habbo25_c25_paddleboat2 name",
+    "Pedalò Rosa",
     "habbo25_c25_paddleboat2 desc"
   ],
   [
     "habbo25_c25_paddleboat3",
-    "habbo25_c25_paddleboat3 name",
+    "Pedalò Arancione",
     "habbo25_c25_paddleboat3 desc"
   ],
   [
     "habbo25_c25_palmdecor1",
-    "habbo25_c25_palmdecor1 name",
+    "Palma Decorativa",
     "habbo25_c25_palmdecor1 desc"
   ],
   [
     "habbo25_c25_palmdecor2",
-    "habbo25_c25_palmdecor2 name",
+    "Decorazione Neon a forma di Palma",
     "habbo25_c25_palmdecor2 desc"
   ],
   [
     "habbo25_c25_pearlchairfloat1",
-    "habbo25_c25_pearlchairfloat1 name",
+    "Perla Rosa Galleggiante",
     "habbo25_c25_pearlchairfloat1 desc"
   ],
   [
     "habbo25_c25_pearlchairfloat2",
-    "habbo25_c25_pearlchairfloat2 name",
+    "Perla Iridescente Galleggiante",
     "habbo25_c25_pearlchairfloat2 desc"
   ],
   [
     "habbo25_c25_photoframe1",
-    "habbo25_c25_photoframe1 name",
+    "Cornice",
     "habbo25_c25_photoframe1 desc"
   ],
   [
     "habbo25_c25_photoframe2",
-    "habbo25_c25_photoframe2 name",
+    "Cornice Luminosa",
     "habbo25_c25_photoframe2 desc"
   ],
   [
     "habbo25_c25_poolfrank",
-    "habbo25_c25_poolfrank name",
+    "Tavolo del Crafting di Frank in Vacanza",
     "habbo25_c25_poolfrank desc"
   ],
   [
     "habbo25_c25_ringfloat1",
-    "habbo25_c25_ringfloat1 name",
+    "Ciambella Gonfiabile con Stelle",
     "habbo25_c25_ringfloat1 desc"
   ],
   [
     "habbo25_c25_ringfloat2",
-    "habbo25_c25_ringfloat2 name",
+    "Ciambella Gonfiabile Cocomero",
     "habbo25_c25_ringfloat2 desc"
   ],
   [
     "habbo25_c25_ringfloat3",
-    "habbo25_c25_ringfloat3 name",
+    "Ciambella Gonfiabile Leopardata",
     "habbo25_c25_ringfloat3 desc"
   ],
   [
     "habbo25_c25_sofafloat1",
-    "habbo25_c25_sofafloat1 name",
+    "Divano Galleggiante color Uva",
     "habbo25_c25_sofafloat1 desc"
   ],
   [
     "habbo25_c25_sofafloat2",
-    "habbo25_c25_sofafloat2 name",
+    "Divano Galleggiante color Caramella",
     "habbo25_c25_sofafloat2 desc"
   ],
   [
     "habbo25_c25_sofafloat3",
-    "habbo25_c25_sofafloat3 name",
+    "Divano Galleggiante Bubblegum",
     "habbo25_c25_sofafloat3 desc"
   ],
   [
     "habbo25_c25_sparkler",
-    "habbo25_c25_sparkler name",
+    "Bengala Luminoso",
     "habbo25_c25_sparkler desc"
   ],
   [
     "habbo25_c25_summerpartypenguin",
-    "habbo25_c25_summerpartypenguin name",
+    "Pinguino da Festa in Piscina",
     "habbo25_c25_summerpartypenguin desc"
   ],
   [
     "habbo25_c25_sunlounger1",
-    "habbo25_c25_sunlounger1 name",
+    "Lettino da Hotel",
     "habbo25_c25_sunlounger1 desc"
   ],
   [
     "habbo25_c25_sunlounger2",
-    "habbo25_c25_sunlounger2 name",
+    "Comoda Sdraio Estiva",
     "habbo25_c25_sunlounger2 desc"
   ],
   [
     "habbo25_c25_sunlounger3",
-    "habbo25_c25_sunlounger3 name",
+    "Comoda Sdraio Cool",
     "habbo25_c25_sunlounger3 desc"
   ],
   [
     "habbo25_c25_surfboard1",
-    "habbo25_c25_surfboard1 name",
+    "Tavola da Surf con Fenicottero Neon",
     "habbo25_c25_surfboard1 desc"
   ],
   [
     "habbo25_c25_surfboard2",
-    "habbo25_c25_surfboard2 name",
+    "Tavola da Surf con Cielo Neon",
     "habbo25_c25_surfboard2 desc"
   ],
   [
     "habbo25_c25_surfboard3",
-    "habbo25_c25_surfboard3 name",
+    "Tavola da Surf con Sole Neon",
     "habbo25_c25_surfboard3 desc"
   ],
   [
     "habbo25_c25_tropicalroombg",
-    "habbo25_c25_tropicalroombg name",
+    "Destinazione Tropicale",
     "habbo25_c25_tropicalroombg desc"
   ],
   [
@@ -58386,57 +58471,57 @@
   ],
   [
     "habbo25_c25_yachtback",
-    "habbo25_c25_yachtback name",
+    "Parte Posteriore dello Yacht",
     "habbo25_c25_yachtback desc"
   ],
   [
     "habbo25_c25_yachtfront",
-    "habbo25_c25_yachtfront name",
+    "Parte Anteriore dello Yacht",
     "habbo25_c25_yachtfront desc"
   ],
   [
     "habbo25_c25_yachtmid1",
-    "habbo25_c25_yachtmid1 name",
+    "Zona di Comando dello Yacht",
     "habbo25_c25_yachtmid1 desc"
   ],
   [
     "habbo25_c25_yachtmid2",
-    "habbo25_c25_yachtmid2 name",
+    "Parte dello Yacht",
     "habbo25_c25_yachtmid2 desc"
   ],
   [
     "habbo25_c25_yachtmid3",
-    "habbo25_c25_yachtmid3 name",
+    "Parte della Piscina dello Yacht",
     "habbo25_c25_yachtmid3 desc"
   ],
   [
     "habbo25_ltd25_duckymachine",
-    "habbo25_ltd25_duckymachine name",
+    "Distributore Automatico di Anatroccoli",
     "habbo25_ltd25_duckymachine desc"
   ],
   [
     "habbo25_r25_bdaycake",
-    "habbo25_r25_bdaycake name",
+    "Torta di Compleanno Habbo 25",
     "habbo25_r25_bdaycake desc"
   ],
   [
     "habbo25_r25_blackthrone",
-    "habbo25_r25_blackthrone name",
+    "Trono Nero",
     "habbo25_r25_blackthrone desc"
   ],
   [
     "habbo25_r25_turntable",
-    "habbo25_r25_turntable name",
+    "Giradischi Moderno",
     "habbo25_r25_turntable desc"
   ],
   [
     "habbo25_sc25_drinksdispenser",
-    "habbo25_sc25_drinksdispenser name",
+    "Mini frigo JääBoost",
     "habbo25_sc25_drinksdispenser desc"
   ],
   [
     "habbo25_sc25_goldenfountain",
-    "habbo25_sc25_goldenfountain name",
+    "Fontana Dorata",
     "habbo25_sc25_goldenfountain desc"
   ],
   [
@@ -70985,6 +71070,11 @@
     ""
   ],
   [
+    "minirare_dragonlamp_0",
+    "Mini Lampada Drago Arancione",
+    ""
+  ],
+  [
     "minirare_dragonlamp_pink",
     "Lampada del Drago Rosa in Miniatura ",
     "minirare_dragonlamp_pink desc"
@@ -71013,6 +71103,11 @@
     "minirare_elephant_statue_3",
     "minirare_elephant_statue_3 name",
     "minirare_elephant_statue_3 desc"
+  ],
+  [
+    "minirare_elephant_statue_4",
+    "Mini Statua Elefante Rosa",
+    ""
   ],
   [
     "minirare_fan_0",
@@ -71251,7 +71346,7 @@
   ],
   [
     "minirare_pillow_9",
-    "minirare_pillow_9 name",
+    "Mini Cuscino Verde Lime",
     "minirare_pillow_9 desc"
   ],
   [
@@ -71331,7 +71426,7 @@
   ],
   [
     "minirare_scifirocket_1",
-    "minirare_scifirocket_1 name",
+    "Mini Macchina del Fumo Senape",
     "minirare_scifirocket_1 desc"
   ],
   [
@@ -71383,6 +71478,11 @@
     "minirare_sleepingbag_0",
     "minirare_sleepingbag_0 name",
     "minirare_sleepingbag_0 desc"
+  ],
+  [
+    "minirare_sleepingbag_10",
+    "Mini Sacco a Pelo Khaki",
+    ""
   ],
   [
     "minirare_sleepingbag_1",
@@ -77285,6 +77385,11 @@
     "nft_h25_haf_reddevil desc"
   ],
   [
+    "nft_h25_haf_squabble",
+    "Figura d'Azione Johnny Squabble",
+    ""
+  ],
+  [
     "nft_h25_hatterfigure",
     "Figura da Collezione Cappellaio",
     "nft_h25_hatterfigure desc"
@@ -77336,7 +77441,7 @@
   ],
   [
     "nft_h25_robocroc",
-    "nft_h25_robocroc name",
+    "Coccodrillo Robotik",
     "nft_h25_robocroc desc"
   ],
   [
@@ -78461,12 +78566,12 @@
   ],
   [
     "nft_sc25_dragonlampfloat",
-    "nft_sc25_dragonlampfloat name",
+    "Lampada Drago gonfiabile",
     "nft_sc25_dragonlampfloat desc"
   ],
   [
     "nft_sc25_smallpirateboat",
-    "nft_sc25_smallpirateboat name",
+    "Nave Pirata Galleggiante",
     "nft_sc25_smallpirateboat desc"
   ],
   [
@@ -78481,12 +78586,12 @@
   ],
   [
     "nft_sc25_turtlefloat",
-    "nft_sc25_turtlefloat name",
+    "Tartaruga gonfiabile",
     "nft_sc25_turtlefloat desc"
   ],
   [
     "nft_sc25_unicornfloat",
-    "nft_sc25_unicornfloat name",
+    "Unicorno gonfiabile",
     "nft_sc25_unicornfloat desc"
   ],
   [
@@ -86655,8 +86760,13 @@
     ""
   ],
   [
+    "rare_fan_11",
+    "Ventilatore Bianco",
+    ""
+  ],
+  [
     "rare_fountain_7",
-    "rare_fountain_7 name",
+    "Fontana Lilla",
     "rare_fountain_7 desc"
   ],
   [
@@ -86677,6 +86787,11 @@
   [
     "rare_hween_r24_vintageprombd",
     "$product_rare_hween_r24_vintagepromqueen_name$",
+    ""
+  ],
+  [
+    "rare_icecream_12",
+    "Macchina del Gelato Verde Lime",
     ""
   ],
   [
@@ -86702,6 +86817,11 @@
   [
     "rare_parasol6_badge",
     "Ombrellone Nero Raro",
+    ""
+  ],
+  [
+    "rare_parasol_5",
+    "Ombrellone Blu Scuro e Grigio",
     ""
   ],
   [
@@ -97800,6 +97920,21 @@
     "Un salotto davvero moderno per portare Hygge nella tua vita."
   ],
   [
+    "rotating_roomdeal446_10c",
+    "Affare Stanza Anniversario di Habbo",
+    ""
+  ],
+  [
+    "rotating_roomdeal446_d",
+    "Affare Stanza Anniversario di Habbo",
+    ""
+  ],
+  [
+    "rotating_roomdeal446",
+    "Affare Stanza Anniversario di Habbo",
+    "Ci sentiamo così nostalgici che potremmo piangere. Buon anniversario, Habbo!"
+  ],
+  [
     "rotating_roomdeal44_10c",
     "Big City Christmas Bundle",
     "Copriti bene e indossa i tuoi pattini da ghiaccio, non vorrai mica stare seduto nella città che non dorme mai! UN NUOVO ESCLUSIVO Coniglio Cespuglio Incluso! Include 10 Crediti"
@@ -99907,6 +100042,11 @@
   [
     "scifi_r17_cruiser",
     "Navetta Interstellare",
+    ""
+  ],
+  [
+    "scifiport_11",
+    "Porta Laser Cioccolato",
     ""
   ],
   [
