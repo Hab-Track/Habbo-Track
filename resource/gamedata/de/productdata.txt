@@ -14457,7 +14457,7 @@
   [
     "barrier_4",
     "Militärgrüne Strassensperre",
-    ""
+    "barrier_4 desc"
   ],
   [
     "bathroom_bath1",
@@ -34282,7 +34282,7 @@
   [
     "clothing_ducketduckafro",
     "Entenafro",
-    ""
+    "clothing_ducketduckafro desc"
   ],
   [
     "clothing_duckethat",
@@ -35607,17 +35607,17 @@
   [
     "clothing_loyaltycrown_15",
     "Fünfzehn Jahre-Krone",
-    ""
+    "clothing_loyaltycrown_15 desc"
   ],
   [
     "clothing_loyaltycrown_20",
     "Zwanzig -Jahres-Krone",
-    ""
+    "clothing_loyaltycrown_20 desc"
   ],
   [
     "clothing_loyaltycrown_25",
     "Fünfundzwanzig -Jahres-Krone",
-    ""
+    "clothing_loyaltycrown_25 desc"
   ],
   [
     "clothing_loyaltycrown_II",
@@ -49442,7 +49442,7 @@
   [
     "ducket_c25_duckcake",
     "Entengeburtstags-Cupcake",
-    ""
+    "ducket_c25_duckcake desc"
   ],
   [
     "ducket_c25_ducklamp",
@@ -49467,7 +49467,7 @@
   [
     "ducket_c25_lilcrocexplorer",
     "Kleiner Krokodilentdecker",
-    ""
+    "ducket_c25_lilcrocexplorer desc"
   ],
   [
     "ducket_c25_plantpot",
@@ -55916,7 +55916,7 @@
   ],
   [
     "giftbox_c25_crackable3",
-    "giftbox_c25_crackable3 name",
+    "#Habbo25 Gift Boxes",
     "giftbox_c25_crackable3 desc"
   ],
   [
@@ -70062,7 +70062,7 @@
   [
     "minirare_dragonlamp_0",
     "Orange Mini-Drachenlampe",
-    ""
+    "minirare_dragonlamp_0 desc"
   ],
   [
     "minirare_dragonlamp_pink",
@@ -70097,7 +70097,7 @@
   [
     "minirare_elephant_statue_4",
     "Rosé Mini-Elefantenstatue",
-    ""
+    "minirare_elephant_statue_4 desc"
   ],
   [
     "minirare_fan_0",
@@ -70290,6 +70290,11 @@
     "minirare_pillow_10 desc"
   ],
   [
+    "minirare_pillow_11",
+    "minirare_pillow_11 name",
+    "minirare_pillow_11 desc"
+  ],
+  [
     "minirare_pillow_1",
     "Rosarotes Miniaturkissen",
     "minirare_pillow_1 desc"
@@ -70472,7 +70477,7 @@
   [
     "minirare_sleepingbag_10",
     "Khaki Mini-Schlafsack",
-    ""
+    "minirare_sleepingbag_10 desc"
   ],
   [
     "minirare_sleepingbag_1",
@@ -85782,7 +85787,7 @@
   [
     "rare_fan_11",
     "Weisser Ventilator",
-    ""
+    "rare_fan_11 desc"
   ],
   [
     "rare_fountain_7",
@@ -85812,7 +85817,7 @@
   [
     "rare_icecream_12",
     "Lindgrüner Eisautomat",
-    ""
+    "rare_icecream_12 desc"
   ],
   [
     "rare_icecream_5_bd",
@@ -85842,7 +85847,7 @@
   [
     "rare_parasol_5",
     "Dunkelblau-grauer Sonnenschirm",
-    ""
+    "rare_parasol_5 desc"
   ],
   [
     "rare_pbag_1",
@@ -99057,7 +99062,7 @@
   [
     "scifiport_11",
     "Schoko Laserportal",
-    ""
+    "scifiport_11 desc"
   ],
   [
     "sculp_r25_doveseat_bd",

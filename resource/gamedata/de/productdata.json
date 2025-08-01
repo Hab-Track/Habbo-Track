@@ -14459,7 +14459,7 @@
       {
         "code": "barrier_4",
         "name": "Militärgrüne Strassensperre",
-        "description": ""
+        "description": "barrier_4 desc"
       },
       {
         "code": "bathroom_bath1",
@@ -34284,7 +34284,7 @@
       {
         "code": "clothing_ducketduckafro",
         "name": "Entenafro",
-        "description": ""
+        "description": "clothing_ducketduckafro desc"
       },
       {
         "code": "clothing_duckethat",
@@ -35609,17 +35609,17 @@
       {
         "code": "clothing_loyaltycrown_15",
         "name": "Fünfzehn Jahre-Krone",
-        "description": ""
+        "description": "clothing_loyaltycrown_15 desc"
       },
       {
         "code": "clothing_loyaltycrown_20",
         "name": "Zwanzig -Jahres-Krone",
-        "description": ""
+        "description": "clothing_loyaltycrown_20 desc"
       },
       {
         "code": "clothing_loyaltycrown_25",
         "name": "Fünfundzwanzig -Jahres-Krone",
-        "description": ""
+        "description": "clothing_loyaltycrown_25 desc"
       },
       {
         "code": "clothing_loyaltycrown_II",
@@ -49444,7 +49444,7 @@
       {
         "code": "ducket_c25_duckcake",
         "name": "Entengeburtstags-Cupcake",
-        "description": ""
+        "description": "ducket_c25_duckcake desc"
       },
       {
         "code": "ducket_c25_ducklamp",
@@ -49469,7 +49469,7 @@
       {
         "code": "ducket_c25_lilcrocexplorer",
         "name": "Kleiner Krokodilentdecker",
-        "description": ""
+        "description": "ducket_c25_lilcrocexplorer desc"
       },
       {
         "code": "ducket_c25_plantpot",
@@ -55918,7 +55918,7 @@
       },
       {
         "code": "giftbox_c25_crackable3",
-        "name": "giftbox_c25_crackable3 name",
+        "name": "#Habbo25 Gift Boxes",
         "description": "giftbox_c25_crackable3 desc"
       },
       {
@@ -70064,7 +70064,7 @@
       {
         "code": "minirare_dragonlamp_0",
         "name": "Orange Mini-Drachenlampe",
-        "description": ""
+        "description": "minirare_dragonlamp_0 desc"
       },
       {
         "code": "minirare_dragonlamp_pink",
@@ -70099,7 +70099,7 @@
       {
         "code": "minirare_elephant_statue_4",
         "name": "Rosé Mini-Elefantenstatue",
-        "description": ""
+        "description": "minirare_elephant_statue_4 desc"
       },
       {
         "code": "minirare_fan_0",
@@ -70292,6 +70292,11 @@
         "description": "minirare_pillow_10 desc"
       },
       {
+        "code": "minirare_pillow_11",
+        "name": "minirare_pillow_11 name",
+        "description": "minirare_pillow_11 desc"
+      },
+      {
         "code": "minirare_pillow_1",
         "name": "Rosarotes Miniaturkissen",
         "description": "minirare_pillow_1 desc"
@@ -70474,7 +70479,7 @@
       {
         "code": "minirare_sleepingbag_10",
         "name": "Khaki Mini-Schlafsack",
-        "description": ""
+        "description": "minirare_sleepingbag_10 desc"
       },
       {
         "code": "minirare_sleepingbag_1",
@@ -85784,7 +85789,7 @@
       {
         "code": "rare_fan_11",
         "name": "Weisser Ventilator",
-        "description": ""
+        "description": "rare_fan_11 desc"
       },
       {
         "code": "rare_fountain_7",
@@ -85814,7 +85819,7 @@
       {
         "code": "rare_icecream_12",
         "name": "Lindgrüner Eisautomat",
-        "description": ""
+        "description": "rare_icecream_12 desc"
       },
       {
         "code": "rare_icecream_5_bd",
@@ -85844,7 +85849,7 @@
       {
         "code": "rare_parasol_5",
         "name": "Dunkelblau-grauer Sonnenschirm",
-        "description": ""
+        "description": "rare_parasol_5 desc"
       },
       {
         "code": "rare_pbag_1",
@@ -99059,7 +99064,7 @@
       {
         "code": "scifiport_11",
         "name": "Schoko Laserportal",
-        "description": ""
+        "description": "scifiport_11 desc"
       },
       {
         "code": "sculp_r25_doveseat_bd",

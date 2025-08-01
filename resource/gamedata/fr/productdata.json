@@ -12597,6 +12597,26 @@
         "description": ""
       },
       {
+        "code": "augbattle1",
+        "name": "Battle Ball Prize 1",
+        "description": ""
+      },
+      {
+        "code": "augbattle2",
+        "name": "Battle Ball Prize 2",
+        "description": ""
+      },
+      {
+        "code": "augprize10",
+        "name": "Bday Prize 10",
+        "description": ""
+      },
+      {
+        "code": "augprize11",
+        "name": "Crafting Quest Prize",
+        "description": ""
+      },
+      {
         "code": "augprize12",
         "name": "Collectible Set Quest Prize",
         "description": ""
@@ -14329,7 +14349,7 @@
       {
         "code": "barrier_4",
         "name": "Barrière routière de Army Green",
-        "description": ""
+        "description": "barrier_4 desc"
       },
       {
         "code": "bathroom_bath1",
@@ -26398,7 +26418,7 @@
       },
       {
         "code": "bdaypass25_bd",
-        "name": "Birthday Pass",
+        "name": "Pack anniversaire !",
         "description": ""
       },
       {
@@ -34169,7 +34189,7 @@
       {
         "code": "clothing_ducketduckafro",
         "name": "Afro canard",
-        "description": ""
+        "description": "clothing_ducketduckafro desc"
       },
       {
         "code": "clothing_duckethat",
@@ -35489,17 +35509,17 @@
       {
         "code": "clothing_loyaltycrown_15",
         "name": "Couronne quinze ans",
-        "description": ""
+        "description": "clothing_loyaltycrown_15 desc"
       },
       {
         "code": "clothing_loyaltycrown_20",
         "name": "Couronne vingt ans",
-        "description": ""
+        "description": "clothing_loyaltycrown_20 desc"
       },
       {
         "code": "clothing_loyaltycrown_25",
         "name": "Couronne vingt-cinq ans",
-        "description": ""
+        "description": "clothing_loyaltycrown_25 desc"
       },
       {
         "code": "clothing_loyaltycrown_II",
@@ -48544,7 +48564,7 @@
       {
         "code": "ducket_c25_duckcake",
         "name": "Cupcake d'anniversaire canard",
-        "description": ""
+        "description": "ducket_c25_duckcake desc"
       },
       {
         "code": "ducket_c25_ducklamp",
@@ -48569,7 +48589,7 @@
       {
         "code": "ducket_c25_lilcrocexplorer",
         "name": "Explorateur Lil Croc",
-        "description": ""
+        "description": "ducket_c25_lilcrocexplorer desc"
       },
       {
         "code": "ducket_c25_plantpot",
@@ -55068,7 +55088,7 @@
       },
       {
         "code": "giftbox_c25_crackable3",
-        "name": "giftbox_c25_crackable3 name",
+        "name": "#Habbo25 Gift Boxes",
         "description": "giftbox_c25_crackable3 desc"
       },
       {
@@ -69124,7 +69144,7 @@
       {
         "code": "minirare_dragonlamp_0",
         "name": "Mini-lampe dragon orange",
-        "description": ""
+        "description": "minirare_dragonlamp_0 desc"
       },
       {
         "code": "minirare_dragonlamp_pink",
@@ -69159,7 +69179,7 @@
       {
         "code": "minirare_elephant_statue_4",
         "name": "Statue Mini éléphant rose",
-        "description": ""
+        "description": "minirare_elephant_statue_4 desc"
       },
       {
         "code": "minirare_fan_0",
@@ -69352,6 +69372,11 @@
         "description": "minirare_pillow_10 desc"
       },
       {
+        "code": "minirare_pillow_11",
+        "name": "minirare_pillow_11 name",
+        "description": "minirare_pillow_11 desc"
+      },
+      {
         "code": "minirare_pillow_1",
         "name": "minirare_pillow_1 name",
         "description": "minirare_pillow_1 desc"
@@ -69534,7 +69559,7 @@
       {
         "code": "minirare_sleepingbag_10",
         "name": "Mini-sac de couchage kaki",
-        "description": ""
+        "description": "minirare_sleepingbag_10 desc"
       },
       {
         "code": "minirare_sleepingbag_1",
@@ -84739,7 +84764,7 @@
       {
         "code": "rare_fan_11",
         "name": "Ventilateur à moteur blanc",
-        "description": ""
+        "description": "rare_fan_11 desc"
       },
       {
         "code": "rare_fountain_7",
@@ -84769,7 +84794,7 @@
       {
         "code": "rare_icecream_12",
         "name": "Sorbetière glace vert citron",
-        "description": ""
+        "description": "rare_icecream_12 desc"
       },
       {
         "code": "rare_icecream_5_bd",
@@ -84799,7 +84824,7 @@
       {
         "code": "rare_parasol_5",
         "name": "Parasol gris bleu foncé",
-        "description": ""
+        "description": "rare_parasol_5 desc"
       },
       {
         "code": "rare_pbag_1",
@@ -97989,7 +98014,7 @@
       {
         "code": "scifiport_11",
         "name": "Portail Laser Choco",
-        "description": ""
+        "description": "scifiport_11 desc"
       },
       {
         "code": "sculp_r25_doveseat_bd",
