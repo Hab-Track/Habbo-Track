@@ -9041,7 +9041,7 @@ raycasting.alpha_threshold=127
 recycler.ducket_cost=10
 recycler.enabled=true
 recycler.number_of_slots=8
-recycler.timeout_seconds=40
+recycler.timeout_seconds=10
 register.allowed.characters=_-=?!@:.,
 register.allowed_unicode_blocks=Basic Latin
 register.allowed_unicode_scripts=Common,Latin
@@ -9202,8 +9202,8 @@ zoom.enabled=1
 
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202508011506-168001875/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.es/gamedata/external_flash_texts/5fc1c87282901734973ed807b15cf6f2ae9920f2
-external.figurepartlist.txt=https://www.habbo.es/gamedata/figuredata/8a0684877e7cae5df626fd839a6085be682ad37f
-productdata.load.url=http://www.habbo.es/gamedata/productdata/1d8b1f13fd9270a7f6397210c478936a56381ab7
-furnidata.load.url=http://www.habbo.es/gamedata/furnidata_xml/baf9b59eed554c4a9e290055ae610fa24437929e
-external.override.texts.txt=https://www.habbo.es/gamedata/override/external_flash_override_texts/5fc1c87282901734973ed807b15cf6f2ae9920f2
+external.texts.txt=https://www.habbo.es/gamedata/external_flash_texts/8aef16e8559399e4c3758a69824bfd30ad874ad4
+external.figurepartlist.txt=https://www.habbo.es/gamedata/figuredata/993d2761014a616e9d6feba07640e2310bc44361
+productdata.load.url=http://www.habbo.es/gamedata/productdata/a81114c97952cc99cae9b159b8f48a3f81f5102f
+furnidata.load.url=http://www.habbo.es/gamedata/furnidata_xml/8704e3e195a7d4360f72f71347b6abcb6c75557c
+external.override.texts.txt=https://www.habbo.es/gamedata/override/external_flash_override_texts/8aef16e8559399e4c3758a69824bfd30ad874ad4
