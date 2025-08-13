@@ -78587,6 +78587,11 @@
         "description": "nft_sc25_chickballoon desc"
       },
       {
+        "code": "nft_sc25_dragon_bd",
+        "name": "Dragon Lamp Float",
+        "description": ""
+      },
+      {
         "code": "nft_sc25_dragonlampfloat",
         "name": "Lampada Drago gonfiabile",
         "description": "nft_sc25_dragonlampfloat desc"
@@ -78607,9 +78612,19 @@
         "description": "nft_sc25_sunflowers desc"
       },
       {
+        "code": "nft_sc25_turtle_bd",
+        "name": "Turtle Float",
+        "description": ""
+      },
+      {
         "code": "nft_sc25_turtlefloat",
         "name": "Tartaruga gonfiabile",
         "description": "nft_sc25_turtlefloat desc"
+      },
+      {
+        "code": "nft_sc25_unicorn_bd",
+        "name": "Unicorn Float",
+        "description": ""
       },
       {
         "code": "nft_sc25_unicornfloat",
