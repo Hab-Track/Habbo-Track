@@ -32892,6 +32892,31 @@
         "description": "Créateur de prêt-à-porter"
       },
       {
+        "code": "clothing_blessedoutfit",
+        "name": "clothing_blessedoutfit name",
+        "description": "clothing_blessedoutfit desc"
+      },
+      {
+        "code": "clothing_blessingofaphrodite",
+        "name": "clothing_blessingofaphrodite name",
+        "description": "clothing_blessingofaphrodite desc"
+      },
+      {
+        "code": "clothing_blessingofdionysus",
+        "name": "clothing_blessingofdionysus name",
+        "description": "clothing_blessingofdionysus desc"
+      },
+      {
+        "code": "clothing_blessingofhades",
+        "name": "clothing_blessingofhades name",
+        "description": "clothing_blessingofhades desc"
+      },
+      {
+        "code": "clothing_blessingofzeus",
+        "name": "clothing_blessingofzeus name",
+        "description": "clothing_blessingofzeus desc"
+      },
+      {
         "code": "clothing_blockcroptop",
         "name": "Crop top coloré",
         "description": "clothing_blockcroptop desc"
@@ -34685,6 +34710,11 @@
         "code": "clothing_glitzypurse",
         "name": "Pochette de bal de Bonnie",
         "description": "clothing_glitzypurse desc"
+      },
+      {
+        "code": "clothing_goddesseyes",
+        "name": "clothing_goddesseyes name",
+        "description": "clothing_goddesseyes desc"
       },
       {
         "code": "clothing_gogglehat",
@@ -38362,6 +38392,16 @@
         "description": "clothing_oldschoollongpigtails desc"
       },
       {
+        "code": "clothing_olympiansandals",
+        "name": "clothing_olympiansandals name",
+        "description": "clothing_olympiansandals desc"
+      },
+      {
+        "code": "clothing_olympiantoga",
+        "name": "clothing_olympiantoga name",
+        "description": "clothing_olympiantoga desc"
+      },
+      {
         "code": "clothing_ombredreads",
         "name": "Dreads ombrées",
         "description": "clothing_ombredreads desc"
@@ -41057,6 +41097,11 @@
         "description": ""
       },
       {
+        "code": "clothing_r25_aphroditehair",
+        "name": "clothing_r25_aphroditehair name",
+        "description": "clothing_r25_aphroditehair desc"
+      },
+      {
         "code": "clothing_r25_balloon",
         "name": "Ballon étoilé Habbo 25",
         "description": "clothing_r25_balloon desc"
@@ -41145,6 +41190,11 @@
         "code": "clothing_r25_mothwings",
         "name": "Ailes de papillon de nuit géant",
         "description": "clothing_r25_mothwings desc"
+      },
+      {
+        "code": "clothing_r25_nemeanlion",
+        "name": "clothing_r25_nemeanlion name",
+        "description": "clothing_r25_nemeanlion desc"
       },
       {
         "code": "clothing_r25_poshwaistcoat",
@@ -74689,7 +74739,7 @@
       {
         "code": "nft_h24_cb_fountains1",
         "name": "Trophée Fontaine 1",
-        "description": ""
+        "description": "nft_h24_cb_fountains1 desc"
       },
       {
         "code": "nft_h24_cb_gen1club",
@@ -74724,7 +74774,7 @@
       {
         "code": "nft_h24_cb_icm1",
         "name": "Trophée Sorbetière 1",
-        "description": ""
+        "description": "nft_h24_cb_icm1 desc"
       },
       {
         "code": "nft_h24_cb_partners22",
@@ -74764,7 +74814,7 @@
       {
         "code": "nft_h24_cb_spaceshipdoors1",
         "name": "Trophée Portes du vaisseau spatial 1",
-        "description": ""
+        "description": "nft_h24_cb_spaceshipdoors1 desc"
       },
       {
         "code": "nft_h24_cb_summer22",
@@ -78710,6 +78760,141 @@
         "code": "olympics_r16_vendingmchn",
         "name": "Distributeur végétalien",
         "description": "Pour ceux qui n'aiment pas la viande."
+      },
+      {
+        "code": "olympus_c25_ambrosia",
+        "name": "olympus_c25_ambrosia name",
+        "description": "olympus_c25_ambrosia desc"
+      },
+      {
+        "code": "olympus_c25_aphroditealter",
+        "name": "olympus_c25_aphroditealter name",
+        "description": "olympus_c25_aphroditealter desc"
+      },
+      {
+        "code": "olympus_c25_ariadnesthread",
+        "name": "olympus_c25_ariadnesthread name",
+        "description": "olympus_c25_ariadnesthread desc"
+      },
+      {
+        "code": "olympus_c25_background",
+        "name": "olympus_c25_background name",
+        "description": "olympus_c25_background desc"
+      },
+      {
+        "code": "olympus_c25_buildingpiece",
+        "name": "olympus_c25_buildingpiece name",
+        "description": "olympus_c25_buildingpiece desc"
+      },
+      {
+        "code": "olympus_c25_cornerpiece",
+        "name": "olympus_c25_cornerpiece name",
+        "description": "olympus_c25_cornerpiece desc"
+      },
+      {
+        "code": "olympus_c25_dionysusalter",
+        "name": "olympus_c25_dionysusalter name",
+        "description": "olympus_c25_dionysusalter desc"
+      },
+      {
+        "code": "olympus_c25_floor1",
+        "name": "olympus_c25_floor1 name",
+        "description": "olympus_c25_floor1 desc"
+      },
+      {
+        "code": "olympus_c25_floor2",
+        "name": "olympus_c25_floor2 name",
+        "description": "olympus_c25_floor2 desc"
+      },
+      {
+        "code": "olympus_c25_grapes",
+        "name": "olympus_c25_grapes name",
+        "description": "olympus_c25_grapes desc"
+      },
+      {
+        "code": "olympus_c25_hadesalter",
+        "name": "olympus_c25_hadesalter name",
+        "description": "olympus_c25_hadesalter desc"
+      },
+      {
+        "code": "olympus_c25_hephaestusanvil",
+        "name": "olympus_c25_hephaestusanvil name",
+        "description": "olympus_c25_hephaestusanvil desc"
+      },
+      {
+        "code": "olympus_c25_narcissusflowers",
+        "name": "olympus_c25_narcissusflowers name",
+        "description": "olympus_c25_narcissusflowers desc"
+      },
+      {
+        "code": "olympus_c25_olivetree",
+        "name": "olympus_c25_olivetree name",
+        "description": "olympus_c25_olivetree desc"
+      },
+      {
+        "code": "olympus_c25_pandorasboxb",
+        "name": "olympus_c25_pandorasboxb name",
+        "description": "olympus_c25_pandorasboxb desc"
+      },
+      {
+        "code": "olympus_c25_pandorasboxcrackable",
+        "name": "olympus_c25_pandorasboxcrackable name",
+        "description": "olympus_c25_pandorasboxcrackable desc"
+      },
+      {
+        "code": "olympus_c25_pileofobols",
+        "name": "olympus_c25_pileofobols name",
+        "description": "olympus_c25_pileofobols desc"
+      },
+      {
+        "code": "olympus_c25_pillar",
+        "name": "olympus_c25_pillar name",
+        "description": "olympus_c25_pillar desc"
+      },
+      {
+        "code": "olympus_c25_pomegranate",
+        "name": "olympus_c25_pomegranate name",
+        "description": "olympus_c25_pomegranate desc"
+      },
+      {
+        "code": "olympus_c25_roofbuildingpiece",
+        "name": "olympus_c25_roofbuildingpiece name",
+        "description": "olympus_c25_roofbuildingpiece desc"
+      },
+      {
+        "code": "olympus_c25_roofcornerpiece",
+        "name": "olympus_c25_roofcornerpiece name",
+        "description": "olympus_c25_roofcornerpiece desc"
+      },
+      {
+        "code": "olympus_c25_roofpiece",
+        "name": "olympus_c25_roofpiece name",
+        "description": "olympus_c25_roofpiece desc"
+      },
+      {
+        "code": "olympus_c25_seating",
+        "name": "olympus_c25_seating name",
+        "description": "olympus_c25_seating desc"
+      },
+      {
+        "code": "olympus_c25_table",
+        "name": "olympus_c25_table name",
+        "description": "olympus_c25_table desc"
+      },
+      {
+        "code": "olympus_c25_zeusalter",
+        "name": "olympus_c25_zeusalter name",
+        "description": "olympus_c25_zeusalter desc"
+      },
+      {
+        "code": "olympus_r25_lightninginabottle",
+        "name": "olympus_r25_lightninginabottle name",
+        "description": "olympus_r25_lightninginabottle desc"
+      },
+      {
+        "code": "olympus_r25_zeusstatue",
+        "name": "olympus_r25_zeusstatue name",
+        "description": "olympus_r25_zeusstatue desc"
       },
       {
         "code": "one_credit",
