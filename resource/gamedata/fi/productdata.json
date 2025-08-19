@@ -11237,6 +11237,36 @@
         "description": "ads_flag_un"
       },
       {
+        "code": "ads_footlocker_adwall",
+        "name": "ads_footlocker_adwall name",
+        "description": "ads_footlocker_adwall desc"
+      },
+      {
+        "code": "ads_footlocker_logoblock",
+        "name": "ads_footlocker_logoblock name",
+        "description": "ads_footlocker_logoblock desc"
+      },
+      {
+        "code": "ads_footlocker_shoeplinth1",
+        "name": "ads_footlocker_shoeplinth1 name",
+        "description": "ads_footlocker_shoeplinth1 desc"
+      },
+      {
+        "code": "ads_footlocker_shoeplinth2",
+        "name": "ads_footlocker_shoeplinth2 name",
+        "description": "ads_footlocker_shoeplinth2 desc"
+      },
+      {
+        "code": "ads_footlocker_shoeplinth3",
+        "name": "ads_footlocker_shoeplinth3 name",
+        "description": "ads_footlocker_shoeplinth3 desc"
+      },
+      {
+        "code": "ads_footlocker_shoerack",
+        "name": "ads_footlocker_shoerack name",
+        "description": "ads_footlocker_shoerack desc"
+      },
+      {
         "code": "ads_frank_trophy",
         "name": "ads_frank_trophy name",
         "description": "ads_frank_trophy desc"
@@ -35885,6 +35915,11 @@
         "code": "clothing_footballboppers",
         "name": "Football Boppers",
         "description": "clothing_footballboppers desc"
+      },
+      {
+        "code": "clothing_footlocker_shirt",
+        "name": "clothing_footlocker_shirt name",
+        "description": "clothing_footlocker_shirt desc"
       },
       {
         "code": "clothing_frayedstrawhat",
@@ -77755,6 +77790,11 @@
         "code": "nft_habbo15_woodenscreen",
         "name": "habbo15_woodenscreen name",
         "description": "habbo15_woodenscreen desc"
+      },
+      {
+        "code": "nft_habbo25_r25_blackthrone",
+        "name": "nft_habbo25_r25_blackthrone name",
+        "description": "nft_habbo25_r25_blackthrone desc"
       },
       {
         "code": "nft_hal_cauldron",
