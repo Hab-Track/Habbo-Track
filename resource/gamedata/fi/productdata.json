@@ -11238,32 +11238,32 @@
       },
       {
         "code": "ads_footlocker_adwall",
-        "name": "ads_footlocker_adwall name",
+        "name": "Foot Locker mainosseinä",
         "description": "ads_footlocker_adwall desc"
       },
       {
         "code": "ads_footlocker_logoblock",
-        "name": "ads_footlocker_logoblock name",
+        "name": "Foot Locker logo",
         "description": "ads_footlocker_logoblock desc"
       },
       {
         "code": "ads_footlocker_shoeplinth1",
-        "name": "ads_footlocker_shoeplinth1 name",
+        "name": "Foot Locker kivijalka 1",
         "description": "ads_footlocker_shoeplinth1 desc"
       },
       {
         "code": "ads_footlocker_shoeplinth2",
-        "name": "ads_footlocker_shoeplinth2 name",
+        "name": "Foot Locker kivijalka 2",
         "description": "ads_footlocker_shoeplinth2 desc"
       },
       {
         "code": "ads_footlocker_shoeplinth3",
-        "name": "ads_footlocker_shoeplinth3 name",
+        "name": "Foot Locker kivijalka 3",
         "description": "ads_footlocker_shoeplinth3 desc"
       },
       {
         "code": "ads_footlocker_shoerack",
-        "name": "ads_footlocker_shoerack name",
+        "name": "Foot Locker kenkäteline",
         "description": "ads_footlocker_shoerack desc"
       },
       {
@@ -34208,27 +34208,27 @@
       },
       {
         "code": "clothing_blessedoutfit",
-        "name": "clothing_blessedoutfit name",
+        "name": "Siunattu tooga",
         "description": "clothing_blessedoutfit desc"
       },
       {
         "code": "clothing_blessingofaphrodite",
-        "name": "clothing_blessingofaphrodite name",
+        "name": "Afroditen rakkaus",
         "description": "clothing_blessingofaphrodite desc"
       },
       {
         "code": "clothing_blessingofdionysus",
-        "name": "clothing_blessingofdionysus name",
+        "name": "Dionysoksen rypäleet",
         "description": "clothing_blessingofdionysus desc"
       },
       {
         "code": "clothing_blessingofhades",
-        "name": "clothing_blessingofhades name",
+        "name": "Haadeksen Kerberos",
         "description": "clothing_blessingofhades desc"
       },
       {
         "code": "clothing_blessingofzeus",
-        "name": "clothing_blessingofzeus name",
+        "name": "Zeuksen salamanisku",
         "description": "clothing_blessingofzeus desc"
       },
       {
@@ -35918,7 +35918,7 @@
       },
       {
         "code": "clothing_footlocker_shirt",
-        "name": "clothing_footlocker_shirt name",
+        "name": "Foot Locker -paita",
         "description": "clothing_footlocker_shirt desc"
       },
       {
@@ -36032,8 +36032,13 @@
         "description": "clothing_glitzypurse desc"
       },
       {
+        "code": "clothing_goddesseyes_bd",
+        "name": "Jumalattaren silmät",
+        "description": ""
+      },
+      {
         "code": "clothing_goddesseyes",
-        "name": "clothing_goddesseyes name",
+        "name": "Jumalattaren silmät",
         "description": "clothing_goddesseyes desc"
       },
       {
@@ -37672,6 +37677,11 @@
         "description": "clothing_nftbookworm desc"
       },
       {
+        "code": "clothing_nftbowandquiver",
+        "name": "Kultainen jousi ja kotelo",
+        "description": ""
+      },
+      {
         "code": "clothing_nftbrat",
         "name": "Brat-printti",
         "description": "clothing_nftbrat desc"
@@ -38247,6 +38257,21 @@
         "description": "clothing_nfthiphop desc"
       },
       {
+        "code": "clothing_nfthobbyhorse1",
+        "name": "Vaalea keppihevonen",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthobbyhorse2",
+        "name": "Ruskea keppihevonen",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthobbyhorse3",
+        "name": "Yksisarvinen keppihevonen",
+        "description": ""
+      },
+      {
         "code": "clothing_nftholidaycut",
         "name": "Rentoutuneen lomalaisen kampaus",
         "description": "clothing_nftholidaycut desc"
@@ -38455,6 +38480,16 @@
         "code": "clothing_nftnpc",
         "name": "NPC-printti",
         "description": "clothing_nftnpc desc"
+      },
+      {
+        "code": "clothing_nftombrecut1",
+        "name": "Värikäs ombre A-leikkaus",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftombrecut2",
+        "name": "Värikäs ombre B-leikkaus",
+        "description": ""
       },
       {
         "code": "clothing_nftorigamihat1",
@@ -38795,6 +38830,11 @@
         "code": "clothing_nftsilkbandana",
         "name": "Silkkinen päähuivi",
         "description": "clothing_nftsilkbandana desc"
+      },
+      {
+        "code": "clothing_nftsilvereyes",
+        "name": "Hopeat silmät",
+        "description": ""
       },
       {
         "code": "clothing_nftsilverskin",
@@ -39718,12 +39758,12 @@
       },
       {
         "code": "clothing_olympiansandals",
-        "name": "clothing_olympiansandals name",
+        "name": "Olympian sandaalit",
         "description": "clothing_olympiansandals desc"
       },
       {
         "code": "clothing_olympiantoga",
-        "name": "clothing_olympiantoga name",
+        "name": "Olympian tooga",
         "description": "clothing_olympiantoga desc"
       },
       {
@@ -42422,8 +42462,13 @@
         "description": ""
       },
       {
+        "code": "clothing_r25_aphrodite_bd",
+        "name": "Venuksen hiukset",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_aphroditehair",
-        "name": "clothing_r25_aphroditehair name",
+        "name": "Venuksen hiukset",
         "description": "clothing_r25_aphroditehair desc"
       },
       {
@@ -42517,8 +42562,13 @@
         "description": "clothing_r25_mothwings desc"
       },
       {
+        "code": "clothing_r25_nemean_bd",
+        "name": "Nemean leijona",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_nemeanlion",
-        "name": "clothing_r25_nemeanlion name",
+        "name": "Nemean leijona",
         "description": "clothing_r25_nemeanlion desc"
       },
       {
@@ -77577,6 +77627,11 @@
         "description": "nft_h25_owlsculpture desc"
       },
       {
+        "code": "nft_h25_pegasusstatue",
+        "name": "Pegasuksen patsas",
+        "description": ""
+      },
+      {
         "code": "nft_h25_popsicle1",
         "name": "Vadelmapuikko",
         "description": "nft_h25_popsicle1 desc"
@@ -77803,7 +77858,7 @@
       },
       {
         "code": "nft_habbo25_r25_blackthrone",
-        "name": "nft_habbo25_r25_blackthrone name",
+        "name": "Musta valtaistuin",
         "description": "nft_habbo25_r25_blackthrone desc"
       },
       {
@@ -80793,142 +80848,152 @@
       },
       {
         "code": "olympus_c25_ambrosia",
-        "name": "olympus_c25_ambrosia name",
+        "name": "Kultainen ambrosia",
         "description": "olympus_c25_ambrosia desc"
       },
       {
         "code": "olympus_c25_aphroditealter",
-        "name": "olympus_c25_aphroditealter name",
+        "name": "Afroditen alttari",
         "description": "olympus_c25_aphroditealter desc"
       },
       {
         "code": "olympus_c25_ariadnesthread",
-        "name": "olympus_c25_ariadnesthread name",
+        "name": "Ariadnen ketju",
         "description": "olympus_c25_ariadnesthread desc"
       },
       {
         "code": "olympus_c25_background",
-        "name": "olympus_c25_background name",
+        "name": "Olympus-vuori",
         "description": "olympus_c25_background desc"
       },
       {
         "code": "olympus_c25_buildingpiece",
-        "name": "olympus_c25_buildingpiece name",
+        "name": "Olympus-palikka",
         "description": "olympus_c25_buildingpiece desc"
       },
       {
         "code": "olympus_c25_cornerpiece",
-        "name": "olympus_c25_cornerpiece name",
+        "name": "Olympus-kulma",
         "description": "olympus_c25_cornerpiece desc"
       },
       {
         "code": "olympus_c25_dionysusalter",
-        "name": "olympus_c25_dionysusalter name",
+        "name": "Dionysoksen alttari",
         "description": "olympus_c25_dionysusalter desc"
       },
       {
         "code": "olympus_c25_floor1",
-        "name": "olympus_c25_floor1 name",
+        "name": "Olympus-tiili",
         "description": "olympus_c25_floor1 desc"
       },
       {
         "code": "olympus_c25_floor2",
-        "name": "olympus_c25_floor2 name",
+        "name": "Korotettu Olympus-tiili",
         "description": "olympus_c25_floor2 desc"
       },
       {
         "code": "olympus_c25_grapes",
-        "name": "olympus_c25_grapes name",
+        "name": "Turmeltuneet viinirypäleet",
         "description": "olympus_c25_grapes desc"
       },
       {
         "code": "olympus_c25_hadesalter",
-        "name": "olympus_c25_hadesalter name",
+        "name": "Haadeksen alttari",
         "description": "olympus_c25_hadesalter desc"
       },
       {
         "code": "olympus_c25_hephaestusanvil",
-        "name": "olympus_c25_hephaestusanvil name",
+        "name": "Hefaistoksen alasimen tehtailupöytä",
         "description": "olympus_c25_hephaestusanvil desc"
       },
       {
         "code": "olympus_c25_narcissusflowers",
-        "name": "olympus_c25_narcissusflowers name",
+        "name": "Narsissi",
         "description": "olympus_c25_narcissusflowers desc"
       },
       {
         "code": "olympus_c25_olivetree",
-        "name": "olympus_c25_olivetree name",
+        "name": "Oliivipuu",
         "description": "olympus_c25_olivetree desc"
       },
       {
         "code": "olympus_c25_pandorasboxb",
-        "name": "olympus_c25_pandorasboxb name",
+        "name": "Pandoran laatikko",
         "description": "olympus_c25_pandorasboxb desc"
       },
       {
         "code": "olympus_c25_pandorasboxcrackable",
-        "name": "olympus_c25_pandorasboxcrackable name",
+        "name": "Pandoran laatikko",
         "description": "olympus_c25_pandorasboxcrackable desc"
       },
       {
         "code": "olympus_c25_pileofobols",
-        "name": "olympus_c25_pileofobols name",
+        "name": "Hopeakolikkokasa",
         "description": "olympus_c25_pileofobols desc"
       },
       {
         "code": "olympus_c25_pillar",
-        "name": "olympus_c25_pillar name",
+        "name": "Kreikkalaiset pylväät",
         "description": "olympus_c25_pillar desc"
       },
       {
         "code": "olympus_c25_plinth",
-        "name": "olympus_c25_plinth name",
+        "name": "Olympus-kivijalka",
         "description": "olympus_c25_plinth desc"
       },
       {
         "code": "olympus_c25_pomegranate",
-        "name": "olympus_c25_pomegranate name",
+        "name": "Jumalallinen granaattiomena",
         "description": "olympus_c25_pomegranate desc"
       },
       {
         "code": "olympus_c25_roofbuildingpiece",
-        "name": "olympus_c25_roofbuildingpiece name",
+        "name": "Olympus -katto",
         "description": "olympus_c25_roofbuildingpiece desc"
       },
       {
         "code": "olympus_c25_roofcornerpiece",
-        "name": "olympus_c25_roofcornerpiece name",
+        "name": "Olympus-katon kulma",
         "description": "olympus_c25_roofcornerpiece desc"
       },
       {
         "code": "olympus_c25_roofpiece",
-        "name": "olympus_c25_roofpiece name",
+        "name": "Teräväkärkinen Olympus-katto",
         "description": "olympus_c25_roofpiece desc"
       },
       {
         "code": "olympus_c25_seating",
-        "name": "olympus_c25_seating name",
+        "name": "Olympus-lepotuoli",
         "description": "olympus_c25_seating desc"
       },
       {
         "code": "olympus_c25_table",
-        "name": "olympus_c25_table name",
+        "name": "Olympus-pöytä",
         "description": "olympus_c25_table desc"
       },
       {
         "code": "olympus_c25_zeusalter",
-        "name": "olympus_c25_zeusalter name",
+        "name": "Zeuksen alttari",
         "description": "olympus_c25_zeusalter desc"
       },
       {
+        "code": "olympus_r25_lightning_bd",
+        "name": "Salama pullossa",
+        "description": ""
+      },
+      {
         "code": "olympus_r25_lightninginabottle",
-        "name": "olympus_r25_lightninginabottle name",
+        "name": "Salama pullossa",
         "description": "olympus_r25_lightninginabottle desc"
       },
       {
+        "code": "olympus_r25_zeus_bd",
+        "name": "Mahtava Zeus-patsas",
+        "description": ""
+      },
+      {
         "code": "olympus_r25_zeusstatue",
-        "name": "olympus_r25_zeusstatue name",
+        "name": "Mahtava Zeus-patsas",
         "description": "olympus_r25_zeusstatue desc"
       },
       {
@@ -98177,14 +98242,19 @@
         "description": "Tippahan tässä tulee linssiin nostalgisoidessa. Hyvää syntymäpäivää, Habbo!"
       },
       {
+        "code": "rotating_roomdeal447_10c",
+        "name": "Foot Locker -huonepaketti",
+        "description": ""
+      },
+      {
         "code": "rotating_roomdeal447_d",
-        "name": "Temple of Olympus Bundle",
+        "name": "Foot Locker -huonepaketti",
         "description": ""
       },
       {
         "code": "rotating_roomdeal447",
-        "name": "Temple of Olympus Bundle",
-        "description": "Welcome to Olympus! Look around and stay a while."
+        "name": "Foot Locker -huonepaketti",
+        "description": "Olet astumassa Foot Locker. Tule tsekkaamaan!"
       },
       {
         "code": "rotating_roomdeal44_10c",

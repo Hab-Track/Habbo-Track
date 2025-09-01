@@ -10553,32 +10553,32 @@
       },
       {
         "code": "ads_footlocker_adwall",
-        "name": "ads_footlocker_adwall name",
+        "name": "Pubblicità della Foot Locker",
         "description": "ads_footlocker_adwall desc"
       },
       {
         "code": "ads_footlocker_logoblock",
-        "name": "ads_footlocker_logoblock name",
+        "name": "Logo Foot Locker",
         "description": "ads_footlocker_logoblock desc"
       },
       {
         "code": "ads_footlocker_shoeplinth1",
-        "name": "ads_footlocker_shoeplinth1 name",
+        "name": "Supporto Foot Locker 1",
         "description": "ads_footlocker_shoeplinth1 desc"
       },
       {
         "code": "ads_footlocker_shoeplinth2",
-        "name": "ads_footlocker_shoeplinth2 name",
+        "name": "Supporto Foot Locker 2",
         "description": "ads_footlocker_shoeplinth2 desc"
       },
       {
         "code": "ads_footlocker_shoeplinth3",
-        "name": "ads_footlocker_shoeplinth3 name",
+        "name": "Supporto Foot Locker 3",
         "description": "ads_footlocker_shoeplinth3 desc"
       },
       {
         "code": "ads_footlocker_shoerack",
-        "name": "ads_footlocker_shoerack name",
+        "name": "Scaffale di scarpe Foot Locker",
         "description": "ads_footlocker_shoerack desc"
       },
       {
@@ -33553,27 +33553,27 @@
       },
       {
         "code": "clothing_blessedoutfit",
-        "name": "clothing_blessedoutfit name",
+        "name": "Toga Benedetta",
         "description": "clothing_blessedoutfit desc"
       },
       {
         "code": "clothing_blessingofaphrodite",
-        "name": "clothing_blessingofaphrodite name",
+        "name": "Amore di Afrodite",
         "description": "clothing_blessingofaphrodite desc"
       },
       {
         "code": "clothing_blessingofdionysus",
-        "name": "clothing_blessingofdionysus name",
+        "name": "Uva di Dioniso",
         "description": "clothing_blessingofdionysus desc"
       },
       {
         "code": "clothing_blessingofhades",
-        "name": "clothing_blessingofhades name",
+        "name": "Cerbero di Ade",
         "description": "clothing_blessingofhades desc"
       },
       {
         "code": "clothing_blessingofzeus",
-        "name": "clothing_blessingofzeus name",
+        "name": "Fulmine di Zeus",
         "description": "clothing_blessingofzeus desc"
       },
       {
@@ -35263,7 +35263,7 @@
       },
       {
         "code": "clothing_footlocker_shirt",
-        "name": "clothing_footlocker_shirt name",
+        "name": "Maglietta Foot Locker",
         "description": "clothing_footlocker_shirt desc"
       },
       {
@@ -35377,8 +35377,13 @@
         "description": "clothing_glitzypurse desc"
       },
       {
+        "code": "clothing_goddesseyes_bd",
+        "name": "Occhi della Dea",
+        "description": ""
+      },
+      {
         "code": "clothing_goddesseyes",
-        "name": "clothing_goddesseyes name",
+        "name": "Occhi della Dea",
         "description": "clothing_goddesseyes desc"
       },
       {
@@ -37007,6 +37012,11 @@
         "description": "clothing_nftbookworm desc"
       },
       {
+        "code": "clothing_nftbowandquiver",
+        "name": "Arco e Faretra d'Oro",
+        "description": ""
+      },
+      {
         "code": "clothing_nftbrat",
         "name": "Stampa Brat",
         "description": "clothing_nftbrat desc"
@@ -37582,6 +37592,21 @@
         "description": "clothing_nfthiphop desc"
       },
       {
+        "code": "clothing_nfthobbyhorse1",
+        "name": "Cavallino Giocattolo Biondo",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthobbyhorse2",
+        "name": "Cavallino Giocattolo Castano",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthobbyhorse3",
+        "name": "Cavallino Unicorno Giocattolo",
+        "description": ""
+      },
+      {
         "code": "clothing_nftholidaycut",
         "name": "Acconciatura Vacanze in Relax",
         "description": "clothing_nftholidaycut desc"
@@ -37790,6 +37815,16 @@
         "code": "clothing_nftnpc",
         "name": "Stampa NPC",
         "description": "clothing_nftnpc desc"
+      },
+      {
+        "code": "clothing_nftombrecut1",
+        "name": "Taglio Sfumature Colorate A",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftombrecut2",
+        "name": "Taglio Sfumature Colorate B",
+        "description": ""
       },
       {
         "code": "clothing_nftorigamihat1",
@@ -38130,6 +38165,11 @@
         "code": "clothing_nftsilkbandana",
         "name": "Bandana di Seta",
         "description": "clothing_nftsilkbandana desc"
+      },
+      {
+        "code": "clothing_nftsilvereyes",
+        "name": "Occhi Argento",
+        "description": ""
       },
       {
         "code": "clothing_nftsilverskin",
@@ -39053,12 +39093,12 @@
       },
       {
         "code": "clothing_olympiansandals",
-        "name": "clothing_olympiansandals name",
+        "name": "Sandali dell'Olimpo",
         "description": "clothing_olympiansandals desc"
       },
       {
         "code": "clothing_olympiantoga",
-        "name": "clothing_olympiantoga name",
+        "name": "Toga dell'Olimpo",
         "description": "clothing_olympiantoga desc"
       },
       {
@@ -41757,8 +41797,13 @@
         "description": ""
       },
       {
+        "code": "clothing_r25_aphrodite_bd",
+        "name": "Acconciatura di Venere",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_aphroditehair",
-        "name": "clothing_r25_aphroditehair name",
+        "name": "Acconciatura di Venere",
         "description": "clothing_r25_aphroditehair desc"
       },
       {
@@ -41852,8 +41897,13 @@
         "description": "clothing_r25_mothwings desc"
       },
       {
+        "code": "clothing_r25_nemean_bd",
+        "name": "Leone di Nemea",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_nemeanlion",
-        "name": "clothing_r25_nemeanlion name",
+        "name": "Leone di Nemea",
         "description": "clothing_r25_nemeanlion desc"
       },
       {
@@ -77562,6 +77612,11 @@
         "description": "nft_h25_owlsculpture desc"
       },
       {
+        "code": "nft_h25_pegasusstatue",
+        "name": "Statua di Pegaso",
+        "description": ""
+      },
+      {
         "code": "nft_h25_popsicle1",
         "name": "Barretta di Gelato al Lampone",
         "description": "nft_h25_popsicle1 desc"
@@ -77788,7 +77843,7 @@
       },
       {
         "code": "nft_habbo25_r25_blackthrone",
-        "name": "nft_habbo25_r25_blackthrone name",
+        "name": "Trono Nero",
         "description": "nft_habbo25_r25_blackthrone desc"
       },
       {
@@ -80768,142 +80823,152 @@
       },
       {
         "code": "olympus_c25_ambrosia",
-        "name": "olympus_c25_ambrosia name",
+        "name": "Ambrosia d'Oro",
         "description": "olympus_c25_ambrosia desc"
       },
       {
         "code": "olympus_c25_aphroditealter",
-        "name": "olympus_c25_aphroditealter name",
+        "name": "Altare di Afrodite",
         "description": "olympus_c25_aphroditealter desc"
       },
       {
         "code": "olympus_c25_ariadnesthread",
-        "name": "olympus_c25_ariadnesthread name",
+        "name": "Filo di Arianna",
         "description": "olympus_c25_ariadnesthread desc"
       },
       {
         "code": "olympus_c25_background",
-        "name": "olympus_c25_background name",
+        "name": "Monte Olimpo",
         "description": "olympus_c25_background desc"
       },
       {
         "code": "olympus_c25_buildingpiece",
-        "name": "olympus_c25_buildingpiece name",
+        "name": "Blocco dell'Olimpo",
         "description": "olympus_c25_buildingpiece desc"
       },
       {
         "code": "olympus_c25_cornerpiece",
-        "name": "olympus_c25_cornerpiece name",
+        "name": "Angolo dell'Olimpo",
         "description": "olympus_c25_cornerpiece desc"
       },
       {
         "code": "olympus_c25_dionysusalter",
-        "name": "olympus_c25_dionysusalter name",
+        "name": "Altare di Dioniso",
         "description": "olympus_c25_dionysusalter desc"
       },
       {
         "code": "olympus_c25_floor1",
-        "name": "olympus_c25_floor1 name",
+        "name": "Mattone dell'Olimpo",
         "description": "olympus_c25_floor1 desc"
       },
       {
         "code": "olympus_c25_floor2",
-        "name": "olympus_c25_floor2 name",
+        "name": "Mattone Rialzato dell'Olimpo",
         "description": "olympus_c25_floor2 desc"
       },
       {
         "code": "olympus_c25_grapes",
-        "name": "olympus_c25_grapes name",
+        "name": "Uva Opulenta",
         "description": "olympus_c25_grapes desc"
       },
       {
         "code": "olympus_c25_hadesalter",
-        "name": "olympus_c25_hadesalter name",
+        "name": "Altare di Ade",
         "description": "olympus_c25_hadesalter desc"
       },
       {
         "code": "olympus_c25_hephaestusanvil",
-        "name": "olympus_c25_hephaestusanvil name",
+        "name": "Tavolo del Crafting Incudine di Efesto",
         "description": "olympus_c25_hephaestusanvil desc"
       },
       {
         "code": "olympus_c25_narcissusflowers",
-        "name": "olympus_c25_narcissusflowers name",
+        "name": "Fiore di Narciso",
         "description": "olympus_c25_narcissusflowers desc"
       },
       {
         "code": "olympus_c25_olivetree",
-        "name": "olympus_c25_olivetree name",
+        "name": "Olivo",
         "description": "olympus_c25_olivetree desc"
       },
       {
         "code": "olympus_c25_pandorasboxb",
-        "name": "olympus_c25_pandorasboxb name",
+        "name": "Vaso di Pandora",
         "description": "olympus_c25_pandorasboxb desc"
       },
       {
         "code": "olympus_c25_pandorasboxcrackable",
-        "name": "olympus_c25_pandorasboxcrackable name",
+        "name": "Vaso di Pandora",
         "description": "olympus_c25_pandorasboxcrackable desc"
       },
       {
         "code": "olympus_c25_pileofobols",
-        "name": "olympus_c25_pileofobols name",
+        "name": "Mucchio di Oboli",
         "description": "olympus_c25_pileofobols desc"
       },
       {
         "code": "olympus_c25_pillar",
-        "name": "olympus_c25_pillar name",
+        "name": "Colonna Greca",
         "description": "olympus_c25_pillar desc"
       },
       {
         "code": "olympus_c25_plinth",
-        "name": "olympus_c25_plinth name",
+        "name": "Basamento dell'Olimpo",
         "description": "olympus_c25_plinth desc"
       },
       {
         "code": "olympus_c25_pomegranate",
-        "name": "olympus_c25_pomegranate name",
+        "name": "Melograno Divino",
         "description": "olympus_c25_pomegranate desc"
       },
       {
         "code": "olympus_c25_roofbuildingpiece",
-        "name": "olympus_c25_roofbuildingpiece name",
+        "name": "Tetto dell'Olimpo",
         "description": "olympus_c25_roofbuildingpiece desc"
       },
       {
         "code": "olympus_c25_roofcornerpiece",
-        "name": "olympus_c25_roofcornerpiece name",
+        "name": "Angolo del Tetto dell'Olimpo",
         "description": "olympus_c25_roofcornerpiece desc"
       },
       {
         "code": "olympus_c25_roofpiece",
-        "name": "olympus_c25_roofpiece name",
+        "name": "Tetto a Punta dell'Olimpo",
         "description": "olympus_c25_roofpiece desc"
       },
       {
         "code": "olympus_c25_seating",
-        "name": "olympus_c25_seating name",
+        "name": "Chaise Longue dell'Olimpo",
         "description": "olympus_c25_seating desc"
       },
       {
         "code": "olympus_c25_table",
-        "name": "olympus_c25_table name",
+        "name": "Tavolo dell'Olimpo",
         "description": "olympus_c25_table desc"
       },
       {
         "code": "olympus_c25_zeusalter",
-        "name": "olympus_c25_zeusalter name",
+        "name": "Altare di Zeus",
         "description": "olympus_c25_zeusalter desc"
       },
       {
+        "code": "olympus_r25_lightning_bd",
+        "name": "Fulmine in Bottiglia",
+        "description": ""
+      },
+      {
         "code": "olympus_r25_lightninginabottle",
-        "name": "olympus_r25_lightninginabottle name",
+        "name": "Fulmine in Bottiglia",
         "description": "olympus_r25_lightninginabottle desc"
       },
       {
+        "code": "olympus_r25_zeus_bd",
+        "name": "Statua del Potente Zeus",
+        "description": ""
+      },
+      {
         "code": "olympus_r25_zeusstatue",
-        "name": "olympus_r25_zeusstatue name",
+        "name": "Statua del Potente Zeus",
         "description": "olympus_r25_zeusstatue desc"
       },
       {
@@ -98243,18 +98308,18 @@
       },
       {
         "code": "rotating_roomdeal447_10c",
-        "name": "Affare Stanza Tempio dell'Olimpo",
+        "name": "Affare Stanza Foot Locker",
         "description": ""
       },
       {
         "code": "rotating_roomdeal447_d",
-        "name": "Affare Stanza Tempio dell'Olimpo",
+        "name": "Affare Stanza Foot Locker",
         "description": ""
       },
       {
         "code": "rotating_roomdeal447",
-        "name": "Affare Stanza Tempio dell'Olimpo",
-        "description": "Benvenuto/a nell'Olimpo! Guardati intorno e rimani un po'."
+        "name": "Affare Stanza Foot Locker",
+        "description": "Stai entrando in Foot Locker. Entra e dai un'occhiata!"
       },
       {
         "code": "rotating_roomdeal44_10c",

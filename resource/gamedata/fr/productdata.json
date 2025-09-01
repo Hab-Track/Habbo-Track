@@ -9948,32 +9948,32 @@
       },
       {
         "code": "ads_footlocker_adwall",
-        "name": "ads_footlocker_adwall name",
+        "name": "Mur publicitaire Foot Locker",
         "description": "ads_footlocker_adwall desc"
       },
       {
         "code": "ads_footlocker_logoblock",
-        "name": "ads_footlocker_logoblock name",
+        "name": "Logo Foot Locker",
         "description": "ads_footlocker_logoblock desc"
       },
       {
         "code": "ads_footlocker_shoeplinth1",
-        "name": "ads_footlocker_shoeplinth1 name",
+        "name": "Socle Foot Locker 1",
         "description": "ads_footlocker_shoeplinth1 desc"
       },
       {
         "code": "ads_footlocker_shoeplinth2",
-        "name": "ads_footlocker_shoeplinth2 name",
+        "name": "Socle Foot Locker 2",
         "description": "ads_footlocker_shoeplinth2 desc"
       },
       {
         "code": "ads_footlocker_shoeplinth3",
-        "name": "ads_footlocker_shoeplinth3 name",
+        "name": "Socle Foot Locker 3",
         "description": "ads_footlocker_shoeplinth3 desc"
       },
       {
         "code": "ads_footlocker_shoerack",
-        "name": "ads_footlocker_shoerack name",
+        "name": "Étagère à chaussures Foot Locker",
         "description": "ads_footlocker_shoerack desc"
       },
       {
@@ -32923,27 +32923,27 @@
       },
       {
         "code": "clothing_blessedoutfit",
-        "name": "clothing_blessedoutfit name",
+        "name": "Toge Bénie",
         "description": "clothing_blessedoutfit desc"
       },
       {
         "code": "clothing_blessingofaphrodite",
-        "name": "clothing_blessingofaphrodite name",
+        "name": "Amour d'Aphrodite",
         "description": "clothing_blessingofaphrodite desc"
       },
       {
         "code": "clothing_blessingofdionysus",
-        "name": "clothing_blessingofdionysus name",
+        "name": "Raisins de Dionysos",
         "description": "clothing_blessingofdionysus desc"
       },
       {
         "code": "clothing_blessingofhades",
-        "name": "clothing_blessingofhades name",
+        "name": "Cerbère d'Hadès",
         "description": "clothing_blessingofhades desc"
       },
       {
         "code": "clothing_blessingofzeus",
-        "name": "clothing_blessingofzeus name",
+        "name": "Éclair de Zeus",
         "description": "clothing_blessingofzeus desc"
       },
       {
@@ -34633,7 +34633,7 @@
       },
       {
         "code": "clothing_footlocker_shirt",
-        "name": "clothing_footlocker_shirt name",
+        "name": "T-shirt Foot Locker",
         "description": "clothing_footlocker_shirt desc"
       },
       {
@@ -34747,8 +34747,13 @@
         "description": "clothing_glitzypurse desc"
       },
       {
+        "code": "clothing_goddesseyes_bd",
+        "name": "Yeux de déesse",
+        "description": ""
+      },
+      {
         "code": "clothing_goddesseyes",
-        "name": "clothing_goddesseyes name",
+        "name": "Yeux de déesse",
         "description": "clothing_goddesseyes desc"
       },
       {
@@ -36382,6 +36387,11 @@
         "description": "clothing_nftbookworm desc"
       },
       {
+        "code": "clothing_nftbowandquiver",
+        "name": "Arc et carquois dorés",
+        "description": ""
+      },
+      {
         "code": "clothing_nftbrat",
         "name": "Imprimé Brat",
         "description": "clothing_nftbrat desc"
@@ -36957,6 +36967,21 @@
         "description": "clothing_nfthiphop desc"
       },
       {
+        "code": "clothing_nfthobbyhorse1",
+        "name": "Cheval à bascule blond",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthobbyhorse2",
+        "name": "Cheval à bascule marron",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthobbyhorse3",
+        "name": "Licorne à bascule",
+        "description": ""
+      },
+      {
         "code": "clothing_nftholidaycut",
         "name": "Coupe décontractée vacances",
         "description": "clothing_nftholidaycut desc"
@@ -37165,6 +37190,16 @@
         "code": "clothing_nftnpc",
         "name": "Imprimé NPC",
         "description": "clothing_nftnpc desc"
+      },
+      {
+        "code": "clothing_nftombrecut1",
+        "name": "Coupe ombrée colorée A",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftombrecut2",
+        "name": "Coupe ombrée colorée B",
+        "description": ""
       },
       {
         "code": "clothing_nftorigamihat1",
@@ -37505,6 +37540,11 @@
         "code": "clothing_nftsilkbandana",
         "name": "Bandana en soie",
         "description": "clothing_nftsilkbandana desc"
+      },
+      {
+        "code": "clothing_nftsilvereyes",
+        "name": "Yeux argentés",
+        "description": ""
       },
       {
         "code": "clothing_nftsilverskin",
@@ -38428,12 +38468,12 @@
       },
       {
         "code": "clothing_olympiansandals",
-        "name": "clothing_olympiansandals name",
+        "name": "Sandales Olympienne",
         "description": "clothing_olympiansandals desc"
       },
       {
         "code": "clothing_olympiantoga",
-        "name": "clothing_olympiantoga name",
+        "name": "Toge Olympienne",
         "description": "clothing_olympiantoga desc"
       },
       {
@@ -41132,8 +41172,13 @@
         "description": ""
       },
       {
+        "code": "clothing_r25_aphrodite_bd",
+        "name": "Cheveux de Vénus",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_aphroditehair",
-        "name": "clothing_r25_aphroditehair name",
+        "name": "Cheveux de Vénus",
         "description": "clothing_r25_aphroditehair desc"
       },
       {
@@ -41227,8 +41272,13 @@
         "description": "clothing_r25_mothwings desc"
       },
       {
+        "code": "clothing_r25_nemean_bd",
+        "name": "Lion de Némée",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_nemeanlion",
-        "name": "clothing_r25_nemeanlion name",
+        "name": "Lion de Némée",
         "description": "clothing_r25_nemeanlion desc"
       },
       {
@@ -75632,6 +75682,11 @@
         "description": "nft_h25_owlsculpture desc"
       },
       {
+        "code": "nft_h25_pegasusstatue",
+        "name": "Statue de Pégase",
+        "description": ""
+      },
+      {
         "code": "nft_h25_popsicle1",
         "name": "Barre glacée à la framboise",
         "description": "nft_h25_popsicle1 desc"
@@ -75858,7 +75913,7 @@
       },
       {
         "code": "nft_habbo25_r25_blackthrone",
-        "name": "nft_habbo25_r25_blackthrone name",
+        "name": "Trône noir",
         "description": "nft_habbo25_r25_blackthrone desc"
       },
       {
@@ -78833,142 +78888,152 @@
       },
       {
         "code": "olympus_c25_ambrosia",
-        "name": "olympus_c25_ambrosia name",
+        "name": "Ambrosia dorée",
         "description": "olympus_c25_ambrosia desc"
       },
       {
         "code": "olympus_c25_aphroditealter",
-        "name": "olympus_c25_aphroditealter name",
+        "name": "Autel d'Aphrodite",
         "description": "olympus_c25_aphroditealter desc"
       },
       {
         "code": "olympus_c25_ariadnesthread",
-        "name": "olympus_c25_ariadnesthread name",
+        "name": "Fil d'Ariane",
         "description": "olympus_c25_ariadnesthread desc"
       },
       {
         "code": "olympus_c25_background",
-        "name": "olympus_c25_background name",
+        "name": "Mont Olympe",
         "description": "olympus_c25_background desc"
       },
       {
         "code": "olympus_c25_buildingpiece",
-        "name": "olympus_c25_buildingpiece name",
+        "name": "Bloc Olympe",
         "description": "olympus_c25_buildingpiece desc"
       },
       {
         "code": "olympus_c25_cornerpiece",
-        "name": "olympus_c25_cornerpiece name",
+        "name": "Coin Olympe",
         "description": "olympus_c25_cornerpiece desc"
       },
       {
         "code": "olympus_c25_dionysusalter",
-        "name": "olympus_c25_dionysusalter name",
+        "name": "Autel de Dionysos",
         "description": "olympus_c25_dionysusalter desc"
       },
       {
         "code": "olympus_c25_floor1",
-        "name": "olympus_c25_floor1 name",
+        "name": "Brique Olympe",
         "description": "olympus_c25_floor1 desc"
       },
       {
         "code": "olympus_c25_floor2",
-        "name": "olympus_c25_floor2 name",
+        "name": "Brique Olympe surélevée",
         "description": "olympus_c25_floor2 desc"
       },
       {
         "code": "olympus_c25_grapes",
-        "name": "olympus_c25_grapes name",
+        "name": "Raisins de la décadence",
         "description": "olympus_c25_grapes desc"
       },
       {
         "code": "olympus_c25_hadesalter",
-        "name": "olympus_c25_hadesalter name",
+        "name": "Autel d'Hadès",
         "description": "olympus_c25_hadesalter desc"
       },
       {
         "code": "olympus_c25_hephaestusanvil",
-        "name": "olympus_c25_hephaestusanvil name",
+        "name": "Table de craft enclume d'Héphaïstos",
         "description": "olympus_c25_hephaestusanvil desc"
       },
       {
         "code": "olympus_c25_narcissusflowers",
-        "name": "olympus_c25_narcissusflowers name",
+        "name": "Fleur de narcisse",
         "description": "olympus_c25_narcissusflowers desc"
       },
       {
         "code": "olympus_c25_olivetree",
-        "name": "olympus_c25_olivetree name",
+        "name": "Olivier",
         "description": "olympus_c25_olivetree desc"
       },
       {
         "code": "olympus_c25_pandorasboxb",
-        "name": "olympus_c25_pandorasboxb name",
+        "name": "Boîte de Pandore",
         "description": "olympus_c25_pandorasboxb desc"
       },
       {
         "code": "olympus_c25_pandorasboxcrackable",
-        "name": "olympus_c25_pandorasboxcrackable name",
+        "name": "Boîte de Pandore",
         "description": "olympus_c25_pandorasboxcrackable desc"
       },
       {
         "code": "olympus_c25_pileofobols",
-        "name": "olympus_c25_pileofobols name",
+        "name": "Pile d'oboles",
         "description": "olympus_c25_pileofobols desc"
       },
       {
         "code": "olympus_c25_pillar",
-        "name": "olympus_c25_pillar name",
+        "name": "Piliers grecs",
         "description": "olympus_c25_pillar desc"
       },
       {
         "code": "olympus_c25_plinth",
-        "name": "olympus_c25_plinth name",
+        "name": "Socle Olympe",
         "description": "olympus_c25_plinth desc"
       },
       {
         "code": "olympus_c25_pomegranate",
-        "name": "olympus_c25_pomegranate name",
+        "name": "Grenade divine",
         "description": "olympus_c25_pomegranate desc"
       },
       {
         "code": "olympus_c25_roofbuildingpiece",
-        "name": "olympus_c25_roofbuildingpiece name",
+        "name": "Toit Olympe",
         "description": "olympus_c25_roofbuildingpiece desc"
       },
       {
         "code": "olympus_c25_roofcornerpiece",
-        "name": "olympus_c25_roofcornerpiece name",
+        "name": "Coin de toit Olympe",
         "description": "olympus_c25_roofcornerpiece desc"
       },
       {
         "code": "olympus_c25_roofpiece",
-        "name": "olympus_c25_roofpiece name",
+        "name": "Toit pointu Olympe",
         "description": "olympus_c25_roofpiece desc"
       },
       {
         "code": "olympus_c25_seating",
-        "name": "olympus_c25_seating name",
+        "name": "Chaise Olympe",
         "description": "olympus_c25_seating desc"
       },
       {
         "code": "olympus_c25_table",
-        "name": "olympus_c25_table name",
+        "name": "Table Olympe",
         "description": "olympus_c25_table desc"
       },
       {
         "code": "olympus_c25_zeusalter",
-        "name": "olympus_c25_zeusalter name",
+        "name": "Autel de Zeus",
         "description": "olympus_c25_zeusalter desc"
       },
       {
+        "code": "olympus_r25_lightning_bd",
+        "name": "Foudre en bouteille",
+        "description": ""
+      },
+      {
         "code": "olympus_r25_lightninginabottle",
-        "name": "olympus_r25_lightninginabottle name",
+        "name": "Foudre en bouteille",
         "description": "olympus_r25_lightninginabottle desc"
       },
       {
+        "code": "olympus_r25_zeus_bd",
+        "name": "Statue du puissant Zeus",
+        "description": ""
+      },
+      {
         "code": "olympus_r25_zeusstatue",
-        "name": "olympus_r25_zeusstatue name",
+        "name": "Statue du puissant Zeus",
         "description": "olympus_r25_zeusstatue desc"
       },
       {
@@ -96223,18 +96288,18 @@
       },
       {
         "code": "rotating_roomdeal447_10c",
-        "name": "Pack Temple de l'Olympe",
+        "name": "Pack Foot Locker",
         "description": ""
       },
       {
         "code": "rotating_roomdeal447_d",
-        "name": "Pack Temple de l'Olympe",
+        "name": "Pack Foot Locker",
         "description": ""
       },
       {
         "code": "rotating_roomdeal447",
-        "name": "Pack Temple de l'Olympe",
-        "description": "Bienvenue à l'Olympe ! Regardez autour de vous et restez un moment."
+        "name": "Pack Foot Locker",
+        "description": "Vous entrez maintenant dans Foot Locker. Venez voir par vous-même !"
       },
       {
         "code": "rotating_roomdeal44_10c",

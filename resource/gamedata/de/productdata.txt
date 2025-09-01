@@ -10026,32 +10026,32 @@
   ],
   [
     "ads_footlocker_adwall",
-    "ads_footlocker_adwall name",
+    "Foot Locker Werbewand",
     "ads_footlocker_adwall desc"
   ],
   [
     "ads_footlocker_logoblock",
-    "ads_footlocker_logoblock name",
+    "Foot Locker Logo",
     "ads_footlocker_logoblock desc"
   ],
   [
     "ads_footlocker_shoeplinth1",
-    "ads_footlocker_shoeplinth1 name",
+    "Foot Locker Sockel 1",
     "ads_footlocker_shoeplinth1 desc"
   ],
   [
     "ads_footlocker_shoeplinth2",
-    "ads_footlocker_shoeplinth2 name",
+    "Foot Locker Sockel 2",
     "ads_footlocker_shoeplinth2 desc"
   ],
   [
     "ads_footlocker_shoeplinth3",
-    "ads_footlocker_shoeplinth3 name",
+    "Foot Locker Sockel 3",
     "ads_footlocker_shoeplinth3 desc"
   ],
   [
     "ads_footlocker_shoerack",
-    "ads_footlocker_shoerack name",
+    "Foot Locker Schuhregal",
     "ads_footlocker_shoerack desc"
   ],
   [
@@ -33016,27 +33016,27 @@
   ],
   [
     "clothing_blessedoutfit",
-    "clothing_blessedoutfit name",
+    "Gesegnete Toga",
     "clothing_blessedoutfit desc"
   ],
   [
     "clothing_blessingofaphrodite",
-    "clothing_blessingofaphrodite name",
+    "Aphrodites Liebe",
     "clothing_blessingofaphrodite desc"
   ],
   [
     "clothing_blessingofdionysus",
-    "clothing_blessingofdionysus name",
+    "Trauben des Dionysos",
     "clothing_blessingofdionysus desc"
   ],
   [
     "clothing_blessingofhades",
-    "clothing_blessingofhades name",
+    "Der Hund des Hades",
     "clothing_blessingofhades desc"
   ],
   [
     "clothing_blessingofzeus",
-    "clothing_blessingofzeus name",
+    "Der Blitz des Zeus",
     "clothing_blessingofzeus desc"
   ],
   [
@@ -34726,7 +34726,7 @@
   ],
   [
     "clothing_footlocker_shirt",
-    "clothing_footlocker_shirt name",
+    "Foot Locker Shirt",
     "clothing_footlocker_shirt desc"
   ],
   [
@@ -34840,8 +34840,13 @@
     "clothing_glitzypurse desc"
   ],
   [
+    "clothing_goddesseyes_bd",
+    "Augen der Göttin",
+    ""
+  ],
+  [
     "clothing_goddesseyes",
-    "clothing_goddesseyes name",
+    "Augen der Göttin",
     "clothing_goddesseyes desc"
   ],
   [
@@ -36480,6 +36485,11 @@
     "clothing_nftbookworm desc"
   ],
   [
+    "clothing_nftbowandquiver",
+    "Goldener Pfeil und Bogen",
+    ""
+  ],
+  [
     "clothing_nftbrat",
     "Brat Druck",
     "clothing_nftbrat desc"
@@ -37055,6 +37065,21 @@
     "clothing_nfthiphop desc"
   ],
   [
+    "clothing_nfthobbyhorse1",
+    "Blondes Steckenpferd",
+    ""
+  ],
+  [
+    "clothing_nfthobbyhorse2",
+    "Braunes Steckenpferd",
+    ""
+  ],
+  [
+    "clothing_nfthobbyhorse3",
+    "Steckeneinhorn",
+    ""
+  ],
+  [
     "clothing_nftholidaycut",
     "Relaxter Urlaubsschnitt",
     "clothing_nftholidaycut desc"
@@ -37263,6 +37288,16 @@
     "clothing_nftnpc",
     "NPC Druck",
     "clothing_nftnpc desc"
+  ],
+  [
+    "clothing_nftombrecut1",
+    "Bunter Ombre-Schnitt A",
+    ""
+  ],
+  [
+    "clothing_nftombrecut2",
+    "Bunter Ombre-Schnitt B",
+    ""
   ],
   [
     "clothing_nftorigamihat1",
@@ -37603,6 +37638,11 @@
     "clothing_nftsilkbandana",
     "Seidenkopftuch",
     "clothing_nftsilkbandana desc"
+  ],
+  [
+    "clothing_nftsilvereyes",
+    "Silber Augen",
+    ""
   ],
   [
     "clothing_nftsilverskin",
@@ -38526,12 +38566,12 @@
   ],
   [
     "clothing_olympiansandals",
-    "clothing_olympiansandals name",
+    "Olympische Sandalen",
     "clothing_olympiansandals desc"
   ],
   [
     "clothing_olympiantoga",
-    "clothing_olympiantoga name",
+    "Olympische Toga",
     "clothing_olympiantoga desc"
   ],
   [
@@ -41230,8 +41270,13 @@
     ""
   ],
   [
+    "clothing_r25_aphrodite_bd",
+    "Venus-Haar",
+    ""
+  ],
+  [
     "clothing_r25_aphroditehair",
-    "clothing_r25_aphroditehair name",
+    "Venus-Haar",
     "clothing_r25_aphroditehair desc"
   ],
   [
@@ -41325,8 +41370,13 @@
     "clothing_r25_mothwings desc"
   ],
   [
+    "clothing_r25_nemean_bd",
+    "Nemeischer Löwe",
+    ""
+  ],
+  [
     "clothing_r25_nemeanlion",
-    "clothing_r25_nemeanlion name",
+    "Nemeischer Löwe",
     "clothing_r25_nemeanlion desc"
   ],
   [
@@ -76560,6 +76610,11 @@
     "nft_h25_owlsculpture desc"
   ],
   [
+    "nft_h25_pegasusstatue",
+    "Pegasos-Statue",
+    ""
+  ],
+  [
     "nft_h25_popsicle1",
     "Himbeereisriegel",
     "nft_h25_popsicle1 desc"
@@ -76786,7 +76841,7 @@
   ],
   [
     "nft_habbo25_r25_blackthrone",
-    "nft_habbo25_r25_blackthrone name",
+    "Schwarzer Thron",
     "nft_habbo25_r25_blackthrone desc"
   ],
   [
@@ -79761,142 +79816,152 @@
   ],
   [
     "olympus_c25_ambrosia",
-    "olympus_c25_ambrosia name",
+    "Goldene Ambrosia",
     "olympus_c25_ambrosia desc"
   ],
   [
     "olympus_c25_aphroditealter",
-    "olympus_c25_aphroditealter name",
+    "Aphrodites Altar",
     "olympus_c25_aphroditealter desc"
   ],
   [
     "olympus_c25_ariadnesthread",
-    "olympus_c25_ariadnesthread name",
+    "Ariadnes Faden",
     "olympus_c25_ariadnesthread desc"
   ],
   [
     "olympus_c25_background",
-    "olympus_c25_background name",
+    "Der Olymp",
     "olympus_c25_background desc"
   ],
   [
     "olympus_c25_buildingpiece",
-    "olympus_c25_buildingpiece name",
+    "Olymp-Bauklotz",
     "olympus_c25_buildingpiece desc"
   ],
   [
     "olympus_c25_cornerpiece",
-    "olympus_c25_cornerpiece name",
+    "Olymp-Ecke",
     "olympus_c25_cornerpiece desc"
   ],
   [
     "olympus_c25_dionysusalter",
-    "olympus_c25_dionysusalter name",
+    "Dionysos- Altar",
     "olympus_c25_dionysusalter desc"
   ],
   [
     "olympus_c25_floor1",
-    "olympus_c25_floor1 name",
+    "Olymp-Ziegelstein",
     "olympus_c25_floor1 desc"
   ],
   [
     "olympus_c25_floor2",
-    "olympus_c25_floor2 name",
+    "Erhöhter Olymp-Ziegelstein",
     "olympus_c25_floor2 desc"
   ],
   [
     "olympus_c25_grapes",
-    "olympus_c25_grapes name",
+    "Üppige Trauben",
     "olympus_c25_grapes desc"
   ],
   [
     "olympus_c25_hadesalter",
-    "olympus_c25_hadesalter name",
+    "Hades-Altar ",
     "olympus_c25_hadesalter desc"
   ],
   [
     "olympus_c25_hephaestusanvil",
-    "olympus_c25_hephaestusanvil name",
+    "Schmiede-Handwerkstisch des Hephaistos",
     "olympus_c25_hephaestusanvil desc"
   ],
   [
     "olympus_c25_narcissusflowers",
-    "olympus_c25_narcissusflowers name",
+    "Narzisse",
     "olympus_c25_narcissusflowers desc"
   ],
   [
     "olympus_c25_olivetree",
-    "olympus_c25_olivetree name",
+    "Olivenbaum",
     "olympus_c25_olivetree desc"
   ],
   [
     "olympus_c25_pandorasboxb",
-    "olympus_c25_pandorasboxb name",
+    "Büchse der Pandora",
     "olympus_c25_pandorasboxb desc"
   ],
   [
     "olympus_c25_pandorasboxcrackable",
-    "olympus_c25_pandorasboxcrackable name",
+    "Büchse der Pandora",
     "olympus_c25_pandorasboxcrackable desc"
   ],
   [
     "olympus_c25_pileofobols",
-    "olympus_c25_pileofobols name",
+    "Obolus-Haufen",
     "olympus_c25_pileofobols desc"
   ],
   [
     "olympus_c25_pillar",
-    "olympus_c25_pillar name",
+    "Griechische Säulen",
     "olympus_c25_pillar desc"
   ],
   [
     "olympus_c25_plinth",
-    "olympus_c25_plinth name",
+    "Olymp-Sockel",
     "olympus_c25_plinth desc"
   ],
   [
     "olympus_c25_pomegranate",
-    "olympus_c25_pomegranate name",
+    "Göttlicher Granatapfel",
     "olympus_c25_pomegranate desc"
   ],
   [
     "olympus_c25_roofbuildingpiece",
-    "olympus_c25_roofbuildingpiece name",
+    "Olymp-Dach",
     "olympus_c25_roofbuildingpiece desc"
   ],
   [
     "olympus_c25_roofcornerpiece",
-    "olympus_c25_roofcornerpiece name",
+    "Olymp-Dachecke",
     "olympus_c25_roofcornerpiece desc"
   ],
   [
     "olympus_c25_roofpiece",
-    "olympus_c25_roofpiece name",
+    "Spitzes Olymp-Dach",
     "olympus_c25_roofpiece desc"
   ],
   [
     "olympus_c25_seating",
-    "olympus_c25_seating name",
+    "Olymp-Chaiselongue",
     "olympus_c25_seating desc"
   ],
   [
     "olympus_c25_table",
-    "olympus_c25_table name",
+    "Olymp-Tisch",
     "olympus_c25_table desc"
   ],
   [
     "olympus_c25_zeusalter",
-    "olympus_c25_zeusalter name",
+    "Zeus-Altar",
     "olympus_c25_zeusalter desc"
   ],
   [
+    "olympus_r25_lightning_bd",
+    "Blitz in der Flasche",
+    ""
+  ],
+  [
     "olympus_r25_lightninginabottle",
-    "olympus_r25_lightninginabottle name",
+    "Blitz in der Flasche",
     "olympus_r25_lightninginabottle desc"
   ],
   [
+    "olympus_r25_zeus_bd",
+    "Mächtiger Zeus-Statue",
+    ""
+  ],
+  [
     "olympus_r25_zeusstatue",
-    "olympus_r25_zeusstatue name",
+    "Mächtiger Zeus-Statue",
     "olympus_r25_zeusstatue desc"
   ],
   [
@@ -97260,14 +97325,19 @@
     "Wir fühlen uns so nostalgisch, dass wir fast weinen müssen. Alles Gute zum Geburtstag, Habbo!"
   ],
   [
+    "rotating_roomdeal447_10c",
+    "Foot Locker Bündel     ",
+    ""
+  ],
+  [
     "rotating_roomdeal447_d",
-    "Temple of Olympus Bundle",
+    "Foot Locker Bündel     ",
     ""
   ],
   [
     "rotating_roomdeal447",
-    "Temple of Olympus Bundle",
-    "Welcome to Olympus! Look around and stay a while."
+    "Wir stellen vor: Foot Locker        ",
+    "Du betrittst nun Foot Locker. Komm rein und guck es dir an!"
   ],
   [
     "rotating_roomdeal44_10c",

@@ -9751,32 +9751,32 @@
   ],
   [
     "ads_footlocker_adwall",
-    "ads_footlocker_adwall name",
+    "Foot Locker Reclame op de Muur",
     "ads_footlocker_adwall desc"
   ],
   [
     "ads_footlocker_logoblock",
-    "ads_footlocker_logoblock name",
+    "Foot Locker Logo",
     "ads_footlocker_logoblock desc"
   ],
   [
     "ads_footlocker_shoeplinth1",
-    "ads_footlocker_shoeplinth1 name",
+    "Foot Locker Sokkel 1",
     "ads_footlocker_shoeplinth1 desc"
   ],
   [
     "ads_footlocker_shoeplinth2",
-    "ads_footlocker_shoeplinth2 name",
+    "Foot Locker Sokkel 2",
     "ads_footlocker_shoeplinth2 desc"
   ],
   [
     "ads_footlocker_shoeplinth3",
-    "ads_footlocker_shoeplinth3 name",
+    "Foot Locker Sokkel 3",
     "ads_footlocker_shoeplinth3 desc"
   ],
   [
     "ads_footlocker_shoerack",
-    "ads_footlocker_shoerack name",
+    "Foot Locker Schoenenrek",
     "ads_footlocker_shoerack desc"
   ],
   [
@@ -32731,27 +32731,27 @@
   ],
   [
     "clothing_blessedoutfit",
-    "clothing_blessedoutfit name",
+    "Gezegende Toga",
     "clothing_blessedoutfit desc"
   ],
   [
     "clothing_blessingofaphrodite",
-    "clothing_blessingofaphrodite name",
+    "De liefde van Aphrodite",
     "clothing_blessingofaphrodite desc"
   ],
   [
     "clothing_blessingofdionysus",
-    "clothing_blessingofdionysus name",
+    "De Druiven van Dionysus",
     "clothing_blessingofdionysus desc"
   ],
   [
     "clothing_blessingofhades",
-    "clothing_blessingofhades name",
+    "Driekoppige Hond van Hade",
     "clothing_blessingofhades desc"
   ],
   [
     "clothing_blessingofzeus",
-    "clothing_blessingofzeus name",
+    "De bliksemschicht van Zeus",
     "clothing_blessingofzeus desc"
   ],
   [
@@ -34446,7 +34446,7 @@
   ],
   [
     "clothing_footlocker_shirt",
-    "clothing_footlocker_shirt name",
+    "Foot Locker T-Shirt",
     "clothing_footlocker_shirt desc"
   ],
   [
@@ -34560,8 +34560,13 @@
     "clothing_glitzypurse desc"
   ],
   [
+    "clothing_goddesseyes_bd",
+    "Goddelijke Ogen",
+    ""
+  ],
+  [
     "clothing_goddesseyes",
-    "clothing_goddesseyes name",
+    "Goddelijke Ogen",
     "clothing_goddesseyes desc"
   ],
   [
@@ -36205,6 +36210,11 @@
     "clothing_nftbookworm desc"
   ],
   [
+    "clothing_nftbowandquiver",
+    "Gouden Boog en Pijlkoker",
+    ""
+  ],
+  [
     "clothing_nftbrat",
     "Brat Print",
     "clothing_nftbrat desc"
@@ -36780,6 +36790,21 @@
     "clothing_nfthiphop desc"
   ],
   [
+    "clothing_nfthobbyhorse1",
+    "Blonde Hobbypaard",
+    ""
+  ],
+  [
+    "clothing_nfthobbyhorse2",
+    "Bruin Hobbypaard",
+    ""
+  ],
+  [
+    "clothing_nfthobbyhorse3",
+    "Eenhoorn Hobbypaard",
+    ""
+  ],
+  [
     "clothing_nftholidaycut",
     "Relaxte Vakantiecoupe",
     "clothing_nftholidaycut desc"
@@ -36988,6 +37013,16 @@
     "clothing_nftnpc",
     "NPC Print",
     "clothing_nftnpc desc"
+  ],
+  [
+    "clothing_nftombrecut1",
+    "Kleurrijk Ombre Kapsel A",
+    ""
+  ],
+  [
+    "clothing_nftombrecut2",
+    "Kleurrijk Ombre Kapsel B",
+    ""
   ],
   [
     "clothing_nftorigamihat1",
@@ -37328,6 +37363,11 @@
     "clothing_nftsilkbandana",
     "Zijden Hoofddoek",
     "clothing_nftsilkbandana desc"
+  ],
+  [
+    "clothing_nftsilvereyes",
+    "Zilveren Ogen",
+    ""
   ],
   [
     "clothing_nftsilverskin",
@@ -38251,12 +38291,12 @@
   ],
   [
     "clothing_olympiansandals",
-    "clothing_olympiansandals name",
+    "Olympische Sandalen",
     "clothing_olympiansandals desc"
   ],
   [
     "clothing_olympiantoga",
-    "clothing_olympiantoga name",
+    "Olympische Toga",
     "clothing_olympiantoga desc"
   ],
   [
@@ -40955,8 +40995,13 @@
     ""
   ],
   [
+    "clothing_r25_aphrodite_bd",
+    "Het Haar van Venus",
+    ""
+  ],
+  [
     "clothing_r25_aphroditehair",
-    "clothing_r25_aphroditehair name",
+    "Het Haar van Venus",
     "clothing_r25_aphroditehair desc"
   ],
   [
@@ -41050,8 +41095,13 @@
     "clothing_r25_mothwings desc"
   ],
   [
+    "clothing_r25_nemean_bd",
+    "Nemeïsche Leeuw",
+    ""
+  ],
+  [
     "clothing_r25_nemeanlion",
-    "clothing_r25_nemeanlion name",
+    "Nemeïsche Leeuw",
     "clothing_r25_nemeanlion desc"
   ],
   [
@@ -77270,6 +77320,11 @@
     "nft_h25_owlsculpture desc"
   ],
   [
+    "nft_h25_pegasusstatue",
+    "Pegasus Standbeeld",
+    ""
+  ],
+  [
     "nft_h25_popsicle1",
     "Frambozen IJslolly",
     "nft_h25_popsicle1 desc"
@@ -77496,7 +77551,7 @@
   ],
   [
     "nft_habbo25_r25_blackthrone",
-    "nft_habbo25_r25_blackthrone name",
+    "Zwarte Troon",
     "nft_habbo25_r25_blackthrone desc"
   ],
   [
@@ -80481,142 +80536,152 @@
   ],
   [
     "olympus_c25_ambrosia",
-    "olympus_c25_ambrosia name",
+    "Gouden Ambrosia",
     "olympus_c25_ambrosia desc"
   ],
   [
     "olympus_c25_aphroditealter",
-    "olympus_c25_aphroditealter name",
+    "Het Altaar van Aphrodite",
     "olympus_c25_aphroditealter desc"
   ],
   [
     "olympus_c25_ariadnesthread",
-    "olympus_c25_ariadnesthread name",
+    "Draad van Ariadnes",
     "olympus_c25_ariadnesthread desc"
   ],
   [
     "olympus_c25_background",
-    "olympus_c25_background name",
+    "Olympus Berg",
     "olympus_c25_background desc"
   ],
   [
     "olympus_c25_buildingpiece",
-    "olympus_c25_buildingpiece name",
+    "Olympus Blok",
     "olympus_c25_buildingpiece desc"
   ],
   [
     "olympus_c25_cornerpiece",
-    "olympus_c25_cornerpiece name",
+    "Olympus Hoek",
     "olympus_c25_cornerpiece desc"
   ],
   [
     "olympus_c25_dionysusalter",
-    "olympus_c25_dionysusalter name",
+    "Het Altaar van Dionysus",
     "olympus_c25_dionysusalter desc"
   ],
   [
     "olympus_c25_floor1",
-    "olympus_c25_floor1 name",
+    "Olympus Baksteen",
     "olympus_c25_floor1 desc"
   ],
   [
     "olympus_c25_floor2",
-    "olympus_c25_floor2 name",
+    "Verhoogde Olympus Bakstenen",
     "olympus_c25_floor2 desc"
   ],
   [
     "olympus_c25_grapes",
-    "olympus_c25_grapes name",
+    "Luxe Druiven",
     "olympus_c25_grapes desc"
   ],
   [
     "olympus_c25_hadesalter",
-    "olympus_c25_hadesalter name",
+    "Het Altaar van Hades",
     "olympus_c25_hadesalter desc"
   ],
   [
     "olympus_c25_hephaestusanvil",
-    "olympus_c25_hephaestusanvil name",
+    "Het aambeeld van Hephaestus Craft Tafel",
     "olympus_c25_hephaestusanvil desc"
   ],
   [
     "olympus_c25_narcissusflowers",
-    "olympus_c25_narcissusflowers name",
+    "Narcisbloem",
     "olympus_c25_narcissusflowers desc"
   ],
   [
     "olympus_c25_olivetree",
-    "olympus_c25_olivetree name",
+    "Olijfboom",
     "olympus_c25_olivetree desc"
   ],
   [
     "olympus_c25_pandorasboxb",
-    "olympus_c25_pandorasboxb name",
+    "De Doos van Pandora",
     "olympus_c25_pandorasboxb desc"
   ],
   [
     "olympus_c25_pandorasboxcrackable",
-    "olympus_c25_pandorasboxcrackable name",
+    "De Doos van Pandora",
     "olympus_c25_pandorasboxcrackable desc"
   ],
   [
     "olympus_c25_pileofobols",
-    "olympus_c25_pileofobols name",
+    "Stapel Obolen",
     "olympus_c25_pileofobols desc"
   ],
   [
     "olympus_c25_pillar",
-    "olympus_c25_pillar name",
+    "Griekse Pilaren",
     "olympus_c25_pillar desc"
   ],
   [
     "olympus_c25_plinth",
-    "olympus_c25_plinth name",
+    "Olympus Sokkel",
     "olympus_c25_plinth desc"
   ],
   [
     "olympus_c25_pomegranate",
-    "olympus_c25_pomegranate name",
+    "Goddelijke Granaatappels",
     "olympus_c25_pomegranate desc"
   ],
   [
     "olympus_c25_roofbuildingpiece",
-    "olympus_c25_roofbuildingpiece name",
+    "Olympus Dak",
     "olympus_c25_roofbuildingpiece desc"
   ],
   [
     "olympus_c25_roofcornerpiece",
-    "olympus_c25_roofcornerpiece name",
+    "Olympus Dakhoek",
     "olympus_c25_roofcornerpiece desc"
   ],
   [
     "olympus_c25_roofpiece",
-    "olympus_c25_roofpiece name",
+    "Puntige Olympus Dak",
     "olympus_c25_roofpiece desc"
   ],
   [
     "olympus_c25_seating",
-    "olympus_c25_seating name",
+    "Olympus Ligstoel",
     "olympus_c25_seating desc"
   ],
   [
     "olympus_c25_table",
-    "olympus_c25_table name",
+    "Olympus Tafel",
     "olympus_c25_table desc"
   ],
   [
     "olympus_c25_zeusalter",
-    "olympus_c25_zeusalter name",
+    "Het Altaar van Zeus",
     "olympus_c25_zeusalter desc"
   ],
   [
+    "olympus_r25_lightning_bd",
+    "Bliksem in Fles",
+    ""
+  ],
+  [
     "olympus_r25_lightninginabottle",
-    "olympus_r25_lightninginabottle name",
+    "Bliksem in Fles",
     "olympus_r25_lightninginabottle desc"
   ],
   [
+    "olympus_r25_zeus_bd",
+    "Almachtige Zeus Standbeeld",
+    ""
+  ],
+  [
     "olympus_r25_zeusstatue",
-    "olympus_r25_zeusstatue name",
+    "Almachtige Zeus Standbeeld",
     "olympus_r25_zeusstatue desc"
   ],
   [
@@ -97996,18 +98061,18 @@
   ],
   [
     "rotating_roomdeal447_10c",
-    "Tempel van Olympus Bundel",
+    "Foot Locker Bundel",
     ""
   ],
   [
     "rotating_roomdeal447_d",
-    "Tempel van Olympus Bundel",
+    "Foot Locker Bundel",
     ""
   ],
   [
     "rotating_roomdeal447",
-    "Tempel van Olympus Bundel",
-    "Welkom bij Olympus! Kijk een beetje rond en blijf een tijdje hangen."
+    "Foot Locker Bundel",
+    "Je gaat nu de Food Locker binnen. Kom binnen en bekijk het zelf!"
   ],
   [
     "rotating_roomdeal44_10c",
