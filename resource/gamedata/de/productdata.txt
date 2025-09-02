@@ -9370,6 +9370,56 @@
     "ads_capri_tree desc"
   ],
   [
+    "ads_carebears_cheerbearplushie",
+    "Plüsch-Hurrabärchi",
+    ""
+  ],
+  [
+    "ads_carebears_cloud",
+    "Glücksbärchi-Wolke",
+    ""
+  ],
+  [
+    "ads_carebears_cloudmobile1",
+    "Glücksbärchi-Wolkenmobil Vorderseite",
+    ""
+  ],
+  [
+    "ads_carebears_cloudmobile2",
+    "Glücksbärchi-Wolkenmobil Mitte",
+    ""
+  ],
+  [
+    "ads_carebears_cloudmobile3",
+    "Glücksbärchi-Wolkenmobil Rückseite",
+    ""
+  ],
+  [
+    "ads_carebears_funshinebearplushie",
+    "Plüsch-Sonnenscheinbärchi",
+    ""
+  ],
+  [
+    "ads_carebears_goodluckbearplushie",
+    "Plüsch-Glücksbärchi",
+    ""
+  ],
+  [
+    "ads_carebears_grumpybearplushie",
+    "Plüsch-Brummbärchi",
+    ""
+  ],
+  [
+    "ads_carebears_sharebearplushie",
+    "Plüsch-Teile-gern-Bärchi",
+    ""
+  ],
+  [
+    "ads_carebears_tenderheartplushie",
+    "Plüsch-Schmusebärchi",
+    ""
+  ],
+  [
     "ads_cchups_screen",
     "ads_cchups_screen name",
     "ads_cchups_screen desc"
@@ -36366,7 +36416,7 @@
   ],
   [
     "clothing_nftbionic",
-    "Habbionic Arm",
+    "Habbionischer Arm",
     "clothing_nftbionic desc"
   ],
   [
@@ -36506,7 +36556,7 @@
   ],
   [
     "clothing_nftbrokenglasses",
-    "Broken Glasses",
+    "Kaputte Brille",
     "clothing_nftbrokenglasses desc"
   ],
   [
@@ -36543,6 +36593,11 @@
     "clothing_nftcakehat",
     "Kuchenhut",
     "clothing_nftcakehat desc"
+  ],
+  [
+    "clothing_nftcakeoutfit",
+    "Großer Kuchen zum Tragen",
+    ""
   ],
   [
     "clothing_nftcandle",
@@ -38011,7 +38066,7 @@
   ],
   [
     "clothing_nftwatermelonhelmet",
-    "Watermelon Helmet",
+    "Wassermelonenhelm",
     "clothing_nftwatermelonhelmet desc"
   ],
   [
@@ -49551,22 +49606,22 @@
   ],
   [
     "ducket_c25_autumnlamp",
-    "ducket_c25_autumnlamp name",
+    "Chill-Hängelampe",
     "ducket_c25_autumnlamp desc"
   ],
   [
     "ducket_c25_autumnplushie",
-    "ducket_c25_autumnplushie name",
+    "Baby-Kürbis",
     "ducket_c25_autumnplushie desc"
   ],
   [
     "ducket_c25_autumnwall",
-    "ducket_c25_autumnwall name",
+    "Blattdruck-Wand",
     "ducket_c25_autumnwall desc"
   ],
   [
     "ducket_c25_autumnwindow",
-    "ducket_c25_autumnwindow name",
+    "Blattfenster",
     "ducket_c25_autumnwindow desc"
   ],
   [
@@ -56987,7 +57042,7 @@
   [
     "hab25_r25_blackthrone_bd",
     "Schwarzer Thron",
-    ""
+    "Du hast die Community Challenge absolviert und kannst nun auf diesem Thron sitzen! Die Items können unter Verwendung der Sammlervitrine in Relikte umgewandelt werden Weitere Informationen über das Sammelset, zu dem er gehört sowie die weiteren Items, die dafür veröffentlicht werden, gibt's auf unserer Webseite"
   ],
   [
     "hab25_r25_turntable_bd",
@@ -73511,37 +73566,37 @@
   ],
   [
     "nft_cm1_carpet",
-    "Patchwork-Teppich",
+    "Flickenteppich",
     "nft_cm1_carpet desc"
   ],
   [
     "nft_cm1_crocsofa",
-    "Kroko-Sofa",
+    "Krokodil Sofa",
     "nft_cm1_crocsofa desc"
   ],
   [
     "nft_cm1_platform",
-    "Patchwork-Plattform",
+    "Flickenplattform",
     "nft_cm1_platform desc"
   ],
   [
     "nft_cm1_recyccoon",
-    "Recycelter Plüschwaschbär",
+    "Recyclerwaschbär-Plüschtier",
     "nft_cm1_recyccoon desc"
   ],
   [
     "nft_cm1_robotikotter",
-    "Robo-Otter",
+    "Robotik Otter",
     "nft_cm1_robotikotter desc"
   ],
   [
     "nft_cm1_voodoo",
-    "Kleine Voodoopuppe",
+    "Mini Voodoo",
     "nft_cm1_voodoo desc"
   ],
   [
     "nft_cm1_wall",
-    "Patchwork-Wand",
+    "Flickenwand",
     "nft_cm1_wall desc"
   ],
   [
@@ -76538,6 +76593,16 @@
     "nft_h25_alicefigure",
     "Alice-Figur zum Sammeln",
     "nft_h25_alicefigure desc"
+  ],
+  [
+    "nft_h25_armasbarrelchair",
+    "Verwandeltes Fass",
+    ""
+  ],
+  [
+    "nft_h25_armasrockingchair",
+    "Antike Schaukelbank",
+    ""
   ],
   [
     "nft_h25_boogieblast_egg",

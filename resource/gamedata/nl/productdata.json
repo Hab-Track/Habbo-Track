@@ -9097,6 +9097,56 @@
         "description": "ads_capri_tree desc"
       },
       {
+        "code": "ads_carebears_cheerbearplushie",
+        "name": "Vrolijke Beer Knuffel",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloud",
+        "name": "Troetelbeertjes Wolk",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile1",
+        "name": "Troetelbeertjes Wolkenauto Voorkant",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile2",
+        "name": "Troetelbeertjes Wolkenauto Middenstuk",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile3",
+        "name": "Troetelbeertjes Wolkenauto Achterkant",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_funshinebearplushie",
+        "name": "Zonnebeer Knuffel",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_goodluckbearplushie",
+        "name": "Geluks Beer Knuffel",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_grumpybearplushie",
+        "name": "Knorrige Beer Knuffel",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_sharebearplushie",
+        "name": "Deel Beer Knuffel",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_tenderheartplushie",
+        "name": "Tederhart Beer Knuffel",
+        "description": ""
+      },
+      {
         "code": "ads_cchups_screen",
         "name": "ads_cchups_screen name",
         "description": "ads_cchups_screen desc"
@@ -36093,7 +36143,7 @@
       },
       {
         "code": "clothing_nftbionic",
-        "name": "Habbionic Arm",
+        "name": "Habbionische Arm",
         "description": "clothing_nftbionic desc"
       },
       {
@@ -36233,7 +36283,7 @@
       },
       {
         "code": "clothing_nftbrokenglasses",
-        "name": "Broken Glasses",
+        "name": "Gebroken Bril",
         "description": "clothing_nftbrokenglasses desc"
       },
       {
@@ -36270,6 +36320,11 @@
         "code": "clothing_nftcakehat",
         "name": "Taarthoed",
         "description": "clothing_nftcakehat desc"
+      },
+      {
+        "code": "clothing_nftcakeoutfit",
+        "name": "Grote Draagbare Taart",
+        "description": ""
       },
       {
         "code": "clothing_nftcandle",
@@ -37738,7 +37793,7 @@
       },
       {
         "code": "clothing_nftwatermelonhelmet",
-        "name": "Watermelon Helmet",
+        "name": "Watermeloen Helm",
         "description": "clothing_nftwatermelonhelmet desc"
       },
       {
@@ -50223,22 +50278,22 @@
       },
       {
         "code": "ducket_c25_autumnlamp",
-        "name": "ducket_c25_autumnlamp name",
+        "name": "Chille Hangende Lamp",
         "description": "ducket_c25_autumnlamp desc"
       },
       {
         "code": "ducket_c25_autumnplushie",
-        "name": "ducket_c25_autumnplushie name",
+        "name": "Baby Pompoen",
         "description": "ducket_c25_autumnplushie desc"
       },
       {
         "code": "ducket_c25_autumnwall",
-        "name": "ducket_c25_autumnwall name",
+        "name": "Blaadjes Behang",
         "description": "ducket_c25_autumnwall desc"
       },
       {
         "code": "ducket_c25_autumnwindow",
-        "name": "ducket_c25_autumnwindow name",
+        "name": "Raam met Vallende Blaadjes",
         "description": "ducket_c25_autumnwindow desc"
       },
       {
@@ -57674,7 +57729,7 @@
       {
         "code": "hab25_r25_blackthrone_bd",
         "name": "Zwarte Troon",
-        "description": ""
+        "description": "Je hebt de Community Challenge voltooid en je kunt nu lekker gaan zitten op deze troon! Dit item kun je omzetten naar een Relic door je Collector Kast te gebruiken. Bekijk onze website voor meer informatie over de Collectible Set. Dit item is een onderdeel van deze set en de andere items die we nog uit zullen brengen!"
       },
       {
         "code": "hab25_r25_turntable_bd",
@@ -74223,12 +74278,12 @@
       },
       {
         "code": "nft_cm1_carpet",
-        "name": "Patchwork Carpet",
+        "name": "Patchwork Tapijt",
         "description": "nft_cm1_carpet desc"
       },
       {
         "code": "nft_cm1_crocsofa",
-        "name": "Crocodile Sofa",
+        "name": "Krokodil Bank",
         "description": "nft_cm1_crocsofa desc"
       },
       {
@@ -74238,12 +74293,12 @@
       },
       {
         "code": "nft_cm1_recyccoon",
-        "name": "Recyccoon Plushie",
+        "name": "Recycle Knuffel Wasbeer",
         "description": "nft_cm1_recyccoon desc"
       },
       {
         "code": "nft_cm1_robotikotter",
-        "name": "Robotik Otter",
+        "name": "Robot Otter",
         "description": "nft_cm1_robotikotter desc"
       },
       {
@@ -74253,7 +74308,7 @@
       },
       {
         "code": "nft_cm1_wall",
-        "name": "Patchwork Wall",
+        "name": "Patchwork Muur",
         "description": "nft_cm1_wall desc"
       },
       {
@@ -77250,6 +77305,16 @@
         "code": "nft_h25_alicefigure",
         "name": "Alice Collectible Poppetje",
         "description": "nft_h25_alicefigure desc"
+      },
+      {
+        "code": "nft_h25_armasbarrelchair",
+        "name": "Omgebouwd Vat",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_armasrockingchair",
+        "name": "Antieke Schommelbank",
+        "description": ""
       },
       {
         "code": "nft_h25_boogieblast_egg",

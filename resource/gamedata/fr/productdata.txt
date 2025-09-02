@@ -9290,6 +9290,56 @@
     "ads_capri_tree desc"
   ],
   [
+    "ads_carebears_cheerbearplushie",
+    "Peluche Ours cheer",
+    ""
+  ],
+  [
+    "ads_carebears_cloud",
+    "Nuage Bisounours",
+    ""
+  ],
+  [
+    "ads_carebears_cloudmobile1",
+    "Avant voiture nuage Bisounours",
+    ""
+  ],
+  [
+    "ads_carebears_cloudmobile2",
+    "Milieu voiture nuage Bisounours",
+    ""
+  ],
+  [
+    "ads_carebears_cloudmobile3",
+    "Arrière voiture nuage Bisounours",
+    ""
+  ],
+  [
+    "ads_carebears_funshinebearplushie",
+    "Peluche Ours Funshine",
+    ""
+  ],
+  [
+    "ads_carebears_goodluckbearplushie",
+    "Peluche Ours Good Luck",
+    ""
+  ],
+  [
+    "ads_carebears_grumpybearplushie",
+    "Peluche ours Grumpy",
+    ""
+  ],
+  [
+    "ads_carebears_sharebearplushie",
+    "Peluche Ours Share",
+    ""
+  ],
+  [
+    "ads_carebears_tenderheartplushie",
+    "Peluche Tenderheart",
+    ""
+  ],
+  [
     "ads_cchups_screen",
     "ads_cchups_screen name",
     "ads_cchups_screen desc"
@@ -36266,7 +36316,7 @@
   ],
   [
     "clothing_nftbionic",
-    "Habbionic Arm",
+    "Bras Habbionic",
     "clothing_nftbionic desc"
   ],
   [
@@ -36406,7 +36456,7 @@
   ],
   [
     "clothing_nftbrokenglasses",
-    "Broken Glasses",
+    "Lunettes cassées",
     "clothing_nftbrokenglasses desc"
   ],
   [
@@ -36443,6 +36493,11 @@
     "clothing_nftcakehat",
     "Chapeau gâteau",
     "clothing_nftcakehat desc"
+  ],
+  [
+    "clothing_nftcakeoutfit",
+    "Grand gâteau à porter",
+    ""
   ],
   [
     "clothing_nftcandle",
@@ -37911,7 +37966,7 @@
   ],
   [
     "clothing_nftwatermelonhelmet",
-    "Watermelon Helmet",
+    "Casque Pastèque",
     "clothing_nftwatermelonhelmet desc"
   ],
   [
@@ -48671,22 +48726,22 @@
   ],
   [
     "ducket_c25_autumnlamp",
-    "ducket_c25_autumnlamp name",
+    "Lampe suspendue Chill",
     "ducket_c25_autumnlamp desc"
   ],
   [
     "ducket_c25_autumnplushie",
-    "ducket_c25_autumnplushie name",
+    "Petite citrouille",
     "ducket_c25_autumnplushie desc"
   ],
   [
     "ducket_c25_autumnwall",
-    "ducket_c25_autumnwall name",
+    "Mur imprimé feuilles",
     "ducket_c25_autumnwall desc"
   ],
   [
     "ducket_c25_autumnwindow",
-    "ducket_c25_autumnwindow name",
+    "Fenêtre feuillue",
     "ducket_c25_autumnwindow desc"
   ],
   [
@@ -56137,7 +56192,7 @@
   [
     "hab25_r25_blackthrone_bd",
     "Trône noir",
-    ""
+    "Vous avez relevé le défi de la communauté et vous pouvez maintenant vous asseoir sur ce trône ! Cet article peut être converti en relique à l'aide de votre armoire de collectionneur. Consultez notre site web pour plus d'informations sur l'ensemble Collectible dont il fait partie et sur les autres articles que nous sortons pour ça !"
   ],
   [
     "hab25_r25_turntable_bd",
@@ -72581,27 +72636,27 @@
   ],
   [
     "nft_cm1_carpet",
-    "Patchwork Carpet",
+    "Tapis patchwork",
     "nft_cm1_carpet desc"
   ],
   [
     "nft_cm1_crocsofa",
-    "Crocodile Sofa",
+    "Canapé Crocodile",
     "nft_cm1_crocsofa desc"
   ],
   [
     "nft_cm1_platform",
-    "Patchwork Platform",
+    "Plateforme Patchwork",
     "nft_cm1_platform desc"
   ],
   [
     "nft_cm1_recyccoon",
-    "Recyccoon Plushie",
+    "Peluche Recyccoon",
     "nft_cm1_recyccoon desc"
   ],
   [
     "nft_cm1_robotikotter",
-    "Robotik Otter",
+    "Loutre robotique",
     "nft_cm1_robotikotter desc"
   ],
   [
@@ -72611,7 +72666,7 @@
   ],
   [
     "nft_cm1_wall",
-    "Patchwork Wall",
+    "Mur patchwork",
     "nft_cm1_wall desc"
   ],
   [
@@ -75608,6 +75663,16 @@
     "nft_h25_alicefigure",
     "Figurine Alice Collectible",
     "nft_h25_alicefigure desc"
+  ],
+  [
+    "nft_h25_armasbarrelchair",
+    "Baril converti",
+    ""
+  ],
+  [
+    "nft_h25_armasrockingchair",
+    "Banc à bascule antique",
+    ""
   ],
   [
     "nft_h25_boogieblast_egg",

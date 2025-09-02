@@ -10822,6 +10822,56 @@
         "description": ""
       },
       {
+        "code": "ads_carebears_cheerbearplushie",
+        "name": "Cheer Bear Peluş Ayıcık",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloud",
+        "name": "Care Bears Bulutu",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile1",
+        "name": "Care Bears Bulut Araç Önü",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile2",
+        "name": "Care Bears Bulut Araç Ortası",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile3",
+        "name": "Care Bears Bulut Araç Arkası",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_funshinebearplushie",
+        "name": "Funshine Bear Peluş Ayıcık",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_goodluckbearplushie",
+        "name": "Good Luck Bear Peluş Ayıcık",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_grumpybearplushie",
+        "name": "Grumpy Bear Peluş Ayıcık",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_sharebearplushie",
+        "name": "Share Bear Peluş Ayıcık",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_tenderheartplushie",
+        "name": "Tenderheart Bear Peluş Ayıcık",
+        "description": ""
+      },
+      {
         "code": "ads_cchups_screen",
         "name": "",
         "description": ""
@@ -37973,7 +38023,7 @@
       },
       {
         "code": "clothing_nftbionic",
-        "name": "Habbionic Arm",
+        "name": "Habbionik Kol",
         "description": "clothing_nftbionic desc"
       },
       {
@@ -38113,7 +38163,7 @@
       },
       {
         "code": "clothing_nftbrokenglasses",
-        "name": "Broken Glasses",
+        "name": "Kırık Gözlükler",
         "description": "clothing_nftbrokenglasses desc"
       },
       {
@@ -38150,6 +38200,11 @@
         "code": "clothing_nftcakehat",
         "name": "Pasta Şapka",
         "description": "clothing_nftcakehat desc"
+      },
+      {
+        "code": "clothing_nftcakeoutfit",
+        "name": "Büyük Pasta Giysisi",
+        "description": ""
       },
       {
         "code": "clothing_nftcandle",
@@ -39618,7 +39673,7 @@
       },
       {
         "code": "clothing_nftwatermelonhelmet",
-        "name": "Watermelon Helmet",
+        "name": "Karpuz Kaskı",
         "description": "clothing_nftwatermelonhelmet desc"
       },
       {
@@ -59253,22 +59308,22 @@
       },
       {
         "code": "ducket_c25_autumnlamp",
-        "name": "ducket_c25_autumnlamp name",
+        "name": "Chill Asma Lamba",
         "description": "ducket_c25_autumnlamp desc"
       },
       {
         "code": "ducket_c25_autumnplushie",
-        "name": "ducket_c25_autumnplushie name",
+        "name": "Mini Bal Kabağı",
         "description": "ducket_c25_autumnplushie desc"
       },
       {
         "code": "ducket_c25_autumnwall",
-        "name": "ducket_c25_autumnwall name",
+        "name": "Yapraklı Duvar Kağıdı",
         "description": "ducket_c25_autumnwall desc"
       },
       {
         "code": "ducket_c25_autumnwindow",
-        "name": "ducket_c25_autumnwindow name",
+        "name": "Yapraklı Pencere",
         "description": "ducket_c25_autumnwindow desc"
       },
       {
@@ -66944,7 +66999,7 @@
       {
         "code": "hab25_r25_blackthrone_bd",
         "name": "Siyah Taht",
-        "description": ""
+        "description": "Topluluk meydan okumasını tamamladın ve artık bu tahtta oturabilirsin! Bu öğeyi Koleksiyoncu Vitrinini kullanarak bir Parça'ya dönüştürebilirsiniz. Koleksiyoncu Seti ve bunun için çıkardığımız diğer ürünler hakkında daha fazla bilgi için web sitemizi ziyaret edin!"
       },
       {
         "code": "hab25_r25_turntable_bd",
@@ -83873,22 +83928,22 @@
       },
       {
         "code": "nft_cm1_carpet",
-        "name": "Patchwork Carpet",
+        "name": "Yamalı Halı",
         "description": "nft_cm1_carpet desc"
       },
       {
         "code": "nft_cm1_crocsofa",
-        "name": "Crocodile Sofa",
+        "name": "Timsah Kanepe",
         "description": "nft_cm1_crocsofa desc"
       },
       {
         "code": "nft_cm1_platform",
-        "name": "Patchwork Platform",
+        "name": "Yamalı Platform",
         "description": "nft_cm1_platform desc"
       },
       {
         "code": "nft_cm1_recyccoon",
-        "name": "Recyccoon Plushie",
+        "name": "Geri Dönüşümlü Peluş Oyuncak",
         "description": "nft_cm1_recyccoon desc"
       },
       {
@@ -83903,7 +83958,7 @@
       },
       {
         "code": "nft_cm1_wall",
-        "name": "Patchwork Wall",
+        "name": "Yamalı Duvar",
         "description": "nft_cm1_wall desc"
       },
       {
@@ -86900,6 +86955,16 @@
         "code": "nft_h25_alicefigure",
         "name": "Alice Koleksiyon Figürü",
         "description": "nft_h25_alicefigure desc"
+      },
+      {
+        "code": "nft_h25_armasbarrelchair",
+        "name": "Dönüştürülmüş Varil",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_armasrockingchair",
+        "name": "Antik Sallanan Bank",
+        "description": ""
       },
       {
         "code": "nft_h25_boogieblast_egg",

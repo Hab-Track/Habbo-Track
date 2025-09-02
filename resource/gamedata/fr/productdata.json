@@ -9292,6 +9292,56 @@
         "description": "ads_capri_tree desc"
       },
       {
+        "code": "ads_carebears_cheerbearplushie",
+        "name": "Peluche Ours cheer",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloud",
+        "name": "Nuage Bisounours",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile1",
+        "name": "Avant voiture nuage Bisounours",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile2",
+        "name": "Milieu voiture nuage Bisounours",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile3",
+        "name": "Arrière voiture nuage Bisounours",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_funshinebearplushie",
+        "name": "Peluche Ours Funshine",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_goodluckbearplushie",
+        "name": "Peluche Ours Good Luck",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_grumpybearplushie",
+        "name": "Peluche ours Grumpy",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_sharebearplushie",
+        "name": "Peluche Ours Share",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_tenderheartplushie",
+        "name": "Peluche Tenderheart",
+        "description": ""
+      },
+      {
         "code": "ads_cchups_screen",
         "name": "ads_cchups_screen name",
         "description": "ads_cchups_screen desc"
@@ -36268,7 +36318,7 @@
       },
       {
         "code": "clothing_nftbionic",
-        "name": "Habbionic Arm",
+        "name": "Bras Habbionic",
         "description": "clothing_nftbionic desc"
       },
       {
@@ -36408,7 +36458,7 @@
       },
       {
         "code": "clothing_nftbrokenglasses",
-        "name": "Broken Glasses",
+        "name": "Lunettes cassées",
         "description": "clothing_nftbrokenglasses desc"
       },
       {
@@ -36445,6 +36495,11 @@
         "code": "clothing_nftcakehat",
         "name": "Chapeau gâteau",
         "description": "clothing_nftcakehat desc"
+      },
+      {
+        "code": "clothing_nftcakeoutfit",
+        "name": "Grand gâteau à porter",
+        "description": ""
       },
       {
         "code": "clothing_nftcandle",
@@ -37913,7 +37968,7 @@
       },
       {
         "code": "clothing_nftwatermelonhelmet",
-        "name": "Watermelon Helmet",
+        "name": "Casque Pastèque",
         "description": "clothing_nftwatermelonhelmet desc"
       },
       {
@@ -48673,22 +48728,22 @@
       },
       {
         "code": "ducket_c25_autumnlamp",
-        "name": "ducket_c25_autumnlamp name",
+        "name": "Lampe suspendue Chill",
         "description": "ducket_c25_autumnlamp desc"
       },
       {
         "code": "ducket_c25_autumnplushie",
-        "name": "ducket_c25_autumnplushie name",
+        "name": "Petite citrouille",
         "description": "ducket_c25_autumnplushie desc"
       },
       {
         "code": "ducket_c25_autumnwall",
-        "name": "ducket_c25_autumnwall name",
+        "name": "Mur imprimé feuilles",
         "description": "ducket_c25_autumnwall desc"
       },
       {
         "code": "ducket_c25_autumnwindow",
-        "name": "ducket_c25_autumnwindow name",
+        "name": "Fenêtre feuillue",
         "description": "ducket_c25_autumnwindow desc"
       },
       {
@@ -56139,7 +56194,7 @@
       {
         "code": "hab25_r25_blackthrone_bd",
         "name": "Trône noir",
-        "description": ""
+        "description": "Vous avez relevé le défi de la communauté et vous pouvez maintenant vous asseoir sur ce trône ! Cet article peut être converti en relique à l'aide de votre armoire de collectionneur. Consultez notre site web pour plus d'informations sur l'ensemble Collectible dont il fait partie et sur les autres articles que nous sortons pour ça !"
       },
       {
         "code": "hab25_r25_turntable_bd",
@@ -72583,27 +72638,27 @@
       },
       {
         "code": "nft_cm1_carpet",
-        "name": "Patchwork Carpet",
+        "name": "Tapis patchwork",
         "description": "nft_cm1_carpet desc"
       },
       {
         "code": "nft_cm1_crocsofa",
-        "name": "Crocodile Sofa",
+        "name": "Canapé Crocodile",
         "description": "nft_cm1_crocsofa desc"
       },
       {
         "code": "nft_cm1_platform",
-        "name": "Patchwork Platform",
+        "name": "Plateforme Patchwork",
         "description": "nft_cm1_platform desc"
       },
       {
         "code": "nft_cm1_recyccoon",
-        "name": "Recyccoon Plushie",
+        "name": "Peluche Recyccoon",
         "description": "nft_cm1_recyccoon desc"
       },
       {
         "code": "nft_cm1_robotikotter",
-        "name": "Robotik Otter",
+        "name": "Loutre robotique",
         "description": "nft_cm1_robotikotter desc"
       },
       {
@@ -72613,7 +72668,7 @@
       },
       {
         "code": "nft_cm1_wall",
-        "name": "Patchwork Wall",
+        "name": "Mur patchwork",
         "description": "nft_cm1_wall desc"
       },
       {
@@ -75610,6 +75665,16 @@
         "code": "nft_h25_alicefigure",
         "name": "Figurine Alice Collectible",
         "description": "nft_h25_alicefigure desc"
+      },
+      {
+        "code": "nft_h25_armasbarrelchair",
+        "name": "Baril converti",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_armasrockingchair",
+        "name": "Banc à bascule antique",
+        "description": ""
       },
       {
         "code": "nft_h25_boogieblast_egg",

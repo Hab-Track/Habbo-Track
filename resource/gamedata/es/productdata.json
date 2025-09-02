@@ -9472,6 +9472,56 @@
         "description": "ads_capri_tree desc"
       },
       {
+        "code": "ads_carebears_cheerbearplushie",
+        "name": "Peluche Angelosita",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloud",
+        "name": "Nube Osos Amorosos",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile1",
+        "name": "Cochenube Osos Amorosos parte Frontal",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile2",
+        "name": "Cochenube Osos Amorosos parte Central",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile3",
+        "name": "Cochenube Osos Amorosos parte Trasera",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_funshinebearplushie",
+        "name": "Peluche Divertosito",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_goodluckbearplushie",
+        "name": "Peluche Suerteosito",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_grumpybearplushie",
+        "name": "Peluche Gruñosito",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_sharebearplushie",
+        "name": "Peluche Generosita",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_tenderheartplushie",
+        "name": "Peluche Angeloso",
+        "description": ""
+      },
+      {
         "code": "ads_cchups_screen",
         "name": "Chupa Chups TV",
         "description": "Mira, mira..."
@@ -36778,7 +36828,7 @@
       },
       {
         "code": "clothing_nftbionic",
-        "name": "Habbionic Arm",
+        "name": "Brazo Habbiónico",
         "description": "clothing_nftbionic desc"
       },
       {
@@ -36918,7 +36968,7 @@
       },
       {
         "code": "clothing_nftbrokenglasses",
-        "name": "Broken Glasses",
+        "name": "Gafas Rotas",
         "description": "clothing_nftbrokenglasses desc"
       },
       {
@@ -36955,6 +37005,11 @@
         "code": "clothing_nftcakehat",
         "name": "Sombrero Tarta",
         "description": "clothing_nftcakehat desc"
+      },
+      {
+        "code": "clothing_nftcakeoutfit",
+        "name": "Traje Gran Pastel",
+        "description": ""
       },
       {
         "code": "clothing_nftcandle",
@@ -38423,7 +38478,7 @@
       },
       {
         "code": "clothing_nftwatermelonhelmet",
-        "name": "Watermelon Helmet",
+        "name": "Casco Sandía",
         "description": "clothing_nftwatermelonhelmet desc"
       },
       {
@@ -49883,22 +49938,22 @@
       },
       {
         "code": "ducket_c25_autumnlamp",
-        "name": "ducket_c25_autumnlamp name",
+        "name": "Lámpara Relajante de techo",
         "description": "ducket_c25_autumnlamp desc"
       },
       {
         "code": "ducket_c25_autumnplushie",
-        "name": "ducket_c25_autumnplushie name",
+        "name": "Bebé Calabaza",
         "description": "ducket_c25_autumnplushie desc"
       },
       {
         "code": "ducket_c25_autumnwall",
-        "name": "ducket_c25_autumnwall name",
+        "name": "Tapizado con Estampado de Hojas",
         "description": "ducket_c25_autumnwall desc"
       },
       {
         "code": "ducket_c25_autumnwindow",
-        "name": "ducket_c25_autumnwindow name",
+        "name": "Ventana Hojas al Viento",
         "description": "ducket_c25_autumnwindow desc"
       },
       {
@@ -57369,7 +57424,7 @@
       {
         "code": "hab25_r25_blackthrone_bd",
         "name": "Trono Negro",
-        "description": ""
+        "description": "¡Has completado el desafío de la comunidad y ahora puedes sentarte en este trono! Este objeto se puede convertir en una Reliquia usando tu Armario de Coleccionista. ¡Consulta nuestra web para más información sobre el Set Coleccionable del que forma parte y los otros objetos que vamos a lanzar!"
       },
       {
         "code": "hab25_r25_turntable_bd",
@@ -73933,37 +73988,37 @@
       },
       {
         "code": "nft_cm1_carpet",
-        "name": "Patchwork Carpet",
+        "name": "Alfombra Mosaico",
         "description": "nft_cm1_carpet desc"
       },
       {
         "code": "nft_cm1_crocsofa",
-        "name": "Crocodile Sofa",
+        "name": "Sofá VIP Cocodrilo",
         "description": "nft_cm1_crocsofa desc"
       },
       {
         "code": "nft_cm1_platform",
-        "name": "Patchwork Platform",
+        "name": "Plataforma Mosaico",
         "description": "nft_cm1_platform desc"
       },
       {
         "code": "nft_cm1_recyccoon",
-        "name": "Recyccoon Plushie",
+        "name": "Peluche Mapache",
         "description": "nft_cm1_recyccoon desc"
       },
       {
         "code": "nft_cm1_robotikotter",
-        "name": "Robotik Otter",
+        "name": "Nutria Robótica",
         "description": "nft_cm1_robotikotter desc"
       },
       {
         "code": "nft_cm1_voodoo",
-        "name": "Mini Voodoo",
+        "name": "Mini Vudú",
         "description": "nft_cm1_voodoo desc"
       },
       {
         "code": "nft_cm1_wall",
-        "name": "Patchwork Wall",
+        "name": "Pared Mosaico",
         "description": "nft_cm1_wall desc"
       },
       {
@@ -76960,6 +77015,16 @@
         "code": "nft_h25_alicefigure",
         "name": "Coleccionable Figurita de Alicia",
         "description": "nft_h25_alicefigure desc"
+      },
+      {
+        "code": "nft_h25_armasbarrelchair",
+        "name": "Barril Reformado",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_armasrockingchair",
+        "name": "Banco Balancín de Madera Antigua",
+        "description": ""
       },
       {
         "code": "nft_h25_boogieblast_egg",

@@ -10580,6 +10580,56 @@
     "ads_capri_tree desc"
   ],
   [
+    "ads_carebears_cheerbearplushie",
+    "Ilonallepehmo",
+    ""
+  ],
+  [
+    "ads_carebears_cloud",
+    "Halinallepilvi",
+    ""
+  ],
+  [
+    "ads_carebears_cloudmobile1",
+    "Halinallepilven etuosa",
+    ""
+  ],
+  [
+    "ads_carebears_cloudmobile2",
+    "Halinallepilven keskiosa",
+    ""
+  ],
+  [
+    "ads_carebears_cloudmobile3",
+    "Halinallepilven takaosa",
+    ""
+  ],
+  [
+    "ads_carebears_funshinebearplushie",
+    "Aurinkoinen nallepehmo",
+    ""
+  ],
+  [
+    "ads_carebears_goodluckbearplushie",
+    "Hyvän onnen nallepehmo",
+    ""
+  ],
+  [
+    "ads_carebears_grumpybearplushie",
+    "Mutrunallepehmo",
+    ""
+  ],
+  [
+    "ads_carebears_sharebearplushie",
+    "Jaettava nallepehmo",
+    ""
+  ],
+  [
+    "ads_carebears_tenderheartplushie",
+    "Helläsydämen pehmo",
+    ""
+  ],
+  [
     "ads_cchups_screen",
     "ads_cchups_screen name",
     "ads_cchups_screen desc"
@@ -37556,7 +37606,7 @@
   ],
   [
     "clothing_nftbionic",
-    "Habbionic Arm",
+    "Habbioninen käsivarsi",
     "clothing_nftbionic desc"
   ],
   [
@@ -37696,7 +37746,7 @@
   ],
   [
     "clothing_nftbrokenglasses",
-    "Broken Glasses",
+    "Rikkoutuneet silmälasit",
     "clothing_nftbrokenglasses desc"
   ],
   [
@@ -37733,6 +37783,11 @@
     "clothing_nftcakehat",
     "Kakkupäähine",
     "clothing_nftcakehat desc"
+  ],
+  [
+    "clothing_nftcakeoutfit",
+    "Iso kakkuasu",
+    ""
   ],
   [
     "clothing_nftcandle",
@@ -39201,7 +39256,7 @@
   ],
   [
     "clothing_nftwatermelonhelmet",
-    "Watermelon Helmet",
+    "Vesimelonikypärä",
     "clothing_nftwatermelonhelmet desc"
   ],
   [
@@ -50506,22 +50561,22 @@
   ],
   [
     "ducket_c25_autumnlamp",
-    "ducket_c25_autumnlamp name",
+    "Rento riippuvalaisin",
     "ducket_c25_autumnlamp desc"
   ],
   [
     "ducket_c25_autumnplushie",
-    "ducket_c25_autumnplushie name",
+    "Vauvakurpitsa",
     "ducket_c25_autumnplushie desc"
   ],
   [
     "ducket_c25_autumnwall",
-    "ducket_c25_autumnwall name",
+    "Lehtikuvioinen seinä",
     "ducket_c25_autumnwall desc"
   ],
   [
     "ducket_c25_autumnwindow",
-    "ducket_c25_autumnwindow name",
+    "Lehti-ikkuna",
     "ducket_c25_autumnwindow desc"
   ],
   [
@@ -57912,7 +57967,7 @@
   [
     "hab25_r25_blackthrone_bd",
     "Musta valtaistuin",
-    ""
+    "Suoritit yhteisöhaasteen. Niinpä kutsumme sinut valtaistuimelle! Voit muuntaa tuotteen Reliikiksi Keräilykaapissasi. Tsekkaa verkkosivuiltamme lisätietoja kaikista ko. Keräilysarjan tuotteista!"
   ],
   [
     "hab25_r25_turntable_bd",
@@ -74526,37 +74581,37 @@
   ],
   [
     "nft_cm1_carpet",
-    "Patchwork Carpet",
+    "Tilkkumatto",
     "nft_cm1_carpet desc"
   ],
   [
     "nft_cm1_crocsofa",
-    "Crocodile Sofa",
+    "Krokosohva",
     "nft_cm1_crocsofa desc"
   ],
   [
     "nft_cm1_platform",
-    "Patchwork Platform",
+    "Tilkkualusta",
     "nft_cm1_platform desc"
   ],
   [
     "nft_cm1_recyccoon",
-    "Recyccoon Plushie",
+    "Kierrätyspesukarhu",
     "nft_cm1_recyccoon desc"
   ],
   [
     "nft_cm1_robotikotter",
-    "Robotik Otter",
+    "Robottisaukko",
     "nft_cm1_robotikotter desc"
   ],
   [
     "nft_cm1_voodoo",
-    "Mini Voodoo",
+    "Minivoodoo",
     "nft_cm1_voodoo desc"
   ],
   [
     "nft_cm1_wall",
-    "Patchwork Wall",
+    "Tilkkuseinä",
     "nft_cm1_wall desc"
   ],
   [
@@ -77553,6 +77608,16 @@
     "nft_h25_alicefigure",
     "Liisa-keräilyfiguuri",
     "nft_h25_alicefigure desc"
+  ],
+  [
+    "nft_h25_armasbarrelchair",
+    "Öljytynnyri",
+    ""
+  ],
+  [
+    "nft_h25_armasrockingchair",
+    "Vanha keinupenkki",
+    ""
   ],
   [
     "nft_h25_boogieblast_egg",

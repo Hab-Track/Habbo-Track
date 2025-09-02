@@ -10212,6 +10212,56 @@
         "description": "Capri-Sun Quest 1 Prize!"
       },
       {
+        "code": "ads_carebears_cheerbearplushie",
+        "name": "Cheer Bear Plushie",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloud",
+        "name": "Care Bears Cloud",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile1",
+        "name": "Care Bears Cloudmobile Front",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile2",
+        "name": "Care Bears Cloudmobile Middle",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_cloudmobile3",
+        "name": "Care Bears Cloudmobile Back",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_funshinebearplushie",
+        "name": "Funshine Bear Plushie",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_goodluckbearplushie",
+        "name": "Good Luck Bear Plushie",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_grumpybearplushie",
+        "name": "Grumpy Bear Plushie",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_sharebearplushie",
+        "name": "Share Bear Plushie",
+        "description": ""
+      },
+      {
+        "code": "ads_carebears_tenderheartplushie",
+        "name": "Tenderheart Plushie",
+        "description": ""
+      },
+      {
         "code": "ads_cchups_screen",
         "name": "ads_cchups_screen name",
         "description": "ads_cchups_screen desc"
@@ -37517,6 +37567,11 @@
         "description": "clothing_nftcakehat desc"
       },
       {
+        "code": "clothing_nftcakeoutfit",
+        "name": "Big Wearable Cake",
+        "description": ""
+      },
+      {
         "code": "clothing_nftcandle",
         "name": "Birthday Candle",
         "description": "clothing_nftcandle desc"
@@ -56528,22 +56583,22 @@
       },
       {
         "code": "ducket_c25_autumnlamp",
-        "name": "ducket_c25_autumnlamp name",
+        "name": "Chill Hanging Lamp",
         "description": "ducket_c25_autumnlamp desc"
       },
       {
         "code": "ducket_c25_autumnplushie",
-        "name": "ducket_c25_autumnplushie name",
+        "name": "Baby Pumpkin",
         "description": "ducket_c25_autumnplushie desc"
       },
       {
         "code": "ducket_c25_autumnwall",
-        "name": "ducket_c25_autumnwall name",
+        "name": "Leaf Print Wall",
         "description": "ducket_c25_autumnwall desc"
       },
       {
         "code": "ducket_c25_autumnwindow",
-        "name": "ducket_c25_autumnwindow name",
+        "name": "Leafy Window",
         "description": "ducket_c25_autumnwindow desc"
       },
       {
@@ -64084,7 +64139,7 @@
       {
         "code": "hab25_r25_blackthrone_bd",
         "name": "Black Throne",
-        "description": ""
+        "description": "You completed the community challenge and now you can sit upon this throne! This item can be converted to a Relic using your Collector Cabinet. Check our website for more information about the Collectible Set it's part of and the other items we're releasing for it!"
       },
       {
         "code": "hab25_r25_turntable_bd",
@@ -83990,6 +84045,16 @@
         "code": "nft_h25_alicefigure",
         "name": "Alice Collectible Figure",
         "description": "nft_h25_alicefigure desc"
+      },
+      {
+        "code": "nft_h25_armasbarrelchair",
+        "name": "Converted Barrel",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_armasrockingchair",
+        "name": "Antique Rocking Bench",
+        "description": ""
       },
       {
         "code": "nft_h25_boogieblast_egg",
