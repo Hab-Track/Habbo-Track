@@ -8971,6 +8971,7 @@ menu.own_avatar.enabled=1
 messenger.history.state.message.limit=100
 messenger.new.skin=true
 minimal.level.for.trading=15
+mobile.tilecursor.clicktype=2
 moderatoractionlog.url=https://theallseeingeye.sulake.com/ase/habbo/es/housekeeping/extra/hobba/moderator_activity.action?searchCriteria.habboName=
 monitor.garbage.collection=false
 monsterplants.composting.enabled=true
@@ -9287,6 +9288,6 @@ flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-2025090
 new.user.flow.roomTypes=10,11,12
 external.texts.txt=https://www.habbo.es/gamedata/external_flash_texts/2e94dbeab5da62619c6e15ada9b1149bc6186a34
 external.figurepartlist.txt=https://www.habbo.es/gamedata/figuredata/b9a81c13c73a32c1c79249773f6cefc34348d226
-productdata.load.url=http://www.habbo.es/gamedata/productdata/213085847a490c283cd5d958609213fb25d717a3
-furnidata.load.url=http://www.habbo.es/gamedata/furnidata_xml/63ca72bcb447676cce0946eb5b17c5525a559a26
+productdata.load.url=http://www.habbo.es/gamedata/productdata/7bc89bcc36ff4b338eac2df2b0f32903a166abf1
+furnidata.load.url=http://www.habbo.es/gamedata/furnidata_xml/7444117a390b17667faba1151f031d09938005db
 external.override.texts.txt=https://www.habbo.es/gamedata/override/external_flash_override_texts/2e94dbeab5da62619c6e15ada9b1149bc6186a34

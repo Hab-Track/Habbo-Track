@@ -8965,6 +8965,7 @@ menu.own_avatar.enabled=1
 messenger.history.state.message.limit=100
 messenger.new.skin=true
 minimal.level.for.trading=15
+mobile.tilecursor.clicktype=2
 moderatoractionlog.url=https://theallseeingeye.sulake.com/ase/habbo/nl/housekeeping/extra/hobba/moderator_activity.action?searchCriteria.habboName=
 monitor.garbage.collection=false
 monsterplants.composting.enabled=true
@@ -9274,8 +9275,8 @@ zoom.enabled=1
 
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202509011553-548761917/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.nl/gamedata/external_flash_texts/16387c36e37925c795f750f81f7a72f9e02a03cc
+external.texts.txt=https://www.habbo.nl/gamedata/external_flash_texts/fb1143743202a3d1d81f0f8a036a5b3b30663058
 external.figurepartlist.txt=https://www.habbo.nl/gamedata/figuredata/b9a81c13c73a32c1c79249773f6cefc34348d226
-productdata.load.url=http://www.habbo.nl/gamedata/productdata/8565df485db6cb17657d50c1bf170d041bedc495
-furnidata.load.url=http://www.habbo.nl/gamedata/furnidata_xml/35915bdc85cfb45d1e2bf6965623ac26a8f9481d
-external.override.texts.txt=https://www.habbo.nl/gamedata/override/external_flash_override_texts/16387c36e37925c795f750f81f7a72f9e02a03cc
+productdata.load.url=http://www.habbo.nl/gamedata/productdata/942b1ad3b3841f9e31476bad73dbaa12ecdf5201
+furnidata.load.url=http://www.habbo.nl/gamedata/furnidata_xml/c9fadaff72dc656af7db7b920d1947c6cbed18f8
+external.override.texts.txt=https://www.habbo.nl/gamedata/override/external_flash_override_texts/fb1143743202a3d1d81f0f8a036a5b3b30663058
