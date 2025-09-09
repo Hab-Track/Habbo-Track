@@ -9479,52 +9479,52 @@
       {
         "code": "ads_carebears_cheerbearplushie",
         "name": "Peluche Angelosita",
-        "description": ""
+        "description": "ads_carebears_cheerbearplushie desc"
       },
       {
         "code": "ads_carebears_cloud",
         "name": "Nube Osos Amorosos",
-        "description": ""
+        "description": "ads_carebears_cloud desc"
       },
       {
         "code": "ads_carebears_cloudmobile1",
         "name": "Cochenube Osos Amorosos parte Frontal",
-        "description": ""
+        "description": "ads_carebears_cloudmobile1 desc"
       },
       {
         "code": "ads_carebears_cloudmobile2",
         "name": "Cochenube Osos Amorosos parte Central",
-        "description": ""
+        "description": "ads_carebears_cloudmobile2 desc"
       },
       {
         "code": "ads_carebears_cloudmobile3",
         "name": "Cochenube Osos Amorosos parte Trasera",
-        "description": ""
+        "description": "ads_carebears_cloudmobile3 desc"
       },
       {
         "code": "ads_carebears_funshinebearplushie",
         "name": "Peluche Divertosito",
-        "description": ""
+        "description": "ads_carebears_funshinebearplushie desc"
       },
       {
         "code": "ads_carebears_goodluckbearplushie",
         "name": "Peluche Suerteosito",
-        "description": ""
+        "description": "ads_carebears_goodluckbearplushie desc"
       },
       {
         "code": "ads_carebears_grumpybearplushie",
         "name": "Peluche Gruñosito",
-        "description": ""
+        "description": "ads_carebears_grumpybearplushie desc"
       },
       {
         "code": "ads_carebears_sharebearplushie",
         "name": "Peluche Generosita",
-        "description": ""
+        "description": "ads_carebears_sharebearplushie desc"
       },
       {
         "code": "ads_carebears_tenderheartplushie",
         "name": "Peluche Angeloso",
-        "description": ""
+        "description": "ads_carebears_tenderheartplushie desc"
       },
       {
         "code": "ads_cb_cheerplush_bd",
@@ -109527,6 +109527,11 @@
         "description": "El avatar causante abandonará el equipo preestablecido"
       },
       {
+        "code": "wf_act_log",
+        "name": "wf_act_log name",
+        "description": "wf_act_log desc"
+      },
+      {
         "code": "wf_act_match_to_sshot",
         "name": "Efecto WIRED: A Cero",
         "description": "Este efecto devuelve al Furni seleccionado a sus condiciones originales."
@@ -109560,6 +109565,11 @@
         "code": "wf_act_neg_call_stacks",
         "name": "Efecto Negativo WIRED: Ejecuta Pilas",
         "description": "wf_act_neg_call_stacks desc"
+      },
+      {
+        "code": "wf_act_neg_log",
+        "name": "wf_act_neg_log name",
+        "description": "wf_act_neg_log desc"
       },
       {
         "code": "wf_act_neg_send_signal",

@@ -9902,52 +9902,52 @@
   [
     "ads_carebears_cheerbearplushie",
     "Allegrorsa",
-    ""
+    "ads_carebears_cheerbearplushie desc"
   ],
   [
     "ads_carebears_cloud",
     "Nuvoletta Orsetti del Cuore",
-    ""
+    "ads_carebears_cloud desc"
   ],
   [
     "ads_carebears_cloudmobile1",
     "Parte Anteriore Nuvoletta Mobile Orsetti del Cuore",
-    ""
+    "ads_carebears_cloudmobile1 desc"
   ],
   [
     "ads_carebears_cloudmobile2",
     "Parte Centrale Nuvoletta Mobile Orsetti del Cuore",
-    ""
+    "ads_carebears_cloudmobile2 desc"
   ],
   [
     "ads_carebears_cloudmobile3",
     "Parte Posteriore Nuvoletta Mobile Orsetti del Cuore",
-    ""
+    "ads_carebears_cloudmobile3 desc"
   ],
   [
     "ads_carebears_funshinebearplushie",
     "Mattacchiorso",
-    ""
+    "ads_carebears_funshinebearplushie desc"
   ],
   [
     "ads_carebears_goodluckbearplushie",
     "Fortunorso",
-    ""
+    "ads_carebears_goodluckbearplushie desc"
   ],
   [
     "ads_carebears_grumpybearplushie",
     "Brontolorso",
-    ""
+    "ads_carebears_grumpybearplushie desc"
   ],
   [
     "ads_carebears_sharebearplushie",
     "Generorso",
-    ""
+    "ads_carebears_sharebearplushie desc"
   ],
   [
     "ads_carebears_tenderheartplushie",
     "Tenerorso",
-    ""
+    "ads_carebears_tenderheartplushie desc"
   ],
   [
     "ads_cb_cheerplush_bd",
@@ -110015,6 +110015,11 @@
     "L'Avatar che aziona l'innesco lascerà una squadra pre-selezionata"
   ],
   [
+    "wf_act_log",
+    "wf_act_log name",
+    "wf_act_log desc"
+  ],
+  [
     "wf_act_match_to_sshot",
     "EFFETTO: posizione e stato iniziali del Furni",
     "Questo Effetto riporta il Furni selezionato alle sue condizioni iniziali."
@@ -110048,6 +110053,11 @@
     "wf_act_neg_call_stacks",
     "Effetto Negativo: Esegui impilaggio",
     "wf_act_neg_call_stacks desc"
+  ],
+  [
+    "wf_act_neg_log",
+    "wf_act_neg_log name",
+    "wf_act_neg_log desc"
   ],
   [
     "wf_act_neg_send_signal",

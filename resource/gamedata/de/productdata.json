@@ -9379,52 +9379,52 @@
       {
         "code": "ads_carebears_cheerbearplushie",
         "name": "Plüsch-Hurrabärchi",
-        "description": ""
+        "description": "ads_carebears_cheerbearplushie desc"
       },
       {
         "code": "ads_carebears_cloud",
         "name": "Glücksbärchi-Wolke",
-        "description": ""
+        "description": "ads_carebears_cloud desc"
       },
       {
         "code": "ads_carebears_cloudmobile1",
         "name": "Glücksbärchi-Wolkenmobil Vorderseite",
-        "description": ""
+        "description": "ads_carebears_cloudmobile1 desc"
       },
       {
         "code": "ads_carebears_cloudmobile2",
         "name": "Glücksbärchi-Wolkenmobil Mitte",
-        "description": ""
+        "description": "ads_carebears_cloudmobile2 desc"
       },
       {
         "code": "ads_carebears_cloudmobile3",
         "name": "Glücksbärchi-Wolkenmobil Rückseite",
-        "description": ""
+        "description": "ads_carebears_cloudmobile3 desc"
       },
       {
         "code": "ads_carebears_funshinebearplushie",
         "name": "Plüsch-Sonnenscheinbärchi",
-        "description": ""
+        "description": "ads_carebears_funshinebearplushie desc"
       },
       {
         "code": "ads_carebears_goodluckbearplushie",
         "name": "Plüsch-Glücksbärchi",
-        "description": ""
+        "description": "ads_carebears_goodluckbearplushie desc"
       },
       {
         "code": "ads_carebears_grumpybearplushie",
         "name": "Plüsch-Brummbärchi",
-        "description": ""
+        "description": "ads_carebears_grumpybearplushie desc"
       },
       {
         "code": "ads_carebears_sharebearplushie",
         "name": "Plüsch-Teile-gern-Bärchi",
-        "description": ""
+        "description": "ads_carebears_sharebearplushie desc"
       },
       {
         "code": "ads_carebears_tenderheartplushie",
         "name": "Plüsch-Schmusebärchi",
-        "description": ""
+        "description": "ads_carebears_tenderheartplushie desc"
       },
       {
         "code": "ads_cb_cheerplush_bd",
@@ -108977,6 +108977,11 @@
         "description": "Der auslösende Avatar verlässt das vordefinierte Team"
       },
       {
+        "code": "wf_act_log",
+        "name": "wf_act_log name",
+        "description": "wf_act_log desc"
+      },
+      {
         "code": "wf_act_match_to_sshot",
         "name": "WIRED Effekt: Möbelstück nimmt Zustand und Position ein",
         "description": "Dieser Effekt setzt die ausgewählten Möbel an ihre Bedingungsposition zurück."
@@ -109010,6 +109015,11 @@
         "code": "wf_act_neg_call_stacks",
         "name": "WIRED Negativer Effekt: Stapel ausführen",
         "description": "wf_act_neg_call_stacks desc"
+      },
+      {
+        "code": "wf_act_neg_log",
+        "name": "wf_act_neg_log name",
+        "description": "wf_act_neg_log desc"
       },
       {
         "code": "wf_act_neg_send_signal",

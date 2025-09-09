@@ -9297,52 +9297,52 @@
   [
     "ads_carebears_cheerbearplushie",
     "Peluche Ours cheer",
-    ""
+    "ads_carebears_cheerbearplushie desc"
   ],
   [
     "ads_carebears_cloud",
     "Nuage Bisounours",
-    ""
+    "ads_carebears_cloud desc"
   ],
   [
     "ads_carebears_cloudmobile1",
     "Avant voiture nuage Bisounours",
-    ""
+    "ads_carebears_cloudmobile1 desc"
   ],
   [
     "ads_carebears_cloudmobile2",
     "Milieu voiture nuage Bisounours",
-    ""
+    "ads_carebears_cloudmobile2 desc"
   ],
   [
     "ads_carebears_cloudmobile3",
     "Arrière voiture nuage Bisounours",
-    ""
+    "ads_carebears_cloudmobile3 desc"
   ],
   [
     "ads_carebears_funshinebearplushie",
     "Peluche Ours Funshine",
-    ""
+    "ads_carebears_funshinebearplushie desc"
   ],
   [
     "ads_carebears_goodluckbearplushie",
     "Peluche Ours Good Luck",
-    ""
+    "ads_carebears_goodluckbearplushie desc"
   ],
   [
     "ads_carebears_grumpybearplushie",
     "Peluche ours Grumpy",
-    ""
+    "ads_carebears_grumpybearplushie desc"
   ],
   [
     "ads_carebears_sharebearplushie",
     "Peluche Ours Share",
-    ""
+    "ads_carebears_sharebearplushie desc"
   ],
   [
     "ads_carebears_tenderheartplushie",
     "Peluche Tenderheart",
-    ""
+    "ads_carebears_tenderheartplushie desc"
   ],
   [
     "ads_cb_cheerplush_bd",
@@ -107885,6 +107885,11 @@
     "L'avatar déclencheur quitte l'équipe prédéfinie"
   ],
   [
+    "wf_act_log",
+    "wf_act_log name",
+    "wf_act_log desc"
+  ],
+  [
     "wf_act_match_to_sshot",
     "Effet WIRED: Réinstalle le mobi dans sa condition-état initial",
     "Cet effet ramène le mobi sélectionné à sa condition de départ."
@@ -107918,6 +107923,11 @@
     "wf_act_neg_call_stacks",
     "Effet négatif WIRED : Exécuter les piles",
     "wf_act_neg_call_stacks desc"
+  ],
+  [
+    "wf_act_neg_log",
+    "wf_act_neg_log name",
+    "wf_act_neg_log desc"
   ],
   [
     "wf_act_neg_send_signal",

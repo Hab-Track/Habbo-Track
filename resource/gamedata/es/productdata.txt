@@ -9477,52 +9477,52 @@
   [
     "ads_carebears_cheerbearplushie",
     "Peluche Angelosita",
-    ""
+    "ads_carebears_cheerbearplushie desc"
   ],
   [
     "ads_carebears_cloud",
     "Nube Osos Amorosos",
-    ""
+    "ads_carebears_cloud desc"
   ],
   [
     "ads_carebears_cloudmobile1",
     "Cochenube Osos Amorosos parte Frontal",
-    ""
+    "ads_carebears_cloudmobile1 desc"
   ],
   [
     "ads_carebears_cloudmobile2",
     "Cochenube Osos Amorosos parte Central",
-    ""
+    "ads_carebears_cloudmobile2 desc"
   ],
   [
     "ads_carebears_cloudmobile3",
     "Cochenube Osos Amorosos parte Trasera",
-    ""
+    "ads_carebears_cloudmobile3 desc"
   ],
   [
     "ads_carebears_funshinebearplushie",
     "Peluche Divertosito",
-    ""
+    "ads_carebears_funshinebearplushie desc"
   ],
   [
     "ads_carebears_goodluckbearplushie",
     "Peluche Suerteosito",
-    ""
+    "ads_carebears_goodluckbearplushie desc"
   ],
   [
     "ads_carebears_grumpybearplushie",
     "Peluche Gruñosito",
-    ""
+    "ads_carebears_grumpybearplushie desc"
   ],
   [
     "ads_carebears_sharebearplushie",
     "Peluche Generosita",
-    ""
+    "ads_carebears_sharebearplushie desc"
   ],
   [
     "ads_carebears_tenderheartplushie",
     "Peluche Angeloso",
-    ""
+    "ads_carebears_tenderheartplushie desc"
   ],
   [
     "ads_cb_cheerplush_bd",
@@ -109525,6 +109525,11 @@
     "El avatar causante abandonará el equipo preestablecido"
   ],
   [
+    "wf_act_log",
+    "wf_act_log name",
+    "wf_act_log desc"
+  ],
+  [
     "wf_act_match_to_sshot",
     "Efecto WIRED: A Cero",
     "Este efecto devuelve al Furni seleccionado a sus condiciones originales."
@@ -109558,6 +109563,11 @@
     "wf_act_neg_call_stacks",
     "Efecto Negativo WIRED: Ejecuta Pilas",
     "wf_act_neg_call_stacks desc"
+  ],
+  [
+    "wf_act_neg_log",
+    "wf_act_neg_log name",
+    "wf_act_neg_log desc"
   ],
   [
     "wf_act_neg_send_signal",

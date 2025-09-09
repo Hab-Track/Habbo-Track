@@ -9102,52 +9102,52 @@
   [
     "ads_carebears_cheerbearplushie",
     "Vrolijke Beer Knuffel",
-    ""
+    "ads_carebears_cheerbearplushie desc"
   ],
   [
     "ads_carebears_cloud",
     "Troetelbeertjes Wolk",
-    ""
+    "ads_carebears_cloud desc"
   ],
   [
     "ads_carebears_cloudmobile1",
     "Troetelbeertjes Wolkenauto Voorkant",
-    ""
+    "ads_carebears_cloudmobile1 desc"
   ],
   [
     "ads_carebears_cloudmobile2",
     "Troetelbeertjes Wolkenauto Middenstuk",
-    ""
+    "ads_carebears_cloudmobile2 desc"
   ],
   [
     "ads_carebears_cloudmobile3",
     "Troetelbeertjes Wolkenauto Achterkant",
-    ""
+    "ads_carebears_cloudmobile3 desc"
   ],
   [
     "ads_carebears_funshinebearplushie",
     "Zonnebeer Knuffel",
-    ""
+    "ads_carebears_funshinebearplushie desc"
   ],
   [
     "ads_carebears_goodluckbearplushie",
     "Geluks Beer Knuffel",
-    ""
+    "ads_carebears_goodluckbearplushie desc"
   ],
   [
     "ads_carebears_grumpybearplushie",
     "Knorrige Beer Knuffel",
-    ""
+    "ads_carebears_grumpybearplushie desc"
   ],
   [
     "ads_carebears_sharebearplushie",
     "Deel Beer Knuffel",
-    ""
+    "ads_carebears_sharebearplushie desc"
   ],
   [
     "ads_carebears_tenderheartplushie",
     "Tederhart Beer Knuffel",
-    ""
+    "ads_carebears_tenderheartplushie desc"
   ],
   [
     "ads_cb_cheerplush_bd",
@@ -109840,6 +109840,11 @@
     "De activerende Habbo verlaat het opgestelde team"
   ],
   [
+    "wf_act_log",
+    "wf_act_log name",
+    "wf_act_log desc"
+  ],
+  [
     "wf_act_match_to_sshot",
     "WIRED Reactie: Meubi verplaatst naar locatie & staat.",
     "Deze reactie verplaatst de geselecteerde Meubi naar de ingestelde positie en staat. Zo verplaats je meerdere meubels of stel je in dat een deur altijd open moet gaan als Reactie."
@@ -109873,6 +109878,11 @@
     "wf_act_neg_call_stacks",
     "WIRED Negatieve Reactie: Stapels uitvoeren",
     "wf_act_neg_call_stacks desc"
+  ],
+  [
+    "wf_act_neg_log",
+    "wf_act_neg_log name",
+    "wf_act_neg_log desc"
   ],
   [
     "wf_act_neg_send_signal",

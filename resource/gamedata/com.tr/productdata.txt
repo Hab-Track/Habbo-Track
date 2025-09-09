@@ -10827,52 +10827,52 @@
   [
     "ads_carebears_cheerbearplushie",
     "Cheer Bear Peluş Ayıcık",
-    ""
+    "ads_carebears_cheerbearplushie desc"
   ],
   [
     "ads_carebears_cloud",
     "Care Bears Bulutu",
-    ""
+    "ads_carebears_cloud desc"
   ],
   [
     "ads_carebears_cloudmobile1",
     "Care Bears Bulut Araç Önü",
-    ""
+    "ads_carebears_cloudmobile1 desc"
   ],
   [
     "ads_carebears_cloudmobile2",
     "Care Bears Bulut Araç Ortası",
-    ""
+    "ads_carebears_cloudmobile2 desc"
   ],
   [
     "ads_carebears_cloudmobile3",
     "Care Bears Bulut Araç Arkası",
-    ""
+    "ads_carebears_cloudmobile3 desc"
   ],
   [
     "ads_carebears_funshinebearplushie",
     "Funshine Bear Peluş Ayıcık",
-    ""
+    "ads_carebears_funshinebearplushie desc"
   ],
   [
     "ads_carebears_goodluckbearplushie",
     "Good Luck Bear Peluş Ayıcık",
-    ""
+    "ads_carebears_goodluckbearplushie desc"
   ],
   [
     "ads_carebears_grumpybearplushie",
     "Grumpy Bear Peluş Ayıcık",
-    ""
+    "ads_carebears_grumpybearplushie desc"
   ],
   [
     "ads_carebears_sharebearplushie",
     "Share Bear Peluş Ayıcık",
-    ""
+    "ads_carebears_sharebearplushie desc"
   ],
   [
     "ads_carebears_tenderheartplushie",
     "Tenderheart Bear Peluş Ayıcık",
-    ""
+    "ads_carebears_tenderheartplushie desc"
   ],
   [
     "ads_cb_cheerplush_bd",
@@ -120045,6 +120045,11 @@
     "Tetikleyen avatar önceden belirlenen takımı bırakır"
   ],
   [
+    "wf_act_log",
+    "wf_act_log name",
+    "wf_act_log desc"
+  ],
+  [
     "wf_act_match_to_sshot",
     "DÜZENEKLİ Efekt: Mobiyi Konum ve Duruma Getir",
     "Bu Efekt, seçili Mobiyi belirli koşullara geri döndürür."
@@ -120078,6 +120083,11 @@
     "wf_act_neg_call_stacks",
     "DÜZENEKLİ NEGATİF EFEKT: Düzenek Yığınlarını Çalıştır",
     "wf_act_neg_call_stacks desc"
+  ],
+  [
+    "wf_act_neg_log",
+    "wf_act_neg_log name",
+    "wf_act_neg_log desc"
   ],
   [
     "wf_act_neg_send_signal",

@@ -9104,52 +9104,52 @@
       {
         "code": "ads_carebears_cheerbearplushie",
         "name": "Vrolijke Beer Knuffel",
-        "description": ""
+        "description": "ads_carebears_cheerbearplushie desc"
       },
       {
         "code": "ads_carebears_cloud",
         "name": "Troetelbeertjes Wolk",
-        "description": ""
+        "description": "ads_carebears_cloud desc"
       },
       {
         "code": "ads_carebears_cloudmobile1",
         "name": "Troetelbeertjes Wolkenauto Voorkant",
-        "description": ""
+        "description": "ads_carebears_cloudmobile1 desc"
       },
       {
         "code": "ads_carebears_cloudmobile2",
         "name": "Troetelbeertjes Wolkenauto Middenstuk",
-        "description": ""
+        "description": "ads_carebears_cloudmobile2 desc"
       },
       {
         "code": "ads_carebears_cloudmobile3",
         "name": "Troetelbeertjes Wolkenauto Achterkant",
-        "description": ""
+        "description": "ads_carebears_cloudmobile3 desc"
       },
       {
         "code": "ads_carebears_funshinebearplushie",
         "name": "Zonnebeer Knuffel",
-        "description": ""
+        "description": "ads_carebears_funshinebearplushie desc"
       },
       {
         "code": "ads_carebears_goodluckbearplushie",
         "name": "Geluks Beer Knuffel",
-        "description": ""
+        "description": "ads_carebears_goodluckbearplushie desc"
       },
       {
         "code": "ads_carebears_grumpybearplushie",
         "name": "Knorrige Beer Knuffel",
-        "description": ""
+        "description": "ads_carebears_grumpybearplushie desc"
       },
       {
         "code": "ads_carebears_sharebearplushie",
         "name": "Deel Beer Knuffel",
-        "description": ""
+        "description": "ads_carebears_sharebearplushie desc"
       },
       {
         "code": "ads_carebears_tenderheartplushie",
         "name": "Tederhart Beer Knuffel",
-        "description": ""
+        "description": "ads_carebears_tenderheartplushie desc"
       },
       {
         "code": "ads_cb_cheerplush_bd",
@@ -109842,6 +109842,11 @@
         "description": "De activerende Habbo verlaat het opgestelde team"
       },
       {
+        "code": "wf_act_log",
+        "name": "wf_act_log name",
+        "description": "wf_act_log desc"
+      },
+      {
         "code": "wf_act_match_to_sshot",
         "name": "WIRED Reactie: Meubi verplaatst naar locatie & staat.",
         "description": "Deze reactie verplaatst de geselecteerde Meubi naar de ingestelde positie en staat. Zo verplaats je meerdere meubels of stel je in dat een deur altijd open moet gaan als Reactie."
@@ -109875,6 +109880,11 @@
         "code": "wf_act_neg_call_stacks",
         "name": "WIRED Negatieve Reactie: Stapels uitvoeren",
         "description": "wf_act_neg_call_stacks desc"
+      },
+      {
+        "code": "wf_act_neg_log",
+        "name": "wf_act_neg_log name",
+        "description": "wf_act_neg_log desc"
       },
       {
         "code": "wf_act_neg_send_signal",

@@ -10589,52 +10589,52 @@
       {
         "code": "ads_carebears_cheerbearplushie",
         "name": "Ilonallepehmo",
-        "description": ""
+        "description": "ads_carebears_cheerbearplushie desc"
       },
       {
         "code": "ads_carebears_cloud",
         "name": "Halinallepilvi",
-        "description": ""
+        "description": "ads_carebears_cloud desc"
       },
       {
         "code": "ads_carebears_cloudmobile1",
         "name": "Halinallepilven etuosa",
-        "description": ""
+        "description": "ads_carebears_cloudmobile1 desc"
       },
       {
         "code": "ads_carebears_cloudmobile2",
         "name": "Halinallepilven keskiosa",
-        "description": ""
+        "description": "ads_carebears_cloudmobile2 desc"
       },
       {
         "code": "ads_carebears_cloudmobile3",
         "name": "Halinallepilven takaosa",
-        "description": ""
+        "description": "ads_carebears_cloudmobile3 desc"
       },
       {
         "code": "ads_carebears_funshinebearplushie",
         "name": "Aurinkoinen nallepehmo",
-        "description": ""
+        "description": "ads_carebears_funshinebearplushie desc"
       },
       {
         "code": "ads_carebears_goodluckbearplushie",
         "name": "Hyvän onnen nallepehmo",
-        "description": ""
+        "description": "ads_carebears_goodluckbearplushie desc"
       },
       {
         "code": "ads_carebears_grumpybearplushie",
         "name": "Mutrunallepehmo",
-        "description": ""
+        "description": "ads_carebears_grumpybearplushie desc"
       },
       {
         "code": "ads_carebears_sharebearplushie",
         "name": "Jaettava nallepehmo",
-        "description": ""
+        "description": "ads_carebears_sharebearplushie desc"
       },
       {
         "code": "ads_carebears_tenderheartplushie",
         "name": "Helläsydämen pehmo",
-        "description": ""
+        "description": "ads_carebears_tenderheartplushie desc"
       },
       {
         "code": "ads_cb_cheerplush_bd",
@@ -98664,7 +98664,7 @@
       {
         "code": "rotating_roomdeal447",
         "name": "Foot Locker -huonepaketti",
-        "description": "Olet astumassa Foot Locker. Tule tsekkaamaan!"
+        "description": "Olet astumassa Foot Lockeriin. Tsekkaa huone!"
       },
       {
         "code": "rotating_roomdeal44_10c",
@@ -109902,6 +109902,11 @@
         "description": "Toiminnon laukaiseva hahmo lähtee etukäteen määritetystä joukkueesta"
       },
       {
+        "code": "wf_act_log",
+        "name": "wf_act_log name",
+        "description": "wf_act_log desc"
+      },
+      {
         "code": "wf_act_match_to_sshot",
         "name": "Wired-toiminto: Palauta tavarat alkuperäiseen olotilaan",
         "description": "Tämä toiminto palauttaa valitut tavarat alkuperäiseen olotilaan, johon ne huoneessa on asetettu."
@@ -109935,6 +109940,11 @@
         "code": "wf_act_neg_call_stacks",
         "name": "Negatiivinen Wired-toiminto: Suorita toiminnot Wired-pinoissa",
         "description": "wf_act_neg_call_stacks desc"
+      },
+      {
+        "code": "wf_act_neg_log",
+        "name": "wf_act_neg_log name",
+        "description": "wf_act_neg_log desc"
       },
       {
         "code": "wf_act_neg_send_signal",

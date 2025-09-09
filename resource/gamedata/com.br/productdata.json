@@ -9189,52 +9189,52 @@
       {
         "code": "ads_carebears_cheerbearplushie",
         "name": "Ursinha de Pelúcia Animadinha",
-        "description": ""
+        "description": "ads_carebears_cheerbearplushie desc"
       },
       {
         "code": "ads_carebears_cloud",
         "name": "Nuvem dos Ursinhos Carinhosos",
-        "description": ""
+        "description": "ads_carebears_cloud desc"
       },
       {
         "code": "ads_carebears_cloudmobile1",
         "name": "Frente do Nuvemóvel dos Ursinhos Carinhosos",
-        "description": ""
+        "description": "ads_carebears_cloudmobile1 desc"
       },
       {
         "code": "ads_carebears_cloudmobile2",
         "name": "Meio do Nuvemóvel dos Ursinhos Carinhosos",
-        "description": ""
+        "description": "ads_carebears_cloudmobile2 desc"
       },
       {
         "code": "ads_carebears_cloudmobile3",
         "name": "Traseira do Nuvemóvel dos Ursinhos Carinhosos",
-        "description": ""
+        "description": "ads_carebears_cloudmobile3 desc"
       },
       {
         "code": "ads_carebears_funshinebearplushie",
         "name": "Ursinho de Pelúcia Divertido",
-        "description": ""
+        "description": "ads_carebears_funshinebearplushie desc"
       },
       {
         "code": "ads_carebears_goodluckbearplushie",
         "name": "Ursinho de Pelúcia Boa Sorte",
-        "description": ""
+        "description": "ads_carebears_goodluckbearplushie desc"
       },
       {
         "code": "ads_carebears_grumpybearplushie",
         "name": "Ursinho de Pelúcia Amado",
-        "description": ""
+        "description": "ads_carebears_grumpybearplushie desc"
       },
       {
         "code": "ads_carebears_sharebearplushie",
         "name": "Ursinha de Pelúcia Generosa",
-        "description": ""
+        "description": "ads_carebears_sharebearplushie desc"
       },
       {
         "code": "ads_carebears_tenderheartplushie",
         "name": "Ursinho de Pelúcia Ternura",
-        "description": ""
+        "description": "ads_carebears_tenderheartplushie desc"
       },
       {
         "code": "ads_cb_cheerplush_bd",
@@ -109887,6 +109887,11 @@
         "description": "Disparar o avatar abandonará a equipe pré-definida"
       },
       {
+        "code": "wf_act_log",
+        "name": "wf_act_log name",
+        "description": "wf_act_log desc"
+      },
+      {
         "code": "wf_act_match_to_sshot",
         "name": "EFEITO WIRED: Mobis que voltam à programação original",
         "description": "Este Efeito faz o Mobi selecionado voltar ao estado original que você o programou."
@@ -109920,6 +109925,11 @@
         "code": "wf_act_neg_call_stacks",
         "name": "WIRED EFEITO NEGATIVO: Faz pilhas",
         "description": "wf_act_neg_call_stacks desc"
+      },
+      {
+        "code": "wf_act_neg_log",
+        "name": "wf_act_neg_log name",
+        "description": "wf_act_neg_log desc"
       },
       {
         "code": "wf_act_neg_send_signal",
