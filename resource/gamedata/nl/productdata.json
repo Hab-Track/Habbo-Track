@@ -9103,7 +9103,7 @@
       },
       {
         "code": "ads_carebears_cheerbearplushie",
-        "name": "Vrolijke Beer Knuffel",
+        "name": "Lachbeer Knuffel",
         "description": "ads_carebears_cheerbearplushie desc"
       },
       {
@@ -9133,42 +9133,42 @@
       },
       {
         "code": "ads_carebears_goodluckbearplushie",
-        "name": "Geluks Beer Knuffel",
+        "name": "Geluksbeer Knuffel",
         "description": "ads_carebears_goodluckbearplushie desc"
       },
       {
         "code": "ads_carebears_grumpybearplushie",
-        "name": "Knorrige Beer Knuffel",
+        "name": "Brombeer Knuffel",
         "description": "ads_carebears_grumpybearplushie desc"
       },
       {
         "code": "ads_carebears_sharebearplushie",
-        "name": "Deel Beer Knuffel",
+        "name": "Deelbeer Knuffel",
         "description": "ads_carebears_sharebearplushie desc"
       },
       {
         "code": "ads_carebears_tenderheartplushie",
-        "name": "Tederhart Beer Knuffel",
+        "name": "Hartebeer Knuffel",
         "description": "ads_carebears_tenderheartplushie desc"
       },
       {
         "code": "ads_cb_cheerplush_bd",
-        "name": "Vrolijke Beer Knuffel",
+        "name": "Lachbeer Knuffel",
         "description": ""
       },
       {
         "code": "ads_cb_cloudmobile1",
-        "name": "Care Bears Cloudmobile Front",
+        "name": "Troetelbeertjes Wolkenauto Voorkant",
         "description": ""
       },
       {
         "code": "ads_cb_cloudmobile2",
-        "name": "Care Bears Cloudmobile Middle",
+        "name": "Troetelbeertjes Wolkenauto Middenstuk",
         "description": ""
       },
       {
         "code": "ads_cb_cloudmobile3",
-        "name": "Care Bears Cloudmobile Back",
+        "name": "Troetelbeertjes Wolkenauto Achterkant",
         "description": ""
       },
       {
@@ -9178,27 +9178,27 @@
       },
       {
         "code": "ads_cb_goodluckplush_bd",
-        "name": "goodluckplush",
+        "name": "Geluksbeer Knuffel",
         "description": ""
       },
       {
         "code": "ads_cb_grumpyplush_bd",
-        "name": "Knorrige Beer Knuffel",
+        "name": "Brombeer Knuffel",
         "description": ""
       },
       {
         "code": "ads_cb_sharebplush_bd",
-        "name": "Deel Beer Knuffel",
+        "name": "Deelbeer Knuffel",
         "description": ""
       },
       {
         "code": "ads_cb_tenderplush_bd",
-        "name": "Tederhart Beer Knuffel",
+        "name": "Hartebeer Knuffel",
         "description": ""
       },
       {
         "code": "ads_cbfullset_bd",
-        "name": "Care Bears Plush & Cloudmobile Collection",
+        "name": "Troetelbeertjes Knuffels & Wolkenauto Set",
         "description": ""
       },
       {
@@ -10293,7 +10293,7 @@
       },
       {
         "code": "ads_mobileset_bd",
-        "name": "Care Bears Cloudmobile Set",
+        "name": "Troetelbeertjes Wolkenauto Set",
         "description": ""
       },
       {
@@ -31373,7 +31373,7 @@
       },
       {
         "code": "cl_cheerbearoutfit_bd",
-        "name": "Wensbeer Outfit",
+        "name": "Lachbeer Outfit",
         "description": ""
       },
       {
@@ -31483,7 +31483,7 @@
       },
       {
         "code": "cl_tenderheartoutfit_bd",
-        "name": "Knuffelbeer Outfit",
+        "name": "Hartebeer Outfit",
         "description": ""
       },
       {
@@ -33458,7 +33458,7 @@
       },
       {
         "code": "clothing_cheerbearoutfit",
-        "name": "Wensbeer Outfit",
+        "name": "Lachbeer Outfit",
         "description": "clothing_cheerbearoutfit desc"
       },
       {
@@ -42008,7 +42008,7 @@
       },
       {
         "code": "clothing_tenderheartoutfit",
-        "name": "Knuffelbeer Outfit",
+        "name": "Hartebeer Outfit",
         "description": "clothing_tenderheartoutfit desc"
       },
       {
@@ -109863,7 +109863,7 @@
       },
       {
         "code": "wf_act_log",
-        "name": "wf_act_log name",
+        "name": "WIRED Effect: Write to logs",
         "description": "wf_act_log desc"
       },
       {
@@ -109903,7 +109903,7 @@
       },
       {
         "code": "wf_act_neg_log",
-        "name": "wf_act_neg_log name",
+        "name": "WIRED Negative Effect: Write to logs",
         "description": "wf_act_neg_log desc"
       },
       {

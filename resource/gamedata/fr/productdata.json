@@ -9353,17 +9353,17 @@
       },
       {
         "code": "ads_cb_cloudmobile1",
-        "name": "Care Bears Cloudmobile Front",
+        "name": "Avant voiture nuage Bisounours",
         "description": ""
       },
       {
         "code": "ads_cb_cloudmobile2",
-        "name": "Care Bears Cloudmobile Middle",
+        "name": "Milieu voiture nuage Bisounours",
         "description": ""
       },
       {
         "code": "ads_cb_cloudmobile3",
-        "name": "Care Bears Cloudmobile Back",
+        "name": "Arrière voiture nuage Bisounours",
         "description": ""
       },
       {
@@ -9373,7 +9373,7 @@
       },
       {
         "code": "ads_cb_goodluckplush_bd",
-        "name": "goodluckplush",
+        "name": "Peluche Ours Good Luck",
         "description": ""
       },
       {
@@ -9393,7 +9393,7 @@
       },
       {
         "code": "ads_cbfullset_bd",
-        "name": "Care Bears Plush & Cloudmobile Collection",
+        "name": "Collection Bisounours & Voiture nuage",
         "description": ""
       },
       {
@@ -10488,7 +10488,7 @@
       },
       {
         "code": "ads_mobileset_bd",
-        "name": "Care Bears Cloudmobile Set",
+        "name": "Ensemble Voiture nuage Bisounours",
         "description": ""
       },
       {
@@ -10708,7 +10708,7 @@
       },
       {
         "code": "ads_plushset_bd",
-        "name": "Care Bears Plushie Set",
+        "name": "Ensemble Peluche Bisounours",
         "description": ""
       },
       {
@@ -31563,7 +31563,7 @@
       },
       {
         "code": "cl_cheerbearoutfit_bd",
-        "name": "Tenue de l’Ours Joyeux",
+        "name": "Tenue de l'Ours Cheer",
         "description": ""
       },
       {
@@ -31573,17 +31573,17 @@
       },
       {
         "code": "cl_funshinebearoutfit_bd",
-        "name": "Tenue de l’Ours Rayon-de-Soleil",
+        "name": "Tenue de l'Ours Funshine",
         "description": ""
       },
       {
         "code": "cl_goodluckbearoutfit_bd",
-        "name": "Tenue de l’Ours Porte-Bonheur",
+        "name": "Tenue de l'Ours Good Luck",
         "description": ""
       },
       {
         "code": "cl_grumpybearoutfit_bd",
-        "name": "Tenue de l’Ours Grincheux",
+        "name": "Tenue de l'Ours Grumpy",
         "description": ""
       },
       {
@@ -31663,7 +31663,7 @@
       },
       {
         "code": "cl_sharebearoutfit_bd",
-        "name": "Tenue de l’Ours Partage",
+        "name": "Tenue de l'Ours Share",
         "description": ""
       },
       {
@@ -31673,7 +31673,7 @@
       },
       {
         "code": "cl_tenderheartoutfit_bd",
-        "name": "Tenue de l’Ours Tendre",
+        "name": "Tenue de l'Ours Tenderheart",
         "description": ""
       },
       {
@@ -33648,7 +33648,7 @@
       },
       {
         "code": "clothing_cheerbearoutfit",
-        "name": "Tenue de l’Ours Joyeux",
+        "name": "Tenue de l'Ours Cheer",
         "description": "clothing_cheerbearoutfit desc"
       },
       {
@@ -34788,7 +34788,7 @@
       },
       {
         "code": "clothing_funshinebearoutfit",
-        "name": "Tenue de l’Ours Rayon-de-Soleil",
+        "name": "Tenue de l'Ours Funshine",
         "description": "clothing_funshinebearoutfit desc"
       },
       {
@@ -34978,7 +34978,7 @@
       },
       {
         "code": "clothing_goodluckbearoutfit",
-        "name": "Tenue de l’Ours Porte-Bonheur",
+        "name": "Tenue de l'Ours Good Luck",
         "description": "clothing_goodluckbearoutfit desc"
       },
       {
@@ -35053,7 +35053,7 @@
       },
       {
         "code": "clothing_grumpybearoutfit",
-        "name": "Tenue de l’Ours Grincheux",
+        "name": "Tenue de l'Ours Grumpy",
         "description": "clothing_grumpybearoutfit desc"
       },
       {
@@ -41743,7 +41743,7 @@
       },
       {
         "code": "clothing_sharebearoutfit",
-        "name": "Tenue de l’Ours Partage",
+        "name": "Tenue de l'Ours Share",
         "description": "clothing_sharebearoutfit desc"
       },
       {
@@ -42183,7 +42183,7 @@
       },
       {
         "code": "clothing_tenderheartoutfit",
-        "name": "Tenue de l’Ours Tendre",
+        "name": "Tenue de l'Ours Tenderheart",
         "description": "clothing_tenderheartoutfit desc"
       },
       {
@@ -107908,7 +107908,7 @@
       },
       {
         "code": "wf_act_log",
-        "name": "wf_act_log name",
+        "name": "WIRED Effect: Write to logs",
         "description": "wf_act_log desc"
       },
       {
@@ -107948,7 +107948,7 @@
       },
       {
         "code": "wf_act_neg_log",
-        "name": "wf_act_neg_log name",
+        "name": "WIRED Negative Effect: Write to logs",
         "description": "wf_act_neg_log desc"
       },
       {
