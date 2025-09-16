@@ -82397,6 +82397,11 @@
         "description": "nft_h22_silver2decker desc"
       },
       {
+        "code": "nft_h22_small_bug2",
+        "name": "nft_h22_small_bug2 name",
+        "description": "nft_h22_small_bug2 desc"
+      },
+      {
         "code": "nft_h22_small_bug",
         "name": "A Small Bug",
         "description": "nft_h22_small_bug desc"
@@ -83529,7 +83534,7 @@
       {
         "code": "nft_h24_cb_amberlamps1",
         "name": "Amber Lamps 1",
-        "description": ""
+        "description": "nft_h24_cb_amberlamps1 desc"
       },
       {
         "code": "nft_h24_cb_animals23",
@@ -83559,7 +83564,7 @@
       {
         "code": "nft_h24_cb_dp23",
         "name": "Diamond Paintings 2023",
-        "description": ""
+        "description": "nft_h24_cb_dp23 desc"
       },
       {
         "code": "nft_h24_cb_ecotron1",
@@ -85530,6 +85535,46 @@
         "code": "nft_rclr_sofa",
         "name": "Polar Sofa",
         "description": "Snuggle up together"
+      },
+      {
+        "code": "nft_regalblack_c25_blackpillow",
+        "name": "nft_regalblack_c25_blackpillow name",
+        "description": "nft_regalblack_c25_blackpillow desc"
+      },
+      {
+        "code": "nft_regalblack_c25_cabinet",
+        "name": "nft_regalblack_c25_cabinet name",
+        "description": "nft_regalblack_c25_cabinet desc"
+      },
+      {
+        "code": "nft_regalblack_c25_goldenpillow",
+        "name": "nft_regalblack_c25_goldenpillow name",
+        "description": "nft_regalblack_c25_goldenpillow desc"
+      },
+      {
+        "code": "nft_regalblack_c25_pedestal",
+        "name": "nft_regalblack_c25_pedestal name",
+        "description": "nft_regalblack_c25_pedestal desc"
+      },
+      {
+        "code": "nft_regalblack_r25_dragon",
+        "name": "Regal Black Dragon Egg Statue",
+        "description": "nft_regalblack_r25_dragon desc"
+      },
+      {
+        "code": "nft_regalblack_r25_orb",
+        "name": "nft_regalblack_r25_orb name",
+        "description": "nft_regalblack_r25_orb desc"
+      },
+      {
+        "code": "nft_regalblack_r25_scepter",
+        "name": "nft_regalblack_r25_scepter name",
+        "description": "nft_regalblack_r25_scepter desc"
+      },
+      {
+        "code": "nft_regalblack_r25_sohva",
+        "name": "nft_regalblack_r25_sohva name",
+        "description": "nft_regalblack_r25_sohva desc"
       },
       {
         "code": "nft_runway_oldecamera",
@@ -95382,6 +95427,11 @@
         "description": "Aphrodite de Isle de Habbos"
       },
       {
+        "code": "rb_r25_dragon_bd",
+        "name": "Regal Black Dragon Egg Statue",
+        "description": ""
+      },
+      {
         "code": "rcandle",
         "name": "Single Red Candle",
         "description": "Light up your life"
@@ -95635,6 +95685,46 @@
         "code": "reef_aquarium",
         "name": "Aquarium",
         "description": "Fit for a rapper's crib"
+      },
+      {
+        "code": "regalblack_c25_blackpillow",
+        "name": "regalblack_c25_blackpillow name",
+        "description": "regalblack_c25_blackpillow desc"
+      },
+      {
+        "code": "regalblack_c25_cabinet",
+        "name": "regalblack_c25_cabinet name",
+        "description": "regalblack_c25_cabinet desc"
+      },
+      {
+        "code": "regalblack_c25_goldenpillow",
+        "name": "regalblack_c25_goldenpillow name",
+        "description": "regalblack_c25_goldenpillow desc"
+      },
+      {
+        "code": "regalblack_c25_pedestal",
+        "name": "regalblack_c25_pedestal name",
+        "description": "regalblack_c25_pedestal desc"
+      },
+      {
+        "code": "regalblack_r25_dragon",
+        "name": "Regal Black Dragon Egg Statue",
+        "description": "regalblack_r25_dragon desc"
+      },
+      {
+        "code": "regalblack_r25_orb",
+        "name": "regalblack_r25_orb name",
+        "description": "regalblack_r25_orb desc"
+      },
+      {
+        "code": "regalblack_r25_scepter",
+        "name": "regalblack_r25_scepter name",
+        "description": "regalblack_r25_scepter desc"
+      },
+      {
+        "code": "regalblack_r25_sohva",
+        "name": "regalblack_r25_sohva name",
+        "description": "regalblack_r25_sohva desc"
       },
       {
         "code": "reggae_masterclass_deal",
