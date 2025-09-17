@@ -110128,7 +110128,7 @@
       },
       {
         "code": "wf_act_log",
-        "name": "WIRED Effect: Write to logs",
+        "name": "Effetto WIRED: Scrivi nei log",
         "description": "wf_act_log desc"
       },
       {
@@ -110168,7 +110168,7 @@
       },
       {
         "code": "wf_act_neg_log",
-        "name": "WIRED Negative Effect: Write to logs",
+        "name": "Effetto Negativo WIRED: Scrivi nei log",
         "description": "wf_act_neg_log desc"
       },
       {
@@ -111045,6 +111045,11 @@
         "code": "wf_xtra_random",
         "name": "ACCESSORIO WIRED: Effetto Casuale",
         "description": "Nella pila a cui appartiene innesca un Effetto scelto casualmente."
+      },
+      {
+        "code": "wf_xtra_rotate_to_dir",
+        "name": "Componente aggiuntivo WIRED: Proiettile",
+        "description": ""
       },
       {
         "code": "wf_xtra_text_input_variable",

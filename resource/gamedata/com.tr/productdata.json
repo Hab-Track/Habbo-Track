@@ -120158,7 +120158,7 @@
       },
       {
         "code": "wf_act_log",
-        "name": "WIRED Effect: Write to logs",
+        "name": "DÜZENEKLİ Efekt: Günlüklere yaz",
         "description": "wf_act_log desc"
       },
       {
@@ -120198,7 +120198,7 @@
       },
       {
         "code": "wf_act_neg_log",
-        "name": "WIRED Negative Effect: Write to logs",
+        "name": "DÜZENEKLİ Negatif Efekt: Günlüklere yaz",
         "description": "wf_act_neg_log desc"
       },
       {
@@ -121070,6 +121070,11 @@
         "code": "wf_xtra_random",
         "name": "DÜZENEKLİ Eklenti: Rastgele Efekt",
         "description": "Bu yığında aynı anda yalnızca rastgele seçilen tek bir Efekt tetiklenir."
+      },
+      {
+        "code": "wf_xtra_rotate_to_dir",
+        "name": "DÜZENEKLİ Eklenti: Fırlatma",
+        "description": ""
       },
       {
         "code": "wf_xtra_text_input_variable",

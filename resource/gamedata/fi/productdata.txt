@@ -1406,7 +1406,7 @@
   ],
   [
     "A1 BHP",
-    "Plastic-pöytä",
+    "Plastyk-pöytä",
     "Neliskulmainen pöytä"
   ],
   [
@@ -1551,7 +1551,7 @@
   ],
   [
     "A1 C5P",
-    "Plastic-pöytä",
+    "Plastyk-pöytä",
     "Pyöreä muovipöytä"
   ],
   [
@@ -1606,7 +1606,7 @@
   ],
   [
     "A1 D6P",
-    "Plastic-pöytä",
+    "Plastyk-pöytä",
     "Sohvapöytä"
   ],
   [
@@ -1661,7 +1661,7 @@
   ],
   [
     "A1 E6P",
-    "Plastic-tuoli",
+    "Plastyk-tuoli",
     "muovia"
   ],
   [
@@ -1681,7 +1681,7 @@
   ],
   [
     "A1 EHP",
-    "Plastic-tuoli",
+    "Plastyk-tuoli",
     "muovia"
   ],
   [
@@ -7991,7 +7991,7 @@
   ],
   [
     "a1 newplch16",
-    "Plastic-tuoli",
+    "Plastyk-tuoli",
     "muovia"
   ],
   [
@@ -8001,7 +8001,7 @@
   ],
   [
     "a1 newplch2",
-    "Plastic-tuoli",
+    "Plastyk-tuoli",
     "muovia"
   ],
   [
@@ -45682,7 +45682,7 @@
   [
     "deal009",
     "Plastic2",
-    "Plastic-tuoleja ja -pöytä"
+    "Plastyk-tuoleja ja -pöytä"
   ],
   [
     "deal010",
@@ -110011,7 +110011,7 @@
   ],
   [
     "wf_act_log",
-    "WIRED Effect: Write to logs",
+    "Wired-toiminto: Kirjoita lokeihin",
     "wf_act_log desc"
   ],
   [
@@ -110051,7 +110051,7 @@
   ],
   [
     "wf_act_neg_log",
-    "WIRED Negative Effect: Write to logs",
+    "Negatiivinen Wired-toiminto: Kirjoita lokeihin",
     "wf_act_neg_log desc"
   ],
   [
@@ -110913,6 +110913,11 @@
     "wf_xtra_random",
     "Wired-lisä: Satunnainen toiminto",
     "Vain yksi pinossa olevista satunnaisista toiminnoista suoritetaan kerrallaan"
+  ],
+  [
+    "wf_xtra_rotate_to_dir",
+    "Wired-lisä: Ammus",
+    ""
   ],
   [
     "wf_xtra_text_input_variable",

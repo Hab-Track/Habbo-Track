@@ -118017,6 +118017,11 @@
         "description": "Only one random Effect in this stack is triggered at a time."
       },
       {
+        "code": "wf_xtra_rotate_to_dir",
+        "name": "WIRED Add-On: Projectile",
+        "description": ""
+      },
+      {
         "code": "wf_xtra_text_input_variable",
         "name": "WIRED Text Add-on: Variable capturer",
         "description": "wf_xtra_text_input_variable desc"

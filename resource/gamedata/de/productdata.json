@@ -109088,7 +109088,7 @@
       },
       {
         "code": "wf_act_log",
-        "name": "WIRED Effect: Write to logs",
+        "name": "WIRED Effekt: In Logs schreiben",
         "description": "wf_act_log desc"
       },
       {
@@ -109128,7 +109128,7 @@
       },
       {
         "code": "wf_act_neg_log",
-        "name": "WIRED Negative Effect: Write to logs",
+        "name": "Wired Negativer Effekt: In Logs schreiben",
         "description": "wf_act_neg_log desc"
       },
       {
@@ -109990,6 +109990,11 @@
         "code": "wf_xtra_random",
         "name": "WIRED Extra: Zufälliger Effekt",
         "description": "Ein zufällig ausgewählter Effekt aus diesem Stapel wird zu einer bestimmten Zeit ausgelöst."
+      },
+      {
+        "code": "wf_xtra_rotate_to_dir",
+        "name": "WIRED Add-on: Projektil",
+        "description": ""
       },
       {
         "code": "wf_xtra_text_input_variable",

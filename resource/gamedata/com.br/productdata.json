@@ -109998,7 +109998,7 @@
       },
       {
         "code": "wf_act_log",
-        "name": "WIRED Effect: Write to logs",
+        "name": "Efeito Wired: Escrever nos logs",
         "description": "wf_act_log desc"
       },
       {
@@ -110038,7 +110038,7 @@
       },
       {
         "code": "wf_act_neg_log",
-        "name": "WIRED Negative Effect: Write to logs",
+        "name": "Efeito Negativo Wired: Escrever nos logs",
         "description": "wf_act_neg_log desc"
       },
       {
@@ -110900,6 +110900,11 @@
         "code": "wf_xtra_random",
         "name": "Wired Extra: Efeito Aleatório",
         "description": "Apenas um Efeito aleatório poderá ser feito por vez."
+      },
+      {
+        "code": "wf_xtra_rotate_to_dir",
+        "name": "Add-on Wired: Projétil",
+        "description": ""
       },
       {
         "code": "wf_xtra_text_input_variable",

@@ -109636,7 +109636,7 @@
   ],
   [
     "wf_act_log",
-    "WIRED Effect: Write to logs",
+    "Efecto WIRED: escribir los registros",
     "wf_act_log desc"
   ],
   [
@@ -109676,7 +109676,7 @@
   ],
   [
     "wf_act_neg_log",
-    "WIRED Negative Effect: Write to logs",
+    "Efecto Negativo WIRED: escribir los registros",
     "wf_act_neg_log desc"
   ],
   [
@@ -110538,6 +110538,11 @@
     "wf_xtra_random",
     "Complemento WIRED: Efecto Aleatorio",
     "Sólo un Efecto aleatorio tiene lugar a la vez en esta pila"
+  ],
+  [
+    "wf_xtra_rotate_to_dir",
+    "Complemento WIRED: proyectil",
+    ""
   ],
   [
     "wf_xtra_text_input_variable",

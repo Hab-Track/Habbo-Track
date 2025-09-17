@@ -120156,7 +120156,7 @@
   ],
   [
     "wf_act_log",
-    "WIRED Effect: Write to logs",
+    "DÜZENEKLİ Efekt: Günlüklere yaz",
     "wf_act_log desc"
   ],
   [
@@ -120196,7 +120196,7 @@
   ],
   [
     "wf_act_neg_log",
-    "WIRED Negative Effect: Write to logs",
+    "DÜZENEKLİ Negatif Efekt: Günlüklere yaz",
     "wf_act_neg_log desc"
   ],
   [
@@ -121068,6 +121068,11 @@
     "wf_xtra_random",
     "DÜZENEKLİ Eklenti: Rastgele Efekt",
     "Bu yığında aynı anda yalnızca rastgele seçilen tek bir Efekt tetiklenir."
+  ],
+  [
+    "wf_xtra_rotate_to_dir",
+    "DÜZENEKLİ Eklenti: Fırlatma",
+    ""
   ],
   [
     "wf_xtra_text_input_variable",

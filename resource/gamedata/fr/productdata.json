@@ -107998,7 +107998,7 @@
       },
       {
         "code": "wf_act_log",
-        "name": "WIRED Effect: Write to logs",
+        "name": "Effet WIRED : Écrire dans les logs",
         "description": "wf_act_log desc"
       },
       {
@@ -108038,7 +108038,7 @@
       },
       {
         "code": "wf_act_neg_log",
-        "name": "WIRED Negative Effect: Write to logs",
+        "name": "WIRED Effet négatif : Écrire dans les logs",
         "description": "wf_act_neg_log desc"
       },
       {
@@ -108945,6 +108945,11 @@
         "code": "wf_xtra_random",
         "name": "Effet aléatoire",
         "description": "Il ne peut s'enclencher à la fois qu'un seul effet aléatoire."
+      },
+      {
+        "code": "wf_xtra_rotate_to_dir",
+        "name": "WIRED Add-On : Projectile",
+        "description": ""
       },
       {
         "code": "wf_xtra_text_input_variable",

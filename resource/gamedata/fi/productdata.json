@@ -1408,7 +1408,7 @@
       },
       {
         "code": "A1 BHP",
-        "name": "Plastic-pöytä",
+        "name": "Plastyk-pöytä",
         "description": "Neliskulmainen pöytä"
       },
       {
@@ -1553,7 +1553,7 @@
       },
       {
         "code": "A1 C5P",
-        "name": "Plastic-pöytä",
+        "name": "Plastyk-pöytä",
         "description": "Pyöreä muovipöytä"
       },
       {
@@ -1608,7 +1608,7 @@
       },
       {
         "code": "A1 D6P",
-        "name": "Plastic-pöytä",
+        "name": "Plastyk-pöytä",
         "description": "Sohvapöytä"
       },
       {
@@ -1663,7 +1663,7 @@
       },
       {
         "code": "A1 E6P",
-        "name": "Plastic-tuoli",
+        "name": "Plastyk-tuoli",
         "description": "muovia"
       },
       {
@@ -1683,7 +1683,7 @@
       },
       {
         "code": "A1 EHP",
-        "name": "Plastic-tuoli",
+        "name": "Plastyk-tuoli",
         "description": "muovia"
       },
       {
@@ -7993,7 +7993,7 @@
       },
       {
         "code": "a1 newplch16",
-        "name": "Plastic-tuoli",
+        "name": "Plastyk-tuoli",
         "description": "muovia"
       },
       {
@@ -8003,7 +8003,7 @@
       },
       {
         "code": "a1 newplch2",
-        "name": "Plastic-tuoli",
+        "name": "Plastyk-tuoli",
         "description": "muovia"
       },
       {
@@ -45684,7 +45684,7 @@
       {
         "code": "deal009",
         "name": "Plastic2",
-        "description": "Plastic-tuoleja ja -pöytä"
+        "description": "Plastyk-tuoleja ja -pöytä"
       },
       {
         "code": "deal010",
@@ -110013,7 +110013,7 @@
       },
       {
         "code": "wf_act_log",
-        "name": "WIRED Effect: Write to logs",
+        "name": "Wired-toiminto: Kirjoita lokeihin",
         "description": "wf_act_log desc"
       },
       {
@@ -110053,7 +110053,7 @@
       },
       {
         "code": "wf_act_neg_log",
-        "name": "WIRED Negative Effect: Write to logs",
+        "name": "Negatiivinen Wired-toiminto: Kirjoita lokeihin",
         "description": "wf_act_neg_log desc"
       },
       {
@@ -110915,6 +110915,11 @@
         "code": "wf_xtra_random",
         "name": "Wired-lisä: Satunnainen toiminto",
         "description": "Vain yksi pinossa olevista satunnaisista toiminnoista suoritetaan kerrallaan"
+      },
+      {
+        "code": "wf_xtra_rotate_to_dir",
+        "name": "Wired-lisä: Ammus",
+        "description": ""
       },
       {
         "code": "wf_xtra_text_input_variable",

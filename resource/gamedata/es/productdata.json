@@ -109638,7 +109638,7 @@
       },
       {
         "code": "wf_act_log",
-        "name": "WIRED Effect: Write to logs",
+        "name": "Efecto WIRED: escribir los registros",
         "description": "wf_act_log desc"
       },
       {
@@ -109678,7 +109678,7 @@
       },
       {
         "code": "wf_act_neg_log",
-        "name": "WIRED Negative Effect: Write to logs",
+        "name": "Efecto Negativo WIRED: escribir los registros",
         "description": "wf_act_neg_log desc"
       },
       {
@@ -110540,6 +110540,11 @@
         "code": "wf_xtra_random",
         "name": "Complemento WIRED: Efecto Aleatorio",
         "description": "Sólo un Efecto aleatorio tiene lugar a la vez en esta pila"
+      },
+      {
+        "code": "wf_xtra_rotate_to_dir",
+        "name": "Complemento WIRED: proyectil",
+        "description": ""
       },
       {
         "code": "wf_xtra_text_input_variable",

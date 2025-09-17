@@ -109951,7 +109951,7 @@
   ],
   [
     "wf_act_log",
-    "WIRED Effect: Write to logs",
+    "Wired Effect: Schrijf een berichtje in logboek",
     "wf_act_log desc"
   ],
   [
@@ -109991,7 +109991,7 @@
   ],
   [
     "wf_act_neg_log",
-    "WIRED Negative Effect: Write to logs",
+    "Wired Negatief Effect: Schrijf een berichtje in logboek",
     "wf_act_neg_log desc"
   ],
   [
@@ -110863,6 +110863,11 @@
     "wf_xtra_random",
     "WIRED Add-On: Willekeurige Reactie",
     "Er zal 1 willekeurige Reactie uit deze stapel opstarten als de stapel geactiveerd wordt."
+  ],
+  [
+    "wf_xtra_rotate_to_dir",
+    "WIRED Add-On: Projectiel",
+    ""
   ],
   [
     "wf_xtra_text_input_variable",

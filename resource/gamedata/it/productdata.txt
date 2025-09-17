@@ -110126,7 +110126,7 @@
   ],
   [
     "wf_act_log",
-    "WIRED Effect: Write to logs",
+    "Effetto WIRED: Scrivi nei log",
     "wf_act_log desc"
   ],
   [
@@ -110166,7 +110166,7 @@
   ],
   [
     "wf_act_neg_log",
-    "WIRED Negative Effect: Write to logs",
+    "Effetto Negativo WIRED: Scrivi nei log",
     "wf_act_neg_log desc"
   ],
   [
@@ -111043,6 +111043,11 @@
     "wf_xtra_random",
     "ACCESSORIO WIRED: Effetto Casuale",
     "Nella pila a cui appartiene innesca un Effetto scelto casualmente."
+  ],
+  [
+    "wf_xtra_rotate_to_dir",
+    "Componente aggiuntivo WIRED: Proiettile",
+    ""
   ],
   [
     "wf_xtra_text_input_variable",
