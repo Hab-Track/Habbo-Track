@@ -10596,17 +10596,17 @@
   ],
   [
     "ads_carebears_cloudmobile1",
-    "Halinallepilven etuosa",
+    "Halinallejen Pilviauton etuosa",
     "ads_carebears_cloudmobile1 desc"
   ],
   [
     "ads_carebears_cloudmobile2",
-    "Halinallepilven keskiosa",
+    "Halinallejen Pilviauton keskiosa",
     "ads_carebears_cloudmobile2 desc"
   ],
   [
     "ads_carebears_cloudmobile3",
-    "Halinallepilven takaosa",
+    "Halinallejen Pilviauton takaosa",
     "ads_carebears_cloudmobile3 desc"
   ],
   [
@@ -10641,17 +10641,17 @@
   ],
   [
     "ads_cb_cloudmobile1",
-    "Halinallepilven etuosa",
+    "Halinallejen Pilviauton etuosa",
     ""
   ],
   [
     "ads_cb_cloudmobile2",
-    "Halinallepilven keskiosa",
+    "Halinallejen Pilviauton keskiosa",
     ""
   ],
   [
     "ads_cb_cloudmobile3",
-    "Halinallepilven takaosa",
+    "Halinallejen Pilviauton takaosa",
     ""
   ],
   [
@@ -37852,7 +37852,7 @@
   [
     "clothing_nftcakeoutfit",
     "Iso kakkuasu",
-    ""
+    "clothing_nftcakeoutfit desc"
   ],
   [
     "clothing_nftcandle",
@@ -38377,17 +38377,17 @@
   [
     "clothing_nfthobbyhorse1",
     "Vaalea keppihevonen",
-    ""
+    "clothing_nfthobbyhorse1 desc"
   ],
   [
     "clothing_nfthobbyhorse2",
     "Ruskea keppihevonen",
-    ""
+    "clothing_nfthobbyhorse2 desc"
   ],
   [
     "clothing_nfthobbyhorse3",
     "Yksisarvinen keppihevonen",
-    ""
+    "clothing_nfthobbyhorse3 desc"
   ],
   [
     "clothing_nftholidaycut",
@@ -38602,12 +38602,12 @@
   [
     "clothing_nftombrecut1",
     "Värikäs ombre A-leikkaus",
-    ""
+    "clothing_nftombrecut1 desc"
   ],
   [
     "clothing_nftombrecut2",
     "Värikäs ombre B-leikkaus",
-    ""
+    "clothing_nftombrecut2 desc"
   ],
   [
     "clothing_nftorigamihat1",
@@ -38952,7 +38952,7 @@
   [
     "clothing_nftsilvereyes",
     "Hopeat silmät",
-    ""
+    "clothing_nftsilvereyes desc"
   ],
   [
     "clothing_nftsilverskin",
@@ -77757,12 +77757,12 @@
   [
     "nft_h25_armasbarrelchair",
     "Öljytynnyri",
-    ""
+    "nft_h25_armasbarrelchair desc"
   ],
   [
     "nft_h25_armasrockingchair",
     "Vanha keinupenkki",
-    ""
+    "nft_h25_armasrockingchair desc"
   ],
   [
     "nft_h25_boogieblast_egg",
@@ -77793,6 +77793,11 @@
     "nft_h25_boogieblast_tile",
     "Diskotanssilattian laatta",
     "nft_h25_boogieblast_tile desc"
+  ],
+  [
+    "nft_h25_bronzeanvaward",
+    "nft_h25_bronzeanvaward name",
+    "nft_h25_bronzeanvaward desc"
   ],
   [
     "nft_h25_bronzepiranha",
@@ -77965,6 +77970,11 @@
     "nft_h25_giftopentestfurni desc"
   ],
   [
+    "nft_h25_goldanvaward",
+    "nft_h25_goldanvaward name",
+    "nft_h25_goldanvaward desc"
+  ],
+  [
     "nft_h25_goldpiranha",
     "Kultainen piraijaplaketti",
     "nft_h25_goldpiranha desc"
@@ -78048,6 +78058,11 @@
     "nft_h25_robotikpenguin",
     "Robottipingviini",
     "nft_h25_robotikpenguin desc"
+  ],
+  [
+    "nft_h25_silveranvaward",
+    "nft_h25_silveranvaward name",
+    "nft_h25_silveranvaward desc"
   ],
   [
     "nft_h25_silverpiranha",
@@ -78163,6 +78178,11 @@
     "nft_h25_trippy_sleepingbag",
     "Psykedeelinen makuupussi",
     "nft_h25_trippy_sleepingbag desc"
+  ],
+  [
+    "nft_h25_trippyanvaward",
+    "nft_h25_trippyanvaward name",
+    "nft_h25_trippyanvaward desc"
   ],
   [
     "nft_h25_zeusdrinks",

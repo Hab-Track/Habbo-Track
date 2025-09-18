@@ -36562,7 +36562,7 @@
   [
     "clothing_nftcakeoutfit",
     "Grand gâteau à porter",
-    ""
+    "clothing_nftcakeoutfit desc"
   ],
   [
     "clothing_nftcandle",
@@ -37087,17 +37087,17 @@
   [
     "clothing_nfthobbyhorse1",
     "Cheval à bascule blond",
-    ""
+    "clothing_nfthobbyhorse1 desc"
   ],
   [
     "clothing_nfthobbyhorse2",
     "Cheval à bascule marron",
-    ""
+    "clothing_nfthobbyhorse2 desc"
   ],
   [
     "clothing_nfthobbyhorse3",
     "Licorne à bascule",
-    ""
+    "clothing_nfthobbyhorse3 desc"
   ],
   [
     "clothing_nftholidaycut",
@@ -37312,12 +37312,12 @@
   [
     "clothing_nftombrecut1",
     "Coupe ombrée colorée A",
-    ""
+    "clothing_nftombrecut1 desc"
   ],
   [
     "clothing_nftombrecut2",
     "Coupe ombrée colorée B",
-    ""
+    "clothing_nftombrecut2 desc"
   ],
   [
     "clothing_nftorigamihat1",
@@ -37662,7 +37662,7 @@
   [
     "clothing_nftsilvereyes",
     "Yeux argentés",
-    ""
+    "clothing_nftsilvereyes desc"
   ],
   [
     "clothing_nftsilverskin",
@@ -75812,12 +75812,12 @@
   [
     "nft_h25_armasbarrelchair",
     "Baril converti",
-    ""
+    "nft_h25_armasbarrelchair desc"
   ],
   [
     "nft_h25_armasrockingchair",
     "Banc à bascule antique",
-    ""
+    "nft_h25_armasrockingchair desc"
   ],
   [
     "nft_h25_boogieblast_egg",
@@ -75848,6 +75848,11 @@
     "nft_h25_boogieblast_tile",
     "Dalle de danse disco",
     "nft_h25_boogieblast_tile desc"
+  ],
+  [
+    "nft_h25_bronzeanvaward",
+    "nft_h25_bronzeanvaward name",
+    "nft_h25_bronzeanvaward desc"
   ],
   [
     "nft_h25_bronzepiranha",
@@ -76020,6 +76025,11 @@
     "nft_h25_giftopentestfurni desc"
   ],
   [
+    "nft_h25_goldanvaward",
+    "nft_h25_goldanvaward name",
+    "nft_h25_goldanvaward desc"
+  ],
+  [
     "nft_h25_goldpiranha",
     "Plaque Piranha or",
     "nft_h25_goldpiranha desc"
@@ -76103,6 +76113,11 @@
     "nft_h25_robotikpenguin",
     "Pingouin Robotique",
     "nft_h25_robotikpenguin desc"
+  ],
+  [
+    "nft_h25_silveranvaward",
+    "nft_h25_silveranvaward name",
+    "nft_h25_silveranvaward desc"
   ],
   [
     "nft_h25_silverpiranha",
@@ -76218,6 +76233,11 @@
     "nft_h25_trippy_sleepingbag",
     "Sac de couchage psychédélique",
     "nft_h25_trippy_sleepingbag desc"
+  ],
+  [
+    "nft_h25_trippyanvaward",
+    "nft_h25_trippyanvaward name",
+    "nft_h25_trippyanvaward desc"
   ],
   [
     "nft_h25_zeusdrinks",

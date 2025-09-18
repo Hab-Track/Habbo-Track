@@ -36664,7 +36664,7 @@
       {
         "code": "clothing_nftcakeoutfit",
         "name": "Großer Kuchen zum Tragen",
-        "description": ""
+        "description": "clothing_nftcakeoutfit desc"
       },
       {
         "code": "clothing_nftcandle",
@@ -37189,17 +37189,17 @@
       {
         "code": "clothing_nfthobbyhorse1",
         "name": "Blondes Steckenpferd",
-        "description": ""
+        "description": "clothing_nfthobbyhorse1 desc"
       },
       {
         "code": "clothing_nfthobbyhorse2",
         "name": "Braunes Steckenpferd",
-        "description": ""
+        "description": "clothing_nfthobbyhorse2 desc"
       },
       {
         "code": "clothing_nfthobbyhorse3",
         "name": "Steckeneinhorn",
-        "description": ""
+        "description": "clothing_nfthobbyhorse3 desc"
       },
       {
         "code": "clothing_nftholidaycut",
@@ -37414,12 +37414,12 @@
       {
         "code": "clothing_nftombrecut1",
         "name": "Bunter Ombre-Schnitt A",
-        "description": ""
+        "description": "clothing_nftombrecut1 desc"
       },
       {
         "code": "clothing_nftombrecut2",
         "name": "Bunter Ombre-Schnitt B",
-        "description": ""
+        "description": "clothing_nftombrecut2 desc"
       },
       {
         "code": "clothing_nftorigamihat1",
@@ -37764,7 +37764,7 @@
       {
         "code": "clothing_nftsilvereyes",
         "name": "Silber Augen",
-        "description": ""
+        "description": "clothing_nftsilvereyes desc"
       },
       {
         "code": "clothing_nftsilverskin",
@@ -76744,12 +76744,12 @@
       {
         "code": "nft_h25_armasbarrelchair",
         "name": "Verwandeltes Fass",
-        "description": ""
+        "description": "nft_h25_armasbarrelchair desc"
       },
       {
         "code": "nft_h25_armasrockingchair",
         "name": "Antike Schaukelbank",
-        "description": ""
+        "description": "nft_h25_armasrockingchair desc"
       },
       {
         "code": "nft_h25_boogieblast_egg",
@@ -76780,6 +76780,11 @@
         "code": "nft_h25_boogieblast_tile",
         "name": "Disco-Tanzfliese",
         "description": "nft_h25_boogieblast_tile desc"
+      },
+      {
+        "code": "nft_h25_bronzeanvaward",
+        "name": "nft_h25_bronzeanvaward name",
+        "description": "nft_h25_bronzeanvaward desc"
       },
       {
         "code": "nft_h25_bronzepiranha",
@@ -76952,6 +76957,11 @@
         "description": "nft_h25_giftopentestfurni desc"
       },
       {
+        "code": "nft_h25_goldanvaward",
+        "name": "nft_h25_goldanvaward name",
+        "description": "nft_h25_goldanvaward desc"
+      },
+      {
         "code": "nft_h25_goldpiranha",
         "name": "Goldene Piranha Plakette",
         "description": "nft_h25_goldpiranha desc"
@@ -77035,6 +77045,11 @@
         "code": "nft_h25_robotikpenguin",
         "name": "Robo-Pinguin",
         "description": "nft_h25_robotikpenguin desc"
+      },
+      {
+        "code": "nft_h25_silveranvaward",
+        "name": "nft_h25_silveranvaward name",
+        "description": "nft_h25_silveranvaward desc"
       },
       {
         "code": "nft_h25_silverpiranha",
@@ -77150,6 +77165,11 @@
         "code": "nft_h25_trippy_sleepingbag",
         "name": "Trippy Schlafsack",
         "description": "nft_h25_trippy_sleepingbag desc"
+      },
+      {
+        "code": "nft_h25_trippyanvaward",
+        "name": "nft_h25_trippyanvaward name",
+        "description": "nft_h25_trippyanvaward desc"
       },
       {
         "code": "nft_h25_zeusdrinks",

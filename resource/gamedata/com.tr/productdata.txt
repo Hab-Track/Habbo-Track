@@ -38267,7 +38267,7 @@
   [
     "clothing_nftcakeoutfit",
     "Büyük Pasta Giysisi",
-    ""
+    "clothing_nftcakeoutfit desc"
   ],
   [
     "clothing_nftcandle",
@@ -38792,17 +38792,17 @@
   [
     "clothing_nfthobbyhorse1",
     "Sarışın Hobi Atı",
-    ""
+    "clothing_nfthobbyhorse1 desc"
   ],
   [
     "clothing_nfthobbyhorse2",
     "Kahverengi Hobi Atı",
-    ""
+    "clothing_nfthobbyhorse2 desc"
   ],
   [
     "clothing_nfthobbyhorse3",
     "Tek Boynuzlu Hobi Atı",
-    ""
+    "clothing_nfthobbyhorse3 desc"
   ],
   [
     "clothing_nftholidaycut",
@@ -39017,12 +39017,12 @@
   [
     "clothing_nftombrecut1",
     "Renkli Ombre Kesim A",
-    ""
+    "clothing_nftombrecut1 desc"
   ],
   [
     "clothing_nftombrecut2",
     "Renkli Ombre Kesim B",
-    ""
+    "clothing_nftombrecut2 desc"
   ],
   [
     "clothing_nftorigamihat1",
@@ -39367,7 +39367,7 @@
   [
     "clothing_nftsilvereyes",
     "Gümüş Gözler",
-    ""
+    "clothing_nftsilvereyes desc"
   ],
   [
     "clothing_nftsilverskin",
@@ -87102,12 +87102,12 @@
   [
     "nft_h25_armasbarrelchair",
     "Dönüştürülmüş Varil",
-    ""
+    "nft_h25_armasbarrelchair desc"
   ],
   [
     "nft_h25_armasrockingchair",
     "Antik Sallanan Bank",
-    ""
+    "nft_h25_armasrockingchair desc"
   ],
   [
     "nft_h25_boogieblast_egg",
@@ -87138,6 +87138,11 @@
     "nft_h25_boogieblast_tile",
     "Disko Dans Karosu",
     "nft_h25_boogieblast_tile desc"
+  ],
+  [
+    "nft_h25_bronzeanvaward",
+    "nft_h25_bronzeanvaward name",
+    "nft_h25_bronzeanvaward desc"
   ],
   [
     "nft_h25_bronzepiranha",
@@ -87310,6 +87315,11 @@
     "nft_h25_giftopentestfurni desc"
   ],
   [
+    "nft_h25_goldanvaward",
+    "nft_h25_goldanvaward name",
+    "nft_h25_goldanvaward desc"
+  ],
+  [
     "nft_h25_goldpiranha",
     "Altın Pirana Plaketi",
     "nft_h25_goldpiranha desc"
@@ -87393,6 +87403,11 @@
     "nft_h25_robotikpenguin",
     "Robot Penguen",
     "nft_h25_robotikpenguin desc"
+  ],
+  [
+    "nft_h25_silveranvaward",
+    "nft_h25_silveranvaward name",
+    "nft_h25_silveranvaward desc"
   ],
   [
     "nft_h25_silverpiranha",
@@ -87508,6 +87523,11 @@
     "nft_h25_trippy_sleepingbag",
     "Trip Uyku Tulumu",
     "nft_h25_trippy_sleepingbag desc"
+  ],
+  [
+    "nft_h25_trippyanvaward",
+    "nft_h25_trippyanvaward name",
+    "nft_h25_trippyanvaward desc"
   ],
   [
     "nft_h25_zeusdrinks",
