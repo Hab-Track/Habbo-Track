@@ -110281,7 +110281,7 @@
   ],
   [
     "wf_cnd_not_match_snap",
-    "Negatiivinen Wired-ehto: Tavaran tila EI täsmää",
+    "Negatiivinen Wired-ehto: Tavaran tila ja asento EIVÄT täsmää",
     "Laukaisin aktivoituu, jos valitun tavaran tila EI täsmää."
   ],
   [
@@ -110291,12 +110291,12 @@
   ],
   [
     "wf_cnd_not_stuff_is",
-    "Negatiivinen Wired-ehto: Tavaran EI täsmää",
+    "Negatiivinen Wired-ehto: Tavara EI täsmää",
     "Ehto täyttyy, jos laukaisimen määrittelemä tavara EI ole yksi valituista tavaroista tai sen kanssa samaa tyyppiä"
   ],
   [
     "wf_cnd_not_trggrer_on",
-    "Negatiivinen Wired-ehto: Laukaisimen aktivoija EI ole tavaran päällä",
+    "Negatiivinen Wired-ehto: Laukaisija EI ole tavaran päällä",
     "Ehto täyttyy, jos laukaisija EI ole minkään valitun tavaran päällä"
   ],
   [
@@ -110311,7 +110311,7 @@
   ],
   [
     "wf_cnd_not_user_performs_action",
-    "Negatiivinen Wired-ehto: Käyttäjä EI suorita toimenpidettä",
+    "Wired-ehto: Suoritettu toimenpide EI täsmää",
     "wf_cnd_not_user_performs_action desc"
   ],
   [
@@ -110356,7 +110356,7 @@
   ],
   [
     "wf_cnd_trggrer_on_frn",
-    "Wired-ehto: Laukaisimen aktivoija on tavaran päällä",
+    "Wired-ehto: Laukaisija on tavaran päällä",
     "Laukaisimen aktivointi on mahdollista, kun aktivoija on valitun tavaran päällä."
   ],
   [
@@ -110376,7 +110376,7 @@
   ],
   [
     "wf_cnd_user_performs_action",
-    "Wired-ehto: Käyttäjä suorittaa toimenpiteen",
+    "Wired-ehto: Suoritettu toimenpide täsmää",
     "wf_cnd_user_performs_action desc"
   ],
   [

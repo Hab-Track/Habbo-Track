@@ -110283,7 +110283,7 @@
       },
       {
         "code": "wf_cnd_not_match_snap",
-        "name": "Negatiivinen Wired-ehto: Tavaran tila EI täsmää",
+        "name": "Negatiivinen Wired-ehto: Tavaran tila ja asento EIVÄT täsmää",
         "description": "Laukaisin aktivoituu, jos valitun tavaran tila EI täsmää."
       },
       {
@@ -110293,12 +110293,12 @@
       },
       {
         "code": "wf_cnd_not_stuff_is",
-        "name": "Negatiivinen Wired-ehto: Tavaran EI täsmää",
+        "name": "Negatiivinen Wired-ehto: Tavara EI täsmää",
         "description": "Ehto täyttyy, jos laukaisimen määrittelemä tavara EI ole yksi valituista tavaroista tai sen kanssa samaa tyyppiä"
       },
       {
         "code": "wf_cnd_not_trggrer_on",
-        "name": "Negatiivinen Wired-ehto: Laukaisimen aktivoija EI ole tavaran päällä",
+        "name": "Negatiivinen Wired-ehto: Laukaisija EI ole tavaran päällä",
         "description": "Ehto täyttyy, jos laukaisija EI ole minkään valitun tavaran päällä"
       },
       {
@@ -110313,7 +110313,7 @@
       },
       {
         "code": "wf_cnd_not_user_performs_action",
-        "name": "Negatiivinen Wired-ehto: Käyttäjä EI suorita toimenpidettä",
+        "name": "Wired-ehto: Suoritettu toimenpide EI täsmää",
         "description": "wf_cnd_not_user_performs_action desc"
       },
       {
@@ -110358,7 +110358,7 @@
       },
       {
         "code": "wf_cnd_trggrer_on_frn",
-        "name": "Wired-ehto: Laukaisimen aktivoija on tavaran päällä",
+        "name": "Wired-ehto: Laukaisija on tavaran päällä",
         "description": "Laukaisimen aktivointi on mahdollista, kun aktivoija on valitun tavaran päällä."
       },
       {
@@ -110378,7 +110378,7 @@
       },
       {
         "code": "wf_cnd_user_performs_action",
-        "name": "Wired-ehto: Käyttäjä suorittaa toimenpiteen",
+        "name": "Wired-ehto: Suoritettu toimenpide täsmää",
         "description": "wf_cnd_user_performs_action desc"
       },
       {
