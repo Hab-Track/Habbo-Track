@@ -38807,6 +38807,11 @@
         "description": "clothing_nftrastasantajacket desc"
       },
       {
+        "code": "clothing_nftregalblackcrown",
+        "name": "Majesteettinen musta kruunu",
+        "description": ""
+      },
+      {
         "code": "clothing_nftreindeer",
         "name": "Porohaalarit",
         "description": "clothing_nftreindeer desc"
@@ -88843,7 +88848,7 @@
       },
       {
         "code": "rb_r25_dragon_bd",
-        "name": "Harvinaisuus: Majesteettinen musta lohikäärmeen munapatsas",
+        "name": "Majesteettinen musta lohikäärmeen munapatsas",
         "description": ""
       },
       {
@@ -89098,12 +89103,12 @@
       },
       {
         "code": "regalblack_c25_blackpillow",
-        "name": "regalblack_c25_blackpillow name",
+        "name": "Majesteettinen musta tyyny",
         "description": "regalblack_c25_blackpillow desc"
       },
       {
         "code": "regalblack_c25_cabinet",
-        "name": "regalblack_c25_cabinet name",
+        "name": "Majesteettinen musta palkintovitriini",
         "description": "regalblack_c25_cabinet desc"
       },
       {
@@ -89113,27 +89118,27 @@
       },
       {
         "code": "regalblack_c25_pedestal",
-        "name": "regalblack_c25_pedestal name",
+        "name": "Majesteettinen musta jalusta",
         "description": "regalblack_c25_pedestal desc"
       },
       {
         "code": "regalblack_r25_dragon",
-        "name": "Harvinaisuus: Majesteettinen musta lohikäärmeen munapatsas",
+        "name": "Majesteettinen musta lohikäärmeen munapatsas",
         "description": "regalblack_r25_dragon desc"
       },
       {
         "code": "regalblack_r25_orb",
-        "name": "regalblack_r25_orb name",
+        "name": "Majesteettinen musta hallitsijan pallo",
         "description": "regalblack_r25_orb desc"
       },
       {
         "code": "regalblack_r25_scepter",
-        "name": "regalblack_r25_scepter name",
+        "name": "Majesteettinen musta valtikka",
         "description": "regalblack_r25_scepter desc"
       },
       {
         "code": "regalblack_r25_sohva",
-        "name": "regalblack_r25_sohva name",
+        "name": "Majesteettinen musta valtaistuinsohva",
         "description": "regalblack_r25_sohva desc"
       },
       {
@@ -102923,12 +102928,12 @@
       },
       {
         "code": "steam_crank",
-        "name": "steam_crank name",
+        "name": "Höyrykoneen plaketti",
         "description": "steam_crank desc"
       },
       {
         "code": "steam_duck",
-        "name": "steam_duck name",
+        "name": "Höyryvoimalla toimiva ankka",
         "description": "steam_duck desc"
       },
       {
