@@ -11778,7 +11778,7 @@
       },
       {
         "code": "ads_mobileset_bd",
-        "name": "Care Bears Cloudmobile Set",
+        "name": "Halinallejen Pilviauto-sarja",
         "description": ""
       },
       {
@@ -11998,7 +11998,7 @@
       },
       {
         "code": "ads_plushset_bd",
-        "name": "Care Bears Plushie Set",
+        "name": "Halinalle-pehmolelusarja",
         "description": ""
       },
       {
@@ -39300,6 +39300,11 @@
         "code": "clothing_nfttropicalcrop",
         "name": "Tropiikki crop top",
         "description": "clothing_nfttropicalcrop desc"
+      },
+      {
+        "code": "clothing_nftumbrella",
+        "name": "Sadepäivän sateenvarjo",
+        "description": ""
       },
       {
         "code": "clothing_nftunicornhoodie",

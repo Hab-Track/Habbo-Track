@@ -10568,7 +10568,7 @@
       },
       {
         "code": "ads_mobileset_bd",
-        "name": "Glücksbärchis-Wolkenmobil-Set",
+        "name": "Glücksbärchi-Wolkenmobil-Set",
         "description": ""
       },
       {
@@ -10788,7 +10788,7 @@
       },
       {
         "code": "ads_plushset_bd",
-        "name": "Plüsch-Glücksbärchis-Set",
+        "name": "Glücksbärchi-Plüschtier-Set",
         "description": ""
       },
       {
@@ -38110,6 +38110,11 @@
         "code": "clothing_nfttropicalcrop",
         "name": "Tropisches bauchfreies Top",
         "description": "clothing_nfttropicalcrop desc"
+      },
+      {
+        "code": "clothing_nftumbrella",
+        "name": "Regentag-Schirm",
+        "description": ""
       },
       {
         "code": "clothing_nftunicornhoodie",

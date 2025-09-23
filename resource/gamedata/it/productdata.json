@@ -11093,7 +11093,7 @@
       },
       {
         "code": "ads_mobileset_bd",
-        "name": "Care Bears Cloudmobile Set",
+        "name": "Set Nuvola Mobile Orsetti del Cuore",
         "description": ""
       },
       {
@@ -11313,7 +11313,7 @@
       },
       {
         "code": "ads_plushset_bd",
-        "name": "Care Bears Plushie Set",
+        "name": "Set Peluche Orsetti del Cuore",
         "description": ""
       },
       {
@@ -38635,6 +38635,11 @@
         "code": "clothing_nfttropicalcrop",
         "name": "Crop Top Tropicale",
         "description": "clothing_nfttropicalcrop desc"
+      },
+      {
+        "code": "clothing_nftumbrella",
+        "name": "Ombrello Giorno di Pioggia",
+        "description": ""
       },
       {
         "code": "clothing_nftunicornhoodie",
