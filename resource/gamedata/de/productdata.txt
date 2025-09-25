@@ -32925,6 +32925,11 @@
     "Weil auch der Nacken ein wenig Schatten braucht."
   ],
   [
+    "clothing_backkatana",
+    "clothing_backkatana name",
+    "clothing_backkatana desc"
+  ],
+  [
     "clothing_baconhairv2",
     "Speck-Frisur 2.0",
     "clothing_baconhairv2 desc"
@@ -32963,6 +32968,16 @@
     "clothing_bandage",
     "Kopfverband",
     "Es SCHMERZT!"
+  ],
+  [
+    "clothing_bandagedhead",
+    "clothing_bandagedhead name",
+    "clothing_bandagedhead desc"
+  ],
+  [
+    "clothing_bandagedtorso",
+    "clothing_bandagedtorso name",
+    "clothing_bandagedtorso desc"
   ],
   [
     "clothing_basichat",
@@ -34880,6 +34895,11 @@
     "clothing_fruitbag desc"
   ],
   [
+    "clothing_fungushead",
+    "clothing_fungushead name",
+    "clothing_fungushead desc"
+  ],
+  [
     "clothing_funshinebearoutfit",
     "Sonnenscheinbärchi-Outfit",
     "clothing_funshinebearoutfit desc"
@@ -35555,6 +35575,11 @@
     "Das Beste der antiken Japanischen Mode."
   ],
   [
+    "clothing_knifeultility",
+    "clothing_knifeultility name",
+    "clothing_knifeultility desc"
+  ],
+  [
     "clothing_knightbelt",
     "Phosphoreszierender Gürtel",
     "Strahlt mit übernatürlicher Leuchtkraft."
@@ -36005,6 +36030,11 @@
     "Mach dich schick. Die Habbo Armee braucht DICH."
   ],
   [
+    "clothing_medbackpack",
+    "clothing_medbackpack name",
+    "clothing_medbackpack desc"
+  ],
+  [
     "clothing_megaoversizedtshirt",
     "Super-Oversized-T-Shirt",
     "clothing_megaoversizedtshirt desc"
@@ -36155,6 +36185,11 @@
     "clothing_moonback desc"
   ],
   [
+    "clothing_mouldytoastbackpack",
+    "clothing_mouldytoastbackpack name",
+    "clothing_mouldytoastbackpack desc"
+  ],
+  [
     "clothing_moviestarhair",
     "Bollywood Haartolle",
     "clothing_moviestarhair desc"
@@ -36168,6 +36203,11 @@
     "clothing_mrblackmerch",
     "Mr Black-Outfit",
     "clothing_mrblackmerch desc"
+  ],
+  [
+    "clothing_muddyfeet",
+    "clothing_muddyfeet name",
+    "clothing_muddyfeet desc"
   ],
   [
     "clothing_multibadges",
@@ -36478,6 +36518,11 @@
     "clothing_nftbigsword",
     "Riesenschwert",
     "clothing_nftbigsword desc"
+  ],
+  [
+    "clothing_nftbiohazardjacket",
+    "clothing_nftbiohazardjacket name",
+    "clothing_nftbiohazardjacket desc"
   ],
   [
     "clothing_nftbionic",
@@ -36960,6 +37005,11 @@
     "clothing_nftflamingofloat desc"
   ],
   [
+    "clothing_nftflashlight",
+    "clothing_nftflashlight name",
+    "clothing_nftflashlight desc"
+  ],
+  [
     "clothing_nftfloraradiance",
     "Blumenkranzflügel",
     "clothing_nftfloraradiance desc"
@@ -37048,6 +37098,11 @@
     "clothing_nftfrozenscarf",
     "Vereister Schal ",
     "clothing_nftfrozenscarf desc"
+  ],
+  [
+    "clothing_nftfungalinfection",
+    "clothing_nftfungalinfection name",
+    "clothing_nftfungalinfection desc"
   ],
   [
     "clothing_nftgameover",
@@ -38138,6 +38193,11 @@
     "clothing_nftvivideyes",
     "Schöne lebendige Augen",
     "clothing_nftvivideyes desc"
+  ],
+  [
+    "clothing_nftwarpaint",
+    "clothing_nftwarpaint name",
+    "clothing_nftwarpaint desc"
   ],
   [
     "clothing_nftwatermelonhelmet",
@@ -41500,6 +41560,11 @@
     "clothing_r25_mothwings desc"
   ],
   [
+    "clothing_r25_mushroomcape",
+    "clothing_r25_mushroomcape name",
+    "clothing_r25_mushroomcape desc"
+  ],
+  [
     "clothing_r25_nemean_bd",
     "Nemeischer Löwe",
     ""
@@ -41538,6 +41603,11 @@
     "clothing_r25_redpandabag",
     "Roter Panda-Rucksack",
     "clothing_r25_redpandabag desc"
+  ],
+  [
+    "clothing_r25_shroomie",
+    "clothing_r25_shroomie name",
+    "clothing_r25_shroomie desc"
   ],
   [
     "clothing_r25_twotonedlonghair",
@@ -41653,6 +41723,11 @@
     "clothing_reindeerears",
     "Rentierohren",
     "clothing_reindeerears desc"
+  ],
+  [
+    "clothing_respirator",
+    "clothing_respirator name",
+    "clothing_respirator desc"
   ],
   [
     "clothing_retrohair",
@@ -41828,6 +41903,16 @@
     "clothing_schoolblazer",
     "Schuluniform",
     "clothing_schoolblazer desc"
+  ],
+  [
+    "clothing_scruffyjeans",
+    "clothing_scruffyjeans name",
+    "clothing_scruffyjeans desc"
+  ],
+  [
+    "clothing_scruffyplaidshirt",
+    "clothing_scruffyplaidshirt name",
+    "clothing_scruffyplaidshirt desc"
   ],
   [
     "clothing_sealbeanie_bd",
@@ -42243,6 +42328,11 @@
     "clothing_surprised",
     "Überraschtes Emoji",
     "Buh! Hast du dich erschrocken."
+  ],
+  [
+    "clothing_survivalbackpack",
+    "clothing_survivalbackpack name",
+    "clothing_survivalbackpack desc"
   ],
   [
     "clothing_swirlskirt",
@@ -64320,14 +64410,29 @@
     "hween_c25_campfire desc"
   ],
   [
+    "hween_c25_infected1",
+    "hween_c25_infected1 name",
+    "hween_c25_infected1 desc"
+  ],
+  [
     "hween_c25_infected1b",
     "hween_c25_infected1b name",
     "hween_c25_infected1b desc"
   ],
   [
+    "hween_c25_infected2",
+    "hween_c25_infected2 name",
+    "hween_c25_infected2 desc"
+  ],
+  [
     "hween_c25_infected2b",
     "hween_c25_infected2b name",
     "hween_c25_infected2b desc"
+  ],
+  [
+    "hween_c25_infected3",
+    "hween_c25_infected3 name",
+    "hween_c25_infected3 desc"
   ],
   [
     "hween_c25_infected3b",
@@ -64778,6 +64883,16 @@
     "hween_r24_vintagepromqueen",
     "Ewige Ballkönigin",
     "hween_r24_vintagepromqueen desc"
+  ],
+  [
+    "hween_r25_mushroommchn",
+    "hween_r25_mushroommchn name",
+    "hween_r25_mushroommchn desc"
+  ],
+  [
+    "hween_r25_specimen",
+    "hween_r25_specimen name",
+    "hween_r25_specimen desc"
   ],
   [
     "hygge_c18_chair",
@@ -76795,6 +76910,11 @@
     "nft_h25_bronzeanvaward desc"
   ],
   [
+    "nft_h25_bronzeinftrophy",
+    "nft_h25_bronzeinftrophy name",
+    "nft_h25_bronzeinftrophy desc"
+  ],
+  [
     "nft_h25_bronzepiranha",
     "Bronze Piranha Plakette",
     "nft_h25_bronzepiranha desc"
@@ -76965,9 +77085,19 @@
     "nft_h25_giftopentestfurni desc"
   ],
   [
+    "nft_h25_gnomeofdoom",
+    "nft_h25_gnomeofdoom name",
+    "nft_h25_gnomeofdoom desc"
+  ],
+  [
     "nft_h25_goldanvaward",
     "nft_h25_goldanvaward name",
     "nft_h25_goldanvaward desc"
+  ],
+  [
+    "nft_h25_goldinftrophy",
+    "nft_h25_goldinftrophy name",
+    "nft_h25_goldinftrophy desc"
   ],
   [
     "nft_h25_goldpiranha",
@@ -77040,6 +77170,11 @@
     "nft_h25_popsicle3 desc"
   ],
   [
+    "nft_h25_pumpkinpod",
+    "nft_h25_pumpkinpod name",
+    "nft_h25_pumpkinpod desc"
+  ],
+  [
     "nft_h25_robocroc",
     "Robo-Kroko",
     "nft_h25_robocroc desc"
@@ -77060,9 +77195,19 @@
     "nft_h25_silveranvaward desc"
   ],
   [
+    "nft_h25_silverinftrophy",
+    "nft_h25_silverinftrophy name",
+    "nft_h25_silverinftrophy desc"
+  ],
+  [
     "nft_h25_silverpiranha",
     "Silber Piranha Plakette",
     "nft_h25_silverpiranha desc"
+  ],
+  [
+    "nft_h25_skeletondragon",
+    "nft_h25_skeletondragon name",
+    "nft_h25_skeletondragon desc"
   ],
   [
     "nft_h25_summerboat_dlx",
@@ -78245,6 +78390,11 @@
     "nft_sc25_bigbunnybed desc"
   ],
   [
+    "nft_sc25_biohazardsign",
+    "nft_sc25_biohazardsign name",
+    "nft_sc25_biohazardsign desc"
+  ],
+  [
     "nft_sc25_chickballoon",
     "Kükenballon",
     "nft_sc25_chickballoon desc"
@@ -78258,6 +78408,11 @@
     "nft_sc25_dragonlampfloat",
     "Schwimmende Drachenlampe",
     "nft_sc25_dragonlampfloat desc"
+  ],
+  [
+    "nft_sc25_shrooms",
+    "nft_sc25_shrooms name",
+    "nft_sc25_shrooms desc"
   ],
   [
     "nft_sc25_smallpirateboat",
@@ -78293,6 +78448,11 @@
     "nft_sc25_unicornfloat",
     "Schwimmendes Einhorn",
     "nft_sc25_unicornfloat desc"
+  ],
+  [
+    "nft_sc25_warningsign",
+    "nft_sc25_warningsign name",
+    "nft_sc25_warningsign desc"
   ],
   [
     "nft_scifidoor_1",
@@ -99558,6 +99718,21 @@
     "sb_wall",
     "Betonwand",
     "Grauer Großstadtstyle"
+  ],
+  [
+    "sc25_biohazardsign",
+    "sc25_biohazardsign name",
+    "sc25_biohazardsign desc"
+  ],
+  [
+    "sc25_shrooms",
+    "sc25_shrooms name",
+    "sc25_shrooms desc"
+  ],
+  [
+    "sc25_warningsign",
+    "sc25_warningsign name",
+    "sc25_warningsign desc"
   ],
   [
     "school_backtoschool",
