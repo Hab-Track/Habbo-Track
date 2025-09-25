@@ -33522,6 +33522,11 @@
         "description": "O pescoço também precisa de proteção."
       },
       {
+        "code": "clothing_backkatana",
+        "name": "clothing_backkatana name",
+        "description": "clothing_backkatana desc"
+      },
+      {
         "code": "clothing_baconhairv2",
         "name": "Penteado Bacon 2.0",
         "description": "clothing_baconhairv2 desc"
@@ -33560,6 +33565,16 @@
         "code": "clothing_bandage",
         "name": "Faixa para a cabeça",
         "description": "Para galos extremos."
+      },
+      {
+        "code": "clothing_bandagedhead",
+        "name": "clothing_bandagedhead name",
+        "description": "clothing_bandagedhead desc"
+      },
+      {
+        "code": "clothing_bandagedtorso",
+        "name": "clothing_bandagedtorso name",
+        "description": "clothing_bandagedtorso desc"
       },
       {
         "code": "clothing_basichat",
@@ -35487,6 +35502,11 @@
         "description": "clothing_fruitbag desc"
       },
       {
+        "code": "clothing_fungushead",
+        "name": "clothing_fungushead name",
+        "description": "clothing_fungushead desc"
+      },
+      {
         "code": "clothing_funshinebearoutfit",
         "name": "Ursinhos Carinhosos Divertido",
         "description": "clothing_funshinebearoutfit desc"
@@ -36162,6 +36182,11 @@
         "description": "A mais antiga moda japonesa"
       },
       {
+        "code": "clothing_knifeultility",
+        "name": "clothing_knifeultility name",
+        "description": "clothing_knifeultility desc"
+      },
+      {
         "code": "clothing_knightbelt",
         "name": "Cinturão da Cavalaria",
         "description": "Irradiando luzes de outros mundos."
@@ -36622,6 +36647,11 @@
         "description": "Camufle-se. O Habbo Exército precisa de VOCÊ!"
       },
       {
+        "code": "clothing_medbackpack",
+        "name": "clothing_medbackpack name",
+        "description": "clothing_medbackpack desc"
+      },
+      {
         "code": "clothing_megaoversizedtshirt",
         "name": "Camiseta Super Oversize",
         "description": "clothing_megaoversizedtshirt desc"
@@ -36772,6 +36802,11 @@
         "description": "clothing_moonback desc"
       },
       {
+        "code": "clothing_mouldytoastbackpack",
+        "name": "clothing_mouldytoastbackpack name",
+        "description": "clothing_mouldytoastbackpack desc"
+      },
+      {
         "code": "clothing_moviestarhair",
         "name": "Penteado Bollywood",
         "description": "clothing_moviestarhair desc"
@@ -36785,6 +36820,11 @@
         "code": "clothing_mrblackmerch",
         "name": "Mr Black Outfit",
         "description": "clothing_mrblackmerch desc"
+      },
+      {
+        "code": "clothing_muddyfeet",
+        "name": "clothing_muddyfeet name",
+        "description": "clothing_muddyfeet desc"
       },
       {
         "code": "clothing_multibadges",
@@ -37095,6 +37135,11 @@
         "code": "clothing_nftbigsword",
         "name": "Espada Enorme",
         "description": "clothing_nftbigsword desc"
+      },
+      {
+        "code": "clothing_nftbiohazardjacket",
+        "name": "clothing_nftbiohazardjacket name",
+        "description": "clothing_nftbiohazardjacket desc"
       },
       {
         "code": "clothing_nftbionic",
@@ -37577,6 +37622,11 @@
         "description": "clothing_nftflamingofloat desc"
       },
       {
+        "code": "clothing_nftflashlight",
+        "name": "clothing_nftflashlight name",
+        "description": "clothing_nftflashlight desc"
+      },
+      {
         "code": "clothing_nftfloraradiance",
         "name": "Adereço Guirlanda Floral",
         "description": "clothing_nftfloraradiance desc"
@@ -37665,6 +37715,11 @@
         "code": "clothing_nftfrozenscarf",
         "name": "Cachecol Congelado",
         "description": "clothing_nftfrozenscarf desc"
+      },
+      {
+        "code": "clothing_nftfungalinfection",
+        "name": "clothing_nftfungalinfection name",
+        "description": "clothing_nftfungalinfection desc"
       },
       {
         "code": "clothing_nftgameover",
@@ -38755,6 +38810,11 @@
         "code": "clothing_nftvivideyes",
         "name": "Olhar Vívido",
         "description": "clothing_nftvivideyes desc"
+      },
+      {
+        "code": "clothing_nftwarpaint",
+        "name": "clothing_nftwarpaint name",
+        "description": "clothing_nftwarpaint desc"
       },
       {
         "code": "clothing_nftwatermelonhelmet",
@@ -42117,6 +42177,11 @@
         "description": "clothing_r25_mothwings desc"
       },
       {
+        "code": "clothing_r25_mushroomcape",
+        "name": "clothing_r25_mushroomcape name",
+        "description": "clothing_r25_mushroomcape desc"
+      },
+      {
         "code": "clothing_r25_nemean_bd",
         "name": "Leão de Nemeia",
         "description": ""
@@ -42155,6 +42220,11 @@
         "code": "clothing_r25_redpandabag",
         "name": "clothing_r25_redpandabag name",
         "description": "clothing_r25_redpandabag desc"
+      },
+      {
+        "code": "clothing_r25_shroomie",
+        "name": "clothing_r25_shroomie name",
+        "description": "clothing_r25_shroomie desc"
       },
       {
         "code": "clothing_r25_twotonedlonghair",
@@ -42270,6 +42340,11 @@
         "code": "clothing_reindeerears",
         "name": "Tiara Orelhas de Rena",
         "description": "clothing_reindeerears desc"
+      },
+      {
+        "code": "clothing_respirator",
+        "name": "clothing_respirator name",
+        "description": "clothing_respirator desc"
       },
       {
         "code": "clothing_retrohair",
@@ -42445,6 +42520,16 @@
         "code": "clothing_schoolblazer",
         "name": "Uniforme Acadêmico",
         "description": "clothing_schoolblazer desc"
+      },
+      {
+        "code": "clothing_scruffyjeans",
+        "name": "clothing_scruffyjeans name",
+        "description": "clothing_scruffyjeans desc"
+      },
+      {
+        "code": "clothing_scruffyplaidshirt",
+        "name": "clothing_scruffyplaidshirt name",
+        "description": "clothing_scruffyplaidshirt desc"
       },
       {
         "code": "clothing_sealbeanie_bd",
@@ -42860,6 +42945,11 @@
         "code": "clothing_surprised",
         "name": "Emoji Surpreso",
         "description": "Bu! Te assustei!"
+      },
+      {
+        "code": "clothing_survivalbackpack",
+        "name": "clothing_survivalbackpack name",
+        "description": "clothing_survivalbackpack desc"
       },
       {
         "code": "clothing_swirlskirt",
@@ -65197,14 +65287,29 @@
         "description": "hween_c25_campfire desc"
       },
       {
+        "code": "hween_c25_infected1",
+        "name": "hween_c25_infected1 name",
+        "description": "hween_c25_infected1 desc"
+      },
+      {
         "code": "hween_c25_infected1b",
         "name": "hween_c25_infected1b name",
         "description": "hween_c25_infected1b desc"
       },
       {
+        "code": "hween_c25_infected2",
+        "name": "hween_c25_infected2 name",
+        "description": "hween_c25_infected2 desc"
+      },
+      {
         "code": "hween_c25_infected2b",
         "name": "hween_c25_infected2b name",
         "description": "hween_c25_infected2b desc"
+      },
+      {
+        "code": "hween_c25_infected3",
+        "name": "hween_c25_infected3 name",
+        "description": "hween_c25_infected3 desc"
       },
       {
         "code": "hween_c25_infected3b",
@@ -65655,6 +65760,16 @@
         "code": "hween_r24_vintagepromqueen",
         "name": "Rainha do Baile para sempre!",
         "description": "hween_r24_vintagepromqueen desc"
+      },
+      {
+        "code": "hween_r25_mushroommchn",
+        "name": "hween_r25_mushroommchn name",
+        "description": "hween_r25_mushroommchn desc"
+      },
+      {
+        "code": "hween_r25_specimen",
+        "name": "hween_r25_specimen name",
+        "description": "hween_r25_specimen desc"
       },
       {
         "code": "hygge_c18_chair",
@@ -77757,6 +77872,11 @@
         "description": "nft_h25_bronzeanvaward desc"
       },
       {
+        "code": "nft_h25_bronzeinftrophy",
+        "name": "nft_h25_bronzeinftrophy name",
+        "description": "nft_h25_bronzeinftrophy desc"
+      },
+      {
         "code": "nft_h25_bronzepiranha",
         "name": "Placa Piranha de Bronze",
         "description": "nft_h25_bronzepiranha desc"
@@ -77927,9 +78047,19 @@
         "description": "nft_h25_giftopentestfurni desc"
       },
       {
+        "code": "nft_h25_gnomeofdoom",
+        "name": "nft_h25_gnomeofdoom name",
+        "description": "nft_h25_gnomeofdoom desc"
+      },
+      {
         "code": "nft_h25_goldanvaward",
         "name": "nft_h25_goldanvaward name",
         "description": "nft_h25_goldanvaward desc"
+      },
+      {
+        "code": "nft_h25_goldinftrophy",
+        "name": "nft_h25_goldinftrophy name",
+        "description": "nft_h25_goldinftrophy desc"
       },
       {
         "code": "nft_h25_goldpiranha",
@@ -78002,6 +78132,11 @@
         "description": "nft_h25_popsicle3 desc"
       },
       {
+        "code": "nft_h25_pumpkinpod",
+        "name": "nft_h25_pumpkinpod name",
+        "description": "nft_h25_pumpkinpod desc"
+      },
+      {
         "code": "nft_h25_robocroc",
         "name": "Crocodilo Robótico",
         "description": "nft_h25_robocroc desc"
@@ -78022,9 +78157,19 @@
         "description": "nft_h25_silveranvaward desc"
       },
       {
+        "code": "nft_h25_silverinftrophy",
+        "name": "nft_h25_silverinftrophy name",
+        "description": "nft_h25_silverinftrophy desc"
+      },
+      {
         "code": "nft_h25_silverpiranha",
         "name": "Placa Piranha de Prata",
         "description": "nft_h25_silverpiranha desc"
+      },
+      {
+        "code": "nft_h25_skeletondragon",
+        "name": "nft_h25_skeletondragon name",
+        "description": "nft_h25_skeletondragon desc"
       },
       {
         "code": "nft_h25_summerboat_dlx",
@@ -79207,6 +79352,11 @@
         "description": "nft_sc25_bigbunnybed desc"
       },
       {
+        "code": "nft_sc25_biohazardsign",
+        "name": "nft_sc25_biohazardsign name",
+        "description": "nft_sc25_biohazardsign desc"
+      },
+      {
         "code": "nft_sc25_chickballoon",
         "name": "Balão Pintinho",
         "description": "nft_sc25_chickballoon desc"
@@ -79220,6 +79370,11 @@
         "code": "nft_sc25_dragonlampfloat",
         "name": "Lâmpada do Dragão Inflável",
         "description": "nft_sc25_dragonlampfloat desc"
+      },
+      {
+        "code": "nft_sc25_shrooms",
+        "name": "nft_sc25_shrooms name",
+        "description": "nft_sc25_shrooms desc"
       },
       {
         "code": "nft_sc25_smallpirateboat",
@@ -79255,6 +79410,11 @@
         "code": "nft_sc25_unicornfloat",
         "name": "Unicórnio Inflável",
         "description": "nft_sc25_unicornfloat desc"
+      },
+      {
+        "code": "nft_sc25_warningsign",
+        "name": "nft_sc25_warningsign name",
+        "description": "nft_sc25_warningsign desc"
       },
       {
         "code": "nft_scifidoor_1",
@@ -100485,6 +100645,21 @@
         "code": "sb_wall",
         "name": "Parede de Pista",
         "description": "Estamos torcendo para seu queixo não encontrar este Mobi."
+      },
+      {
+        "code": "sc25_biohazardsign",
+        "name": "sc25_biohazardsign name",
+        "description": "sc25_biohazardsign desc"
+      },
+      {
+        "code": "sc25_shrooms",
+        "name": "sc25_shrooms name",
+        "description": "sc25_shrooms desc"
+      },
+      {
+        "code": "sc25_warningsign",
+        "name": "sc25_warningsign name",
+        "description": "sc25_warningsign desc"
       },
       {
         "code": "school_backtoschool",
