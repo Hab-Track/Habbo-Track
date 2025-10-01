@@ -38812,6 +38812,11 @@
         "description": "clothing_nftsilverskin desc"
       },
       {
+        "code": "clothing_nftskeletonskin",
+        "name": "Skeleton Outfit",
+        "description": "clothing_nftskeletonskin desc"
+      },
+      {
         "code": "clothing_nftskullpendant",
         "name": "Mystic Skull Pendant",
         "description": "clothing_nftskullpendant desc"
@@ -56757,6 +56762,11 @@
         "description": "Braaaaiiinnns..."
       },
       {
+        "code": "ducket_c25_autumnconsoletable",
+        "name": "ducket_c25_autumnconsoletable name",
+        "description": "ducket_c25_autumnconsoletable desc"
+      },
+      {
         "code": "ducket_c25_autumndecor",
         "name": "Autumn Leaf Garland",
         "description": "ducket_c25_autumndecor desc"
@@ -56770,6 +56780,16 @@
         "code": "ducket_c25_autumnplushie",
         "name": "Baby Pumpkin",
         "description": "ducket_c25_autumnplushie desc"
+      },
+      {
+        "code": "ducket_c25_autumnpod",
+        "name": "ducket_c25_autumnpod name",
+        "description": "ducket_c25_autumnpod desc"
+      },
+      {
+        "code": "ducket_c25_autumnrug",
+        "name": "ducket_c25_autumnrug name",
+        "description": "ducket_c25_autumnrug desc"
       },
       {
         "code": "ducket_c25_autumntable",

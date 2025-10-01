@@ -39447,6 +39447,11 @@
         "description": "clothing_nftsilverskin desc"
       },
       {
+        "code": "clothing_nftskeletonskin",
+        "name": "İskelet Kıyafeti",
+        "description": "clothing_nftskeletonskin desc"
+      },
+      {
         "code": "clothing_nftskullpendant",
         "name": "Mistik Kafatası Kolye",
         "description": "clothing_nftskullpendant desc"
@@ -59482,6 +59487,11 @@
         "description": "Beeeyiiinleerrrr..."
       },
       {
+        "code": "ducket_c25_autumnconsoletable",
+        "name": "ducket_c25_autumnconsoletable name",
+        "description": "ducket_c25_autumnconsoletable desc"
+      },
+      {
         "code": "ducket_c25_autumndecor",
         "name": "Sonbahar Yaprakları Süsü",
         "description": "ducket_c25_autumndecor desc"
@@ -59495,6 +59505,16 @@
         "code": "ducket_c25_autumnplushie",
         "name": "Mini Bal Kabağı",
         "description": "ducket_c25_autumnplushie desc"
+      },
+      {
+        "code": "ducket_c25_autumnpod",
+        "name": "ducket_c25_autumnpod name",
+        "description": "ducket_c25_autumnpod desc"
+      },
+      {
+        "code": "ducket_c25_autumnrug",
+        "name": "ducket_c25_autumnrug name",
+        "description": "ducket_c25_autumnrug desc"
       },
       {
         "code": "ducket_c25_autumntable",
