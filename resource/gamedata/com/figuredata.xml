@@ -4128,6 +4128,12 @@
                 <part id="6898" type="ey" colorable="0" index="1" colorindex="0"/>
                 <part id="6899" type="fc" colorable="1" index="2" colorindex="2"/>
             </set>
+            <set id="6248" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="6961" type="hd" colorable="1" index="0" colorindex="1"/>
+                <part id="6961" type="bd" colorable="1" index="0" colorindex="1"/>
+                <part id="6961" type="lh" colorable="1" index="0" colorindex="1"/>
+                <part id="6961" type="rh" colorable="1" index="0" colorindex="1"/>
+            </set>
             <set id="626" gender="F" club="0" colorable="1" selectable="1" preselectable="1">
                 <part id="1" type="bd" colorable="1" index="0" colorindex="1"/>
                 <part id="7" type="ey" colorable="1" index="0" colorindex="1"/>
