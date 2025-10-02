@@ -15698,7 +15698,9 @@
             </set>
             <set id="6234" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="6930" type="wa" colorable="0" index="0" colorindex="0"/>
+                <part id="6930" type="rc" colorable="0" index="0" colorindex="0"/>
                 <part id="6931" type="wa" colorable="1" index="1" colorindex="1"/>
+                <part id="6931" type="rc" colorable="1" index="1" colorindex="1"/>
             </set>
             <set id="2007" gender="U" club="0" colorable="0" selectable="1" preselectable="0">
                 <part id="7" type="wa" colorable="0" index="0" colorindex="0"/>
