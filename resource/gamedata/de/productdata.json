@@ -35068,7 +35068,7 @@
       },
       {
         "code": "clothing_goldpack1",
-        "name": "Goldenes Accesoirepaket",
+        "name": "Goldenes Accessoirepaket",
         "description": "Jedes Paket enthält 7 GOLD Accesoires"
       },
       {
@@ -64473,7 +64473,7 @@
       },
       {
         "code": "hween_c25_antidote",
-        "name": "Gegenmittel",
+        "name": "Gegengift",
         "description": "hween_c25_antidote desc"
       },
       {
@@ -64613,7 +64613,7 @@
       },
       {
         "code": "hween_c25_signage",
-        "name": "Apokalyptisches Graffiti",
+        "name": "Apokalypsen-Graffiti",
         "description": "hween_c25_signage desc"
       },
       {
@@ -64623,7 +64623,7 @@
       },
       {
         "code": "hween_c25_tools",
-        "name": "Bauwerkzeug",
+        "name": "Bauwerkzeuge",
         "description": "hween_c25_tools desc"
       },
       {
@@ -64633,7 +64633,7 @@
       },
       {
         "code": "hween_c25_weed2",
-        "name": "Hochwachsendes Unkraut",
+        "name": "Rankendes Efeu",
         "description": "hween_c25_weed2 desc"
       },
       {
@@ -90473,6 +90473,11 @@
       },
       {
         "code": "rm_dbl_tto272",
+        "name": "50 per cent Off 220 Credits",
+        "description": "Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person"
+      },
+      {
+        "code": "rm_dbl_tto274",
         "name": "50 per cent Off 220 Credits",
         "description": "Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person"
       },
