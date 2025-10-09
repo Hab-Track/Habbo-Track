@@ -84,10 +84,12 @@ citizenship.vip.tutorial.quest.campaign.name=VIPTutorials
 classic.collectibles.hub.enabled=true
 client.allow.facebook.like=1
 client.connection.failed.url=${url.prefix}/client_connection_failed
+client.donation.enabled=false
 client.fatal.error.url=${url.prefix}/flash_client_error
 client.minimail.embed.enabled=true
 client.news.embed.enabled=true
 client.reload.url=${url.prefix}/account/reauthenticate?page=/flash_client
+client.stargems.enabled=false
 client.toolbar.static.enabled=true
 club.membership.extend.basic.promotion.enabled=true
 club.membership.extend.vip.promotion.enabled=true
@@ -1595,8 +1597,8 @@ zoom.enabled=1
 
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202510021437-569432974/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.de/gamedata/external_flash_texts/38aa8a39b538716ed3132fd1f91c35c41b592bd8
+external.texts.txt=https://www.habbo.de/gamedata/external_flash_texts/65ae0bb0853ae80fb1e245b64be00948ebfb81fc
 external.figurepartlist.txt=https://www.habbo.de/gamedata/figuredata/2f32e0b72d08bbdffd9fc53369a07791b8d26c58
 productdata.load.url=http://www.habbo.de/gamedata/productdata/a1e758bff9980c073d20d67049289dbffcf208bf
 furnidata.load.url=http://www.habbo.de/gamedata/furnidata_xml/e07b5fbc86cf43518c219551d9aba64788a2b2a3
-external.override.texts.txt=https://www.habbo.de/gamedata/override/external_flash_override_texts/38aa8a39b538716ed3132fd1f91c35c41b592bd8
+external.override.texts.txt=https://www.habbo.de/gamedata/override/external_flash_override_texts/65ae0bb0853ae80fb1e245b64be00948ebfb81fc
