@@ -65352,6 +65352,11 @@
         "description": "hween_r25_mushroommchn desc"
       },
       {
+        "code": "hween_r25_specimen_bd",
+        "name": "Preserved Specimen",
+        "description": "hween_r25_specimen desc"
+      },
+      {
         "code": "hween_r25_specimen",
         "name": "Espécimen Preservado",
         "description": "hween_r25_specimen desc"
@@ -71008,7 +71013,7 @@
       },
       {
         "code": "mini_c24_magnifyingglass2b",
-        "name": "Lupa de Oro Macizo",
+        "name": "Lupa de Oro Macizo (No crackeable)",
         "description": "mini_c24_magnifyingglass2b desc"
       },
       {
@@ -109968,7 +109973,7 @@
       },
       {
         "code": "wf_act_log",
-        "name": "Efecto WIRED: escribir los registros",
+        "name": "Efecto WIRED: Escribir en Registro",
         "description": "wf_act_log desc"
       },
       {
@@ -110008,7 +110013,7 @@
       },
       {
         "code": "wf_act_neg_log",
-        "name": "Efecto Negativo WIRED: escribir los registros",
+        "name": "Efecto Negativo WIRED: Escribir en Registro",
         "description": "wf_act_neg_log desc"
       },
       {

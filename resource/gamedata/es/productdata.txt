@@ -65350,6 +65350,11 @@
     "hween_r25_mushroommchn desc"
   ],
   [
+    "hween_r25_specimen_bd",
+    "Preserved Specimen",
+    "hween_r25_specimen desc"
+  ],
+  [
     "hween_r25_specimen",
     "Espécimen Preservado",
     "hween_r25_specimen desc"
@@ -71006,7 +71011,7 @@
   ],
   [
     "mini_c24_magnifyingglass2b",
-    "Lupa de Oro Macizo",
+    "Lupa de Oro Macizo (No crackeable)",
     "mini_c24_magnifyingglass2b desc"
   ],
   [
@@ -109966,7 +109971,7 @@
   ],
   [
     "wf_act_log",
-    "Efecto WIRED: escribir los registros",
+    "Efecto WIRED: Escribir en Registro",
     "wf_act_log desc"
   ],
   [
@@ -110006,7 +110011,7 @@
   ],
   [
     "wf_act_neg_log",
-    "Efecto Negativo WIRED: escribir los registros",
+    "Efecto Negativo WIRED: Escribir en Registro",
     "wf_act_neg_log desc"
   ],
   [
