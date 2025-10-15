@@ -62465,6 +62465,11 @@
     ""
   ],
   [
+    "hween25_prize5",
+    "The 2010 Wired Gamer",
+    ""
+  ],
+  [
     "hween25_prize",
     "Hween 25 Prizes",
     ""
@@ -80057,12 +80062,12 @@
   [
     "nov_c25_crackableegg",
     "Huevo Chistoso",
-    ""
+    "nov_c25_crackableegg desc"
   ],
   [
     "nov_c25_happytree",
     "Árbol de la Felicidad",
-    ""
+    "nov_c25_happytree desc"
   ],
   [
     "nux_gift_credits",
@@ -110445,6 +110450,11 @@
     "Iluminando"
   ],
   [
+    "wf_ltdproto_act_toggle_state",
+    "wf_ltdproto_act_toggle_state name",
+    "wf_ltdproto_act_toggle_state desc"
+  ],
+  [
     "wf_maze",
     "Divisor de Laberinto",
     "Para usar en tus más enrevesados laberintos"
@@ -110468,6 +110478,21 @@
     "wf_promo_superdeal",
     "Todos los Causantes, Efectos y Condiciones Wired",
     "Contiene todos los Causantes, Efectos y Condiciones Wired en un paquete"
+  ],
+  [
+    "wf_proto_cnd_trggrer_on_frn",
+    "wf_proto_cnd_trggrer_on_frn name",
+    "wf_proto_cnd_trggrer_on_frn desc"
+  ],
+  [
+    "wf_proto_pyramid",
+    "wf_proto_pyramid name",
+    "wf_proto_pyramid desc"
+  ],
+  [
+    "wf_proto_trg_at_given_time",
+    "wf_proto_trg_at_given_time name",
+    "wf_proto_trg_at_given_time desc"
   ],
   [
     "wf_pyramid",
