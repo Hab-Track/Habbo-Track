@@ -104353,12 +104353,12 @@
       },
       {
         "code": "tile_stackmagic1",
-        "name": "2x1 Magic-Stapelfeld",
+        "name": "2x1 Magic Stapelfeld",
         "description": "Trotze den Gesetzen der Stapelphysik, indem du Gegenstände auf diesem Feld platzierst und die Stapelhöhe festlegst! Du kannst das Feld bei anderen Stapeln wiederverwenden!"
       },
       {
         "code": "tile_stackmagic2",
-        "name": "2x2 Magic-Stapelfeld",
+        "name": "2x2 Magic Stapelfeld",
         "description": "Trotze den Gesetzen der Stapelphysik, indem du Gegenstände auf diesem Feld platzierst und die Stapelhöhe festlegst! Du kannst das Feld bei anderen Stapeln wiederverwenden!"
       },
       {
@@ -104378,42 +104378,42 @@
       },
       {
         "code": "tile_stackmagic",
-        "name": "1x1 Magic-Stapelfeld",
+        "name": "1x1 Magic Stapelfeld",
         "description": "Trotze den Gesetzen der Stapelphysik, indem du Gegenstände auf diesem Feld platzierst und die Stapelhöhe festlegst! Du kannst das Feld bei anderen Stapeln wiederverwenden."
       },
       {
         "code": "tile_walkmagic1x2",
-        "name": "1x2 Walk Magic Stapelfeld",
+        "name": "1x2 Magic Lauffeld",
         "description": "tile_walkmagic1x2 desc"
       },
       {
         "code": "tile_walkmagic1x4",
-        "name": "1x4 Walk Magic Stapelfeld",
+        "name": "1x4 Magic Lauffeld",
         "description": "tile_walkmagic1x4 desc"
       },
       {
         "code": "tile_walkmagic1x8",
-        "name": "1x8 Walk Magic Stapelfeld",
+        "name": "1x8 Magic Lauffeld",
         "description": "tile_walkmagic1x8 desc"
       },
       {
         "code": "tile_walkmagic2x2",
-        "name": "2x2 Walk Magic Stapelfeld",
+        "name": "2x2 Magic Lauffeld",
         "description": "tile_walkmagic2x2 desc"
       },
       {
         "code": "tile_walkmagic4x4",
-        "name": "4x4 Walk Magic Stapelfeld",
+        "name": "4x4 Magic Lauffeld",
         "description": "tile_walkmagic4x4 desc"
       },
       {
         "code": "tile_walkmagic8x8",
-        "name": "8x8 Walk Magic Stapelfeld",
+        "name": "8x8 Magic Lauffeld",
         "description": "tile_walkmagic8x8 desc"
       },
       {
         "code": "tile_walkmagic",
-        "name": "Magic Lauffeld",
+        "name": "1x1 Magic Lauffeld",
         "description": "tile_walkmagic desc"
       },
       {

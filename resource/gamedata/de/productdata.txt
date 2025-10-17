@@ -104351,12 +104351,12 @@
   ],
   [
     "tile_stackmagic1",
-    "2x1 Magic-Stapelfeld",
+    "2x1 Magic Stapelfeld",
     "Trotze den Gesetzen der Stapelphysik, indem du Gegenstände auf diesem Feld platzierst und die Stapelhöhe festlegst! Du kannst das Feld bei anderen Stapeln wiederverwenden! "
   ],
   [
     "tile_stackmagic2",
-    "2x2 Magic-Stapelfeld",
+    "2x2 Magic Stapelfeld",
     "Trotze den Gesetzen der Stapelphysik, indem du Gegenstände auf diesem Feld platzierst und die Stapelhöhe festlegst! Du kannst das Feld bei anderen Stapeln wiederverwenden! "
   ],
   [
@@ -104376,42 +104376,42 @@
   ],
   [
     "tile_stackmagic",
-    "1x1 Magic-Stapelfeld",
+    "1x1 Magic Stapelfeld",
     "Trotze den Gesetzen der Stapelphysik, indem du Gegenstände auf diesem Feld platzierst und die Stapelhöhe festlegst! Du kannst das Feld bei anderen Stapeln wiederverwenden."
   ],
   [
     "tile_walkmagic1x2",
-    "1x2 Walk Magic Stapelfeld",
+    "1x2 Magic Lauffeld",
     "tile_walkmagic1x2 desc"
   ],
   [
     "tile_walkmagic1x4",
-    "1x4 Walk Magic Stapelfeld",
+    "1x4 Magic Lauffeld",
     "tile_walkmagic1x4 desc"
   ],
   [
     "tile_walkmagic1x8",
-    "1x8 Walk Magic Stapelfeld",
+    "1x8 Magic Lauffeld",
     "tile_walkmagic1x8 desc"
   ],
   [
     "tile_walkmagic2x2",
-    "2x2 Walk Magic Stapelfeld",
+    "2x2 Magic Lauffeld",
     "tile_walkmagic2x2 desc"
   ],
   [
     "tile_walkmagic4x4",
-    "4x4 Walk Magic Stapelfeld",
+    "4x4 Magic Lauffeld",
     "tile_walkmagic4x4 desc"
   ],
   [
     "tile_walkmagic8x8",
-    "8x8 Walk Magic Stapelfeld",
+    "8x8 Magic Lauffeld",
     "tile_walkmagic8x8 desc"
   ],
   [
     "tile_walkmagic",
-    "Magic Lauffeld",
+    "1x1 Magic Lauffeld",
     "tile_walkmagic desc"
   ],
   [
