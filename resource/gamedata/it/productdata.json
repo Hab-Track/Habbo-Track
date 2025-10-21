@@ -33377,6 +33377,11 @@
         "description": "Soffoca nemici con uragani divini."
       },
       {
+        "code": "clothing_aishahat",
+        "name": "clothing_aishahat name",
+        "description": "clothing_aishahat desc"
+      },
+      {
         "code": "clothing_alicedress",
         "name": "Il Vestito di Alice",
         "description": "clothing_alicedress desc"
@@ -34582,6 +34587,11 @@
         "description": "L'uniforme di Neo-Habbo"
       },
       {
+        "code": "clothing_cybunnyhat",
+        "name": "clothing_cybunnyhat name",
+        "description": "clothing_cybunnyhat desc"
+      },
+      {
         "code": "clothing_cybuns_bd",
         "name": "Codini Cyber-Dread",
         "description": ""
@@ -35150,6 +35160,11 @@
         "code": "clothing_eyetomato",
         "name": "Occhi Pomodoro",
         "description": "clothing_eyetomato desc"
+      },
+      {
+        "code": "clothing_eyriehat",
+        "name": "clothing_eyriehat name",
+        "description": "clothing_eyriehat desc"
       },
       {
         "code": "clothing_f1outfit",
@@ -36177,6 +36192,11 @@
         "description": "clothing_knittedcanvasbag desc"
       },
       {
+        "code": "clothing_kougrahat",
+        "name": "clothing_kougrahat name",
+        "description": "clothing_kougrahat desc"
+      },
+      {
         "code": "clothing_kpop",
         "name": "Acconciatura K-Pop",
         "description": "clothing_kpop desc"
@@ -36490,6 +36510,11 @@
         "code": "clothing_ltd24_ladybeard",
         "name": "clothing_ltd24_ladybeard name",
         "description": "clothing_ltd24_ladybeard desc"
+      },
+      {
+        "code": "clothing_lupehat",
+        "name": "clothing_lupehat name",
+        "description": "clothing_lupehat desc"
       },
       {
         "code": "clothing_luscioushair",
@@ -38714,7 +38739,7 @@
       {
         "code": "clothing_nftumbrella",
         "name": "Ombrello Giorno di Pioggia",
-        "description": ""
+        "description": "clothing_nftumbrella desc"
       },
       {
         "code": "clothing_nftunicornhoodie",
@@ -42077,6 +42102,11 @@
         "description": "clothing_r25_heartqueendress desc"
       },
       {
+        "code": "clothing_r25_illusenwings",
+        "name": "clothing_r25_illusenwings name",
+        "description": "clothing_r25_illusenwings desc"
+      },
+      {
         "code": "clothing_r25_iridescentstarbag",
         "name": "Borsa Stella Iridescente",
         "description": "clothing_r25_iridescentstarbag desc"
@@ -42125,6 +42155,11 @@
         "code": "clothing_r25_poshwaistcoat",
         "name": "clothing_r25_poshwaistcoat name",
         "description": "clothing_r25_poshwaistcoat desc"
+      },
+      {
+        "code": "clothing_r25_queenfyora",
+        "name": "clothing_r25_queenfyora name",
+        "description": "clothing_r25_queenfyora desc"
       },
       {
         "code": "clothing_r25_rainb_pon_bd",
@@ -42185,6 +42220,11 @@
         "code": "clothing_r25_valentinesgroom",
         "name": "Sposo di San Valentino",
         "description": "clothing_r25_valentinesgroom desc"
+      },
+      {
+        "code": "clothing_r25_yellowaisha",
+        "name": "clothing_r25_yellowaisha name",
+        "description": "clothing_r25_yellowaisha desc"
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -42550,6 +42590,11 @@
         "code": "clothing_shortsleeveshirt",
         "name": "Camicia con Colletto Basic",
         "description": "clothing_shortsleeveshirt desc"
+      },
+      {
+        "code": "clothing_shoyruhat",
+        "name": "clothing_shoyruhat name",
+        "description": "clothing_shoyruhat desc"
       },
       {
         "code": "clothing_shy",
@@ -78272,6 +78317,11 @@
         "description": "nft_h25_bronzepiranha desc"
       },
       {
+        "code": "nft_h25_bronzesword",
+        "name": "nft_h25_bronzesword name",
+        "description": "nft_h25_bronzesword desc"
+      },
+      {
         "code": "nft_h25_caterpillarfigure",
         "name": "Figura da Collezione Bruco",
         "description": "nft_h25_caterpillarfigure desc"
@@ -78462,6 +78512,11 @@
         "description": "nft_h25_goldpiranha desc"
       },
       {
+        "code": "nft_h25_goldsword",
+        "name": "nft_h25_goldsword name",
+        "description": "nft_h25_goldsword desc"
+      },
+      {
         "code": "nft_h25_haf_reddevil",
         "name": "Action Figure Red Devil",
         "description": "nft_h25_haf_reddevil desc"
@@ -78560,6 +78615,11 @@
         "code": "nft_h25_silverpiranha",
         "name": "Targa Piranha Argento",
         "description": "nft_h25_silverpiranha desc"
+      },
+      {
+        "code": "nft_h25_silversword",
+        "name": "nft_h25_silversword name",
+        "description": "nft_h25_silversword desc"
       },
       {
         "code": "nft_h25_skelebutler",
@@ -78685,6 +78745,11 @@
         "code": "nft_h25_trippyanvaward",
         "name": "Trippy 4th Anniversary Plaque",
         "description": "nft_h25_trippyanvaward desc"
+      },
+      {
+        "code": "nft_h25_trippysword",
+        "name": "nft_h25_trippysword name",
+        "description": "nft_h25_trippysword desc"
       },
       {
         "code": "nft_h25_zeusdrinks",
@@ -88065,6 +88130,86 @@
         "code": "rare_colourable_scifirocket_4",
         "name": "Macchina del Fumo Rosa Chiaro",
         "description": "rare_colourable_scifirocket_4 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_0",
+        "name": "rare_colourable_shishilamp_0 name",
+        "description": "rare_colourable_shishilamp_0 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_10",
+        "name": "rare_colourable_shishilamp_10 name",
+        "description": "rare_colourable_shishilamp_10 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_11",
+        "name": "rare_colourable_shishilamp_11 name",
+        "description": "rare_colourable_shishilamp_11 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_12",
+        "name": "rare_colourable_shishilamp_12 name",
+        "description": "rare_colourable_shishilamp_12 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_13",
+        "name": "rare_colourable_shishilamp_13 name",
+        "description": "rare_colourable_shishilamp_13 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_14",
+        "name": "rare_colourable_shishilamp_14 name",
+        "description": "rare_colourable_shishilamp_14 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_15",
+        "name": "rare_colourable_shishilamp_15 name",
+        "description": "rare_colourable_shishilamp_15 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_1",
+        "name": "rare_colourable_shishilamp_1 name",
+        "description": "rare_colourable_shishilamp_1 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_2",
+        "name": "rare_colourable_shishilamp_2 name",
+        "description": "rare_colourable_shishilamp_2 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_3",
+        "name": "rare_colourable_shishilamp_3 name",
+        "description": "rare_colourable_shishilamp_3 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_4",
+        "name": "rare_colourable_shishilamp_4 name",
+        "description": "rare_colourable_shishilamp_4 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_5",
+        "name": "rare_colourable_shishilamp_5 name",
+        "description": "rare_colourable_shishilamp_5 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_6",
+        "name": "rare_colourable_shishilamp_6 name",
+        "description": "rare_colourable_shishilamp_6 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_7",
+        "name": "rare_colourable_shishilamp_7 name",
+        "description": "rare_colourable_shishilamp_7 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_8",
+        "name": "rare_colourable_shishilamp_8 name",
+        "description": "rare_colourable_shishilamp_8 desc"
+      },
+      {
+        "code": "rare_colourable_shishilamp_9",
+        "name": "rare_colourable_shishilamp_9 name",
+        "description": "rare_colourable_shishilamp_9 desc"
       },
       {
         "code": "rare_colourable_sleepingbag*2",
