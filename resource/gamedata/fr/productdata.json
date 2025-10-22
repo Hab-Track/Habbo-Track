@@ -109242,8 +109242,13 @@
         "description": "Elle flotte dans les airs et s'allume."
       },
       {
+        "code": "wf_ltdproto_act_bd",
+        "name": "Ancien Effet WIRED : changer l'état mobi",
+        "description": ""
+      },
+      {
         "code": "wf_ltdproto_act_toggle_state",
-        "name": "wf_ltdproto_act_toggle_state name",
+        "name": "Ancien Effet WIRED : changer l'état mobi",
         "description": "wf_ltdproto_act_toggle_state desc"
       },
       {
@@ -109293,17 +109298,17 @@
       },
       {
         "code": "wf_proto_cnd_trggrer_on_frn",
-        "name": "wf_proto_cnd_trggrer_on_frn name",
+        "name": "Ancien Condition WIRED : Le déclencheur est activé sur mobi",
         "description": "wf_proto_cnd_trggrer_on_frn desc"
       },
       {
         "code": "wf_proto_pyramid",
-        "name": "wf_proto_pyramid name",
+        "name": "Ancien WIRED pyramide",
         "description": "wf_proto_pyramid desc"
       },
       {
         "code": "wf_proto_trg_at_given_time",
-        "name": "wf_proto_trg_at_given_time name",
+        "name": "Ancien WIRED Déclencheur : au moment donné",
         "description": "wf_proto_trg_at_given_time desc"
       },
       {

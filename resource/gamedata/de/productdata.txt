@@ -110310,8 +110310,13 @@
     "Hebt ab und leuchtet."
   ],
   [
+    "wf_ltdproto_act_bd",
+    "Alter WIRED Effekt: Möbelzustände umschalten",
+    ""
+  ],
+  [
     "wf_ltdproto_act_toggle_state",
-    "wf_ltdproto_act_toggle_state name",
+    "Alter WIRED Effekt: Möbelzustände umschalten",
     "wf_ltdproto_act_toggle_state desc"
   ],
   [
@@ -110346,17 +110351,17 @@
   ],
   [
     "wf_proto_cnd_trggrer_on_frn",
-    "wf_proto_cnd_trggrer_on_frn name",
+    "Alte WIRED Bedingung: Auslösender Habbo steht auf Möbelstück",
     "wf_proto_cnd_trggrer_on_frn desc"
   ],
   [
     "wf_proto_pyramid",
-    "wf_proto_pyramid name",
+    "Alte WIRED Pyramide",
     "wf_proto_pyramid desc"
   ],
   [
     "wf_proto_trg_at_given_time",
-    "wf_proto_trg_at_given_time name",
+    "Alter WIRED Auslöser: zum programmierten Zeitpunkt",
     "wf_proto_trg_at_given_time desc"
   ],
   [

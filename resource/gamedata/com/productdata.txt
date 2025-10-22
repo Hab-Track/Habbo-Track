@@ -118325,8 +118325,13 @@
     "Glowball rises and lights up."
   ],
   [
+    "wf_ltdproto_act_bd",
+    "Ancient WIRED Effect: Toggle Furni State",
+    ""
+  ],
+  [
     "wf_ltdproto_act_toggle_state",
-    "wf_ltdproto_act_toggle_state name",
+    "Ancient WIRED Effect: Toggle Furni State",
     "wf_ltdproto_act_toggle_state desc"
   ],
   [
@@ -118361,17 +118366,17 @@
   ],
   [
     "wf_proto_cnd_trggrer_on_frn",
-    "wf_proto_cnd_trggrer_on_frn name",
+    "Ancient WIRED Condition: Triggerer Is On Furni",
     "wf_proto_cnd_trggrer_on_frn desc"
   ],
   [
     "wf_proto_pyramid",
-    "wf_proto_pyramid name",
+    "Ancient WIRED Pyramid",
     "wf_proto_pyramid desc"
   ],
   [
     "wf_proto_trg_at_given_time",
-    "wf_proto_trg_at_given_time name",
+    "Ancient WIRED Trigger: At Given Time",
     "wf_proto_trg_at_given_time desc"
   ],
   [

@@ -111355,8 +111355,13 @@
     "La Palla luminosa si innalza e si accende."
   ],
   [
+    "wf_ltdproto_act_bd",
+    "Effetto WIRED Antico> Attiva/Disattiva Stato Furni",
+    ""
+  ],
+  [
     "wf_ltdproto_act_toggle_state",
-    "wf_ltdproto_act_toggle_state name",
+    "Effetto WIRED Antico> Attiva/Disattiva Stato Furni",
     "wf_ltdproto_act_toggle_state desc"
   ],
   [
@@ -111391,17 +111396,17 @@
   ],
   [
     "wf_proto_cnd_trggrer_on_frn",
-    "wf_proto_cnd_trggrer_on_frn name",
+    "Condizione WIRED Antica: Ciò che Innesca è sul Furni",
     "wf_proto_cnd_trggrer_on_frn desc"
   ],
   [
     "wf_proto_pyramid",
-    "wf_proto_pyramid name",
+    "Piramide WIRED Antica",
     "wf_proto_pyramid desc"
   ],
   [
     "wf_proto_trg_at_given_time",
-    "wf_proto_trg_at_given_time name",
+    "Innesco WIRED Antico: In un Momento Determinato",
     "wf_proto_trg_at_given_time desc"
   ],
   [

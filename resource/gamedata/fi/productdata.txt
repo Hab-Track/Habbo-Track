@@ -111235,8 +111235,13 @@
     "Leijuu ilmassa ja loistaa valoa"
   ],
   [
+    "wf_ltdproto_act_bd",
+    "Muinainen Wired-toiminto: Vaihda tavaran tilaa",
+    ""
+  ],
+  [
     "wf_ltdproto_act_toggle_state",
-    "wf_ltdproto_act_toggle_state name",
+    "Muinainen Wired-toiminto: Vaihda tavaran tilaa",
     "wf_ltdproto_act_toggle_state desc"
   ],
   [
@@ -111271,17 +111276,17 @@
   ],
   [
     "wf_proto_cnd_trggrer_on_frn",
-    "wf_proto_cnd_trggrer_on_frn name",
+    "Muinainen Wired-ehto: Laukaisija on tavarassa",
     "wf_proto_cnd_trggrer_on_frn desc"
   ],
   [
     "wf_proto_pyramid",
-    "wf_proto_pyramid name",
+    "Muinainen Wired-pyramidi",
     "wf_proto_pyramid desc"
   ],
   [
     "wf_proto_trg_at_given_time",
-    "wf_proto_trg_at_given_time name",
+    "Muinainen Wired-laukaisin: Valittuna ajankohtana",
     "wf_proto_trg_at_given_time desc"
   ],
   [
