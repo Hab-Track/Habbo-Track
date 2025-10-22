@@ -111207,6 +111207,11 @@
         "description": "Pakket met daarin alle Wired Reacties, Voorwaarden en Acties"
       },
       {
+        "code": "wf_proto_cnd_bd",
+        "name": "Giveaway",
+        "description": ""
+      },
+      {
         "code": "wf_proto_cnd_trggrer_on_frn",
         "name": "wf_proto_cnd_trggrer_on_frn name",
         "description": "wf_proto_cnd_trggrer_on_frn desc"
@@ -111220,6 +111225,11 @@
         "code": "wf_proto_trg_at_given_time",
         "name": "wf_proto_trg_at_given_time name",
         "description": "wf_proto_trg_at_given_time desc"
+      },
+      {
+        "code": "wf_proto_trg_bd",
+        "name": "Hunt",
+        "description": ""
       },
       {
         "code": "wf_pyramid",

@@ -110890,6 +110890,11 @@
     "Contiene todos los Causantes, Efectos y Condiciones Wired en un paquete"
   ],
   [
+    "wf_proto_cnd_bd",
+    "Giveaway",
+    ""
+  ],
+  [
     "wf_proto_cnd_trggrer_on_frn",
     "wf_proto_cnd_trggrer_on_frn name",
     "wf_proto_cnd_trggrer_on_frn desc"
@@ -110903,6 +110908,11 @@
     "wf_proto_trg_at_given_time",
     "wf_proto_trg_at_given_time name",
     "wf_proto_trg_at_given_time desc"
+  ],
+  [
+    "wf_proto_trg_bd",
+    "Hunt",
+    ""
   ],
   [
     "wf_pyramid",
