@@ -70170,6 +70170,11 @@
     ""
   ],
   [
+    "lodge_brickwall",
+    "lodge_brickwall name",
+    "lodge_brickwall desc"
+  ],
+  [
     "lodge_c15_carpet",
     "Lodge Vloer",
     "Gemaakt van het fijnste Alpine Hout"
@@ -70195,9 +70200,139 @@
     "Www...wa...waa...was dat een beer?!"
   ],
   [
+    "lodge_chandelier",
+    "lodge_chandelier name",
+    "lodge_chandelier desc"
+  ],
+  [
     "lodge_cm_jan07_deal",
     "Sokkel",
     "Uit het goede hout gesneden"
+  ],
+  [
+    "lodge_dark_bardesk",
+    "lodge_dark_bardesk name",
+    "lodge_dark_bardesk desc"
+  ],
+  [
+    "lodge_dark_barrelstool",
+    "lodge_dark_barrelstool name",
+    "lodge_dark_barrelstool desc"
+  ],
+  [
+    "lodge_dark_bed",
+    "lodge_dark_bed name",
+    "lodge_dark_bed desc"
+  ],
+  [
+    "lodge_dark_bench",
+    "lodge_dark_bench name",
+    "lodge_dark_bench desc"
+  ],
+  [
+    "lodge_dark_bookcase",
+    "lodge_dark_bookcase name",
+    "lodge_dark_bookcase desc"
+  ],
+  [
+    "lodge_dark_brickwall",
+    "lodge_dark_brickwall name",
+    "lodge_dark_brickwall desc"
+  ],
+  [
+    "lodge_dark_candle",
+    "lodge_dark_candle name",
+    "lodge_dark_candle desc"
+  ],
+  [
+    "lodge_dark_chandelier",
+    "lodge_dark_chandelier name",
+    "lodge_dark_chandelier desc"
+  ],
+  [
+    "lodge_dark_cornerplinth",
+    "lodge_dark_cornerplinth name",
+    "lodge_dark_cornerplinth desc"
+  ],
+  [
+    "lodge_dark_desk",
+    "lodge_dark_desk name",
+    "lodge_dark_desk desc"
+  ],
+  [
+    "lodge_dark_diningtable",
+    "lodge_dark_diningtable name",
+    "lodge_dark_diningtable desc"
+  ],
+  [
+    "lodge_dark_divider",
+    "lodge_dark_divider name",
+    "lodge_dark_divider desc"
+  ],
+  [
+    "lodge_dark_doublebed",
+    "lodge_dark_doublebed name",
+    "lodge_dark_doublebed desc"
+  ],
+  [
+    "lodge_dark_endtable",
+    "lodge_dark_endtable name",
+    "lodge_dark_endtable desc"
+  ],
+  [
+    "lodge_dark_fireplace",
+    "lodge_dark_fireplace name",
+    "lodge_dark_fireplace desc"
+  ],
+  [
+    "lodge_dark_floor",
+    "lodge_dark_floor name",
+    "lodge_dark_floor desc"
+  ],
+  [
+    "lodge_dark_gate",
+    "lodge_dark_gate name",
+    "lodge_dark_gate desc"
+  ],
+  [
+    "lodge_dark_lamp",
+    "lodge_dark_lamp name",
+    "lodge_dark_lamp desc"
+  ],
+  [
+    "lodge_dark_minibar",
+    "lodge_dark_minibar name",
+    "lodge_dark_minibar desc"
+  ],
+  [
+    "lodge_dark_reindeerhead",
+    "lodge_dark_reindeerhead name",
+    "lodge_dark_reindeerhead desc"
+  ],
+  [
+    "lodge_dark_stool",
+    "lodge_dark_stool name",
+    "lodge_dark_stool desc"
+  ],
+  [
+    "lodge_dark_tv",
+    "lodge_dark_tv name",
+    "lodge_dark_tv desc"
+  ],
+  [
+    "lodge_dark_wall",
+    "lodge_dark_wall name",
+    "lodge_dark_wall desc"
+  ],
+  [
+    "lodge_dark_window",
+    "lodge_dark_window name",
+    "lodge_dark_window desc"
+  ],
+  [
+    "lodge_desk",
+    "lodge_desk name",
+    "lodge_desk desc"
   ],
   [
     "lodge_dm_jan07_deal",
@@ -70210,9 +70345,19 @@
     "Drie afscheidingen, twee sokkels"
   ],
   [
+    "lodge_reindeerhead",
+    "lodge_reindeerhead name",
+    "lodge_reindeerhead desc"
+  ],
+  [
     "lodge_sp_jan07_deal",
     "Lodge Startpakket",
     "Poort, Sokkel en twee Afscheidingen"
+  ],
+  [
+    "lodge_tv",
+    "lodge_tv name",
+    "lodge_tv desc"
   ],
   [
     "lon_base",
@@ -72140,9 +72285,649 @@
     "Perfect voor werk en spel"
   ],
   [
+    "mode_ceilinglight",
+    "mode_ceilinglight name",
+    "mode_ceilinglight desc"
+  ],
+  [
+    "mode_clock_0",
+    "mode_clock_0 name",
+    "mode_clock_0 desc"
+  ],
+  [
+    "mode_clock_1",
+    "mode_clock_1 name",
+    "mode_clock_1 desc"
+  ],
+  [
+    "mode_clock_2",
+    "mode_clock_2 name",
+    "mode_clock_2 desc"
+  ],
+  [
+    "mode_clock_3",
+    "mode_clock_3 name",
+    "mode_clock_3 desc"
+  ],
+  [
+    "mode_clock_4",
+    "mode_clock_4 name",
+    "mode_clock_4 desc"
+  ],
+  [
+    "mode_clock_5",
+    "mode_clock_5 name",
+    "mode_clock_5 desc"
+  ],
+  [
+    "mode_clock_6",
+    "mode_clock_6 name",
+    "mode_clock_6 desc"
+  ],
+  [
+    "mode_clock_7",
+    "mode_clock_7 name",
+    "mode_clock_7 desc"
+  ],
+  [
+    "mode_clock_8",
+    "mode_clock_8 name",
+    "mode_clock_8 desc"
+  ],
+  [
     "mode_cm_jan07_deal",
     "Hoekkast/Tafel",
     "Staat nooit in de weg"
+  ],
+  [
+    "mode_fridge",
+    "mode_fridge name",
+    "mode_fridge desc"
+  ],
+  [
+    "mode_gold_armchair_0",
+    "mode_gold_armchair_0 name",
+    "mode_gold_armchair_0 desc"
+  ],
+  [
+    "mode_gold_armchair_1",
+    "mode_gold_armchair_1 name",
+    "mode_gold_armchair_1 desc"
+  ],
+  [
+    "mode_gold_armchair_2",
+    "mode_gold_armchair_2 name",
+    "mode_gold_armchair_2 desc"
+  ],
+  [
+    "mode_gold_armchair_3",
+    "mode_gold_armchair_3 name",
+    "mode_gold_armchair_3 desc"
+  ],
+  [
+    "mode_gold_armchair_4",
+    "mode_gold_armchair_4 name",
+    "mode_gold_armchair_4 desc"
+  ],
+  [
+    "mode_gold_armchair_5",
+    "mode_gold_armchair_5 name",
+    "mode_gold_armchair_5 desc"
+  ],
+  [
+    "mode_gold_armchair_6",
+    "mode_gold_armchair_6 name",
+    "mode_gold_armchair_6 desc"
+  ],
+  [
+    "mode_gold_armchair_7",
+    "mode_gold_armchair_7 name",
+    "mode_gold_armchair_7 desc"
+  ],
+  [
+    "mode_gold_armchair_8",
+    "mode_gold_armchair_8 name",
+    "mode_gold_armchair_8 desc"
+  ],
+  [
+    "mode_gold_armchair_9",
+    "mode_gold_armchair_9 name",
+    "mode_gold_armchair_9 desc"
+  ],
+  [
+    "mode_gold_bar",
+    "mode_gold_bar name",
+    "mode_gold_bar desc"
+  ],
+  [
+    "mode_gold_bardesk_0",
+    "mode_gold_bardesk_0 name",
+    "mode_gold_bardesk_0 desc"
+  ],
+  [
+    "mode_gold_bardesk_1",
+    "mode_gold_bardesk_1 name",
+    "mode_gold_bardesk_1 desc"
+  ],
+  [
+    "mode_gold_bardesk_2",
+    "mode_gold_bardesk_2 name",
+    "mode_gold_bardesk_2 desc"
+  ],
+  [
+    "mode_gold_bardesk_3",
+    "mode_gold_bardesk_3 name",
+    "mode_gold_bardesk_3 desc"
+  ],
+  [
+    "mode_gold_bardesk_4",
+    "mode_gold_bardesk_4 name",
+    "mode_gold_bardesk_4 desc"
+  ],
+  [
+    "mode_gold_bardesk_5",
+    "mode_gold_bardesk_5 name",
+    "mode_gold_bardesk_5 desc"
+  ],
+  [
+    "mode_gold_bardesk_6",
+    "mode_gold_bardesk_6 name",
+    "mode_gold_bardesk_6 desc"
+  ],
+  [
+    "mode_gold_bardesk_7",
+    "mode_gold_bardesk_7 name",
+    "mode_gold_bardesk_7 desc"
+  ],
+  [
+    "mode_gold_bardesk_8",
+    "mode_gold_bardesk_8 name",
+    "mode_gold_bardesk_8 desc"
+  ],
+  [
+    "mode_gold_bardesk_9",
+    "mode_gold_bardesk_9 name",
+    "mode_gold_bardesk_9 desc"
+  ],
+  [
+    "mode_gold_bardeskcorner_0",
+    "mode_gold_bardeskcorner_0 name",
+    "mode_gold_bardeskcorner_0 desc"
+  ],
+  [
+    "mode_gold_bardeskcorner_1",
+    "mode_gold_bardeskcorner_1 name",
+    "mode_gold_bardeskcorner_1 desc"
+  ],
+  [
+    "mode_gold_bardeskcorner_2",
+    "mode_gold_bardeskcorner_2 name",
+    "mode_gold_bardeskcorner_2 desc"
+  ],
+  [
+    "mode_gold_bardeskcorner_3",
+    "mode_gold_bardeskcorner_3 name",
+    "mode_gold_bardeskcorner_3 desc"
+  ],
+  [
+    "mode_gold_bardeskcorner_4",
+    "mode_gold_bardeskcorner_4 name",
+    "mode_gold_bardeskcorner_4 desc"
+  ],
+  [
+    "mode_gold_bardeskcorner_5",
+    "mode_gold_bardeskcorner_5 name",
+    "mode_gold_bardeskcorner_5 desc"
+  ],
+  [
+    "mode_gold_bardeskcorner_6",
+    "mode_gold_bardeskcorner_6 name",
+    "mode_gold_bardeskcorner_6 desc"
+  ],
+  [
+    "mode_gold_bardeskcorner_7",
+    "mode_gold_bardeskcorner_7 name",
+    "mode_gold_bardeskcorner_7 desc"
+  ],
+  [
+    "mode_gold_bardeskcorner_8",
+    "mode_gold_bardeskcorner_8 name",
+    "mode_gold_bardeskcorner_8 desc"
+  ],
+  [
+    "mode_gold_bardeskcorner_9",
+    "mode_gold_bardeskcorner_9 name",
+    "mode_gold_bardeskcorner_9 desc"
+  ],
+  [
+    "mode_gold_bearug_0",
+    "mode_gold_bearug_0 name",
+    "mode_gold_bearug_0 desc"
+  ],
+  [
+    "mode_gold_bearug_1",
+    "mode_gold_bearug_1 name",
+    "mode_gold_bearug_1 desc"
+  ],
+  [
+    "mode_gold_bearug_2",
+    "mode_gold_bearug_2 name",
+    "mode_gold_bearug_2 desc"
+  ],
+  [
+    "mode_gold_bearug_3",
+    "mode_gold_bearug_3 name",
+    "mode_gold_bearug_3 desc"
+  ],
+  [
+    "mode_gold_bearug_4",
+    "mode_gold_bearug_4 name",
+    "mode_gold_bearug_4 desc"
+  ],
+  [
+    "mode_gold_bearug_5",
+    "mode_gold_bearug_5 name",
+    "mode_gold_bearug_5 desc"
+  ],
+  [
+    "mode_gold_bed_0",
+    "mode_gold_bed_0 name",
+    "mode_gold_bed_0 desc"
+  ],
+  [
+    "mode_gold_bed_1",
+    "mode_gold_bed_1 name",
+    "mode_gold_bed_1 desc"
+  ],
+  [
+    "mode_gold_bed_2",
+    "mode_gold_bed_2 name",
+    "mode_gold_bed_2 desc"
+  ],
+  [
+    "mode_gold_bed_3",
+    "mode_gold_bed_3 name",
+    "mode_gold_bed_3 desc"
+  ],
+  [
+    "mode_gold_bed_4",
+    "mode_gold_bed_4 name",
+    "mode_gold_bed_4 desc"
+  ],
+  [
+    "mode_gold_bed_5",
+    "mode_gold_bed_5 name",
+    "mode_gold_bed_5 desc"
+  ],
+  [
+    "mode_gold_bed_6",
+    "mode_gold_bed_6 name",
+    "mode_gold_bed_6 desc"
+  ],
+  [
+    "mode_gold_bed_7",
+    "mode_gold_bed_7 name",
+    "mode_gold_bed_7 desc"
+  ],
+  [
+    "mode_gold_bed_8",
+    "mode_gold_bed_8 name",
+    "mode_gold_bed_8 desc"
+  ],
+  [
+    "mode_gold_bed_9",
+    "mode_gold_bed_9 name",
+    "mode_gold_bed_9 desc"
+  ],
+  [
+    "mode_gold_bookcase",
+    "mode_gold_bookcase name",
+    "mode_gold_bookcase desc"
+  ],
+  [
+    "mode_gold_ceilinglight",
+    "mode_gold_ceilinglight name",
+    "mode_gold_ceilinglight desc"
+  ],
+  [
+    "mode_gold_clock_0",
+    "mode_gold_clock_0 name",
+    "mode_gold_clock_0 desc"
+  ],
+  [
+    "mode_gold_clock_1",
+    "mode_gold_clock_1 name",
+    "mode_gold_clock_1 desc"
+  ],
+  [
+    "mode_gold_clock_2",
+    "mode_gold_clock_2 name",
+    "mode_gold_clock_2 desc"
+  ],
+  [
+    "mode_gold_clock_3",
+    "mode_gold_clock_3 name",
+    "mode_gold_clock_3 desc"
+  ],
+  [
+    "mode_gold_clock_4",
+    "mode_gold_clock_4 name",
+    "mode_gold_clock_4 desc"
+  ],
+  [
+    "mode_gold_clock_5",
+    "mode_gold_clock_5 name",
+    "mode_gold_clock_5 desc"
+  ],
+  [
+    "mode_gold_clock_6",
+    "mode_gold_clock_6 name",
+    "mode_gold_clock_6 desc"
+  ],
+  [
+    "mode_gold_clock_7",
+    "mode_gold_clock_7 name",
+    "mode_gold_clock_7 desc"
+  ],
+  [
+    "mode_gold_clock_8",
+    "mode_gold_clock_8 name",
+    "mode_gold_clock_8 desc"
+  ],
+  [
+    "mode_gold_clock_9",
+    "mode_gold_clock_9 name",
+    "mode_gold_clock_9 desc"
+  ],
+  [
+    "mode_gold_diningchair",
+    "mode_gold_diningchair name",
+    "mode_gold_diningchair desc"
+  ],
+  [
+    "mode_gold_doublebed_0",
+    "mode_gold_doublebed_0 name",
+    "mode_gold_doublebed_0 desc"
+  ],
+  [
+    "mode_gold_doublebed_1",
+    "mode_gold_doublebed_1 name",
+    "mode_gold_doublebed_1 desc"
+  ],
+  [
+    "mode_gold_doublebed_2",
+    "mode_gold_doublebed_2 name",
+    "mode_gold_doublebed_2 desc"
+  ],
+  [
+    "mode_gold_doublebed_3",
+    "mode_gold_doublebed_3 name",
+    "mode_gold_doublebed_3 desc"
+  ],
+  [
+    "mode_gold_doublebed_4",
+    "mode_gold_doublebed_4 name",
+    "mode_gold_doublebed_4 desc"
+  ],
+  [
+    "mode_gold_doublebed_5",
+    "mode_gold_doublebed_5 name",
+    "mode_gold_doublebed_5 desc"
+  ],
+  [
+    "mode_gold_doublebed_6",
+    "mode_gold_doublebed_6 name",
+    "mode_gold_doublebed_6 desc"
+  ],
+  [
+    "mode_gold_doublebed_7",
+    "mode_gold_doublebed_7 name",
+    "mode_gold_doublebed_7 desc"
+  ],
+  [
+    "mode_gold_doublebed_8",
+    "mode_gold_doublebed_8 name",
+    "mode_gold_doublebed_8 desc"
+  ],
+  [
+    "mode_gold_doublebed_9",
+    "mode_gold_doublebed_9 name",
+    "mode_gold_doublebed_9 desc"
+  ],
+  [
+    "mode_gold_fireplace",
+    "mode_gold_fireplace name",
+    "mode_gold_fireplace desc"
+  ],
+  [
+    "mode_gold_fridge",
+    "mode_gold_fridge name",
+    "mode_gold_fridge desc"
+  ],
+  [
+    "mode_gold_gate_0",
+    "mode_gold_gate_0 name",
+    "mode_gold_gate_0 desc"
+  ],
+  [
+    "mode_gold_gate_1",
+    "mode_gold_gate_1 name",
+    "mode_gold_gate_1 desc"
+  ],
+  [
+    "mode_gold_gate_2",
+    "mode_gold_gate_2 name",
+    "mode_gold_gate_2 desc"
+  ],
+  [
+    "mode_gold_gate_3",
+    "mode_gold_gate_3 name",
+    "mode_gold_gate_3 desc"
+  ],
+  [
+    "mode_gold_gate_4",
+    "mode_gold_gate_4 name",
+    "mode_gold_gate_4 desc"
+  ],
+  [
+    "mode_gold_gate_5",
+    "mode_gold_gate_5 name",
+    "mode_gold_gate_5 desc"
+  ],
+  [
+    "mode_gold_gate_6",
+    "mode_gold_gate_6 name",
+    "mode_gold_gate_6 desc"
+  ],
+  [
+    "mode_gold_gate_7",
+    "mode_gold_gate_7 name",
+    "mode_gold_gate_7 desc"
+  ],
+  [
+    "mode_gold_gate_8",
+    "mode_gold_gate_8 name",
+    "mode_gold_gate_8 desc"
+  ],
+  [
+    "mode_gold_gate_9",
+    "mode_gold_gate_9 name",
+    "mode_gold_gate_9 desc"
+  ],
+  [
+    "mode_gold_largecoffeetable",
+    "mode_gold_largecoffeetable name",
+    "mode_gold_largecoffeetable desc"
+  ],
+  [
+    "mode_gold_largediningtable",
+    "mode_gold_largediningtable name",
+    "mode_gold_largediningtable desc"
+  ],
+  [
+    "mode_gold_largetable",
+    "mode_gold_largetable name",
+    "mode_gold_largetable desc"
+  ],
+  [
+    "mode_gold_partingscreen_0",
+    "mode_gold_partingscreen_0 name",
+    "mode_gold_partingscreen_0 desc"
+  ],
+  [
+    "mode_gold_partingscreen_1",
+    "mode_gold_partingscreen_1 name",
+    "mode_gold_partingscreen_1 desc"
+  ],
+  [
+    "mode_gold_partingscreen_2",
+    "mode_gold_partingscreen_2 name",
+    "mode_gold_partingscreen_2 desc"
+  ],
+  [
+    "mode_gold_partingscreen_3",
+    "mode_gold_partingscreen_3 name",
+    "mode_gold_partingscreen_3 desc"
+  ],
+  [
+    "mode_gold_partingscreen_4",
+    "mode_gold_partingscreen_4 name",
+    "mode_gold_partingscreen_4 desc"
+  ],
+  [
+    "mode_gold_partingscreen_5",
+    "mode_gold_partingscreen_5 name",
+    "mode_gold_partingscreen_5 desc"
+  ],
+  [
+    "mode_gold_partingscreen_6",
+    "mode_gold_partingscreen_6 name",
+    "mode_gold_partingscreen_6 desc"
+  ],
+  [
+    "mode_gold_partingscreen_7",
+    "mode_gold_partingscreen_7 name",
+    "mode_gold_partingscreen_7 desc"
+  ],
+  [
+    "mode_gold_partingscreen_8",
+    "mode_gold_partingscreen_8 name",
+    "mode_gold_partingscreen_8 desc"
+  ],
+  [
+    "mode_gold_partingscreen_9",
+    "mode_gold_partingscreen_9 name",
+    "mode_gold_partingscreen_9 desc"
+  ],
+  [
+    "mode_gold_smallcoffeetable",
+    "mode_gold_smallcoffeetable name",
+    "mode_gold_smallcoffeetable desc"
+  ],
+  [
+    "mode_gold_sofa_0",
+    "mode_gold_sofa_0 name",
+    "mode_gold_sofa_0 desc"
+  ],
+  [
+    "mode_gold_sofa_1",
+    "mode_gold_sofa_1 name",
+    "mode_gold_sofa_1 desc"
+  ],
+  [
+    "mode_gold_sofa_2",
+    "mode_gold_sofa_2 name",
+    "mode_gold_sofa_2 desc"
+  ],
+  [
+    "mode_gold_sofa_3",
+    "mode_gold_sofa_3 name",
+    "mode_gold_sofa_3 desc"
+  ],
+  [
+    "mode_gold_sofa_4",
+    "mode_gold_sofa_4 name",
+    "mode_gold_sofa_4 desc"
+  ],
+  [
+    "mode_gold_sofa_5",
+    "mode_gold_sofa_5 name",
+    "mode_gold_sofa_5 desc"
+  ],
+  [
+    "mode_gold_sofa_6",
+    "mode_gold_sofa_6 name",
+    "mode_gold_sofa_6 desc"
+  ],
+  [
+    "mode_gold_sofa_7",
+    "mode_gold_sofa_7 name",
+    "mode_gold_sofa_7 desc"
+  ],
+  [
+    "mode_gold_sofa_8",
+    "mode_gold_sofa_8 name",
+    "mode_gold_sofa_8 desc"
+  ],
+  [
+    "mode_gold_sofa_9",
+    "mode_gold_sofa_9 name",
+    "mode_gold_sofa_9 desc"
+  ],
+  [
+    "mode_gold_vase_0",
+    "mode_gold_vase_0 name",
+    "mode_gold_vase_0 desc"
+  ],
+  [
+    "mode_gold_vase_1",
+    "mode_gold_vase_1 name",
+    "mode_gold_vase_1 desc"
+  ],
+  [
+    "mode_gold_vase_2",
+    "mode_gold_vase_2 name",
+    "mode_gold_vase_2 desc"
+  ],
+  [
+    "mode_gold_vase_3",
+    "mode_gold_vase_3 name",
+    "mode_gold_vase_3 desc"
+  ],
+  [
+    "mode_gold_vase_4",
+    "mode_gold_vase_4 name",
+    "mode_gold_vase_4 desc"
+  ],
+  [
+    "mode_gold_vase_5",
+    "mode_gold_vase_5 name",
+    "mode_gold_vase_5 desc"
+  ],
+  [
+    "mode_gold_vase_6",
+    "mode_gold_vase_6 name",
+    "mode_gold_vase_6 desc"
+  ],
+  [
+    "mode_gold_vase_7",
+    "mode_gold_vase_7 name",
+    "mode_gold_vase_7 desc"
+  ],
+  [
+    "mode_gold_vase_8",
+    "mode_gold_vase_8 name",
+    "mode_gold_vase_8 desc"
+  ],
+  [
+    "mode_gold_vase_9",
+    "mode_gold_vase_9 name",
+    "mode_gold_vase_9 desc"
+  ],
+  [
+    "mode_gold_zshelf",
+    "mode_gold_zshelf name",
+    "mode_gold_zshelf desc"
   ],
   [
     "mode_mm_jan07_deal",
@@ -72150,9 +72935,99 @@
     "Drie barren, twee hoekstukken"
   ],
   [
+    "mode_partingscreen_0",
+    "mode_partingscreen_0 name",
+    "mode_partingscreen_0 desc"
+  ],
+  [
+    "mode_partingscreen_1",
+    "mode_partingscreen_1 name",
+    "mode_partingscreen_1 desc"
+  ],
+  [
+    "mode_partingscreen_2",
+    "mode_partingscreen_2 name",
+    "mode_partingscreen_2 desc"
+  ],
+  [
+    "mode_partingscreen_3",
+    "mode_partingscreen_3 name",
+    "mode_partingscreen_3 desc"
+  ],
+  [
+    "mode_partingscreen_4",
+    "mode_partingscreen_4 name",
+    "mode_partingscreen_4 desc"
+  ],
+  [
+    "mode_partingscreen_5",
+    "mode_partingscreen_5 name",
+    "mode_partingscreen_5 desc"
+  ],
+  [
+    "mode_partingscreen_6",
+    "mode_partingscreen_6 name",
+    "mode_partingscreen_6 desc"
+  ],
+  [
+    "mode_partingscreen_7",
+    "mode_partingscreen_7 name",
+    "mode_partingscreen_7 desc"
+  ],
+  [
+    "mode_partingscreen_8",
+    "mode_partingscreen_8 name",
+    "mode_partingscreen_8 desc"
+  ],
+  [
     "mode_sp_jan07_deal",
     "Mode Startpakket",
     "Luik, hoekkast en twee Barren"
+  ],
+  [
+    "mode_vase_0",
+    "mode_vase_0 name",
+    "mode_vase_0 desc"
+  ],
+  [
+    "mode_vase_1",
+    "mode_vase_1 name",
+    "mode_vase_1 desc"
+  ],
+  [
+    "mode_vase_2",
+    "mode_vase_2 name",
+    "mode_vase_2 desc"
+  ],
+  [
+    "mode_vase_3",
+    "mode_vase_3 name",
+    "mode_vase_3 desc"
+  ],
+  [
+    "mode_vase_4",
+    "mode_vase_4 name",
+    "mode_vase_4 desc"
+  ],
+  [
+    "mode_vase_5",
+    "mode_vase_5 name",
+    "mode_vase_5 desc"
+  ],
+  [
+    "mode_vase_6",
+    "mode_vase_6 name",
+    "mode_vase_6 desc"
+  ],
+  [
+    "mode_vase_7",
+    "mode_vase_7 name",
+    "mode_vase_7 desc"
+  ],
+  [
+    "mode_vase_8",
+    "mode_vase_8 name",
+    "mode_vase_8 desc"
   ],
   [
     "modern_c17_bed",
@@ -110835,6 +111710,11 @@
     "wf_antenna2 desc"
   ],
   [
+    "wf_arrowplate_8dir",
+    "wf_arrowplate_8dir name",
+    "wf_arrowplate_8dir desc"
+  ],
+  [
     "wf_arrowplate",
     "Pijlplaat",
     "Die kant? Of toch die andere kant?"
@@ -110863,6 +111743,41 @@
     "wf_box",
     "Puzzle Box",
     "Ga naast de kist staan en dubbelklik er op om hem van je af te duwen."
+  ],
+  [
+    "wf_button_arrow",
+    "wf_button_arrow name",
+    "wf_button_arrow desc"
+  ],
+  [
+    "wf_button_blue",
+    "wf_button_blue name",
+    "wf_button_blue desc"
+  ],
+  [
+    "wf_button_green",
+    "wf_button_green name",
+    "wf_button_green desc"
+  ],
+  [
+    "wf_button",
+    "wf_button name",
+    "wf_button desc"
+  ],
+  [
+    "wf_button_red",
+    "wf_button_red name",
+    "wf_button_red desc"
+  ],
+  [
+    "wf_button_x",
+    "wf_button_x name",
+    "wf_button_x desc"
+  ],
+  [
+    "wf_button_yellow",
+    "wf_button_yellow name",
+    "wf_button_yellow desc"
   ],
   [
     "wf_cnd_actor_dir",
@@ -111175,6 +112090,11 @@
     "Zwevend en lichtgevend."
   ],
   [
+    "wf_knob",
+    "wf_knob name",
+    "wf_knob desc"
+  ],
+  [
     "wf_ltdproto_act_bd",
     "Oude WIRED Reactie: Meubi wordt geactiveerd",
     ""
@@ -111188,6 +112108,11 @@
     "wf_maze",
     "Doolhofmuur",
     "Gebruik deze voor je Puzzle Box doolhoven."
+  ],
+  [
+    "wf_numberscreen",
+    "wf_numberscreen name",
+    "wf_numberscreen desc"
   ],
   [
     "wf_numbertile1",
@@ -111350,6 +112275,41 @@
     "wf_slc_users_with_var desc"
   ],
   [
+    "wf_slider",
+    "wf_slider name",
+    "wf_slider desc"
+  ],
+  [
+    "wf_teamcolorquarter",
+    "wf_teamcolorquarter name",
+    "wf_teamcolorquarter desc"
+  ],
+  [
+    "wf_teamcolortile",
+    "wf_teamcolortile name",
+    "wf_teamcolortile desc"
+  ],
+  [
+    "wf_teammeter1",
+    "wf_teammeter1 name",
+    "wf_teammeter1 desc"
+  ],
+  [
+    "wf_teammeter2",
+    "wf_teammeter2 name",
+    "wf_teammeter2 desc"
+  ],
+  [
+    "wf_teammeter3",
+    "wf_teammeter3 name",
+    "wf_teammeter3 desc"
+  ],
+  [
+    "wf_teammeter4",
+    "wf_teammeter4 name",
+    "wf_teammeter4 desc"
+  ],
+  [
     "wf_test_act",
     "Aangepaste Wired Effect",
     "wf_test_act desc"
@@ -111388,6 +112348,66 @@
     "wf_tile2",
     "Lichte Tegel",
     "wf_tile2 desc"
+  ],
+  [
+    "wf_toggle",
+    "wf_toggle name",
+    "wf_toggle desc"
+  ],
+  [
+    "wf_token10",
+    "wf_token10 name",
+    "wf_token10 desc"
+  ],
+  [
+    "wf_token11",
+    "wf_token11 name",
+    "wf_token11 desc"
+  ],
+  [
+    "wf_token1",
+    "wf_token1 name",
+    "wf_token1 desc"
+  ],
+  [
+    "wf_token2",
+    "wf_token2 name",
+    "wf_token2 desc"
+  ],
+  [
+    "wf_token3",
+    "wf_token3 name",
+    "wf_token3 desc"
+  ],
+  [
+    "wf_token4",
+    "wf_token4 name",
+    "wf_token4 desc"
+  ],
+  [
+    "wf_token5",
+    "wf_token5 name",
+    "wf_token5 desc"
+  ],
+  [
+    "wf_token6",
+    "wf_token6 name",
+    "wf_token6 desc"
+  ],
+  [
+    "wf_token7",
+    "wf_token7 name",
+    "wf_token7 desc"
+  ],
+  [
+    "wf_token8",
+    "wf_token8 name",
+    "wf_token8 desc"
+  ],
+  [
+    "wf_token9",
+    "wf_token9 name",
+    "wf_token9 desc"
   ],
   [
     "wf_trg_at_given_time",
@@ -111578,6 +112598,11 @@
     "wf_var_user",
     "WIRED Variabele: Speler Variabele",
     "wf_var_user desc"
+  ],
+  [
+    "wf_vu",
+    "wf_vu name",
+    "wf_vu desc"
   ],
   [
     "wf_wire1",
@@ -116798,6 +117823,221 @@
     "xmas_c24_wreath",
     "Dennenkrans",
     "xmas_c24_wreath desc"
+  ],
+  [
+    "xmas_c25_largeicehole",
+    "xmas_c25_largeicehole name",
+    "xmas_c25_largeicehole desc"
+  ],
+  [
+    "xmas_c25_minirobotdino",
+    "xmas_c25_minirobotdino name",
+    "xmas_c25_minirobotdino desc"
+  ],
+  [
+    "xmas_c25_mistletoelovelock",
+    "xmas_c25_mistletoelovelock name",
+    "xmas_c25_mistletoelovelock desc"
+  ],
+  [
+    "xmas_c25_pixeltree",
+    "xmas_c25_pixeltree name",
+    "xmas_c25_pixeltree desc"
+  ],
+  [
+    "xmas_c25_rastasanta",
+    "xmas_c25_rastasanta name",
+    "xmas_c25_rastasanta desc"
+  ],
+  [
+    "xmas_c25_snowytree",
+    "xmas_c25_snowytree name",
+    "xmas_c25_snowytree desc"
+  ],
+  [
+    "xmas_c25_tree1a",
+    "xmas_c25_tree1a name",
+    "xmas_c25_tree1a desc"
+  ],
+  [
+    "xmas_c25_tree1b",
+    "xmas_c25_tree1b name",
+    "xmas_c25_tree1b desc"
+  ],
+  [
+    "xmas_c25_tree1c",
+    "xmas_c25_tree1c name",
+    "xmas_c25_tree1c desc"
+  ],
+  [
+    "xmas_c25_tree2a_baubles",
+    "xmas_c25_tree2a_baubles name",
+    "xmas_c25_tree2a_baubles desc"
+  ],
+  [
+    "xmas_c25_tree2a_candy",
+    "xmas_c25_tree2a_candy name",
+    "xmas_c25_tree2a_candy desc"
+  ],
+  [
+    "xmas_c25_tree2a",
+    "xmas_c25_tree2a name",
+    "xmas_c25_tree2a desc"
+  ],
+  [
+    "xmas_c25_tree2a_snowflake",
+    "xmas_c25_tree2a_snowflake name",
+    "xmas_c25_tree2a_snowflake desc"
+  ],
+  [
+    "xmas_c25_tree2b_baubles",
+    "xmas_c25_tree2b_baubles name",
+    "xmas_c25_tree2b_baubles desc"
+  ],
+  [
+    "xmas_c25_tree2b_candy",
+    "xmas_c25_tree2b_candy name",
+    "xmas_c25_tree2b_candy desc"
+  ],
+  [
+    "xmas_c25_tree2b",
+    "xmas_c25_tree2b name",
+    "xmas_c25_tree2b desc"
+  ],
+  [
+    "xmas_c25_tree2b_snowflake",
+    "xmas_c25_tree2b_snowflake name",
+    "xmas_c25_tree2b_snowflake desc"
+  ],
+  [
+    "xmas_c25_tree2c_baubles",
+    "xmas_c25_tree2c_baubles name",
+    "xmas_c25_tree2c_baubles desc"
+  ],
+  [
+    "xmas_c25_tree2c_candy",
+    "xmas_c25_tree2c_candy name",
+    "xmas_c25_tree2c_candy desc"
+  ],
+  [
+    "xmas_c25_tree2c",
+    "xmas_c25_tree2c name",
+    "xmas_c25_tree2c desc"
+  ],
+  [
+    "xmas_c25_tree2c_snowflake",
+    "xmas_c25_tree2c_snowflake name",
+    "xmas_c25_tree2c_snowflake desc"
+  ],
+  [
+    "xmas_c25_tree3a_baubles",
+    "xmas_c25_tree3a_baubles name",
+    "xmas_c25_tree3a_baubles desc"
+  ],
+  [
+    "xmas_c25_tree3a_candy",
+    "xmas_c25_tree3a_candy name",
+    "xmas_c25_tree3a_candy desc"
+  ],
+  [
+    "xmas_c25_tree3a_snowflake",
+    "xmas_c25_tree3a_snowflake name",
+    "xmas_c25_tree3a_snowflake desc"
+  ],
+  [
+    "xmas_c25_tree3a_tinsel",
+    "xmas_c25_tree3a_tinsel name",
+    "xmas_c25_tree3a_tinsel desc"
+  ],
+  [
+    "xmas_c25_tree3b_baubles",
+    "xmas_c25_tree3b_baubles name",
+    "xmas_c25_tree3b_baubles desc"
+  ],
+  [
+    "xmas_c25_tree3b_candy",
+    "xmas_c25_tree3b_candy name",
+    "xmas_c25_tree3b_candy desc"
+  ],
+  [
+    "xmas_c25_tree3b_snowflake",
+    "xmas_c25_tree3b_snowflake name",
+    "xmas_c25_tree3b_snowflake desc"
+  ],
+  [
+    "xmas_c25_tree3b_tinsel",
+    "xmas_c25_tree3b_tinsel name",
+    "xmas_c25_tree3b_tinsel desc"
+  ],
+  [
+    "xmas_c25_tree3c_baubles",
+    "xmas_c25_tree3c_baubles name",
+    "xmas_c25_tree3c_baubles desc"
+  ],
+  [
+    "xmas_c25_tree3c_candy",
+    "xmas_c25_tree3c_candy name",
+    "xmas_c25_tree3c_candy desc"
+  ],
+  [
+    "xmas_c25_tree3c_snowflake",
+    "xmas_c25_tree3c_snowflake name",
+    "xmas_c25_tree3c_snowflake desc"
+  ],
+  [
+    "xmas_c25_tree3c_tinsel",
+    "xmas_c25_tree3c_tinsel name",
+    "xmas_c25_tree3c_tinsel desc"
+  ],
+  [
+    "xmas_c25_treebaubles",
+    "xmas_c25_treebaubles name",
+    "xmas_c25_treebaubles desc"
+  ],
+  [
+    "xmas_c25_treecandycane",
+    "xmas_c25_treecandycane name",
+    "xmas_c25_treecandycane desc"
+  ],
+  [
+    "xmas_c25_treedecorcrackable",
+    "xmas_c25_treedecorcrackable name",
+    "xmas_c25_treedecorcrackable desc"
+  ],
+  [
+    "xmas_c25_treedecorcrackableb",
+    "xmas_c25_treedecorcrackableb name",
+    "xmas_c25_treedecorcrackableb desc"
+  ],
+  [
+    "xmas_c25_treelights",
+    "xmas_c25_treelights name",
+    "xmas_c25_treelights desc"
+  ],
+  [
+    "xmas_c25_treesnowflake",
+    "xmas_c25_treesnowflake name",
+    "xmas_c25_treesnowflake desc"
+  ],
+  [
+    "xmas_c25_treetinsel",
+    "xmas_c25_treetinsel name",
+    "xmas_c25_treetinsel desc"
+  ],
+  [
+    "xmas_c25_treetopper1",
+    "xmas_c25_treetopper1 name",
+    "xmas_c25_treetopper1 desc"
+  ],
+  [
+    "xmas_c25_treetopper2",
+    "xmas_c25_treetopper2 name",
+    "xmas_c25_treetopper2 desc"
+  ],
+  [
+    "xmas_c25_treetopper3",
+    "xmas_c25_treetopper3 name",
+    "xmas_c25_treetopper3 desc"
   ],
   [
     "xmas_cstl_gate",

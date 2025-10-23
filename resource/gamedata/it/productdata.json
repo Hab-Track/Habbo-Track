@@ -70442,6 +70442,11 @@
         "description": ""
       },
       {
+        "code": "lodge_brickwall",
+        "name": "lodge_brickwall name",
+        "description": "lodge_brickwall desc"
+      },
+      {
         "code": "lodge_c15_carpet",
         "name": "Pavimento da Capanno",
         "description": "Realizzato col miglior legno alpino."
@@ -70467,9 +70472,139 @@
         "description": "E-e-e-era un orso?"
       },
       {
+        "code": "lodge_chandelier",
+        "name": "lodge_chandelier name",
+        "description": "lodge_chandelier desc"
+      },
+      {
         "code": "lodge_cm_jan07_deal",
         "name": "Angoliera",
         "description": "Di buon legno solido"
+      },
+      {
+        "code": "lodge_dark_bardesk",
+        "name": "lodge_dark_bardesk name",
+        "description": "lodge_dark_bardesk desc"
+      },
+      {
+        "code": "lodge_dark_barrelstool",
+        "name": "lodge_dark_barrelstool name",
+        "description": "lodge_dark_barrelstool desc"
+      },
+      {
+        "code": "lodge_dark_bed",
+        "name": "lodge_dark_bed name",
+        "description": "lodge_dark_bed desc"
+      },
+      {
+        "code": "lodge_dark_bench",
+        "name": "lodge_dark_bench name",
+        "description": "lodge_dark_bench desc"
+      },
+      {
+        "code": "lodge_dark_bookcase",
+        "name": "lodge_dark_bookcase name",
+        "description": "lodge_dark_bookcase desc"
+      },
+      {
+        "code": "lodge_dark_brickwall",
+        "name": "lodge_dark_brickwall name",
+        "description": "lodge_dark_brickwall desc"
+      },
+      {
+        "code": "lodge_dark_candle",
+        "name": "lodge_dark_candle name",
+        "description": "lodge_dark_candle desc"
+      },
+      {
+        "code": "lodge_dark_chandelier",
+        "name": "lodge_dark_chandelier name",
+        "description": "lodge_dark_chandelier desc"
+      },
+      {
+        "code": "lodge_dark_cornerplinth",
+        "name": "lodge_dark_cornerplinth name",
+        "description": "lodge_dark_cornerplinth desc"
+      },
+      {
+        "code": "lodge_dark_desk",
+        "name": "lodge_dark_desk name",
+        "description": "lodge_dark_desk desc"
+      },
+      {
+        "code": "lodge_dark_diningtable",
+        "name": "lodge_dark_diningtable name",
+        "description": "lodge_dark_diningtable desc"
+      },
+      {
+        "code": "lodge_dark_divider",
+        "name": "lodge_dark_divider name",
+        "description": "lodge_dark_divider desc"
+      },
+      {
+        "code": "lodge_dark_doublebed",
+        "name": "lodge_dark_doublebed name",
+        "description": "lodge_dark_doublebed desc"
+      },
+      {
+        "code": "lodge_dark_endtable",
+        "name": "lodge_dark_endtable name",
+        "description": "lodge_dark_endtable desc"
+      },
+      {
+        "code": "lodge_dark_fireplace",
+        "name": "lodge_dark_fireplace name",
+        "description": "lodge_dark_fireplace desc"
+      },
+      {
+        "code": "lodge_dark_floor",
+        "name": "lodge_dark_floor name",
+        "description": "lodge_dark_floor desc"
+      },
+      {
+        "code": "lodge_dark_gate",
+        "name": "lodge_dark_gate name",
+        "description": "lodge_dark_gate desc"
+      },
+      {
+        "code": "lodge_dark_lamp",
+        "name": "lodge_dark_lamp name",
+        "description": "lodge_dark_lamp desc"
+      },
+      {
+        "code": "lodge_dark_minibar",
+        "name": "lodge_dark_minibar name",
+        "description": "lodge_dark_minibar desc"
+      },
+      {
+        "code": "lodge_dark_reindeerhead",
+        "name": "lodge_dark_reindeerhead name",
+        "description": "lodge_dark_reindeerhead desc"
+      },
+      {
+        "code": "lodge_dark_stool",
+        "name": "lodge_dark_stool name",
+        "description": "lodge_dark_stool desc"
+      },
+      {
+        "code": "lodge_dark_tv",
+        "name": "lodge_dark_tv name",
+        "description": "lodge_dark_tv desc"
+      },
+      {
+        "code": "lodge_dark_wall",
+        "name": "lodge_dark_wall name",
+        "description": "lodge_dark_wall desc"
+      },
+      {
+        "code": "lodge_dark_window",
+        "name": "lodge_dark_window name",
+        "description": "lodge_dark_window desc"
+      },
+      {
+        "code": "lodge_desk",
+        "name": "lodge_desk name",
+        "description": "lodge_desk desc"
       },
       {
         "code": "lodge_dm_jan07_deal",
@@ -70482,9 +70617,19 @@
         "description": "3 Divisori, 2 Angoliere"
       },
       {
+        "code": "lodge_reindeerhead",
+        "name": "lodge_reindeerhead name",
+        "description": "lodge_reindeerhead desc"
+      },
+      {
         "code": "lodge_sp_jan07_deal",
         "name": "Rustico - Kit Base",
         "description": "Porta, Angoliera e 2 Divisori"
+      },
+      {
+        "code": "lodge_tv",
+        "name": "lodge_tv name",
+        "description": "lodge_tv desc"
       },
       {
         "code": "lon_base",
@@ -72432,9 +72577,649 @@
         "description": "Perfetto per il lavoro e il divertimento"
       },
       {
+        "code": "mode_ceilinglight",
+        "name": "mode_ceilinglight name",
+        "description": "mode_ceilinglight desc"
+      },
+      {
+        "code": "mode_clock_0",
+        "name": "mode_clock_0 name",
+        "description": "mode_clock_0 desc"
+      },
+      {
+        "code": "mode_clock_1",
+        "name": "mode_clock_1 name",
+        "description": "mode_clock_1 desc"
+      },
+      {
+        "code": "mode_clock_2",
+        "name": "mode_clock_2 name",
+        "description": "mode_clock_2 desc"
+      },
+      {
+        "code": "mode_clock_3",
+        "name": "mode_clock_3 name",
+        "description": "mode_clock_3 desc"
+      },
+      {
+        "code": "mode_clock_4",
+        "name": "mode_clock_4 name",
+        "description": "mode_clock_4 desc"
+      },
+      {
+        "code": "mode_clock_5",
+        "name": "mode_clock_5 name",
+        "description": "mode_clock_5 desc"
+      },
+      {
+        "code": "mode_clock_6",
+        "name": "mode_clock_6 name",
+        "description": "mode_clock_6 desc"
+      },
+      {
+        "code": "mode_clock_7",
+        "name": "mode_clock_7 name",
+        "description": "mode_clock_7 desc"
+      },
+      {
+        "code": "mode_clock_8",
+        "name": "mode_clock_8 name",
+        "description": "mode_clock_8 desc"
+      },
+      {
         "code": "mode_cm_jan07_deal",
         "name": "Mobiletto Angolare",
         "description": "Pratico e comodo"
+      },
+      {
+        "code": "mode_fridge",
+        "name": "mode_fridge name",
+        "description": "mode_fridge desc"
+      },
+      {
+        "code": "mode_gold_armchair_0",
+        "name": "mode_gold_armchair_0 name",
+        "description": "mode_gold_armchair_0 desc"
+      },
+      {
+        "code": "mode_gold_armchair_1",
+        "name": "mode_gold_armchair_1 name",
+        "description": "mode_gold_armchair_1 desc"
+      },
+      {
+        "code": "mode_gold_armchair_2",
+        "name": "mode_gold_armchair_2 name",
+        "description": "mode_gold_armchair_2 desc"
+      },
+      {
+        "code": "mode_gold_armchair_3",
+        "name": "mode_gold_armchair_3 name",
+        "description": "mode_gold_armchair_3 desc"
+      },
+      {
+        "code": "mode_gold_armchair_4",
+        "name": "mode_gold_armchair_4 name",
+        "description": "mode_gold_armchair_4 desc"
+      },
+      {
+        "code": "mode_gold_armchair_5",
+        "name": "mode_gold_armchair_5 name",
+        "description": "mode_gold_armchair_5 desc"
+      },
+      {
+        "code": "mode_gold_armchair_6",
+        "name": "mode_gold_armchair_6 name",
+        "description": "mode_gold_armchair_6 desc"
+      },
+      {
+        "code": "mode_gold_armchair_7",
+        "name": "mode_gold_armchair_7 name",
+        "description": "mode_gold_armchair_7 desc"
+      },
+      {
+        "code": "mode_gold_armchair_8",
+        "name": "mode_gold_armchair_8 name",
+        "description": "mode_gold_armchair_8 desc"
+      },
+      {
+        "code": "mode_gold_armchair_9",
+        "name": "mode_gold_armchair_9 name",
+        "description": "mode_gold_armchair_9 desc"
+      },
+      {
+        "code": "mode_gold_bar",
+        "name": "mode_gold_bar name",
+        "description": "mode_gold_bar desc"
+      },
+      {
+        "code": "mode_gold_bardesk_0",
+        "name": "mode_gold_bardesk_0 name",
+        "description": "mode_gold_bardesk_0 desc"
+      },
+      {
+        "code": "mode_gold_bardesk_1",
+        "name": "mode_gold_bardesk_1 name",
+        "description": "mode_gold_bardesk_1 desc"
+      },
+      {
+        "code": "mode_gold_bardesk_2",
+        "name": "mode_gold_bardesk_2 name",
+        "description": "mode_gold_bardesk_2 desc"
+      },
+      {
+        "code": "mode_gold_bardesk_3",
+        "name": "mode_gold_bardesk_3 name",
+        "description": "mode_gold_bardesk_3 desc"
+      },
+      {
+        "code": "mode_gold_bardesk_4",
+        "name": "mode_gold_bardesk_4 name",
+        "description": "mode_gold_bardesk_4 desc"
+      },
+      {
+        "code": "mode_gold_bardesk_5",
+        "name": "mode_gold_bardesk_5 name",
+        "description": "mode_gold_bardesk_5 desc"
+      },
+      {
+        "code": "mode_gold_bardesk_6",
+        "name": "mode_gold_bardesk_6 name",
+        "description": "mode_gold_bardesk_6 desc"
+      },
+      {
+        "code": "mode_gold_bardesk_7",
+        "name": "mode_gold_bardesk_7 name",
+        "description": "mode_gold_bardesk_7 desc"
+      },
+      {
+        "code": "mode_gold_bardesk_8",
+        "name": "mode_gold_bardesk_8 name",
+        "description": "mode_gold_bardesk_8 desc"
+      },
+      {
+        "code": "mode_gold_bardesk_9",
+        "name": "mode_gold_bardesk_9 name",
+        "description": "mode_gold_bardesk_9 desc"
+      },
+      {
+        "code": "mode_gold_bardeskcorner_0",
+        "name": "mode_gold_bardeskcorner_0 name",
+        "description": "mode_gold_bardeskcorner_0 desc"
+      },
+      {
+        "code": "mode_gold_bardeskcorner_1",
+        "name": "mode_gold_bardeskcorner_1 name",
+        "description": "mode_gold_bardeskcorner_1 desc"
+      },
+      {
+        "code": "mode_gold_bardeskcorner_2",
+        "name": "mode_gold_bardeskcorner_2 name",
+        "description": "mode_gold_bardeskcorner_2 desc"
+      },
+      {
+        "code": "mode_gold_bardeskcorner_3",
+        "name": "mode_gold_bardeskcorner_3 name",
+        "description": "mode_gold_bardeskcorner_3 desc"
+      },
+      {
+        "code": "mode_gold_bardeskcorner_4",
+        "name": "mode_gold_bardeskcorner_4 name",
+        "description": "mode_gold_bardeskcorner_4 desc"
+      },
+      {
+        "code": "mode_gold_bardeskcorner_5",
+        "name": "mode_gold_bardeskcorner_5 name",
+        "description": "mode_gold_bardeskcorner_5 desc"
+      },
+      {
+        "code": "mode_gold_bardeskcorner_6",
+        "name": "mode_gold_bardeskcorner_6 name",
+        "description": "mode_gold_bardeskcorner_6 desc"
+      },
+      {
+        "code": "mode_gold_bardeskcorner_7",
+        "name": "mode_gold_bardeskcorner_7 name",
+        "description": "mode_gold_bardeskcorner_7 desc"
+      },
+      {
+        "code": "mode_gold_bardeskcorner_8",
+        "name": "mode_gold_bardeskcorner_8 name",
+        "description": "mode_gold_bardeskcorner_8 desc"
+      },
+      {
+        "code": "mode_gold_bardeskcorner_9",
+        "name": "mode_gold_bardeskcorner_9 name",
+        "description": "mode_gold_bardeskcorner_9 desc"
+      },
+      {
+        "code": "mode_gold_bearug_0",
+        "name": "mode_gold_bearug_0 name",
+        "description": "mode_gold_bearug_0 desc"
+      },
+      {
+        "code": "mode_gold_bearug_1",
+        "name": "mode_gold_bearug_1 name",
+        "description": "mode_gold_bearug_1 desc"
+      },
+      {
+        "code": "mode_gold_bearug_2",
+        "name": "mode_gold_bearug_2 name",
+        "description": "mode_gold_bearug_2 desc"
+      },
+      {
+        "code": "mode_gold_bearug_3",
+        "name": "mode_gold_bearug_3 name",
+        "description": "mode_gold_bearug_3 desc"
+      },
+      {
+        "code": "mode_gold_bearug_4",
+        "name": "mode_gold_bearug_4 name",
+        "description": "mode_gold_bearug_4 desc"
+      },
+      {
+        "code": "mode_gold_bearug_5",
+        "name": "mode_gold_bearug_5 name",
+        "description": "mode_gold_bearug_5 desc"
+      },
+      {
+        "code": "mode_gold_bed_0",
+        "name": "mode_gold_bed_0 name",
+        "description": "mode_gold_bed_0 desc"
+      },
+      {
+        "code": "mode_gold_bed_1",
+        "name": "mode_gold_bed_1 name",
+        "description": "mode_gold_bed_1 desc"
+      },
+      {
+        "code": "mode_gold_bed_2",
+        "name": "mode_gold_bed_2 name",
+        "description": "mode_gold_bed_2 desc"
+      },
+      {
+        "code": "mode_gold_bed_3",
+        "name": "mode_gold_bed_3 name",
+        "description": "mode_gold_bed_3 desc"
+      },
+      {
+        "code": "mode_gold_bed_4",
+        "name": "mode_gold_bed_4 name",
+        "description": "mode_gold_bed_4 desc"
+      },
+      {
+        "code": "mode_gold_bed_5",
+        "name": "mode_gold_bed_5 name",
+        "description": "mode_gold_bed_5 desc"
+      },
+      {
+        "code": "mode_gold_bed_6",
+        "name": "mode_gold_bed_6 name",
+        "description": "mode_gold_bed_6 desc"
+      },
+      {
+        "code": "mode_gold_bed_7",
+        "name": "mode_gold_bed_7 name",
+        "description": "mode_gold_bed_7 desc"
+      },
+      {
+        "code": "mode_gold_bed_8",
+        "name": "mode_gold_bed_8 name",
+        "description": "mode_gold_bed_8 desc"
+      },
+      {
+        "code": "mode_gold_bed_9",
+        "name": "mode_gold_bed_9 name",
+        "description": "mode_gold_bed_9 desc"
+      },
+      {
+        "code": "mode_gold_bookcase",
+        "name": "mode_gold_bookcase name",
+        "description": "mode_gold_bookcase desc"
+      },
+      {
+        "code": "mode_gold_ceilinglight",
+        "name": "mode_gold_ceilinglight name",
+        "description": "mode_gold_ceilinglight desc"
+      },
+      {
+        "code": "mode_gold_clock_0",
+        "name": "mode_gold_clock_0 name",
+        "description": "mode_gold_clock_0 desc"
+      },
+      {
+        "code": "mode_gold_clock_1",
+        "name": "mode_gold_clock_1 name",
+        "description": "mode_gold_clock_1 desc"
+      },
+      {
+        "code": "mode_gold_clock_2",
+        "name": "mode_gold_clock_2 name",
+        "description": "mode_gold_clock_2 desc"
+      },
+      {
+        "code": "mode_gold_clock_3",
+        "name": "mode_gold_clock_3 name",
+        "description": "mode_gold_clock_3 desc"
+      },
+      {
+        "code": "mode_gold_clock_4",
+        "name": "mode_gold_clock_4 name",
+        "description": "mode_gold_clock_4 desc"
+      },
+      {
+        "code": "mode_gold_clock_5",
+        "name": "mode_gold_clock_5 name",
+        "description": "mode_gold_clock_5 desc"
+      },
+      {
+        "code": "mode_gold_clock_6",
+        "name": "mode_gold_clock_6 name",
+        "description": "mode_gold_clock_6 desc"
+      },
+      {
+        "code": "mode_gold_clock_7",
+        "name": "mode_gold_clock_7 name",
+        "description": "mode_gold_clock_7 desc"
+      },
+      {
+        "code": "mode_gold_clock_8",
+        "name": "mode_gold_clock_8 name",
+        "description": "mode_gold_clock_8 desc"
+      },
+      {
+        "code": "mode_gold_clock_9",
+        "name": "mode_gold_clock_9 name",
+        "description": "mode_gold_clock_9 desc"
+      },
+      {
+        "code": "mode_gold_diningchair",
+        "name": "mode_gold_diningchair name",
+        "description": "mode_gold_diningchair desc"
+      },
+      {
+        "code": "mode_gold_doublebed_0",
+        "name": "mode_gold_doublebed_0 name",
+        "description": "mode_gold_doublebed_0 desc"
+      },
+      {
+        "code": "mode_gold_doublebed_1",
+        "name": "mode_gold_doublebed_1 name",
+        "description": "mode_gold_doublebed_1 desc"
+      },
+      {
+        "code": "mode_gold_doublebed_2",
+        "name": "mode_gold_doublebed_2 name",
+        "description": "mode_gold_doublebed_2 desc"
+      },
+      {
+        "code": "mode_gold_doublebed_3",
+        "name": "mode_gold_doublebed_3 name",
+        "description": "mode_gold_doublebed_3 desc"
+      },
+      {
+        "code": "mode_gold_doublebed_4",
+        "name": "mode_gold_doublebed_4 name",
+        "description": "mode_gold_doublebed_4 desc"
+      },
+      {
+        "code": "mode_gold_doublebed_5",
+        "name": "mode_gold_doublebed_5 name",
+        "description": "mode_gold_doublebed_5 desc"
+      },
+      {
+        "code": "mode_gold_doublebed_6",
+        "name": "mode_gold_doublebed_6 name",
+        "description": "mode_gold_doublebed_6 desc"
+      },
+      {
+        "code": "mode_gold_doublebed_7",
+        "name": "mode_gold_doublebed_7 name",
+        "description": "mode_gold_doublebed_7 desc"
+      },
+      {
+        "code": "mode_gold_doublebed_8",
+        "name": "mode_gold_doublebed_8 name",
+        "description": "mode_gold_doublebed_8 desc"
+      },
+      {
+        "code": "mode_gold_doublebed_9",
+        "name": "mode_gold_doublebed_9 name",
+        "description": "mode_gold_doublebed_9 desc"
+      },
+      {
+        "code": "mode_gold_fireplace",
+        "name": "mode_gold_fireplace name",
+        "description": "mode_gold_fireplace desc"
+      },
+      {
+        "code": "mode_gold_fridge",
+        "name": "mode_gold_fridge name",
+        "description": "mode_gold_fridge desc"
+      },
+      {
+        "code": "mode_gold_gate_0",
+        "name": "mode_gold_gate_0 name",
+        "description": "mode_gold_gate_0 desc"
+      },
+      {
+        "code": "mode_gold_gate_1",
+        "name": "mode_gold_gate_1 name",
+        "description": "mode_gold_gate_1 desc"
+      },
+      {
+        "code": "mode_gold_gate_2",
+        "name": "mode_gold_gate_2 name",
+        "description": "mode_gold_gate_2 desc"
+      },
+      {
+        "code": "mode_gold_gate_3",
+        "name": "mode_gold_gate_3 name",
+        "description": "mode_gold_gate_3 desc"
+      },
+      {
+        "code": "mode_gold_gate_4",
+        "name": "mode_gold_gate_4 name",
+        "description": "mode_gold_gate_4 desc"
+      },
+      {
+        "code": "mode_gold_gate_5",
+        "name": "mode_gold_gate_5 name",
+        "description": "mode_gold_gate_5 desc"
+      },
+      {
+        "code": "mode_gold_gate_6",
+        "name": "mode_gold_gate_6 name",
+        "description": "mode_gold_gate_6 desc"
+      },
+      {
+        "code": "mode_gold_gate_7",
+        "name": "mode_gold_gate_7 name",
+        "description": "mode_gold_gate_7 desc"
+      },
+      {
+        "code": "mode_gold_gate_8",
+        "name": "mode_gold_gate_8 name",
+        "description": "mode_gold_gate_8 desc"
+      },
+      {
+        "code": "mode_gold_gate_9",
+        "name": "mode_gold_gate_9 name",
+        "description": "mode_gold_gate_9 desc"
+      },
+      {
+        "code": "mode_gold_largecoffeetable",
+        "name": "mode_gold_largecoffeetable name",
+        "description": "mode_gold_largecoffeetable desc"
+      },
+      {
+        "code": "mode_gold_largediningtable",
+        "name": "mode_gold_largediningtable name",
+        "description": "mode_gold_largediningtable desc"
+      },
+      {
+        "code": "mode_gold_largetable",
+        "name": "mode_gold_largetable name",
+        "description": "mode_gold_largetable desc"
+      },
+      {
+        "code": "mode_gold_partingscreen_0",
+        "name": "mode_gold_partingscreen_0 name",
+        "description": "mode_gold_partingscreen_0 desc"
+      },
+      {
+        "code": "mode_gold_partingscreen_1",
+        "name": "mode_gold_partingscreen_1 name",
+        "description": "mode_gold_partingscreen_1 desc"
+      },
+      {
+        "code": "mode_gold_partingscreen_2",
+        "name": "mode_gold_partingscreen_2 name",
+        "description": "mode_gold_partingscreen_2 desc"
+      },
+      {
+        "code": "mode_gold_partingscreen_3",
+        "name": "mode_gold_partingscreen_3 name",
+        "description": "mode_gold_partingscreen_3 desc"
+      },
+      {
+        "code": "mode_gold_partingscreen_4",
+        "name": "mode_gold_partingscreen_4 name",
+        "description": "mode_gold_partingscreen_4 desc"
+      },
+      {
+        "code": "mode_gold_partingscreen_5",
+        "name": "mode_gold_partingscreen_5 name",
+        "description": "mode_gold_partingscreen_5 desc"
+      },
+      {
+        "code": "mode_gold_partingscreen_6",
+        "name": "mode_gold_partingscreen_6 name",
+        "description": "mode_gold_partingscreen_6 desc"
+      },
+      {
+        "code": "mode_gold_partingscreen_7",
+        "name": "mode_gold_partingscreen_7 name",
+        "description": "mode_gold_partingscreen_7 desc"
+      },
+      {
+        "code": "mode_gold_partingscreen_8",
+        "name": "mode_gold_partingscreen_8 name",
+        "description": "mode_gold_partingscreen_8 desc"
+      },
+      {
+        "code": "mode_gold_partingscreen_9",
+        "name": "mode_gold_partingscreen_9 name",
+        "description": "mode_gold_partingscreen_9 desc"
+      },
+      {
+        "code": "mode_gold_smallcoffeetable",
+        "name": "mode_gold_smallcoffeetable name",
+        "description": "mode_gold_smallcoffeetable desc"
+      },
+      {
+        "code": "mode_gold_sofa_0",
+        "name": "mode_gold_sofa_0 name",
+        "description": "mode_gold_sofa_0 desc"
+      },
+      {
+        "code": "mode_gold_sofa_1",
+        "name": "mode_gold_sofa_1 name",
+        "description": "mode_gold_sofa_1 desc"
+      },
+      {
+        "code": "mode_gold_sofa_2",
+        "name": "mode_gold_sofa_2 name",
+        "description": "mode_gold_sofa_2 desc"
+      },
+      {
+        "code": "mode_gold_sofa_3",
+        "name": "mode_gold_sofa_3 name",
+        "description": "mode_gold_sofa_3 desc"
+      },
+      {
+        "code": "mode_gold_sofa_4",
+        "name": "mode_gold_sofa_4 name",
+        "description": "mode_gold_sofa_4 desc"
+      },
+      {
+        "code": "mode_gold_sofa_5",
+        "name": "mode_gold_sofa_5 name",
+        "description": "mode_gold_sofa_5 desc"
+      },
+      {
+        "code": "mode_gold_sofa_6",
+        "name": "mode_gold_sofa_6 name",
+        "description": "mode_gold_sofa_6 desc"
+      },
+      {
+        "code": "mode_gold_sofa_7",
+        "name": "mode_gold_sofa_7 name",
+        "description": "mode_gold_sofa_7 desc"
+      },
+      {
+        "code": "mode_gold_sofa_8",
+        "name": "mode_gold_sofa_8 name",
+        "description": "mode_gold_sofa_8 desc"
+      },
+      {
+        "code": "mode_gold_sofa_9",
+        "name": "mode_gold_sofa_9 name",
+        "description": "mode_gold_sofa_9 desc"
+      },
+      {
+        "code": "mode_gold_vase_0",
+        "name": "mode_gold_vase_0 name",
+        "description": "mode_gold_vase_0 desc"
+      },
+      {
+        "code": "mode_gold_vase_1",
+        "name": "mode_gold_vase_1 name",
+        "description": "mode_gold_vase_1 desc"
+      },
+      {
+        "code": "mode_gold_vase_2",
+        "name": "mode_gold_vase_2 name",
+        "description": "mode_gold_vase_2 desc"
+      },
+      {
+        "code": "mode_gold_vase_3",
+        "name": "mode_gold_vase_3 name",
+        "description": "mode_gold_vase_3 desc"
+      },
+      {
+        "code": "mode_gold_vase_4",
+        "name": "mode_gold_vase_4 name",
+        "description": "mode_gold_vase_4 desc"
+      },
+      {
+        "code": "mode_gold_vase_5",
+        "name": "mode_gold_vase_5 name",
+        "description": "mode_gold_vase_5 desc"
+      },
+      {
+        "code": "mode_gold_vase_6",
+        "name": "mode_gold_vase_6 name",
+        "description": "mode_gold_vase_6 desc"
+      },
+      {
+        "code": "mode_gold_vase_7",
+        "name": "mode_gold_vase_7 name",
+        "description": "mode_gold_vase_7 desc"
+      },
+      {
+        "code": "mode_gold_vase_8",
+        "name": "mode_gold_vase_8 name",
+        "description": "mode_gold_vase_8 desc"
+      },
+      {
+        "code": "mode_gold_vase_9",
+        "name": "mode_gold_vase_9 name",
+        "description": "mode_gold_vase_9 desc"
+      },
+      {
+        "code": "mode_gold_zshelf",
+        "name": "mode_gold_zshelf name",
+        "description": "mode_gold_zshelf desc"
       },
       {
         "code": "mode_mm_jan07_deal",
@@ -72442,9 +73227,99 @@
         "description": "3 Divisori, 2 Angoliere"
       },
       {
+        "code": "mode_partingscreen_0",
+        "name": "mode_partingscreen_0 name",
+        "description": "mode_partingscreen_0 desc"
+      },
+      {
+        "code": "mode_partingscreen_1",
+        "name": "mode_partingscreen_1 name",
+        "description": "mode_partingscreen_1 desc"
+      },
+      {
+        "code": "mode_partingscreen_2",
+        "name": "mode_partingscreen_2 name",
+        "description": "mode_partingscreen_2 desc"
+      },
+      {
+        "code": "mode_partingscreen_3",
+        "name": "mode_partingscreen_3 name",
+        "description": "mode_partingscreen_3 desc"
+      },
+      {
+        "code": "mode_partingscreen_4",
+        "name": "mode_partingscreen_4 name",
+        "description": "mode_partingscreen_4 desc"
+      },
+      {
+        "code": "mode_partingscreen_5",
+        "name": "mode_partingscreen_5 name",
+        "description": "mode_partingscreen_5 desc"
+      },
+      {
+        "code": "mode_partingscreen_6",
+        "name": "mode_partingscreen_6 name",
+        "description": "mode_partingscreen_6 desc"
+      },
+      {
+        "code": "mode_partingscreen_7",
+        "name": "mode_partingscreen_7 name",
+        "description": "mode_partingscreen_7 desc"
+      },
+      {
+        "code": "mode_partingscreen_8",
+        "name": "mode_partingscreen_8 name",
+        "description": "mode_partingscreen_8 desc"
+      },
+      {
         "code": "mode_sp_jan07_deal",
         "name": "Mode - Kit Base",
         "description": "Porta, Angoliera e 2 Divisori"
+      },
+      {
+        "code": "mode_vase_0",
+        "name": "mode_vase_0 name",
+        "description": "mode_vase_0 desc"
+      },
+      {
+        "code": "mode_vase_1",
+        "name": "mode_vase_1 name",
+        "description": "mode_vase_1 desc"
+      },
+      {
+        "code": "mode_vase_2",
+        "name": "mode_vase_2 name",
+        "description": "mode_vase_2 desc"
+      },
+      {
+        "code": "mode_vase_3",
+        "name": "mode_vase_3 name",
+        "description": "mode_vase_3 desc"
+      },
+      {
+        "code": "mode_vase_4",
+        "name": "mode_vase_4 name",
+        "description": "mode_vase_4 desc"
+      },
+      {
+        "code": "mode_vase_5",
+        "name": "mode_vase_5 name",
+        "description": "mode_vase_5 desc"
+      },
+      {
+        "code": "mode_vase_6",
+        "name": "mode_vase_6 name",
+        "description": "mode_vase_6 desc"
+      },
+      {
+        "code": "mode_vase_7",
+        "name": "mode_vase_7 name",
+        "description": "mode_vase_7 desc"
+      },
+      {
+        "code": "mode_vase_8",
+        "name": "mode_vase_8 name",
+        "description": "mode_vase_8 desc"
       },
       {
         "code": "modern_c17_bed",
@@ -111012,6 +111887,11 @@
         "description": "wf_antenna2 desc"
       },
       {
+        "code": "wf_arrowplate_8dir",
+        "name": "wf_arrowplate_8dir name",
+        "description": "wf_arrowplate_8dir desc"
+      },
+      {
         "code": "wf_arrowplate",
         "name": "Freccia direzionale",
         "description": "Da questa o da quella parte?"
@@ -111040,6 +111920,41 @@
         "code": "wf_box",
         "name": "Pacco Puzzle",
         "description": "Stai accanto alla Scatola e cliccala 2 volte per spingerla!"
+      },
+      {
+        "code": "wf_button_arrow",
+        "name": "wf_button_arrow name",
+        "description": "wf_button_arrow desc"
+      },
+      {
+        "code": "wf_button_blue",
+        "name": "wf_button_blue name",
+        "description": "wf_button_blue desc"
+      },
+      {
+        "code": "wf_button_green",
+        "name": "wf_button_green name",
+        "description": "wf_button_green desc"
+      },
+      {
+        "code": "wf_button",
+        "name": "wf_button name",
+        "description": "wf_button desc"
+      },
+      {
+        "code": "wf_button_red",
+        "name": "wf_button_red name",
+        "description": "wf_button_red desc"
+      },
+      {
+        "code": "wf_button_x",
+        "name": "wf_button_x name",
+        "description": "wf_button_x desc"
+      },
+      {
+        "code": "wf_button_yellow",
+        "name": "wf_button_yellow name",
+        "description": "wf_button_yellow desc"
       },
       {
         "code": "wf_cnd_actor_dir",
@@ -111357,6 +112272,11 @@
         "description": "La Palla luminosa si innalza e si accende."
       },
       {
+        "code": "wf_knob",
+        "name": "wf_knob name",
+        "description": "wf_knob desc"
+      },
+      {
         "code": "wf_ltdproto_act_bd",
         "name": "Effetto WIRED Antico> Attiva/Disattiva Stato Furni",
         "description": ""
@@ -111370,6 +112290,11 @@
         "code": "wf_maze",
         "name": "Divisori",
         "description": "Costruisci i tuoi Labirinti e gioca a Puzzle Box!"
+      },
+      {
+        "code": "wf_numberscreen",
+        "name": "wf_numberscreen name",
+        "description": "wf_numberscreen desc"
       },
       {
         "code": "wf_numbertile1",
@@ -111532,6 +112457,41 @@
         "description": "wf_slc_users_with_var desc"
       },
       {
+        "code": "wf_slider",
+        "name": "wf_slider name",
+        "description": "wf_slider desc"
+      },
+      {
+        "code": "wf_teamcolorquarter",
+        "name": "wf_teamcolorquarter name",
+        "description": "wf_teamcolorquarter desc"
+      },
+      {
+        "code": "wf_teamcolortile",
+        "name": "wf_teamcolortile name",
+        "description": "wf_teamcolortile desc"
+      },
+      {
+        "code": "wf_teammeter1",
+        "name": "wf_teammeter1 name",
+        "description": "wf_teammeter1 desc"
+      },
+      {
+        "code": "wf_teammeter2",
+        "name": "wf_teammeter2 name",
+        "description": "wf_teammeter2 desc"
+      },
+      {
+        "code": "wf_teammeter3",
+        "name": "wf_teammeter3 name",
+        "description": "wf_teammeter3 desc"
+      },
+      {
+        "code": "wf_teammeter4",
+        "name": "wf_teammeter4 name",
+        "description": "wf_teammeter4 desc"
+      },
+      {
         "code": "wf_test_act",
         "name": "EFFETTO Custom",
         "description": "wf_test_act desc"
@@ -111570,6 +112530,66 @@
         "code": "wf_tile2",
         "name": "Casella Chiara",
         "description": "wf_tile2 desc"
+      },
+      {
+        "code": "wf_toggle",
+        "name": "wf_toggle name",
+        "description": "wf_toggle desc"
+      },
+      {
+        "code": "wf_token10",
+        "name": "wf_token10 name",
+        "description": "wf_token10 desc"
+      },
+      {
+        "code": "wf_token11",
+        "name": "wf_token11 name",
+        "description": "wf_token11 desc"
+      },
+      {
+        "code": "wf_token1",
+        "name": "wf_token1 name",
+        "description": "wf_token1 desc"
+      },
+      {
+        "code": "wf_token2",
+        "name": "wf_token2 name",
+        "description": "wf_token2 desc"
+      },
+      {
+        "code": "wf_token3",
+        "name": "wf_token3 name",
+        "description": "wf_token3 desc"
+      },
+      {
+        "code": "wf_token4",
+        "name": "wf_token4 name",
+        "description": "wf_token4 desc"
+      },
+      {
+        "code": "wf_token5",
+        "name": "wf_token5 name",
+        "description": "wf_token5 desc"
+      },
+      {
+        "code": "wf_token6",
+        "name": "wf_token6 name",
+        "description": "wf_token6 desc"
+      },
+      {
+        "code": "wf_token7",
+        "name": "wf_token7 name",
+        "description": "wf_token7 desc"
+      },
+      {
+        "code": "wf_token8",
+        "name": "wf_token8 name",
+        "description": "wf_token8 desc"
+      },
+      {
+        "code": "wf_token9",
+        "name": "wf_token9 name",
+        "description": "wf_token9 desc"
       },
       {
         "code": "wf_trg_at_given_time",
@@ -111760,6 +112780,11 @@
         "code": "wf_var_user",
         "name": "VARIABILE: Utente Variabile",
         "description": "wf_var_user desc"
+      },
+      {
+        "code": "wf_vu",
+        "name": "wf_vu name",
+        "description": "wf_vu desc"
       },
       {
         "code": "wf_wire1",
@@ -116990,6 +118015,221 @@
         "code": "xmas_c24_wreath",
         "name": "Ghirnalda di Abete",
         "description": "xmas_c24_wreath desc"
+      },
+      {
+        "code": "xmas_c25_largeicehole",
+        "name": "xmas_c25_largeicehole name",
+        "description": "xmas_c25_largeicehole desc"
+      },
+      {
+        "code": "xmas_c25_minirobotdino",
+        "name": "xmas_c25_minirobotdino name",
+        "description": "xmas_c25_minirobotdino desc"
+      },
+      {
+        "code": "xmas_c25_mistletoelovelock",
+        "name": "xmas_c25_mistletoelovelock name",
+        "description": "xmas_c25_mistletoelovelock desc"
+      },
+      {
+        "code": "xmas_c25_pixeltree",
+        "name": "xmas_c25_pixeltree name",
+        "description": "xmas_c25_pixeltree desc"
+      },
+      {
+        "code": "xmas_c25_rastasanta",
+        "name": "xmas_c25_rastasanta name",
+        "description": "xmas_c25_rastasanta desc"
+      },
+      {
+        "code": "xmas_c25_snowytree",
+        "name": "xmas_c25_snowytree name",
+        "description": "xmas_c25_snowytree desc"
+      },
+      {
+        "code": "xmas_c25_tree1a",
+        "name": "xmas_c25_tree1a name",
+        "description": "xmas_c25_tree1a desc"
+      },
+      {
+        "code": "xmas_c25_tree1b",
+        "name": "xmas_c25_tree1b name",
+        "description": "xmas_c25_tree1b desc"
+      },
+      {
+        "code": "xmas_c25_tree1c",
+        "name": "xmas_c25_tree1c name",
+        "description": "xmas_c25_tree1c desc"
+      },
+      {
+        "code": "xmas_c25_tree2a_baubles",
+        "name": "xmas_c25_tree2a_baubles name",
+        "description": "xmas_c25_tree2a_baubles desc"
+      },
+      {
+        "code": "xmas_c25_tree2a_candy",
+        "name": "xmas_c25_tree2a_candy name",
+        "description": "xmas_c25_tree2a_candy desc"
+      },
+      {
+        "code": "xmas_c25_tree2a",
+        "name": "xmas_c25_tree2a name",
+        "description": "xmas_c25_tree2a desc"
+      },
+      {
+        "code": "xmas_c25_tree2a_snowflake",
+        "name": "xmas_c25_tree2a_snowflake name",
+        "description": "xmas_c25_tree2a_snowflake desc"
+      },
+      {
+        "code": "xmas_c25_tree2b_baubles",
+        "name": "xmas_c25_tree2b_baubles name",
+        "description": "xmas_c25_tree2b_baubles desc"
+      },
+      {
+        "code": "xmas_c25_tree2b_candy",
+        "name": "xmas_c25_tree2b_candy name",
+        "description": "xmas_c25_tree2b_candy desc"
+      },
+      {
+        "code": "xmas_c25_tree2b",
+        "name": "xmas_c25_tree2b name",
+        "description": "xmas_c25_tree2b desc"
+      },
+      {
+        "code": "xmas_c25_tree2b_snowflake",
+        "name": "xmas_c25_tree2b_snowflake name",
+        "description": "xmas_c25_tree2b_snowflake desc"
+      },
+      {
+        "code": "xmas_c25_tree2c_baubles",
+        "name": "xmas_c25_tree2c_baubles name",
+        "description": "xmas_c25_tree2c_baubles desc"
+      },
+      {
+        "code": "xmas_c25_tree2c_candy",
+        "name": "xmas_c25_tree2c_candy name",
+        "description": "xmas_c25_tree2c_candy desc"
+      },
+      {
+        "code": "xmas_c25_tree2c",
+        "name": "xmas_c25_tree2c name",
+        "description": "xmas_c25_tree2c desc"
+      },
+      {
+        "code": "xmas_c25_tree2c_snowflake",
+        "name": "xmas_c25_tree2c_snowflake name",
+        "description": "xmas_c25_tree2c_snowflake desc"
+      },
+      {
+        "code": "xmas_c25_tree3a_baubles",
+        "name": "xmas_c25_tree3a_baubles name",
+        "description": "xmas_c25_tree3a_baubles desc"
+      },
+      {
+        "code": "xmas_c25_tree3a_candy",
+        "name": "xmas_c25_tree3a_candy name",
+        "description": "xmas_c25_tree3a_candy desc"
+      },
+      {
+        "code": "xmas_c25_tree3a_snowflake",
+        "name": "xmas_c25_tree3a_snowflake name",
+        "description": "xmas_c25_tree3a_snowflake desc"
+      },
+      {
+        "code": "xmas_c25_tree3a_tinsel",
+        "name": "xmas_c25_tree3a_tinsel name",
+        "description": "xmas_c25_tree3a_tinsel desc"
+      },
+      {
+        "code": "xmas_c25_tree3b_baubles",
+        "name": "xmas_c25_tree3b_baubles name",
+        "description": "xmas_c25_tree3b_baubles desc"
+      },
+      {
+        "code": "xmas_c25_tree3b_candy",
+        "name": "xmas_c25_tree3b_candy name",
+        "description": "xmas_c25_tree3b_candy desc"
+      },
+      {
+        "code": "xmas_c25_tree3b_snowflake",
+        "name": "xmas_c25_tree3b_snowflake name",
+        "description": "xmas_c25_tree3b_snowflake desc"
+      },
+      {
+        "code": "xmas_c25_tree3b_tinsel",
+        "name": "xmas_c25_tree3b_tinsel name",
+        "description": "xmas_c25_tree3b_tinsel desc"
+      },
+      {
+        "code": "xmas_c25_tree3c_baubles",
+        "name": "xmas_c25_tree3c_baubles name",
+        "description": "xmas_c25_tree3c_baubles desc"
+      },
+      {
+        "code": "xmas_c25_tree3c_candy",
+        "name": "xmas_c25_tree3c_candy name",
+        "description": "xmas_c25_tree3c_candy desc"
+      },
+      {
+        "code": "xmas_c25_tree3c_snowflake",
+        "name": "xmas_c25_tree3c_snowflake name",
+        "description": "xmas_c25_tree3c_snowflake desc"
+      },
+      {
+        "code": "xmas_c25_tree3c_tinsel",
+        "name": "xmas_c25_tree3c_tinsel name",
+        "description": "xmas_c25_tree3c_tinsel desc"
+      },
+      {
+        "code": "xmas_c25_treebaubles",
+        "name": "xmas_c25_treebaubles name",
+        "description": "xmas_c25_treebaubles desc"
+      },
+      {
+        "code": "xmas_c25_treecandycane",
+        "name": "xmas_c25_treecandycane name",
+        "description": "xmas_c25_treecandycane desc"
+      },
+      {
+        "code": "xmas_c25_treedecorcrackable",
+        "name": "xmas_c25_treedecorcrackable name",
+        "description": "xmas_c25_treedecorcrackable desc"
+      },
+      {
+        "code": "xmas_c25_treedecorcrackableb",
+        "name": "xmas_c25_treedecorcrackableb name",
+        "description": "xmas_c25_treedecorcrackableb desc"
+      },
+      {
+        "code": "xmas_c25_treelights",
+        "name": "xmas_c25_treelights name",
+        "description": "xmas_c25_treelights desc"
+      },
+      {
+        "code": "xmas_c25_treesnowflake",
+        "name": "xmas_c25_treesnowflake name",
+        "description": "xmas_c25_treesnowflake desc"
+      },
+      {
+        "code": "xmas_c25_treetinsel",
+        "name": "xmas_c25_treetinsel name",
+        "description": "xmas_c25_treetinsel desc"
+      },
+      {
+        "code": "xmas_c25_treetopper1",
+        "name": "xmas_c25_treetopper1 name",
+        "description": "xmas_c25_treetopper1 desc"
+      },
+      {
+        "code": "xmas_c25_treetopper2",
+        "name": "xmas_c25_treetopper2 name",
+        "description": "xmas_c25_treetopper2 desc"
+      },
+      {
+        "code": "xmas_c25_treetopper3",
+        "name": "xmas_c25_treetopper3 name",
+        "description": "xmas_c25_treetopper3 desc"
       },
       {
         "code": "xmas_cstl_gate",
