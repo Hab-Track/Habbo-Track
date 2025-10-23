@@ -34348,7 +34348,7 @@
       },
       {
         "code": "cloth_r25_mushroomcape_bd",
-        "name": "Mushroom Cape",
+        "name": "Mantar Pelerin",
         "description": "clothing_r25_mushroomcape desc"
       },
       {
@@ -39983,8 +39983,8 @@
       },
       {
         "code": "clothing_nightvision",
-        "name": "Gece Görüş googles",
-        "description": "Designer ready-to-wear"
+        "name": "Gece Görüş Gözlüğü",
+        "description": ""
       },
       {
         "code": "clothing_noblecrown_badge",
@@ -121663,12 +121663,12 @@
       },
       {
         "code": "wf_trg_period_long",
-        "name": "DÜZENEKLİ TETİKLEYİCİ: Periyodik Uzun",
+        "name": "DÜZENEKLİ Tetikleyici: Periyodik Uzun",
         "description": "Daha uzun oyunlar! Verilen sürenin her bitişinde etkiler tetiklenir. Periyodik Tetikleme gibi; fakat daha uzun!"
       },
       {
         "code": "wf_trg_period_short",
-        "name": "DÜZENEKLİ Tetikleyici: Efekti Tekrarla (Kısa)",
+        "name": "DÜZENEKLİ Tetikleyici: Tekrarlanan Efekt (Kısa)",
         "description": "wf_trg_period_short desc"
       },
       {
@@ -121703,12 +121703,12 @@
       },
       {
         "code": "wf_trg_stuff_state",
-        "name": "DÜZENEKLİ Tetikleyici: Mobi durumu değiştirildi",
+        "name": "DÜZENEKLİ Tetikleyici: Mobi Durumu Değiştirildi",
         "description": "wf_trg_stuff_state desc"
       },
       {
         "code": "wf_trg_user_performs_action",
-        "name": "DÜZENEKLİ Tetikleyici: Kullanıcı Eylemi Gerçekleştiriyor",
+        "name": "DÜZENEKLİ Tetikleyici: Kullanıcı Eylemi Gerçekleştirir",
         "description": "wf_trg_user_performs_action desc"
       },
       {
