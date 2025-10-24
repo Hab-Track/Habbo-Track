@@ -65960,6 +65960,11 @@
     "hween_r24_vintagepromqueen desc"
   ],
   [
+    "hween_r25_mushroommchn_bd",
+    "Sienikone",
+    "hween_r25_mushroommchn desc"
+  ],
+  [
     "hween_r25_mushroommchn",
     "Sienikone",
     "hween_r25_mushroommchn desc"
@@ -73853,6 +73858,11 @@
     "neonpunk_c20_wall",
     "Neon Punk- seinä",
     "neonpunk_c20_wall desc"
+  ],
+  [
+    "neopets25_prize",
+    "Neopets Quest Prize",
+    ""
   ],
   [
     "neopets_c25_aisha1",
@@ -112161,7 +112171,7 @@
   ],
   [
     "wf_ltdproto_act_toggle_state",
-    "Muinainen Wired-toiminto: Vaihda tavaran tilaa",
+    "Muinainen Wired-toiminto: Muuta tavaran tilaa",
     "wf_ltdproto_act_toggle_state desc"
   ],
   [
@@ -112201,7 +112211,7 @@
   ],
   [
     "wf_proto_cnd_trggrer_on_frn",
-    "Muinainen Wired-ehto: Laukaisija on tavarassa",
+    "Muinainen Wired-ehto: Laukaisija on tavaran päällä",
     "wf_proto_cnd_trggrer_on_frn desc"
   ],
   [
@@ -112211,7 +112221,7 @@
   ],
   [
     "wf_proto_trg_at_given_time",
-    "Muinainen Wired-laukaisin: Valittuna ajankohtana",
+    "Muinainen Wired-laukaisin: Annettuna aikana",
     "wf_proto_trg_at_given_time desc"
   ],
   [

@@ -65962,6 +65962,11 @@
         "description": "hween_r24_vintagepromqueen desc"
       },
       {
+        "code": "hween_r25_mushroommchn_bd",
+        "name": "Sienikone",
+        "description": "hween_r25_mushroommchn desc"
+      },
+      {
         "code": "hween_r25_mushroommchn",
         "name": "Sienikone",
         "description": "hween_r25_mushroommchn desc"
@@ -73855,6 +73860,11 @@
         "code": "neonpunk_c20_wall",
         "name": "Neon Punk- seinä",
         "description": "neonpunk_c20_wall desc"
+      },
+      {
+        "code": "neopets25_prize",
+        "name": "Neopets Quest Prize",
+        "description": ""
       },
       {
         "code": "neopets_c25_aisha1",
@@ -112163,7 +112173,7 @@
       },
       {
         "code": "wf_ltdproto_act_toggle_state",
-        "name": "Muinainen Wired-toiminto: Vaihda tavaran tilaa",
+        "name": "Muinainen Wired-toiminto: Muuta tavaran tilaa",
         "description": "wf_ltdproto_act_toggle_state desc"
       },
       {
@@ -112203,7 +112213,7 @@
       },
       {
         "code": "wf_proto_cnd_trggrer_on_frn",
-        "name": "Muinainen Wired-ehto: Laukaisija on tavarassa",
+        "name": "Muinainen Wired-ehto: Laukaisija on tavaran päällä",
         "description": "wf_proto_cnd_trggrer_on_frn desc"
       },
       {
@@ -112213,7 +112223,7 @@
       },
       {
         "code": "wf_proto_trg_at_given_time",
-        "name": "Muinainen Wired-laukaisin: Valittuna ajankohtana",
+        "name": "Muinainen Wired-laukaisin: Annettuna aikana",
         "description": "wf_proto_trg_at_given_time desc"
       },
       {
