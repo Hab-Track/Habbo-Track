@@ -90315,6 +90315,11 @@
     "regalblack_r25_orb desc"
   ],
   [
+    "regalblack_r25_scepter_bd",
+    "Cetro Negro Regio",
+    ""
+  ],
+  [
     "regalblack_r25_scepter",
     "Cetro Negro Regio",
     "regalblack_r25_scepter desc"
@@ -111836,7 +111841,7 @@
   ],
   [
     "wf_proto_cnd_trggrer_on_frn",
-    "Condición WIRED Arcaido: el activador está sobre el furni",
+    "Condición WIRED Arcaico: Desencadenantes Sobre Furni",
     "wf_proto_cnd_trggrer_on_frn desc"
   ],
   [
@@ -111846,7 +111851,7 @@
   ],
   [
     "wf_proto_trg_at_given_time",
-    "Causante WIRED Arcaico: a la hora indicada",
+    "Causante WIRED Arcaico: en el momento indicado",
     "wf_proto_trg_at_given_time desc"
   ],
   [
