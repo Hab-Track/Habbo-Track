@@ -33438,7 +33438,7 @@
       },
       {
         "code": "clothing_aishahat",
-        "name": "clothing_aishahat name",
+        "name": "Boné Aisha",
         "description": "clothing_aishahat desc"
       },
       {
@@ -33518,7 +33518,7 @@
       },
       {
         "code": "clothing_autumnberet",
-        "name": "clothing_autumnberet name",
+        "name": "Boina de Outono",
         "description": "clothing_autumnberet desc"
       },
       {
@@ -34658,7 +34658,7 @@
       },
       {
         "code": "clothing_cybunnyhat",
-        "name": "clothing_cybunnyhat name",
+        "name": "Boné Ciber Coelhinho",
         "description": "clothing_cybunnyhat desc"
       },
       {
@@ -35233,7 +35233,7 @@
       },
       {
         "code": "clothing_eyriehat",
-        "name": "clothing_eyriehat name",
+        "name": "Boné Eyrie",
         "description": "clothing_eyriehat desc"
       },
       {
@@ -36273,7 +36273,7 @@
       },
       {
         "code": "clothing_kougrahat",
-        "name": "clothing_kougrahat name",
+        "name": "Boné Kougra",
         "description": "clothing_kougrahat desc"
       },
       {
@@ -36603,7 +36603,7 @@
       },
       {
         "code": "clothing_lupehat",
-        "name": "clothing_lupehat name",
+        "name": "Boné Lupe",
         "description": "clothing_lupehat desc"
       },
       {
@@ -37165,6 +37165,11 @@
         "code": "clothing_nftberryshades",
         "name": "Óculos Frutas Vermelhas",
         "description": "clothing_nftberryshades desc"
+      },
+      {
+        "code": "clothing_nftbighorns",
+        "name": "Buzinas Grandes e Básicas",
+        "description": ""
       },
       {
         "code": "clothing_nftbiglollipop",
@@ -38407,6 +38412,11 @@
         "description": "clothing_nftsack desc"
       },
       {
+        "code": "clothing_nftsatyr",
+        "name": "Pernas de Sátiro",
+        "description": ""
+      },
+      {
         "code": "clothing_nftsbboosters",
         "name": "Tênis Espaciais",
         "description": "clothing_nftsbboosters desc"
@@ -38787,6 +38797,11 @@
         "description": "clothing_nftsunflowershorts desc"
       },
       {
+        "code": "clothing_nftswordnshiled",
+        "name": "Espada e Escudo",
+        "description": ""
+      },
+      {
         "code": "clothing_nfttallcrown",
         "name": "Coroa Alta",
         "description": "clothing_nfttallcrown desc"
@@ -38845,6 +38860,11 @@
         "code": "clothing_nftunicornslippers",
         "name": "Pantufa Unicórnio",
         "description": "clothing_nftunicornslippers desc"
+      },
+      {
+        "code": "clothing_nftutility",
+        "name": "Cinto Utilitário com Tiras",
+        "description": ""
       },
       {
         "code": "clothing_nftvalentinesrose",
@@ -38945,6 +38965,31 @@
         "code": "clothing_nftwinterweaves",
         "name": "Penteado Ondulado Branco Invernal",
         "description": "clothing_nftwinterweaves desc"
+      },
+      {
+        "code": "clothing_nftwizardsbeard",
+        "name": "Barba de Mago",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwizardsglasses",
+        "name": "Óculos de Mago",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwizardshaircut",
+        "name": "Penteado de Mago",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwizardshat",
+        "name": "Chapéu de Mago Tradicional",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwizardsrobe",
+        "name": "Túnica de Mago Tradicional",
+        "description": ""
       },
       {
         "code": "clothing_nftxlogo",
@@ -42683,7 +42728,7 @@
       },
       {
         "code": "clothing_shoyruhat",
-        "name": "clothing_shoyruhat name",
+        "name": "Boné Shoyru",
         "description": "clothing_shoyruhat desc"
       },
       {
@@ -50728,7 +50773,7 @@
       },
       {
         "code": "ducket_c25_autumnconsoletable",
-        "name": "ducket_c25_autumnconsoletable name",
+        "name": "Aparador Baixo",
         "description": "ducket_c25_autumnconsoletable desc"
       },
       {
@@ -50748,12 +50793,12 @@
       },
       {
         "code": "ducket_c25_autumnpod",
-        "name": "ducket_c25_autumnpod name",
+        "name": "Cápsula de Bolota",
         "description": "ducket_c25_autumnpod desc"
       },
       {
         "code": "ducket_c25_autumnrug",
-        "name": "ducket_c25_autumnrug name",
+        "name": "Tapete Aconchegante de Outono",
         "description": "ducket_c25_autumnrug desc"
       },
       {
@@ -55085,6 +55130,16 @@
         "code": "fantasy_c22_wood",
         "name": "Pilha de Gravetos",
         "description": "fantasy_c22_wood desc"
+      },
+      {
+        "code": "fantasy_c25_broom",
+        "name": "Vassoura Fantástica",
+        "description": ""
+      },
+      {
+        "code": "fantasy_c25_bubble",
+        "name": "Bolha Fantástica",
+        "description": ""
       },
       {
         "code": "fantasy_ltd22_dragon_bd",
@@ -73758,252 +73813,252 @@
       },
       {
         "code": "neopets_c25_aisha1",
-        "name": "neopets_c25_aisha1 name",
+        "name": "Aisha",
         "description": "neopets_c25_aisha1 desc"
       },
       {
         "code": "neopets_c25_aisha2",
-        "name": "neopets_c25_aisha2 name",
+        "name": "Aisha Mutante",
         "description": "neopets_c25_aisha2 desc"
       },
       {
         "code": "neopets_c25_aisha3",
-        "name": "neopets_c25_aisha3 name",
+        "name": "Aisha Pirata",
         "description": "neopets_c25_aisha3 desc"
       },
       {
         "code": "neopets_c25_babaa",
-        "name": "neopets_c25_babaa name",
+        "name": "Babaa Petpet",
         "description": "neopets_c25_babaa desc"
       },
       {
         "code": "neopets_c25_background",
-        "name": "neopets_c25_background name",
+        "name": "Neopia Central",
         "description": "neopets_c25_background desc"
       },
       {
         "code": "neopets_c25_bush",
-        "name": "neopets_c25_bush name",
+        "name": "Arbusto Neopets",
         "description": "neopets_c25_bush desc"
       },
       {
         "code": "neopets_c25_cirrus",
-        "name": "neopets_c25_cirrus name",
+        "name": "Cirrus Petpet",
         "description": "neopets_c25_cirrus desc"
       },
       {
         "code": "neopets_c25_crackableegg",
-        "name": "neopets_c25_crackableegg name",
+        "name": "Ovo Neopets",
         "description": "neopets_c25_crackableegg desc"
       },
       {
         "code": "neopets_c25_crackableeggb",
-        "name": "neopets_c25_crackableeggb name",
+        "name": "Ovo Neopets",
         "description": "neopets_c25_crackableeggb desc"
       },
       {
         "code": "neopets_c25_cybunny1",
-        "name": "neopets_c25_cybunny1 name",
+        "name": "Cybunny",
         "description": "neopets_c25_cybunny1 desc"
       },
       {
         "code": "neopets_c25_cybunny2",
-        "name": "neopets_c25_cybunny2 name",
+        "name": "Cybunny Morango",
         "description": "neopets_c25_cybunny2 desc"
       },
       {
         "code": "neopets_c25_cybunny3",
-        "name": "neopets_c25_cybunny3 name",
+        "name": "Cybunny Furtivo",
         "description": "neopets_c25_cybunny3 desc"
       },
       {
         "code": "neopets_c25_doughnutfruit1",
-        "name": "neopets_c25_doughnutfruit1 name",
+        "name": "Frutidonut Amarelo",
         "description": "neopets_c25_doughnutfruit1 desc"
       },
       {
         "code": "neopets_c25_doughnutfruit2",
-        "name": "neopets_c25_doughnutfruit2 name",
+        "name": "Frutidonut Azul",
         "description": "neopets_c25_doughnutfruit2 desc"
       },
       {
         "code": "neopets_c25_doughnutfruit3",
-        "name": "neopets_c25_doughnutfruit3 name",
+        "name": "Frutidonut Verde",
         "description": "neopets_c25_doughnutfruit3 desc"
       },
       {
         "code": "neopets_c25_doughnutfruit4",
-        "name": "neopets_c25_doughnutfruit4 name",
+        "name": "Frutidonut Dourado",
         "description": "neopets_c25_doughnutfruit4 desc"
       },
       {
         "code": "neopets_c25_doughnutfruit5",
-        "name": "neopets_c25_doughnutfruit5 name",
+        "name": "Frutidonut Gelado",
         "description": "neopets_c25_doughnutfruit5 desc"
       },
       {
         "code": "neopets_c25_doughnutfruit6",
-        "name": "neopets_c25_doughnutfruit6 name",
+        "name": "Frutidonut Peixe",
         "description": "neopets_c25_doughnutfruit6 desc"
       },
       {
         "code": "neopets_c25_esophagor",
-        "name": "neopets_c25_esophagor name",
+        "name": "Esophagor Neopets",
         "description": "neopets_c25_esophagor desc"
       },
       {
         "code": "neopets_c25_eyrie1",
-        "name": "neopets_c25_eyrie1 name",
+        "name": "Eyrie",
         "description": "neopets_c25_eyrie1 desc"
       },
       {
         "code": "neopets_c25_eyrie2",
-        "name": "neopets_c25_eyrie2 name",
+        "name": "Eyrie Biscoito",
         "description": "neopets_c25_eyrie2 desc"
       },
       {
         "code": "neopets_c25_eyrie3",
-        "name": "neopets_c25_eyrie3 name",
+        "name": "Eyrie Arco-íris",
         "description": "neopets_c25_eyrie3 desc"
       },
       {
         "code": "neopets_c25_faeriesceptre",
-        "name": "neopets_c25_faeriesceptre name",
+        "name": "Cetro da Rainha Fyora",
         "description": "neopets_c25_faeriesceptre desc"
       },
       {
         "code": "neopets_c25_fishberry",
-        "name": "neopets_c25_fishberry name",
+        "name": "Frutipex",
         "description": "neopets_c25_fishberry desc"
       },
       {
         "code": "neopets_c25_grass",
-        "name": "neopets_c25_grass name",
+        "name": "Grama Neopets",
         "description": "neopets_c25_grass desc"
       },
       {
         "code": "neopets_c25_grassplaza",
-        "name": "neopets_c25_grassplaza name",
+        "name": "Grama da Praça Neopets",
         "description": "neopets_c25_grassplaza desc"
       },
       {
         "code": "neopets_c25_greypoogle",
-        "name": "neopets_c25_greypoogle name",
+        "name": "Poogle Neopet Cinza",
         "description": "neopets_c25_greypoogle desc"
       },
       {
         "code": "neopets_c25_jumbleberry",
-        "name": "neopets_c25_jumbleberry name",
+        "name": "Frutimix",
         "description": "neopets_c25_jumbleberry desc"
       },
       {
         "code": "neopets_c25_kougra1",
-        "name": "neopets_c25_kougra1 name",
+        "name": "Kougra",
         "description": "neopets_c25_kougra1 desc"
       },
       {
         "code": "neopets_c25_kougra2",
-        "name": "neopets_c25_kougra2 name",
+        "name": "Kougra de Pelúcia",
         "description": "neopets_c25_kougra2 desc"
       },
       {
         "code": "neopets_c25_kougra3",
-        "name": "neopets_c25_kougra3 name",
+        "name": "Kougra Tigresa",
         "description": "neopets_c25_kougra3 desc"
       },
       {
         "code": "neopets_c25_loveberry",
-        "name": "neopets_c25_loveberry name",
+        "name": "Frutilove",
         "description": "neopets_c25_loveberry desc"
       },
       {
         "code": "neopets_c25_lupe1",
-        "name": "neopets_c25_lupe1 name",
+        "name": "Lupe",
         "description": "neopets_c25_lupe1 desc"
       },
       {
         "code": "neopets_c25_lupe2",
-        "name": "neopets_c25_lupe2 name",
+        "name": "Lupe Chocolate",
         "description": "neopets_c25_lupe2 desc"
       },
       {
         "code": "neopets_c25_lupe3",
-        "name": "neopets_c25_lupe3 name",
+        "name": "Lupe Darigan",
         "description": "neopets_c25_lupe3 desc"
       },
       {
         "code": "neopets_c25_moneytree",
-        "name": "neopets_c25_moneytree name",
+        "name": "Árvore de Dinheiro Neopets",
         "description": "neopets_c25_moneytree desc"
       },
       {
         "code": "neopets_c25_neopoints",
-        "name": "neopets_c25_neopoints name",
+        "name": "Saco de Neo Points",
         "description": "neopets_c25_neopoints desc"
       },
       {
         "code": "neopets_c25_paintbrushes",
-        "name": "neopets_c25_paintbrushes name",
+        "name": "Pincel Neopets",
         "description": "neopets_c25_paintbrushes desc"
       },
       {
         "code": "neopets_c25_rainbowpool",
-        "name": "neopets_c25_rainbowpool name",
+        "name": "Piscina Arco-íris Neopets",
         "description": "neopets_c25_rainbowpool desc"
       },
       {
         "code": "neopets_c25_road",
-        "name": "neopets_c25_road name",
+        "name": "Estrada Neopets",
         "description": "neopets_c25_road desc"
       },
       {
         "code": "neopets_c25_royalpaintbrush",
-        "name": "neopets_c25_royalpaintbrush name",
+        "name": "Pincel Real",
         "description": "neopets_c25_royalpaintbrush desc"
       },
       {
         "code": "neopets_c25_shoyru1",
-        "name": "neopets_c25_shoyru1 name",
+        "name": "Shoyru",
         "description": "neopets_c25_shoyru1 desc"
       },
       {
         "code": "neopets_c25_shoyru2",
-        "name": "neopets_c25_shoyru2 name",
+        "name": "Shoyru Robô",
         "description": "neopets_c25_shoyru2 desc"
       },
       {
         "code": "neopets_c25_shoyru3",
-        "name": "neopets_c25_shoyru3 name",
+        "name": "Shoyru Halloween",
         "description": "neopets_c25_shoyru3 desc"
       },
       {
         "code": "neopets_c25_sign",
-        "name": "neopets_c25_sign name",
+        "name": "Placa do Neopets",
         "description": "neopets_c25_sign desc"
       },
       {
         "code": "neopets_c25_sniddberry",
-        "name": "neopets_c25_sniddberry name",
+        "name": "Frutinni",
         "description": "neopets_c25_sniddberry desc"
       },
       {
         "code": "neopets_c25_spruce",
-        "name": "neopets_c25_spruce name",
+        "name": "Abeto Neopets",
         "description": "neopets_c25_spruce desc"
       },
       {
         "code": "neopets_c25_tcheafruit",
-        "name": "neopets_c25_tcheafruit name",
+        "name": "Fruta Tchéa",
         "description": "neopets_c25_tcheafruit desc"
       },
       {
         "code": "neopets_c25_unguberry",
-        "name": "neopets_c25_unguberry name",
+        "name": "Frutungu",
         "description": "neopets_c25_unguberry desc"
       },
       {
         "code": "neopets_c25_voidberry",
-        "name": "neopets_c25_voidberry name",
+        "name": "Frutivácuo",
         "description": "neopets_c25_voidberry desc"
       },
       {
@@ -79163,7 +79218,7 @@
       },
       {
         "code": "nft_h25_bronzesword",
-        "name": "nft_h25_bronzesword name",
+        "name": "Espada de Bronze",
         "description": "nft_h25_bronzesword desc"
       },
       {
@@ -79342,6 +79397,11 @@
         "description": "nft_h25_gnomeofdoom desc"
       },
       {
+        "code": "nft_h25_goblin",
+        "name": "Guerreiro Goblin",
+        "description": ""
+      },
+      {
         "code": "nft_h25_goldanvaward",
         "name": "Placa de Ouro do 4º Aniversário",
         "description": "nft_h25_goldanvaward desc"
@@ -79358,7 +79418,7 @@
       },
       {
         "code": "nft_h25_goldsword",
-        "name": "nft_h25_goldsword name",
+        "name": "Espada de Ouro",
         "description": "nft_h25_goldsword desc"
       },
       {
@@ -79380,6 +79440,11 @@
         "code": "nft_h25_hcsohva2",
         "name": "Sofá Trono Creme",
         "description": "nft_h25_hcsohva2 desc"
+      },
+      {
+        "code": "nft_h25_magiccauldron",
+        "name": "Caldeirão Mágico",
+        "description": ""
       },
       {
         "code": "nft_h25_monkeybzn_chair",
@@ -79463,7 +79528,7 @@
       },
       {
         "code": "nft_h25_silversword",
-        "name": "nft_h25_silversword name",
+        "name": "Espada de Prata",
         "description": "nft_h25_silversword desc"
       },
       {
@@ -79593,7 +79658,7 @@
       },
       {
         "code": "nft_h25_trippysword",
-        "name": "nft_h25_trippysword name",
+        "name": "Espada Trippy",
         "description": "nft_h25_trippysword desc"
       },
       {
