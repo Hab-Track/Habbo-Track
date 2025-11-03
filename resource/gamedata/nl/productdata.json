@@ -32457,9 +32457,24 @@
         "description": "classic9_wall desc"
       },
       {
+        "code": "cloth_r25_illusenwings_bd",
+        "name": "Illusen Feeën Vleugels",
+        "description": ""
+      },
+      {
         "code": "cloth_r25_mushroomcape_bd",
         "name": "Mushroom Cape",
         "description": "clothing_r25_mushroomcape desc"
+      },
+      {
+        "code": "cloth_r25_queenfyora_bd",
+        "name": "Koningin Fyora´s Accessoires",
+        "description": ""
+      },
+      {
+        "code": "cloth_r25_yellowaisha_bd",
+        "name": "Geel Asha Vriendje",
+        "description": ""
       },
       {
         "code": "clothing_22_bohonecklace",
@@ -37479,7 +37494,7 @@
       {
         "code": "clothing_nftrockstar",
         "name": "Rockster Gitaar",
-        "description": ""
+        "description": "clothing_nftrockstar desc"
       },
       {
         "code": "clothing_nftroundshades0",
@@ -37909,7 +37924,7 @@
       {
         "code": "clothing_nftswordnshiled",
         "name": "Zwaard en Schild",
-        "description": ""
+        "description": "clothing_nftswordnshiled desc"
       },
       {
         "code": "clothing_nfttallcrown",
@@ -41348,7 +41363,7 @@
       },
       {
         "code": "clothing_r25_illusenwings",
-        "name": "clothing_r25_illusenwings name",
+        "name": "Illusen Feeën Vleugels",
         "description": "clothing_r25_illusenwings desc"
       },
       {
@@ -41403,7 +41418,7 @@
       },
       {
         "code": "clothing_r25_queenfyora",
-        "name": "clothing_r25_queenfyora name",
+        "name": "Koningin Fyora´s Accessoires",
         "description": "clothing_r25_queenfyora desc"
       },
       {
@@ -41468,7 +41483,7 @@
       },
       {
         "code": "clothing_r25_yellowaisha",
-        "name": "clothing_r25_yellowaisha name",
+        "name": "Geel Asha Vriendje",
         "description": "clothing_r25_yellowaisha desc"
       },
       {
@@ -67117,6 +67132,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_449",
+        "name": "Neopets Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -73612,6 +73632,11 @@
         "description": "neonpunk_c20_wall desc"
       },
       {
+        "code": "neop_r25_neopetsarcade_bd",
+        "name": "Neopets Arcade Game",
+        "description": ""
+      },
+      {
         "code": "neopets25_prize",
         "name": "Neopets Quest Prize",
         "description": ""
@@ -73868,7 +73893,7 @@
       },
       {
         "code": "neopets_r25_neopetsarcade",
-        "name": "neopets_r25_neopetsarcade name",
+        "name": "Neopets Arcade Game",
         "description": "neopets_r25_neopetsarcade desc"
       },
       {
@@ -88382,6 +88407,11 @@
         "description": ""
       },
       {
+        "code": "rare_col_shishilamp_2_bd",
+        "name": "Lichtgrijze Vuurleeuw",
+        "description": ""
+      },
+      {
         "code": "rare_colourable_barrier*3",
         "name": "Turquoise Wegversperring",
         "description": ""
@@ -88853,7 +88883,7 @@
       },
       {
         "code": "rare_colourable_shishilamp_2",
-        "name": "rare_colourable_shishilamp_2 name",
+        "name": "Lichtgrijze Vuurleeuw",
         "description": "rare_colourable_shishilamp_2 desc"
       },
       {
@@ -100285,6 +100315,21 @@
         "code": "rotating_roomdeal448",
         "name": "Schuilplaats om te Overleven Bundel",
         "description": "Perfect om te verstoppen voor zombies en...ja dat is het eigenlijk. (Slechts 98% zombie veilig)"
+      },
+      {
+        "code": "rotating_roomdeal449_10c",
+        "name": "Neopets Bundel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal449_d",
+        "name": "Neopets Bundel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal449",
+        "name": "Neopets Bundel",
+        "description": "De Neopets zijn in Habbo te vinden en deze kamer is klaar om zo snel mogelijk door jullie bewoond te worden!"
       },
       {
         "code": "rotating_roomdeal44_10c",

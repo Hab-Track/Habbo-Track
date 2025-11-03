@@ -32740,9 +32740,24 @@
     "classic9_wall desc"
   ],
   [
+    "cloth_r25_illusenwings_bd",
+    "Illusen Feenflügel",
+    ""
+  ],
+  [
     "cloth_r25_mushroomcape_bd",
     "Mushroom Cape",
     "clothing_r25_mushroomcape desc"
+  ],
+  [
+    "cloth_r25_queenfyora_bd",
+    "Queen Fyora Accessoires",
+    ""
+  ],
+  [
+    "cloth_r25_yellowaisha_bd",
+    "Gelber Aisha-Gefährte",
+    ""
   ],
   [
     "clothing_22_bohonecklace",
@@ -32841,7 +32856,7 @@
   ],
   [
     "clothing_aishahat",
-    "clothing_aishahat name",
+    "Aisha-Käppi",
     "clothing_aishahat desc"
   ],
   [
@@ -32921,7 +32936,7 @@
   ],
   [
     "clothing_autumnberet",
-    "clothing_autumnberet name",
+    "Herbstliche Baskenmütze",
     "clothing_autumnberet desc"
   ],
   [
@@ -34051,7 +34066,7 @@
   ],
   [
     "clothing_cybunnyhat",
-    "clothing_cybunnyhat name",
+    "Cybunny-Käppi",
     "clothing_cybunnyhat desc"
   ],
   [
@@ -34626,7 +34641,7 @@
   ],
   [
     "clothing_eyriehat",
-    "clothing_eyriehat name",
+    "Eyrie-Käppi",
     "clothing_eyriehat desc"
   ],
   [
@@ -35666,7 +35681,7 @@
   ],
   [
     "clothing_kougrahat",
-    "clothing_kougrahat name",
+    "Kougra-Käppi",
     "clothing_kougrahat desc"
   ],
   [
@@ -35986,7 +36001,7 @@
   ],
   [
     "clothing_lupehat",
-    "clothing_lupehat name",
+    "Lupe-Käppi",
     "clothing_lupehat desc"
   ],
   [
@@ -36548,6 +36563,11 @@
     "clothing_nftberryshades",
     "Beeren-Sonnenbrille",
     "clothing_nftberryshades desc"
+  ],
+  [
+    "clothing_nftbighorns",
+    "Grosse einfache Hörner",
+    ""
   ],
   [
     "clothing_nftbiglollipop",
@@ -37747,7 +37767,7 @@
   [
     "clothing_nftrockstar",
     "Rockstar-Gitarre",
-    ""
+    "clothing_nftrockstar desc"
   ],
   [
     "clothing_nftroundshades0",
@@ -37788,6 +37808,11 @@
     "clothing_nftsack",
     "Rasta Santas Geschenkebeutel",
     "clothing_nftsack desc"
+  ],
+  [
+    "clothing_nftsatyr",
+    "Satyr-Beine",
+    ""
   ],
   [
     "clothing_nftsbboosters",
@@ -38170,6 +38195,11 @@
     "clothing_nftsunflowershorts desc"
   ],
   [
+    "clothing_nftswordnshiled",
+    "Schwert und Schild",
+    "clothing_nftswordnshiled desc"
+  ],
+  [
     "clothing_nfttallcrown",
     "Hohe Krone",
     "clothing_nfttallcrown desc"
@@ -38228,6 +38258,11 @@
     "clothing_nftunicornslippers",
     "Einhorn-Pantoffeln",
     "clothing_nftunicornslippers desc"
+  ],
+  [
+    "clothing_nftutility",
+    "Werkzeuggürtel mit Riemen",
+    ""
   ],
   [
     "clothing_nftvalentinesrose",
@@ -38328,6 +38363,31 @@
     "clothing_nftwinterweaves",
     "Weisse Wintermütze",
     "clothing_nftwinterweaves desc"
+  ],
+  [
+    "clothing_nftwizardsbeard",
+    "Zauberer-Bart",
+    ""
+  ],
+  [
+    "clothing_nftwizardsglasses",
+    "Zauberer-Brille",
+    ""
+  ],
+  [
+    "clothing_nftwizardshaircut",
+    "Zauberer-Frisur",
+    ""
+  ],
+  [
+    "clothing_nftwizardshat",
+    "Traditioneller Zaubererhut",
+    ""
+  ],
+  [
+    "clothing_nftwizardsrobe",
+    "Traditionelles Zauberergewand",
+    ""
   ],
   [
     "clothing_nftxlogo",
@@ -41576,7 +41636,7 @@
   ],
   [
     "clothing_r25_illusenwings",
-    "clothing_r25_illusenwings name",
+    "Illusen Feenflügel",
     "clothing_r25_illusenwings desc"
   ],
   [
@@ -41631,7 +41691,7 @@
   ],
   [
     "clothing_r25_queenfyora",
-    "clothing_r25_queenfyora name",
+    "Queen Fyora Accessoires",
     "clothing_r25_queenfyora desc"
   ],
   [
@@ -41696,7 +41756,7 @@
   ],
   [
     "clothing_r25_yellowaisha",
-    "clothing_r25_yellowaisha name",
+    "Gelber Aisha-Gefährte",
     "clothing_r25_yellowaisha desc"
   ],
   [
@@ -42066,7 +42126,7 @@
   ],
   [
     "clothing_shoyruhat",
-    "clothing_shoyruhat name",
+    "Shoyru-Käppi",
     "clothing_shoyruhat desc"
   ],
   [
@@ -49841,7 +49901,7 @@
   ],
   [
     "ducket_c25_autumnconsoletable",
-    "ducket_c25_autumnconsoletable name",
+    "Flacher Konsolentisch",
     "ducket_c25_autumnconsoletable desc"
   ],
   [
@@ -49861,12 +49921,12 @@
   ],
   [
     "ducket_c25_autumnpod",
-    "ducket_c25_autumnpod name",
+    "Eichelschaukel",
     "ducket_c25_autumnpod desc"
   ],
   [
     "ducket_c25_autumnrug",
-    "ducket_c25_autumnrug name",
+    "Kleiner herbstlicher Teppich",
     "ducket_c25_autumnrug desc"
   ],
   [
@@ -54113,6 +54173,11 @@
     "fantasy_c22_wood",
     "Asthäufchen",
     "fantasy_c22_wood desc"
+  ],
+  [
+    "fantasy_c25_broom",
+    "Fantasy-Besen",
+    ""
   ],
   [
     "fantasy_c25_bubble",
@@ -66340,6 +66405,11 @@
     ""
   ],
   [
+    "in_app_bundle_449",
+    "Neopets Bundle",
+    ""
+  ],
+  [
     "in_app_bundle_47",
     "Frosty Winter Castle",
     ""
@@ -72840,263 +72910,268 @@
     "neonpunk_c20_wall desc"
   ],
   [
+    "neop_r25_neopetsarcade_bd",
+    "Neopets Arcade-Spiel",
+    ""
+  ],
+  [
     "neopets25_prize",
     "Neopets Quest Prize",
     ""
   ],
   [
     "neopets_c25_aisha1",
-    "neopets_c25_aisha1 name",
+    "Aisha",
     "neopets_c25_aisha1 desc"
   ],
   [
     "neopets_c25_aisha2",
-    "neopets_c25_aisha2 name",
+    "Mutante Aisha",
     "neopets_c25_aisha2 desc"
   ],
   [
     "neopets_c25_aisha3",
-    "neopets_c25_aisha3 name",
+    "Piraten-Aisha",
     "neopets_c25_aisha3 desc"
   ],
   [
     "neopets_c25_babaa",
-    "neopets_c25_babaa name",
+    "Babaa Petpet",
     "neopets_c25_babaa desc"
   ],
   [
     "neopets_c25_background",
-    "neopets_c25_background name",
+    "Neopia Central",
     "neopets_c25_background desc"
   ],
   [
     "neopets_c25_bush",
-    "neopets_c25_bush name",
+    "Neopets Strauch",
     "neopets_c25_bush desc"
   ],
   [
     "neopets_c25_cirrus",
-    "neopets_c25_cirrus name",
+    "Cirrus Petpet",
     "neopets_c25_cirrus desc"
   ],
   [
     "neopets_c25_crackableegg",
-    "neopets_c25_crackableegg name",
+    "Neopets-Ei",
     "neopets_c25_crackableegg desc"
   ],
   [
     "neopets_c25_crackableeggb",
-    "neopets_c25_crackableeggb name",
+    "Neopets-Ei",
     "neopets_c25_crackableeggb desc"
   ],
   [
     "neopets_c25_cybunny1",
-    "neopets_c25_cybunny1 name",
+    "Cybunny",
     "neopets_c25_cybunny1 desc"
   ],
   [
     "neopets_c25_cybunny2",
-    "neopets_c25_cybunny2 name",
+    "Erdbeer-Cybunny",
     "neopets_c25_cybunny2 desc"
   ],
   [
     "neopets_c25_cybunny3",
-    "neopets_c25_cybunny3 name",
+    "Stealthy Cybunny",
     "neopets_c25_cybunny3 desc"
   ],
   [
     "neopets_c25_doughnutfruit1",
-    "neopets_c25_doughnutfruit1 name",
+    "Gelbe Doughnut-Frucht",
     "neopets_c25_doughnutfruit1 desc"
   ],
   [
     "neopets_c25_doughnutfruit2",
-    "neopets_c25_doughnutfruit2 name",
+    "Blaue Doughnut-Frucht",
     "neopets_c25_doughnutfruit2 desc"
   ],
   [
     "neopets_c25_doughnutfruit3",
-    "neopets_c25_doughnutfruit3 name",
+    "Grüne Doughnut-Frucht",
     "neopets_c25_doughnutfruit3 desc"
   ],
   [
     "neopets_c25_doughnutfruit4",
-    "neopets_c25_doughnutfruit4 name",
+    "Goldene Doughnut-Frucht",
     "neopets_c25_doughnutfruit4 desc"
   ],
   [
     "neopets_c25_doughnutfruit5",
-    "neopets_c25_doughnutfruit5 name",
+    "Eisige Doughnut-Frucht",
     "neopets_c25_doughnutfruit5 desc"
   ],
   [
     "neopets_c25_doughnutfruit6",
-    "neopets_c25_doughnutfruit6 name",
+    "Fisch Doughnut-Frucht",
     "neopets_c25_doughnutfruit6 desc"
   ],
   [
     "neopets_c25_esophagor",
-    "neopets_c25_esophagor name",
+    "Neopets Esophagor",
     "neopets_c25_esophagor desc"
   ],
   [
     "neopets_c25_eyrie1",
-    "neopets_c25_eyrie1 name",
+    "Eyrie",
     "neopets_c25_eyrie1 desc"
   ],
   [
     "neopets_c25_eyrie2",
-    "neopets_c25_eyrie2 name",
+    "Biscuit Eyrie",
     "neopets_c25_eyrie2 desc"
   ],
   [
     "neopets_c25_eyrie3",
-    "neopets_c25_eyrie3 name",
+    "Rainbow Eyrie",
     "neopets_c25_eyrie3 desc"
   ],
   [
     "neopets_c25_faeriesceptre",
-    "neopets_c25_faeriesceptre name",
+    "Queen Fyoras Stab",
     "neopets_c25_faeriesceptre desc"
   ],
   [
     "neopets_c25_fishberry",
-    "neopets_c25_fishberry name",
+    "Fischbeere",
     "neopets_c25_fishberry desc"
   ],
   [
     "neopets_c25_grass",
-    "neopets_c25_grass name",
+    "Neopets Rasen",
     "neopets_c25_grass desc"
   ],
   [
     "neopets_c25_grassplaza",
-    "neopets_c25_grassplaza name",
+    "Neopets Plaza Rasen",
     "neopets_c25_grassplaza desc"
   ],
   [
     "neopets_c25_greypoogle",
-    "neopets_c25_greypoogle name",
+    "Graues Poogle-Neopet",
     "neopets_c25_greypoogle desc"
   ],
   [
     "neopets_c25_jumbleberry",
-    "neopets_c25_jumbleberry name",
+    "Jumblebeere",
     "neopets_c25_jumbleberry desc"
   ],
   [
     "neopets_c25_kougra1",
-    "neopets_c25_kougra1 name",
+    "Kougra",
     "neopets_c25_kougra1 desc"
   ],
   [
     "neopets_c25_kougra2",
-    "neopets_c25_kougra2 name",
+    "Plüsch-Kougra",
     "neopets_c25_kougra2 desc"
   ],
   [
     "neopets_c25_kougra3",
-    "neopets_c25_kougra3 name",
+    "Tyrannische Kougra",
     "neopets_c25_kougra3 desc"
   ],
   [
     "neopets_c25_loveberry",
-    "neopets_c25_loveberry name",
+    "Liebesbeere",
     "neopets_c25_loveberry desc"
   ],
   [
     "neopets_c25_lupe1",
-    "neopets_c25_lupe1 name",
+    "Lupe",
     "neopets_c25_lupe1 desc"
   ],
   [
     "neopets_c25_lupe2",
-    "neopets_c25_lupe2 name",
+    "Schoko-Lupe",
     "neopets_c25_lupe2 desc"
   ],
   [
     "neopets_c25_lupe3",
-    "neopets_c25_lupe3 name",
+    "Darigan Lupe",
     "neopets_c25_lupe3 desc"
   ],
   [
     "neopets_c25_moneytree",
-    "neopets_c25_moneytree name",
+    "Neopets Money Tree",
     "neopets_c25_moneytree desc"
   ],
   [
     "neopets_c25_neopoints",
-    "neopets_c25_neopoints name",
+    "Ein Sack Neopoints",
     "neopets_c25_neopoints desc"
   ],
   [
     "neopets_c25_paintbrushes",
-    "neopets_c25_paintbrushes name",
+    "Neopets Pinsel",
     "neopets_c25_paintbrushes desc"
   ],
   [
     "neopets_c25_rainbowpool",
-    "neopets_c25_rainbowpool name",
+    "Neopets Regenbogen Pool",
     "neopets_c25_rainbowpool desc"
   ],
   [
     "neopets_c25_road",
-    "neopets_c25_road name",
+    "Neopets Strasse",
     "neopets_c25_road desc"
   ],
   [
     "neopets_c25_royalpaintbrush",
-    "neopets_c25_royalpaintbrush name",
+    "Königlicher Pinsel",
     "neopets_c25_royalpaintbrush desc"
   ],
   [
     "neopets_c25_shoyru1",
-    "neopets_c25_shoyru1 name",
+    "Shoyru",
     "neopets_c25_shoyru1 desc"
   ],
   [
     "neopets_c25_shoyru2",
-    "neopets_c25_shoyru2 name",
+    "Robot Shoyru",
     "neopets_c25_shoyru2 desc"
   ],
   [
     "neopets_c25_shoyru3",
-    "neopets_c25_shoyru3 name",
+    "Halloween Shoyru",
     "neopets_c25_shoyru3 desc"
   ],
   [
     "neopets_c25_sign",
-    "neopets_c25_sign name",
+    "Neopets-Schild",
     "neopets_c25_sign desc"
   ],
   [
     "neopets_c25_sniddberry",
-    "neopets_c25_sniddberry name",
+    "Sniddbeere",
     "neopets_c25_sniddberry desc"
   ],
   [
     "neopets_c25_spruce",
-    "neopets_c25_spruce name",
+    "Neopets Fichte",
     "neopets_c25_spruce desc"
   ],
   [
     "neopets_c25_tcheafruit",
-    "neopets_c25_tcheafruit name",
+    "Tchea-Frucht",
     "neopets_c25_tcheafruit desc"
   ],
   [
     "neopets_c25_unguberry",
-    "neopets_c25_unguberry name",
+    "Ungubeere",
     "neopets_c25_unguberry desc"
   ],
   [
     "neopets_c25_voidberry",
-    "neopets_c25_voidberry name",
+    "Leerbeere",
     "neopets_c25_voidberry desc"
   ],
   [
     "neopets_r25_neopetsarcade",
-    "neopets_r25_neopetsarcade name",
+    "Neopets Arcade-Spiel",
     "neopets_r25_neopetsarcade desc"
   ],
   [
@@ -78206,7 +78281,7 @@
   ],
   [
     "nft_h25_bronzesword",
-    "nft_h25_bronzesword name",
+    "Bronze-Schwert",
     "nft_h25_bronzesword desc"
   ],
   [
@@ -78385,6 +78460,11 @@
     "nft_h25_gnomeofdoom desc"
   ],
   [
+    "nft_h25_goblin",
+    "Goblin Warrior",
+    ""
+  ],
+  [
     "nft_h25_goldanvaward",
     "Gold 4.Geburtstags-Plakette",
     "nft_h25_goldanvaward desc"
@@ -78401,7 +78481,7 @@
   ],
   [
     "nft_h25_goldsword",
-    "nft_h25_goldsword name",
+    "Gold-Schwert",
     "nft_h25_goldsword desc"
   ],
   [
@@ -78423,6 +78503,11 @@
     "nft_h25_hcsohva2",
     "Cremefarbenes Antikes Clubsofa",
     "nft_h25_hcsohva2 desc"
+  ],
+  [
+    "nft_h25_magiccauldron",
+    "Zauberkessel",
+    ""
   ],
   [
     "nft_h25_monkeybzn_chair",
@@ -78506,7 +78591,7 @@
   ],
   [
     "nft_h25_silversword",
-    "nft_h25_silversword name",
+    "Silber-Schwert",
     "nft_h25_silversword desc"
   ],
   [
@@ -78636,7 +78721,7 @@
   ],
   [
     "nft_h25_trippysword",
-    "nft_h25_trippysword name",
+    "Trippy Schwert",
     "nft_h25_trippysword desc"
   ],
   [
@@ -87610,6 +87695,11 @@
     ""
   ],
   [
+    "rare_col_shishilamp_2_bd",
+    "Helle blaugraue Shishi-Lampe",
+    ""
+  ],
+  [
     "rare_colourable_barrier*3",
     "Blaugrüne Straßensperre",
     ""
@@ -88081,7 +88171,7 @@
   ],
   [
     "rare_colourable_shishilamp_2",
-    "rare_colourable_shishilamp_2 name",
+    "Helle blaugraue Shishi-Lampe",
     "rare_colourable_shishilamp_2 desc"
   ],
   [
@@ -99488,6 +99578,21 @@
     "rotating_roomdeal448",
     "Notunterschlupf-Bündel",
     "Ideal, um den Angriff der Zombies zu überleben und.. naja das war's. (Nur 98% Zombie-dicht)"
+  ],
+  [
+    "rotating_roomdeal449_10c",
+    "Neopets-Bündel",
+    ""
+  ],
+  [
+    "rotating_roomdeal449_d",
+    "Neopets-Bündel",
+    ""
+  ],
+  [
+    "rotating_roomdeal449",
+    "Neopets-Bündel",
+    "Die Neopets sind bei Habbo, und dieser Raum ist fertig, damit ihr alle SO BALD WIE MÖGLICH einzieht!"
   ],
   [
     "rotating_roomdeal44_10c",

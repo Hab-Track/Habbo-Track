@@ -33337,9 +33337,24 @@
         "description": "classic9_wall desc"
       },
       {
+        "code": "cloth_r25_illusenwings_bd",
+        "name": "Asas de Fada Illusen",
+        "description": ""
+      },
+      {
         "code": "cloth_r25_mushroomcape_bd",
         "name": "Mushroom Cape",
         "description": "clothing_r25_mushroomcape desc"
+      },
+      {
+        "code": "cloth_r25_queenfyora_bd",
+        "name": "Acessórios Rainha Fyora",
+        "description": ""
+      },
+      {
+        "code": "cloth_r25_yellowaisha_bd",
+        "name": "Companheira Aisha Amarela",
+        "description": ""
       },
       {
         "code": "clothing_22_bohonecklace",
@@ -38369,7 +38384,7 @@
       {
         "code": "clothing_nftrockstar",
         "name": "Guitarra Rock Star",
-        "description": ""
+        "description": "clothing_nftrockstar desc"
       },
       {
         "code": "clothing_nftroundshades0",
@@ -38799,7 +38814,7 @@
       {
         "code": "clothing_nftswordnshiled",
         "name": "Espada e Escudo",
-        "description": ""
+        "description": "clothing_nftswordnshiled desc"
       },
       {
         "code": "clothing_nfttallcrown",
@@ -42238,7 +42253,7 @@
       },
       {
         "code": "clothing_r25_illusenwings",
-        "name": "clothing_r25_illusenwings name",
+        "name": "Asas de Fada Illusen",
         "description": "clothing_r25_illusenwings desc"
       },
       {
@@ -42293,7 +42308,7 @@
       },
       {
         "code": "clothing_r25_queenfyora",
-        "name": "clothing_r25_queenfyora name",
+        "name": "Acessórios Rainha Fyora",
         "description": "clothing_r25_queenfyora desc"
       },
       {
@@ -42358,7 +42373,7 @@
       },
       {
         "code": "clothing_r25_yellowaisha",
-        "name": "clothing_r25_yellowaisha name",
+        "name": "Companheira Aisha Amarela",
         "description": "clothing_r25_yellowaisha desc"
       },
       {
@@ -67257,6 +67272,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_449",
+        "name": "Neopets Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -73807,6 +73827,11 @@
         "description": "neonpunk_c20_wall desc"
       },
       {
+        "code": "neop_r25_neopetsarcade_bd",
+        "name": "Jogo de Fliperama Neopets",
+        "description": ""
+      },
+      {
         "code": "neopets25_prize",
         "name": "Neopets Quest Prize",
         "description": ""
@@ -74063,7 +74088,7 @@
       },
       {
         "code": "neopets_r25_neopetsarcade",
-        "name": "neopets_r25_neopetsarcade name",
+        "name": "Jogo de Fliperama Neopets",
         "description": "neopets_r25_neopetsarcade desc"
       },
       {
@@ -88542,6 +88567,11 @@
         "description": ""
       },
       {
+        "code": "rare_col_shishilamp_2_bd",
+        "name": "Lâmpada Shishi Azul Claro Cinza",
+        "description": ""
+      },
+      {
         "code": "rare_colourable_barrier*3",
         "name": "Cavalete de Tráfego Água-Marinha",
         "description": ""
@@ -89013,7 +89043,7 @@
       },
       {
         "code": "rare_colourable_shishilamp_2",
-        "name": "rare_colourable_shishilamp_2 name",
+        "name": "Lâmpada Shishi Azul Claro Cinza",
         "description": "rare_colourable_shishilamp_2 desc"
       },
       {
@@ -100430,6 +100460,21 @@
         "code": "rotating_roomdeal448",
         "name": "Pack Refúgio para Sobreviventes",
         "description": "Perfeito para sobreviver a zumbis e... é isso aí. (Apenas 98% à prova de zumbis)"
+      },
+      {
+        "code": "rotating_roomdeal449_10c",
+        "name": "Pack Neopets",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal449_d",
+        "name": "Pack Neopets",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal449",
+        "name": "Pack Neopets",
+        "description": "Os Neopets estão no Habbo e este quarto está pronto para todo mundo se mudar o quanto antes!"
       },
       {
         "code": "rotating_roomdeal44_10c",

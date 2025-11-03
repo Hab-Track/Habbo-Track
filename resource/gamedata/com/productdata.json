@@ -33722,9 +33722,24 @@
         "description": ""
       },
       {
+        "code": "cloth_r25_illusenwings_bd",
+        "name": "Illusen Faerie Wings",
+        "description": ""
+      },
+      {
         "code": "cloth_r25_mushroomcape_bd",
         "name": "Mushroom Cape",
         "description": "clothing_r25_mushroomcape desc"
+      },
+      {
+        "code": "cloth_r25_queenfyora_bd",
+        "name": "Queen Fyora Accessories",
+        "description": ""
+      },
+      {
+        "code": "cloth_r25_yellowaisha_bd",
+        "name": "Yellow Aisha Companion",
+        "description": ""
       },
       {
         "code": "clothing_22_bohonecklace",
@@ -38724,7 +38739,7 @@
       {
         "code": "clothing_nftrockstar",
         "name": "Rock Star Guitar",
-        "description": ""
+        "description": "clothing_nftrockstar desc"
       },
       {
         "code": "clothing_nftroundshades0",
@@ -39154,7 +39169,7 @@
       {
         "code": "clothing_nftswordnshiled",
         "name": "Sword 'n' Shield",
-        "description": ""
+        "description": "clothing_nftswordnshiled desc"
       },
       {
         "code": "clothing_nfttallcrown",
@@ -42593,7 +42608,7 @@
       },
       {
         "code": "clothing_r25_illusenwings",
-        "name": "clothing_r25_illusenwings name",
+        "name": "Illusen Faerie Wings",
         "description": "clothing_r25_illusenwings desc"
       },
       {
@@ -42648,7 +42663,7 @@
       },
       {
         "code": "clothing_r25_queenfyora",
-        "name": "clothing_r25_queenfyora name",
+        "name": "Queen Fyora Accessories",
         "description": "clothing_r25_queenfyora desc"
       },
       {
@@ -42713,7 +42728,7 @@
       },
       {
         "code": "clothing_r25_yellowaisha",
-        "name": "clothing_r25_yellowaisha name",
+        "name": "Yellow Aisha Companion",
         "description": "clothing_r25_yellowaisha desc"
       },
       {
@@ -73557,6 +73572,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_449",
+        "name": "Neopets Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -80337,6 +80357,11 @@
         "description": "neonpunk_c20_wall desc"
       },
       {
+        "code": "neop_r25_neopetsarcade_bd",
+        "name": "Neopets Arcade Game",
+        "description": ""
+      },
+      {
         "code": "neopets25_prize",
         "name": "Neopets Quest Prize",
         "description": ""
@@ -80593,7 +80618,7 @@
       },
       {
         "code": "neopets_r25_neopetsarcade",
-        "name": "neopets_r25_neopetsarcade name",
+        "name": "Neopets Arcade Game",
         "description": "neopets_r25_neopetsarcade desc"
       },
       {
@@ -95167,6 +95192,11 @@
         "description": ""
       },
       {
+        "code": "rare_col_shishilamp_2_bd",
+        "name": "Light Blue Grey Shishi Lamp",
+        "description": ""
+      },
+      {
         "code": "rare_colourable_barrier*3",
         "name": "Teal Road Barrier",
         "description": ""
@@ -95638,7 +95668,7 @@
       },
       {
         "code": "rare_colourable_shishilamp_2",
-        "name": "rare_colourable_shishilamp_2 name",
+        "name": "Light Blue Grey Shishi Lamp",
         "description": "rare_colourable_shishilamp_2 desc"
       },
       {
@@ -107065,6 +107095,21 @@
         "code": "rotating_roomdeal448",
         "name": "Survivor Shelter Bundle",
         "description": "Perfect for surviving zombies and… that's it. (Only 98% zombie-proof)"
+      },
+      {
+        "code": "rotating_roomdeal449_10c",
+        "name": "Neopets Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal449_d",
+        "name": "Neopets Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal449",
+        "name": "Neopets Bundle",
+        "description": "Neopets are in Habbo and this room is ready for all of you to move in ASAP!"
       },
       {
         "code": "rotating_roomdeal44_10c",

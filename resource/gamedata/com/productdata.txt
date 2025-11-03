@@ -33720,9 +33720,24 @@
     ""
   ],
   [
+    "cloth_r25_illusenwings_bd",
+    "Illusen Faerie Wings",
+    ""
+  ],
+  [
     "cloth_r25_mushroomcape_bd",
     "Mushroom Cape",
     "clothing_r25_mushroomcape desc"
+  ],
+  [
+    "cloth_r25_queenfyora_bd",
+    "Queen Fyora Accessories",
+    ""
+  ],
+  [
+    "cloth_r25_yellowaisha_bd",
+    "Yellow Aisha Companion",
+    ""
   ],
   [
     "clothing_22_bohonecklace",
@@ -38722,7 +38737,7 @@
   [
     "clothing_nftrockstar",
     "Rock Star Guitar",
-    ""
+    "clothing_nftrockstar desc"
   ],
   [
     "clothing_nftroundshades0",
@@ -39152,7 +39167,7 @@
   [
     "clothing_nftswordnshiled",
     "Sword 'n' Shield",
-    ""
+    "clothing_nftswordnshiled desc"
   ],
   [
     "clothing_nfttallcrown",
@@ -42591,7 +42606,7 @@
   ],
   [
     "clothing_r25_illusenwings",
-    "clothing_r25_illusenwings name",
+    "Illusen Faerie Wings",
     "clothing_r25_illusenwings desc"
   ],
   [
@@ -42646,7 +42661,7 @@
   ],
   [
     "clothing_r25_queenfyora",
-    "clothing_r25_queenfyora name",
+    "Queen Fyora Accessories",
     "clothing_r25_queenfyora desc"
   ],
   [
@@ -42711,7 +42726,7 @@
   ],
   [
     "clothing_r25_yellowaisha",
-    "clothing_r25_yellowaisha name",
+    "Yellow Aisha Companion",
     "clothing_r25_yellowaisha desc"
   ],
   [
@@ -73555,6 +73570,11 @@
     ""
   ],
   [
+    "in_app_bundle_449",
+    "Neopets Bundle",
+    ""
+  ],
+  [
     "in_app_bundle_47",
     "Frosty Winter Castle",
     ""
@@ -80335,6 +80355,11 @@
     "neonpunk_c20_wall desc"
   ],
   [
+    "neop_r25_neopetsarcade_bd",
+    "Neopets Arcade Game",
+    ""
+  ],
+  [
     "neopets25_prize",
     "Neopets Quest Prize",
     ""
@@ -80591,7 +80616,7 @@
   ],
   [
     "neopets_r25_neopetsarcade",
-    "neopets_r25_neopetsarcade name",
+    "Neopets Arcade Game",
     "neopets_r25_neopetsarcade desc"
   ],
   [
@@ -95165,6 +95190,11 @@
     ""
   ],
   [
+    "rare_col_shishilamp_2_bd",
+    "Light Blue Grey Shishi Lamp",
+    ""
+  ],
+  [
     "rare_colourable_barrier*3",
     "Teal Road Barrier",
     ""
@@ -95636,7 +95666,7 @@
   ],
   [
     "rare_colourable_shishilamp_2",
-    "rare_colourable_shishilamp_2 name",
+    "Light Blue Grey Shishi Lamp",
     "rare_colourable_shishilamp_2 desc"
   ],
   [
@@ -107063,6 +107093,21 @@
     "rotating_roomdeal448",
     "Survivor Shelter Bundle",
     "Perfect for surviving zombies and… that's it. (Only 98% zombie-proof)"
+  ],
+  [
+    "rotating_roomdeal449_10c",
+    "Neopets Bundle",
+    ""
+  ],
+  [
+    "rotating_roomdeal449_d",
+    "Neopets Bundle",
+    ""
+  ],
+  [
+    "rotating_roomdeal449",
+    "Neopets Bundle",
+    "Neopets are in Habbo and this room is ready for all of you to move in ASAP!"
   ],
   [
     "rotating_roomdeal44_10c",

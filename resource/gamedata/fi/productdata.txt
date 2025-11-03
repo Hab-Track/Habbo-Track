@@ -33930,9 +33930,24 @@
     "classic9_wall desc"
   ],
   [
+    "cloth_r25_illusenwings_bd",
+    "Illusen-keijun siivet",
+    ""
+  ],
+  [
     "cloth_r25_mushroomcape_bd",
     "Mushroom Cape",
     "clothing_r25_mushroomcape desc"
+  ],
+  [
+    "cloth_r25_queenfyora_bd",
+    "Kuningatar Fyoran asusteet",
+    ""
+  ],
+  [
+    "cloth_r25_yellowaisha_bd",
+    "Keltainen Aisha-kaveri",
+    ""
   ],
   [
     "clothing_22_bohonecklace",
@@ -34031,7 +34046,7 @@
   ],
   [
     "clothing_aishahat",
-    "clothing_aishahat name",
+    "Aisha-lippis",
     "clothing_aishahat desc"
   ],
   [
@@ -34111,7 +34126,7 @@
   ],
   [
     "clothing_autumnberet",
-    "clothing_autumnberet name",
+    "Syksyinen baskeri",
     "clothing_autumnberet desc"
   ],
   [
@@ -35241,7 +35256,7 @@
   ],
   [
     "clothing_cybunnyhat",
-    "clothing_cybunnyhat name",
+    "Cybunny-lippis",
     "clothing_cybunnyhat desc"
   ],
   [
@@ -35816,7 +35831,7 @@
   ],
   [
     "clothing_eyriehat",
-    "clothing_eyriehat name",
+    "Eyrie-lippis",
     "clothing_eyriehat desc"
   ],
   [
@@ -36856,7 +36871,7 @@
   ],
   [
     "clothing_kougrahat",
-    "clothing_kougrahat name",
+    "Kougra-lippis",
     "clothing_kougrahat desc"
   ],
   [
@@ -37176,7 +37191,7 @@
   ],
   [
     "clothing_lupehat",
-    "clothing_lupehat name",
+    "Lupe-lippis",
     "clothing_lupehat desc"
   ],
   [
@@ -37738,6 +37753,11 @@
     "clothing_nftberryshades",
     "Marja-arskat",
     "clothing_nftberryshades desc"
+  ],
+  [
+    "clothing_nftbighorns",
+    "Isot sarvet",
+    ""
   ],
   [
     "clothing_nftbiglollipop",
@@ -38937,7 +38957,7 @@
   [
     "clothing_nftrockstar",
     "Rokkistaran kitara",
-    ""
+    "clothing_nftrockstar desc"
   ],
   [
     "clothing_nftroundshades0",
@@ -38978,6 +38998,11 @@
     "clothing_nftsack",
     "Rastapukin säkki",
     "clothing_nftsack desc"
+  ],
+  [
+    "clothing_nftsatyr",
+    "Satyyrin koivet",
+    ""
   ],
   [
     "clothing_nftsbboosters",
@@ -39360,6 +39385,11 @@
     "clothing_nftsunflowershorts desc"
   ],
   [
+    "clothing_nftswordnshiled",
+    "Miekka ja kilpi",
+    "clothing_nftswordnshiled desc"
+  ],
+  [
     "clothing_nfttallcrown",
     "Pitkulainen kruunu",
     "clothing_nfttallcrown desc"
@@ -39418,6 +39448,11 @@
     "clothing_nftunicornslippers",
     "Yksisarvistohvelit",
     "clothing_nftunicornslippers desc"
+  ],
+  [
+    "clothing_nftutility",
+    "Hihnallinen apuvälinevyö",
+    ""
   ],
   [
     "clothing_nftvalentinesrose",
@@ -39518,6 +39553,31 @@
     "clothing_nftwinterweaves",
     "Valkoiset talvikutrit",
     "clothing_nftwinterweaves desc"
+  ],
+  [
+    "clothing_nftwizardsbeard",
+    "Velhon parta",
+    ""
+  ],
+  [
+    "clothing_nftwizardsglasses",
+    "Velhon lasit",
+    ""
+  ],
+  [
+    "clothing_nftwizardshaircut",
+    "Velhon kampaus",
+    ""
+  ],
+  [
+    "clothing_nftwizardshat",
+    "Perinteinen velhon hattu",
+    ""
+  ],
+  [
+    "clothing_nftwizardsrobe",
+    "Perinteinen velhon kaapu",
+    ""
   ],
   [
     "clothing_nftxlogo",
@@ -42766,7 +42826,7 @@
   ],
   [
     "clothing_r25_illusenwings",
-    "clothing_r25_illusenwings name",
+    "Illusen-keijun siivet",
     "clothing_r25_illusenwings desc"
   ],
   [
@@ -42821,7 +42881,7 @@
   ],
   [
     "clothing_r25_queenfyora",
-    "clothing_r25_queenfyora name",
+    "Kuningatar Fyoran asusteet",
     "clothing_r25_queenfyora desc"
   ],
   [
@@ -42886,7 +42946,7 @@
   ],
   [
     "clothing_r25_yellowaisha",
-    "clothing_r25_yellowaisha name",
+    "Keltainen Aisha-kaveri",
     "clothing_r25_yellowaisha desc"
   ],
   [
@@ -43256,7 +43316,7 @@
   ],
   [
     "clothing_shoyruhat",
-    "clothing_shoyruhat name",
+    "Shoyru-lippis",
     "clothing_shoyruhat desc"
   ],
   [
@@ -50796,7 +50856,7 @@
   ],
   [
     "ducket_c25_autumnconsoletable",
-    "ducket_c25_autumnconsoletable name",
+    "Matala konsolipöytä",
     "ducket_c25_autumnconsoletable desc"
   ],
   [
@@ -50816,12 +50876,12 @@
   ],
   [
     "ducket_c25_autumnpod",
-    "ducket_c25_autumnpod name",
+    "Tammenterho riipputuoli",
     "ducket_c25_autumnpod desc"
   ],
   [
     "ducket_c25_autumnrug",
-    "ducket_c25_autumnrug name",
+    "Kodikas syksymatto",
     "ducket_c25_autumnrug desc"
   ],
   [
@@ -55018,6 +55078,11 @@
     "fantasy_c22_wood",
     "Risukasa",
     "fantasy_c22_wood desc"
+  ],
+  [
+    "fantasy_c25_broom",
+    "Fantasialuuta",
+    ""
   ],
   [
     "fantasy_c25_bubble",
@@ -67285,6 +67350,11 @@
     ""
   ],
   [
+    "in_app_bundle_449",
+    "Neopets Bundle",
+    ""
+  ],
+  [
     "in_app_bundle_47",
     "Frosty Winter Castle",
     ""
@@ -73865,263 +73935,268 @@
     "neonpunk_c20_wall desc"
   ],
   [
+    "neop_r25_neopetsarcade_bd",
+    "Neopets-pelikone",
+    ""
+  ],
+  [
     "neopets25_prize",
     "Neopets Quest Prize",
     ""
   ],
   [
     "neopets_c25_aisha1",
-    "neopets_c25_aisha1 name",
+    "Mutantti-Aisha",
     "neopets_c25_aisha1 desc"
   ],
   [
     "neopets_c25_aisha2",
-    "neopets_c25_aisha2 name",
+    "Mutantti-Aisha",
     "neopets_c25_aisha2 desc"
   ],
   [
     "neopets_c25_aisha3",
-    "neopets_c25_aisha3 name",
+    "Merirosvo-Aisha",
     "neopets_c25_aisha3 desc"
   ],
   [
     "neopets_c25_babaa",
-    "neopets_c25_babaa name",
+    "Babaa Petpet",
     "neopets_c25_babaa desc"
   ],
   [
     "neopets_c25_background",
-    "neopets_c25_background name",
+    "Neopian kylä",
     "neopets_c25_background desc"
   ],
   [
     "neopets_c25_bush",
-    "neopets_c25_bush name",
+    "Neopets-pensas",
     "neopets_c25_bush desc"
   ],
   [
     "neopets_c25_cirrus",
-    "neopets_c25_cirrus name",
+    "Cirrus Petpet",
     "neopets_c25_cirrus desc"
   ],
   [
     "neopets_c25_crackableegg",
-    "neopets_c25_crackableegg name",
+    "Neopets-muna",
     "neopets_c25_crackableegg desc"
   ],
   [
     "neopets_c25_crackableeggb",
-    "neopets_c25_crackableeggb name",
+    "Neopets-muna",
     "neopets_c25_crackableeggb desc"
   ],
   [
     "neopets_c25_cybunny1",
-    "neopets_c25_cybunny1 name",
+    "Cybunny",
     "neopets_c25_cybunny1 desc"
   ],
   [
     "neopets_c25_cybunny2",
-    "neopets_c25_cybunny2 name",
+    "Mansikka-Cybunny",
     "neopets_c25_cybunny2 desc"
   ],
   [
     "neopets_c25_cybunny3",
-    "neopets_c25_cybunny3 name",
+    "Salakavala-Cybunny",
     "neopets_c25_cybunny3 desc"
   ],
   [
     "neopets_c25_doughnutfruit1",
-    "neopets_c25_doughnutfruit1 name",
+    "Keltainen donitsihedelmä",
     "neopets_c25_doughnutfruit1 desc"
   ],
   [
     "neopets_c25_doughnutfruit2",
-    "neopets_c25_doughnutfruit2 name",
+    "Sininen donitsihedelmä",
     "neopets_c25_doughnutfruit2 desc"
   ],
   [
     "neopets_c25_doughnutfruit3",
-    "neopets_c25_doughnutfruit3 name",
+    "Vihreä donitsihedelmä",
     "neopets_c25_doughnutfruit3 desc"
   ],
   [
     "neopets_c25_doughnutfruit4",
-    "neopets_c25_doughnutfruit4 name",
+    "Kultainen donitsihedelmä",
     "neopets_c25_doughnutfruit4 desc"
   ],
   [
     "neopets_c25_doughnutfruit5",
-    "neopets_c25_doughnutfruit5 name",
+    "Jäinen donitsihedelmä",
     "neopets_c25_doughnutfruit5 desc"
   ],
   [
     "neopets_c25_doughnutfruit6",
-    "neopets_c25_doughnutfruit6 name",
+    "Kalaisa donitsihedelmä",
     "neopets_c25_doughnutfruit6 desc"
   ],
   [
     "neopets_c25_esophagor",
-    "neopets_c25_esophagor name",
+    "Neopets-Esophagor",
     "neopets_c25_esophagor desc"
   ],
   [
     "neopets_c25_eyrie1",
-    "neopets_c25_eyrie1 name",
+    "Eyrie",
     "neopets_c25_eyrie1 desc"
   ],
   [
     "neopets_c25_eyrie2",
-    "neopets_c25_eyrie2 name",
+    "Keksi-Eyrie",
     "neopets_c25_eyrie2 desc"
   ],
   [
     "neopets_c25_eyrie3",
-    "neopets_c25_eyrie3 name",
+    "Sateenkaari-Eyrie",
     "neopets_c25_eyrie3 desc"
   ],
   [
     "neopets_c25_faeriesceptre",
-    "neopets_c25_faeriesceptre name",
+    "Kuningatar Fyoran sauva",
     "neopets_c25_faeriesceptre desc"
   ],
   [
     "neopets_c25_fishberry",
-    "neopets_c25_fishberry name",
+    "Fishberry",
     "neopets_c25_fishberry desc"
   ],
   [
     "neopets_c25_grass",
-    "neopets_c25_grass name",
+    "Neopets-nurmikko",
     "neopets_c25_grass desc"
   ],
   [
     "neopets_c25_grassplaza",
-    "neopets_c25_grassplaza name",
+    "Neopets-viheralue",
     "neopets_c25_grassplaza desc"
   ],
   [
     "neopets_c25_greypoogle",
-    "neopets_c25_greypoogle name",
+    "Harmaa Poogle Neopet",
     "neopets_c25_greypoogle desc"
   ],
   [
     "neopets_c25_jumbleberry",
-    "neopets_c25_jumbleberry name",
+    "Jumbleberry",
     "neopets_c25_jumbleberry desc"
   ],
   [
     "neopets_c25_kougra1",
-    "neopets_c25_kougra1 name",
+    "Kougra",
     "neopets_c25_kougra1 desc"
   ],
   [
     "neopets_c25_kougra2",
-    "neopets_c25_kougra2 name",
+    "Pehmolelu-Kougra",
     "neopets_c25_kougra2 desc"
   ],
   [
     "neopets_c25_kougra3",
-    "neopets_c25_kougra3 name",
+    "Tyranni-Kougra",
     "neopets_c25_kougra3 desc"
   ],
   [
     "neopets_c25_loveberry",
-    "neopets_c25_loveberry name",
+    "Loveberry",
     "neopets_c25_loveberry desc"
   ],
   [
     "neopets_c25_lupe1",
-    "neopets_c25_lupe1 name",
+    "Lupe",
     "neopets_c25_lupe1 desc"
   ],
   [
     "neopets_c25_lupe2",
-    "neopets_c25_lupe2 name",
+    "Suklaa-Lupe",
     "neopets_c25_lupe2 desc"
   ],
   [
     "neopets_c25_lupe3",
-    "neopets_c25_lupe3 name",
+    "Riiviö-Lupe",
     "neopets_c25_lupe3 desc"
   ],
   [
     "neopets_c25_moneytree",
-    "neopets_c25_moneytree name",
+    "Neopets-rahapuu",
     "neopets_c25_moneytree desc"
   ],
   [
     "neopets_c25_neopoints",
-    "neopets_c25_neopoints name",
+    "Säkillinen Neo-pisteitä",
     "neopets_c25_neopoints desc"
   ],
   [
     "neopets_c25_paintbrushes",
-    "neopets_c25_paintbrushes name",
+    "Neopets-pensseli",
     "neopets_c25_paintbrushes desc"
   ],
   [
     "neopets_c25_rainbowpool",
-    "neopets_c25_rainbowpool name",
+    "Neopets-sateenkaarilampi",
     "neopets_c25_rainbowpool desc"
   ],
   [
     "neopets_c25_road",
-    "neopets_c25_road name",
+    "Neopets-katu",
     "neopets_c25_road desc"
   ],
   [
     "neopets_c25_royalpaintbrush",
-    "neopets_c25_royalpaintbrush name",
+    "Ruhtinaallinen pensseli",
     "neopets_c25_royalpaintbrush desc"
   ],
   [
     "neopets_c25_shoyru1",
-    "neopets_c25_shoyru1 name",
+    "Shoyru",
     "neopets_c25_shoyru1 desc"
   ],
   [
     "neopets_c25_shoyru2",
-    "neopets_c25_shoyru2 name",
+    "Robotti-Shoyru",
     "neopets_c25_shoyru2 desc"
   ],
   [
     "neopets_c25_shoyru3",
-    "neopets_c25_shoyru3 name",
+    "Halloween-Shoyru",
     "neopets_c25_shoyru3 desc"
   ],
   [
     "neopets_c25_sign",
-    "neopets_c25_sign name",
+    "Neopets-kyltit",
     "neopets_c25_sign desc"
   ],
   [
     "neopets_c25_sniddberry",
-    "neopets_c25_sniddberry name",
+    "Sniddberry",
     "neopets_c25_sniddberry desc"
   ],
   [
     "neopets_c25_spruce",
-    "neopets_c25_spruce name",
+    "Neopets-kuusi",
     "neopets_c25_spruce desc"
   ],
   [
     "neopets_c25_tcheafruit",
-    "neopets_c25_tcheafruit name",
+    "Tchea-hedelmä",
     "neopets_c25_tcheafruit desc"
   ],
   [
     "neopets_c25_unguberry",
-    "neopets_c25_unguberry name",
+    "Unguberry",
     "neopets_c25_unguberry desc"
   ],
   [
     "neopets_c25_voidberry",
-    "neopets_c25_voidberry name",
+    "Voidberry",
     "neopets_c25_voidberry desc"
   ],
   [
     "neopets_r25_neopetsarcade",
-    "neopets_r25_neopetsarcade name",
+    "Neopets-pelikone",
     "neopets_r25_neopetsarcade desc"
   ],
   [
@@ -79221,7 +79296,7 @@
   ],
   [
     "nft_h25_bronzesword",
-    "nft_h25_bronzesword name",
+    "Pronssinen miekka",
     "nft_h25_bronzesword desc"
   ],
   [
@@ -79400,6 +79475,11 @@
     "nft_h25_gnomeofdoom desc"
   ],
   [
+    "nft_h25_goblin",
+    "Soturihiisi",
+    ""
+  ],
+  [
     "nft_h25_goldanvaward",
     "Kultainen 4. vuosipäivän plaketti",
     "nft_h25_goldanvaward desc"
@@ -79416,7 +79496,7 @@
   ],
   [
     "nft_h25_goldsword",
-    "nft_h25_goldsword name",
+    "Kultainen miekka",
     "nft_h25_goldsword desc"
   ],
   [
@@ -79438,6 +79518,11 @@
     "nft_h25_hcsohva2",
     "Luonnonvalkea samettisohva",
     "nft_h25_hcsohva2 desc"
+  ],
+  [
+    "nft_h25_magiccauldron",
+    "Maaginen pata",
+    ""
   ],
   [
     "nft_h25_monkeybzn_chair",
@@ -79521,7 +79606,7 @@
   ],
   [
     "nft_h25_silversword",
-    "nft_h25_silversword name",
+    "Hopeinen miekka",
     "nft_h25_silversword desc"
   ],
   [
@@ -79651,7 +79736,7 @@
   ],
   [
     "nft_h25_trippysword",
-    "nft_h25_trippysword name",
+    "Psykedeelinen miekka",
     "nft_h25_trippysword desc"
   ],
   [
@@ -88500,6 +88585,11 @@
     ""
   ],
   [
+    "rare_col_shishilamp_2_bd",
+    "Vaalea siniharmaa Shishi-lamppu",
+    ""
+  ],
+  [
     "rare_colourable_barrier*3",
     "Sinivihreä tiesulku",
     ""
@@ -88971,7 +89061,7 @@
   ],
   [
     "rare_colourable_shishilamp_2",
-    "rare_colourable_shishilamp_2 name",
+    "Vaalea siniharmaa Shishi-lamppu",
     "rare_colourable_shishilamp_2 desc"
   ],
   [
@@ -100403,6 +100493,21 @@
     "rotating_roomdeal448",
     "Selviytyjän turvapaikka",
     "Täydellinen turvapaikka zombeilta selviytymiselle ja... siinäpä se. (Vain 98%:n zombien kestävä)"
+  ],
+  [
+    "rotating_roomdeal449_10c",
+    "Neopets-huonepaketti",
+    ""
+  ],
+  [
+    "rotating_roomdeal449_d",
+    "Neopets-huonepaketti",
+    ""
+  ],
+  [
+    "rotating_roomdeal449",
+    "Neopets-huonepaketti",
+    "Neopetsit ovat saapuneet Habboon ja tämä huone on muuttovalmis kaikille, jotka haluavat päästä paijaamaan niitä!"
   ],
   [
     "rotating_roomdeal44_10c",

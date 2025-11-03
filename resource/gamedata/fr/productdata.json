@@ -32647,9 +32647,24 @@
         "description": "classic9_wall desc"
       },
       {
+        "code": "cloth_r25_illusenwings_bd",
+        "name": "Ailes de fée Illusen",
+        "description": ""
+      },
+      {
         "code": "cloth_r25_mushroomcape_bd",
         "name": "Mushroom Cape",
         "description": "clothing_r25_mushroomcape desc"
+      },
+      {
+        "code": "cloth_r25_queenfyora_bd",
+        "name": "Accessoires Reine Fyora",
+        "description": ""
+      },
+      {
+        "code": "cloth_r25_yellowaisha_bd",
+        "name": "Compagnon jaune Aisha",
+        "description": ""
       },
       {
         "code": "clothing_22_bohonecklace",
@@ -37654,7 +37669,7 @@
       {
         "code": "clothing_nftrockstar",
         "name": "Guitare Rock Star",
-        "description": ""
+        "description": "clothing_nftrockstar desc"
       },
       {
         "code": "clothing_nftroundshades0",
@@ -38084,7 +38099,7 @@
       {
         "code": "clothing_nftswordnshiled",
         "name": "Épée et bouclier",
-        "description": ""
+        "description": "clothing_nftswordnshiled desc"
       },
       {
         "code": "clothing_nfttallcrown",
@@ -41523,7 +41538,7 @@
       },
       {
         "code": "clothing_r25_illusenwings",
-        "name": "clothing_r25_illusenwings name",
+        "name": "Ailes de fée Illusen",
         "description": "clothing_r25_illusenwings desc"
       },
       {
@@ -41578,7 +41593,7 @@
       },
       {
         "code": "clothing_r25_queenfyora",
-        "name": "clothing_r25_queenfyora name",
+        "name": "Accessoires Reine Fyora",
         "description": "clothing_r25_queenfyora desc"
       },
       {
@@ -41643,7 +41658,7 @@
       },
       {
         "code": "clothing_r25_yellowaisha",
-        "name": "clothing_r25_yellowaisha name",
+        "name": "Compagnon jaune Aisha",
         "description": "clothing_r25_yellowaisha desc"
       },
       {
@@ -65527,6 +65542,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_449",
+        "name": "Neopets Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -71972,6 +71992,11 @@
         "description": "neonpunk_c20_wall desc"
       },
       {
+        "code": "neop_r25_neopetsarcade_bd",
+        "name": "Jeu d'arcade Neopets",
+        "description": ""
+      },
+      {
         "code": "neopets25_prize",
         "name": "Neopets Quest Prize",
         "description": ""
@@ -72228,7 +72253,7 @@
       },
       {
         "code": "neopets_r25_neopetsarcade",
-        "name": "neopets_r25_neopetsarcade name",
+        "name": "Jeu d'arcade Neopets",
         "description": "neopets_r25_neopetsarcade desc"
       },
       {
@@ -86647,6 +86672,11 @@
         "description": ""
       },
       {
+        "code": "rare_col_shishilamp_2_bd",
+        "name": "Lampe Shishi bleu clair gris",
+        "description": ""
+      },
+      {
         "code": "rare_colourable_barrier*3",
         "name": "Barrière de chantier Sarcelle",
         "description": ""
@@ -87118,7 +87148,7 @@
       },
       {
         "code": "rare_colourable_shishilamp_2",
-        "name": "rare_colourable_shishilamp_2 name",
+        "name": "Lampe Shishi bleu clair gris",
         "description": "rare_colourable_shishilamp_2 desc"
       },
       {
@@ -98510,6 +98540,21 @@
         "code": "rotating_roomdeal448",
         "name": "Pack Abri de survie",
         "description": "Parfait pour survivre aux zombies et... voilà. (Seulement 98 % à l'épreuve des zombies)"
+      },
+      {
+        "code": "rotating_roomdeal449_10c",
+        "name": "Pack Neopets",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal449_d",
+        "name": "Pack Neopets",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal449",
+        "name": "Pack Neopets",
+        "description": "Les Neopets sont sur Habbo et cette salle est prête à vous accueillir tous dès que possible !"
       },
       {
         "code": "rotating_roomdeal44_10c",

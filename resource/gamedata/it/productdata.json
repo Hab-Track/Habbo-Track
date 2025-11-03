@@ -33277,9 +33277,24 @@
         "description": "classic9_wall desc"
       },
       {
+        "code": "cloth_r25_illusenwings_bd",
+        "name": "Ali della Fata Illusen",
+        "description": ""
+      },
+      {
         "code": "cloth_r25_mushroomcape_bd",
         "name": "Mushroom Cape",
         "description": "clothing_r25_mushroomcape desc"
+      },
+      {
+        "code": "cloth_r25_queenfyora_bd",
+        "name": "Accessori della Regina Fyora",
+        "description": ""
+      },
+      {
+        "code": "cloth_r25_yellowaisha_bd",
+        "name": "Compagna Aisha Gialla",
+        "description": ""
       },
       {
         "code": "clothing_22_bohonecklace",
@@ -38279,7 +38294,7 @@
       {
         "code": "clothing_nftrockstar",
         "name": "Chitarra da Rock Star",
-        "description": ""
+        "description": "clothing_nftrockstar desc"
       },
       {
         "code": "clothing_nftroundshades0",
@@ -38709,7 +38724,7 @@
       {
         "code": "clothing_nftswordnshiled",
         "name": "Spada e Scudo",
-        "description": ""
+        "description": "clothing_nftswordnshiled desc"
       },
       {
         "code": "clothing_nfttallcrown",
@@ -42148,7 +42163,7 @@
       },
       {
         "code": "clothing_r25_illusenwings",
-        "name": "clothing_r25_illusenwings name",
+        "name": "Ali della Fata Illusen",
         "description": "clothing_r25_illusenwings desc"
       },
       {
@@ -42203,7 +42218,7 @@
       },
       {
         "code": "clothing_r25_queenfyora",
-        "name": "clothing_r25_queenfyora name",
+        "name": "Accessori della Regina Fyora",
         "description": "clothing_r25_queenfyora desc"
       },
       {
@@ -42268,7 +42283,7 @@
       },
       {
         "code": "clothing_r25_yellowaisha",
-        "name": "clothing_r25_yellowaisha name",
+        "name": "Compagna Aisha Gialla",
         "description": "clothing_r25_yellowaisha desc"
       },
       {
@@ -67342,6 +67357,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_449",
+        "name": "Neopets Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -73902,6 +73922,11 @@
         "description": "neonpunk_c20_wall desc"
       },
       {
+        "code": "neop_r25_neopetsarcade_bd",
+        "name": "Game Arcade Neopets",
+        "description": ""
+      },
+      {
         "code": "neopets25_prize",
         "name": "Neopets Quest Prize",
         "description": ""
@@ -74158,7 +74183,7 @@
       },
       {
         "code": "neopets_r25_neopetsarcade",
-        "name": "neopets_r25_neopetsarcade name",
+        "name": "Game Arcade Neopets",
         "description": "neopets_r25_neopetsarcade desc"
       },
       {
@@ -88652,6 +88677,11 @@
         "description": ""
       },
       {
+        "code": "rare_col_shishilamp_2_bd",
+        "name": "Lampada Shishi Grigia Azzurra",
+        "description": ""
+      },
+      {
         "code": "rare_colourable_barrier*3",
         "name": "Transenna Foglia di tè",
         "description": ""
@@ -89123,7 +89153,7 @@
       },
       {
         "code": "rare_colourable_shishilamp_2",
-        "name": "rare_colourable_shishilamp_2 name",
+        "name": "Lampada Shishi Grigia Azzurra",
         "description": "rare_colourable_shishilamp_2 desc"
       },
       {
@@ -100530,6 +100560,21 @@
         "code": "rotating_roomdeal448",
         "name": "Affare Stanza Rifugio per Sopravvissuti",
         "description": "Perfetto per sopravvivere agli zombie e... basta. (Solo al 98% a prova di zombie)"
+      },
+      {
+        "code": "rotating_roomdeal449_10c",
+        "name": "Affare Stanza Neopets",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal449_d",
+        "name": "Affare Stanza Neopets",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal449",
+        "name": "Affare Stanza Neopets",
+        "description": "I Neopets sono su Habbo e questa stanza è pronta per accogliervi tutti al più presto!"
       },
       {
         "code": "rotating_roomdeal44_10c",

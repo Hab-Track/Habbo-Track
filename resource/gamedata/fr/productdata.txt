@@ -32645,9 +32645,24 @@
     "classic9_wall desc"
   ],
   [
+    "cloth_r25_illusenwings_bd",
+    "Ailes de fée Illusen",
+    ""
+  ],
+  [
     "cloth_r25_mushroomcape_bd",
     "Mushroom Cape",
     "clothing_r25_mushroomcape desc"
+  ],
+  [
+    "cloth_r25_queenfyora_bd",
+    "Accessoires Reine Fyora",
+    ""
+  ],
+  [
+    "cloth_r25_yellowaisha_bd",
+    "Compagnon jaune Aisha",
+    ""
   ],
   [
     "clothing_22_bohonecklace",
@@ -37652,7 +37667,7 @@
   [
     "clothing_nftrockstar",
     "Guitare Rock Star",
-    ""
+    "clothing_nftrockstar desc"
   ],
   [
     "clothing_nftroundshades0",
@@ -38082,7 +38097,7 @@
   [
     "clothing_nftswordnshiled",
     "Épée et bouclier",
-    ""
+    "clothing_nftswordnshiled desc"
   ],
   [
     "clothing_nfttallcrown",
@@ -41521,7 +41536,7 @@
   ],
   [
     "clothing_r25_illusenwings",
-    "clothing_r25_illusenwings name",
+    "Ailes de fée Illusen",
     "clothing_r25_illusenwings desc"
   ],
   [
@@ -41576,7 +41591,7 @@
   ],
   [
     "clothing_r25_queenfyora",
-    "clothing_r25_queenfyora name",
+    "Accessoires Reine Fyora",
     "clothing_r25_queenfyora desc"
   ],
   [
@@ -41641,7 +41656,7 @@
   ],
   [
     "clothing_r25_yellowaisha",
-    "clothing_r25_yellowaisha name",
+    "Compagnon jaune Aisha",
     "clothing_r25_yellowaisha desc"
   ],
   [
@@ -65525,6 +65540,11 @@
     ""
   ],
   [
+    "in_app_bundle_449",
+    "Neopets Bundle",
+    ""
+  ],
+  [
     "in_app_bundle_47",
     "Frosty Winter Castle",
     ""
@@ -71970,6 +71990,11 @@
     "neonpunk_c20_wall desc"
   ],
   [
+    "neop_r25_neopetsarcade_bd",
+    "Jeu d'arcade Neopets",
+    ""
+  ],
+  [
     "neopets25_prize",
     "Neopets Quest Prize",
     ""
@@ -72226,7 +72251,7 @@
   ],
   [
     "neopets_r25_neopetsarcade",
-    "neopets_r25_neopetsarcade name",
+    "Jeu d'arcade Neopets",
     "neopets_r25_neopetsarcade desc"
   ],
   [
@@ -86645,6 +86670,11 @@
     ""
   ],
   [
+    "rare_col_shishilamp_2_bd",
+    "Lampe Shishi bleu clair gris",
+    ""
+  ],
+  [
     "rare_colourable_barrier*3",
     "Barrière de chantier Sarcelle",
     ""
@@ -87116,7 +87146,7 @@
   ],
   [
     "rare_colourable_shishilamp_2",
-    "rare_colourable_shishilamp_2 name",
+    "Lampe Shishi bleu clair gris",
     "rare_colourable_shishilamp_2 desc"
   ],
   [
@@ -98508,6 +98538,21 @@
     "rotating_roomdeal448",
     "Pack Abri de survie",
     "Parfait pour survivre aux zombies et... voilà. (Seulement 98 % à l'épreuve des zombies)"
+  ],
+  [
+    "rotating_roomdeal449_10c",
+    "Pack Neopets",
+    ""
+  ],
+  [
+    "rotating_roomdeal449_d",
+    "Pack Neopets",
+    ""
+  ],
+  [
+    "rotating_roomdeal449",
+    "Pack Neopets",
+    "Les Neopets sont sur Habbo et cette salle est prête à vous accueillir tous dès que possible !"
   ],
   [
     "rotating_roomdeal44_10c",

@@ -32455,9 +32455,24 @@
     "classic9_wall desc"
   ],
   [
+    "cloth_r25_illusenwings_bd",
+    "Illusen Feeën Vleugels",
+    ""
+  ],
+  [
     "cloth_r25_mushroomcape_bd",
     "Mushroom Cape",
     "clothing_r25_mushroomcape desc"
+  ],
+  [
+    "cloth_r25_queenfyora_bd",
+    "Koningin Fyora´s Accessoires",
+    ""
+  ],
+  [
+    "cloth_r25_yellowaisha_bd",
+    "Geel Asha Vriendje",
+    ""
   ],
   [
     "clothing_22_bohonecklace",
@@ -37477,7 +37492,7 @@
   [
     "clothing_nftrockstar",
     "Rockster Gitaar",
-    ""
+    "clothing_nftrockstar desc"
   ],
   [
     "clothing_nftroundshades0",
@@ -37907,7 +37922,7 @@
   [
     "clothing_nftswordnshiled",
     "Zwaard en Schild",
-    ""
+    "clothing_nftswordnshiled desc"
   ],
   [
     "clothing_nfttallcrown",
@@ -41346,7 +41361,7 @@
   ],
   [
     "clothing_r25_illusenwings",
-    "clothing_r25_illusenwings name",
+    "Illusen Feeën Vleugels",
     "clothing_r25_illusenwings desc"
   ],
   [
@@ -41401,7 +41416,7 @@
   ],
   [
     "clothing_r25_queenfyora",
-    "clothing_r25_queenfyora name",
+    "Koningin Fyora´s Accessoires",
     "clothing_r25_queenfyora desc"
   ],
   [
@@ -41466,7 +41481,7 @@
   ],
   [
     "clothing_r25_yellowaisha",
-    "clothing_r25_yellowaisha name",
+    "Geel Asha Vriendje",
     "clothing_r25_yellowaisha desc"
   ],
   [
@@ -67115,6 +67130,11 @@
     ""
   ],
   [
+    "in_app_bundle_449",
+    "Neopets Bundle",
+    ""
+  ],
+  [
     "in_app_bundle_47",
     "Frosty Winter Castle",
     ""
@@ -73610,6 +73630,11 @@
     "neonpunk_c20_wall desc"
   ],
   [
+    "neop_r25_neopetsarcade_bd",
+    "Neopets Arcade Game",
+    ""
+  ],
+  [
     "neopets25_prize",
     "Neopets Quest Prize",
     ""
@@ -73866,7 +73891,7 @@
   ],
   [
     "neopets_r25_neopetsarcade",
-    "neopets_r25_neopetsarcade name",
+    "Neopets Arcade Game",
     "neopets_r25_neopetsarcade desc"
   ],
   [
@@ -88380,6 +88405,11 @@
     ""
   ],
   [
+    "rare_col_shishilamp_2_bd",
+    "Lichtgrijze Vuurleeuw",
+    ""
+  ],
+  [
     "rare_colourable_barrier*3",
     "Turquoise Wegversperring",
     ""
@@ -88851,7 +88881,7 @@
   ],
   [
     "rare_colourable_shishilamp_2",
-    "rare_colourable_shishilamp_2 name",
+    "Lichtgrijze Vuurleeuw",
     "rare_colourable_shishilamp_2 desc"
   ],
   [
@@ -100283,6 +100313,21 @@
     "rotating_roomdeal448",
     "Schuilplaats om te Overleven Bundel",
     "Perfect om te verstoppen voor zombies en...ja dat is het eigenlijk. (Slechts 98% zombie veilig)"
+  ],
+  [
+    "rotating_roomdeal449_10c",
+    "Neopets Bundel",
+    ""
+  ],
+  [
+    "rotating_roomdeal449_d",
+    "Neopets Bundel",
+    ""
+  ],
+  [
+    "rotating_roomdeal449",
+    "Neopets Bundel",
+    "De Neopets zijn in Habbo te vinden en deze kamer is klaar om zo snel mogelijk door jullie bewoond te worden!"
   ],
   [
     "rotating_roomdeal44_10c",

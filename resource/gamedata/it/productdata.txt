@@ -33275,9 +33275,24 @@
     "classic9_wall desc"
   ],
   [
+    "cloth_r25_illusenwings_bd",
+    "Ali della Fata Illusen",
+    ""
+  ],
+  [
     "cloth_r25_mushroomcape_bd",
     "Mushroom Cape",
     "clothing_r25_mushroomcape desc"
+  ],
+  [
+    "cloth_r25_queenfyora_bd",
+    "Accessori della Regina Fyora",
+    ""
+  ],
+  [
+    "cloth_r25_yellowaisha_bd",
+    "Compagna Aisha Gialla",
+    ""
   ],
   [
     "clothing_22_bohonecklace",
@@ -38277,7 +38292,7 @@
   [
     "clothing_nftrockstar",
     "Chitarra da Rock Star",
-    ""
+    "clothing_nftrockstar desc"
   ],
   [
     "clothing_nftroundshades0",
@@ -38707,7 +38722,7 @@
   [
     "clothing_nftswordnshiled",
     "Spada e Scudo",
-    ""
+    "clothing_nftswordnshiled desc"
   ],
   [
     "clothing_nfttallcrown",
@@ -42146,7 +42161,7 @@
   ],
   [
     "clothing_r25_illusenwings",
-    "clothing_r25_illusenwings name",
+    "Ali della Fata Illusen",
     "clothing_r25_illusenwings desc"
   ],
   [
@@ -42201,7 +42216,7 @@
   ],
   [
     "clothing_r25_queenfyora",
-    "clothing_r25_queenfyora name",
+    "Accessori della Regina Fyora",
     "clothing_r25_queenfyora desc"
   ],
   [
@@ -42266,7 +42281,7 @@
   ],
   [
     "clothing_r25_yellowaisha",
-    "clothing_r25_yellowaisha name",
+    "Compagna Aisha Gialla",
     "clothing_r25_yellowaisha desc"
   ],
   [
@@ -67340,6 +67355,11 @@
     ""
   ],
   [
+    "in_app_bundle_449",
+    "Neopets Bundle",
+    ""
+  ],
+  [
     "in_app_bundle_47",
     "Frosty Winter Castle",
     ""
@@ -73900,6 +73920,11 @@
     "neonpunk_c20_wall desc"
   ],
   [
+    "neop_r25_neopetsarcade_bd",
+    "Game Arcade Neopets",
+    ""
+  ],
+  [
     "neopets25_prize",
     "Neopets Quest Prize",
     ""
@@ -74156,7 +74181,7 @@
   ],
   [
     "neopets_r25_neopetsarcade",
-    "neopets_r25_neopetsarcade name",
+    "Game Arcade Neopets",
     "neopets_r25_neopetsarcade desc"
   ],
   [
@@ -88650,6 +88675,11 @@
     ""
   ],
   [
+    "rare_col_shishilamp_2_bd",
+    "Lampada Shishi Grigia Azzurra",
+    ""
+  ],
+  [
     "rare_colourable_barrier*3",
     "Transenna Foglia di tè",
     ""
@@ -89121,7 +89151,7 @@
   ],
   [
     "rare_colourable_shishilamp_2",
-    "rare_colourable_shishilamp_2 name",
+    "Lampada Shishi Grigia Azzurra",
     "rare_colourable_shishilamp_2 desc"
   ],
   [
@@ -100528,6 +100558,21 @@
     "rotating_roomdeal448",
     "Affare Stanza Rifugio per Sopravvissuti",
     "Perfetto per sopravvivere agli zombie e... basta. (Solo al 98% a prova di zombie)"
+  ],
+  [
+    "rotating_roomdeal449_10c",
+    "Affare Stanza Neopets",
+    ""
+  ],
+  [
+    "rotating_roomdeal449_d",
+    "Affare Stanza Neopets",
+    ""
+  ],
+  [
+    "rotating_roomdeal449",
+    "Affare Stanza Neopets",
+    "I Neopets sono su Habbo e questa stanza è pronta per accogliervi tutti al più presto!"
   ],
   [
     "rotating_roomdeal44_10c",

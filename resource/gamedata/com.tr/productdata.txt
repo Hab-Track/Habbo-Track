@@ -34345,9 +34345,24 @@
     ""
   ],
   [
+    "cloth_r25_illusenwings_bd",
+    "Illusen Peri Kanatları",
+    ""
+  ],
+  [
     "cloth_r25_mushroomcape_bd",
     "Mantar Pelerin",
     "clothing_r25_mushroomcape desc"
+  ],
+  [
+    "cloth_r25_queenfyora_bd",
+    "Kraliçe Fyora Aksesuarları",
+    ""
+  ],
+  [
+    "cloth_r25_yellowaisha_bd",
+    "Sarı Aisha Dost",
+    ""
   ],
   [
     "clothing_22_bohonecklace",
@@ -34446,7 +34461,7 @@
   ],
   [
     "clothing_aishahat",
-    "clothing_aishahat name",
+    "Aisha Şapka",
     "clothing_aishahat desc"
   ],
   [
@@ -34526,7 +34541,7 @@
   ],
   [
     "clothing_autumnberet",
-    "clothing_autumnberet name",
+    "Sonbahar Bareti",
     "clothing_autumnberet desc"
   ],
   [
@@ -35656,7 +35671,7 @@
   ],
   [
     "clothing_cybunnyhat",
-    "clothing_cybunnyhat name",
+    "Cybunny Şapka",
     "clothing_cybunnyhat desc"
   ],
   [
@@ -36231,7 +36246,7 @@
   ],
   [
     "clothing_eyriehat",
-    "clothing_eyriehat name",
+    "Eyrie Şapka",
     "clothing_eyriehat desc"
   ],
   [
@@ -37271,7 +37286,7 @@
   ],
   [
     "clothing_kougrahat",
-    "clothing_kougrahat name",
+    "Kougra Şapka",
     "clothing_kougrahat desc"
   ],
   [
@@ -37591,7 +37606,7 @@
   ],
   [
     "clothing_lupehat",
-    "clothing_lupehat name",
+    "Lupe Şapka",
     "clothing_lupehat desc"
   ],
   [
@@ -38153,6 +38168,11 @@
     "clothing_nftberryshades",
     "Meyveli Gözlük",
     "clothing_nftberryshades desc"
+  ],
+  [
+    "clothing_nftbighorns",
+    "Çift Boynuz",
+    ""
   ],
   [
     "clothing_nftbiglollipop",
@@ -39352,7 +39372,7 @@
   [
     "clothing_nftrockstar",
     "Rock Star Gitar",
-    ""
+    "clothing_nftrockstar desc"
   ],
   [
     "clothing_nftroundshades0",
@@ -39393,6 +39413,11 @@
     "clothing_nftsack",
     "Rastalı Noel Baba'nın Çuvalı",
     "clothing_nftsack desc"
+  ],
+  [
+    "clothing_nftsatyr",
+    "Satir Bacakları",
+    ""
   ],
   [
     "clothing_nftsbboosters",
@@ -39775,6 +39800,11 @@
     "clothing_nftsunflowershorts desc"
   ],
   [
+    "clothing_nftswordnshiled",
+    "Kılıç ve Kalkan",
+    "clothing_nftswordnshiled desc"
+  ],
+  [
     "clothing_nfttallcrown",
     "Uzun Taç",
     "clothing_nfttallcrown desc"
@@ -39833,6 +39863,11 @@
     "clothing_nftunicornslippers",
     "Unicorn Terlik",
     "clothing_nftunicornslippers desc"
+  ],
+  [
+    "clothing_nftutility",
+    "Askılı Çok Amaçlı Kemer",
+    ""
   ],
   [
     "clothing_nftvalentinesrose",
@@ -39933,6 +39968,31 @@
     "clothing_nftwinterweaves",
     "Beyaz Kış Bukleleri",
     "clothing_nftwinterweaves desc"
+  ],
+  [
+    "clothing_nftwizardsbeard",
+    "Büyücü Sakalı",
+    ""
+  ],
+  [
+    "clothing_nftwizardsglasses",
+    "Büyücü Gözlüğü",
+    ""
+  ],
+  [
+    "clothing_nftwizardshaircut",
+    "Büyücü Saçı",
+    ""
+  ],
+  [
+    "clothing_nftwizardshat",
+    "Geleneksel Büyücü Şapkası",
+    ""
+  ],
+  [
+    "clothing_nftwizardsrobe",
+    "Geleneksel Büyücü Cüppesi",
+    ""
   ],
   [
     "clothing_nftxlogo",
@@ -43181,7 +43241,7 @@
   ],
   [
     "clothing_r25_illusenwings",
-    "clothing_r25_illusenwings name",
+    "Illusen Peri Kanatları",
     "clothing_r25_illusenwings desc"
   ],
   [
@@ -43236,7 +43296,7 @@
   ],
   [
     "clothing_r25_queenfyora",
-    "clothing_r25_queenfyora name",
+    "Kraliçe Fyora Aksesuarları",
     "clothing_r25_queenfyora desc"
   ],
   [
@@ -43301,7 +43361,7 @@
   ],
   [
     "clothing_r25_yellowaisha",
-    "clothing_r25_yellowaisha name",
+    "Sarı Aisha Dost",
     "clothing_r25_yellowaisha desc"
   ],
   [
@@ -43671,7 +43731,7 @@
   ],
   [
     "clothing_shoyruhat",
-    "clothing_shoyruhat name",
+    "Shoyru Şapka",
     "clothing_shoyruhat desc"
   ],
   [
@@ -59541,7 +59601,7 @@
   ],
   [
     "ducket_c25_autumnconsoletable",
-    "ducket_c25_autumnconsoletable name",
+    "Alçak Konsol Masa",
     "ducket_c25_autumnconsoletable desc"
   ],
   [
@@ -59561,12 +59621,12 @@
   ],
   [
     "ducket_c25_autumnpod",
-    "ducket_c25_autumnpod name",
+    "Palamut Pod",
     "ducket_c25_autumnpod desc"
   ],
   [
     "ducket_c25_autumnrug",
-    "ducket_c25_autumnrug name",
+    "Yumuşak Sonbahar Halısı",
     "ducket_c25_autumnrug desc"
   ],
   [
@@ -63968,6 +64028,11 @@
     "fantasy_c22_wood",
     "Çubuk Yığını",
     "fantasy_c22_wood desc"
+  ],
+  [
+    "fantasy_c25_broom",
+    "Büyülü Süpürge",
+    ""
   ],
   [
     "fantasy_c25_bubble",
@@ -76370,6 +76435,11 @@
     ""
   ],
   [
+    "in_app_bundle_449",
+    "Neopets Bundle",
+    ""
+  ],
+  [
     "in_app_bundle_47",
     "Frosty Winter Castle",
     ""
@@ -83185,263 +83255,268 @@
     "neonpunk_c20_wall desc"
   ],
   [
+    "neop_r25_neopetsarcade_bd",
+    "Neopets Arcade Oyunu",
+    ""
+  ],
+  [
     "neopets25_prize",
     "Neopets Quest Prize",
     ""
   ],
   [
     "neopets_c25_aisha1",
-    "neopets_c25_aisha1 name",
+    "Aisha",
     "neopets_c25_aisha1 desc"
   ],
   [
     "neopets_c25_aisha2",
-    "neopets_c25_aisha2 name",
+    "Mutant Aisha",
     "neopets_c25_aisha2 desc"
   ],
   [
     "neopets_c25_aisha3",
-    "neopets_c25_aisha3 name",
+    "Korsan Aisha",
     "neopets_c25_aisha3 desc"
   ],
   [
     "neopets_c25_babaa",
-    "neopets_c25_babaa name",
+    "Babaa Petpet",
     "neopets_c25_babaa desc"
   ],
   [
     "neopets_c25_background",
-    "neopets_c25_background name",
+    "Neopia Merkez",
     "neopets_c25_background desc"
   ],
   [
     "neopets_c25_bush",
-    "neopets_c25_bush name",
+    "Neopets Çalı",
     "neopets_c25_bush desc"
   ],
   [
     "neopets_c25_cirrus",
-    "neopets_c25_cirrus name",
+    "Cirrus Petpet",
     "neopets_c25_cirrus desc"
   ],
   [
     "neopets_c25_crackableegg",
-    "neopets_c25_crackableegg name",
+    "Neopets Yumurtası",
     "neopets_c25_crackableegg desc"
   ],
   [
     "neopets_c25_crackableeggb",
-    "neopets_c25_crackableeggb name",
+    "Neopets Yumurtası",
     "neopets_c25_crackableeggb desc"
   ],
   [
     "neopets_c25_cybunny1",
-    "neopets_c25_cybunny1 name",
+    "Cybunny",
     "neopets_c25_cybunny1 desc"
   ],
   [
     "neopets_c25_cybunny2",
-    "neopets_c25_cybunny2 name",
+    "Çilek Cybunny",
     "neopets_c25_cybunny2 desc"
   ],
   [
     "neopets_c25_cybunny3",
-    "neopets_c25_cybunny3 name",
+    "Gizemli Cybunny",
     "neopets_c25_cybunny3 desc"
   ],
   [
     "neopets_c25_doughnutfruit1",
-    "neopets_c25_doughnutfruit1 name",
+    "Sarı Doughnutfruit",
     "neopets_c25_doughnutfruit1 desc"
   ],
   [
     "neopets_c25_doughnutfruit2",
-    "neopets_c25_doughnutfruit2 name",
+    "Mavi Doughnutfruit",
     "neopets_c25_doughnutfruit2 desc"
   ],
   [
     "neopets_c25_doughnutfruit3",
-    "neopets_c25_doughnutfruit3 name",
+    "Yeşil Doughnutfruit",
     "neopets_c25_doughnutfruit3 desc"
   ],
   [
     "neopets_c25_doughnutfruit4",
-    "neopets_c25_doughnutfruit4 name",
+    "Altın Doughnutfruit",
     "neopets_c25_doughnutfruit4 desc"
   ],
   [
     "neopets_c25_doughnutfruit5",
-    "neopets_c25_doughnutfruit5 name",
+    "Buz Doughnutfruit",
     "neopets_c25_doughnutfruit5 desc"
   ],
   [
     "neopets_c25_doughnutfruit6",
-    "neopets_c25_doughnutfruit6 name",
+    "Balık Doughnutfruit",
     "neopets_c25_doughnutfruit6 desc"
   ],
   [
     "neopets_c25_esophagor",
-    "neopets_c25_esophagor name",
+    "Neopets Esophagor",
     "neopets_c25_esophagor desc"
   ],
   [
     "neopets_c25_eyrie1",
-    "neopets_c25_eyrie1 name",
+    "Eyrie",
     "neopets_c25_eyrie1 desc"
   ],
   [
     "neopets_c25_eyrie2",
-    "neopets_c25_eyrie2 name",
+    "Bisküvi Eyrie",
     "neopets_c25_eyrie2 desc"
   ],
   [
     "neopets_c25_eyrie3",
-    "neopets_c25_eyrie3 name",
+    "Gökkuşağı Eyrie",
     "neopets_c25_eyrie3 desc"
   ],
   [
     "neopets_c25_faeriesceptre",
-    "neopets_c25_faeriesceptre name",
+    "Kraliçe Fyora'nın Asası",
     "neopets_c25_faeriesceptre desc"
   ],
   [
     "neopets_c25_fishberry",
-    "neopets_c25_fishberry name",
+    "Fishberry",
     "neopets_c25_fishberry desc"
   ],
   [
     "neopets_c25_grass",
-    "neopets_c25_grass name",
+    "Neopets Çimi",
     "neopets_c25_grass desc"
   ],
   [
     "neopets_c25_grassplaza",
-    "neopets_c25_grassplaza name",
+    "Neopets Plaza Çimi",
     "neopets_c25_grassplaza desc"
   ],
   [
     "neopets_c25_greypoogle",
-    "neopets_c25_greypoogle name",
+    "Gri Poogle Neopet",
     "neopets_c25_greypoogle desc"
   ],
   [
     "neopets_c25_jumbleberry",
-    "neopets_c25_jumbleberry name",
+    "Jumbleberry",
     "neopets_c25_jumbleberry desc"
   ],
   [
     "neopets_c25_kougra1",
-    "neopets_c25_kougra1 name",
+    "Kougra",
     "neopets_c25_kougra1 desc"
   ],
   [
     "neopets_c25_kougra2",
-    "neopets_c25_kougra2 name",
+    "Peluş Kougra",
     "neopets_c25_kougra2 desc"
   ],
   [
     "neopets_c25_kougra3",
-    "neopets_c25_kougra3 name",
+    "Tiran Kougra",
     "neopets_c25_kougra3 desc"
   ],
   [
     "neopets_c25_loveberry",
-    "neopets_c25_loveberry name",
+    "Loveberry",
     "neopets_c25_loveberry desc"
   ],
   [
     "neopets_c25_lupe1",
-    "neopets_c25_lupe1 name",
+    "Lupe",
     "neopets_c25_lupe1 desc"
   ],
   [
     "neopets_c25_lupe2",
-    "neopets_c25_lupe2 name",
+    "Çikolata Lupe",
     "neopets_c25_lupe2 desc"
   ],
   [
     "neopets_c25_lupe3",
-    "neopets_c25_lupe3 name",
+    "Darigan Lupe",
     "neopets_c25_lupe3 desc"
   ],
   [
     "neopets_c25_moneytree",
-    "neopets_c25_moneytree name",
+    "Neopets Para Ağacı",
     "neopets_c25_moneytree desc"
   ],
   [
     "neopets_c25_neopoints",
-    "neopets_c25_neopoints name",
+    "Neo Points Çuvalı",
     "neopets_c25_neopoints desc"
   ],
   [
     "neopets_c25_paintbrushes",
-    "neopets_c25_paintbrushes name",
+    "Neopets Boya Fırçası",
     "neopets_c25_paintbrushes desc"
   ],
   [
     "neopets_c25_rainbowpool",
-    "neopets_c25_rainbowpool name",
+    "Neopets Gökkuşağı Havuzu",
     "neopets_c25_rainbowpool desc"
   ],
   [
     "neopets_c25_road",
-    "neopets_c25_road name",
+    "Neopets Yolu",
     "neopets_c25_road desc"
   ],
   [
     "neopets_c25_royalpaintbrush",
-    "neopets_c25_royalpaintbrush name",
+    "Kraliyet Boya Fırçası",
     "neopets_c25_royalpaintbrush desc"
   ],
   [
     "neopets_c25_shoyru1",
-    "neopets_c25_shoyru1 name",
+    "Shoyru",
     "neopets_c25_shoyru1 desc"
   ],
   [
     "neopets_c25_shoyru2",
-    "neopets_c25_shoyru2 name",
+    "Robot Shoyru",
     "neopets_c25_shoyru2 desc"
   ],
   [
     "neopets_c25_shoyru3",
-    "neopets_c25_shoyru3 name",
+    "Cadılar Bayramı Shoyru",
     "neopets_c25_shoyru3 desc"
   ],
   [
     "neopets_c25_sign",
-    "neopets_c25_sign name",
+    "Neopets Tabelası",
     "neopets_c25_sign desc"
   ],
   [
     "neopets_c25_sniddberry",
-    "neopets_c25_sniddberry name",
+    "Sniddberry",
     "neopets_c25_sniddberry desc"
   ],
   [
     "neopets_c25_spruce",
-    "neopets_c25_spruce name",
+    "Neopets Ladin",
     "neopets_c25_spruce desc"
   ],
   [
     "neopets_c25_tcheafruit",
-    "neopets_c25_tcheafruit name",
+    "Tchea Meyvesi",
     "neopets_c25_tcheafruit desc"
   ],
   [
     "neopets_c25_unguberry",
-    "neopets_c25_unguberry name",
+    "Unguberry",
     "neopets_c25_unguberry desc"
   ],
   [
     "neopets_c25_voidberry",
-    "neopets_c25_voidberry name",
+    "Voidberry",
     "neopets_c25_voidberry desc"
   ],
   [
     "neopets_r25_neopetsarcade",
-    "neopets_r25_neopetsarcade name",
+    "Neopets Arcade Oyunu",
     "neopets_r25_neopetsarcade desc"
   ],
   [
@@ -88566,7 +88641,7 @@
   ],
   [
     "nft_h25_bronzesword",
-    "nft_h25_bronzesword name",
+    "Bronz Kılıç",
     "nft_h25_bronzesword desc"
   ],
   [
@@ -88745,6 +88820,11 @@
     "nft_h25_gnomeofdoom desc"
   ],
   [
+    "nft_h25_goblin",
+    "Goblin Savaşçı",
+    ""
+  ],
+  [
     "nft_h25_goldanvaward",
     "Altın 4. Yıl Dönümü Plaketi",
     "nft_h25_goldanvaward desc"
@@ -88761,7 +88841,7 @@
   ],
   [
     "nft_h25_goldsword",
-    "nft_h25_goldsword name",
+    "Altın Kılıç",
     "nft_h25_goldsword desc"
   ],
   [
@@ -88783,6 +88863,11 @@
     "nft_h25_hcsohva2",
     "Krem Taht Kanepe",
     "nft_h25_hcsohva2 desc"
+  ],
+  [
+    "nft_h25_magiccauldron",
+    "Sihirli Kazan",
+    ""
   ],
   [
     "nft_h25_monkeybzn_chair",
@@ -88866,7 +88951,7 @@
   ],
   [
     "nft_h25_silversword",
-    "nft_h25_silversword name",
+    "Gümüş Kılıç",
     "nft_h25_silversword desc"
   ],
   [
@@ -88996,7 +89081,7 @@
   ],
   [
     "nft_h25_trippysword",
-    "nft_h25_trippysword name",
+    "Trip Kılıç",
     "nft_h25_trippysword desc"
   ],
   [
@@ -98070,6 +98155,11 @@
     ""
   ],
   [
+    "rare_col_shishilamp_2_bd",
+    "Açık Mavi Gri Shishi Lambası",
+    ""
+  ],
+  [
     "rare_colourable_barrier*3",
     "Teal Yol Bariyeri",
     ""
@@ -98541,7 +98631,7 @@
   ],
   [
     "rare_colourable_shishilamp_2",
-    "rare_colourable_shishilamp_2 name",
+    "Açık Mavi Gri Shishi Lambası",
     "rare_colourable_shishilamp_2 desc"
   ],
   [
@@ -109983,6 +110073,21 @@
     "rotating_roomdeal448",
     "Hayatta Kalma Paketi",
     "Zombilerden korunmak için ideal… başka bir şey beklemeyin. (%98 zombi geçirmez)"
+  ],
+  [
+    "rotating_roomdeal449_10c",
+    "Neopets Paketi",
+    ""
+  ],
+  [
+    "rotating_roomdeal449_d",
+    "Neopets Paketi",
+    ""
+  ],
+  [
+    "rotating_roomdeal449",
+    "Neopets Paketi",
+    "Neopets Habbo'da, oda hepinizin en kısa sürede taşınması için hazır!"
   ],
   [
     "rotating_roomdeal44_10c",
