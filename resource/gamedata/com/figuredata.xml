@@ -13837,6 +13837,10 @@
                 <part id="6933" type="he" colorable="0" index="0" colorindex="0"/>
                 <part id="6934" type="he" colorable="0" index="1" colorindex="0"/>
             </set>
+            <set id="6254" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="6976" type="he" colorable="1" index="0" colorindex="1"/>
+                <part id="6977" type="he" colorable="0" index="1" colorindex="0"/>
+            </set>
             <set id="1605" gender="U" club="0" colorable="1" selectable="1" preselectable="0">
                 <part id="5" type="he" colorable="1" index="0" colorindex="1"/>
             </set>
