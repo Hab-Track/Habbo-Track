@@ -35312,6 +35312,11 @@
         "description": "clothing_flaredtrench desc"
       },
       {
+        "code": "clothing_fleeceheadwrap",
+        "name": "clothing_fleeceheadwrap name",
+        "description": "clothing_fleeceheadwrap desc"
+      },
+      {
         "code": "clothing_flipflopsocks",
         "name": "Infradito e Calzini",
         "description": "clothing_flipflopsocks desc"
@@ -35885,6 +35890,11 @@
         "code": "clothing_headjewel",
         "name": "Gioiello per il Capo Tradizionale",
         "description": "clothing_headjewel desc"
+      },
+      {
+        "code": "clothing_headlamp",
+        "name": "clothing_headlamp name",
+        "description": "clothing_headlamp desc"
       },
       {
         "code": "clothing_headscarf",
@@ -39577,6 +39587,11 @@
         "description": "clothing_penguinbackpack desc"
       },
       {
+        "code": "clothing_penguinhat",
+        "name": "clothing_penguinhat name",
+        "description": "clothing_penguinhat desc"
+      },
+      {
         "code": "clothing_pestmask",
         "name": "Maschera del Cavaliere della Pestilenza",
         "description": "Avvelena i tuoi nemici"
@@ -39675,6 +39690,16 @@
         "code": "clothing_pointyshoes",
         "name": "Scarpe da Mercante",
         "description": "clothing_pointyshoes desc"
+      },
+      {
+        "code": "clothing_polkadotbow",
+        "name": "clothing_polkadotbow name",
+        "description": "clothing_polkadotbow desc"
+      },
+      {
+        "code": "clothing_polkadotmittens",
+        "name": "clothing_polkadotmittens name",
+        "description": "clothing_polkadotmittens desc"
       },
       {
         "code": "clothing_polkadress",
@@ -42157,9 +42182,24 @@
         "description": "clothing_r25_goosefriend desc"
       },
       {
+        "code": "clothing_r25_habubu",
+        "name": "clothing_r25_habubu name",
+        "description": "clothing_r25_habubu desc"
+      },
+      {
+        "code": "clothing_r25_habubuglam",
+        "name": "clothing_r25_habubuglam name",
+        "description": "clothing_r25_habubuglam desc"
+      },
+      {
         "code": "clothing_r25_heartqueendress",
         "name": "Vestito Regina di Cuori",
         "description": "clothing_r25_heartqueendress desc"
+      },
+      {
+        "code": "clothing_r25_icetiplonghair",
+        "name": "clothing_r25_icetiplonghair name",
+        "description": "clothing_r25_icetiplonghair desc"
       },
       {
         "code": "clothing_r25_illusenwings",
@@ -42170,6 +42210,11 @@
         "code": "clothing_r25_iridescentstarbag",
         "name": "Borsa Stella Iridescente",
         "description": "clothing_r25_iridescentstarbag desc"
+      },
+      {
+        "code": "clothing_r25_kittybag",
+        "name": "clothing_r25_kittybag name",
+        "description": "clothing_r25_kittybag desc"
       },
       {
         "code": "clothing_r25_knightarmor",
@@ -42210,6 +42255,46 @@
         "code": "clothing_r25_nemeanlion",
         "name": "Leone di Nemea",
         "description": "clothing_r25_nemeanlion desc"
+      },
+      {
+        "code": "clothing_r25_nystargarland1",
+        "name": "clothing_r25_nystargarland1 name",
+        "description": "clothing_r25_nystargarland1 desc"
+      },
+      {
+        "code": "clothing_r25_nystargarland2",
+        "name": "clothing_r25_nystargarland2 name",
+        "description": "clothing_r25_nystargarland2 desc"
+      },
+      {
+        "code": "clothing_r25_nystargarland3",
+        "name": "clothing_r25_nystargarland3 name",
+        "description": "clothing_r25_nystargarland3 desc"
+      },
+      {
+        "code": "clothing_r25_nystargarland4",
+        "name": "clothing_r25_nystargarland4 name",
+        "description": "clothing_r25_nystargarland4 desc"
+      },
+      {
+        "code": "clothing_r25_nystargarland5",
+        "name": "clothing_r25_nystargarland5 name",
+        "description": "clothing_r25_nystargarland5 desc"
+      },
+      {
+        "code": "clothing_r25_nystargarland6",
+        "name": "clothing_r25_nystargarland6 name",
+        "description": "clothing_r25_nystargarland6 desc"
+      },
+      {
+        "code": "clothing_r25_nystargarland7",
+        "name": "clothing_r25_nystargarland7 name",
+        "description": "clothing_r25_nystargarland7 desc"
+      },
+      {
+        "code": "clothing_r25_nystargarland8",
+        "name": "clothing_r25_nystargarland8 name",
+        "description": "clothing_r25_nystargarland8 desc"
       },
       {
         "code": "clothing_r25_poshwaistcoat",
@@ -42795,6 +42880,11 @@
         "code": "clothing_snowday",
         "name": "Indumento Giornata di Neve",
         "description": "clothing_snowday desc"
+      },
+      {
+        "code": "clothing_snowflakenecklace",
+        "name": "clothing_snowflakenecklace name",
+        "description": "clothing_snowflakenecklace desc"
       },
       {
         "code": "clothing_snowman",
@@ -43550,6 +43640,11 @@
         "code": "clothing_xmasbow",
         "name": "Fiocco di Natale",
         "description": "Vestiti Habbo: Natale 2015"
+      },
+      {
+        "code": "clothing_xmashatpatchwork",
+        "name": "clothing_xmashatpatchwork name",
+        "description": "clothing_xmashatpatchwork desc"
       },
       {
         "code": "clothing_yarnhair",
@@ -50910,6 +51005,26 @@
         "code": "ducket_c25_chair",
         "name": "Sedia da Giardino",
         "description": ""
+      },
+      {
+        "code": "ducket_c25_cottagebook",
+        "name": "ducket_c25_cottagebook name",
+        "description": "ducket_c25_cottagebook desc"
+      },
+      {
+        "code": "ducket_c25_cottageduckrug",
+        "name": "ducket_c25_cottageduckrug name",
+        "description": "ducket_c25_cottageduckrug desc"
+      },
+      {
+        "code": "ducket_c25_cottageherbs",
+        "name": "ducket_c25_cottageherbs name",
+        "description": "ducket_c25_cottageherbs desc"
+      },
+      {
+        "code": "ducket_c25_cottagestool",
+        "name": "ducket_c25_cottagestool name",
+        "description": "ducket_c25_cottagestool desc"
       },
       {
         "code": "ducket_c25_duck",
@@ -82242,6 +82357,11 @@
         "description": "ny_r24_crackable desc"
       },
       {
+        "code": "ny_r25_crackable",
+        "name": "ny_r25_crackable name",
+        "description": "ny_r25_crackable desc"
+      },
+      {
         "code": "nyc_c23_bag1",
         "name": "Tote Bag Diurna",
         "description": "nyc_c23_bag1 desc"
@@ -90337,6 +90457,11 @@
         "description": "rare_prize25_9 desc"
       },
       {
+        "code": "rare_prize25_xmas",
+        "name": "rare_prize25_xmas name",
+        "description": "rare_prize25_xmas desc"
+      },
+      {
         "code": "rare_r19_car1_bd",
         "name": "La Macchina di Bonnie Blonde",
         "description": ""
@@ -90707,6 +90832,11 @@
         "description": "recycler_bedpink desc"
       },
       {
+        "code": "recycler_bluetyre",
+        "name": "recycler_bluetyre name",
+        "description": "recycler_bluetyre desc"
+      },
+      {
         "code": "recycler_bottleherb",
         "name": "Bottiglia per Erbe",
         "description": "recycler_bottleherb desc"
@@ -90767,6 +90897,26 @@
         "description": "recycler_dragonlamp desc"
       },
       {
+        "code": "recycler_ducktape",
+        "name": "recycler_ducktape name",
+        "description": "recycler_ducktape desc"
+      },
+      {
+        "code": "recycler_ducktapeblue",
+        "name": "recycler_ducktapeblue name",
+        "description": "recycler_ducktapeblue desc"
+      },
+      {
+        "code": "recycler_ducktapepink",
+        "name": "recycler_ducktapepink name",
+        "description": "recycler_ducktapepink desc"
+      },
+      {
+        "code": "recycler_grungetyre",
+        "name": "recycler_grungetyre name",
+        "description": "recycler_grungetyre desc"
+      },
+      {
         "code": "recycler_kintsugiA",
         "name": "Argilla Kintsugi Scura",
         "description": "recycler_kintsugiA desc"
@@ -90787,6 +90937,26 @@
         "description": "recycler_mantelclock desc"
       },
       {
+        "code": "recycler_patchduck2",
+        "name": "recycler_patchduck2 name",
+        "description": "recycler_patchduck2 desc"
+      },
+      {
+        "code": "recycler_patchduck3",
+        "name": "recycler_patchduck3 name",
+        "description": "recycler_patchduck3 desc"
+      },
+      {
+        "code": "recycler_patchduck",
+        "name": "recycler_patchduck name",
+        "description": "recycler_patchduck desc"
+      },
+      {
+        "code": "recycler_patchpillow",
+        "name": "recycler_patchpillow name",
+        "description": "recycler_patchpillow desc"
+      },
+      {
         "code": "recycler_patchsofaorange",
         "name": "Divano Arancione Patchwork",
         "description": "recycler_patchsofaorange desc"
@@ -90795,6 +90965,11 @@
         "code": "recycler_patchsofapink",
         "name": "Divano Rosa Patchwork",
         "description": "recycler_patchsofapink desc"
+      },
+      {
+        "code": "recycler_pinktyre",
+        "name": "recycler_pinktyre name",
+        "description": "recycler_pinktyre desc"
       },
       {
         "code": "recycler_resintableblue",
@@ -90840,6 +91015,11 @@
         "code": "recycler_tablelight",
         "name": "Tavolo in Pino",
         "description": "recycler_tablelight desc"
+      },
+      {
+        "code": "recycler_whitetyre",
+        "name": "recycler_whitetyre name",
+        "description": "recycler_whitetyre desc"
       },
       {
         "code": "red diner_bardesk_corner",
@@ -118257,6 +118437,46 @@
         "description": "xmas_c25_mistletoelovelock desc"
       },
       {
+        "code": "xmas_c25_penguin1",
+        "name": "xmas_c25_penguin1 name",
+        "description": "xmas_c25_penguin1 desc"
+      },
+      {
+        "code": "xmas_c25_penguin2",
+        "name": "xmas_c25_penguin2 name",
+        "description": "xmas_c25_penguin2 desc"
+      },
+      {
+        "code": "xmas_c25_penguin3",
+        "name": "xmas_c25_penguin3 name",
+        "description": "xmas_c25_penguin3 desc"
+      },
+      {
+        "code": "xmas_c25_penguin4",
+        "name": "xmas_c25_penguin4 name",
+        "description": "xmas_c25_penguin4 desc"
+      },
+      {
+        "code": "xmas_c25_penguin5",
+        "name": "xmas_c25_penguin5 name",
+        "description": "xmas_c25_penguin5 desc"
+      },
+      {
+        "code": "xmas_c25_penguin6",
+        "name": "xmas_c25_penguin6 name",
+        "description": "xmas_c25_penguin6 desc"
+      },
+      {
+        "code": "xmas_c25_penguin7",
+        "name": "xmas_c25_penguin7 name",
+        "description": "xmas_c25_penguin7 desc"
+      },
+      {
+        "code": "xmas_c25_penguin8",
+        "name": "xmas_c25_penguin8 name",
+        "description": "xmas_c25_penguin8 desc"
+      },
+      {
         "code": "xmas_c25_pixeltree",
         "name": "xmas_c25_pixeltree name",
         "description": "xmas_c25_pixeltree desc"
@@ -118577,6 +118797,11 @@
         "description": "xmas_ltd23_carousel desc"
       },
       {
+        "code": "xmas_ltd25_frostegg",
+        "name": "xmas_ltd25_frostegg name",
+        "description": "xmas_ltd25_frostegg desc"
+      },
+      {
         "code": "xmas_quest1",
         "name": "Xmas Quest Prize 1",
         "description": ""
@@ -118822,6 +119047,71 @@
         "description": "xmas_r24_divinedeer desc"
       },
       {
+        "code": "xmas_r25_festivenighthotel",
+        "name": "xmas_r25_festivenighthotel name",
+        "description": "xmas_r25_festivenighthotel desc"
+      },
+      {
+        "code": "xmas_r25_habububox",
+        "name": "xmas_r25_habububox name",
+        "description": "xmas_r25_habububox desc"
+      },
+      {
+        "code": "xmas_r25_habububoxb",
+        "name": "xmas_r25_habububoxb name",
+        "description": "xmas_r25_habububoxb desc"
+      },
+      {
+        "code": "xmas_r25_habubucalm",
+        "name": "xmas_r25_habubucalm name",
+        "description": "xmas_r25_habubucalm desc"
+      },
+      {
+        "code": "xmas_r25_habubucosy",
+        "name": "xmas_r25_habubucosy name",
+        "description": "xmas_r25_habubucosy desc"
+      },
+      {
+        "code": "xmas_r25_habubudream",
+        "name": "xmas_r25_habubudream name",
+        "description": "xmas_r25_habubudream desc"
+      },
+      {
+        "code": "xmas_r25_habubufun",
+        "name": "xmas_r25_habubufun name",
+        "description": "xmas_r25_habubufun desc"
+      },
+      {
+        "code": "xmas_r25_habubuglam",
+        "name": "xmas_r25_habubuglam name",
+        "description": "xmas_r25_habubuglam desc"
+      },
+      {
+        "code": "xmas_r25_habubuhappiness",
+        "name": "xmas_r25_habubuhappiness name",
+        "description": "xmas_r25_habubuhappiness desc"
+      },
+      {
+        "code": "xmas_r25_habubuhope",
+        "name": "xmas_r25_habubuhope name",
+        "description": "xmas_r25_habubuhope desc"
+      },
+      {
+        "code": "xmas_r25_habubulove",
+        "name": "xmas_r25_habubulove name",
+        "description": "xmas_r25_habubulove desc"
+      },
+      {
+        "code": "xmas_r25_habubuluck",
+        "name": "xmas_r25_habubuluck name",
+        "description": "xmas_r25_habubuluck desc"
+      },
+      {
+        "code": "xmas_r25_icepillow",
+        "name": "xmas_r25_icepillow name",
+        "description": "xmas_r25_icepillow desc"
+      },
+      {
         "code": "xmas_snow",
         "name": "Fiocchi di Neve",
         "description": "Una tempesta di Neve"
@@ -118950,6 +119240,11 @@
         "code": "year2025",
         "name": "Countodown Anno Nuovo 2025",
         "description": "year2025 desc"
+      },
+      {
+        "code": "year2026",
+        "name": "year2026 name",
+        "description": "year2026 desc"
       },
       {
         "code": "yellow diner_bardesk_corner",

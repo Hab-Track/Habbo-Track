@@ -35175,6 +35175,11 @@
     "clothing_flaredtrench desc"
   ],
   [
+    "clothing_fleeceheadwrap",
+    "clothing_fleeceheadwrap name",
+    "clothing_fleeceheadwrap desc"
+  ],
+  [
     "clothing_flipflopsocks",
     "Chanclas y Calcetines",
     "clothing_flipflopsocks desc"
@@ -35748,6 +35753,11 @@
     "clothing_headjewel",
     "Tocado Tradicional",
     "clothing_headjewel desc"
+  ],
+  [
+    "clothing_headlamp",
+    "clothing_headlamp name",
+    "clothing_headlamp desc"
   ],
   [
     "clothing_headscarf",
@@ -39460,6 +39470,11 @@
     "clothing_penguinbackpack desc"
   ],
   [
+    "clothing_penguinhat",
+    "clothing_penguinhat name",
+    "clothing_penguinhat desc"
+  ],
+  [
     "clothing_pestmask",
     "Máscara del Jinete de la Peste",
     "Envenena a tus enemigos."
@@ -39558,6 +39573,16 @@
     "clothing_pointyshoes",
     "Babuchas",
     "clothing_pointyshoes desc"
+  ],
+  [
+    "clothing_polkadotbow",
+    "clothing_polkadotbow name",
+    "clothing_polkadotbow desc"
+  ],
+  [
+    "clothing_polkadotmittens",
+    "clothing_polkadotmittens name",
+    "clothing_polkadotmittens desc"
   ],
   [
     "clothing_polkadress",
@@ -42040,9 +42065,24 @@
     "clothing_r25_goosefriend desc"
   ],
   [
+    "clothing_r25_habubu",
+    "clothing_r25_habubu name",
+    "clothing_r25_habubu desc"
+  ],
+  [
+    "clothing_r25_habubuglam",
+    "clothing_r25_habubuglam name",
+    "clothing_r25_habubuglam desc"
+  ],
+  [
     "clothing_r25_heartqueendress",
     "Vestido Reina de Corazones",
     "clothing_r25_heartqueendress desc"
+  ],
+  [
+    "clothing_r25_icetiplonghair",
+    "clothing_r25_icetiplonghair name",
+    "clothing_r25_icetiplonghair desc"
   ],
   [
     "clothing_r25_illusenwings",
@@ -42053,6 +42093,11 @@
     "clothing_r25_iridescentstarbag",
     "Bolso Estrella Iridiscente",
     "clothing_r25_iridescentstarbag desc"
+  ],
+  [
+    "clothing_r25_kittybag",
+    "clothing_r25_kittybag name",
+    "clothing_r25_kittybag desc"
   ],
   [
     "clothing_r25_knightarmor",
@@ -42093,6 +42138,46 @@
     "clothing_r25_nemeanlion",
     "León de Nemea",
     "clothing_r25_nemeanlion desc"
+  ],
+  [
+    "clothing_r25_nystargarland1",
+    "clothing_r25_nystargarland1 name",
+    "clothing_r25_nystargarland1 desc"
+  ],
+  [
+    "clothing_r25_nystargarland2",
+    "clothing_r25_nystargarland2 name",
+    "clothing_r25_nystargarland2 desc"
+  ],
+  [
+    "clothing_r25_nystargarland3",
+    "clothing_r25_nystargarland3 name",
+    "clothing_r25_nystargarland3 desc"
+  ],
+  [
+    "clothing_r25_nystargarland4",
+    "clothing_r25_nystargarland4 name",
+    "clothing_r25_nystargarland4 desc"
+  ],
+  [
+    "clothing_r25_nystargarland5",
+    "clothing_r25_nystargarland5 name",
+    "clothing_r25_nystargarland5 desc"
+  ],
+  [
+    "clothing_r25_nystargarland6",
+    "clothing_r25_nystargarland6 name",
+    "clothing_r25_nystargarland6 desc"
+  ],
+  [
+    "clothing_r25_nystargarland7",
+    "clothing_r25_nystargarland7 name",
+    "clothing_r25_nystargarland7 desc"
+  ],
+  [
+    "clothing_r25_nystargarland8",
+    "clothing_r25_nystargarland8 name",
+    "clothing_r25_nystargarland8 desc"
   ],
   [
     "clothing_r25_poshwaistcoat",
@@ -42678,6 +42763,11 @@
     "clothing_snowday",
     "Look día de nieve",
     "clothing_snowday desc"
+  ],
+  [
+    "clothing_snowflakenecklace",
+    "clothing_snowflakenecklace name",
+    "clothing_snowflakenecklace desc"
   ],
   [
     "clothing_snowman",
@@ -43433,6 +43523,11 @@
     "clothing_xmasbow",
     "Lazo Navideño",
     "Habbo Couture: Navidad 2015"
+  ],
+  [
+    "clothing_xmashatpatchwork",
+    "clothing_xmashatpatchwork name",
+    "clothing_xmashatpatchwork desc"
   ],
   [
     "clothing_yarnhair",
@@ -50298,6 +50393,26 @@
     "ducket_c25_chair",
     "Silla de jardín",
     ""
+  ],
+  [
+    "ducket_c25_cottagebook",
+    "ducket_c25_cottagebook name",
+    "ducket_c25_cottagebook desc"
+  ],
+  [
+    "ducket_c25_cottageduckrug",
+    "ducket_c25_cottageduckrug name",
+    "ducket_c25_cottageduckrug desc"
+  ],
+  [
+    "ducket_c25_cottageherbs",
+    "ducket_c25_cottageherbs name",
+    "ducket_c25_cottageherbs desc"
+  ],
+  [
+    "ducket_c25_cottagestool",
+    "ducket_c25_cottagestool name",
+    "ducket_c25_cottagestool desc"
   ],
   [
     "ducket_c25_duck",
@@ -81650,6 +81765,11 @@
     "ny_r24_crackable desc"
   ],
   [
+    "ny_r25_crackable",
+    "ny_r25_crackable name",
+    "ny_r25_crackable desc"
+  ],
+  [
     "nyc_c23_bag1",
     "Bolsa de Souvenirs Diurna",
     "nyc_c23_bag1 desc"
@@ -89870,6 +89990,11 @@
     "rare_prize25_9 desc"
   ],
   [
+    "rare_prize25_xmas",
+    "rare_prize25_xmas name",
+    "rare_prize25_xmas desc"
+  ],
+  [
     "rare_r19_car1_bd",
     "Coche de Bonnie Blonde",
     ""
@@ -90240,6 +90365,11 @@
     "recycler_bedpink desc"
   ],
   [
+    "recycler_bluetyre",
+    "recycler_bluetyre name",
+    "recycler_bluetyre desc"
+  ],
+  [
     "recycler_bottleherb",
     "Hierbas en Botella",
     "recycler_bottleherb desc"
@@ -90300,6 +90430,26 @@
     "recycler_dragonlamp desc"
   ],
   [
+    "recycler_ducktape",
+    "recycler_ducktape name",
+    "recycler_ducktape desc"
+  ],
+  [
+    "recycler_ducktapeblue",
+    "recycler_ducktapeblue name",
+    "recycler_ducktapeblue desc"
+  ],
+  [
+    "recycler_ducktapepink",
+    "recycler_ducktapepink name",
+    "recycler_ducktapepink desc"
+  ],
+  [
+    "recycler_grungetyre",
+    "recycler_grungetyre name",
+    "recycler_grungetyre desc"
+  ],
+  [
     "recycler_kintsugiA",
     "Kintsugi de Arcilla Oscura",
     "recycler_kintsugiA desc"
@@ -90320,6 +90470,26 @@
     "recycler_mantelclock desc"
   ],
   [
+    "recycler_patchduck2",
+    "recycler_patchduck2 name",
+    "recycler_patchduck2 desc"
+  ],
+  [
+    "recycler_patchduck3",
+    "recycler_patchduck3 name",
+    "recycler_patchduck3 desc"
+  ],
+  [
+    "recycler_patchduck",
+    "recycler_patchduck name",
+    "recycler_patchduck desc"
+  ],
+  [
+    "recycler_patchpillow",
+    "recycler_patchpillow name",
+    "recycler_patchpillow desc"
+  ],
+  [
     "recycler_patchsofaorange",
     "Sofá Amalgama Naranja",
     "recycler_patchsofaorange desc"
@@ -90328,6 +90498,11 @@
     "recycler_patchsofapink",
     "Sofá Amalgama Rosa",
     "recycler_patchsofapink desc"
+  ],
+  [
+    "recycler_pinktyre",
+    "recycler_pinktyre name",
+    "recycler_pinktyre desc"
   ],
   [
     "recycler_resintableblue",
@@ -90373,6 +90548,11 @@
     "recycler_tablelight",
     "Mesa Estilo Pino",
     "recycler_tablelight desc"
+  ],
+  [
+    "recycler_whitetyre",
+    "recycler_whitetyre name",
+    "recycler_whitetyre desc"
   ],
   [
     "red diner_bardesk_corner",
@@ -117725,6 +117905,46 @@
     "xmas_c25_mistletoelovelock desc"
   ],
   [
+    "xmas_c25_penguin1",
+    "xmas_c25_penguin1 name",
+    "xmas_c25_penguin1 desc"
+  ],
+  [
+    "xmas_c25_penguin2",
+    "xmas_c25_penguin2 name",
+    "xmas_c25_penguin2 desc"
+  ],
+  [
+    "xmas_c25_penguin3",
+    "xmas_c25_penguin3 name",
+    "xmas_c25_penguin3 desc"
+  ],
+  [
+    "xmas_c25_penguin4",
+    "xmas_c25_penguin4 name",
+    "xmas_c25_penguin4 desc"
+  ],
+  [
+    "xmas_c25_penguin5",
+    "xmas_c25_penguin5 name",
+    "xmas_c25_penguin5 desc"
+  ],
+  [
+    "xmas_c25_penguin6",
+    "xmas_c25_penguin6 name",
+    "xmas_c25_penguin6 desc"
+  ],
+  [
+    "xmas_c25_penguin7",
+    "xmas_c25_penguin7 name",
+    "xmas_c25_penguin7 desc"
+  ],
+  [
+    "xmas_c25_penguin8",
+    "xmas_c25_penguin8 name",
+    "xmas_c25_penguin8 desc"
+  ],
+  [
     "xmas_c25_pixeltree",
     "xmas_c25_pixeltree name",
     "xmas_c25_pixeltree desc"
@@ -118055,6 +118275,11 @@
     "xmas_ltd23_carousel desc"
   ],
   [
+    "xmas_ltd25_frostegg",
+    "xmas_ltd25_frostegg name",
+    "xmas_ltd25_frostegg desc"
+  ],
+  [
     "xmas_quest1",
     "Xmas Quest Prize 1",
     ""
@@ -118300,6 +118525,71 @@
     "xmas_r24_divinedeer desc"
   ],
   [
+    "xmas_r25_festivenighthotel",
+    "xmas_r25_festivenighthotel name",
+    "xmas_r25_festivenighthotel desc"
+  ],
+  [
+    "xmas_r25_habububox",
+    "xmas_r25_habububox name",
+    "xmas_r25_habububox desc"
+  ],
+  [
+    "xmas_r25_habububoxb",
+    "xmas_r25_habububoxb name",
+    "xmas_r25_habububoxb desc"
+  ],
+  [
+    "xmas_r25_habubucalm",
+    "xmas_r25_habubucalm name",
+    "xmas_r25_habubucalm desc"
+  ],
+  [
+    "xmas_r25_habubucosy",
+    "xmas_r25_habubucosy name",
+    "xmas_r25_habubucosy desc"
+  ],
+  [
+    "xmas_r25_habubudream",
+    "xmas_r25_habubudream name",
+    "xmas_r25_habubudream desc"
+  ],
+  [
+    "xmas_r25_habubufun",
+    "xmas_r25_habubufun name",
+    "xmas_r25_habubufun desc"
+  ],
+  [
+    "xmas_r25_habubuglam",
+    "xmas_r25_habubuglam name",
+    "xmas_r25_habubuglam desc"
+  ],
+  [
+    "xmas_r25_habubuhappiness",
+    "xmas_r25_habubuhappiness name",
+    "xmas_r25_habubuhappiness desc"
+  ],
+  [
+    "xmas_r25_habubuhope",
+    "xmas_r25_habubuhope name",
+    "xmas_r25_habubuhope desc"
+  ],
+  [
+    "xmas_r25_habubulove",
+    "xmas_r25_habubulove name",
+    "xmas_r25_habubulove desc"
+  ],
+  [
+    "xmas_r25_habubuluck",
+    "xmas_r25_habubuluck name",
+    "xmas_r25_habubuluck desc"
+  ],
+  [
+    "xmas_r25_icepillow",
+    "xmas_r25_icepillow name",
+    "xmas_r25_icepillow desc"
+  ],
+  [
     "xmas_snow",
     "Copos de Nieve",
     "Muévete en la ventisca"
@@ -118403,6 +118693,11 @@
     "year2025",
     "year2025 name",
     "year2025 desc"
+  ],
+  [
+    "year2026",
+    "year2026 name",
+    "year2026 desc"
   ],
   [
     "yellow diner_bardesk_corner",
