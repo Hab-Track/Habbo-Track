@@ -38789,27 +38789,27 @@
       {
         "code": "clothing_nftwizardsbeard",
         "name": "Barba de Mago",
-        "description": ""
+        "description": "clothing_nftwizardsbeard desc"
       },
       {
         "code": "clothing_nftwizardsglasses",
         "name": "Lentes de Mago",
-        "description": ""
+        "description": "clothing_nftwizardsglasses desc"
       },
       {
         "code": "clothing_nftwizardshaircut",
         "name": "Cabello de Mago",
-        "description": ""
+        "description": "clothing_nftwizardshaircut desc"
       },
       {
         "code": "clothing_nftwizardshat",
         "name": "Sombrero Tradicional de Mago",
-        "description": ""
+        "description": "clothing_nftwizardshat desc"
       },
       {
         "code": "clothing_nftwizardsrobe",
         "name": "Túnica Tradicional de Mago",
-        "description": ""
+        "description": "clothing_nftwizardsrobe desc"
       },
       {
         "code": "clothing_nftxlogo",
@@ -84327,9 +84327,19 @@
         "description": "Ayúdanos a evitar el escorbuto"
       },
       {
+        "code": "pirate_barrel2_test",
+        "name": "pirate_barrel2_test name",
+        "description": "pirate_barrel2_test desc"
+      },
+      {
         "code": "pirate_barrel3",
         "name": "Barril con pescado",
         "description": "¿Cansado de comer pescado?"
+      },
+      {
+        "code": "pirate_barrel3_test",
+        "name": "pirate_barrel3_test name",
+        "description": "pirate_barrel3_test desc"
       },
       {
         "code": "pirate_bottle_10",
@@ -102472,14 +102482,29 @@
         "description": "Espárragos trigueros y... ¿hamburguesa? Buff..."
       },
       {
+        "code": "school_stuff_03_test",
+        "name": "school_stuff_03_test name",
+        "description": "school_stuff_03_test desc"
+      },
+      {
         "code": "school_stuff_04",
         "name": "Menú del Comedor 2",
         "description": "Marchando una de ensalada y carne"
       },
       {
+        "code": "school_stuff_04_test",
+        "name": "school_stuff_04_test name",
+        "description": "school_stuff_04_test desc"
+      },
+      {
         "code": "school_stuff_05",
         "name": "Menú del Comedor 3",
         "description": "Marchando una de sopa y huevos revueltos"
+      },
+      {
+        "code": "school_stuff_05_test",
+        "name": "school_stuff_05_test name",
+        "description": "school_stuff_05_test desc"
       },
       {
         "code": "school_stuff_06",

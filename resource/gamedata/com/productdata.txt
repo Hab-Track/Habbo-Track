@@ -39347,27 +39347,27 @@
   [
     "clothing_nftwizardsbeard",
     "Wizard's Beard",
-    ""
+    "clothing_nftwizardsbeard desc"
   ],
   [
     "clothing_nftwizardsglasses",
     "Wizard's Glasses",
-    ""
+    "clothing_nftwizardsglasses desc"
   ],
   [
     "clothing_nftwizardshaircut",
     "Wizard's Hair",
-    ""
+    "clothing_nftwizardshaircut desc"
   ],
   [
     "clothing_nftwizardshat",
     "Traditional Wizard’s Hat",
-    ""
+    "clothing_nftwizardshat desc"
   ],
   [
     "clothing_nftwizardsrobe",
     "Traditional Wizard’s Robe",
-    ""
+    "clothing_nftwizardsrobe desc"
   ],
   [
     "clothing_nftxlogo",
@@ -91230,9 +91230,19 @@
     "Helps avoid scurvy"
   ],
   [
+    "pirate_barrel2_test",
+    "pirate_barrel2_test name",
+    "pirate_barrel2_test desc"
+  ],
+  [
     "pirate_barrel3",
     "Fish Barrel",
     "Tired of eating fish yet?"
+  ],
+  [
+    "pirate_barrel3_test",
+    "pirate_barrel3_test name",
+    "pirate_barrel3_test desc"
   ],
   [
     "pirate_bottle_10",
@@ -109455,14 +109465,29 @@
     "Yum! Cafeteria Food..."
   ],
   [
+    "school_stuff_03_test",
+    "school_stuff_03_test name",
+    "school_stuff_03_test desc"
+  ],
+  [
     "school_stuff_04",
     "Cafeteria Meatballs",
     "Yum! Cafeteria Food..."
   ],
   [
+    "school_stuff_04_test",
+    "school_stuff_04_test name",
+    "school_stuff_04_test desc"
+  ],
+  [
     "school_stuff_05",
     "Cafeteria Nuggets",
     "Yum! Cafeteria Food..."
+  ],
+  [
+    "school_stuff_05_test",
+    "school_stuff_05_test name",
+    "school_stuff_05_test desc"
   ],
   [
     "school_stuff_06",

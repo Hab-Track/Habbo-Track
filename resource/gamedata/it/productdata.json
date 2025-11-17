@@ -38904,27 +38904,27 @@
       {
         "code": "clothing_nftwizardsbeard",
         "name": "Barba da Mago",
-        "description": ""
+        "description": "clothing_nftwizardsbeard desc"
       },
       {
         "code": "clothing_nftwizardsglasses",
         "name": "Occhiali da Mago",
-        "description": ""
+        "description": "clothing_nftwizardsglasses desc"
       },
       {
         "code": "clothing_nftwizardshaircut",
         "name": "Capelli da Mago",
-        "description": ""
+        "description": "clothing_nftwizardshaircut desc"
       },
       {
         "code": "clothing_nftwizardshat",
         "name": "Cappello Tradizionale da Mago",
-        "description": ""
+        "description": "clothing_nftwizardshat desc"
       },
       {
         "code": "clothing_nftwizardsrobe",
         "name": "Veste Tradizionale da Mago",
-        "description": ""
+        "description": "clothing_nftwizardsrobe desc"
       },
       {
         "code": "clothing_nftxlogo",
@@ -84807,9 +84807,19 @@
         "description": "La vitamina C è importante!"
       },
       {
+        "code": "pirate_barrel2_test",
+        "name": "pirate_barrel2_test name",
+        "description": "pirate_barrel2_test desc"
+      },
+      {
         "code": "pirate_barrel3",
         "name": "Barile di pesce",
         "description": "Ne hai abbastanza di pesce?"
+      },
+      {
+        "code": "pirate_barrel3_test",
+        "name": "pirate_barrel3_test name",
+        "description": "pirate_barrel3_test desc"
       },
       {
         "code": "pirate_bottle_10",
@@ -102892,14 +102902,29 @@
         "description": "Hamburger, Latte e Piselli al Vapore"
       },
       {
+        "code": "school_stuff_03_test",
+        "name": "school_stuff_03_test name",
+        "description": "school_stuff_03_test desc"
+      },
+      {
         "code": "school_stuff_04",
         "name": "Mensa Menù 2",
         "description": "Polpette, Coca Cola e Puré"
       },
       {
+        "code": "school_stuff_04_test",
+        "name": "school_stuff_04_test name",
+        "description": "school_stuff_04_test desc"
+      },
+      {
         "code": "school_stuff_05",
         "name": "Mensa Menù 3",
         "description": "Nuggets, Succo d'Arancia e Carote"
+      },
+      {
+        "code": "school_stuff_05_test",
+        "name": "school_stuff_05_test name",
+        "description": "school_stuff_05_test desc"
       },
       {
         "code": "school_stuff_06",

@@ -38277,27 +38277,27 @@
   [
     "clothing_nftwizardsbeard",
     "Barbe sorcier",
-    ""
+    "clothing_nftwizardsbeard desc"
   ],
   [
     "clothing_nftwizardsglasses",
     "Lunettes sorcier",
-    ""
+    "clothing_nftwizardsglasses desc"
   ],
   [
     "clothing_nftwizardshaircut",
     "Chevelure sorcier",
-    ""
+    "clothing_nftwizardshaircut desc"
   ],
   [
     "clothing_nftwizardshat",
     "Chapeau traditionnel sorcier ",
-    ""
+    "clothing_nftwizardshat desc"
   ],
   [
     "clothing_nftwizardsrobe",
     "Robe traditionnelle sorcier",
-    ""
+    "clothing_nftwizardsrobe desc"
   ],
   [
     "clothing_nftxlogo",
@@ -82875,9 +82875,19 @@
     "Aides anti scorbut"
   ],
   [
+    "pirate_barrel2_test",
+    "pirate_barrel2_test name",
+    "pirate_barrel2_test desc"
+  ],
+  [
     "pirate_barrel3",
     "Baril de Poissons",
     "Fatigué de manger du poisson ?"
+  ],
+  [
+    "pirate_barrel3_test",
+    "pirate_barrel3_test name",
+    "pirate_barrel3_test desc"
   ],
   [
     "pirate_bottle_10",
@@ -100850,14 +100860,29 @@
     "Bon appétit!"
   ],
   [
+    "school_stuff_03_test",
+    "school_stuff_03_test name",
+    "school_stuff_03_test desc"
+  ],
+  [
     "school_stuff_04",
     "Plateau self - soda",
     "Bon appétit!"
   ],
   [
+    "school_stuff_04_test",
+    "school_stuff_04_test name",
+    "school_stuff_04_test desc"
+  ],
+  [
     "school_stuff_05",
     "Plateau self - lait",
     "Bon appétit!"
+  ],
+  [
+    "school_stuff_05_test",
+    "school_stuff_05_test name",
+    "school_stuff_05_test desc"
   ],
   [
     "school_stuff_06",

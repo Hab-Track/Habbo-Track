@@ -39567,27 +39567,27 @@
   [
     "clothing_nftwizardsbeard",
     "Velhon parta",
-    ""
+    "clothing_nftwizardsbeard desc"
   ],
   [
     "clothing_nftwizardsglasses",
     "Velhon lasit",
-    ""
+    "clothing_nftwizardsglasses desc"
   ],
   [
     "clothing_nftwizardshaircut",
     "Velhon kampaus",
-    ""
+    "clothing_nftwizardshaircut desc"
   ],
   [
     "clothing_nftwizardshat",
     "Perinteinen velhon hattu",
-    ""
+    "clothing_nftwizardshat desc"
   ],
   [
     "clothing_nftwizardsrobe",
     "Perinteinen velhon kaapu",
-    ""
+    "clothing_nftwizardsrobe desc"
   ],
   [
     "clothing_nftxlogo",
@@ -84820,9 +84820,19 @@
     "Auttaa välttämään keripukin"
   ],
   [
+    "pirate_barrel2_test",
+    "pirate_barrel2_test name",
+    "pirate_barrel2_test desc"
+  ],
+  [
     "pirate_barrel3",
     "Kalatynnyri",
     "Kyllästynyt kalan syöntiin?"
+  ],
+  [
+    "pirate_barrel3_test",
+    "pirate_barrel3_test name",
+    "pirate_barrel3_test desc"
   ],
   [
     "pirate_bottle_10",
@@ -102810,14 +102820,29 @@
     "Maittava kouluateria"
   ],
   [
+    "school_stuff_03_test",
+    "school_stuff_03_test name",
+    "school_stuff_03_test desc"
+  ],
+  [
     "school_stuff_04",
     "Broilerpyörykkäannos",
     "Maittava kouluateria"
   ],
   [
+    "school_stuff_04_test",
+    "school_stuff_04_test name",
+    "school_stuff_04_test desc"
+  ],
+  [
     "school_stuff_05",
     "Lihakastikeannos",
     "Maittava kouluateria"
+  ],
+  [
+    "school_stuff_05_test",
+    "school_stuff_05_test name",
+    "school_stuff_05_test desc"
   ],
   [
     "school_stuff_06",

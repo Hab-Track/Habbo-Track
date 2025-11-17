@@ -38994,27 +38994,27 @@
       {
         "code": "clothing_nftwizardsbeard",
         "name": "Barba de Mago",
-        "description": ""
+        "description": "clothing_nftwizardsbeard desc"
       },
       {
         "code": "clothing_nftwizardsglasses",
         "name": "Óculos de Mago",
-        "description": ""
+        "description": "clothing_nftwizardsglasses desc"
       },
       {
         "code": "clothing_nftwizardshaircut",
         "name": "Penteado de Mago",
-        "description": ""
+        "description": "clothing_nftwizardshaircut desc"
       },
       {
         "code": "clothing_nftwizardshat",
         "name": "Chapéu de Mago Tradicional",
-        "description": ""
+        "description": "clothing_nftwizardshat desc"
       },
       {
         "code": "clothing_nftwizardsrobe",
         "name": "Túnica de Mago Tradicional",
-        "description": ""
+        "description": "clothing_nftwizardsrobe desc"
       },
       {
         "code": "clothing_nftxlogo",
@@ -84752,9 +84752,19 @@
         "description": "Ajuda evitar escorbuto"
       },
       {
+        "code": "pirate_barrel2_test",
+        "name": "pirate_barrel2_test name",
+        "description": "pirate_barrel2_test desc"
+      },
+      {
         "code": "pirate_barrel3",
         "name": "Barril de peixes",
         "description": "Cansado de comer peixe?"
+      },
+      {
+        "code": "pirate_barrel3_test",
+        "name": "pirate_barrel3_test name",
+        "description": "pirate_barrel3_test desc"
       },
       {
         "code": "pirate_bottle_10",
@@ -102827,14 +102837,29 @@
         "description": "Não vale fazer guerra de comida!"
       },
       {
+        "code": "school_stuff_03_test",
+        "name": "school_stuff_03_test name",
+        "description": "school_stuff_03_test desc"
+      },
+      {
         "code": "school_stuff_04",
         "name": "Bandeja de Almoço",
         "description": "Não vale fazer guerra de comida!"
       },
       {
+        "code": "school_stuff_04_test",
+        "name": "school_stuff_04_test name",
+        "description": "school_stuff_04_test desc"
+      },
+      {
         "code": "school_stuff_05",
         "name": "Bandeja de Almoço",
         "description": "Não vale fazer guerra de comida!"
+      },
+      {
+        "code": "school_stuff_05_test",
+        "name": "school_stuff_05_test name",
+        "description": "school_stuff_05_test desc"
       },
       {
         "code": "school_stuff_06",

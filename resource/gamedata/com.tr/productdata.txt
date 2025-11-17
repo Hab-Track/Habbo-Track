@@ -39982,27 +39982,27 @@
   [
     "clothing_nftwizardsbeard",
     "Büyücü Sakalı",
-    ""
+    "clothing_nftwizardsbeard desc"
   ],
   [
     "clothing_nftwizardsglasses",
     "Büyücü Gözlüğü",
-    ""
+    "clothing_nftwizardsglasses desc"
   ],
   [
     "clothing_nftwizardshaircut",
     "Büyücü Saçı",
-    ""
+    "clothing_nftwizardshaircut desc"
   ],
   [
     "clothing_nftwizardshat",
     "Geleneksel Büyücü Şapkası",
-    ""
+    "clothing_nftwizardshat desc"
   ],
   [
     "clothing_nftwizardsrobe",
     "Geleneksel Büyücü Cüppesi",
-    ""
+    "clothing_nftwizardsrobe desc"
   ],
   [
     "clothing_nftxlogo",
@@ -94175,9 +94175,19 @@
     "İskorbütten kaçınmaya yardım eder"
   ],
   [
+    "pirate_barrel2_test",
+    "pirate_barrel2_test name",
+    "pirate_barrel2_test desc"
+  ],
+  [
     "pirate_barrel3",
     "Balık Varili",
     "Balık yemekten daha bıkmadın mı?"
+  ],
+  [
+    "pirate_barrel3_test",
+    "pirate_barrel3_test name",
+    "pirate_barrel3_test desc"
   ],
   [
     "pirate_bottle_10",
@@ -112420,14 +112430,29 @@
     "Hmm! Kafeterya Yemeği..."
   ],
   [
+    "school_stuff_03_test",
+    "school_stuff_03_test name",
+    "school_stuff_03_test desc"
+  ],
+  [
     "school_stuff_04",
     "Kafeterya Köftesi",
     "Hmm! Kafeterya Yemeği..."
   ],
   [
+    "school_stuff_04_test",
+    "school_stuff_04_test name",
+    "school_stuff_04_test desc"
+  ],
+  [
     "school_stuff_05",
     "Kafeterya Tavuk Parçacıkları",
     "Hmm! Kafeterya Yemeği..."
+  ],
+  [
+    "school_stuff_05_test",
+    "school_stuff_05_test name",
+    "school_stuff_05_test desc"
   ],
   [
     "school_stuff_06",

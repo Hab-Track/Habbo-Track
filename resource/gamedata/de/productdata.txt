@@ -38377,27 +38377,27 @@
   [
     "clothing_nftwizardsbeard",
     "Zauberer-Bart",
-    ""
+    "clothing_nftwizardsbeard desc"
   ],
   [
     "clothing_nftwizardsglasses",
     "Zauberer-Brille",
-    ""
+    "clothing_nftwizardsglasses desc"
   ],
   [
     "clothing_nftwizardshaircut",
     "Zauberer-Frisur",
-    ""
+    "clothing_nftwizardshaircut desc"
   ],
   [
     "clothing_nftwizardshat",
     "Traditioneller Zaubererhut",
-    ""
+    "clothing_nftwizardshat desc"
   ],
   [
     "clothing_nftwizardsrobe",
     "Traditionelles Zauberergewand",
-    ""
+    "clothing_nftwizardsrobe desc"
   ],
   [
     "clothing_nftxlogo",
@@ -83795,9 +83795,19 @@
     "Hilft gegen Skorbut"
   ],
   [
+    "pirate_barrel2_test",
+    "pirate_barrel2_test name",
+    "pirate_barrel2_test desc"
+  ],
+  [
     "pirate_barrel3",
     "Fischfass",
     "Fischessen schon leid?"
+  ],
+  [
+    "pirate_barrel3_test",
+    "pirate_barrel3_test name",
+    "pirate_barrel3_test desc"
   ],
   [
     "pirate_bottle_10",
@@ -101900,14 +101910,29 @@
     "Mit extra Käse"
   ],
   [
+    "school_stuff_03_test",
+    "school_stuff_03_test name",
+    "school_stuff_03_test desc"
+  ],
+  [
     "school_stuff_04",
     "Vegetarisches Menü",
     "Ohne Fleisch"
   ],
   [
+    "school_stuff_04_test",
+    "school_stuff_04_test name",
+    "school_stuff_04_test desc"
+  ],
+  [
     "school_stuff_05",
     "Pasta Menü",
     "Lecker Nudeln"
+  ],
+  [
+    "school_stuff_05_test",
+    "school_stuff_05_test name",
+    "school_stuff_05_test desc"
   ],
   [
     "school_stuff_06",

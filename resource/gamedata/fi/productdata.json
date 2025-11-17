@@ -39569,27 +39569,27 @@
       {
         "code": "clothing_nftwizardsbeard",
         "name": "Velhon parta",
-        "description": ""
+        "description": "clothing_nftwizardsbeard desc"
       },
       {
         "code": "clothing_nftwizardsglasses",
         "name": "Velhon lasit",
-        "description": ""
+        "description": "clothing_nftwizardsglasses desc"
       },
       {
         "code": "clothing_nftwizardshaircut",
         "name": "Velhon kampaus",
-        "description": ""
+        "description": "clothing_nftwizardshaircut desc"
       },
       {
         "code": "clothing_nftwizardshat",
         "name": "Perinteinen velhon hattu",
-        "description": ""
+        "description": "clothing_nftwizardshat desc"
       },
       {
         "code": "clothing_nftwizardsrobe",
         "name": "Perinteinen velhon kaapu",
-        "description": ""
+        "description": "clothing_nftwizardsrobe desc"
       },
       {
         "code": "clothing_nftxlogo",
@@ -84822,9 +84822,19 @@
         "description": "Auttaa välttämään keripukin"
       },
       {
+        "code": "pirate_barrel2_test",
+        "name": "pirate_barrel2_test name",
+        "description": "pirate_barrel2_test desc"
+      },
+      {
         "code": "pirate_barrel3",
         "name": "Kalatynnyri",
         "description": "Kyllästynyt kalan syöntiin?"
+      },
+      {
+        "code": "pirate_barrel3_test",
+        "name": "pirate_barrel3_test name",
+        "description": "pirate_barrel3_test desc"
       },
       {
         "code": "pirate_bottle_10",
@@ -102812,14 +102822,29 @@
         "description": "Maittava kouluateria"
       },
       {
+        "code": "school_stuff_03_test",
+        "name": "school_stuff_03_test name",
+        "description": "school_stuff_03_test desc"
+      },
+      {
         "code": "school_stuff_04",
         "name": "Broilerpyörykkäannos",
         "description": "Maittava kouluateria"
       },
       {
+        "code": "school_stuff_04_test",
+        "name": "school_stuff_04_test name",
+        "description": "school_stuff_04_test desc"
+      },
+      {
         "code": "school_stuff_05",
         "name": "Lihakastikeannos",
         "description": "Maittava kouluateria"
+      },
+      {
+        "code": "school_stuff_05_test",
+        "name": "school_stuff_05_test name",
+        "description": "school_stuff_05_test desc"
       },
       {
         "code": "school_stuff_06",
