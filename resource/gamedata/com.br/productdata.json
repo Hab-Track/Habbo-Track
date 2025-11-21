@@ -103257,6 +103257,11 @@
         "description": ""
       },
       {
+        "code": "seasonal_3",
+        "name": "Seasonal 3",
+        "description": ""
+      },
+      {
         "code": "seasonal_4",
         "name": "Seasonal 4",
         "description": ""
@@ -106610,6 +106615,11 @@
         "code": "test_nft_clothing",
         "name": "test_nft_clothing name",
         "description": "test_nft_clothing desc"
+      },
+      {
+        "code": "test_seasonal3",
+        "name": "Test Seasonal 3",
+        "description": ""
       },
       {
         "code": "test_shipside",
