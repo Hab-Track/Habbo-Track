@@ -45872,6 +45872,11 @@
         "description": "Kesilmiş Kütükler"
       },
       {
+        "code": "crafting25_prize",
+        "name": "Xmas25 Crafting Prize",
+        "description": ""
+      },
+      {
         "code": "crafting_jarhearts",
         "name": "Kaynaşma Kavanoz (üretim yapmak için)",
         "description": "crafting_jarhearts desc"
@@ -82037,6 +82042,11 @@
         "description": "Afiyet Olsun"
       },
       {
+        "code": "mistletoexmas25",
+        "name": "Mistletoe Quest",
+        "description": ""
+      },
+      {
         "code": "mm_lamp",
         "name": "Lüks Oturma Odası Lambası",
         "description": "Hayatını aydınlat"
@@ -91805,6 +91815,11 @@
         "code": "ny2015_table",
         "name": "Şeffaf Cam Masa",
         "description": "İçini görebiliyorum"
+      },
+      {
+        "code": "ny25_prize",
+        "name": "NY Quest Prize",
+        "description": ""
       },
       {
         "code": "ny_c16_sign",
@@ -124722,6 +124737,11 @@
         "description": "Internal product for advent 2014"
       },
       {
+        "code": "xma25_com_prize",
+        "name": "Xmas Community Challenge Prize",
+        "description": ""
+      },
+      {
         "code": "xmas turkey",
         "name": "xmas hindi adı",
         "description": "xmas hindi açık"
@@ -126039,6 +126059,31 @@
       {
         "code": "xmas21_p6",
         "name": "Habbo Express Pack 6",
+        "description": ""
+      },
+      {
+        "code": "xmas25_mazedj",
+        "name": "Xmas25 - Maze DJ Bling",
+        "description": ""
+      },
+      {
+        "code": "xmas25_mazerasta",
+        "name": "Xmas25 - Maze Rasta",
+        "description": ""
+      },
+      {
+        "code": "xmas25_quest1",
+        "name": "Quest Week 1 - Traditional Xmas",
+        "description": ""
+      },
+      {
+        "code": "xmas25_quest2",
+        "name": "Quest Week 2 - Modern Xmas",
+        "description": ""
+      },
+      {
+        "code": "xmas25_quest3",
+        "name": "Quest Week 3 - Battle of Both Xmas",
         "description": ""
       },
       {

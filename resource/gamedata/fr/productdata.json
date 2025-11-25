@@ -44147,6 +44147,11 @@
         "description": "cr_tree_basic_01 desc"
       },
       {
+        "code": "crafting25_prize",
+        "name": "Xmas25 Crafting Prize",
+        "description": ""
+      },
+      {
         "code": "crafting_jarhearts",
         "name": "Jarre de Fusion (pour fabriquer des vêtements)",
         "description": "crafting_jarhearts desc"
@@ -70787,6 +70792,11 @@
         "description": "Bon appétit"
       },
       {
+        "code": "mistletoexmas25",
+        "name": "Mistletoe Quest",
+        "description": ""
+      },
+      {
         "code": "mm_lamp",
         "name": "mm_lamp name",
         "description": "mm_lamp desc"
@@ -80510,6 +80520,11 @@
         "code": "ny2015_table",
         "name": "Table de verre",
         "description": "Je ne peux pas voir au travers !"
+      },
+      {
+        "code": "ny25_prize",
+        "name": "NY Quest Prize",
+        "description": ""
       },
       {
         "code": "ny_c16_sign",
@@ -112492,6 +112507,11 @@
         "description": "Internal product for advent 2014"
       },
       {
+        "code": "xma25_com_prize",
+        "name": "Xmas Community Challenge Prize",
+        "description": ""
+      },
+      {
         "code": "xmas turkey",
         "name": "xmas turkey name",
         "description": "xmas turkey desc"
@@ -113764,6 +113784,31 @@
       {
         "code": "xmas21_p6",
         "name": "Habbo Express Pack 6",
+        "description": ""
+      },
+      {
+        "code": "xmas25_mazedj",
+        "name": "Xmas25 - Maze DJ Bling",
+        "description": ""
+      },
+      {
+        "code": "xmas25_mazerasta",
+        "name": "Xmas25 - Maze Rasta",
+        "description": ""
+      },
+      {
+        "code": "xmas25_quest1",
+        "name": "Quest Week 1 - Traditional Xmas",
+        "description": ""
+      },
+      {
+        "code": "xmas25_quest2",
+        "name": "Quest Week 2 - Modern Xmas",
+        "description": ""
+      },
+      {
+        "code": "xmas25_quest3",
+        "name": "Quest Week 3 - Battle of Both Xmas",
         "description": ""
       },
       {

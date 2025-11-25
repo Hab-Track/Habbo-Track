@@ -45230,6 +45230,11 @@
     "Tree Trunk"
   ],
   [
+    "crafting25_prize",
+    "Xmas25 Crafting Prize",
+    ""
+  ],
+  [
     "crafting_jarhearts",
     "Fusion Jar (use to craft items)",
     "crafting_jarhearts desc"
@@ -79135,6 +79140,11 @@
     "Enjoy your meal"
   ],
   [
+    "mistletoexmas25",
+    "Mistletoe Quest",
+    ""
+  ],
+  [
     "mm_lamp",
     "Deluxe  Sitting Room Lamp",
     "Light up your life"
@@ -88858,6 +88868,11 @@
     "ny2015_table",
     "Glass table",
     "I can see right through it!"
+  ],
+  [
+    "ny25_prize",
+    "NY Quest Prize",
+    ""
   ],
   [
     "ny_c16_sign",
@@ -121645,6 +121660,11 @@
     "Internal product for advent 2014"
   ],
   [
+    "xma25_com_prize",
+    "Xmas Community Challenge Prize",
+    ""
+  ],
+  [
     "xmas turkey",
     "xmas turkey name",
     "xmas turkey desc"
@@ -122940,6 +122960,31 @@
     ""
   ],
   [
+    "xmas25_mazedj",
+    "Xmas25 - Maze DJ Bling",
+    ""
+  ],
+  [
+    "xmas25_mazerasta",
+    "Xmas25 - Maze Rasta",
+    ""
+  ],
+  [
+    "xmas25_quest1",
+    "Quest Week 1 - Traditional Xmas",
+    ""
+  ],
+  [
+    "xmas25_quest2",
+    "Quest Week 2 - Modern Xmas",
+    ""
+  ],
+  [
+    "xmas25_quest3",
+    "Quest Week 3 - Battle of Both Xmas",
+    ""
+  ],
+  [
     "xmas3",
     "Tinsel (silver)",
     "A touch of festive sparkle"
@@ -123371,7 +123416,7 @@
   ],
   [
     "xmas_c16_presentstack",
-    "Present Pile",
+    "Present Pile 2016",
     "Can you find yours?"
   ],
   [
@@ -123941,7 +123986,7 @@
   ],
   [
     "xmas_c18_presents",
-    "Present Pile",
+    "Present Pile 2018",
     "xmas_c18_presents desc"
   ],
   [
