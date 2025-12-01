@@ -30697,6 +30697,16 @@
         "description": ""
       },
       {
+        "code": "chatstyle_cm2ice",
+        "name": "Vereiste Chatblase",
+        "description": ""
+      },
+      {
+        "code": "chatstyle_cm2rocky",
+        "name": "Verschneiter Fels-Chatblase",
+        "description": ""
+      },
+      {
         "code": "chess_b_bishop",
         "name": "Schwarzer Läufer",
         "description": "chess_b_bishop desc"
@@ -31729,6 +31739,11 @@
       {
         "code": "cl_r25_heartqueendress_bd",
         "name": "Herzköniginnenkleid",
+        "description": ""
+      },
+      {
+        "code": "cl_r25_icetiplonghair_bd",
+        "name": "Geeister glitzernder Pferdeschwanz",
         "description": ""
       },
       {
@@ -34783,7 +34798,7 @@
       },
       {
         "code": "clothing_fleeceheadwrap",
-        "name": "clothing_fleeceheadwrap name",
+        "name": "Fleece-Stirnband",
         "description": "clothing_fleeceheadwrap desc"
       },
       {
@@ -35363,7 +35378,7 @@
       },
       {
         "code": "clothing_headlamp",
-        "name": "clothing_headlamp name",
+        "name": "Frontscheinwerfer",
         "description": "clothing_headlamp desc"
       },
       {
@@ -36392,6 +36407,16 @@
         "description": "clothing_nft2025 desc"
       },
       {
+        "code": "clothing_nft2025santahat",
+        "name": "Frostige Weihnachtsmannmütze",
+        "description": ""
+      },
+      {
+        "code": "clothing_nft2026",
+        "name": "Silvester-2026-Halskette",
+        "description": ""
+      },
+      {
         "code": "clothing_nft23partyhat1",
         "name": "Gelber 2.Geburtstags-Hut",
         "description": "clothing_nft23partyhat1 desc"
@@ -37307,9 +37332,24 @@
         "description": "clothing_nfthaha desc"
       },
       {
+        "code": "clothing_nfthappy2026print",
+        "name": "Happy 2026 Aufdruck",
+        "description": ""
+      },
+      {
         "code": "clothing_nfthearteyes",
         "name": "Liebesaugen",
         "description": "clothing_nfthearteyes desc"
+      },
+      {
+        "code": "clothing_nftheartfacepaint",
+        "name": "Herz-Gesichtsbemalung",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftheterocromia",
+        "name": "Verschiedenfarbige Kontaktlinsen",
+        "description": ""
       },
       {
         "code": "clothing_nfthiphop",
@@ -37332,6 +37372,11 @@
         "description": "clothing_nfthobbyhorse3 desc"
       },
       {
+        "code": "clothing_nfthohohoprint",
+        "name": "Ho Ho Ho Aufdruck",
+        "description": ""
+      },
+      {
         "code": "clothing_nftholidaycut",
         "name": "Relaxter Urlaubsschnitt",
         "description": "clothing_nftholidaycut desc"
@@ -37340,6 +37385,11 @@
         "code": "clothing_nfthoneyjar",
         "name": "Honigtopf-Tasche",
         "description": "clothing_nfthoneyjar desc"
+      },
+      {
+        "code": "clothing_nfticaruscrown",
+        "name": "Ikarus-Krone",
+        "description": ""
       },
       {
         "code": "clothing_nfticecreambag1",
@@ -37430,6 +37480,11 @@
         "code": "clothing_nftmechapack",
         "name": "Schmiede-Raketenrucksack",
         "description": "clothing_nftmechapack desc"
+      },
+      {
+        "code": "clothing_nftmerryxmasprint",
+        "name": "Merry Xmas Aufdruck",
+        "description": ""
       },
       {
         "code": "clothing_nftmessycut",
@@ -37612,6 +37667,11 @@
         "description": "clothing_nftpiercings desc"
       },
       {
+        "code": "clothing_nftpineapplehelmet",
+        "name": "Saftige Mütze",
+        "description": "clothing_nftpineapplehelmet desc"
+      },
+      {
         "code": "clothing_nftpinkbeanie",
         "name": "Rosa Skimütze",
         "description": "clothing_nftpinkbeanie desc"
@@ -37665,6 +37725,11 @@
         "code": "clothing_nftplayingcardoutfit",
         "name": "Spielkarten-Outfit",
         "description": "clothing_nftplayingcardoutfit desc"
+      },
+      {
+        "code": "clothing_nftpolarnight",
+        "name": "Polarnacht-Haut",
+        "description": ""
       },
       {
         "code": "clothing_nftpompomcardigan",
@@ -37747,6 +37812,11 @@
         "description": "clothing_nftrastasantajacket desc"
       },
       {
+        "code": "clothing_nftrastasantaprint",
+        "name": "Rasta-Weihnachtsmannaufdruck",
+        "description": ""
+      },
+      {
         "code": "clothing_nftregalblackcrown",
         "name": "Königlich schwarze Krone",
         "description": ""
@@ -37810,6 +37880,16 @@
         "code": "clothing_nftroundshades4",
         "name": "Gelbe Sonnenbrille",
         "description": "clothing_nftroundshades4 desc"
+      },
+      {
+        "code": "clothing_nftrudolphprint",
+        "name": "Rudolph-Aufdruck",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftrudolphsnose",
+        "name": "Rudolphs glänzende Nase",
+        "description": ""
       },
       {
         "code": "clothing_nfts25glasses1",
@@ -37992,6 +38072,11 @@
         "description": "clothing_nftsnowboard desc"
       },
       {
+        "code": "clothing_nftsnowmanbun",
+        "name": "Schneemann-Haarknoten",
+        "description": ""
+      },
+      {
         "code": "clothing_nftsnowoperadress",
         "name": "Gefrorenes Opernkleid",
         "description": "clothing_nftsnowoperadress desc"
@@ -38010,6 +38095,11 @@
         "code": "clothing_nftspringbrimhat",
         "name": "Weitkrempiger Sonnenhut",
         "description": "clothing_nftspringbrimhat desc"
+      },
+      {
+        "code": "clothing_nftstarfacepaint",
+        "name": "Stern-Gesichtsbemalung",
+        "description": ""
       },
       {
         "code": "clothing_nftstatue",
@@ -38257,6 +38347,16 @@
         "description": "clothing_nfttropicalcrop desc"
       },
       {
+        "code": "clothing_nfttubescarf",
+        "name": "Halswärmer",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftturkeyhat",
+        "name": "Truthahn-Mütze",
+        "description": ""
+      },
+      {
         "code": "clothing_nftumbrella",
         "name": "Regentag-Schirm",
         "description": "clothing_nftumbrella desc"
@@ -38307,9 +38407,29 @@
         "description": "clothing_nftwhitebeanie desc"
       },
       {
+        "code": "clothing_nftwinte25jacket",
+        "name": "Winter-Steppjacke",
+        "description": ""
+      },
+      {
         "code": "clothing_nftwinter1",
         "name": "Grüne Kleidung für Minusgrade",
         "description": "clothing_nftwinter1 desc"
+      },
+      {
+        "code": "clothing_nftwinter25beanie",
+        "name": "Winterbommelmütze",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwinter25boots",
+        "name": "Robuste Winterstiefel",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwinter25pants",
+        "name": "Warme Winterhose",
+        "description": ""
       },
       {
         "code": "clothing_nftwinter2",
@@ -38412,9 +38532,19 @@
         "description": "clothing_nftxlogo desc"
       },
       {
+        "code": "clothing_nftxmasbonnieprint",
+        "name": "Weihnachtsbonnie-Aufdruck",
+        "description": ""
+      },
+      {
         "code": "clothing_nftxmasdress",
         "name": "Scharlachrotes Weihnachtskleid",
         "description": "clothing_nftxmasdress desc"
+      },
+      {
+        "code": "clothing_nftxmaslollipop",
+        "name": "Weihnachtslolli",
+        "description": ""
       },
       {
         "code": "clothing_nftxmaspants",
@@ -39068,7 +39198,7 @@
       },
       {
         "code": "clothing_penguinhat",
-        "name": "clothing_penguinhat name",
+        "name": "Pinguin-Mütze",
         "description": "clothing_penguinhat desc"
       },
       {
@@ -39173,12 +39303,12 @@
       },
       {
         "code": "clothing_polkadotbow",
-        "name": "clothing_polkadotbow name",
+        "name": "Hübsch gepunktete Schleife",
         "description": "clothing_polkadotbow desc"
       },
       {
         "code": "clothing_polkadotmittens",
-        "name": "clothing_polkadotmittens name",
+        "name": "Punktmusterhandschuhe",
         "description": "clothing_polkadotmittens desc"
       },
       {
@@ -41663,12 +41793,12 @@
       },
       {
         "code": "clothing_r25_habubu",
-        "name": "clothing_r25_habubu name",
+        "name": "Habubu-Tasche",
         "description": "clothing_r25_habubu desc"
       },
       {
         "code": "clothing_r25_habubuglam",
-        "name": "clothing_r25_habubuglam name",
+        "name": "Glamour Habubu Tasche",
         "description": "clothing_r25_habubuglam desc"
       },
       {
@@ -41678,7 +41808,7 @@
       },
       {
         "code": "clothing_r25_icetiplonghair",
-        "name": "clothing_r25_icetiplonghair name",
+        "name": "Geeister glitzernder Pferdeschwanz",
         "description": "clothing_r25_icetiplonghair desc"
       },
       {
@@ -41692,8 +41822,13 @@
         "description": "clothing_r25_iridescentstarbag desc"
       },
       {
+        "code": "clothing_r25_kittybag_bd",
+        "name": "Katzentasche",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_kittybag",
-        "name": "clothing_r25_kittybag name",
+        "name": "Katzentasche",
         "description": "clothing_r25_kittybag desc"
       },
       {
@@ -41738,42 +41873,42 @@
       },
       {
         "code": "clothing_r25_nystargarland1",
-        "name": "clothing_r25_nystargarland1 name",
+        "name": "Babyrosa Schärpe",
         "description": "clothing_r25_nystargarland1 desc"
       },
       {
         "code": "clothing_r25_nystargarland2",
-        "name": "clothing_r25_nystargarland2 name",
+        "name": "Rubinrote Schärpe",
         "description": "clothing_r25_nystargarland2 desc"
       },
       {
         "code": "clothing_r25_nystargarland3",
-        "name": "clothing_r25_nystargarland3 name",
+        "name": "Goldgelbe Schärpe",
         "description": "clothing_r25_nystargarland3 desc"
       },
       {
         "code": "clothing_r25_nystargarland4",
-        "name": "clothing_r25_nystargarland4 name",
+        "name": "Mitternachtsblaue Schärpe",
         "description": "clothing_r25_nystargarland4 desc"
       },
       {
         "code": "clothing_r25_nystargarland5",
-        "name": "clothing_r25_nystargarland5 name",
+        "name": "Hellorange Schärpe",
         "description": "clothing_r25_nystargarland5 desc"
       },
       {
         "code": "clothing_r25_nystargarland6",
-        "name": "clothing_r25_nystargarland6 name",
+        "name": "Schneeblaue Schärpe",
         "description": "clothing_r25_nystargarland6 desc"
       },
       {
         "code": "clothing_r25_nystargarland7",
-        "name": "clothing_r25_nystargarland7 name",
+        "name": "Smaragdgrüne Schärpe",
         "description": "clothing_r25_nystargarland7 desc"
       },
       {
         "code": "clothing_r25_nystargarland8",
-        "name": "clothing_r25_nystargarland8 name",
+        "name": "Punklila Schärpe",
         "description": "clothing_r25_nystargarland8 desc"
       },
       {
@@ -42363,7 +42498,7 @@
       },
       {
         "code": "clothing_snowflakenecklace",
-        "name": "clothing_snowflakenecklace name",
+        "name": "Schneeflocken-Halskette",
         "description": "clothing_snowflakenecklace desc"
       },
       {
@@ -43123,7 +43258,7 @@
       },
       {
         "code": "clothing_xmashatpatchwork",
-        "name": "clothing_xmashatpatchwork name",
+        "name": "Patchwork-Weihnachtsmannmütze",
         "description": "clothing_xmashatpatchwork desc"
       },
       {
@@ -50078,22 +50213,22 @@
       },
       {
         "code": "ducket_c25_cottagebook",
-        "name": "ducket_c25_cottagebook name",
+        "name": "Gemütliches Buch",
         "description": "ducket_c25_cottagebook desc"
       },
       {
         "code": "ducket_c25_cottageduckrug",
-        "name": "ducket_c25_cottageduckrug name",
+        "name": "Landhaus-Ententeppich",
         "description": "ducket_c25_cottageduckrug desc"
       },
       {
         "code": "ducket_c25_cottageherbs",
-        "name": "ducket_c25_cottageherbs name",
+        "name": "Wichtige Kräuter",
         "description": "ducket_c25_cottageherbs desc"
       },
       {
         "code": "ducket_c25_cottagestool",
-        "name": "ducket_c25_cottagestool name",
+        "name": "Flauschiger Hocker",
         "description": "ducket_c25_cottagestool desc"
       },
       {
@@ -56603,7 +56738,7 @@
       },
       {
         "code": "giftbox_c25_crackable5",
-        "name": "giftbox_c25_crackable5 name",
+        "name": "Weihnachten 2025 Geschenkbox",
         "description": "giftbox_c25_crackable5 desc"
       },
       {
@@ -69703,7 +69838,7 @@
       },
       {
         "code": "lodge_brickwall",
-        "name": "lodge_brickwall name",
+        "name": "Hütten-Ziegelsteinmauer",
         "description": "lodge_brickwall desc"
       },
       {
@@ -69733,7 +69868,7 @@
       },
       {
         "code": "lodge_chandelier",
-        "name": "lodge_chandelier name",
+        "name": "Hütten-Kerzenständer",
         "description": "lodge_chandelier desc"
       },
       {
@@ -69743,127 +69878,127 @@
       },
       {
         "code": "lodge_dark_bardesk",
-        "name": "lodge_dark_bardesk name",
+        "name": "Dunkler Hütten-Bartisch",
         "description": "lodge_dark_bardesk desc"
       },
       {
         "code": "lodge_dark_barrelstool",
-        "name": "lodge_dark_barrelstool name",
+        "name": "Dunkler Hütten-Fasshocker",
         "description": "lodge_dark_barrelstool desc"
       },
       {
         "code": "lodge_dark_bed",
-        "name": "lodge_dark_bed name",
+        "name": "Dunkles Hütten-Bett",
         "description": "lodge_dark_bed desc"
       },
       {
         "code": "lodge_dark_bench",
-        "name": "lodge_dark_bench name",
+        "name": "Dunkle Hütten-Bank",
         "description": "lodge_dark_bench desc"
       },
       {
         "code": "lodge_dark_bookcase",
-        "name": "lodge_dark_bookcase name",
+        "name": "Dunkles Hütten-Bücherregal",
         "description": "lodge_dark_bookcase desc"
       },
       {
         "code": "lodge_dark_brickwall",
-        "name": "lodge_dark_brickwall name",
+        "name": "Dunkle Hütten-Ziegelsteinmauer",
         "description": "lodge_dark_brickwall desc"
       },
       {
         "code": "lodge_dark_candle",
-        "name": "lodge_dark_candle name",
+        "name": "Dunkle Hütten-Kerze",
         "description": "lodge_dark_candle desc"
       },
       {
         "code": "lodge_dark_chandelier",
-        "name": "lodge_dark_chandelier name",
+        "name": "Dunkler Hütten-Kerzenständer",
         "description": "lodge_dark_chandelier desc"
       },
       {
         "code": "lodge_dark_cornerplinth",
-        "name": "lodge_dark_cornerplinth name",
+        "name": "Dunkler Hütten-Ecksockel",
         "description": "lodge_dark_cornerplinth desc"
       },
       {
         "code": "lodge_dark_desk",
-        "name": "lodge_dark_desk name",
+        "name": "Dunkler Hütten-Chefschreibtisch",
         "description": "lodge_dark_desk desc"
       },
       {
         "code": "lodge_dark_diningtable",
-        "name": "lodge_dark_diningtable name",
+        "name": "Dunkler Hütten-Esstisch",
         "description": "lodge_dark_diningtable desc"
       },
       {
         "code": "lodge_dark_divider",
-        "name": "lodge_dark_divider name",
+        "name": "Dunkler Hütten-Raumtrenner",
         "description": "lodge_dark_divider desc"
       },
       {
         "code": "lodge_dark_doublebed",
-        "name": "lodge_dark_doublebed name",
+        "name": "Dunkles Hütten-Doppelbett",
         "description": "lodge_dark_doublebed desc"
       },
       {
         "code": "lodge_dark_endtable",
-        "name": "lodge_dark_endtable name",
+        "name": "Dunkler Hütten-Beistelltisch",
         "description": "lodge_dark_endtable desc"
       },
       {
         "code": "lodge_dark_fireplace",
-        "name": "lodge_dark_fireplace name",
+        "name": "Dunkler Hütten-Kamin",
         "description": "lodge_dark_fireplace desc"
       },
       {
         "code": "lodge_dark_floor",
-        "name": "lodge_dark_floor name",
+        "name": "Dunkler Hütten-Boden",
         "description": "lodge_dark_floor desc"
       },
       {
         "code": "lodge_dark_gate",
-        "name": "lodge_dark_gate name",
+        "name": "Dunkles Hütten-Tor",
         "description": "lodge_dark_gate desc"
       },
       {
         "code": "lodge_dark_lamp",
-        "name": "lodge_dark_lamp name",
+        "name": "Dunkle Hütten-Tischlampe",
         "description": "lodge_dark_lamp desc"
       },
       {
         "code": "lodge_dark_minibar",
-        "name": "lodge_dark_minibar name",
+        "name": "Dunkle Hütten-Fassminibar",
         "description": "lodge_dark_minibar desc"
       },
       {
         "code": "lodge_dark_reindeerhead",
-        "name": "lodge_dark_reindeerhead name",
+        "name": "Dunkle Hütten-Wandskulptur",
         "description": "lodge_dark_reindeerhead desc"
       },
       {
         "code": "lodge_dark_stool",
-        "name": "lodge_dark_stool name",
+        "name": "Dunkler Hütten-Hocker",
         "description": "lodge_dark_stool desc"
       },
       {
         "code": "lodge_dark_tv",
-        "name": "lodge_dark_tv name",
+        "name": "Dunkler Hütten-Fernseher",
         "description": "lodge_dark_tv desc"
       },
       {
         "code": "lodge_dark_wall",
-        "name": "lodge_dark_wall name",
+        "name": "Dunkle Hütten-Wand",
         "description": "lodge_dark_wall desc"
       },
       {
         "code": "lodge_dark_window",
-        "name": "lodge_dark_window name",
+        "name": "Dunkles Hütten-Fenster",
         "description": "lodge_dark_window desc"
       },
       {
         "code": "lodge_desk",
-        "name": "lodge_desk name",
+        "name": "Hütten-Chefschreibtisch",
         "description": "lodge_desk desc"
       },
       {
@@ -69878,7 +70013,7 @@
       },
       {
         "code": "lodge_reindeerhead",
-        "name": "lodge_reindeerhead name",
+        "name": "Hütten-Wandskulptur",
         "description": "lodge_reindeerhead desc"
       },
       {
@@ -69888,7 +70023,7 @@
       },
       {
         "code": "lodge_tv",
-        "name": "lodge_tv name",
+        "name": "Hütten-Fernseher",
         "description": "lodge_tv desc"
       },
       {
@@ -71838,12 +71973,12 @@
       },
       {
         "code": "mode_ceilinglight",
-        "name": "mode_ceilinglight name",
+        "name": "Silbermodus-Deckenleuchte",
         "description": "mode_ceilinglight desc"
       },
       {
         "code": "mode_clock_0",
-        "name": "mode_clock_0 name",
+        "name": "Silbermodus-Uhr",
         "description": "mode_clock_0 desc"
       },
       {
@@ -71893,12 +72028,12 @@
       },
       {
         "code": "mode_fridge",
-        "name": "mode_fridge name",
+        "name": "Silbermodus-Kühlschrank",
         "description": "mode_fridge desc"
       },
       {
         "code": "mode_gold_armchair_0",
-        "name": "mode_gold_armchair_0 name",
+        "name": "Goldmodus-Sessel",
         "description": "mode_gold_armchair_0 desc"
       },
       {
@@ -71948,12 +72083,12 @@
       },
       {
         "code": "mode_gold_bar",
-        "name": "mode_gold_bar name",
+        "name": "Goldmodus-Minibar",
         "description": "mode_gold_bar desc"
       },
       {
         "code": "mode_gold_bardesk_0",
-        "name": "mode_gold_bardesk_0 name",
+        "name": "Goldmodus-Bar",
         "description": "mode_gold_bardesk_0 desc"
       },
       {
@@ -72003,7 +72138,7 @@
       },
       {
         "code": "mode_gold_bardeskcorner_0",
-        "name": "mode_gold_bardeskcorner_0 name",
+        "name": "Goldmodus-Barecke",
         "description": "mode_gold_bardeskcorner_0 desc"
       },
       {
@@ -72053,7 +72188,7 @@
       },
       {
         "code": "mode_gold_bearug_0",
-        "name": "mode_gold_bearug_0 name",
+        "name": "Goldmodus-Kunstpelzbärenteppich",
         "description": "mode_gold_bearug_0 desc"
       },
       {
@@ -72083,7 +72218,7 @@
       },
       {
         "code": "mode_gold_bed_0",
-        "name": "mode_gold_bed_0 name",
+        "name": "Goldmodus-Bett",
         "description": "mode_gold_bed_0 desc"
       },
       {
@@ -72133,17 +72268,17 @@
       },
       {
         "code": "mode_gold_bookcase",
-        "name": "mode_gold_bookcase name",
+        "name": "Goldmodus-Bücherregal",
         "description": "mode_gold_bookcase desc"
       },
       {
         "code": "mode_gold_ceilinglight",
-        "name": "mode_gold_ceilinglight name",
+        "name": "Goldmodus-Deckenleuchte",
         "description": "mode_gold_ceilinglight desc"
       },
       {
         "code": "mode_gold_clock_0",
-        "name": "mode_gold_clock_0 name",
+        "name": "Goldmodus-Uhr",
         "description": "mode_gold_clock_0 desc"
       },
       {
@@ -72193,12 +72328,12 @@
       },
       {
         "code": "mode_gold_diningchair",
-        "name": "mode_gold_diningchair name",
+        "name": "Goldmodus-Esstischstuhl",
         "description": "mode_gold_diningchair desc"
       },
       {
         "code": "mode_gold_doublebed_0",
-        "name": "mode_gold_doublebed_0 name",
+        "name": "Goldmodus-Doppelbett",
         "description": "mode_gold_doublebed_0 desc"
       },
       {
@@ -72248,17 +72383,17 @@
       },
       {
         "code": "mode_gold_fireplace",
-        "name": "mode_gold_fireplace name",
+        "name": "Goldmodus-Kamin",
         "description": "mode_gold_fireplace desc"
       },
       {
         "code": "mode_gold_fridge",
-        "name": "mode_gold_fridge name",
+        "name": "Goldmodus-Kühlschrank",
         "description": "mode_gold_fridge desc"
       },
       {
         "code": "mode_gold_gate_0",
-        "name": "mode_gold_gate_0 name",
+        "name": "Goldmodus-Tor",
         "description": "mode_gold_gate_0 desc"
       },
       {
@@ -72308,22 +72443,22 @@
       },
       {
         "code": "mode_gold_largecoffeetable",
-        "name": "mode_gold_largecoffeetable name",
+        "name": "Großer Goldmodus-Couchtisch",
         "description": "mode_gold_largecoffeetable desc"
       },
       {
         "code": "mode_gold_largediningtable",
-        "name": "mode_gold_largediningtable name",
+        "name": "Großer Goldmodus-Esstisch",
         "description": "mode_gold_largediningtable desc"
       },
       {
         "code": "mode_gold_largetable",
-        "name": "mode_gold_largetable name",
+        "name": "Großer Goldmodus-Tisch",
         "description": "mode_gold_largetable desc"
       },
       {
         "code": "mode_gold_partingscreen_0",
-        "name": "mode_gold_partingscreen_0 name",
+        "name": "Goldmodus-Bildschirm",
         "description": "mode_gold_partingscreen_0 desc"
       },
       {
@@ -72373,12 +72508,12 @@
       },
       {
         "code": "mode_gold_smallcoffeetable",
-        "name": "mode_gold_smallcoffeetable name",
+        "name": "Kleiner Goldmodus-Couchtisch",
         "description": "mode_gold_smallcoffeetable desc"
       },
       {
         "code": "mode_gold_sofa_0",
-        "name": "mode_gold_sofa_0 name",
+        "name": "Goldmodus-Sofa",
         "description": "mode_gold_sofa_0 desc"
       },
       {
@@ -72428,7 +72563,7 @@
       },
       {
         "code": "mode_gold_vase_0",
-        "name": "mode_gold_vase_0 name",
+        "name": "Goldmodus-Vase",
         "description": "mode_gold_vase_0 desc"
       },
       {
@@ -72478,7 +72613,7 @@
       },
       {
         "code": "mode_gold_zshelf",
-        "name": "mode_gold_zshelf name",
+        "name": "Goldmodus-Regal",
         "description": "mode_gold_zshelf desc"
       },
       {
@@ -72488,7 +72623,7 @@
       },
       {
         "code": "mode_partingscreen_0",
-        "name": "mode_partingscreen_0 name",
+        "name": "Silbermodus-Bildschirm",
         "description": "mode_partingscreen_0 desc"
       },
       {
@@ -72538,7 +72673,7 @@
       },
       {
         "code": "mode_vase_0",
-        "name": "mode_vase_0 name",
+        "name": "Silbermodus-Vase",
         "description": "mode_vase_0 desc"
       },
       {
@@ -73113,7 +73248,7 @@
       },
       {
         "code": "neopets_c25_acaraxmas",
-        "name": "neopets_c25_acaraxmas name",
+        "name": "Weihnachts-Acara",
         "description": "neopets_c25_acaraxmas desc"
       },
       {
@@ -73133,7 +73268,7 @@
       },
       {
         "code": "neopets_c25_aishaxmas",
-        "name": "neopets_c25_aishaxmas name",
+        "name": "Weihnachts-Aisha",
         "description": "neopets_c25_aishaxmas desc"
       },
       {
@@ -73148,7 +73283,7 @@
       },
       {
         "code": "neopets_c25_brucexmas",
-        "name": "neopets_c25_brucexmas name",
+        "name": "Weihnachts-Bruce",
         "description": "neopets_c25_brucexmas desc"
       },
       {
@@ -73173,12 +73308,12 @@
       },
       {
         "code": "neopets_c25_crackablexmas",
-        "name": "neopets_c25_crackablexmas name",
+        "name": "Festliches Neopets-Ei",
         "description": "neopets_c25_crackablexmas desc"
       },
       {
         "code": "neopets_c25_crackablexmasb",
-        "name": "neopets_c25_crackablexmasb name",
+        "name": "Festliches Neopets-Ei",
         "description": "neopets_c25_crackablexmasb desc"
       },
       {
@@ -73198,7 +73333,7 @@
       },
       {
         "code": "neopets_c25_cybunnyxmas",
-        "name": "neopets_c25_cybunnyxmas name",
+        "name": "Weihnachts-Cybunny",
         "description": "neopets_c25_cybunnyxmas desc"
       },
       {
@@ -73233,7 +73368,7 @@
       },
       {
         "code": "neopets_c25_draikxmas",
-        "name": "neopets_c25_draikxmas name",
+        "name": "Weihnachts-Draik",
         "description": "neopets_c25_draikxmas desc"
       },
       {
@@ -73258,7 +73393,7 @@
       },
       {
         "code": "neopets_c25_eyriexmas",
-        "name": "neopets_c25_eyriexmas name",
+        "name": "Weihnachts-Eyrie",
         "description": "neopets_c25_eyriexmas desc"
       },
       {
@@ -73293,7 +73428,7 @@
       },
       {
         "code": "neopets_c25_kacheekxmas",
-        "name": "neopets_c25_kacheekxmas name",
+        "name": "Weihnachts-Kacheek",
         "description": "neopets_c25_kacheekxmas desc"
       },
       {
@@ -73313,7 +73448,7 @@
       },
       {
         "code": "neopets_c25_kougraxmas",
-        "name": "neopets_c25_kougraxmas name",
+        "name": "Weihnachts-Kougra",
         "description": "neopets_c25_kougraxmas desc"
       },
       {
@@ -73338,7 +73473,7 @@
       },
       {
         "code": "neopets_c25_lupexmas",
-        "name": "neopets_c25_lupexmas name",
+        "name": "Weihnachts-Lupe",
         "description": "neopets_c25_lupexmas desc"
       },
       {
@@ -73388,7 +73523,7 @@
       },
       {
         "code": "neopets_c25_shoyruxmas",
-        "name": "neopets_c25_shoyruxmas name",
+        "name": "Weihnachts-Shoyru",
         "description": "neopets_c25_shoyruxmas desc"
       },
       {
@@ -73418,7 +73553,7 @@
       },
       {
         "code": "neopets_c25_unixmas",
-        "name": "neopets_c25_unixmas name",
+        "name": "Weihnachts-Uni",
         "description": "neopets_c25_unixmas desc"
       },
       {
@@ -73428,7 +73563,7 @@
       },
       {
         "code": "neopets_c25_xweetokxmas",
-        "name": "neopets_c25_xweetokxmas name",
+        "name": "Weihnachts-Xweetok",
         "description": "neopets_c25_xweetokxmas desc"
       },
       {
@@ -75445,6 +75580,46 @@
         "code": "nft_cm1_wall",
         "name": "Flickenwand",
         "description": "nft_cm1_wall desc"
+      },
+      {
+        "code": "nft_cm2_croksleepingbag",
+        "name": "Krokodilstoffschlafsack",
+        "description": "nft_cm2_croksleepingbag desc"
+      },
+      {
+        "code": "nft_cm2_icefloor",
+        "name": "Eisige Pflastersteine",
+        "description": "nft_cm2_icefloor desc"
+      },
+      {
+        "code": "nft_cm2_raccoonsofa",
+        "name": "Kunstpelzwaschbärsofa",
+        "description": "nft_cm2_raccoonsofa desc"
+      },
+      {
+        "code": "nft_cm2_rocky",
+        "name": "Schneebedeckte Felsen",
+        "description": "nft_cm2_rocky desc"
+      },
+      {
+        "code": "nft_cm2_secretsantavoucher",
+        "name": "Wichtelgutschein",
+        "description": "nft_cm2_secretsantavoucher desc"
+      },
+      {
+        "code": "nft_cm2_snowpipefence",
+        "name": "Schneepumpe",
+        "description": "nft_cm2_snowpipefence desc"
+      },
+      {
+        "code": "nft_cm2_snowstormdrinks",
+        "name": "Gefrorener Schnee-Spender",
+        "description": "nft_cm2_snowstormdrinks desc"
+      },
+      {
+        "code": "nft_cm2_sprucechair",
+        "name": "Alpine Waldliege",
+        "description": "nft_cm2_sprucechair desc"
       },
       {
         "code": "nft_cny16_monkeyballoon",
@@ -78542,6 +78717,11 @@
         "description": "nft_h25_armasrockingchair desc"
       },
       {
+        "code": "nft_h25_bluexmaslollipop",
+        "name": "Blauer Weihnachtslolli",
+        "description": ""
+      },
+      {
         "code": "nft_h25_boogieblast_egg",
         "name": "Disco Dino-Ei",
         "description": "nft_h25_boogieblast_egg desc"
@@ -78762,6 +78942,16 @@
         "description": "nft_h25_giftopentestfurni desc"
       },
       {
+        "code": "nft_h25_gingerbreadhotel",
+        "name": "Lebkuchen-Hotel",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_gingerbreadsofa",
+        "name": "Lebkuchen-Sofa",
+        "description": ""
+      },
+      {
         "code": "nft_h25_gnomeofdoom",
         "name": "Sensengnom",
         "description": "nft_h25_gnomeofdoom desc"
@@ -78792,6 +78982,11 @@
         "description": "nft_h25_goldsword desc"
       },
       {
+        "code": "nft_h25_haf_penguin",
+        "name": "Pinguin-Actionfigur",
+        "description": ""
+      },
+      {
         "code": "nft_h25_haf_reddevil",
         "name": "Red Devil Actionfigur",
         "description": "nft_h25_haf_reddevil desc"
@@ -78810,6 +79005,16 @@
         "code": "nft_h25_hcsohva2",
         "name": "Cremefarbenes Antikes Clubsofa",
         "description": "nft_h25_hcsohva2 desc"
+      },
+      {
+        "code": "nft_h25_icarusfigure",
+        "name": "Goldene Ikarus-Figur",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_icaruspainting",
+        "name": "Der Fall des Ikarus",
+        "description": ""
       },
       {
         "code": "nft_h25_magiccauldron",
@@ -78865,6 +79070,11 @@
         "code": "nft_h25_pumpkinpod",
         "name": "Aufblasbarer Kürbis-Sessel",
         "description": "nft_h25_pumpkinpod desc"
+      },
+      {
+        "code": "nft_h25_redxmaslollipop",
+        "name": "Roter Weihnachtslolli",
+        "description": ""
       },
       {
         "code": "nft_h25_robocroc",
@@ -79030,6 +79240,21 @@
         "code": "nft_h25_trippysword",
         "name": "Trippy Schwert",
         "description": "nft_h25_trippysword desc"
+      },
+      {
+        "code": "nft_h25_xmasgiftbox",
+        "name": "Weihnachts-Geschenkbox",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_xmasicm",
+        "name": "Weihnachts-Eisautomat",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_xmaslamp",
+        "name": "Weihnachtsmützenlampe",
+        "description": ""
       },
       {
         "code": "nft_h25_zeusdrinks",
@@ -80175,6 +80400,26 @@
         "code": "nft_sc25_warningsign",
         "name": "Warnzeichen",
         "description": "nft_sc25_warningsign desc"
+      },
+      {
+        "code": "nft_sc_frozenthrone",
+        "name": "Eisiger Königlicher Thron",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe1",
+        "name": "Eisige Drachenlampe Schneekugel",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe2",
+        "name": "Eisiger Elefant Schneekugel",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe3",
+        "name": "Eisige Enten-Schneekugel",
+        "description": ""
       },
       {
         "code": "nft_scifidoor_1",
@@ -81513,7 +81758,7 @@
       },
       {
         "code": "ny_r25_crackable",
-        "name": "ny_r25_crackable name",
+        "name": "2026 Schärpenbox",
         "description": "ny_r25_crackable desc"
       },
       {
@@ -89648,7 +89893,7 @@
       },
       {
         "code": "rare_prize25_xmas",
-        "name": "rare_prize25_xmas name",
+        "name": "Polarschaf",
         "description": "rare_prize25_xmas desc"
       },
       {
@@ -90023,7 +90268,7 @@
       },
       {
         "code": "recycler_bluetyre",
-        "name": "recycler_bluetyre name",
+        "name": "Blaue Reifenschaukel",
         "description": "recycler_bluetyre desc"
       },
       {
@@ -90088,22 +90333,22 @@
       },
       {
         "code": "recycler_ducktape",
-        "name": "recycler_ducktape name",
+        "name": "Habboenten-Band",
         "description": "recycler_ducktape desc"
       },
       {
         "code": "recycler_ducktapeblue",
-        "name": "recycler_ducktapeblue name",
+        "name": "Blaues Entenband",
         "description": "recycler_ducktapeblue desc"
       },
       {
         "code": "recycler_ducktapepink",
-        "name": "recycler_ducktapepink name",
+        "name": "Rotes Entenband",
         "description": "recycler_ducktapepink desc"
       },
       {
         "code": "recycler_grungetyre",
-        "name": "recycler_grungetyre name",
+        "name": "Schmuddelige Reifenschaukel",
         "description": "recycler_grungetyre desc"
       },
       {
@@ -90128,22 +90373,22 @@
       },
       {
         "code": "recycler_patchduck2",
-        "name": "recycler_patchduck2 name",
+        "name": "Gelbe Flecken-Ente",
         "description": "recycler_patchduck2 desc"
       },
       {
         "code": "recycler_patchduck3",
-        "name": "recycler_patchduck3 name",
+        "name": "Pinke Flecken-Ente",
         "description": "recycler_patchduck3 desc"
       },
       {
         "code": "recycler_patchduck",
-        "name": "recycler_patchduck name",
+        "name": "Lila Flecken-Ente",
         "description": "recycler_patchduck desc"
       },
       {
         "code": "recycler_patchpillow",
-        "name": "recycler_patchpillow name",
+        "name": "Patchwork Kissen",
         "description": "recycler_patchpillow desc"
       },
       {
@@ -90158,7 +90403,7 @@
       },
       {
         "code": "recycler_pinktyre",
-        "name": "recycler_pinktyre name",
+        "name": "Pinke Reifenschaukel",
         "description": "recycler_pinktyre desc"
       },
       {
@@ -90208,7 +90453,7 @@
       },
       {
         "code": "recycler_whitetyre",
-        "name": "recycler_whitetyre name",
+        "name": "Weisse Reifenschaukel",
         "description": "recycler_whitetyre desc"
       },
       {
@@ -100082,6 +100327,21 @@
         "description": "Zieh dich warm an und schnapp dir deine Schlittschuhe, du möchtest doch nicht rumsitzen in der Stadt die niemals schläft. Beinhaltet einen ESKLUSIVEN Hasen Formschnitt!"
       },
       {
+        "code": "rotating_roomdeal450_10c",
+        "name": "Habbos Gemütliches Weihnachten-Bündel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal450_d",
+        "name": "Habbos Gemütliches Weihnachten-Bündel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal450",
+        "name": "Habbos Gemütliches Weihnachten-Bündel",
+        "description": "Macht es euch gemütlich an Weihnachten mit diesem angenehm warmen kleinen Bündel. Es gibt keinen Ort, an dem wir lieber wären!"
+      },
+      {
         "code": "rotating_roomdeal451_10c",
         "name": "Gaming-Bündel",
         "description": ""
@@ -101755,6 +102015,21 @@
         "code": "sc25_warningsign",
         "name": "Warnzeichen",
         "description": "sc25_warningsign desc"
+      },
+      {
+        "code": "sc_snowglobe1",
+        "name": "Eisige Drachenlampe Schneekugel",
+        "description": ""
+      },
+      {
+        "code": "sc_snowglobe2",
+        "name": "Eisiger Elefant Schneekugel",
+        "description": ""
+      },
+      {
+        "code": "sc_snowglobe3",
+        "name": "Eisige Enten-Schneekugel",
+        "description": ""
       },
       {
         "code": "school_backtoschool",
@@ -114872,6 +115147,26 @@
         "description": ""
       },
       {
+        "code": "xmas25_pack1",
+        "name": "Xmas Pack 1",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack2",
+        "name": "Xmas Pack 2",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack3",
+        "name": "Xmas Pack 3",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack4",
+        "name": "Xmas Pack 4",
+        "description": ""
+      },
+      {
         "code": "xmas25_quest1",
         "name": "Quest Week 1 - Traditional Xmas",
         "description": ""
@@ -117598,257 +117893,262 @@
       },
       {
         "code": "xmas_c25_largeicehole",
-        "name": "xmas_c25_largeicehole name",
+        "name": "Eisloch",
         "description": "xmas_c25_largeicehole desc"
       },
       {
         "code": "xmas_c25_minirobotdino",
-        "name": "xmas_c25_minirobotdino name",
+        "name": "Mini Roboter-Dino",
         "description": "xmas_c25_minirobotdino desc"
       },
       {
+        "code": "xmas_c25_mistletoe_duck",
+        "name": "Mistelzweig-Liebesschloss",
+        "description": ""
+      },
+      {
         "code": "xmas_c25_mistletoelovelock",
-        "name": "xmas_c25_mistletoelovelock name",
+        "name": "Mistelzweig-Liebesschloss",
         "description": "xmas_c25_mistletoelovelock desc"
       },
       {
         "code": "xmas_c25_penguin1",
-        "name": "xmas_c25_penguin1 name",
+        "name": "Rudolph-Pinguin",
         "description": "xmas_c25_penguin1 desc"
       },
       {
         "code": "xmas_c25_penguin2",
-        "name": "xmas_c25_penguin2 name",
+        "name": "Baumpinguin",
         "description": "xmas_c25_penguin2 desc"
       },
       {
         "code": "xmas_c25_penguin3",
-        "name": "xmas_c25_penguin3 name",
+        "name": "Felsen-Pinguin",
         "description": "xmas_c25_penguin3 desc"
       },
       {
         "code": "xmas_c25_penguin4",
-        "name": "xmas_c25_penguin4 name",
+        "name": "Kimimanu-Pinguin",
         "description": "xmas_c25_penguin4 desc"
       },
       {
         "code": "xmas_c25_penguin5",
-        "name": "xmas_c25_penguin5 name",
+        "name": "Habboenten-Pinguin",
         "description": "xmas_c25_penguin5 desc"
       },
       {
         "code": "xmas_c25_penguin6",
-        "name": "xmas_c25_penguin6 name",
+        "name": "Eis-Pinguin",
         "description": "xmas_c25_penguin6 desc"
       },
       {
         "code": "xmas_c25_penguin7",
-        "name": "xmas_c25_penguin7 name",
+        "name": "Polar-Pinguin",
         "description": "xmas_c25_penguin7 desc"
       },
       {
         "code": "xmas_c25_penguin8",
-        "name": "xmas_c25_penguin8 name",
+        "name": "Bourgeoisie-Pinguin",
         "description": "xmas_c25_penguin8 desc"
       },
       {
         "code": "xmas_c25_pixeltree",
-        "name": "xmas_c25_pixeltree name",
+        "name": "Pixelbaum",
         "description": "xmas_c25_pixeltree desc"
       },
       {
         "code": "xmas_c25_rastasanta",
-        "name": "xmas_c25_rastasanta name",
+        "name": "Rasta Santa Handwerkstisch",
         "description": "xmas_c25_rastasanta desc"
       },
       {
         "code": "xmas_c25_snowytree",
-        "name": "xmas_c25_snowytree name",
+        "name": "Verschneiter Baum",
         "description": "xmas_c25_snowytree desc"
       },
       {
         "code": "xmas_c25_tree1a",
-        "name": "xmas_c25_tree1a name",
+        "name": "Weihnachtsbaumspitze",
         "description": "xmas_c25_tree1a desc"
       },
       {
         "code": "xmas_c25_tree1b",
-        "name": "xmas_c25_tree1b name",
+        "name": "Weihnachtsbaummitte",
         "description": "xmas_c25_tree1b desc"
       },
       {
         "code": "xmas_c25_tree1c",
-        "name": "xmas_c25_tree1c name",
+        "name": "Weihnachtsbaumunterteil",
         "description": "xmas_c25_tree1c desc"
       },
       {
         "code": "xmas_c25_tree2a_baubles",
-        "name": "xmas_c25_tree2a_baubles name",
+        "name": "Weihnachtskugel-Baumspitze",
         "description": "xmas_c25_tree2a_baubles desc"
       },
       {
         "code": "xmas_c25_tree2a_candy",
-        "name": "xmas_c25_tree2a_candy name",
+        "name": "Zuckerstangenweihnachtsbaumspitze",
         "description": "xmas_c25_tree2a_candy desc"
       },
       {
         "code": "xmas_c25_tree2a",
-        "name": "xmas_c25_tree2a name",
+        "name": "Beleuchtete Weihnachtsbaumspitze",
         "description": "xmas_c25_tree2a desc"
       },
       {
         "code": "xmas_c25_tree2a_snowflake",
-        "name": "xmas_c25_tree2a_snowflake name",
+        "name": "Weihnachtsbaum-Schneeflockenspitze",
         "description": "xmas_c25_tree2a_snowflake desc"
       },
       {
         "code": "xmas_c25_tree2b_baubles",
-        "name": "xmas_c25_tree2b_baubles name",
+        "name": "Weihnachtskugel-Baummitte",
         "description": "xmas_c25_tree2b_baubles desc"
       },
       {
         "code": "xmas_c25_tree2b_candy",
-        "name": "xmas_c25_tree2b_candy name",
+        "name": "Zuckerstangenweihnachtsbaummitte",
         "description": "xmas_c25_tree2b_candy desc"
       },
       {
         "code": "xmas_c25_tree2b",
-        "name": "xmas_c25_tree2b name",
+        "name": "Beleuchtete Weihnachtsbaummitte",
         "description": "xmas_c25_tree2b desc"
       },
       {
         "code": "xmas_c25_tree2b_snowflake",
-        "name": "xmas_c25_tree2b_snowflake name",
+        "name": "Weihnachtsbaum-Schneeflockenmitte",
         "description": "xmas_c25_tree2b_snowflake desc"
       },
       {
         "code": "xmas_c25_tree2c_baubles",
-        "name": "xmas_c25_tree2c_baubles name",
+        "name": "Weihnachtskugel-Baumunterteil",
         "description": "xmas_c25_tree2c_baubles desc"
       },
       {
         "code": "xmas_c25_tree2c_candy",
-        "name": "xmas_c25_tree2c_candy name",
+        "name": "Zuckerstangenweihnachtsbaumunterteil",
         "description": "xmas_c25_tree2c_candy desc"
       },
       {
         "code": "xmas_c25_tree2c",
-        "name": "xmas_c25_tree2c name",
+        "name": "Beleuchteter Weihnachtsbaumunterteil",
         "description": "xmas_c25_tree2c desc"
       },
       {
         "code": "xmas_c25_tree2c_snowflake",
-        "name": "xmas_c25_tree2c_snowflake name",
+        "name": "Weihnachtsbaum-Schneeflockenunterteil",
         "description": "xmas_c25_tree2c_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3a_baubles",
-        "name": "xmas_c25_tree3a_baubles name",
+        "name": "Bunte Baumspitze",
         "description": "xmas_c25_tree3a_baubles desc"
       },
       {
         "code": "xmas_c25_tree3a_candy",
-        "name": "xmas_c25_tree3a_candy name",
+        "name": "Süsse Weihnachtsbaumspitze",
         "description": "xmas_c25_tree3a_candy desc"
       },
       {
         "code": "xmas_c25_tree3a_snowflake",
-        "name": "xmas_c25_tree3a_snowflake name",
+        "name": "Frostige Baumspitze",
         "description": "xmas_c25_tree3a_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3a_tinsel",
-        "name": "xmas_c25_tree3a_tinsel name",
+        "name": "Lametta-Baumspitze",
         "description": "xmas_c25_tree3a_tinsel desc"
       },
       {
         "code": "xmas_c25_tree3b_baubles",
-        "name": "xmas_c25_tree3b_baubles name",
+        "name": "Bunte Baummitte",
         "description": "xmas_c25_tree3b_baubles desc"
       },
       {
         "code": "xmas_c25_tree3b_candy",
-        "name": "xmas_c25_tree3b_candy name",
+        "name": "Süsse Weihnachtsbaummitte",
         "description": "xmas_c25_tree3b_candy desc"
       },
       {
         "code": "xmas_c25_tree3b_snowflake",
-        "name": "xmas_c25_tree3b_snowflake name",
+        "name": "Frostige Baummitte",
         "description": "xmas_c25_tree3b_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3b_tinsel",
-        "name": "xmas_c25_tree3b_tinsel name",
+        "name": "Lametta-Baummitte",
         "description": "xmas_c25_tree3b_tinsel desc"
       },
       {
         "code": "xmas_c25_tree3c_baubles",
-        "name": "xmas_c25_tree3c_baubles name",
+        "name": "Buntes Baumunterteil",
         "description": "xmas_c25_tree3c_baubles desc"
       },
       {
         "code": "xmas_c25_tree3c_candy",
-        "name": "xmas_c25_tree3c_candy name",
+        "name": "Süsser Weihnachtsbaumunterteil",
         "description": "xmas_c25_tree3c_candy desc"
       },
       {
         "code": "xmas_c25_tree3c_snowflake",
-        "name": "xmas_c25_tree3c_snowflake name",
+        "name": "Frostiger Baumunterteil",
         "description": "xmas_c25_tree3c_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3c_tinsel",
-        "name": "xmas_c25_tree3c_tinsel name",
+        "name": "Lametta-Baumunterteil",
         "description": "xmas_c25_tree3c_tinsel desc"
       },
       {
         "code": "xmas_c25_treebaubles",
-        "name": "xmas_c25_treebaubles name",
+        "name": "Auswahl an Weihnachtskugeln",
         "description": "xmas_c25_treebaubles desc"
       },
       {
         "code": "xmas_c25_treecandycane",
-        "name": "xmas_c25_treecandycane name",
+        "name": "Zuckerstangen",
         "description": "xmas_c25_treecandycane desc"
       },
       {
         "code": "xmas_c25_treedecorcrackable",
-        "name": "xmas_c25_treedecorcrackable name",
+        "name": "Weihnachtsdeko-Box",
         "description": "xmas_c25_treedecorcrackable desc"
       },
       {
         "code": "xmas_c25_treedecorcrackableb",
-        "name": "xmas_c25_treedecorcrackableb name",
+        "name": "Weihnachtsdeko-Box",
         "description": "xmas_c25_treedecorcrackableb desc"
       },
       {
         "code": "xmas_c25_treelights",
-        "name": "xmas_c25_treelights name",
+        "name": "Lichterkette",
         "description": "xmas_c25_treelights desc"
       },
       {
         "code": "xmas_c25_treesnowflake",
-        "name": "xmas_c25_treesnowflake name",
+        "name": "Schneeflocken-Dekoration",
         "description": "xmas_c25_treesnowflake desc"
       },
       {
         "code": "xmas_c25_treetinsel",
-        "name": "xmas_c25_treetinsel name",
+        "name": "Buntes Lametta",
         "description": "xmas_c25_treetinsel desc"
       },
       {
         "code": "xmas_c25_treetopper1",
-        "name": "xmas_c25_treetopper1 name",
+        "name": "Weihnachtsbaum-Sternspitze",
         "description": "xmas_c25_treetopper1 desc"
       },
       {
         "code": "xmas_c25_treetopper2",
-        "name": "xmas_c25_treetopper2 name",
+        "name": "Weihnachtsbaum-Engelspitze",
         "description": "xmas_c25_treetopper2 desc"
       },
       {
         "code": "xmas_c25_treetopper3",
-        "name": "xmas_c25_treetopper3 name",
+        "name": "Weihnachtsbaum-Schneeflockenspitze",
         "description": "xmas_c25_treetopper3 desc"
       },
       {
@@ -117977,8 +118277,13 @@
         "description": "xmas_ltd23_carousel desc"
       },
       {
+        "code": "xmas_ltd25_frostegg_bd",
+        "name": "Gefrorenes Ei",
+        "description": ""
+      },
+      {
         "code": "xmas_ltd25_frostegg",
-        "name": "xmas_ltd25_frostegg name",
+        "name": "Gefrorenes Ei",
         "description": "xmas_ltd25_frostegg desc"
       },
       {
@@ -118227,68 +118532,123 @@
         "description": "xmas_r24_divinedeer desc"
       },
       {
+        "code": "xmas_r25_festivenighth_bd",
+        "name": "Habbo Nacht-Hotel",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_festivenighthotel",
-        "name": "xmas_r25_festivenighthotel name",
+        "name": "Habbo Nacht-Hotel",
         "description": "xmas_r25_festivenighthotel desc"
       },
       {
         "code": "xmas_r25_habububox",
-        "name": "xmas_r25_habububox name",
+        "name": "Habubu Box",
         "description": "xmas_r25_habububox desc"
       },
       {
         "code": "xmas_r25_habububoxb",
-        "name": "xmas_r25_habububoxb name",
+        "name": "Habubu Box",
         "description": "xmas_r25_habububoxb desc"
       },
       {
+        "code": "xmas_r25_habubucalm_bd",
+        "name": "Ruhe-Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubucalm",
-        "name": "xmas_r25_habubucalm name",
+        "name": "Ruhe-Habubu",
         "description": "xmas_r25_habubucalm desc"
       },
       {
+        "code": "xmas_r25_habubucosy_bd",
+        "name": "Gemütlicher Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubucosy",
-        "name": "xmas_r25_habubucosy name",
+        "name": "Gemütlicher Habubu",
         "description": "xmas_r25_habubucosy desc"
       },
       {
+        "code": "xmas_r25_habubudream_bd",
+        "name": "Traum-Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubudream",
-        "name": "xmas_r25_habubudream name",
+        "name": "Traum-Habubu",
         "description": "xmas_r25_habubudream desc"
       },
       {
+        "code": "xmas_r25_habubufun_bd",
+        "name": "Spass-Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubufun",
-        "name": "xmas_r25_habubufun name",
+        "name": "Spass-Habubu",
         "description": "xmas_r25_habubufun desc"
       },
       {
+        "code": "xmas_r25_habubuglam_bd",
+        "name": "Glamour Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuglam",
-        "name": "xmas_r25_habubuglam name",
+        "name": "Glamour Habubu",
         "description": "xmas_r25_habubuglam desc"
       },
       {
         "code": "xmas_r25_habubuhappiness",
-        "name": "xmas_r25_habubuhappiness name",
+        "name": "Happy Habubu",
         "description": "xmas_r25_habubuhappiness desc"
       },
       {
+        "code": "xmas_r25_habubuhappy_bd",
+        "name": "Happy Habubu",
+        "description": ""
+      },
+      {
+        "code": "xmas_r25_habubuhope_bd",
+        "name": "Hoffnung-Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuhope",
-        "name": "xmas_r25_habubuhope name",
+        "name": "Hoffnung-Habubu",
         "description": "xmas_r25_habubuhope desc"
       },
       {
+        "code": "xmas_r25_habubulove_bd",
+        "name": "Liebe-Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubulove",
-        "name": "xmas_r25_habubulove name",
+        "name": "Liebe-Habubu",
         "description": "xmas_r25_habubulove desc"
       },
       {
+        "code": "xmas_r25_habubuluck_bd",
+        "name": "Glück-Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuluck",
-        "name": "xmas_r25_habubuluck name",
+        "name": "Glück-Habubu",
         "description": "xmas_r25_habubuluck desc"
       },
       {
+        "code": "xmas_r25_icepillow_bd",
+        "name": "Eiskissen",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_icepillow",
-        "name": "xmas_r25_icepillow name",
+        "name": "Eiskissen",
         "description": "xmas_r25_icepillow desc"
       },
       {

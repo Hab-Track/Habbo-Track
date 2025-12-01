@@ -30377,6 +30377,16 @@
         "description": ""
       },
       {
+        "code": "chatstyle_cm2ice",
+        "name": "IJskoude Chat Bubbel",
+        "description": ""
+      },
+      {
+        "code": "chatstyle_cm2rocky",
+        "name": "Besneeuwde Chat Bubbel",
+        "description": ""
+      },
+      {
         "code": "chess_b_bishop",
         "name": "Zwarte Loper",
         "description": "chess_b_bishop desc"
@@ -31444,6 +31454,11 @@
       {
         "code": "cl_r25_heartqueendress_bd",
         "name": "Hartenkoningin Jurk",
+        "description": ""
+      },
+      {
+        "code": "cl_r25_icetiplonghair_bd",
+        "name": "IJskoude Glitter Paardenstaart",
         "description": ""
       },
       {
@@ -34503,7 +34518,7 @@
       },
       {
         "code": "clothing_fleeceheadwrap",
-        "name": "clothing_fleeceheadwrap name",
+        "name": "Fleece Hoofdband",
         "description": "clothing_fleeceheadwrap desc"
       },
       {
@@ -35083,7 +35098,7 @@
       },
       {
         "code": "clothing_headlamp",
-        "name": "clothing_headlamp name",
+        "name": "Hoofdlampje",
         "description": "clothing_headlamp desc"
       },
       {
@@ -36117,6 +36132,16 @@
         "description": "clothing_nft2025 desc"
       },
       {
+        "code": "clothing_nft2025santahat",
+        "name": "Bevroren Kerstman Muts",
+        "description": ""
+      },
+      {
+        "code": "clothing_nft2026",
+        "name": "2026 Nieuwjaarsketting",
+        "description": ""
+      },
+      {
         "code": "clothing_nft23partyhat1",
         "name": "2-jarige Gele Jubileum Hoed",
         "description": "clothing_nft23partyhat1 desc"
@@ -37032,9 +37057,24 @@
         "description": "clothing_nfthaha desc"
       },
       {
+        "code": "clothing_nfthappy2026print",
+        "name": "Happy 2026 Print",
+        "description": ""
+      },
+      {
         "code": "clothing_nfthearteyes",
         "name": "Verliefde Ogen",
         "description": "clothing_nfthearteyes desc"
+      },
+      {
+        "code": "clothing_nftheartfacepaint",
+        "name": "Hart Schmink",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftheterocromia",
+        "name": "Twee Verschillende Gekleurde Contactlenzen",
+        "description": ""
       },
       {
         "code": "clothing_nfthiphop",
@@ -37057,6 +37097,11 @@
         "description": "clothing_nfthobbyhorse3 desc"
       },
       {
+        "code": "clothing_nfthohohoprint",
+        "name": "Ho Ho Ho Print",
+        "description": ""
+      },
+      {
         "code": "clothing_nftholidaycut",
         "name": "Relaxte Vakantiecoupe",
         "description": "clothing_nftholidaycut desc"
@@ -37065,6 +37110,11 @@
         "code": "clothing_nfthoneyjar",
         "name": "Honingtas",
         "description": "clothing_nfthoneyjar desc"
+      },
+      {
+        "code": "clothing_nfticaruscrown",
+        "name": "Icarus Kroon",
+        "description": ""
       },
       {
         "code": "clothing_nfticecreambag1",
@@ -37155,6 +37205,11 @@
         "code": "clothing_nftmechapack",
         "name": "Gesmede Rakket Rugzak",
         "description": "clothing_nftmechapack desc"
+      },
+      {
+        "code": "clothing_nftmerryxmasprint",
+        "name": "Merry Xmas Print",
+        "description": ""
       },
       {
         "code": "clothing_nftmessycut",
@@ -37337,6 +37392,11 @@
         "description": "clothing_nftpiercings desc"
       },
       {
+        "code": "clothing_nftpineapplehelmet",
+        "name": "Ananas Muts",
+        "description": "clothing_nftpineapplehelmet desc"
+      },
+      {
         "code": "clothing_nftpinkbeanie",
         "name": "Roze Ski Muts",
         "description": "clothing_nftpinkbeanie desc"
@@ -37390,6 +37450,11 @@
         "code": "clothing_nftplayingcardoutfit",
         "name": "Speelkaarten Outfit",
         "description": "clothing_nftplayingcardoutfit desc"
+      },
+      {
+        "code": "clothing_nftpolarnight",
+        "name": "Noorderlicht Huid",
+        "description": ""
       },
       {
         "code": "clothing_nftpompomcardigan",
@@ -37472,6 +37537,11 @@
         "description": "clothing_nftrastasantajacket desc"
       },
       {
+        "code": "clothing_nftrastasantaprint",
+        "name": "Rasta Santa Print",
+        "description": ""
+      },
+      {
         "code": "clothing_nftregalblackcrown",
         "name": "Koninklijke Zwarte Kroon",
         "description": ""
@@ -37535,6 +37605,16 @@
         "code": "clothing_nftroundshades4",
         "name": "Gele Zonnebril",
         "description": "clothing_nftroundshades4 desc"
+      },
+      {
+        "code": "clothing_nftrudolphprint",
+        "name": "Rudolf Print",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftrudolphsnose",
+        "name": "Rudolfs Gloeiende Rode Neus",
+        "description": ""
       },
       {
         "code": "clothing_nfts25glasses1",
@@ -37717,6 +37797,11 @@
         "description": "clothing_nftsnowboard desc"
       },
       {
+        "code": "clothing_nftsnowmanbun",
+        "name": "Sneeuwpop Knot",
+        "description": ""
+      },
+      {
         "code": "clothing_nftsnowoperadress",
         "name": "Bevroren Opera Jurk",
         "description": "clothing_nftsnowoperadress desc"
@@ -37735,6 +37820,11 @@
         "code": "clothing_nftspringbrimhat",
         "name": "Wijde Zonnehoed",
         "description": "clothing_nftspringbrimhat desc"
+      },
+      {
+        "code": "clothing_nftstarfacepaint",
+        "name": "Ster Schmink",
+        "description": ""
       },
       {
         "code": "clothing_nftstatue",
@@ -37982,6 +38072,16 @@
         "description": "clothing_nfttropicalcrop desc"
       },
       {
+        "code": "clothing_nfttubescarf",
+        "name": "Colsjaal",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftturkeyhat",
+        "name": "Kalkoenhoofd",
+        "description": ""
+      },
+      {
         "code": "clothing_nftumbrella",
         "name": "Regenachtige Dag Paraplu",
         "description": "clothing_nftumbrella desc"
@@ -38032,9 +38132,29 @@
         "description": "clothing_nftwhitebeanie desc"
       },
       {
+        "code": "clothing_nftwinte25jacket",
+        "name": "Winter Gewatteerde Jas",
+        "description": ""
+      },
+      {
         "code": "clothing_nftwinter1",
         "name": "Groene IJskoude Uitrusting",
         "description": "clothing_nftwinter1 desc"
+      },
+      {
+        "code": "clothing_nftwinter25beanie",
+        "name": "Winter Muts",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwinter25boots",
+        "name": "Stevige Winter Laarzen",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwinter25pants",
+        "name": "Warme Winter Broek",
+        "description": ""
       },
       {
         "code": "clothing_nftwinter2",
@@ -38137,9 +38257,19 @@
         "description": "clothing_nftxlogo desc"
       },
       {
+        "code": "clothing_nftxmasbonnieprint",
+        "name": "Kerst Bonnie Print",
+        "description": ""
+      },
+      {
         "code": "clothing_nftxmasdress",
         "name": "Scarlet Kerstjurk",
         "description": "clothing_nftxmasdress desc"
+      },
+      {
+        "code": "clothing_nftxmaslollipop",
+        "name": "Kerstlolly",
+        "description": ""
       },
       {
         "code": "clothing_nftxmaspants",
@@ -38793,7 +38923,7 @@
       },
       {
         "code": "clothing_penguinhat",
-        "name": "clothing_penguinhat name",
+        "name": "Pinguïn Muts",
         "description": "clothing_penguinhat desc"
       },
       {
@@ -38898,12 +39028,12 @@
       },
       {
         "code": "clothing_polkadotbow",
-        "name": "clothing_polkadotbow name",
+        "name": "Mooie Gestippelde Strik",
         "description": "clothing_polkadotbow desc"
       },
       {
         "code": "clothing_polkadotmittens",
-        "name": "clothing_polkadotmittens name",
+        "name": "Wanten met Stippen",
         "description": "clothing_polkadotmittens desc"
       },
       {
@@ -41388,12 +41518,12 @@
       },
       {
         "code": "clothing_r25_habubu",
-        "name": "clothing_r25_habubu name",
+        "name": "Habubu Tas",
         "description": "clothing_r25_habubu desc"
       },
       {
         "code": "clothing_r25_habubuglam",
-        "name": "clothing_r25_habubuglam name",
+        "name": "Glinsterende Habubu Tas",
         "description": "clothing_r25_habubuglam desc"
       },
       {
@@ -41403,7 +41533,7 @@
       },
       {
         "code": "clothing_r25_icetiplonghair",
-        "name": "clothing_r25_icetiplonghair name",
+        "name": "IJskoude Glitter Paardenstaart",
         "description": "clothing_r25_icetiplonghair desc"
       },
       {
@@ -41417,8 +41547,13 @@
         "description": "clothing_r25_iridescentstarbag desc"
       },
       {
+        "code": "clothing_r25_kittybag_bd",
+        "name": "Kitty Tas",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_kittybag",
-        "name": "clothing_r25_kittybag name",
+        "name": "Kitty Tas",
         "description": "clothing_r25_kittybag desc"
       },
       {
@@ -41463,42 +41598,42 @@
       },
       {
         "code": "clothing_r25_nystargarland1",
-        "name": "clothing_r25_nystargarland1 name",
+        "name": "Baby Roze Sjerp",
         "description": "clothing_r25_nystargarland1 desc"
       },
       {
         "code": "clothing_r25_nystargarland2",
-        "name": "clothing_r25_nystargarland2 name",
+        "name": "Robijnrode Sjerp",
         "description": "clothing_r25_nystargarland2 desc"
       },
       {
         "code": "clothing_r25_nystargarland3",
-        "name": "clothing_r25_nystargarland3 name",
+        "name": "Goudgele Sjerp",
         "description": "clothing_r25_nystargarland3 desc"
       },
       {
         "code": "clothing_r25_nystargarland4",
-        "name": "clothing_r25_nystargarland4 name",
+        "name": "Middernacht Blauwe Sjerp",
         "description": "clothing_r25_nystargarland4 desc"
       },
       {
         "code": "clothing_r25_nystargarland5",
-        "name": "clothing_r25_nystargarland5 name",
+        "name": "Feloranje Sjerp",
         "description": "clothing_r25_nystargarland5 desc"
       },
       {
         "code": "clothing_r25_nystargarland6",
-        "name": "clothing_r25_nystargarland6 name",
+        "name": "Sneeuwblauwe Sjerp",
         "description": "clothing_r25_nystargarland6 desc"
       },
       {
         "code": "clothing_r25_nystargarland7",
-        "name": "clothing_r25_nystargarland7 name",
+        "name": "Smaragdgroene Sjerp",
         "description": "clothing_r25_nystargarland7 desc"
       },
       {
         "code": "clothing_r25_nystargarland8",
-        "name": "clothing_r25_nystargarland8 name",
+        "name": "Punk Paarse Sjerp",
         "description": "clothing_r25_nystargarland8 desc"
       },
       {
@@ -42088,7 +42223,7 @@
       },
       {
         "code": "clothing_snowflakenecklace",
-        "name": "clothing_snowflakenecklace name",
+        "name": "Ketting met Sneeuwvlokje",
         "description": "clothing_snowflakenecklace desc"
       },
       {
@@ -42848,7 +42983,7 @@
       },
       {
         "code": "clothing_xmashatpatchwork",
-        "name": "clothing_xmashatpatchwork name",
+        "name": "Lapjes Kersman Muts",
         "description": "clothing_xmashatpatchwork desc"
       },
       {
@@ -50748,22 +50883,22 @@
       },
       {
         "code": "ducket_c25_cottagebook",
-        "name": "ducket_c25_cottagebook name",
+        "name": "Mooi Boek",
         "description": "ducket_c25_cottagebook desc"
       },
       {
         "code": "ducket_c25_cottageduckrug",
-        "name": "ducket_c25_cottageduckrug name",
+        "name": "Cottage Badeendkleed",
         "description": "ducket_c25_cottageduckrug desc"
       },
       {
         "code": "ducket_c25_cottageherbs",
-        "name": "ducket_c25_cottageherbs name",
+        "name": "Essentiële Kruiden",
         "description": "ducket_c25_cottageherbs desc"
       },
       {
         "code": "ducket_c25_cottagestool",
-        "name": "ducket_c25_cottagestool name",
+        "name": "Fluffy Krukje",
         "description": "ducket_c25_cottagestool desc"
       },
       {
@@ -57298,7 +57433,7 @@
       },
       {
         "code": "giftbox_c25_crackable5",
-        "name": "giftbox_c25_crackable5 name",
+        "name": "Kerst Cadeaudoos 2025",
         "description": "giftbox_c25_crackable5 desc"
       },
       {
@@ -70438,7 +70573,7 @@
       },
       {
         "code": "lodge_brickwall",
-        "name": "lodge_brickwall name",
+        "name": "Lodge Bakstenen Muur",
         "description": "lodge_brickwall desc"
       },
       {
@@ -70468,7 +70603,7 @@
       },
       {
         "code": "lodge_chandelier",
-        "name": "lodge_chandelier name",
+        "name": "Lodge Kandelaar",
         "description": "lodge_chandelier desc"
       },
       {
@@ -70478,127 +70613,127 @@
       },
       {
         "code": "lodge_dark_bardesk",
-        "name": "lodge_dark_bardesk name",
+        "name": "Donkeren Lodge Bar Tafel",
         "description": "lodge_dark_bardesk desc"
       },
       {
         "code": "lodge_dark_barrelstool",
-        "name": "lodge_dark_barrelstool name",
+        "name": "Donkeren Lodge Biervat Stoel",
         "description": "lodge_dark_barrelstool desc"
       },
       {
         "code": "lodge_dark_bed",
-        "name": "lodge_dark_bed name",
+        "name": "Donkeren Lodge Bed",
         "description": "lodge_dark_bed desc"
       },
       {
         "code": "lodge_dark_bench",
-        "name": "lodge_dark_bench name",
+        "name": "Donkeren Lodge Bankje",
         "description": "lodge_dark_bench desc"
       },
       {
         "code": "lodge_dark_bookcase",
-        "name": "lodge_dark_bookcase name",
+        "name": "Donkeren Lodge Boekenkast",
         "description": "lodge_dark_bookcase desc"
       },
       {
         "code": "lodge_dark_brickwall",
-        "name": "lodge_dark_brickwall name",
+        "name": "Donkeren Lodge Bakstenen Muur",
         "description": "lodge_dark_brickwall desc"
       },
       {
         "code": "lodge_dark_candle",
-        "name": "lodge_dark_candle name",
+        "name": "Donkeren Lodge Kaars",
         "description": "lodge_dark_candle desc"
       },
       {
         "code": "lodge_dark_chandelier",
-        "name": "lodge_dark_chandelier name",
+        "name": "Donkeren Lodge Kandelaar",
         "description": "lodge_dark_chandelier desc"
       },
       {
         "code": "lodge_dark_cornerplinth",
-        "name": "lodge_dark_cornerplinth name",
+        "name": "Donkeren Lodge Sokkel",
         "description": "lodge_dark_cornerplinth desc"
       },
       {
         "code": "lodge_dark_desk",
-        "name": "lodge_dark_desk name",
+        "name": "Donkeren Lodge Directiebureau",
         "description": "lodge_dark_desk desc"
       },
       {
         "code": "lodge_dark_diningtable",
-        "name": "lodge_dark_diningtable name",
+        "name": "Donkeren Lodge Eettafel",
         "description": "lodge_dark_diningtable desc"
       },
       {
         "code": "lodge_dark_divider",
-        "name": "lodge_dark_divider name",
+        "name": "Donkeren Lodge Afscheiding",
         "description": "lodge_dark_divider desc"
       },
       {
         "code": "lodge_dark_doublebed",
-        "name": "lodge_dark_doublebed name",
+        "name": "Donkeren Lodge Tweepersoonsbed",
         "description": "lodge_dark_doublebed desc"
       },
       {
         "code": "lodge_dark_endtable",
-        "name": "lodge_dark_endtable name",
+        "name": "Donkeren Lodge Bijzettafel",
         "description": "lodge_dark_endtable desc"
       },
       {
         "code": "lodge_dark_fireplace",
-        "name": "lodge_dark_fireplace name",
+        "name": "Donkeren Lodge Open Haard",
         "description": "lodge_dark_fireplace desc"
       },
       {
         "code": "lodge_dark_floor",
-        "name": "lodge_dark_floor name",
+        "name": "Donkeren Lodge Vloer",
         "description": "lodge_dark_floor desc"
       },
       {
         "code": "lodge_dark_gate",
-        "name": "lodge_dark_gate name",
+        "name": "Donkeren Lodge Poort",
         "description": "lodge_dark_gate desc"
       },
       {
         "code": "lodge_dark_lamp",
-        "name": "lodge_dark_lamp name",
+        "name": "Donkeren Lodge Tafellamp",
         "description": "lodge_dark_lamp desc"
       },
       {
         "code": "lodge_dark_minibar",
-        "name": "lodge_dark_minibar name",
+        "name": "Donkeren Lodge Minibar",
         "description": "lodge_dark_minibar desc"
       },
       {
         "code": "lodge_dark_reindeerhead",
-        "name": "lodge_dark_reindeerhead name",
+        "name": "Donkeren Lodge Wandsculptuur",
         "description": "lodge_dark_reindeerhead desc"
       },
       {
         "code": "lodge_dark_stool",
-        "name": "lodge_dark_stool name",
+        "name": "Donkeren Lodge Krukje",
         "description": "lodge_dark_stool desc"
       },
       {
         "code": "lodge_dark_tv",
-        "name": "lodge_dark_tv name",
+        "name": "Donkeren Lodge TV",
         "description": "lodge_dark_tv desc"
       },
       {
         "code": "lodge_dark_wall",
-        "name": "lodge_dark_wall name",
+        "name": "Donkeren Lodge Muur",
         "description": "lodge_dark_wall desc"
       },
       {
         "code": "lodge_dark_window",
-        "name": "lodge_dark_window name",
+        "name": "Donkeren Lodge Raam",
         "description": "lodge_dark_window desc"
       },
       {
         "code": "lodge_desk",
-        "name": "lodge_desk name",
+        "name": "Lodge Directiebureau",
         "description": "lodge_desk desc"
       },
       {
@@ -70613,7 +70748,7 @@
       },
       {
         "code": "lodge_reindeerhead",
-        "name": "lodge_reindeerhead name",
+        "name": "Lodge Wandsculptuur",
         "description": "lodge_reindeerhead desc"
       },
       {
@@ -70623,7 +70758,7 @@
       },
       {
         "code": "lodge_tv",
-        "name": "lodge_tv name",
+        "name": "Lodge TV",
         "description": "lodge_tv desc"
       },
       {
@@ -72558,12 +72693,12 @@
       },
       {
         "code": "mode_ceilinglight",
-        "name": "mode_ceilinglight name",
+        "name": "Zilveren Mode Plafondlamp",
         "description": "mode_ceilinglight desc"
       },
       {
         "code": "mode_clock_0",
-        "name": "mode_clock_0 name",
+        "name": "Zilveren Mode Klok",
         "description": "mode_clock_0 desc"
       },
       {
@@ -72613,12 +72748,12 @@
       },
       {
         "code": "mode_fridge",
-        "name": "mode_fridge name",
+        "name": "Zilveren Mode Koelkast",
         "description": "mode_fridge desc"
       },
       {
         "code": "mode_gold_armchair_0",
-        "name": "mode_gold_armchair_0 name",
+        "name": "Gouden Mode Leunstoel",
         "description": "mode_gold_armchair_0 desc"
       },
       {
@@ -72668,12 +72803,12 @@
       },
       {
         "code": "mode_gold_bar",
-        "name": "mode_gold_bar name",
+        "name": "Gouden Mode Minibar",
         "description": "mode_gold_bar desc"
       },
       {
         "code": "mode_gold_bardesk_0",
-        "name": "mode_gold_bardesk_0 name",
+        "name": "Gouden Mode Bar",
         "description": "mode_gold_bardesk_0 desc"
       },
       {
@@ -72723,7 +72858,7 @@
       },
       {
         "code": "mode_gold_bardeskcorner_0",
-        "name": "mode_gold_bardeskcorner_0 name",
+        "name": "Gouden Mode Bar Hoek",
         "description": "mode_gold_bardeskcorner_0 desc"
       },
       {
@@ -72773,7 +72908,7 @@
       },
       {
         "code": "mode_gold_bearug_0",
-        "name": "mode_gold_bearug_0 name",
+        "name": "Gouden Mode Funfur Berenvel",
         "description": "mode_gold_bearug_0 desc"
       },
       {
@@ -72803,7 +72938,7 @@
       },
       {
         "code": "mode_gold_bed_0",
-        "name": "mode_gold_bed_0 name",
+        "name": "Gouden Mode Bed",
         "description": "mode_gold_bed_0 desc"
       },
       {
@@ -72853,17 +72988,17 @@
       },
       {
         "code": "mode_gold_bookcase",
-        "name": "mode_gold_bookcase name",
+        "name": "Gouden Mode Boekenkast",
         "description": "mode_gold_bookcase desc"
       },
       {
         "code": "mode_gold_ceilinglight",
-        "name": "mode_gold_ceilinglight name",
+        "name": "Gouden Mode Plafondlamp",
         "description": "mode_gold_ceilinglight desc"
       },
       {
         "code": "mode_gold_clock_0",
-        "name": "mode_gold_clock_0 name",
+        "name": "Gouden Mode Klok",
         "description": "mode_gold_clock_0 desc"
       },
       {
@@ -72913,12 +73048,12 @@
       },
       {
         "code": "mode_gold_diningchair",
-        "name": "mode_gold_diningchair name",
+        "name": "Gouden Mode Eetkamerstoel",
         "description": "mode_gold_diningchair desc"
       },
       {
         "code": "mode_gold_doublebed_0",
-        "name": "mode_gold_doublebed_0 name",
+        "name": "Gouden Mode Tweepersoonsbed",
         "description": "mode_gold_doublebed_0 desc"
       },
       {
@@ -72968,17 +73103,17 @@
       },
       {
         "code": "mode_gold_fireplace",
-        "name": "mode_gold_fireplace name",
+        "name": "Gouden Mode Open Haard",
         "description": "mode_gold_fireplace desc"
       },
       {
         "code": "mode_gold_fridge",
-        "name": "mode_gold_fridge name",
+        "name": "Gouden Mode Koelkast",
         "description": "mode_gold_fridge desc"
       },
       {
         "code": "mode_gold_gate_0",
-        "name": "mode_gold_gate_0 name",
+        "name": "Gouden Mode Poort",
         "description": "mode_gold_gate_0 desc"
       },
       {
@@ -73028,22 +73163,22 @@
       },
       {
         "code": "mode_gold_largecoffeetable",
-        "name": "mode_gold_largecoffeetable name",
+        "name": "Gouden Mode Grote Salontafel",
         "description": "mode_gold_largecoffeetable desc"
       },
       {
         "code": "mode_gold_largediningtable",
-        "name": "mode_gold_largediningtable name",
+        "name": "Gouden Mode Grote Eettafel",
         "description": "mode_gold_largediningtable desc"
       },
       {
         "code": "mode_gold_largetable",
-        "name": "mode_gold_largetable name",
+        "name": "Gouden Mode Grote Tafel",
         "description": "mode_gold_largetable desc"
       },
       {
         "code": "mode_gold_partingscreen_0",
-        "name": "mode_gold_partingscreen_0 name",
+        "name": "Gouden Mode Scherm",
         "description": "mode_gold_partingscreen_0 desc"
       },
       {
@@ -73093,12 +73228,12 @@
       },
       {
         "code": "mode_gold_smallcoffeetable",
-        "name": "mode_gold_smallcoffeetable name",
+        "name": "Gouden Mode Kleine Salontafel",
         "description": "mode_gold_smallcoffeetable desc"
       },
       {
         "code": "mode_gold_sofa_0",
-        "name": "mode_gold_sofa_0 name",
+        "name": "Gouden Mode Bank",
         "description": "mode_gold_sofa_0 desc"
       },
       {
@@ -73148,7 +73283,7 @@
       },
       {
         "code": "mode_gold_vase_0",
-        "name": "mode_gold_vase_0 name",
+        "name": "Gouden Mode Vaas",
         "description": "mode_gold_vase_0 desc"
       },
       {
@@ -73198,7 +73333,7 @@
       },
       {
         "code": "mode_gold_zshelf",
-        "name": "mode_gold_zshelf name",
+        "name": "Gouden Mode Tafeltje",
         "description": "mode_gold_zshelf desc"
       },
       {
@@ -73208,7 +73343,7 @@
       },
       {
         "code": "mode_partingscreen_0",
-        "name": "mode_partingscreen_0 name",
+        "name": "Zilveren Mode Scherm",
         "description": "mode_partingscreen_0 desc"
       },
       {
@@ -73258,7 +73393,7 @@
       },
       {
         "code": "mode_vase_0",
-        "name": "mode_vase_0 name",
+        "name": "Zilveren Mode Vaas",
         "description": "mode_vase_0 desc"
       },
       {
@@ -73833,7 +73968,7 @@
       },
       {
         "code": "neopets_c25_acaraxmas",
-        "name": "neopets_c25_acaraxmas name",
+        "name": "Kerst Acara",
         "description": "neopets_c25_acaraxmas desc"
       },
       {
@@ -73853,7 +73988,7 @@
       },
       {
         "code": "neopets_c25_aishaxmas",
-        "name": "neopets_c25_aishaxmas name",
+        "name": "Kerst Aïsha",
         "description": "neopets_c25_aishaxmas desc"
       },
       {
@@ -73868,7 +74003,7 @@
       },
       {
         "code": "neopets_c25_brucexmas",
-        "name": "neopets_c25_brucexmas name",
+        "name": "Kerst Bruce",
         "description": "neopets_c25_brucexmas desc"
       },
       {
@@ -73893,12 +74028,12 @@
       },
       {
         "code": "neopets_c25_crackablexmas",
-        "name": "neopets_c25_crackablexmas name",
+        "name": "Feestelijke Neopet Ei",
         "description": "neopets_c25_crackablexmas desc"
       },
       {
         "code": "neopets_c25_crackablexmasb",
-        "name": "neopets_c25_crackablexmasb name",
+        "name": "Feestelijke Neopet Ei",
         "description": "neopets_c25_crackablexmasb desc"
       },
       {
@@ -73918,7 +74053,7 @@
       },
       {
         "code": "neopets_c25_cybunnyxmas",
-        "name": "neopets_c25_cybunnyxmas name",
+        "name": "Kerst Cybunny",
         "description": "neopets_c25_cybunnyxmas desc"
       },
       {
@@ -73953,7 +74088,7 @@
       },
       {
         "code": "neopets_c25_draikxmas",
-        "name": "neopets_c25_draikxmas name",
+        "name": "Kerst Draik",
         "description": "neopets_c25_draikxmas desc"
       },
       {
@@ -73978,7 +74113,7 @@
       },
       {
         "code": "neopets_c25_eyriexmas",
-        "name": "neopets_c25_eyriexmas name",
+        "name": "Kerst Eyrie",
         "description": "neopets_c25_eyriexmas desc"
       },
       {
@@ -74013,7 +74148,7 @@
       },
       {
         "code": "neopets_c25_kacheekxmas",
-        "name": "neopets_c25_kacheekxmas name",
+        "name": "Kerst Kacheek",
         "description": "neopets_c25_kacheekxmas desc"
       },
       {
@@ -74033,7 +74168,7 @@
       },
       {
         "code": "neopets_c25_kougraxmas",
-        "name": "neopets_c25_kougraxmas name",
+        "name": "Kerst Kougra",
         "description": "neopets_c25_kougraxmas desc"
       },
       {
@@ -74058,7 +74193,7 @@
       },
       {
         "code": "neopets_c25_lupexmas",
-        "name": "neopets_c25_lupexmas name",
+        "name": "Kerst Lupe",
         "description": "neopets_c25_lupexmas desc"
       },
       {
@@ -74108,7 +74243,7 @@
       },
       {
         "code": "neopets_c25_shoyruxmas",
-        "name": "neopets_c25_shoyruxmas name",
+        "name": "Kerst Shoyru",
         "description": "neopets_c25_shoyruxmas desc"
       },
       {
@@ -74138,7 +74273,7 @@
       },
       {
         "code": "neopets_c25_unixmas",
-        "name": "neopets_c25_unixmas name",
+        "name": "Kerst Uni",
         "description": "neopets_c25_unixmas desc"
       },
       {
@@ -74148,7 +74283,7 @@
       },
       {
         "code": "neopets_c25_xweetokxmas",
-        "name": "neopets_c25_xweetokxmas name",
+        "name": "Kerst Xweetok",
         "description": "neopets_c25_xweetokxmas desc"
       },
       {
@@ -76155,6 +76290,46 @@
         "code": "nft_cm1_wall",
         "name": "Patchwork Muur",
         "description": "nft_cm1_wall desc"
+      },
+      {
+        "code": "nft_cm2_croksleepingbag",
+        "name": "Stoffen Krokodillen Slaapzak",
+        "description": "nft_cm2_croksleepingbag desc"
+      },
+      {
+        "code": "nft_cm2_icefloor",
+        "name": "Besneeuwde Straatstenen",
+        "description": "nft_cm2_icefloor desc"
+      },
+      {
+        "code": "nft_cm2_raccoonsofa",
+        "name": "Nep Wasberenbont Bank",
+        "description": "nft_cm2_raccoonsofa desc"
+      },
+      {
+        "code": "nft_cm2_rocky",
+        "name": "Met Sneeuw Bedekte Rotsen",
+        "description": "nft_cm2_rocky desc"
+      },
+      {
+        "code": "nft_cm2_secretsantavoucher",
+        "name": "Geheime Kerstman Voucher",
+        "description": "nft_cm2_secretsantavoucher desc"
+      },
+      {
+        "code": "nft_cm2_snowpipefence",
+        "name": "Sneeuwpijp Hek",
+        "description": "nft_cm2_snowpipefence desc"
+      },
+      {
+        "code": "nft_cm2_snowstormdrinks",
+        "name": "IJskoud Water Machine",
+        "description": "nft_cm2_snowstormdrinks desc"
+      },
+      {
+        "code": "nft_cm2_sprucechair",
+        "name": "Bergtop Loungestoel",
+        "description": "nft_cm2_sprucechair desc"
       },
       {
         "code": "nft_cny16_monkeyballoon",
@@ -79252,6 +79427,11 @@
         "description": "nft_h25_armasrockingchair desc"
       },
       {
+        "code": "nft_h25_bluexmaslollipop",
+        "name": "Blauwe Kerstlolly",
+        "description": ""
+      },
+      {
         "code": "nft_h25_boogieblast_egg",
         "name": "Disco Dino Ei",
         "description": "nft_h25_boogieblast_egg desc"
@@ -79472,6 +79652,16 @@
         "description": "nft_h25_giftopentestfurni desc"
       },
       {
+        "code": "nft_h25_gingerbreadhotel",
+        "name": "Peperkoek Hotel",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_gingerbreadsofa",
+        "name": "Peperkoek Bank",
+        "description": ""
+      },
+      {
         "code": "nft_h25_gnomeofdoom",
         "name": "Magere Hein Kabouter",
         "description": "nft_h25_gnomeofdoom desc"
@@ -79502,6 +79692,11 @@
         "description": "nft_h25_goldsword desc"
       },
       {
+        "code": "nft_h25_haf_penguin",
+        "name": "Pinguïn Actiefiguur",
+        "description": ""
+      },
+      {
         "code": "nft_h25_haf_reddevil",
         "name": "Rode Duivel Actiefiguur",
         "description": "nft_h25_haf_reddevil desc"
@@ -79520,6 +79715,16 @@
         "code": "nft_h25_hcsohva2",
         "name": "Crèmekleurige Troon",
         "description": "nft_h25_hcsohva2 desc"
+      },
+      {
+        "code": "nft_h25_icarusfigure",
+        "name": "Gouden Icarus Figuur",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_icaruspainting",
+        "name": "De val van Icarus",
+        "description": ""
       },
       {
         "code": "nft_h25_magiccauldron",
@@ -79575,6 +79780,11 @@
         "code": "nft_h25_pumpkinpod",
         "name": "Pompoen Kuipstoel",
         "description": "nft_h25_pumpkinpod desc"
+      },
+      {
+        "code": "nft_h25_redxmaslollipop",
+        "name": "Rode Kerstlolly",
+        "description": ""
       },
       {
         "code": "nft_h25_robocroc",
@@ -79740,6 +79950,21 @@
         "code": "nft_h25_trippysword",
         "name": "Trippy Zwaard",
         "description": "nft_h25_trippysword desc"
+      },
+      {
+        "code": "nft_h25_xmasgiftbox",
+        "name": "Kerst Cadeaudoos",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_xmasicm",
+        "name": "Kerst IJsmachine",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_xmaslamp",
+        "name": "Kerstmuts Lamp",
+        "description": ""
       },
       {
         "code": "nft_h25_zeusdrinks",
@@ -80885,6 +81110,26 @@
         "code": "nft_sc25_warningsign",
         "name": "Waarschuwingsbord",
         "description": "nft_sc25_warningsign desc"
+      },
+      {
+        "code": "nft_sc_frozenthrone",
+        "name": "IJzige Koninklijke Troon",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe1",
+        "name": "IJzige Vuurdraak Sneeuwbol",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe2",
+        "name": "IJzige Olifant Sneeuwbol",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe3",
+        "name": "IJzige Badeend Sneeuwbol",
+        "description": ""
       },
       {
         "code": "nft_scifidoor_1",
@@ -82228,7 +82473,7 @@
       },
       {
         "code": "ny_r25_crackable",
-        "name": "ny_r25_crackable name",
+        "name": "2026 Sjerp Box",
         "description": "ny_r25_crackable desc"
       },
       {
@@ -90358,7 +90603,7 @@
       },
       {
         "code": "rare_prize25_xmas",
-        "name": "rare_prize25_xmas name",
+        "name": "Kerst Lammetje",
         "description": "rare_prize25_xmas desc"
       },
       {
@@ -90733,7 +90978,7 @@
       },
       {
         "code": "recycler_bluetyre",
-        "name": "recycler_bluetyre name",
+        "name": "Blauwe Bandenschommel",
         "description": "recycler_bluetyre desc"
       },
       {
@@ -90798,22 +91043,22 @@
       },
       {
         "code": "recycler_ducktape",
-        "name": "recycler_ducktape name",
+        "name": "Habbo Ducktape",
         "description": "recycler_ducktape desc"
       },
       {
         "code": "recycler_ducktapeblue",
-        "name": "recycler_ducktapeblue name",
+        "name": "Blauwe Ducktape",
         "description": "recycler_ducktapeblue desc"
       },
       {
         "code": "recycler_ducktapepink",
-        "name": "recycler_ducktapepink name",
+        "name": "Rode Ducktape",
         "description": "recycler_ducktapepink desc"
       },
       {
         "code": "recycler_grungetyre",
-        "name": "recycler_grungetyre name",
+        "name": "Zwarte Bandenschommel",
         "description": "recycler_grungetyre desc"
       },
       {
@@ -90838,22 +91083,22 @@
       },
       {
         "code": "recycler_patchduck2",
-        "name": "recycler_patchduck2 name",
+        "name": "Gele Lapjes Badeend",
         "description": "recycler_patchduck2 desc"
       },
       {
         "code": "recycler_patchduck3",
-        "name": "recycler_patchduck3 name",
+        "name": "Roze Lapjes Badeend",
         "description": "recycler_patchduck3 desc"
       },
       {
         "code": "recycler_patchduck",
-        "name": "recycler_patchduck name",
+        "name": "Paarse Lapjes Badeend",
         "description": "recycler_patchduck desc"
       },
       {
         "code": "recycler_patchpillow",
-        "name": "recycler_patchpillow name",
+        "name": "Lapjes Kussen",
         "description": "recycler_patchpillow desc"
       },
       {
@@ -90868,7 +91113,7 @@
       },
       {
         "code": "recycler_pinktyre",
-        "name": "recycler_pinktyre name",
+        "name": "Roze Bandenschommel",
         "description": "recycler_pinktyre desc"
       },
       {
@@ -90918,7 +91163,7 @@
       },
       {
         "code": "recycler_whitetyre",
-        "name": "recycler_whitetyre name",
+        "name": "Witte Bandenschommel",
         "description": "recycler_whitetyre desc"
       },
       {
@@ -100817,6 +101062,21 @@
         "description": "Pak jezelf goed in en haal je schaatsen uit het vet, want in de stad die nooit slaapt wil je niet stilzitten. Inclusief een EXCLUSIEVE konijnvormige boom!"
       },
       {
+        "code": "rotating_roomdeal450_10c",
+        "name": "Habbo´s Knusse Kerstbundel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal450_d",
+        "name": "Habbo´s Knusse Kerstbundel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal450",
+        "name": "Habbo´s Knusse Kerstbundel",
+        "description": "Heb een knusse kerst met deze knapperige kleine bundel Er is geen plek waar we liever zouden zijn!"
+      },
+      {
         "code": "rotating_roomdeal451_10c",
         "name": "Game Bundel",
         "description": ""
@@ -102480,6 +102740,21 @@
         "code": "sc25_warningsign",
         "name": "Waarschuwingsbord",
         "description": "sc25_warningsign desc"
+      },
+      {
+        "code": "sc_snowglobe1",
+        "name": "IJzige Vuurdraak Sneeuwbol",
+        "description": ""
+      },
+      {
+        "code": "sc_snowglobe2",
+        "name": "IJzige Olifant Sneeuwbol",
+        "description": ""
+      },
+      {
+        "code": "sc_snowglobe3",
+        "name": "IJzige Badeend Sneeuwbol",
+        "description": ""
       },
       {
         "code": "school_backtoschool",
@@ -115747,6 +116022,26 @@
         "description": ""
       },
       {
+        "code": "xmas25_pack1",
+        "name": "Xmas Pack 1",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack2",
+        "name": "Xmas Pack 2",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack3",
+        "name": "Xmas Pack 3",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack4",
+        "name": "Xmas Pack 4",
+        "description": ""
+      },
+      {
         "code": "xmas25_quest1",
         "name": "Quest Week 1 - Traditional Xmas",
         "description": ""
@@ -118493,257 +118788,262 @@
       },
       {
         "code": "xmas_c25_largeicehole",
-        "name": "xmas_c25_largeicehole name",
+        "name": "Wak",
         "description": "xmas_c25_largeicehole desc"
       },
       {
         "code": "xmas_c25_minirobotdino",
-        "name": "xmas_c25_minirobotdino name",
+        "name": "Mini Robot Dinosaurus",
         "description": "xmas_c25_minirobotdino desc"
       },
       {
+        "code": "xmas_c25_mistletoe_duck",
+        "name": "Mistletoe Liefdessloten",
+        "description": ""
+      },
+      {
         "code": "xmas_c25_mistletoelovelock",
-        "name": "xmas_c25_mistletoelovelock name",
+        "name": "Mistletoe Liefdessloten",
         "description": "xmas_c25_mistletoelovelock desc"
       },
       {
         "code": "xmas_c25_penguin1",
-        "name": "xmas_c25_penguin1 name",
+        "name": "Rudolf Pinguïn",
         "description": "xmas_c25_penguin1 desc"
       },
       {
         "code": "xmas_c25_penguin2",
-        "name": "xmas_c25_penguin2 name",
+        "name": "Kerstboom Pinguïn",
         "description": "xmas_c25_penguin2 desc"
       },
       {
         "code": "xmas_c25_penguin3",
-        "name": "xmas_c25_penguin3 name",
+        "name": "Rotsspringer Pinguïn",
         "description": "xmas_c25_penguin3 desc"
       },
       {
         "code": "xmas_c25_penguin4",
-        "name": "xmas_c25_penguin4 name",
+        "name": "Kiimanu Pinguïn",
         "description": "xmas_c25_penguin4 desc"
       },
       {
         "code": "xmas_c25_penguin5",
-        "name": "xmas_c25_penguin5 name",
+        "name": "Habbo Eend Pinguïn",
         "description": "xmas_c25_penguin5 desc"
       },
       {
         "code": "xmas_c25_penguin6",
-        "name": "xmas_c25_penguin6 name",
+        "name": "IJsblok Pinguïn",
         "description": "xmas_c25_penguin6 desc"
       },
       {
         "code": "xmas_c25_penguin7",
-        "name": "xmas_c25_penguin7 name",
+        "name": "IJsbeer Pinguïn",
         "description": "xmas_c25_penguin7 desc"
       },
       {
         "code": "xmas_c25_penguin8",
-        "name": "xmas_c25_penguin8 name",
+        "name": "Deftige Pinguïn",
         "description": "xmas_c25_penguin8 desc"
       },
       {
         "code": "xmas_c25_pixeltree",
-        "name": "xmas_c25_pixeltree name",
+        "name": "Pixel Kerstboom",
         "description": "xmas_c25_pixeltree desc"
       },
       {
         "code": "xmas_c25_rastasanta",
-        "name": "xmas_c25_rastasanta name",
+        "name": "Rasta Santa Craft Tafel",
         "description": "xmas_c25_rastasanta desc"
       },
       {
         "code": "xmas_c25_snowytree",
-        "name": "xmas_c25_snowytree name",
+        "name": "Besneeuwde Boom",
         "description": "xmas_c25_snowytree desc"
       },
       {
         "code": "xmas_c25_tree1a",
-        "name": "xmas_c25_tree1a name",
+        "name": "Kerstboom Bovenstuk",
         "description": "xmas_c25_tree1a desc"
       },
       {
         "code": "xmas_c25_tree1b",
-        "name": "xmas_c25_tree1b name",
+        "name": "Kerstboom Middenstuk",
         "description": "xmas_c25_tree1b desc"
       },
       {
         "code": "xmas_c25_tree1c",
-        "name": "xmas_c25_tree1c name",
+        "name": "Kerstboom Onderstuk",
         "description": "xmas_c25_tree1c desc"
       },
       {
         "code": "xmas_c25_tree2a_baubles",
-        "name": "xmas_c25_tree2a_baubles name",
+        "name": "Kerstboom Bovenstuk met Kerstballen",
         "description": "xmas_c25_tree2a_baubles desc"
       },
       {
         "code": "xmas_c25_tree2a_candy",
-        "name": "xmas_c25_tree2a_candy name",
+        "name": "Kerstboom Bovenstuk met Zuurstokjes",
         "description": "xmas_c25_tree2a_candy desc"
       },
       {
         "code": "xmas_c25_tree2a",
-        "name": "xmas_c25_tree2a name",
+        "name": "Kerstboom Bovenstuk met Lichtjes",
         "description": "xmas_c25_tree2a desc"
       },
       {
         "code": "xmas_c25_tree2a_snowflake",
-        "name": "xmas_c25_tree2a_snowflake name",
+        "name": "Kerstboom Bovenstuk met Sneeuwvlokjes",
         "description": "xmas_c25_tree2a_snowflake desc"
       },
       {
         "code": "xmas_c25_tree2b_baubles",
-        "name": "xmas_c25_tree2b_baubles name",
+        "name": "Kerstboom Middenstuk met Kerstballen",
         "description": "xmas_c25_tree2b_baubles desc"
       },
       {
         "code": "xmas_c25_tree2b_candy",
-        "name": "xmas_c25_tree2b_candy name",
+        "name": "Kerstboom Middenstuk met Zuurstokjes",
         "description": "xmas_c25_tree2b_candy desc"
       },
       {
         "code": "xmas_c25_tree2b",
-        "name": "xmas_c25_tree2b name",
+        "name": "Kerstboom Middenstuk met Lichtjes",
         "description": "xmas_c25_tree2b desc"
       },
       {
         "code": "xmas_c25_tree2b_snowflake",
-        "name": "xmas_c25_tree2b_snowflake name",
+        "name": "Kerstboom Middenstuk met Sneeuwvlokjes",
         "description": "xmas_c25_tree2b_snowflake desc"
       },
       {
         "code": "xmas_c25_tree2c_baubles",
-        "name": "xmas_c25_tree2c_baubles name",
+        "name": "Kerstboom Onderstuk met Kerstballen",
         "description": "xmas_c25_tree2c_baubles desc"
       },
       {
         "code": "xmas_c25_tree2c_candy",
-        "name": "xmas_c25_tree2c_candy name",
+        "name": "Kerstboom Onderstuk met Zuurstokjes",
         "description": "xmas_c25_tree2c_candy desc"
       },
       {
         "code": "xmas_c25_tree2c",
-        "name": "xmas_c25_tree2c name",
+        "name": "Kerstboom Onderstuk met Lichtjes",
         "description": "xmas_c25_tree2c desc"
       },
       {
         "code": "xmas_c25_tree2c_snowflake",
-        "name": "xmas_c25_tree2c_snowflake name",
+        "name": "Kerstboom Onderstuk met Sneeuwvlokjes",
         "description": "xmas_c25_tree2c_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3a_baubles",
-        "name": "xmas_c25_tree3a_baubles name",
+        "name": "Kleurrijke Kerstboom Bovenstuk",
         "description": "xmas_c25_tree3a_baubles desc"
       },
       {
         "code": "xmas_c25_tree3a_candy",
-        "name": "xmas_c25_tree3a_candy name",
+        "name": "Kerstboom Bovenstuk met Zuurstokjes en Slingers",
         "description": "xmas_c25_tree3a_candy desc"
       },
       {
         "code": "xmas_c25_tree3a_snowflake",
-        "name": "xmas_c25_tree3a_snowflake name",
+        "name": "IJzige Kerstboom Bovenstuk",
         "description": "xmas_c25_tree3a_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3a_tinsel",
-        "name": "xmas_c25_tree3a_tinsel name",
+        "name": "Kerstboom Bovenstuk met Slingers",
         "description": "xmas_c25_tree3a_tinsel desc"
       },
       {
         "code": "xmas_c25_tree3b_baubles",
-        "name": "xmas_c25_tree3b_baubles name",
+        "name": "Kleurrijke Kerstboom Middenstuk",
         "description": "xmas_c25_tree3b_baubles desc"
       },
       {
         "code": "xmas_c25_tree3b_candy",
-        "name": "xmas_c25_tree3b_candy name",
+        "name": "Kerstboom Middenstuk met Zuurstokjes en Slingers",
         "description": "xmas_c25_tree3b_candy desc"
       },
       {
         "code": "xmas_c25_tree3b_snowflake",
-        "name": "xmas_c25_tree3b_snowflake name",
+        "name": "IJzige Kerstboom Middenstuk",
         "description": "xmas_c25_tree3b_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3b_tinsel",
-        "name": "xmas_c25_tree3b_tinsel name",
+        "name": "Kerstboom Middenstuk met Slingers",
         "description": "xmas_c25_tree3b_tinsel desc"
       },
       {
         "code": "xmas_c25_tree3c_baubles",
-        "name": "xmas_c25_tree3c_baubles name",
+        "name": "Kleurrijke Kerstboom Onderstuk",
         "description": "xmas_c25_tree3c_baubles desc"
       },
       {
         "code": "xmas_c25_tree3c_candy",
-        "name": "xmas_c25_tree3c_candy name",
+        "name": "Kerstboom Onderstuk met Zuurstokjes en Slingers",
         "description": "xmas_c25_tree3c_candy desc"
       },
       {
         "code": "xmas_c25_tree3c_snowflake",
-        "name": "xmas_c25_tree3c_snowflake name",
+        "name": "IJzige Kerstboom Onderstuk",
         "description": "xmas_c25_tree3c_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3c_tinsel",
-        "name": "xmas_c25_tree3c_tinsel name",
+        "name": "Kerstboom Onderstuk met Slingers",
         "description": "xmas_c25_tree3c_tinsel desc"
       },
       {
         "code": "xmas_c25_treebaubles",
-        "name": "xmas_c25_treebaubles name",
+        "name": "Allemaal soorten Kerstballen",
         "description": "xmas_c25_treebaubles desc"
       },
       {
         "code": "xmas_c25_treecandycane",
-        "name": "xmas_c25_treecandycane name",
+        "name": "Zuurstokjes",
         "description": "xmas_c25_treecandycane desc"
       },
       {
         "code": "xmas_c25_treedecorcrackable",
-        "name": "xmas_c25_treedecorcrackable name",
+        "name": "Kerst Decoratie Doos",
         "description": "xmas_c25_treedecorcrackable desc"
       },
       {
         "code": "xmas_c25_treedecorcrackableb",
-        "name": "xmas_c25_treedecorcrackableb name",
+        "name": "Kerst Decoratie Doos",
         "description": "xmas_c25_treedecorcrackableb desc"
       },
       {
         "code": "xmas_c25_treelights",
-        "name": "xmas_c25_treelights name",
+        "name": "Lichtsnoer",
         "description": "xmas_c25_treelights desc"
       },
       {
         "code": "xmas_c25_treesnowflake",
-        "name": "xmas_c25_treesnowflake name",
+        "name": "Sneeuwvlok Decoraties",
         "description": "xmas_c25_treesnowflake desc"
       },
       {
         "code": "xmas_c25_treetinsel",
-        "name": "xmas_c25_treetinsel name",
+        "name": "Kleurrijke Kerstslinger",
         "description": "xmas_c25_treetinsel desc"
       },
       {
         "code": "xmas_c25_treetopper1",
-        "name": "xmas_c25_treetopper1 name",
+        "name": "Ster Piek",
         "description": "xmas_c25_treetopper1 desc"
       },
       {
         "code": "xmas_c25_treetopper2",
-        "name": "xmas_c25_treetopper2 name",
+        "name": "Engel Piek",
         "description": "xmas_c25_treetopper2 desc"
       },
       {
         "code": "xmas_c25_treetopper3",
-        "name": "xmas_c25_treetopper3 name",
+        "name": "Sneeuwvlok Piek",
         "description": "xmas_c25_treetopper3 desc"
       },
       {
@@ -118867,8 +119167,13 @@
         "description": "xmas_ltd23_carousel desc"
       },
       {
+        "code": "xmas_ltd25_frostegg_bd",
+        "name": "Bevroren Ei",
+        "description": ""
+      },
+      {
         "code": "xmas_ltd25_frostegg",
-        "name": "xmas_ltd25_frostegg name",
+        "name": "Bevroren Ei",
         "description": "xmas_ltd25_frostegg desc"
       },
       {
@@ -119117,68 +119422,123 @@
         "description": "xmas_r24_divinedeer desc"
       },
       {
+        "code": "xmas_r25_festivenighth_bd",
+        "name": "Habbo Kerstnacht Hotel",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_festivenighthotel",
-        "name": "xmas_r25_festivenighthotel name",
+        "name": "Habbo Kerstnacht Hotel",
         "description": "xmas_r25_festivenighthotel desc"
       },
       {
         "code": "xmas_r25_habububox",
-        "name": "xmas_r25_habububox name",
+        "name": "Habubu Doos",
         "description": "xmas_r25_habububox desc"
       },
       {
         "code": "xmas_r25_habububoxb",
-        "name": "xmas_r25_habububoxb name",
+        "name": "Habubu Doos",
         "description": "xmas_r25_habububoxb desc"
       },
       {
+        "code": "xmas_r25_habubucalm_bd",
+        "name": "Kalme Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubucalm",
-        "name": "xmas_r25_habubucalm name",
+        "name": "Kalme Habubu",
         "description": "xmas_r25_habubucalm desc"
       },
       {
+        "code": "xmas_r25_habubucosy_bd",
+        "name": "Knuffelige Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubucosy",
-        "name": "xmas_r25_habubucosy name",
+        "name": "Knuffelige Habubu",
         "description": "xmas_r25_habubucosy desc"
       },
       {
+        "code": "xmas_r25_habubudream_bd",
+        "name": "Dromerige Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubudream",
-        "name": "xmas_r25_habubudream name",
+        "name": "Dromerige Habubu",
         "description": "xmas_r25_habubudream desc"
       },
       {
+        "code": "xmas_r25_habubufun_bd",
+        "name": "Grappige Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubufun",
-        "name": "xmas_r25_habubufun name",
+        "name": "Grappige Habubu",
         "description": "xmas_r25_habubufun desc"
       },
       {
+        "code": "xmas_r25_habubuglam_bd",
+        "name": "Glinsterende Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuglam",
-        "name": "xmas_r25_habubuglam name",
+        "name": "Glinsterende Habubu",
         "description": "xmas_r25_habubuglam desc"
       },
       {
         "code": "xmas_r25_habubuhappiness",
-        "name": "xmas_r25_habubuhappiness name",
+        "name": "Gelukkige Habubu",
         "description": "xmas_r25_habubuhappiness desc"
       },
       {
+        "code": "xmas_r25_habubuhappy_bd",
+        "name": "Gelukkige Habubu",
+        "description": ""
+      },
+      {
+        "code": "xmas_r25_habubuhope_bd",
+        "name": "Hoopgevende Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuhope",
-        "name": "xmas_r25_habubuhope name",
+        "name": "Hoopgevende Habubu",
         "description": "xmas_r25_habubuhope desc"
       },
       {
+        "code": "xmas_r25_habubulove_bd",
+        "name": "Liefhebbende Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubulove",
-        "name": "xmas_r25_habubulove name",
+        "name": "Liefhebbende Habubu",
         "description": "xmas_r25_habubulove desc"
       },
       {
+        "code": "xmas_r25_habubuluck_bd",
+        "name": "Geluks Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuluck",
-        "name": "xmas_r25_habubuluck name",
+        "name": "Geluks Habubu",
         "description": "xmas_r25_habubuluck desc"
       },
       {
+        "code": "xmas_r25_icepillow_bd",
+        "name": "IJskoud Kussen",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_icepillow",
-        "name": "xmas_r25_icepillow name",
+        "name": "IJskoud Kussen",
         "description": "xmas_r25_icepillow desc"
       },
       {

@@ -31902,6 +31902,16 @@
         "description": ""
       },
       {
+        "code": "chatstyle_cm2ice",
+        "name": "Jäinen puhekupla",
+        "description": ""
+      },
+      {
+        "code": "chatstyle_cm2rocky",
+        "name": "Luminen kiveys -puhekupla",
+        "description": ""
+      },
+      {
         "code": "chess_b_bishop",
         "name": "Musta lähetti",
         "description": "chess_b_bishop desc"
@@ -32924,6 +32934,11 @@
       {
         "code": "cl_r25_heartqueendress_bd",
         "name": "Herttakuningattaren mekko",
+        "description": ""
+      },
+      {
+        "code": "cl_r25_icetiplonghair_bd",
+        "name": "Jäästä kimalteleva poninhäntä",
         "description": ""
       },
       {
@@ -35978,7 +35993,7 @@
       },
       {
         "code": "clothing_fleeceheadwrap",
-        "name": "clothing_fleeceheadwrap name",
+        "name": "Fleece-otsapanta",
         "description": "clothing_fleeceheadwrap desc"
       },
       {
@@ -36558,7 +36573,7 @@
       },
       {
         "code": "clothing_headlamp",
-        "name": "clothing_headlamp name",
+        "name": "Otsalamppu",
         "description": "clothing_headlamp desc"
       },
       {
@@ -37587,6 +37602,16 @@
         "description": "clothing_nft2025 desc"
       },
       {
+        "code": "clothing_nft2025santahat",
+        "name": "Jään sininen tonttulakki",
+        "description": ""
+      },
+      {
+        "code": "clothing_nft2026",
+        "name": "2026 uudenvuoden kaulakoru",
+        "description": ""
+      },
+      {
         "code": "clothing_nft23partyhat1",
         "name": "2. vuosipäivän keltainen hattu",
         "description": "clothing_nft23partyhat1 desc"
@@ -38502,9 +38527,24 @@
         "description": "clothing_nfthaha desc"
       },
       {
+        "code": "clothing_nfthappy2026print",
+        "name": "Happy 2026 -printti",
+        "description": ""
+      },
+      {
         "code": "clothing_nfthearteyes",
         "name": "Sydänsilmät",
         "description": "clothing_nfthearteyes desc"
+      },
+      {
+        "code": "clothing_nftheartfacepaint",
+        "name": "Sydänkasvomaalaus",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftheterocromia",
+        "name": "Heterokromaattiset piilolinssit",
+        "description": ""
       },
       {
         "code": "clothing_nfthiphop",
@@ -38527,6 +38567,11 @@
         "description": "clothing_nfthobbyhorse3 desc"
       },
       {
+        "code": "clothing_nfthohohoprint",
+        "name": "Ho ho ho -printti",
+        "description": ""
+      },
+      {
         "code": "clothing_nftholidaycut",
         "name": "Rentoutuneen lomalaisen kampaus",
         "description": "clothing_nftholidaycut desc"
@@ -38535,6 +38580,11 @@
         "code": "clothing_nfthoneyjar",
         "name": "Hunajapurnukkalaukku",
         "description": "clothing_nfthoneyjar desc"
+      },
+      {
+        "code": "clothing_nfticaruscrown",
+        "name": "Ikaroksen kruunu",
+        "description": ""
       },
       {
         "code": "clothing_nfticecreambag1",
@@ -38625,6 +38675,11 @@
         "code": "clothing_nftmechapack",
         "name": "Taottu rakettireppu",
         "description": "clothing_nftmechapack desc"
+      },
+      {
+        "code": "clothing_nftmerryxmasprint",
+        "name": "Merry Xmas -printti",
+        "description": ""
       },
       {
         "code": "clothing_nftmessycut",
@@ -38807,6 +38862,11 @@
         "description": "clothing_nftpiercings desc"
       },
       {
+        "code": "clothing_nftpineapplehelmet",
+        "name": "Ananashattu",
+        "description": "clothing_nftpineapplehelmet desc"
+      },
+      {
         "code": "clothing_nftpinkbeanie",
         "name": "Vaaleanpunainen laskettelupipo",
         "description": "clothing_nftpinkbeanie desc"
@@ -38860,6 +38920,11 @@
         "code": "clothing_nftplayingcardoutfit",
         "name": "Pelikorttiasu",
         "description": "clothing_nftplayingcardoutfit desc"
+      },
+      {
+        "code": "clothing_nftpolarnight",
+        "name": "Pohjolan taivas -asu",
+        "description": ""
       },
       {
         "code": "clothing_nftpompomcardigan",
@@ -38942,6 +39007,11 @@
         "description": "clothing_nftrastasantajacket desc"
       },
       {
+        "code": "clothing_nftrastasantaprint",
+        "name": "Rastapukki-printti",
+        "description": ""
+      },
+      {
         "code": "clothing_nftregalblackcrown",
         "name": "Majesteettinen musta kruunu",
         "description": ""
@@ -39005,6 +39075,16 @@
         "code": "clothing_nftroundshades4",
         "name": "Keltaiset plehat",
         "description": "clothing_nftroundshades4 desc"
+      },
+      {
+        "code": "clothing_nftrudolphprint",
+        "name": "Petteri-printti",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftrudolphsnose",
+        "name": "Petterin punakuono",
+        "description": ""
       },
       {
         "code": "clothing_nfts25glasses1",
@@ -39187,6 +39267,11 @@
         "description": "clothing_nftsnowboard desc"
       },
       {
+        "code": "clothing_nftsnowmanbun",
+        "name": "Lumiukkonuttura",
+        "description": ""
+      },
+      {
         "code": "clothing_nftsnowoperadress",
         "name": "Jäinen operamekko",
         "description": "clothing_nftsnowoperadress desc"
@@ -39205,6 +39290,11 @@
         "code": "clothing_nftspringbrimhat",
         "name": "Lierihattu",
         "description": "clothing_nftspringbrimhat desc"
+      },
+      {
+        "code": "clothing_nftstarfacepaint",
+        "name": "Tähtikasvomaalaus",
+        "description": ""
       },
       {
         "code": "clothing_nftstatue",
@@ -39452,6 +39542,16 @@
         "description": "clothing_nfttropicalcrop desc"
       },
       {
+        "code": "clothing_nfttubescarf",
+        "name": "Putkikauluri",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftturkeyhat",
+        "name": "Kalkkunahattu",
+        "description": ""
+      },
+      {
         "code": "clothing_nftumbrella",
         "name": "Sadepäivän sateenvarjo",
         "description": "clothing_nftumbrella desc"
@@ -39502,9 +39602,29 @@
         "description": "clothing_nftwhitebeanie desc"
       },
       {
+        "code": "clothing_nftwinte25jacket",
+        "name": "Untuvatakki",
+        "description": ""
+      },
+      {
         "code": "clothing_nftwinter1",
         "name": "Vihreät pakkasasusteet",
         "description": "clothing_nftwinter1 desc"
+      },
+      {
+        "code": "clothing_nftwinter25beanie",
+        "name": "Tupsupipo",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwinter25boots",
+        "name": "Tanakat talvisaappaat",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwinter25pants",
+        "name": "Toppahousut",
+        "description": ""
       },
       {
         "code": "clothing_nftwinter2",
@@ -39607,9 +39727,19 @@
         "description": "clothing_nftxlogo desc"
       },
       {
+        "code": "clothing_nftxmasbonnieprint",
+        "name": "Joulu-Bonnie -printti",
+        "description": ""
+      },
+      {
         "code": "clothing_nftxmasdress",
         "name": "Tulipunainen joulumekko",
         "description": "clothing_nftxmasdress desc"
+      },
+      {
+        "code": "clothing_nftxmaslollipop",
+        "name": "Joulutikkari",
+        "description": ""
       },
       {
         "code": "clothing_nftxmaspants",
@@ -40263,7 +40393,7 @@
       },
       {
         "code": "clothing_penguinhat",
-        "name": "clothing_penguinhat name",
+        "name": "Pingviinihattu",
         "description": "clothing_penguinhat desc"
       },
       {
@@ -40368,12 +40498,12 @@
       },
       {
         "code": "clothing_polkadotbow",
-        "name": "clothing_polkadotbow name",
+        "name": "Iso pilkullinen rusetti",
         "description": "clothing_polkadotbow desc"
       },
       {
         "code": "clothing_polkadotmittens",
-        "name": "clothing_polkadotmittens name",
+        "name": "Pilkulliset lapaset",
         "description": "clothing_polkadotmittens desc"
       },
       {
@@ -42858,12 +42988,12 @@
       },
       {
         "code": "clothing_r25_habubu",
-        "name": "clothing_r25_habubu name",
+        "name": "Habubu-laukku",
         "description": "clothing_r25_habubu desc"
       },
       {
         "code": "clothing_r25_habubuglam",
-        "name": "clothing_r25_habubuglam name",
+        "name": "Lumoava Habubu-laukku",
         "description": "clothing_r25_habubuglam desc"
       },
       {
@@ -42873,7 +43003,7 @@
       },
       {
         "code": "clothing_r25_icetiplonghair",
-        "name": "clothing_r25_icetiplonghair name",
+        "name": "Jäästä kimalteleva poninhäntä",
         "description": "clothing_r25_icetiplonghair desc"
       },
       {
@@ -42887,8 +43017,13 @@
         "description": "clothing_r25_iridescentstarbag desc"
       },
       {
+        "code": "clothing_r25_kittybag_bd",
+        "name": "Laukkukisu",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_kittybag",
-        "name": "clothing_r25_kittybag name",
+        "name": "Laukkukisu",
         "description": "clothing_r25_kittybag desc"
       },
       {
@@ -42933,42 +43068,42 @@
       },
       {
         "code": "clothing_r25_nystargarland1",
-        "name": "clothing_r25_nystargarland1 name",
+        "name": "Vaaleanpunainen nauha",
         "description": "clothing_r25_nystargarland1 desc"
       },
       {
         "code": "clothing_r25_nystargarland2",
-        "name": "clothing_r25_nystargarland2 name",
+        "name": "Rubiininpunainen nauha",
         "description": "clothing_r25_nystargarland2 desc"
       },
       {
         "code": "clothing_r25_nystargarland3",
-        "name": "clothing_r25_nystargarland3 name",
+        "name": "Kullankeltainen nauha",
         "description": "clothing_r25_nystargarland3 desc"
       },
       {
         "code": "clothing_r25_nystargarland4",
-        "name": "clothing_r25_nystargarland4 name",
+        "name": "Yönsininen nauha",
         "description": "clothing_r25_nystargarland4 desc"
       },
       {
         "code": "clothing_r25_nystargarland5",
-        "name": "clothing_r25_nystargarland5 name",
+        "name": "Kirkkaan oranssi nauha",
         "description": "clothing_r25_nystargarland5 desc"
       },
       {
         "code": "clothing_r25_nystargarland6",
-        "name": "clothing_r25_nystargarland6 name",
+        "name": "Kirkkaan sininen nauha",
         "description": "clothing_r25_nystargarland6 desc"
       },
       {
         "code": "clothing_r25_nystargarland7",
-        "name": "clothing_r25_nystargarland7 name",
+        "name": "Smaragdinvihreä nauha",
         "description": "clothing_r25_nystargarland7 desc"
       },
       {
         "code": "clothing_r25_nystargarland8",
-        "name": "clothing_r25_nystargarland8 name",
+        "name": "Pinkki nauha",
         "description": "clothing_r25_nystargarland8 desc"
       },
       {
@@ -43558,7 +43693,7 @@
       },
       {
         "code": "clothing_snowflakenecklace",
-        "name": "clothing_snowflakenecklace name",
+        "name": "Lumihiutalekaulakoru",
         "description": "clothing_snowflakenecklace desc"
       },
       {
@@ -44318,7 +44453,7 @@
       },
       {
         "code": "clothing_xmashatpatchwork",
-        "name": "clothing_xmashatpatchwork name",
+        "name": "Tilkkutonttulakki",
         "description": "clothing_xmashatpatchwork desc"
       },
       {
@@ -51038,22 +51173,22 @@
       },
       {
         "code": "ducket_c25_cottagebook",
-        "name": "ducket_c25_cottagebook name",
+        "name": "Lukutoukan aarre",
         "description": "ducket_c25_cottagebook desc"
       },
       {
         "code": "ducket_c25_cottageduckrug",
-        "name": "ducket_c25_cottageduckrug name",
+        "name": "Ankkaryijy",
         "description": "ducket_c25_cottageduckrug desc"
       },
       {
         "code": "ducket_c25_cottageherbs",
-        "name": "ducket_c25_cottageherbs name",
+        "name": "Yrttihylly",
         "description": "ducket_c25_cottageherbs desc"
       },
       {
         "code": "ducket_c25_cottagestool",
-        "name": "ducket_c25_cottagestool name",
+        "name": "Pörröinen jakkara",
         "description": "ducket_c25_cottagestool desc"
       },
       {
@@ -57543,7 +57678,7 @@
       },
       {
         "code": "giftbox_c25_crackable5",
-        "name": "giftbox_c25_crackable5 name",
+        "name": "Joulun 2025 lahjapaketti",
         "description": "giftbox_c25_crackable5 desc"
       },
       {
@@ -70643,7 +70778,7 @@
       },
       {
         "code": "lodge_brickwall",
-        "name": "lodge_brickwall name",
+        "name": "Mökin tiiliseinä",
         "description": "lodge_brickwall desc"
       },
       {
@@ -70673,7 +70808,7 @@
       },
       {
         "code": "lodge_chandelier",
-        "name": "lodge_chandelier name",
+        "name": "Mökin kynttelikkö",
         "description": "lodge_chandelier desc"
       },
       {
@@ -70683,127 +70818,127 @@
       },
       {
         "code": "lodge_dark_bardesk",
-        "name": "lodge_dark_bardesk name",
+        "name": "Mökin tumma baaritiski",
         "description": "lodge_dark_bardesk desc"
       },
       {
         "code": "lodge_dark_barrelstool",
-        "name": "lodge_dark_barrelstool name",
+        "name": "Mökin tumma tynnyrijakkara",
         "description": "lodge_dark_barrelstool desc"
       },
       {
         "code": "lodge_dark_bed",
-        "name": "lodge_dark_bed name",
+        "name": "Mökin tumma sänky",
         "description": "lodge_dark_bed desc"
       },
       {
         "code": "lodge_dark_bench",
-        "name": "lodge_dark_bench name",
+        "name": "Mökin tumma penkki",
         "description": "lodge_dark_bench desc"
       },
       {
         "code": "lodge_dark_bookcase",
-        "name": "lodge_dark_bookcase name",
+        "name": "Mökin tumma kirjahylly",
         "description": "lodge_dark_bookcase desc"
       },
       {
         "code": "lodge_dark_brickwall",
-        "name": "lodge_dark_brickwall name",
+        "name": "Mökin tumma tiiliseinä",
         "description": "lodge_dark_brickwall desc"
       },
       {
         "code": "lodge_dark_candle",
-        "name": "lodge_dark_candle name",
+        "name": "Mökin tumma kynttilä",
         "description": "lodge_dark_candle desc"
       },
       {
         "code": "lodge_dark_chandelier",
-        "name": "lodge_dark_chandelier name",
+        "name": "Mökin tumma kynttelikkö",
         "description": "lodge_dark_chandelier desc"
       },
       {
         "code": "lodge_dark_cornerplinth",
-        "name": "lodge_dark_cornerplinth name",
+        "name": "Mökin tumma nurkkapylväs",
         "description": "lodge_dark_cornerplinth desc"
       },
       {
         "code": "lodge_dark_desk",
-        "name": "lodge_dark_desk name",
+        "name": "Mökin tumma työpöytä",
         "description": "lodge_dark_desk desc"
       },
       {
         "code": "lodge_dark_diningtable",
-        "name": "lodge_dark_diningtable name",
+        "name": "Mökin tumma ruokapöytä",
         "description": "lodge_dark_diningtable desc"
       },
       {
         "code": "lodge_dark_divider",
-        "name": "lodge_dark_divider name",
+        "name": "Mökin tumma aita",
         "description": "lodge_dark_divider desc"
       },
       {
         "code": "lodge_dark_doublebed",
-        "name": "lodge_dark_doublebed name",
+        "name": "Mökin tumma parisänky",
         "description": "lodge_dark_doublebed desc"
       },
       {
         "code": "lodge_dark_endtable",
-        "name": "lodge_dark_endtable name",
+        "name": "Mökin tumma sivupöytä",
         "description": "lodge_dark_endtable desc"
       },
       {
         "code": "lodge_dark_fireplace",
-        "name": "lodge_dark_fireplace name",
+        "name": "Mökin tumma takka",
         "description": "lodge_dark_fireplace desc"
       },
       {
         "code": "lodge_dark_floor",
-        "name": "lodge_dark_floor name",
+        "name": "Mökin tumma lattialaatta",
         "description": "lodge_dark_floor desc"
       },
       {
         "code": "lodge_dark_gate",
-        "name": "lodge_dark_gate name",
+        "name": "Mökin tumma portti",
         "description": "lodge_dark_gate desc"
       },
       {
         "code": "lodge_dark_lamp",
-        "name": "lodge_dark_lamp name",
+        "name": "Mökin tumma valaisin",
         "description": "lodge_dark_lamp desc"
       },
       {
         "code": "lodge_dark_minibar",
-        "name": "lodge_dark_minibar name",
+        "name": "Mökin tumma tynnyriminibaari",
         "description": "lodge_dark_minibar desc"
       },
       {
         "code": "lodge_dark_reindeerhead",
-        "name": "lodge_dark_reindeerhead name",
+        "name": "Mökin tumma peuranpääkoriste",
         "description": "lodge_dark_reindeerhead desc"
       },
       {
         "code": "lodge_dark_stool",
-        "name": "lodge_dark_stool name",
+        "name": "Mökin tumma jakkara",
         "description": "lodge_dark_stool desc"
       },
       {
         "code": "lodge_dark_tv",
-        "name": "lodge_dark_tv name",
+        "name": "Mökin tumma telkkari",
         "description": "lodge_dark_tv desc"
       },
       {
         "code": "lodge_dark_wall",
-        "name": "lodge_dark_wall name",
+        "name": "Mökin tumma seinä",
         "description": "lodge_dark_wall desc"
       },
       {
         "code": "lodge_dark_window",
-        "name": "lodge_dark_window name",
+        "name": "Mökin tumma ikkuna",
         "description": "lodge_dark_window desc"
       },
       {
         "code": "lodge_desk",
-        "name": "lodge_desk name",
+        "name": "Mökin työpöytä",
         "description": "lodge_desk desc"
       },
       {
@@ -70818,7 +70953,7 @@
       },
       {
         "code": "lodge_reindeerhead",
-        "name": "lodge_reindeerhead name",
+        "name": "Mökin peuranpääkoriste",
         "description": "lodge_reindeerhead desc"
       },
       {
@@ -70828,7 +70963,7 @@
       },
       {
         "code": "lodge_tv",
-        "name": "lodge_tv name",
+        "name": "Mökin telkkari",
         "description": "lodge_tv desc"
       },
       {
@@ -72868,12 +73003,12 @@
       },
       {
         "code": "mode_ceilinglight",
-        "name": "mode_ceilinglight name",
+        "name": "Hopeinen Polyfon-kattolamppu",
         "description": "mode_ceilinglight desc"
       },
       {
         "code": "mode_clock_0",
-        "name": "mode_clock_0 name",
+        "name": "Hopeinen Polyfon-kello",
         "description": "mode_clock_0 desc"
       },
       {
@@ -72923,12 +73058,12 @@
       },
       {
         "code": "mode_fridge",
-        "name": "mode_fridge name",
+        "name": "Hopeinen Polyfon-jääkaappi",
         "description": "mode_fridge desc"
       },
       {
         "code": "mode_gold_armchair_0",
-        "name": "mode_gold_armchair_0 name",
+        "name": "Kultainen Polyfon-nojatuoli",
         "description": "mode_gold_armchair_0 desc"
       },
       {
@@ -72978,12 +73113,12 @@
       },
       {
         "code": "mode_gold_bar",
-        "name": "mode_gold_bar name",
+        "name": "Kultainen Polyfon-minibaari",
         "description": "mode_gold_bar desc"
       },
       {
         "code": "mode_gold_bardesk_0",
-        "name": "mode_gold_bardesk_0 name",
+        "name": "Kultainen Polyfon-baaritiski",
         "description": "mode_gold_bardesk_0 desc"
       },
       {
@@ -73033,7 +73168,7 @@
       },
       {
         "code": "mode_gold_bardeskcorner_0",
-        "name": "mode_gold_bardeskcorner_0 name",
+        "name": "Kultainen Polyfon-baaritiskin kulma",
         "description": "mode_gold_bardeskcorner_0 desc"
       },
       {
@@ -73083,7 +73218,7 @@
       },
       {
         "code": "mode_gold_bearug_0",
-        "name": "mode_gold_bearug_0 name",
+        "name": "Kultainen Polyfon-tekoturkiskarhutalja",
         "description": "mode_gold_bearug_0 desc"
       },
       {
@@ -73113,7 +73248,7 @@
       },
       {
         "code": "mode_gold_bed_0",
-        "name": "mode_gold_bed_0 name",
+        "name": "Kultainen Polyfon-sänky",
         "description": "mode_gold_bed_0 desc"
       },
       {
@@ -73163,17 +73298,17 @@
       },
       {
         "code": "mode_gold_bookcase",
-        "name": "mode_gold_bookcase name",
+        "name": "Kultainen Polyfon-kirjahylly",
         "description": "mode_gold_bookcase desc"
       },
       {
         "code": "mode_gold_ceilinglight",
-        "name": "mode_gold_ceilinglight name",
+        "name": "Kultainen Polyfon-kattolamppu",
         "description": "mode_gold_ceilinglight desc"
       },
       {
         "code": "mode_gold_clock_0",
-        "name": "mode_gold_clock_0 name",
+        "name": "Kultainen Polyfon-kello",
         "description": "mode_gold_clock_0 desc"
       },
       {
@@ -73223,12 +73358,12 @@
       },
       {
         "code": "mode_gold_diningchair",
-        "name": "mode_gold_diningchair name",
+        "name": "Kultainen Polyfon-tuoli",
         "description": "mode_gold_diningchair desc"
       },
       {
         "code": "mode_gold_doublebed_0",
-        "name": "mode_gold_doublebed_0 name",
+        "name": "Kultainen Polyfon-parisänky",
         "description": "mode_gold_doublebed_0 desc"
       },
       {
@@ -73278,17 +73413,17 @@
       },
       {
         "code": "mode_gold_fireplace",
-        "name": "mode_gold_fireplace name",
+        "name": "Kultainen Polyfon-takka",
         "description": "mode_gold_fireplace desc"
       },
       {
         "code": "mode_gold_fridge",
-        "name": "mode_gold_fridge name",
+        "name": "Kultainen Polyfon-jääkaappi",
         "description": "mode_gold_fridge desc"
       },
       {
         "code": "mode_gold_gate_0",
-        "name": "mode_gold_gate_0 name",
+        "name": "Kultainen Polyfon-portti",
         "description": "mode_gold_gate_0 desc"
       },
       {
@@ -73338,22 +73473,22 @@
       },
       {
         "code": "mode_gold_largecoffeetable",
-        "name": "mode_gold_largecoffeetable name",
+        "name": "Iso kultainen Polyfon-sohvapöytä",
         "description": "mode_gold_largecoffeetable desc"
       },
       {
         "code": "mode_gold_largediningtable",
-        "name": "mode_gold_largediningtable name",
+        "name": "Kultainen Polyfon-ruokapöytä",
         "description": "mode_gold_largediningtable desc"
       },
       {
         "code": "mode_gold_largetable",
-        "name": "mode_gold_largetable name",
+        "name": "Iso kultainen Polyfon-pöytä",
         "description": "mode_gold_largetable desc"
       },
       {
         "code": "mode_gold_partingscreen_0",
-        "name": "mode_gold_partingscreen_0 name",
+        "name": "Kultainen Polyfon-sermi",
         "description": "mode_gold_partingscreen_0 desc"
       },
       {
@@ -73403,12 +73538,12 @@
       },
       {
         "code": "mode_gold_smallcoffeetable",
-        "name": "mode_gold_smallcoffeetable name",
+        "name": "Pieni kultainen Polyfon-sohvapöytä",
         "description": "mode_gold_smallcoffeetable desc"
       },
       {
         "code": "mode_gold_sofa_0",
-        "name": "mode_gold_sofa_0 name",
+        "name": "Kultainen Polyfon-sohva",
         "description": "mode_gold_sofa_0 desc"
       },
       {
@@ -73458,7 +73593,7 @@
       },
       {
         "code": "mode_gold_vase_0",
-        "name": "mode_gold_vase_0 name",
+        "name": "Kultainen Polyfon-kukkamaljakko",
         "description": "mode_gold_vase_0 desc"
       },
       {
@@ -73508,7 +73643,7 @@
       },
       {
         "code": "mode_gold_zshelf",
-        "name": "mode_gold_zshelf name",
+        "name": "Kultainen Polyfon-hylly",
         "description": "mode_gold_zshelf desc"
       },
       {
@@ -73518,7 +73653,7 @@
       },
       {
         "code": "mode_partingscreen_0",
-        "name": "mode_partingscreen_0 name",
+        "name": "Hopeinen Polyfon-sermi",
         "description": "mode_partingscreen_0 desc"
       },
       {
@@ -73568,7 +73703,7 @@
       },
       {
         "code": "mode_vase_0",
-        "name": "mode_vase_0 name",
+        "name": "Hopeinen Polyfon-kukkamaljakko",
         "description": "mode_vase_0 desc"
       },
       {
@@ -74143,7 +74278,7 @@
       },
       {
         "code": "neopets_c25_acaraxmas",
-        "name": "neopets_c25_acaraxmas name",
+        "name": "Joulu-Acara",
         "description": "neopets_c25_acaraxmas desc"
       },
       {
@@ -74163,7 +74298,7 @@
       },
       {
         "code": "neopets_c25_aishaxmas",
-        "name": "neopets_c25_aishaxmas name",
+        "name": "Joulu-Aisha",
         "description": "neopets_c25_aishaxmas desc"
       },
       {
@@ -74178,7 +74313,7 @@
       },
       {
         "code": "neopets_c25_brucexmas",
-        "name": "neopets_c25_brucexmas name",
+        "name": "Joulu-Bruce",
         "description": "neopets_c25_brucexmas desc"
       },
       {
@@ -74203,12 +74338,12 @@
       },
       {
         "code": "neopets_c25_crackablexmas",
-        "name": "neopets_c25_crackablexmas name",
+        "name": "Jouluinen Neopets-muna",
         "description": "neopets_c25_crackablexmas desc"
       },
       {
         "code": "neopets_c25_crackablexmasb",
-        "name": "neopets_c25_crackablexmasb name",
+        "name": "Jouluinen Neopets-muna",
         "description": "neopets_c25_crackablexmasb desc"
       },
       {
@@ -74228,7 +74363,7 @@
       },
       {
         "code": "neopets_c25_cybunnyxmas",
-        "name": "neopets_c25_cybunnyxmas name",
+        "name": "Joulu-Cybunny",
         "description": "neopets_c25_cybunnyxmas desc"
       },
       {
@@ -74263,7 +74398,7 @@
       },
       {
         "code": "neopets_c25_draikxmas",
-        "name": "neopets_c25_draikxmas name",
+        "name": "Joulu-Draik",
         "description": "neopets_c25_draikxmas desc"
       },
       {
@@ -74288,7 +74423,7 @@
       },
       {
         "code": "neopets_c25_eyriexmas",
-        "name": "neopets_c25_eyriexmas name",
+        "name": "Joulu-Eyrie",
         "description": "neopets_c25_eyriexmas desc"
       },
       {
@@ -74323,7 +74458,7 @@
       },
       {
         "code": "neopets_c25_kacheekxmas",
-        "name": "neopets_c25_kacheekxmas name",
+        "name": "Joulu-Kacheek",
         "description": "neopets_c25_kacheekxmas desc"
       },
       {
@@ -74343,7 +74478,7 @@
       },
       {
         "code": "neopets_c25_kougraxmas",
-        "name": "neopets_c25_kougraxmas name",
+        "name": "Joulu-Kougra",
         "description": "neopets_c25_kougraxmas desc"
       },
       {
@@ -74368,7 +74503,7 @@
       },
       {
         "code": "neopets_c25_lupexmas",
-        "name": "neopets_c25_lupexmas name",
+        "name": "Joulu-Lupe",
         "description": "neopets_c25_lupexmas desc"
       },
       {
@@ -74418,7 +74553,7 @@
       },
       {
         "code": "neopets_c25_shoyruxmas",
-        "name": "neopets_c25_shoyruxmas name",
+        "name": "Joulu-Shoyru",
         "description": "neopets_c25_shoyruxmas desc"
       },
       {
@@ -74448,7 +74583,7 @@
       },
       {
         "code": "neopets_c25_unixmas",
-        "name": "neopets_c25_unixmas name",
+        "name": "Joulu-Uni",
         "description": "neopets_c25_unixmas desc"
       },
       {
@@ -74458,7 +74593,7 @@
       },
       {
         "code": "neopets_c25_xweetokxmas",
-        "name": "neopets_c25_xweetokxmas name",
+        "name": "Joulu-Xweetok",
         "description": "neopets_c25_xweetokxmas desc"
       },
       {
@@ -76465,6 +76600,46 @@
         "code": "nft_cm1_wall",
         "name": "Tilkkuseinä",
         "description": "nft_cm1_wall desc"
+      },
+      {
+        "code": "nft_cm2_croksleepingbag",
+        "name": "Krokotiilimakuupussi",
+        "description": "nft_cm2_croksleepingbag desc"
+      },
+      {
+        "code": "nft_cm2_icefloor",
+        "name": "Jäinen lattialaatta",
+        "description": "nft_cm2_icefloor desc"
+      },
+      {
+        "code": "nft_cm2_raccoonsofa",
+        "name": "Pesukarhusohva",
+        "description": "nft_cm2_raccoonsofa desc"
+      },
+      {
+        "code": "nft_cm2_rocky",
+        "name": "Lumen peittämä kiveys",
+        "description": "nft_cm2_rocky desc"
+      },
+      {
+        "code": "nft_cm2_secretsantavoucher",
+        "name": "Salainen joulupukki -lahjakortti",
+        "description": "nft_cm2_secretsantavoucher desc"
+      },
+      {
+        "code": "nft_cm2_snowpipefence",
+        "name": "Lumiputki",
+        "description": "nft_cm2_snowpipefence desc"
+      },
+      {
+        "code": "nft_cm2_snowstormdrinks",
+        "name": "Sulaneen lumen annostelija",
+        "description": "nft_cm2_snowstormdrinks desc"
+      },
+      {
+        "code": "nft_cm2_sprucechair",
+        "name": "Alppivuoriston lepotuoli",
+        "description": "nft_cm2_sprucechair desc"
       },
       {
         "code": "nft_cny16_monkeyballoon",
@@ -79562,6 +79737,11 @@
         "description": "nft_h25_armasrockingchair desc"
       },
       {
+        "code": "nft_h25_bluexmaslollipop",
+        "name": "Sininen joulutikkari",
+        "description": ""
+      },
+      {
         "code": "nft_h25_boogieblast_egg",
         "name": "Diskodinon muna",
         "description": "nft_h25_boogieblast_egg desc"
@@ -79782,6 +79962,16 @@
         "description": "nft_h25_giftopentestfurni desc"
       },
       {
+        "code": "nft_h25_gingerbreadhotel",
+        "name": "Piparkakkuhotelli",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_gingerbreadsofa",
+        "name": "Piparkakkusohva",
+        "description": ""
+      },
+      {
         "code": "nft_h25_gnomeofdoom",
         "name": "Viikatemiestonttu",
         "description": "nft_h25_gnomeofdoom desc"
@@ -79812,6 +80002,11 @@
         "description": "nft_h25_goldsword desc"
       },
       {
+        "code": "nft_h25_haf_penguin",
+        "name": "Pingviini-toimintafiguuri",
+        "description": ""
+      },
+      {
         "code": "nft_h25_haf_reddevil",
         "name": "Punaisten pirujen toimintafiguuri",
         "description": "nft_h25_haf_reddevil desc"
@@ -79830,6 +80025,16 @@
         "code": "nft_h25_hcsohva2",
         "name": "Luonnonvalkea samettisohva",
         "description": "nft_h25_hcsohva2 desc"
+      },
+      {
+        "code": "nft_h25_icarusfigure",
+        "name": "Kultainen Ikaros-patsas",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_icaruspainting",
+        "name": "Ikaroksen putoaminen",
+        "description": ""
       },
       {
         "code": "nft_h25_magiccauldron",
@@ -79885,6 +80090,11 @@
         "code": "nft_h25_pumpkinpod",
         "name": "Kurpitsa-Plastyk",
         "description": "nft_h25_pumpkinpod desc"
+      },
+      {
+        "code": "nft_h25_redxmaslollipop",
+        "name": "Punainen joulutikkari",
+        "description": ""
       },
       {
         "code": "nft_h25_robocroc",
@@ -80050,6 +80260,21 @@
         "code": "nft_h25_trippysword",
         "name": "Psykedeelinen miekka",
         "description": "nft_h25_trippysword desc"
+      },
+      {
+        "code": "nft_h25_xmasgiftbox",
+        "name": "Jouluinen lahjapaketti",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_xmasicm",
+        "name": "Jouluinen jäätelökone",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_xmaslamp",
+        "name": "Tonttulakkilamppu",
+        "description": ""
       },
       {
         "code": "nft_h25_zeusdrinks",
@@ -81195,6 +81420,26 @@
         "code": "nft_sc25_warningsign",
         "name": "Varoitusmerkki",
         "description": "nft_sc25_warningsign desc"
+      },
+      {
+        "code": "nft_sc_frozenthrone",
+        "name": "Jäinen valtaistuin",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe1",
+        "name": "Jäinen lohikäärmepyrypallo",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe2",
+        "name": "Jäinen fanttipyrypallo",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe3",
+        "name": "Jäinen ankkapyrypallo",
+        "description": ""
       },
       {
         "code": "nft_scifidoor_1",
@@ -82528,7 +82773,7 @@
       },
       {
         "code": "ny_r25_crackable",
-        "name": "ny_r25_crackable name",
+        "name": "2026 nauhalaatikko",
         "description": "ny_r25_crackable desc"
       },
       {
@@ -90548,7 +90793,7 @@
       },
       {
         "code": "rare_prize25_xmas",
-        "name": "rare_prize25_xmas name",
+        "name": "Arktinen karitsa",
         "description": "rare_prize25_xmas desc"
       },
       {
@@ -90923,7 +91168,7 @@
       },
       {
         "code": "recycler_bluetyre",
-        "name": "recycler_bluetyre name",
+        "name": "Sininen rengaskeinu",
         "description": "recycler_bluetyre desc"
       },
       {
@@ -90988,22 +91233,22 @@
       },
       {
         "code": "recycler_ducktape",
-        "name": "recycler_ducktape name",
+        "name": "Keltainen Habbo-jesari",
         "description": "recycler_ducktape desc"
       },
       {
         "code": "recycler_ducktapeblue",
-        "name": "recycler_ducktapeblue name",
+        "name": "Sininen Habbo-jesari",
         "description": "recycler_ducktapeblue desc"
       },
       {
         "code": "recycler_ducktapepink",
-        "name": "recycler_ducktapepink name",
+        "name": "Punainen Habbo-jesari",
         "description": "recycler_ducktapepink desc"
       },
       {
         "code": "recycler_grungetyre",
-        "name": "recycler_grungetyre name",
+        "name": "Musta rengaskeinu",
         "description": "recycler_grungetyre desc"
       },
       {
@@ -91028,22 +91273,22 @@
       },
       {
         "code": "recycler_patchduck2",
-        "name": "recycler_patchduck2 name",
+        "name": "Keltainen tilkkuankka",
         "description": "recycler_patchduck2 desc"
       },
       {
         "code": "recycler_patchduck3",
-        "name": "recycler_patchduck3 name",
+        "name": "Pinkki tilkkuankka",
         "description": "recycler_patchduck3 desc"
       },
       {
         "code": "recycler_patchduck",
-        "name": "recycler_patchduck name",
+        "name": "Liila tilkkuankka",
         "description": "recycler_patchduck desc"
       },
       {
         "code": "recycler_patchpillow",
-        "name": "recycler_patchpillow name",
+        "name": "Tilkkutyyny",
         "description": "recycler_patchpillow desc"
       },
       {
@@ -91058,7 +91303,7 @@
       },
       {
         "code": "recycler_pinktyre",
-        "name": "recycler_pinktyre name",
+        "name": "Pinkki rengaskeinu",
         "description": "recycler_pinktyre desc"
       },
       {
@@ -91108,7 +91353,7 @@
       },
       {
         "code": "recycler_whitetyre",
-        "name": "recycler_whitetyre name",
+        "name": "Valkoinen rengaskeinu",
         "description": "recycler_whitetyre desc"
       },
       {
@@ -101002,6 +101247,21 @@
         "description": "Rotsi niskaan ja luistimet mukaan, kaupungissa, joka ei nuku koskaan, ei ole ikinä tylsää. Mukana ainutlaatuinen Pupun pensaspatsas."
       },
       {
+        "code": "rotating_roomdeal450_10c",
+        "name": "Viihtyisää Habbo-joulua -huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal450_d",
+        "name": "Viihtyisää Habbo-joulua -huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal450",
+        "name": "Viihtyisää Habbo-joulua -huonepaketti",
+        "description": "Pidä sormet ja varpaat lämpiminä tänä jouluna tässä mukavassa pikku huonepaketissa. Missä muualla olisi mukavampaa?"
+      },
+      {
         "code": "rotating_roomdeal451_10c",
         "name": "Gaming-huonepaketti",
         "description": ""
@@ -102670,6 +102930,21 @@
         "code": "sc25_warningsign",
         "name": "Varoitusmerkki",
         "description": "sc25_warningsign desc"
+      },
+      {
+        "code": "sc_snowglobe1",
+        "name": "Jäinen lohikäärmepyrypallo",
+        "description": ""
+      },
+      {
+        "code": "sc_snowglobe2",
+        "name": "Jäinen fanttipyrypallo",
+        "description": ""
+      },
+      {
+        "code": "sc_snowglobe3",
+        "name": "Jäinen ankkapyrypallo",
+        "description": ""
       },
       {
         "code": "school_backtoschool",
@@ -116002,6 +116277,26 @@
         "description": ""
       },
       {
+        "code": "xmas25_pack1",
+        "name": "Xmas Pack 1",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack2",
+        "name": "Xmas Pack 2",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack3",
+        "name": "Xmas Pack 3",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack4",
+        "name": "Xmas Pack 4",
+        "description": ""
+      },
+      {
         "code": "xmas25_quest1",
         "name": "Quest Week 1 - Traditional Xmas",
         "description": ""
@@ -118728,257 +119023,262 @@
       },
       {
         "code": "xmas_c25_largeicehole",
-        "name": "xmas_c25_largeicehole name",
+        "name": "Avanto",
         "description": "xmas_c25_largeicehole desc"
       },
       {
         "code": "xmas_c25_minirobotdino",
-        "name": "xmas_c25_minirobotdino name",
+        "name": "Mini robotti-dinosaurus",
         "description": "xmas_c25_minirobotdino desc"
       },
       {
+        "code": "xmas_c25_mistletoe_duck",
+        "name": "Mistelinoksa-rakkauslukko",
+        "description": ""
+      },
+      {
         "code": "xmas_c25_mistletoelovelock",
-        "name": "xmas_c25_mistletoelovelock name",
+        "name": "Mistelinoksa-rakkauslukko",
         "description": "xmas_c25_mistletoelovelock desc"
       },
       {
         "code": "xmas_c25_penguin1",
-        "name": "xmas_c25_penguin1 name",
+        "name": "Petteri-pingviini",
         "description": "xmas_c25_penguin1 desc"
       },
       {
         "code": "xmas_c25_penguin2",
-        "name": "xmas_c25_penguin2 name",
+        "name": "Kuusipingviini",
         "description": "xmas_c25_penguin2 desc"
       },
       {
         "code": "xmas_c25_penguin3",
-        "name": "xmas_c25_penguin3 name",
+        "name": "Pitkätöyhtöpingviini",
         "description": "xmas_c25_penguin3 desc"
       },
       {
         "code": "xmas_c25_penguin4",
-        "name": "xmas_c25_penguin4 name",
+        "name": "Kumimanu-pingviini",
         "description": "xmas_c25_penguin4 desc"
       },
       {
         "code": "xmas_c25_penguin5",
-        "name": "xmas_c25_penguin5 name",
+        "name": "Habbo-ankkapingviini",
         "description": "xmas_c25_penguin5 desc"
       },
       {
         "code": "xmas_c25_penguin6",
-        "name": "xmas_c25_penguin6 name",
+        "name": "Jääpalapingviini",
         "description": "xmas_c25_penguin6 desc"
       },
       {
         "code": "xmas_c25_penguin7",
-        "name": "xmas_c25_penguin7 name",
+        "name": "Napaseudunpingviini",
         "description": "xmas_c25_penguin7 desc"
       },
       {
         "code": "xmas_c25_penguin8",
-        "name": "xmas_c25_penguin8 name",
+        "name": "Aristokraattipingviini",
         "description": "xmas_c25_penguin8 desc"
       },
       {
         "code": "xmas_c25_pixeltree",
-        "name": "xmas_c25_pixeltree name",
+        "name": "Pikselikuusi",
         "description": "xmas_c25_pixeltree desc"
       },
       {
         "code": "xmas_c25_rastasanta",
-        "name": "xmas_c25_rastasanta name",
+        "name": "Rastapukki-tehtailupöytä",
         "description": "xmas_c25_rastasanta desc"
       },
       {
         "code": "xmas_c25_snowytree",
-        "name": "xmas_c25_snowytree name",
+        "name": "Luminen puu",
         "description": "xmas_c25_snowytree desc"
       },
       {
         "code": "xmas_c25_tree1a",
-        "name": "xmas_c25_tree1a name",
+        "name": "Joulukuusen yläosa",
         "description": "xmas_c25_tree1a desc"
       },
       {
         "code": "xmas_c25_tree1b",
-        "name": "xmas_c25_tree1b name",
+        "name": "Joulukuusen keskiosa",
         "description": "xmas_c25_tree1b desc"
       },
       {
         "code": "xmas_c25_tree1c",
-        "name": "xmas_c25_tree1c name",
+        "name": "Joulukuusen alaosa",
         "description": "xmas_c25_tree1c desc"
       },
       {
         "code": "xmas_c25_tree2a_baubles",
-        "name": "xmas_c25_tree2a_baubles name",
+        "name": "Pallokuusen yläosa",
         "description": "xmas_c25_tree2a_baubles desc"
       },
       {
         "code": "xmas_c25_tree2a_candy",
-        "name": "xmas_c25_tree2a_candy name",
+        "name": "Karkkikeppikuusen yläosa",
         "description": "xmas_c25_tree2a_candy desc"
       },
       {
         "code": "xmas_c25_tree2a",
-        "name": "xmas_c25_tree2a name",
+        "name": "Valaistun kuusen yläosa",
         "description": "xmas_c25_tree2a desc"
       },
       {
         "code": "xmas_c25_tree2a_snowflake",
-        "name": "xmas_c25_tree2a_snowflake name",
+        "name": "Lumihiutalekuusen yläosa",
         "description": "xmas_c25_tree2a_snowflake desc"
       },
       {
         "code": "xmas_c25_tree2b_baubles",
-        "name": "xmas_c25_tree2b_baubles name",
+        "name": "Pallokuusen keskiosa",
         "description": "xmas_c25_tree2b_baubles desc"
       },
       {
         "code": "xmas_c25_tree2b_candy",
-        "name": "xmas_c25_tree2b_candy name",
+        "name": "Karkkikeppikuusen keskiosa",
         "description": "xmas_c25_tree2b_candy desc"
       },
       {
         "code": "xmas_c25_tree2b",
-        "name": "xmas_c25_tree2b name",
+        "name": "Valaistun kuusen keskiosa",
         "description": "xmas_c25_tree2b desc"
       },
       {
         "code": "xmas_c25_tree2b_snowflake",
-        "name": "xmas_c25_tree2b_snowflake name",
+        "name": "Lumihiutalekuusen keskiosa",
         "description": "xmas_c25_tree2b_snowflake desc"
       },
       {
         "code": "xmas_c25_tree2c_baubles",
-        "name": "xmas_c25_tree2c_baubles name",
+        "name": "Pallokuusen alaosa",
         "description": "xmas_c25_tree2c_baubles desc"
       },
       {
         "code": "xmas_c25_tree2c_candy",
-        "name": "xmas_c25_tree2c_candy name",
+        "name": "Karkkikeppikuusen alaosa",
         "description": "xmas_c25_tree2c_candy desc"
       },
       {
         "code": "xmas_c25_tree2c",
-        "name": "xmas_c25_tree2c name",
+        "name": "Valaistun kuusen alaosa",
         "description": "xmas_c25_tree2c desc"
       },
       {
         "code": "xmas_c25_tree2c_snowflake",
-        "name": "xmas_c25_tree2c_snowflake name",
+        "name": "Lumihiutalekuusen alaosa",
         "description": "xmas_c25_tree2c_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3a_baubles",
-        "name": "xmas_c25_tree3a_baubles name",
+        "name": "Koristellun kuusen yläosa",
         "description": "xmas_c25_tree3a_baubles desc"
       },
       {
         "code": "xmas_c25_tree3a_candy",
-        "name": "xmas_c25_tree3a_candy name",
+        "name": "Makoisan kuusen yläosa",
         "description": "xmas_c25_tree3a_candy desc"
       },
       {
         "code": "xmas_c25_tree3a_snowflake",
-        "name": "xmas_c25_tree3a_snowflake name",
+        "name": "Pakkaskuusen yläosa",
         "description": "xmas_c25_tree3a_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3a_tinsel",
-        "name": "xmas_c25_tree3a_tinsel name",
+        "name": "Punoskuusen yläosa",
         "description": "xmas_c25_tree3a_tinsel desc"
       },
       {
         "code": "xmas_c25_tree3b_baubles",
-        "name": "xmas_c25_tree3b_baubles name",
+        "name": "Koristellun kuusen keskiosa",
         "description": "xmas_c25_tree3b_baubles desc"
       },
       {
         "code": "xmas_c25_tree3b_candy",
-        "name": "xmas_c25_tree3b_candy name",
+        "name": "Makoisan kuusen keskiosa",
         "description": "xmas_c25_tree3b_candy desc"
       },
       {
         "code": "xmas_c25_tree3b_snowflake",
-        "name": "xmas_c25_tree3b_snowflake name",
+        "name": "Pakkaskuusen keskiosa",
         "description": "xmas_c25_tree3b_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3b_tinsel",
-        "name": "xmas_c25_tree3b_tinsel name",
+        "name": "Punoskuusen keskiosa",
         "description": "xmas_c25_tree3b_tinsel desc"
       },
       {
         "code": "xmas_c25_tree3c_baubles",
-        "name": "xmas_c25_tree3c_baubles name",
+        "name": "Koristellun kuusen alaosa",
         "description": "xmas_c25_tree3c_baubles desc"
       },
       {
         "code": "xmas_c25_tree3c_candy",
-        "name": "xmas_c25_tree3c_candy name",
+        "name": "Makoisan kuusen alaosa",
         "description": "xmas_c25_tree3c_candy desc"
       },
       {
         "code": "xmas_c25_tree3c_snowflake",
-        "name": "xmas_c25_tree3c_snowflake name",
+        "name": "Pakkaskuusen alaosa",
         "description": "xmas_c25_tree3c_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3c_tinsel",
-        "name": "xmas_c25_tree3c_tinsel name",
+        "name": "Punoskuusen alaosa",
         "description": "xmas_c25_tree3c_tinsel desc"
       },
       {
         "code": "xmas_c25_treebaubles",
-        "name": "xmas_c25_treebaubles name",
+        "name": "Joulupallokokoelma",
         "description": "xmas_c25_treebaubles desc"
       },
       {
         "code": "xmas_c25_treecandycane",
-        "name": "xmas_c25_treecandycane name",
+        "name": "Karkkikepit",
         "description": "xmas_c25_treecandycane desc"
       },
       {
         "code": "xmas_c25_treedecorcrackable",
-        "name": "xmas_c25_treedecorcrackable name",
+        "name": "Joulukoristelaatikko",
         "description": "xmas_c25_treedecorcrackable desc"
       },
       {
         "code": "xmas_c25_treedecorcrackableb",
-        "name": "xmas_c25_treedecorcrackableb name",
+        "name": "Joulukoristelaatikko",
         "description": "xmas_c25_treedecorcrackableb desc"
       },
       {
         "code": "xmas_c25_treelights",
-        "name": "xmas_c25_treelights name",
+        "name": "Jouluvalot",
         "description": "xmas_c25_treelights desc"
       },
       {
         "code": "xmas_c25_treesnowflake",
-        "name": "xmas_c25_treesnowflake name",
+        "name": "Lumihiutalekoristeet",
         "description": "xmas_c25_treesnowflake desc"
       },
       {
         "code": "xmas_c25_treetinsel",
-        "name": "xmas_c25_treetinsel name",
+        "name": "Värikkäät punokset",
         "description": "xmas_c25_treetinsel desc"
       },
       {
         "code": "xmas_c25_treetopper1",
-        "name": "xmas_c25_treetopper1 name",
+        "name": "Latvatähti",
         "description": "xmas_c25_treetopper1 desc"
       },
       {
         "code": "xmas_c25_treetopper2",
-        "name": "xmas_c25_treetopper2 name",
+        "name": "Latvaenkeli",
         "description": "xmas_c25_treetopper2 desc"
       },
       {
         "code": "xmas_c25_treetopper3",
-        "name": "xmas_c25_treetopper3 name",
+        "name": "Latvalumihiutale",
         "description": "xmas_c25_treetopper3 desc"
       },
       {
@@ -119102,8 +119402,13 @@
         "description": "xmas_ltd23_carousel desc"
       },
       {
+        "code": "xmas_ltd25_frostegg_bd",
+        "name": "Jäinen muna",
+        "description": ""
+      },
+      {
         "code": "xmas_ltd25_frostegg",
-        "name": "xmas_ltd25_frostegg name",
+        "name": "Jäinen muna",
         "description": "xmas_ltd25_frostegg desc"
       },
       {
@@ -119352,68 +119657,123 @@
         "description": "xmas_r24_divinedeer desc"
       },
       {
+        "code": "xmas_r25_festivenighth_bd",
+        "name": "Jouluyö-hotelli",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_festivenighthotel",
-        "name": "xmas_r25_festivenighthotel name",
+        "name": "Jouluyö-hotelli",
         "description": "xmas_r25_festivenighthotel desc"
       },
       {
         "code": "xmas_r25_habububox",
-        "name": "xmas_r25_habububox name",
+        "name": "Habubu-laatikko",
         "description": "xmas_r25_habububox desc"
       },
       {
         "code": "xmas_r25_habububoxb",
-        "name": "xmas_r25_habububoxb name",
+        "name": "Habubu-laatikko",
         "description": "xmas_r25_habububoxb desc"
       },
       {
+        "code": "xmas_r25_habubucalm_bd",
+        "name": "Rauhallisuuden Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubucalm",
-        "name": "xmas_r25_habubucalm name",
+        "name": "Rauhallisuuden Habubu",
         "description": "xmas_r25_habubucalm desc"
       },
       {
+        "code": "xmas_r25_habubucosy_bd",
+        "name": "Viihtyisyyden Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubucosy",
-        "name": "xmas_r25_habubucosy name",
+        "name": "Viihtyisyyden Habubu",
         "description": "xmas_r25_habubucosy desc"
       },
       {
+        "code": "xmas_r25_habubudream_bd",
+        "name": "Unelmien Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubudream",
-        "name": "xmas_r25_habubudream name",
+        "name": "Unelmien Habubu",
         "description": "xmas_r25_habubudream desc"
       },
       {
+        "code": "xmas_r25_habubufun_bd",
+        "name": "Hauskuuden Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubufun",
-        "name": "xmas_r25_habubufun name",
+        "name": "Hauskuuden Habubu",
         "description": "xmas_r25_habubufun desc"
       },
       {
+        "code": "xmas_r25_habubuglam_bd",
+        "name": "Lumon Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuglam",
-        "name": "xmas_r25_habubuglam name",
+        "name": "Lumon Habubu",
         "description": "xmas_r25_habubuglam desc"
       },
       {
         "code": "xmas_r25_habubuhappiness",
-        "name": "xmas_r25_habubuhappiness name",
+        "name": "Onnellisuuden Habubu",
         "description": "xmas_r25_habubuhappiness desc"
       },
       {
+        "code": "xmas_r25_habubuhappy_bd",
+        "name": "Onnellisuuden Habubu",
+        "description": ""
+      },
+      {
+        "code": "xmas_r25_habubuhope_bd",
+        "name": "Toivon Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuhope",
-        "name": "xmas_r25_habubuhope name",
+        "name": "Toivon Habubu",
         "description": "xmas_r25_habubuhope desc"
       },
       {
+        "code": "xmas_r25_habubulove_bd",
+        "name": "Rakkauden Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubulove",
-        "name": "xmas_r25_habubulove name",
+        "name": "Rakkauden Habubu",
         "description": "xmas_r25_habubulove desc"
       },
       {
+        "code": "xmas_r25_habubuluck_bd",
+        "name": "Onnen Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuluck",
-        "name": "xmas_r25_habubuluck name",
+        "name": "Onnen Habubu",
         "description": "xmas_r25_habubuluck desc"
       },
       {
+        "code": "xmas_r25_icepillow_bd",
+        "name": "Jäinen tyyny",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_icepillow",
-        "name": "xmas_r25_icepillow name",
+        "name": "Jäinen tyyny",
         "description": "xmas_r25_icepillow desc"
       },
       {

@@ -32297,6 +32297,16 @@
         "description": ""
       },
       {
+        "code": "chatstyle_cm2ice",
+        "name": "Buzlu Sohbet Balonu",
+        "description": ""
+      },
+      {
+        "code": "chatstyle_cm2rocky",
+        "name": "Karlı Kaya Sohbet Balonu",
+        "description": ""
+      },
+      {
         "code": "chess_b_bishop",
         "name": "Siyah Fil",
         "description": "chess_b_bishop desc"
@@ -33329,6 +33339,11 @@
       {
         "code": "cl_r25_heartqueendress_bd",
         "name": "Kupa Kızı Elbisesi",
+        "description": ""
+      },
+      {
+        "code": "cl_r25_icetiplonghair_bd",
+        "name": "Buzlu Parıltılı At Kuyruğu",
         "description": ""
       },
       {
@@ -36388,7 +36403,7 @@
       },
       {
         "code": "clothing_fleeceheadwrap",
-        "name": "clothing_fleeceheadwrap name",
+        "name": "Polar Saç Bandı",
         "description": "clothing_fleeceheadwrap desc"
       },
       {
@@ -36968,7 +36983,7 @@
       },
       {
         "code": "clothing_headlamp",
-        "name": "clothing_headlamp name",
+        "name": "Kafa Farı",
         "description": "clothing_headlamp desc"
       },
       {
@@ -37997,6 +38012,16 @@
         "description": "clothing_nft2025 desc"
       },
       {
+        "code": "clothing_nft2025santahat",
+        "name": "Buzlu Noel Baba Şapkası",
+        "description": ""
+      },
+      {
+        "code": "clothing_nft2026",
+        "name": "2026 Yeni Yıl Kolyesi",
+        "description": ""
+      },
+      {
         "code": "clothing_nft23partyhat1",
         "name": "2. Yıl Dönümü Sarı Şapka",
         "description": "clothing_nft23partyhat1 desc"
@@ -38912,9 +38937,24 @@
         "description": "clothing_nfthaha desc"
       },
       {
+        "code": "clothing_nfthappy2026print",
+        "name": "2026 Kutlu Olsun Baskı",
+        "description": ""
+      },
+      {
         "code": "clothing_nfthearteyes",
         "name": "Aşık Gözler",
         "description": "clothing_nfthearteyes desc"
+      },
+      {
+        "code": "clothing_nftheartfacepaint",
+        "name": "Kalp Yüz Boyası",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftheterocromia",
+        "name": "Heterokromatik Kontakt Lensler",
+        "description": ""
       },
       {
         "code": "clothing_nfthiphop",
@@ -38937,6 +38977,11 @@
         "description": "clothing_nfthobbyhorse3 desc"
       },
       {
+        "code": "clothing_nfthohohoprint",
+        "name": "Ho Ho Ho Baskı",
+        "description": ""
+      },
+      {
         "code": "clothing_nftholidaycut",
         "name": "Rahat Bayram Traşı",
         "description": "clothing_nftholidaycut desc"
@@ -38945,6 +38990,11 @@
         "code": "clothing_nfthoneyjar",
         "name": "Bal Küpü Çanta",
         "description": "clothing_nfthoneyjar desc"
+      },
+      {
+        "code": "clothing_nfticaruscrown",
+        "name": "İkarus Tacı",
+        "description": ""
       },
       {
         "code": "clothing_nfticecreambag1",
@@ -39035,6 +39085,11 @@
         "code": "clothing_nftmechapack",
         "name": "Dövme Demir Roket Sırt Çantası",
         "description": "clothing_nftmechapack desc"
+      },
+      {
+        "code": "clothing_nftmerryxmasprint",
+        "name": "Mutlu Noeller Baskı",
+        "description": ""
       },
       {
         "code": "clothing_nftmessycut",
@@ -39217,6 +39272,11 @@
         "description": "clothing_nftpiercings desc"
       },
       {
+        "code": "clothing_nftpineapplehelmet",
+        "name": "Ananas Şapka",
+        "description": "clothing_nftpineapplehelmet desc"
+      },
+      {
         "code": "clothing_nftpinkbeanie",
         "name": "Pembe Kayak Beresi",
         "description": "clothing_nftpinkbeanie desc"
@@ -39270,6 +39330,11 @@
         "code": "clothing_nftplayingcardoutfit",
         "name": "İskambil Kartı Kıyafeti",
         "description": "clothing_nftplayingcardoutfit desc"
+      },
+      {
+        "code": "clothing_nftpolarnight",
+        "name": "Kutup Gecesi Görünümü",
+        "description": ""
       },
       {
         "code": "clothing_nftpompomcardigan",
@@ -39352,6 +39417,11 @@
         "description": "clothing_nftrastasantajacket desc"
       },
       {
+        "code": "clothing_nftrastasantaprint",
+        "name": "Rasta Noel Baba Baskı",
+        "description": ""
+      },
+      {
         "code": "clothing_nftregalblackcrown",
         "name": "Asil Siyah Taç",
         "description": ""
@@ -39415,6 +39485,16 @@
         "code": "clothing_nftroundshades4",
         "name": "Sarı Güneş Gözlüğü",
         "description": "clothing_nftroundshades4 desc"
+      },
+      {
+        "code": "clothing_nftrudolphprint",
+        "name": "Rudolph Baskı",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftrudolphsnose",
+        "name": "Rudolph'un Parlak Burnu",
+        "description": ""
       },
       {
         "code": "clothing_nfts25glasses1",
@@ -39597,6 +39677,11 @@
         "description": "clothing_nftsnowboard desc"
       },
       {
+        "code": "clothing_nftsnowmanbun",
+        "name": "Kardanadam Topuzu",
+        "description": ""
+      },
+      {
         "code": "clothing_nftsnowoperadress",
         "name": "Karlar Ülkesi Opera Elbisesi",
         "description": "clothing_nftsnowoperadress desc"
@@ -39615,6 +39700,11 @@
         "code": "clothing_nftspringbrimhat",
         "name": "Geniş Kenarlı Şapka",
         "description": "clothing_nftspringbrimhat desc"
+      },
+      {
+        "code": "clothing_nftstarfacepaint",
+        "name": "Yıldız Yüz Boyası",
+        "description": ""
       },
       {
         "code": "clothing_nftstatue",
@@ -39862,6 +39952,16 @@
         "description": "clothing_nfttropicalcrop desc"
       },
       {
+        "code": "clothing_nfttubescarf",
+        "name": "Tube Atkı",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftturkeyhat",
+        "name": "Hindi Şapka",
+        "description": ""
+      },
+      {
         "code": "clothing_nftumbrella",
         "name": "Yağmurlu Gün Şemsiyesi",
         "description": "clothing_nftumbrella desc"
@@ -39912,9 +40012,29 @@
         "description": "clothing_nftwhitebeanie desc"
       },
       {
+        "code": "clothing_nftwinte25jacket",
+        "name": "Kışlık Şişme Mont",
+        "description": ""
+      },
+      {
         "code": "clothing_nftwinter1",
         "name": "Yeşil Subzero Ekipmanı",
         "description": "clothing_nftwinter1 desc"
+      },
+      {
+        "code": "clothing_nftwinter25beanie",
+        "name": "Kış Ponponlu Bere",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwinter25boots",
+        "name": "Sağlam Kışlık Botlar",
+        "description": ""
+      },
+      {
+        "code": "clothing_nftwinter25pants",
+        "name": "Sıcak Kış Pantolonu",
+        "description": ""
       },
       {
         "code": "clothing_nftwinter2",
@@ -40017,9 +40137,19 @@
         "description": "clothing_nftxlogo desc"
       },
       {
+        "code": "clothing_nftxmasbonnieprint",
+        "name": "Noel Bonnie Baskı",
+        "description": ""
+      },
+      {
         "code": "clothing_nftxmasdress",
         "name": "Kırmızı Yılbaşı Bebek Elbisesi",
         "description": "clothing_nftxmasdress desc"
+      },
+      {
+        "code": "clothing_nftxmaslollipop",
+        "name": "Noel Lolipopu",
+        "description": ""
       },
       {
         "code": "clothing_nftxmaspants",
@@ -40673,7 +40803,7 @@
       },
       {
         "code": "clothing_penguinhat",
-        "name": "clothing_penguinhat name",
+        "name": "Penguen Şapkası",
         "description": "clothing_penguinhat desc"
       },
       {
@@ -40778,12 +40908,12 @@
       },
       {
         "code": "clothing_polkadotbow",
-        "name": "clothing_polkadotbow name",
+        "name": "Şirin Puantiyeli Fiyonk",
         "description": "clothing_polkadotbow desc"
       },
       {
         "code": "clothing_polkadotmittens",
-        "name": "clothing_polkadotmittens name",
+        "name": "Puantiyeli Eldivenler",
         "description": "clothing_polkadotmittens desc"
       },
       {
@@ -43268,12 +43398,12 @@
       },
       {
         "code": "clothing_r25_habubu",
-        "name": "clothing_r25_habubu name",
+        "name": "Habubu Çantası",
         "description": "clothing_r25_habubu desc"
       },
       {
         "code": "clothing_r25_habubuglam",
-        "name": "clothing_r25_habubuglam name",
+        "name": "Gösterişli Habubu Çantası",
         "description": "clothing_r25_habubuglam desc"
       },
       {
@@ -43283,7 +43413,7 @@
       },
       {
         "code": "clothing_r25_icetiplonghair",
-        "name": "clothing_r25_icetiplonghair name",
+        "name": "Buzlu Parıltılı At Kuyruğu",
         "description": "clothing_r25_icetiplonghair desc"
       },
       {
@@ -43297,8 +43427,13 @@
         "description": "clothing_r25_iridescentstarbag desc"
       },
       {
+        "code": "clothing_r25_kittybag_bd",
+        "name": "Kedi Çantası",
+        "description": ""
+      },
+      {
         "code": "clothing_r25_kittybag",
-        "name": "clothing_r25_kittybag name",
+        "name": "Kedi Çantası",
         "description": "clothing_r25_kittybag desc"
       },
       {
@@ -43343,42 +43478,42 @@
       },
       {
         "code": "clothing_r25_nystargarland1",
-        "name": "clothing_r25_nystargarland1 name",
+        "name": "Bebek Pembesi Kuşak",
         "description": "clothing_r25_nystargarland1 desc"
       },
       {
         "code": "clothing_r25_nystargarland2",
-        "name": "clothing_r25_nystargarland2 name",
+        "name": "Yakut Kırmızısı Kuşak",
         "description": "clothing_r25_nystargarland2 desc"
       },
       {
         "code": "clothing_r25_nystargarland3",
-        "name": "clothing_r25_nystargarland3 name",
+        "name": "Altın Sarısı Kuşak",
         "description": "clothing_r25_nystargarland3 desc"
       },
       {
         "code": "clothing_r25_nystargarland4",
-        "name": "clothing_r25_nystargarland4 name",
+        "name": "Gece Mavisi Kuşak",
         "description": "clothing_r25_nystargarland4 desc"
       },
       {
         "code": "clothing_r25_nystargarland5",
-        "name": "clothing_r25_nystargarland5 name",
+        "name": "Canlı Turuncu Kuşak",
         "description": "clothing_r25_nystargarland5 desc"
       },
       {
         "code": "clothing_r25_nystargarland6",
-        "name": "clothing_r25_nystargarland6 name",
+        "name": "Kar Mavisi Kuşak",
         "description": "clothing_r25_nystargarland6 desc"
       },
       {
         "code": "clothing_r25_nystargarland7",
-        "name": "clothing_r25_nystargarland7 name",
+        "name": "Zümrüt Yeşili Kuşak",
         "description": "clothing_r25_nystargarland7 desc"
       },
       {
         "code": "clothing_r25_nystargarland8",
-        "name": "clothing_r25_nystargarland8 name",
+        "name": "Punk Moru Kuşak",
         "description": "clothing_r25_nystargarland8 desc"
       },
       {
@@ -43968,7 +44103,7 @@
       },
       {
         "code": "clothing_snowflakenecklace",
-        "name": "clothing_snowflakenecklace name",
+        "name": "Kar Tanesi Kolye",
         "description": "clothing_snowflakenecklace desc"
       },
       {
@@ -44728,7 +44863,7 @@
       },
       {
         "code": "clothing_xmashatpatchwork",
-        "name": "clothing_xmashatpatchwork name",
+        "name": "Yamalı Noel Baba Şapkası",
         "description": "clothing_xmashatpatchwork desc"
       },
       {
@@ -59778,22 +59913,22 @@
       },
       {
         "code": "ducket_c25_cottagebook",
-        "name": "ducket_c25_cottagebook name",
+        "name": "Rahatlatıcı Kitap",
         "description": "ducket_c25_cottagebook desc"
       },
       {
         "code": "ducket_c25_cottageduckrug",
-        "name": "ducket_c25_cottageduckrug name",
+        "name": "Ördekli Kilim",
         "description": "ducket_c25_cottageduckrug desc"
       },
       {
         "code": "ducket_c25_cottageherbs",
-        "name": "ducket_c25_cottageherbs name",
+        "name": "Esans Bitkiler",
         "description": "ducket_c25_cottageherbs desc"
       },
       {
         "code": "ducket_c25_cottagestool",
-        "name": "ducket_c25_cottagestool name",
+        "name": "Yumuşak Tabure",
         "description": "ducket_c25_cottagestool desc"
       },
       {
@@ -66528,7 +66663,7 @@
       },
       {
         "code": "giftbox_c25_crackable5",
-        "name": "giftbox_c25_crackable5 name",
+        "name": "2025 Noel Hediye Kutusu",
         "description": "giftbox_c25_crackable5 desc"
       },
       {
@@ -79788,7 +79923,7 @@
       },
       {
         "code": "lodge_brickwall",
-        "name": "lodge_brickwall name",
+        "name": "Kulübe Tuğla Duvar",
         "description": "lodge_brickwall desc"
       },
       {
@@ -79818,7 +79953,7 @@
       },
       {
         "code": "lodge_chandelier",
-        "name": "lodge_chandelier name",
+        "name": "Kulübe Avize",
         "description": "lodge_chandelier desc"
       },
       {
@@ -79828,127 +79963,127 @@
       },
       {
         "code": "lodge_dark_bardesk",
-        "name": "lodge_dark_bardesk name",
+        "name": "Karanlık Kulübe Bar Tezgahı",
         "description": "lodge_dark_bardesk desc"
       },
       {
         "code": "lodge_dark_barrelstool",
-        "name": "lodge_dark_barrelstool name",
+        "name": "Karanlık Kulübe Fıçı Tabure",
         "description": "lodge_dark_barrelstool desc"
       },
       {
         "code": "lodge_dark_bed",
-        "name": "lodge_dark_bed name",
+        "name": "Karanlık Kulübe Yatak",
         "description": "lodge_dark_bed desc"
       },
       {
         "code": "lodge_dark_bench",
-        "name": "lodge_dark_bench name",
+        "name": "Karanlık Kulübe Bank",
         "description": "lodge_dark_bench desc"
       },
       {
         "code": "lodge_dark_bookcase",
-        "name": "lodge_dark_bookcase name",
+        "name": "Karanlık Kulübe Kitaplık",
         "description": "lodge_dark_bookcase desc"
       },
       {
         "code": "lodge_dark_brickwall",
-        "name": "lodge_dark_brickwall name",
+        "name": "Karanlık Kulübe Tuğla Duvar",
         "description": "lodge_dark_brickwall desc"
       },
       {
         "code": "lodge_dark_candle",
-        "name": "lodge_dark_candle name",
+        "name": "Karanlık Kulübe Mum",
         "description": "lodge_dark_candle desc"
       },
       {
         "code": "lodge_dark_chandelier",
-        "name": "lodge_dark_chandelier name",
+        "name": "Karanlık Kulübe Avize",
         "description": "lodge_dark_chandelier desc"
       },
       {
         "code": "lodge_dark_cornerplinth",
-        "name": "lodge_dark_cornerplinth name",
+        "name": "Karanlık Kulübe Köşe Desteği",
         "description": "lodge_dark_cornerplinth desc"
       },
       {
         "code": "lodge_dark_desk",
-        "name": "lodge_dark_desk name",
+        "name": "Karanlık Kulübe Yönetici Masası",
         "description": "lodge_dark_desk desc"
       },
       {
         "code": "lodge_dark_diningtable",
-        "name": "lodge_dark_diningtable name",
+        "name": "Karanlık Kulübe Yemek Masası",
         "description": "lodge_dark_diningtable desc"
       },
       {
         "code": "lodge_dark_divider",
-        "name": "lodge_dark_divider name",
+        "name": "Karanlık Kulübe Bölücü",
         "description": "lodge_dark_divider desc"
       },
       {
         "code": "lodge_dark_doublebed",
-        "name": "lodge_dark_doublebed name",
+        "name": "Karanlık Kulübe Çift Kişilik Yatak",
         "description": "lodge_dark_doublebed desc"
       },
       {
         "code": "lodge_dark_endtable",
-        "name": "lodge_dark_endtable name",
+        "name": "Karanlık Kulübe Sehpa",
         "description": "lodge_dark_endtable desc"
       },
       {
         "code": "lodge_dark_fireplace",
-        "name": "lodge_dark_fireplace name",
+        "name": "Karanlık Kulübe Şömine",
         "description": "lodge_dark_fireplace desc"
       },
       {
         "code": "lodge_dark_floor",
-        "name": "lodge_dark_floor name",
+        "name": "Karanlık Kulübe Zemin",
         "description": "lodge_dark_floor desc"
       },
       {
         "code": "lodge_dark_gate",
-        "name": "lodge_dark_gate name",
+        "name": "Karanlık Kulübe Kapı",
         "description": "lodge_dark_gate desc"
       },
       {
         "code": "lodge_dark_lamp",
-        "name": "lodge_dark_lamp name",
+        "name": "Karanlık Kulübe Masa Lambası",
         "description": "lodge_dark_lamp desc"
       },
       {
         "code": "lodge_dark_minibar",
-        "name": "lodge_dark_minibar name",
+        "name": "Karanlık Kulübe Fıçı Mini Bar",
         "description": "lodge_dark_minibar desc"
       },
       {
         "code": "lodge_dark_reindeerhead",
-        "name": "lodge_dark_reindeerhead name",
+        "name": "Karanlık Kulübe Monteli Heykel",
         "description": "lodge_dark_reindeerhead desc"
       },
       {
         "code": "lodge_dark_stool",
-        "name": "lodge_dark_stool name",
+        "name": "Karanlık Kulübe Tabure",
         "description": "lodge_dark_stool desc"
       },
       {
         "code": "lodge_dark_tv",
-        "name": "lodge_dark_tv name",
+        "name": "Karanlık Kulübe TV",
         "description": "lodge_dark_tv desc"
       },
       {
         "code": "lodge_dark_wall",
-        "name": "lodge_dark_wall name",
+        "name": "Karanlık Kulübe Duvar",
         "description": "lodge_dark_wall desc"
       },
       {
         "code": "lodge_dark_window",
-        "name": "lodge_dark_window name",
+        "name": "Karanlık Kulübe Pencere",
         "description": "lodge_dark_window desc"
       },
       {
         "code": "lodge_desk",
-        "name": "lodge_desk name",
+        "name": "Kulübe Yönetici Masası",
         "description": "lodge_desk desc"
       },
       {
@@ -79963,7 +80098,7 @@
       },
       {
         "code": "lodge_reindeerhead",
-        "name": "lodge_reindeerhead name",
+        "name": "Kulübe Monteli Heykel",
         "description": "lodge_reindeerhead desc"
       },
       {
@@ -79973,7 +80108,7 @@
       },
       {
         "code": "lodge_tv",
-        "name": "lodge_tv name",
+        "name": "Kulübe TV",
         "description": "lodge_tv desc"
       },
       {
@@ -82168,12 +82303,12 @@
       },
       {
         "code": "mode_ceilinglight",
-        "name": "mode_ceilinglight name",
+        "name": "Gümüş Mode Tavan Lambası",
         "description": "mode_ceilinglight desc"
       },
       {
         "code": "mode_clock_0",
-        "name": "mode_clock_0 name",
+        "name": "Gümüş Mode Saat",
         "description": "mode_clock_0 desc"
       },
       {
@@ -82223,12 +82358,12 @@
       },
       {
         "code": "mode_fridge",
-        "name": "mode_fridge name",
+        "name": "Gümüş Mode Buzdolabı",
         "description": "mode_fridge desc"
       },
       {
         "code": "mode_gold_armchair_0",
-        "name": "mode_gold_armchair_0 name",
+        "name": "Altın Mode Koltuk",
         "description": "mode_gold_armchair_0 desc"
       },
       {
@@ -82278,12 +82413,12 @@
       },
       {
         "code": "mode_gold_bar",
-        "name": "mode_gold_bar name",
+        "name": "Altın Mode Mini-Bar",
         "description": "mode_gold_bar desc"
       },
       {
         "code": "mode_gold_bardesk_0",
-        "name": "mode_gold_bardesk_0 name",
+        "name": "Altın Mode Bar",
         "description": "mode_gold_bardesk_0 desc"
       },
       {
@@ -82333,7 +82468,7 @@
       },
       {
         "code": "mode_gold_bardeskcorner_0",
-        "name": "mode_gold_bardeskcorner_0 name",
+        "name": "Altın Mode Bar Köşesi",
         "description": "mode_gold_bardeskcorner_0 desc"
       },
       {
@@ -82383,7 +82518,7 @@
       },
       {
         "code": "mode_gold_bearug_0",
-        "name": "mode_gold_bearug_0 name",
+        "name": "Altın Mode Suni Ayı Kürkü Kilim",
         "description": "mode_gold_bearug_0 desc"
       },
       {
@@ -82413,7 +82548,7 @@
       },
       {
         "code": "mode_gold_bed_0",
-        "name": "mode_gold_bed_0 name",
+        "name": "Altın Mode Yatak",
         "description": "mode_gold_bed_0 desc"
       },
       {
@@ -82463,17 +82598,17 @@
       },
       {
         "code": "mode_gold_bookcase",
-        "name": "mode_gold_bookcase name",
+        "name": "Altın Mode Kitaplık",
         "description": "mode_gold_bookcase desc"
       },
       {
         "code": "mode_gold_ceilinglight",
-        "name": "mode_gold_ceilinglight name",
+        "name": "Altın Mode Tavan Lambası",
         "description": "mode_gold_ceilinglight desc"
       },
       {
         "code": "mode_gold_clock_0",
-        "name": "mode_gold_clock_0 name",
+        "name": "Altın Mode Saat",
         "description": "mode_gold_clock_0 desc"
       },
       {
@@ -82523,12 +82658,12 @@
       },
       {
         "code": "mode_gold_diningchair",
-        "name": "mode_gold_diningchair name",
+        "name": "Altın Mode Yemek Sandalyesi",
         "description": "mode_gold_diningchair desc"
       },
       {
         "code": "mode_gold_doublebed_0",
-        "name": "mode_gold_doublebed_0 name",
+        "name": "Altın Mode Çift Kişilik Yatak",
         "description": "mode_gold_doublebed_0 desc"
       },
       {
@@ -82578,17 +82713,17 @@
       },
       {
         "code": "mode_gold_fireplace",
-        "name": "mode_gold_fireplace name",
+        "name": "Altın Mode Şömine",
         "description": "mode_gold_fireplace desc"
       },
       {
         "code": "mode_gold_fridge",
-        "name": "mode_gold_fridge name",
+        "name": "Altın Mode Buzdolabı",
         "description": "mode_gold_fridge desc"
       },
       {
         "code": "mode_gold_gate_0",
-        "name": "mode_gold_gate_0 name",
+        "name": "Altın Mode Kapı",
         "description": "mode_gold_gate_0 desc"
       },
       {
@@ -82638,22 +82773,22 @@
       },
       {
         "code": "mode_gold_largecoffeetable",
-        "name": "mode_gold_largecoffeetable name",
+        "name": "Altın Mode Büyük Kahve Masası",
         "description": "mode_gold_largecoffeetable desc"
       },
       {
         "code": "mode_gold_largediningtable",
-        "name": "mode_gold_largediningtable name",
+        "name": "Altın Mode Büyük Yemek Masası",
         "description": "mode_gold_largediningtable desc"
       },
       {
         "code": "mode_gold_largetable",
-        "name": "mode_gold_largetable name",
+        "name": "Altın Mode Büyük Masa",
         "description": "mode_gold_largetable desc"
       },
       {
         "code": "mode_gold_partingscreen_0",
-        "name": "mode_gold_partingscreen_0 name",
+        "name": "Altın Mode Paravan",
         "description": "mode_gold_partingscreen_0 desc"
       },
       {
@@ -82703,12 +82838,12 @@
       },
       {
         "code": "mode_gold_smallcoffeetable",
-        "name": "mode_gold_smallcoffeetable name",
+        "name": "Altın Mode Küçük Kahve Masası",
         "description": "mode_gold_smallcoffeetable desc"
       },
       {
         "code": "mode_gold_sofa_0",
-        "name": "mode_gold_sofa_0 name",
+        "name": "Altın Mode Kanepe",
         "description": "mode_gold_sofa_0 desc"
       },
       {
@@ -82758,7 +82893,7 @@
       },
       {
         "code": "mode_gold_vase_0",
-        "name": "mode_gold_vase_0 name",
+        "name": "Altın Mode Vazo",
         "description": "mode_gold_vase_0 desc"
       },
       {
@@ -82808,7 +82943,7 @@
       },
       {
         "code": "mode_gold_zshelf",
-        "name": "mode_gold_zshelf name",
+        "name": "Altın Mode Raf",
         "description": "mode_gold_zshelf desc"
       },
       {
@@ -82818,7 +82953,7 @@
       },
       {
         "code": "mode_partingscreen_0",
-        "name": "mode_partingscreen_0 name",
+        "name": "Gümüş Mode Paravan",
         "description": "mode_partingscreen_0 desc"
       },
       {
@@ -82868,7 +83003,7 @@
       },
       {
         "code": "mode_vase_0",
-        "name": "mode_vase_0 name",
+        "name": "Gümüş Mode Vazo",
         "description": "mode_vase_0 desc"
       },
       {
@@ -83458,7 +83593,7 @@
       },
       {
         "code": "neopets_c25_acaraxmas",
-        "name": "neopets_c25_acaraxmas name",
+        "name": "Noel Acara",
         "description": "neopets_c25_acaraxmas desc"
       },
       {
@@ -83478,7 +83613,7 @@
       },
       {
         "code": "neopets_c25_aishaxmas",
-        "name": "neopets_c25_aishaxmas name",
+        "name": "Noel Aisha",
         "description": "neopets_c25_aishaxmas desc"
       },
       {
@@ -83493,7 +83628,7 @@
       },
       {
         "code": "neopets_c25_brucexmas",
-        "name": "neopets_c25_brucexmas name",
+        "name": "Noel Bruce",
         "description": "neopets_c25_brucexmas desc"
       },
       {
@@ -83518,12 +83653,12 @@
       },
       {
         "code": "neopets_c25_crackablexmas",
-        "name": "neopets_c25_crackablexmas name",
+        "name": "Festive Neopets Yumurtaları",
         "description": "neopets_c25_crackablexmas desc"
       },
       {
         "code": "neopets_c25_crackablexmasb",
-        "name": "neopets_c25_crackablexmasb name",
+        "name": "Festive Neopets Yumurtaları",
         "description": "neopets_c25_crackablexmasb desc"
       },
       {
@@ -83543,7 +83678,7 @@
       },
       {
         "code": "neopets_c25_cybunnyxmas",
-        "name": "neopets_c25_cybunnyxmas name",
+        "name": "Noel Cybunny",
         "description": "neopets_c25_cybunnyxmas desc"
       },
       {
@@ -83578,7 +83713,7 @@
       },
       {
         "code": "neopets_c25_draikxmas",
-        "name": "neopets_c25_draikxmas name",
+        "name": "Noel Draik",
         "description": "neopets_c25_draikxmas desc"
       },
       {
@@ -83603,7 +83738,7 @@
       },
       {
         "code": "neopets_c25_eyriexmas",
-        "name": "neopets_c25_eyriexmas name",
+        "name": "Noel Eyrie",
         "description": "neopets_c25_eyriexmas desc"
       },
       {
@@ -83638,7 +83773,7 @@
       },
       {
         "code": "neopets_c25_kacheekxmas",
-        "name": "neopets_c25_kacheekxmas name",
+        "name": "Noel Kacheek",
         "description": "neopets_c25_kacheekxmas desc"
       },
       {
@@ -83658,7 +83793,7 @@
       },
       {
         "code": "neopets_c25_kougraxmas",
-        "name": "neopets_c25_kougraxmas name",
+        "name": "Noel Kougra",
         "description": "neopets_c25_kougraxmas desc"
       },
       {
@@ -83683,7 +83818,7 @@
       },
       {
         "code": "neopets_c25_lupexmas",
-        "name": "neopets_c25_lupexmas name",
+        "name": "Noel Lupe",
         "description": "neopets_c25_lupexmas desc"
       },
       {
@@ -83733,7 +83868,7 @@
       },
       {
         "code": "neopets_c25_shoyruxmas",
-        "name": "neopets_c25_shoyruxmas name",
+        "name": "Noel Shoyru",
         "description": "neopets_c25_shoyruxmas desc"
       },
       {
@@ -83763,7 +83898,7 @@
       },
       {
         "code": "neopets_c25_unixmas",
-        "name": "neopets_c25_unixmas name",
+        "name": "Noel Uni",
         "description": "neopets_c25_unixmas desc"
       },
       {
@@ -83773,7 +83908,7 @@
       },
       {
         "code": "neopets_c25_xweetokxmas",
-        "name": "neopets_c25_xweetokxmas name",
+        "name": "Noel Xweetok",
         "description": "neopets_c25_xweetokxmas desc"
       },
       {
@@ -85805,6 +85940,46 @@
         "code": "nft_cm1_wall",
         "name": "Yamalı Duvar",
         "description": "nft_cm1_wall desc"
+      },
+      {
+        "code": "nft_cm2_croksleepingbag",
+        "name": "Kumaş Timsah Uyku Tulumu",
+        "description": "nft_cm2_croksleepingbag desc"
+      },
+      {
+        "code": "nft_cm2_icefloor",
+        "name": "Buzlu Parke Taşları",
+        "description": "nft_cm2_icefloor desc"
+      },
+      {
+        "code": "nft_cm2_raccoonsofa",
+        "name": "Sahte Kürklü Rakun Kanepe",
+        "description": "nft_cm2_raccoonsofa desc"
+      },
+      {
+        "code": "nft_cm2_rocky",
+        "name": "Karla Kaplı Kayalar",
+        "description": "nft_cm2_rocky desc"
+      },
+      {
+        "code": "nft_cm2_secretsantavoucher",
+        "name": "Gizli Noel Baba Kuponu",
+        "description": "nft_cm2_secretsantavoucher desc"
+      },
+      {
+        "code": "nft_cm2_snowpipefence",
+        "name": "Kar Borusu",
+        "description": "nft_cm2_snowpipefence desc"
+      },
+      {
+        "code": "nft_cm2_snowstormdrinks",
+        "name": "Erimiş Kar Distribütörü",
+        "description": "nft_cm2_snowstormdrinks desc"
+      },
+      {
+        "code": "nft_cm2_sprucechair",
+        "name": "Alp Orman Koltuk",
+        "description": "nft_cm2_sprucechair desc"
       },
       {
         "code": "nft_cny16_monkeyballoon",
@@ -88902,6 +89077,11 @@
         "description": "nft_h25_armasrockingchair desc"
       },
       {
+        "code": "nft_h25_bluexmaslollipop",
+        "name": "Mavi Noel Lolipopu",
+        "description": ""
+      },
+      {
         "code": "nft_h25_boogieblast_egg",
         "name": "Disko Dino Yumurtası",
         "description": "nft_h25_boogieblast_egg desc"
@@ -89122,6 +89302,16 @@
         "description": "nft_h25_giftopentestfurni desc"
       },
       {
+        "code": "nft_h25_gingerbreadhotel",
+        "name": "Kurabiye Otel",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_gingerbreadsofa",
+        "name": "Kurabiye Kanepe",
+        "description": ""
+      },
+      {
         "code": "nft_h25_gnomeofdoom",
         "name": "Azrail Cücesi",
         "description": "nft_h25_gnomeofdoom desc"
@@ -89152,6 +89342,11 @@
         "description": "nft_h25_goldsword desc"
       },
       {
+        "code": "nft_h25_haf_penguin",
+        "name": "Penguen Oyuncak Kutusu",
+        "description": ""
+      },
+      {
         "code": "nft_h25_haf_reddevil",
         "name": "Kırmızı Şeytan Aksiyon Figürü",
         "description": "nft_h25_haf_reddevil desc"
@@ -89170,6 +89365,16 @@
         "code": "nft_h25_hcsohva2",
         "name": "Krem Taht Kanepe",
         "description": "nft_h25_hcsohva2 desc"
+      },
+      {
+        "code": "nft_h25_icarusfigure",
+        "name": "Altın İkarus Figürü",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_icaruspainting",
+        "name": "İkarus'un Düşüşü",
+        "description": ""
       },
       {
         "code": "nft_h25_magiccauldron",
@@ -89225,6 +89430,11 @@
         "code": "nft_h25_pumpkinpod",
         "name": "Balkabağı Pod",
         "description": "nft_h25_pumpkinpod desc"
+      },
+      {
+        "code": "nft_h25_redxmaslollipop",
+        "name": "Kırmızı Noel Lolipopu",
+        "description": ""
       },
       {
         "code": "nft_h25_robocroc",
@@ -89390,6 +89600,21 @@
         "code": "nft_h25_trippysword",
         "name": "Trip Kılıç",
         "description": "nft_h25_trippysword desc"
+      },
+      {
+        "code": "nft_h25_xmasgiftbox",
+        "name": "Noel Hediye Kutusu",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_xmasicm",
+        "name": "Noel Dondurma Makinası",
+        "description": ""
+      },
+      {
+        "code": "nft_h25_xmaslamp",
+        "name": "Noel Işıklı Şapka",
+        "description": ""
       },
       {
         "code": "nft_h25_zeusdrinks",
@@ -90535,6 +90760,26 @@
         "code": "nft_sc25_warningsign",
         "name": "Uyarı İşareti",
         "description": "nft_sc25_warningsign desc"
+      },
+      {
+        "code": "nft_sc_frozenthrone",
+        "name": "Buzlu Kraliyet Tahtı",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe1",
+        "name": "Buzlu Ejderha Lambası Kar Küresi",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe2",
+        "name": "Buzlu Fil Kar Küresi",
+        "description": ""
+      },
+      {
+        "code": "nft_sc_snowglobe3",
+        "name": "Buzlu Ördek Kar Küresi",
+        "description": ""
       },
       {
         "code": "nft_scifidoor_1",
@@ -91873,7 +92118,7 @@
       },
       {
         "code": "ny_r25_crackable",
-        "name": "ny_r25_crackable name",
+        "name": "2026 Kuşak Kutusu",
         "description": "ny_r25_crackable desc"
       },
       {
@@ -100113,7 +100358,7 @@
       },
       {
         "code": "rare_prize25_xmas",
-        "name": "rare_prize25_xmas name",
+        "name": "Arktik Koyunu",
         "description": "rare_prize25_xmas desc"
       },
       {
@@ -100503,7 +100748,7 @@
       },
       {
         "code": "recycler_bluetyre",
-        "name": "recycler_bluetyre name",
+        "name": "Mavi Lastik Salıncağı",
         "description": "recycler_bluetyre desc"
       },
       {
@@ -100568,22 +100813,22 @@
       },
       {
         "code": "recycler_ducktape",
-        "name": "recycler_ducktape name",
+        "name": "Habbo Ördek Bandı",
         "description": "recycler_ducktape desc"
       },
       {
         "code": "recycler_ducktapeblue",
-        "name": "recycler_ducktapeblue name",
+        "name": "Mavi Ördek Bandı",
         "description": "recycler_ducktapeblue desc"
       },
       {
         "code": "recycler_ducktapepink",
-        "name": "recycler_ducktapepink name",
+        "name": "Kırmızı Ördek Bandı",
         "description": "recycler_ducktapepink desc"
       },
       {
         "code": "recycler_grungetyre",
-        "name": "recycler_grungetyre name",
+        "name": "Grunge Lastik Salıncağı",
         "description": "recycler_grungetyre desc"
       },
       {
@@ -100608,22 +100853,22 @@
       },
       {
         "code": "recycler_patchduck2",
-        "name": "recycler_patchduck2 name",
+        "name": "Sarı Yama Ördeği",
         "description": "recycler_patchduck2 desc"
       },
       {
         "code": "recycler_patchduck3",
-        "name": "recycler_patchduck3 name",
+        "name": "Pembe Yama Ördeği",
         "description": "recycler_patchduck3 desc"
       },
       {
         "code": "recycler_patchduck",
-        "name": "recycler_patchduck name",
+        "name": "Mor Yama Ördeği",
         "description": "recycler_patchduck desc"
       },
       {
         "code": "recycler_patchpillow",
-        "name": "recycler_patchpillow name",
+        "name": "Yamalı Yastık",
         "description": "recycler_patchpillow desc"
       },
       {
@@ -100638,7 +100883,7 @@
       },
       {
         "code": "recycler_pinktyre",
-        "name": "recycler_pinktyre name",
+        "name": "Pembe Lastik Salıncağı",
         "description": "recycler_pinktyre desc"
       },
       {
@@ -100688,7 +100933,7 @@
       },
       {
         "code": "recycler_whitetyre",
-        "name": "recycler_whitetyre name",
+        "name": "Beyaz Lastik Salıncağı",
         "description": "recycler_whitetyre desc"
       },
       {
@@ -110577,6 +110822,21 @@
         "description": "Üzerini sıkı giyin ve buz patenlerini kap, hiç uyumayan bu şehirde oturup kalmak istemezsin. YENİ ÖZEL Tavşan Çalı Heykeli dahil!"
       },
       {
+        "code": "rotating_roomdeal450_10c",
+        "name": "Habbo'nun Rahat Noel Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal450_d",
+        "name": "Habbo'nun Rahat Noel Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal450",
+        "name": "Habbo'nun Rahat Noel Paketi",
+        "description": "Bu sıcacık küçük paketle bu Noel'i sıcacık geçirin. Başka yerde olmak istemezdik!"
+      },
+      {
         "code": "rotating_roomdeal451_10c",
         "name": "Oyun Paketi",
         "description": ""
@@ -112275,6 +112535,21 @@
         "code": "sc25_warningsign",
         "name": "Uyarı İşareti",
         "description": "sc25_warningsign desc"
+      },
+      {
+        "code": "sc_snowglobe1",
+        "name": "Buzlu Ejderha Lambası Kar Küresi",
+        "description": ""
+      },
+      {
+        "code": "sc_snowglobe2",
+        "name": "Buzlu Fil Kar Küresi",
+        "description": ""
+      },
+      {
+        "code": "sc_snowglobe3",
+        "name": "Buzlu Ördek Kar Küresi",
+        "description": ""
       },
       {
         "code": "school_backtoschool",
@@ -126092,6 +126367,26 @@
         "description": ""
       },
       {
+        "code": "xmas25_pack1",
+        "name": "Xmas Pack 1",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack2",
+        "name": "Xmas Pack 2",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack3",
+        "name": "Xmas Pack 3",
+        "description": ""
+      },
+      {
+        "code": "xmas25_pack4",
+        "name": "Xmas Pack 4",
+        "description": ""
+      },
+      {
         "code": "xmas25_quest1",
         "name": "Quest Week 1 - Traditional Xmas",
         "description": ""
@@ -128848,257 +129143,262 @@
       },
       {
         "code": "xmas_c25_largeicehole",
-        "name": "xmas_c25_largeicehole name",
+        "name": "Buz Deliği",
         "description": "xmas_c25_largeicehole desc"
       },
       {
         "code": "xmas_c25_minirobotdino",
-        "name": "xmas_c25_minirobotdino name",
+        "name": "Mini Robot Dinozor",
         "description": "xmas_c25_minirobotdino desc"
       },
       {
+        "code": "xmas_c25_mistletoe_duck",
+        "name": "Ökseotu Aşk kilidi",
+        "description": ""
+      },
+      {
         "code": "xmas_c25_mistletoelovelock",
-        "name": "xmas_c25_mistletoelovelock name",
+        "name": "Ökseotu Aşk kilidi",
         "description": "xmas_c25_mistletoelovelock desc"
       },
       {
         "code": "xmas_c25_penguin1",
-        "name": "xmas_c25_penguin1 name",
+        "name": "Rudolph Penguen",
         "description": "xmas_c25_penguin1 desc"
       },
       {
         "code": "xmas_c25_penguin2",
-        "name": "xmas_c25_penguin2 name",
+        "name": "Ağaç Penguen",
         "description": "xmas_c25_penguin2 desc"
       },
       {
         "code": "xmas_c25_penguin3",
-        "name": "xmas_c25_penguin3 name",
+        "name": "Kaya Sıçrayan Penguen",
         "description": "xmas_c25_penguin3 desc"
       },
       {
         "code": "xmas_c25_penguin4",
-        "name": "xmas_c25_penguin4 name",
+        "name": "Kimimanu Penguen",
         "description": "xmas_c25_penguin4 desc"
       },
       {
         "code": "xmas_c25_penguin5",
-        "name": "xmas_c25_penguin5 name",
+        "name": "Habbo Ördeği Penguen",
         "description": "xmas_c25_penguin5 desc"
       },
       {
         "code": "xmas_c25_penguin6",
-        "name": "xmas_c25_penguin6 name",
+        "name": "Buz Penguen",
         "description": "xmas_c25_penguin6 desc"
       },
       {
         "code": "xmas_c25_penguin7",
-        "name": "xmas_c25_penguin7 name",
+        "name": "Kutup Penguen",
         "description": "xmas_c25_penguin7 desc"
       },
       {
         "code": "xmas_c25_penguin8",
-        "name": "xmas_c25_penguin8 name",
+        "name": "Üst Sınıf Penguen",
         "description": "xmas_c25_penguin8 desc"
       },
       {
         "code": "xmas_c25_pixeltree",
-        "name": "xmas_c25_pixeltree name",
+        "name": "Piksel Ağaç",
         "description": "xmas_c25_pixeltree desc"
       },
       {
         "code": "xmas_c25_rastasanta",
-        "name": "xmas_c25_rastasanta name",
+        "name": "Rasta Noel Baba Üretim Masası",
         "description": "xmas_c25_rastasanta desc"
       },
       {
         "code": "xmas_c25_snowytree",
-        "name": "xmas_c25_snowytree name",
+        "name": "Karlı Ağaç",
         "description": "xmas_c25_snowytree desc"
       },
       {
         "code": "xmas_c25_tree1a",
-        "name": "xmas_c25_tree1a name",
+        "name": "Noel Ağaç Tepesi",
         "description": "xmas_c25_tree1a desc"
       },
       {
         "code": "xmas_c25_tree1b",
-        "name": "xmas_c25_tree1b name",
+        "name": "Noel Ağaç Gövdesi",
         "description": "xmas_c25_tree1b desc"
       },
       {
         "code": "xmas_c25_tree1c",
-        "name": "xmas_c25_tree1c name",
+        "name": "Noel Ağaç Tabanı",
         "description": "xmas_c25_tree1c desc"
       },
       {
         "code": "xmas_c25_tree2a_baubles",
-        "name": "xmas_c25_tree2a_baubles name",
+        "name": "Süslü Ağaç Tepesi",
         "description": "xmas_c25_tree2a_baubles desc"
       },
       {
         "code": "xmas_c25_tree2a_candy",
-        "name": "xmas_c25_tree2a_candy name",
+        "name": "Şekerli Ağaç Tepesi",
         "description": "xmas_c25_tree2a_candy desc"
       },
       {
         "code": "xmas_c25_tree2a",
-        "name": "xmas_c25_tree2a name",
+        "name": "Aydınlatılmış Ağaç Tepesi",
         "description": "xmas_c25_tree2a desc"
       },
       {
         "code": "xmas_c25_tree2a_snowflake",
-        "name": "xmas_c25_tree2a_snowflake name",
+        "name": "Kar Tanesi Ağaç Tepesi",
         "description": "xmas_c25_tree2a_snowflake desc"
       },
       {
         "code": "xmas_c25_tree2b_baubles",
-        "name": "xmas_c25_tree2b_baubles name",
+        "name": "Süslü Ağaç Gövdesi",
         "description": "xmas_c25_tree2b_baubles desc"
       },
       {
         "code": "xmas_c25_tree2b_candy",
-        "name": "xmas_c25_tree2b_candy name",
+        "name": "Şekerli Ağaç Gövdesi",
         "description": "xmas_c25_tree2b_candy desc"
       },
       {
         "code": "xmas_c25_tree2b",
-        "name": "xmas_c25_tree2b name",
+        "name": "Aydınlatılmış Ağaç Gövdesi",
         "description": "xmas_c25_tree2b desc"
       },
       {
         "code": "xmas_c25_tree2b_snowflake",
-        "name": "xmas_c25_tree2b_snowflake name",
+        "name": "Kar Tanesi Ağaç Gövdesi",
         "description": "xmas_c25_tree2b_snowflake desc"
       },
       {
         "code": "xmas_c25_tree2c_baubles",
-        "name": "xmas_c25_tree2c_baubles name",
+        "name": "Süslü Ağaç Tabanı",
         "description": "xmas_c25_tree2c_baubles desc"
       },
       {
         "code": "xmas_c25_tree2c_candy",
-        "name": "xmas_c25_tree2c_candy name",
+        "name": "Şekerli Ağaç Tabanı",
         "description": "xmas_c25_tree2c_candy desc"
       },
       {
         "code": "xmas_c25_tree2c",
-        "name": "xmas_c25_tree2c name",
+        "name": "Aydınlatılmış Ağaç Tabanı",
         "description": "xmas_c25_tree2c desc"
       },
       {
         "code": "xmas_c25_tree2c_snowflake",
-        "name": "xmas_c25_tree2c_snowflake name",
+        "name": "Kar Tanesi Ağaç Tabanı",
         "description": "xmas_c25_tree2c_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3a_baubles",
-        "name": "xmas_c25_tree3a_baubles name",
+        "name": "Renkli Ağaç Tepesi",
         "description": "xmas_c25_tree3a_baubles desc"
       },
       {
         "code": "xmas_c25_tree3a_candy",
-        "name": "xmas_c25_tree3a_candy name",
+        "name": "Tatlı Ağaç Tepesi",
         "description": "xmas_c25_tree3a_candy desc"
       },
       {
         "code": "xmas_c25_tree3a_snowflake",
-        "name": "xmas_c25_tree3a_snowflake name",
+        "name": "Donmuş Ağaç Tepesi",
         "description": "xmas_c25_tree3a_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3a_tinsel",
-        "name": "xmas_c25_tree3a_tinsel name",
+        "name": "Simli Ağaç Tepesi",
         "description": "xmas_c25_tree3a_tinsel desc"
       },
       {
         "code": "xmas_c25_tree3b_baubles",
-        "name": "xmas_c25_tree3b_baubles name",
+        "name": "Renkli Ağaç Gövdesi",
         "description": "xmas_c25_tree3b_baubles desc"
       },
       {
         "code": "xmas_c25_tree3b_candy",
-        "name": "xmas_c25_tree3b_candy name",
+        "name": "Tatlı Ağaç Gövdesi",
         "description": "xmas_c25_tree3b_candy desc"
       },
       {
         "code": "xmas_c25_tree3b_snowflake",
-        "name": "xmas_c25_tree3b_snowflake name",
+        "name": "Donmuş Ağaç Gövdesi",
         "description": "xmas_c25_tree3b_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3b_tinsel",
-        "name": "xmas_c25_tree3b_tinsel name",
+        "name": "Simli Ağaç Gövdesi",
         "description": "xmas_c25_tree3b_tinsel desc"
       },
       {
         "code": "xmas_c25_tree3c_baubles",
-        "name": "xmas_c25_tree3c_baubles name",
+        "name": "Renkli Ağaç Tabanı",
         "description": "xmas_c25_tree3c_baubles desc"
       },
       {
         "code": "xmas_c25_tree3c_candy",
-        "name": "xmas_c25_tree3c_candy name",
+        "name": "Tatlı Ağaç Tabanı",
         "description": "xmas_c25_tree3c_candy desc"
       },
       {
         "code": "xmas_c25_tree3c_snowflake",
-        "name": "xmas_c25_tree3c_snowflake name",
+        "name": "Donmuş Ağaç Tabanı",
         "description": "xmas_c25_tree3c_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3c_tinsel",
-        "name": "xmas_c25_tree3c_tinsel name",
+        "name": "Simli Ağaç Tabanı",
         "description": "xmas_c25_tree3c_tinsel desc"
       },
       {
         "code": "xmas_c25_treebaubles",
-        "name": "xmas_c25_treebaubles name",
+        "name": "Süsleme Çeşitleri",
         "description": "xmas_c25_treebaubles desc"
       },
       {
         "code": "xmas_c25_treecandycane",
-        "name": "xmas_c25_treecandycane name",
+        "name": "Şeker Kamışı",
         "description": "xmas_c25_treecandycane desc"
       },
       {
         "code": "xmas_c25_treedecorcrackable",
-        "name": "xmas_c25_treedecorcrackable name",
+        "name": "Noel Dekorasyon Kutusu",
         "description": "xmas_c25_treedecorcrackable desc"
       },
       {
         "code": "xmas_c25_treedecorcrackableb",
-        "name": "xmas_c25_treedecorcrackableb name",
+        "name": "Noel Dekorasyon Kutusu",
         "description": "xmas_c25_treedecorcrackableb desc"
       },
       {
         "code": "xmas_c25_treelights",
-        "name": "xmas_c25_treelights name",
+        "name": "Işık Zinciri",
         "description": "xmas_c25_treelights desc"
       },
       {
         "code": "xmas_c25_treesnowflake",
-        "name": "xmas_c25_treesnowflake name",
+        "name": "Kar Tanesi Süsleri",
         "description": "xmas_c25_treesnowflake desc"
       },
       {
         "code": "xmas_c25_treetinsel",
-        "name": "xmas_c25_treetinsel name",
+        "name": "Renkli Simli İp",
         "description": "xmas_c25_treetinsel desc"
       },
       {
         "code": "xmas_c25_treetopper1",
-        "name": "xmas_c25_treetopper1 name",
+        "name": "Yıldız Ağaç Tepe Süsü",
         "description": "xmas_c25_treetopper1 desc"
       },
       {
         "code": "xmas_c25_treetopper2",
-        "name": "xmas_c25_treetopper2 name",
+        "name": "Melek Ağaç Tepe Süsü",
         "description": "xmas_c25_treetopper2 desc"
       },
       {
         "code": "xmas_c25_treetopper3",
-        "name": "xmas_c25_treetopper3 name",
+        "name": "Kar Tanesi Ağaç Tepe Süsü",
         "description": "xmas_c25_treetopper3 desc"
       },
       {
@@ -129237,8 +129537,13 @@
         "description": "xmas_ltd23_carousel desc"
       },
       {
+        "code": "xmas_ltd25_frostegg_bd",
+        "name": "Buz Yumurta",
+        "description": ""
+      },
+      {
         "code": "xmas_ltd25_frostegg",
-        "name": "xmas_ltd25_frostegg name",
+        "name": "Buz Yumurta",
         "description": "xmas_ltd25_frostegg desc"
       },
       {
@@ -129487,68 +129792,123 @@
         "description": "xmas_r24_divinedeer desc"
       },
       {
+        "code": "xmas_r25_festivenighth_bd",
+        "name": "Habbo Gece Oteli",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_festivenighthotel",
-        "name": "xmas_r25_festivenighthotel name",
+        "name": "Habbo Gece Oteli",
         "description": "xmas_r25_festivenighthotel desc"
       },
       {
         "code": "xmas_r25_habububox",
-        "name": "xmas_r25_habububox name",
+        "name": "Habubu Kutusu",
         "description": "xmas_r25_habububox desc"
       },
       {
         "code": "xmas_r25_habububoxb",
-        "name": "xmas_r25_habububoxb name",
+        "name": "Habubu Kutusu",
         "description": "xmas_r25_habububoxb desc"
       },
       {
+        "code": "xmas_r25_habubucalm_bd",
+        "name": "Rahat Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubucalm",
-        "name": "xmas_r25_habubucalm name",
+        "name": "Rahat Habubu",
         "description": "xmas_r25_habubucalm desc"
       },
       {
+        "code": "xmas_r25_habubucosy_bd",
+        "name": "Rahat Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubucosy",
-        "name": "xmas_r25_habubucosy name",
+        "name": "Rahat Habubu",
         "description": "xmas_r25_habubucosy desc"
       },
       {
+        "code": "xmas_r25_habubudream_bd",
+        "name": "Hayalperest Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubudream",
-        "name": "xmas_r25_habubudream name",
+        "name": "Hayalperest Habubu",
         "description": "xmas_r25_habubudream desc"
       },
       {
+        "code": "xmas_r25_habubufun_bd",
+        "name": "Eğlenceli Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubufun",
-        "name": "xmas_r25_habubufun name",
+        "name": "Eğlenceli Habubu",
         "description": "xmas_r25_habubufun desc"
       },
       {
+        "code": "xmas_r25_habubuglam_bd",
+        "name": "Gösterişli Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuglam",
-        "name": "xmas_r25_habubuglam name",
+        "name": "Gösterişli Habubu",
         "description": "xmas_r25_habubuglam desc"
       },
       {
         "code": "xmas_r25_habubuhappiness",
-        "name": "xmas_r25_habubuhappiness name",
+        "name": "Mutlu Habubu",
         "description": "xmas_r25_habubuhappiness desc"
       },
       {
+        "code": "xmas_r25_habubuhappy_bd",
+        "name": "Mutlu Habubu",
+        "description": ""
+      },
+      {
+        "code": "xmas_r25_habubuhope_bd",
+        "name": "Umutlu Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuhope",
-        "name": "xmas_r25_habubuhope name",
+        "name": "Umutlu Habubu",
         "description": "xmas_r25_habubuhope desc"
       },
       {
+        "code": "xmas_r25_habubulove_bd",
+        "name": "Aşık Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubulove",
-        "name": "xmas_r25_habubulove name",
+        "name": "Aşık Habubu",
         "description": "xmas_r25_habubulove desc"
       },
       {
+        "code": "xmas_r25_habubuluck_bd",
+        "name": "Şanslı Habubu",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_habubuluck",
-        "name": "xmas_r25_habubuluck name",
+        "name": "Şanslı Habubu",
         "description": "xmas_r25_habubuluck desc"
       },
       {
+        "code": "xmas_r25_icepillow_bd",
+        "name": "Buz Yastık",
+        "description": ""
+      },
+      {
         "code": "xmas_r25_icepillow",
-        "name": "xmas_r25_icepillow name",
+        "name": "Buz Yastık",
         "description": "xmas_r25_icepillow desc"
       },
       {
