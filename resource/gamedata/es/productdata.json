@@ -60993,7 +60993,7 @@
       },
       {
         "code": "highscore_mostwin_weekly",
-        "name": "Máximas Puntuaciones (Más Victorias): Semanales",
+        "name": "Tabla de Clasificación: Más Victorias (Semanal)",
         "description": "El equipo con más puntos al final de una ronda consigue un punto de victoria. Las victorias se acumulan."
       },
       {
@@ -61018,7 +61018,7 @@
       },
       {
         "code": "highscore_perteam_weekly",
-        "name": "Máximas Puntuaciones por Equipo: Semanales",
+        "name": "Tabla de Clasificación: Máximas Puntuaciones por Equipo (Semanal)",
         "description": "Cada configuración de equipo tiene una entrada: ¡los equipos pueden competir entre sí!"
       },
       {
@@ -95204,22 +95204,22 @@
       {
         "code": "room_invisible_block2",
         "name": "Bloque Invisible: Apilable, Pisable",
-        "description": "room_invisible_block2 desc"
+        "description": "Bloque Invisible: Apilable, Pisable"
       },
       {
         "code": "room_invisible_block3",
         "name": "Bloque Invisible: No apilable, Pisable",
-        "description": "room_invisible_block3 desc"
+        "description": "Bloque Invisible: No apilable, Pisable"
       },
       {
         "code": "room_invisible_block4",
         "name": "Bloque Invisible: No apilable, No pisable",
-        "description": "room_invisible_block4 desc"
+        "description": "Bloque Invisible: No apilable, No pisable"
       },
       {
         "code": "room_invisible_block",
         "name": "Bloque Invisible: Apilable, No pisable",
-        "description": "room_invisible_block desc"
+        "description": "Bloque Invisible: Apilable, No pisable"
       },
       {
         "code": "room_invisible_click_tile",

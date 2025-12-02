@@ -60991,7 +60991,7 @@
   ],
   [
     "highscore_mostwin_weekly",
-    "Máximas Puntuaciones (Más Victorias): Semanales",
+    "Tabla de Clasificación: Más Victorias (Semanal)",
     "El equipo con más puntos al final de una ronda consigue un punto de victoria. Las victorias se acumulan."
   ],
   [
@@ -61016,7 +61016,7 @@
   ],
   [
     "highscore_perteam_weekly",
-    "Máximas Puntuaciones por Equipo: Semanales",
+    "Tabla de Clasificación: Máximas Puntuaciones por Equipo (Semanal)",
     "Cada configuración de equipo tiene una entrada: ¡los equipos pueden competir entre sí!"
   ],
   [
@@ -95202,22 +95202,22 @@
   [
     "room_invisible_block2",
     "Bloque Invisible: Apilable, Pisable",
-    "room_invisible_block2 desc"
+    "Bloque Invisible: Apilable, Pisable"
   ],
   [
     "room_invisible_block3",
     "Bloque Invisible: No apilable, Pisable",
-    "room_invisible_block3 desc"
+    "Bloque Invisible: No apilable, Pisable"
   ],
   [
     "room_invisible_block4",
     "Bloque Invisible: No apilable, No pisable",
-    "room_invisible_block4 desc"
+    "Bloque Invisible: No apilable, No pisable"
   ],
   [
     "room_invisible_block",
     "Bloque Invisible: Apilable, No pisable",
-    "room_invisible_block desc"
+    "Bloque Invisible: Apilable, No pisable"
   ],
   [
     "room_invisible_click_tile",
