@@ -38342,7 +38342,7 @@
   [
     "clothing_nftregalblackcrown",
     "Corona Nera Regale",
-    ""
+    "clothing_nftregalblackcrown desc"
   ],
   [
     "clothing_nftreindeer",
@@ -38872,7 +38872,7 @@
   [
     "clothing_nfttubescarf",
     "Scaldacollo",
-    ""
+    "clothing_nfttubescarf desc"
   ],
   [
     "clothing_nftturkeyhat",
@@ -38932,7 +38932,7 @@
   [
     "clothing_nftwinte25jacket",
     "Piumino Invernale",
-    ""
+    "clothing_nftwinte25jacket desc"
   ],
   [
     "clothing_nftwinter1",
@@ -38942,17 +38942,17 @@
   [
     "clothing_nftwinter25beanie",
     "Berretto Invernale",
-    ""
+    "clothing_nftwinter25beanie desc"
   ],
   [
     "clothing_nftwinter25boots",
     "Stivali Invernali Robusti",
-    ""
+    "clothing_nftwinter25boots desc"
   ],
   [
     "clothing_nftwinter25pants",
     "Pantaloni Invernali Caldi",
-    ""
+    "clothing_nftwinter25pants desc"
   ],
   [
     "clothing_nftwinter2",
@@ -39067,7 +39067,7 @@
   [
     "clothing_nftxmaslollipop",
     "Lecca-Lecca di Natale",
-    ""
+    "clothing_nftxmaslollipop desc"
   ],
   [
     "clothing_nftxmaspants",
@@ -76515,6 +76515,11 @@
     "$product_christmas_reindeer_name$"
   ],
   [
+    "nft_cine_pstr_10",
+    "nft_cine_pstr_10 name",
+    "nft_cine_pstr_10 desc"
+  ],
+  [
     "nft_cine_starchair",
     "Sedia del Regista",
     "nft_cine_starchair desc"
@@ -77155,6 +77160,11 @@
     "nft_emerald_xmastree_2000 desc"
   ],
   [
+    "nft_es_epictree",
+    "nft_es_epictree name",
+    "nft_es_epictree desc"
+  ],
+  [
     "nft_exe_icecream",
     "nft_exe_icecream name",
     "nft_exe_icecream desc"
@@ -77550,9 +77560,24 @@
     "nft_gold_c15_arc_camp desc"
   ],
   [
+    "nft_gold_c15_arc_chair",
+    "nft_gold_c15_arc_chair name",
+    "nft_gold_c15_arc_chair desc"
+  ],
+  [
+    "nft_gold_c15_arc_div1",
+    "nft_gold_c15_arc_div1 name",
+    "nft_gold_c15_arc_div1 desc"
+  ],
+  [
     "nft_gold_c15_arc_geysir",
     "Geyser d'oro zecchino",
     "nft_gold_c15_arc_geysir desc"
+  ],
+  [
+    "nft_gold_c15_arc_hole",
+    "nft_gold_c15_arc_hole name",
+    "nft_gold_c15_arc_hole desc"
   ],
   [
     "nft_gold_c15_arc_icerug",
@@ -77560,9 +77585,39 @@
     "nft_gold_c15_arc_icerug desc"
   ],
   [
+    "nft_gold_c15_arc_icewall",
+    "nft_gold_c15_arc_icewall name",
+    "nft_gold_c15_arc_icewall desc"
+  ],
+  [
+    "nft_gold_c15_arc_lamp",
+    "nft_gold_c15_arc_lamp name",
+    "nft_gold_c15_arc_lamp desc"
+  ],
+  [
+    "nft_gold_c15_arc_lantern",
+    "nft_gold_c15_arc_lantern name",
+    "nft_gold_c15_arc_lantern desc"
+  ],
+  [
+    "nft_gold_c15_arc_snow",
+    "nft_gold_c15_arc_snow name",
+    "nft_gold_c15_arc_snow desc"
+  ],
+  [
     "nft_gold_c15_arc_statue",
     "Pinguino d'oro zecchino",
     "nft_gold_c15_arc_statue desc"
+  ],
+  [
+    "nft_gold_c15_arc_tree2",
+    "nft_gold_c15_arc_tree2 name",
+    "nft_gold_c15_arc_tree2 desc"
+  ],
+  [
+    "nft_gold_c15_arc_tub",
+    "nft_gold_c15_arc_tub name",
+    "nft_gold_c15_arc_tub desc"
   ],
   [
     "nft_gothic15_toilet",
@@ -79717,7 +79772,7 @@
   [
     "nft_h25_bluexmaslollipop",
     "Lecca-Lecca di Natale Blu",
-    ""
+    "nft_h25_bluexmaslollipop desc"
   ],
   [
     "nft_h25_boogieblast_egg",
@@ -80072,7 +80127,7 @@
   [
     "nft_h25_redxmaslollipop",
     "Lecca-Lecca di Natale Rosso",
-    ""
+    "nft_h25_redxmaslollipop desc"
   ],
   [
     "nft_h25_robocroc",
@@ -81407,17 +81462,17 @@
   [
     "nft_sc_snowglobe1",
     "Palla di Vetro con Lampada Drago Ghiacciato",
-    ""
+    "nft_sc_snowglobe1 desc"
   ],
   [
     "nft_sc_snowglobe2",
     "Palla di Vetro con Elefante Ghiacciato",
-    ""
+    "nft_sc_snowglobe2 desc"
   ],
   [
     "nft_sc_snowglobe3",
     "Palla di Vetro con Anatroccolo Ghiacciato",
-    ""
+    "nft_sc_snowglobe3 desc"
   ],
   [
     "nft_scifidoor_1",
@@ -81495,6 +81550,11 @@
     "$product_sleepingbag_4_name$"
   ],
   [
+    "nft_snst_fireplace",
+    "nft_snst_fireplace name",
+    "nft_snst_fireplace desc"
+  ],
+  [
     "nft_st_wildwest_buffalo",
     "Statua del Bufalo",
     "nft_st_wildwest_buffalo desc"
@@ -81508,6 +81568,11 @@
     "nft_svnr_de",
     "Gnomo da Giardino",
     "nft_svnr_de desc"
+  ],
+  [
+    "nft_svnr_fi",
+    "nft_svnr_fi name",
+    "nft_svnr_fi desc"
   ],
   [
     "nft_svnr_it",
@@ -81715,6 +81780,11 @@
     "nft_wildwest_till desc"
   ],
   [
+    "nft_winter15_fnc_crnr",
+    "nft_winter15_fnc_crnr name",
+    "nft_winter15_fnc_crnr desc"
+  ],
+  [
     "nft_winter15_freeze",
     "Statua del Veterano del Freeze",
     "Statua del Veterano del Freeze"
@@ -81730,9 +81800,24 @@
     "Statua della Pattinatrice Pro"
   ],
   [
+    "nft_winter15_lmppst",
+    "nft_winter15_lmppst name",
+    "nft_winter15_lmppst desc"
+  ],
+  [
     "nft_winter15_snowboard",
     "Statua dell'Asso dello Snowboard",
     "Statua dell'Asso dello Snowboard"
+  ],
+  [
+    "nft_winter15_tree4",
+    "nft_winter15_tree4 name",
+    "nft_winter15_tree4 desc"
+  ],
+  [
+    "nft_winter15_wpost",
+    "nft_winter15_wpost name",
+    "nft_winter15_wpost desc"
   ],
   [
     "nft_wooden_screen_0",
@@ -81805,9 +81890,29 @@
     "nft_xmas13_icecream desc"
   ],
   [
+    "nft_xmas13_machine1",
+    "nft_xmas13_machine1 name",
+    "nft_xmas13_machine1 desc"
+  ],
+  [
+    "nft_xmas13_robotdino",
+    "nft_xmas13_robotdino name",
+    "nft_xmas13_robotdino desc"
+  ],
+  [
     "nft_xmas13_toyhorse",
     "Cavallino di Legno",
     "nft_xmas13_toyhorse desc"
+  ],
+  [
+    "nft_xmas14_boomboxman",
+    "nft_xmas14_boomboxman name",
+    "nft_xmas14_boomboxman desc"
+  ],
+  [
+    "nft_xmas14_octosanta",
+    "nft_xmas14_octosanta name",
+    "nft_xmas14_octosanta desc"
   ],
   [
     "nft_xmas14_sharkthrone",
@@ -81833,6 +81938,51 @@
     "nft_xmas15_stand",
     "Stand Foto Natale in Baviera",
     "nft_xmas15_stand desc"
+  ],
+  [
+    "nft_xmas_r16_owl",
+    "nft_xmas_r16_owl name",
+    "nft_xmas_r16_owl desc"
+  ],
+  [
+    "nft_xmas_r16_throne",
+    "nft_xmas_r16_throne name",
+    "nft_xmas_r16_throne desc"
+  ],
+  [
+    "nft_xmas_r17_carriage",
+    "nft_xmas_r17_carriage name",
+    "nft_xmas_r17_carriage desc"
+  ],
+  [
+    "nft_xmas_r17_lion",
+    "nft_xmas_r17_lion name",
+    "nft_xmas_r17_lion desc"
+  ],
+  [
+    "nft_xmas_r17_musicbox",
+    "nft_xmas_r17_musicbox name",
+    "nft_xmas_r17_musicbox desc"
+  ],
+  [
+    "nft_xmas_r18_lightfountain",
+    "nft_xmas_r18_lightfountain name",
+    "nft_xmas_r18_lightfountain desc"
+  ],
+  [
+    "nft_xmas_r18_snowyowl",
+    "nft_xmas_r18_snowyowl name",
+    "nft_xmas_r18_snowyowl desc"
+  ],
+  [
+    "nft_xmas_r19_crystalfountain",
+    "nft_xmas_r19_crystalfountain name",
+    "nft_xmas_r19_crystalfountain desc"
+  ],
+  [
+    "nft_xmas_r21_luxuryhotchocolate",
+    "nft_xmas_r21_luxuryhotchocolate name",
+    "nft_xmas_r21_luxuryhotchocolate desc"
   ],
   [
     "nft_xmas_r23_cakethrone2",
@@ -103017,17 +103167,17 @@
   [
     "sc_snowglobe1",
     "Palla di Vetro con Lampada Drago Ghiacciato",
-    ""
+    "sc_snowglobe1 desc"
   ],
   [
     "sc_snowglobe2",
     "Palla di Vetro con Elefante Ghiacciato",
-    ""
+    "sc_snowglobe2 desc"
   ],
   [
     "sc_snowglobe3",
     "Palla di Vetro con Anatroccolo Ghiacciato",
-    ""
+    "sc_snowglobe3 desc"
   ],
   [
     "school_backtoschool",

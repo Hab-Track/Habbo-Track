@@ -39014,7 +39014,7 @@
       {
         "code": "clothing_nftregalblackcrown",
         "name": "Majesteettinen musta kruunu",
-        "description": ""
+        "description": "clothing_nftregalblackcrown desc"
       },
       {
         "code": "clothing_nftreindeer",
@@ -39544,7 +39544,7 @@
       {
         "code": "clothing_nfttubescarf",
         "name": "Putkikauluri",
-        "description": ""
+        "description": "clothing_nfttubescarf desc"
       },
       {
         "code": "clothing_nftturkeyhat",
@@ -39604,7 +39604,7 @@
       {
         "code": "clothing_nftwinte25jacket",
         "name": "Untuvatakki",
-        "description": ""
+        "description": "clothing_nftwinte25jacket desc"
       },
       {
         "code": "clothing_nftwinter1",
@@ -39614,17 +39614,17 @@
       {
         "code": "clothing_nftwinter25beanie",
         "name": "Tupsupipo",
-        "description": ""
+        "description": "clothing_nftwinter25beanie desc"
       },
       {
         "code": "clothing_nftwinter25boots",
         "name": "Tanakat talvisaappaat",
-        "description": ""
+        "description": "clothing_nftwinter25boots desc"
       },
       {
         "code": "clothing_nftwinter25pants",
         "name": "Toppahousut",
-        "description": ""
+        "description": "clothing_nftwinter25pants desc"
       },
       {
         "code": "clothing_nftwinter2",
@@ -39739,7 +39739,7 @@
       {
         "code": "clothing_nftxmaslollipop",
         "name": "Joulutikkari",
-        "description": ""
+        "description": "clothing_nftxmaslollipop desc"
       },
       {
         "code": "clothing_nftxmaspants",
@@ -76537,6 +76537,11 @@
         "description": "$product_christmas_reindeer_name$"
       },
       {
+        "code": "nft_cine_pstr_10",
+        "name": "nft_cine_pstr_10 name",
+        "description": "nft_cine_pstr_10 desc"
+      },
+      {
         "code": "nft_cine_starchair",
         "name": "Ohajaajantuoli",
         "description": "nft_cine_starchair desc"
@@ -77177,6 +77182,11 @@
         "description": "nft_emerald_xmastree_2000 desc"
       },
       {
+        "code": "nft_es_epictree",
+        "name": "nft_es_epictree name",
+        "description": "nft_es_epictree desc"
+      },
+      {
         "code": "nft_exe_icecream",
         "name": "nft_exe_icecream name",
         "description": "nft_exe_icecream desc"
@@ -77572,9 +77582,24 @@
         "description": "nft_gold_c15_arc_camp desc"
       },
       {
+        "code": "nft_gold_c15_arc_chair",
+        "name": "nft_gold_c15_arc_chair name",
+        "description": "nft_gold_c15_arc_chair desc"
+      },
+      {
+        "code": "nft_gold_c15_arc_div1",
+        "name": "nft_gold_c15_arc_div1 name",
+        "description": "nft_gold_c15_arc_div1 desc"
+      },
+      {
         "code": "nft_gold_c15_arc_geysir",
         "name": "Kultainen kuumalähde",
         "description": "nft_gold_c15_arc_geysir desc"
+      },
+      {
+        "code": "nft_gold_c15_arc_hole",
+        "name": "nft_gold_c15_arc_hole name",
+        "description": "nft_gold_c15_arc_hole desc"
       },
       {
         "code": "nft_gold_c15_arc_icerug",
@@ -77582,9 +77607,39 @@
         "description": "nft_gold_c15_arc_icerug desc"
       },
       {
+        "code": "nft_gold_c15_arc_icewall",
+        "name": "nft_gold_c15_arc_icewall name",
+        "description": "nft_gold_c15_arc_icewall desc"
+      },
+      {
+        "code": "nft_gold_c15_arc_lamp",
+        "name": "nft_gold_c15_arc_lamp name",
+        "description": "nft_gold_c15_arc_lamp desc"
+      },
+      {
+        "code": "nft_gold_c15_arc_lantern",
+        "name": "nft_gold_c15_arc_lantern name",
+        "description": "nft_gold_c15_arc_lantern desc"
+      },
+      {
+        "code": "nft_gold_c15_arc_snow",
+        "name": "nft_gold_c15_arc_snow name",
+        "description": "nft_gold_c15_arc_snow desc"
+      },
+      {
         "code": "nft_gold_c15_arc_statue",
         "name": "Kultainen pingviini",
         "description": "nft_gold_c15_arc_statue desc"
+      },
+      {
+        "code": "nft_gold_c15_arc_tree2",
+        "name": "nft_gold_c15_arc_tree2 name",
+        "description": "nft_gold_c15_arc_tree2 desc"
+      },
+      {
+        "code": "nft_gold_c15_arc_tub",
+        "name": "nft_gold_c15_arc_tub name",
+        "description": "nft_gold_c15_arc_tub desc"
       },
       {
         "code": "nft_gothic15_toilet",
@@ -79739,7 +79794,7 @@
       {
         "code": "nft_h25_bluexmaslollipop",
         "name": "Sininen joulutikkari",
-        "description": ""
+        "description": "nft_h25_bluexmaslollipop desc"
       },
       {
         "code": "nft_h25_boogieblast_egg",
@@ -80094,7 +80149,7 @@
       {
         "code": "nft_h25_redxmaslollipop",
         "name": "Punainen joulutikkari",
-        "description": ""
+        "description": "nft_h25_redxmaslollipop desc"
       },
       {
         "code": "nft_h25_robocroc",
@@ -81429,17 +81484,17 @@
       {
         "code": "nft_sc_snowglobe1",
         "name": "Jäinen lohikäärmepyrypallo",
-        "description": ""
+        "description": "nft_sc_snowglobe1 desc"
       },
       {
         "code": "nft_sc_snowglobe2",
         "name": "Jäinen fanttipyrypallo",
-        "description": ""
+        "description": "nft_sc_snowglobe2 desc"
       },
       {
         "code": "nft_sc_snowglobe3",
         "name": "Jäinen ankkapyrypallo",
-        "description": ""
+        "description": "nft_sc_snowglobe3 desc"
       },
       {
         "code": "nft_scifidoor_1",
@@ -81517,6 +81572,11 @@
         "description": "$product_sleepingbag_4_name$"
       },
       {
+        "code": "nft_snst_fireplace",
+        "name": "nft_snst_fireplace name",
+        "description": "nft_snst_fireplace desc"
+      },
+      {
         "code": "nft_st_wildwest_buffalo",
         "name": "Buffalopatsas",
         "description": "nft_st_wildwest_buffalo desc"
@@ -81530,6 +81590,11 @@
         "code": "nft_svnr_de",
         "name": "Puutarhatonttu",
         "description": "nft_svnr_de desc"
+      },
+      {
+        "code": "nft_svnr_fi",
+        "name": "nft_svnr_fi name",
+        "description": "nft_svnr_fi desc"
       },
       {
         "code": "nft_svnr_it",
@@ -81737,6 +81802,11 @@
         "description": "nft_wildwest_till desc"
       },
       {
+        "code": "nft_winter15_fnc_crnr",
+        "name": "nft_winter15_fnc_crnr name",
+        "description": "nft_winter15_fnc_crnr desc"
+      },
+      {
         "code": "nft_winter15_freeze",
         "name": "Freeze-veteraani",
         "description": "Freeze-veteraani"
@@ -81752,9 +81822,24 @@
         "description": "Piruetinpyörittäjä"
       },
       {
+        "code": "nft_winter15_lmppst",
+        "name": "nft_winter15_lmppst name",
+        "description": "nft_winter15_lmppst desc"
+      },
+      {
         "code": "nft_winter15_snowboard",
         "name": "Jäinen lautailija",
         "description": "Jäinen lautailija"
+      },
+      {
+        "code": "nft_winter15_tree4",
+        "name": "nft_winter15_tree4 name",
+        "description": "nft_winter15_tree4 desc"
+      },
+      {
+        "code": "nft_winter15_wpost",
+        "name": "nft_winter15_wpost name",
+        "description": "nft_winter15_wpost desc"
       },
       {
         "code": "nft_wooden_screen_0",
@@ -81827,9 +81912,29 @@
         "description": "nft_xmas13_icecream desc"
       },
       {
+        "code": "nft_xmas13_machine1",
+        "name": "nft_xmas13_machine1 name",
+        "description": "nft_xmas13_machine1 desc"
+      },
+      {
+        "code": "nft_xmas13_robotdino",
+        "name": "nft_xmas13_robotdino name",
+        "description": "nft_xmas13_robotdino desc"
+      },
+      {
         "code": "nft_xmas13_toyhorse",
         "name": "Puuhevonen",
         "description": "nft_xmas13_toyhorse desc"
+      },
+      {
+        "code": "nft_xmas14_boomboxman",
+        "name": "nft_xmas14_boomboxman name",
+        "description": "nft_xmas14_boomboxman desc"
+      },
+      {
+        "code": "nft_xmas14_octosanta",
+        "name": "nft_xmas14_octosanta name",
+        "description": "nft_xmas14_octosanta desc"
       },
       {
         "code": "nft_xmas14_sharkthrone",
@@ -81855,6 +81960,51 @@
         "code": "nft_xmas15_stand",
         "name": "Baijerilainen joulukuvakoju",
         "description": "nft_xmas15_stand desc"
+      },
+      {
+        "code": "nft_xmas_r16_owl",
+        "name": "nft_xmas_r16_owl name",
+        "description": "nft_xmas_r16_owl desc"
+      },
+      {
+        "code": "nft_xmas_r16_throne",
+        "name": "nft_xmas_r16_throne name",
+        "description": "nft_xmas_r16_throne desc"
+      },
+      {
+        "code": "nft_xmas_r17_carriage",
+        "name": "nft_xmas_r17_carriage name",
+        "description": "nft_xmas_r17_carriage desc"
+      },
+      {
+        "code": "nft_xmas_r17_lion",
+        "name": "nft_xmas_r17_lion name",
+        "description": "nft_xmas_r17_lion desc"
+      },
+      {
+        "code": "nft_xmas_r17_musicbox",
+        "name": "nft_xmas_r17_musicbox name",
+        "description": "nft_xmas_r17_musicbox desc"
+      },
+      {
+        "code": "nft_xmas_r18_lightfountain",
+        "name": "nft_xmas_r18_lightfountain name",
+        "description": "nft_xmas_r18_lightfountain desc"
+      },
+      {
+        "code": "nft_xmas_r18_snowyowl",
+        "name": "nft_xmas_r18_snowyowl name",
+        "description": "nft_xmas_r18_snowyowl desc"
+      },
+      {
+        "code": "nft_xmas_r19_crystalfountain",
+        "name": "nft_xmas_r19_crystalfountain name",
+        "description": "nft_xmas_r19_crystalfountain desc"
+      },
+      {
+        "code": "nft_xmas_r21_luxuryhotchocolate",
+        "name": "nft_xmas_r21_luxuryhotchocolate name",
+        "description": "nft_xmas_r21_luxuryhotchocolate desc"
       },
       {
         "code": "nft_xmas_r23_cakethrone2",
@@ -102944,17 +103094,17 @@
       {
         "code": "sc_snowglobe1",
         "name": "Jäinen lohikäärmepyrypallo",
-        "description": ""
+        "description": "sc_snowglobe1 desc"
       },
       {
         "code": "sc_snowglobe2",
         "name": "Jäinen fanttipyrypallo",
-        "description": ""
+        "description": "sc_snowglobe2 desc"
       },
       {
         "code": "sc_snowglobe3",
         "name": "Jäinen ankkapyrypallo",
-        "description": ""
+        "description": "sc_snowglobe3 desc"
       },
       {
         "code": "school_backtoschool",
