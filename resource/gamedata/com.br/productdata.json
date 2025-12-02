@@ -74928,7 +74928,7 @@
       },
       {
         "code": "nft_A0_rarehammock",
-        "name": "Crusoe's Hammock",
+        "name": "$product_A0_rarehammock_name$",
         "description": "Take a nap above swell of the sea..."
       },
       {
@@ -75083,7 +75083,7 @@
       },
       {
         "code": "nft_DEV_habbowood_chair",
-        "name": "nft_habbowood_chair",
+        "name": "$product_DEV_habbowood_chair_name$",
         "description": ""
       },
       {
@@ -75243,7 +75243,7 @@
       },
       {
         "code": "nft_a0_mocchamaster",
-        "name": "Mochamaster",
+        "name": "$product_a0_mocchamaster_name$",
         "description": "Wake up and smell it!"
       },
       {
@@ -75333,12 +75333,12 @@
       },
       {
         "code": "nft_a0_samovar",
-        "name": "Russian Samovar",
+        "name": "$product_a0_samovar_name$",
         "description": "Click for a refreshing cuppa"
       },
       {
         "code": "nft_a0_sandrug",
-        "name": "Tropical Beach Rug",
+        "name": "$product_a0_sandrug_name$",
         "description": "Your own paradise island"
       },
       {
@@ -76068,7 +76068,7 @@
       },
       {
         "code": "nft_autumn_r20_pond",
-        "name": "nft_autumn_r20_pond name",
+        "name": "Lago dos Desejos",
         "description": "nft_autumn_r20_pond desc"
       },
       {
@@ -76923,17 +76923,17 @@
       },
       {
         "code": "nft_easel_buildcomp",
-        "name": "nft_easel_buildcomp name",
+        "name": "Cavalete da Construção",
         "description": "nft_easel_buildcomp desc"
       },
       {
         "code": "nft_easel_comp",
-        "name": "nft_easel_comp name",
+        "name": "Cavalete das Artes",
         "description": "nft_easel_comp desc"
       },
       {
         "code": "nft_easel_designcomp",
-        "name": "nft_easel_designcomp name",
+        "name": "Cavalete do Design",
         "description": "nft_easel_designcomp desc"
       },
       {
@@ -80353,7 +80353,7 @@
       },
       {
         "code": "nft_hc_knight_1",
-        "name": "nft_hc_knight_1 name",
+        "name": "Cavaleiro HC",
         "description": "nft_hc_knight_1 desc"
       },
       {
@@ -80468,7 +80468,7 @@
       },
       {
         "code": "nft_lostc_octopus",
-        "name": "lost city octopus",
+        "name": "Kraken",
         "description": "lost city octopus"
       },
       {
@@ -80643,7 +80643,7 @@
       },
       {
         "code": "nft_pirate_kraken",
-        "name": "nft_pirate_kraken name",
+        "name": "Kraken",
         "description": "nft_pirate_kraken desc"
       },
       {
@@ -81463,27 +81463,27 @@
       },
       {
         "code": "nft_steampunk_gramophone",
-        "name": "nft_steampunk_gramophone name",
+        "name": "Gramofone Steampunk",
         "description": "nft_steampunk_gramophone desc"
       },
       {
         "code": "nft_svnr_de",
-        "name": "nft_svnr_de name",
+        "name": "Gnomo Alemão",
         "description": "nft_svnr_de desc"
       },
       {
         "code": "nft_svnr_it",
-        "name": "nft_svnr_it name",
+        "name": "Gôndola Italiana",
         "description": "nft_svnr_it desc"
       },
       {
         "code": "nft_svnr_nl",
-        "name": "nft_svnr_nl name",
+        "name": "Tamanco Holandês",
         "description": "nft_svnr_nl desc"
       },
       {
         "code": "nft_svnr_uk",
-        "name": "nft_svnr_uk_name",
+        "name": "Big Ben",
         "description": "nft_svnr_uk_desc"
       },
       {
@@ -81623,7 +81623,7 @@
       },
       {
         "code": "nft_val15_koipond",
-        "name": "nft_val15_koipond name",
+        "name": "Viveiro de peixes Koi",
         "description": "nft_val15_koipond desc"
       },
       {
@@ -93500,6 +93500,16 @@
         "code": "rm_dbl_tto27b",
         "name": "-50 por cento 46c+d",
         "description": "Get 46 credits and diamonds for the price of 23 credits! Offer available for 48 hours, limited to 1 per person"
+      },
+      {
+        "code": "rm_dbl_tto280",
+        "name": "50 per cent Off 220 Credits",
+        "description": ""
+      },
+      {
+        "code": "rm_dbl_tto281",
+        "name": "50 per cent Off 220 Credits",
+        "description": ""
       },
       {
         "code": "rm_dbl_tto28a2",

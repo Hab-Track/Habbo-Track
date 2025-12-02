@@ -81416,7 +81416,7 @@
   ],
   [
     "nft_A0_rarehammock",
-    "Crusoe's Hammock",
+    "$product_A0_rarehammock_name$",
     "Take a nap above swell of the sea..."
   ],
   [
@@ -81571,7 +81571,7 @@
   ],
   [
     "nft_DEV_habbowood_chair",
-    "nft_habbowood_chair",
+    "$product_DEV_habbowood_chair_name$",
     ""
   ],
   [
@@ -81731,7 +81731,7 @@
   ],
   [
     "nft_a0_mocchamaster",
-    "Mochamaster",
+    "$product_a0_mocchamaster_name$",
     "Wake up and smell it!"
   ],
   [
@@ -81821,12 +81821,12 @@
   ],
   [
     "nft_a0_samovar",
-    "Russian Samovar",
+    "$product_a0_samovar_name$",
     "Click for a refreshing cuppa"
   ],
   [
     "nft_a0_sandrug",
-    "Tropical Beach Rug",
+    "$product_a0_sandrug_name$",
     "Your own paradise island"
   ],
   [
@@ -82556,7 +82556,7 @@
   ],
   [
     "nft_autumn_r20_pond",
-    "nft_autumn_r20_pond name",
+    "Autumnal Wishing Pond",
     "nft_autumn_r20_pond desc"
   ],
   [
@@ -83411,17 +83411,17 @@
   ],
   [
     "nft_easel_buildcomp",
-    "nft_easel_buildcomp name",
+    "Builder's Easel",
     "nft_easel_buildcomp desc"
   ],
   [
     "nft_easel_comp",
-    "nft_easel_comp name",
+    "Artist's Easel",
     "nft_easel_comp desc"
   ],
   [
     "nft_easel_designcomp",
-    "nft_easel_designcomp name",
+    "Designer's Easel",
     "nft_easel_designcomp desc"
   ],
   [
@@ -86841,7 +86841,7 @@
   ],
   [
     "nft_hc_knight_1",
-    "nft_hc_knight_1 name",
+    "HC Knight",
     "nft_hc_knight_1 desc"
   ],
   [
@@ -86956,7 +86956,7 @@
   ],
   [
     "nft_lostc_octopus",
-    "lost city octopus",
+    "Iku-Turso",
     "lost city octopus"
   ],
   [
@@ -87131,7 +87131,7 @@
   ],
   [
     "nft_pirate_kraken",
-    "nft_pirate_kraken name",
+    "Kraken",
     "nft_pirate_kraken desc"
   ],
   [
@@ -87951,27 +87951,27 @@
   ],
   [
     "nft_steampunk_gramophone",
-    "nft_steampunk_gramophone name",
+    "Steampunk Gramophone",
     "nft_steampunk_gramophone desc"
   ],
   [
     "nft_svnr_de",
-    "nft_svnr_de name",
+    "Garden Gnome",
     "nft_svnr_de desc"
   ],
   [
     "nft_svnr_it",
-    "nft_svnr_it name",
+    "Gondola",
     "nft_svnr_it desc"
   ],
   [
     "nft_svnr_nl",
-    "nft_svnr_nl name",
+    "Clog",
     "nft_svnr_nl desc"
   ],
   [
     "nft_svnr_uk",
-    "nft_svnr_uk_name",
+    "Big Ben",
     "nft_svnr_uk_desc"
   ],
   [
@@ -88111,7 +88111,7 @@
   ],
   [
     "nft_val15_koipond",
-    "nft_val15_koipond name",
+    "Koi Fish Pond",
     "nft_val15_koipond desc"
   ],
   [
@@ -100138,6 +100138,16 @@
     "rm_dbl_tto27b",
     "50 per cent Off 46 Credits",
     "Get 46 credits and diamonds for the price of 23 credits! Offer available for 48 hours, limited to 1 per person"
+  ],
+  [
+    "rm_dbl_tto280",
+    "50 per cent Off 220 Credits",
+    ""
+  ],
+  [
+    "rm_dbl_tto281",
+    "50 per cent Off 220 Credits",
+    ""
   ],
   [
     "rm_dbl_tto28a2",
