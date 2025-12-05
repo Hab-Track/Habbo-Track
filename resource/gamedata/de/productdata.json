@@ -35378,7 +35378,7 @@
       },
       {
         "code": "clothing_headlamp",
-        "name": "Frontscheinwerfer",
+        "name": "Stirnlampe",
         "description": "clothing_headlamp desc"
       },
       {
@@ -69888,7 +69888,7 @@
       },
       {
         "code": "lodge_dark_bed",
-        "name": "Dunkles Hütten-Bett",
+        "name": "Dunkles Hütten-Einzelbett",
         "description": "lodge_dark_bed desc"
       },
       {
@@ -69963,7 +69963,7 @@
       },
       {
         "code": "lodge_dark_lamp",
-        "name": "Dunkle Hütten-Tischlampe",
+        "name": "Dunkle Hütten-Stehlampe",
         "description": "lodge_dark_lamp desc"
       },
       {
@@ -75618,7 +75618,7 @@
       },
       {
         "code": "nft_cm2_croksleepingbag",
-        "name": "Krokodilstoffschlafsack",
+        "name": "Krokodilstoff-Schlafsack",
         "description": "nft_cm2_croksleepingbag desc"
       },
       {
@@ -75633,7 +75633,7 @@
       },
       {
         "code": "nft_cm2_rocky",
-        "name": "Schneebedeckte Felsen",
+        "name": "Schneebedeckter Felsen",
         "description": "nft_cm2_rocky desc"
       },
       {
@@ -75653,7 +75653,7 @@
       },
       {
         "code": "nft_cm2_sprucechair",
-        "name": "Alpine Waldliege",
+        "name": "Alpenwaldstuhl",
         "description": "nft_cm2_sprucechair desc"
       },
       {
@@ -80493,12 +80493,12 @@
       },
       {
         "code": "nft_sc_snowglobe1",
-        "name": "Eisige Drachenlampe Schneekugel",
+        "name": "Eisige Drachenlampen-Schneekugel",
         "description": "nft_sc_snowglobe1 desc"
       },
       {
         "code": "nft_sc_snowglobe2",
-        "name": "Eisiger Elefant Schneekugel",
+        "name": "Eisige Elefanten-Schneekugel",
         "description": "nft_sc_snowglobe2 desc"
       },
       {
@@ -81938,7 +81938,7 @@
       },
       {
         "code": "ny_r25_crackable",
-        "name": "2026 Schärpenbox",
+        "name": "Schärpenbox 2026",
         "description": "ny_r25_crackable desc"
       },
       {
@@ -90073,7 +90073,7 @@
       },
       {
         "code": "rare_prize25_xmas",
-        "name": "Polarschaf",
+        "name": "Polar-Kuschelschaf",
         "description": "rare_prize25_xmas desc"
       },
       {
@@ -90513,17 +90513,17 @@
       },
       {
         "code": "recycler_ducktape",
-        "name": "Habboenten-Band",
+        "name": "Habbo-Enten-Klebeband",
         "description": "recycler_ducktape desc"
       },
       {
         "code": "recycler_ducktapeblue",
-        "name": "Blaues Entenband",
+        "name": "Blaues Enten-Klebeband",
         "description": "recycler_ducktapeblue desc"
       },
       {
         "code": "recycler_ducktapepink",
-        "name": "Rotes Entenband",
+        "name": "Rotes Enten-Klebeband",
         "description": "recycler_ducktapepink desc"
       },
       {
@@ -90553,22 +90553,22 @@
       },
       {
         "code": "recycler_patchduck2",
-        "name": "Gelbe Flecken-Ente",
+        "name": "Gelbe Muster-Ente",
         "description": "recycler_patchduck2 desc"
       },
       {
         "code": "recycler_patchduck3",
-        "name": "Pinke Flecken-Ente",
+        "name": "Pinke Muster-Ente",
         "description": "recycler_patchduck3 desc"
       },
       {
         "code": "recycler_patchduck",
-        "name": "Lila Flecken-Ente",
+        "name": "Lila Muster-Ente",
         "description": "recycler_patchduck desc"
       },
       {
         "code": "recycler_patchpillow",
-        "name": "Patchwork Kissen",
+        "name": "Patchwork-Kissen",
         "description": "recycler_patchpillow desc"
       },
       {
@@ -90633,7 +90633,7 @@
       },
       {
         "code": "recycler_whitetyre",
-        "name": "Weisse Reifenschaukel",
+        "name": "Weiße Reifenschaukel",
         "description": "recycler_whitetyre desc"
       },
       {
@@ -102208,12 +102208,12 @@
       },
       {
         "code": "sc_snowglobe1",
-        "name": "Eisige Drachenlampe Schneekugel",
+        "name": "Eisige Drachenlampen-Schneekugel",
         "description": "sc_snowglobe1 desc"
       },
       {
         "code": "sc_snowglobe2",
-        "name": "Eisiger Elefant Schneekugel",
+        "name": "Eisige Elefanten-Schneekugel",
         "description": "sc_snowglobe2 desc"
       },
       {
@@ -118188,7 +118188,7 @@
       },
       {
         "code": "xmas_c25_tree2a_snowflake",
-        "name": "Weihnachtsbaum-Schneeflockenspitze",
+        "name": "Schneeflocken-Weihnachtsbaumspitze",
         "description": "xmas_c25_tree2a_snowflake desc"
       },
       {
@@ -118208,7 +118208,7 @@
       },
       {
         "code": "xmas_c25_tree2b_snowflake",
-        "name": "Weihnachtsbaum-Schneeflockenmitte",
+        "name": "Schneeflocken-Weihnachtsbaummitte",
         "description": "xmas_c25_tree2b_snowflake desc"
       },
       {
@@ -118228,72 +118228,72 @@
       },
       {
         "code": "xmas_c25_tree2c_snowflake",
-        "name": "Weihnachtsbaum-Schneeflockenunterteil",
+        "name": "Schneeflocken-Weihnachtsbaumstamm",
         "description": "xmas_c25_tree2c_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3a_baubles",
-        "name": "Bunte Baumspitze",
+        "name": "Bunte Weihnachtsbaumspitze",
         "description": "xmas_c25_tree3a_baubles desc"
       },
       {
         "code": "xmas_c25_tree3a_candy",
-        "name": "Süsse Weihnachtsbaumspitze",
+        "name": "Süße Weihnachtsbaumspitze",
         "description": "xmas_c25_tree3a_candy desc"
       },
       {
         "code": "xmas_c25_tree3a_snowflake",
-        "name": "Frostige Baumspitze",
+        "name": "Frostige Weihnachtsbaumspitze",
         "description": "xmas_c25_tree3a_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3a_tinsel",
-        "name": "Lametta-Baumspitze",
+        "name": "Lametta-Weihnachtsbaumspitze",
         "description": "xmas_c25_tree3a_tinsel desc"
       },
       {
         "code": "xmas_c25_tree3b_baubles",
-        "name": "Bunte Baummitte",
+        "name": "Bunte Weihnachtsbaummitte",
         "description": "xmas_c25_tree3b_baubles desc"
       },
       {
         "code": "xmas_c25_tree3b_candy",
-        "name": "Süsse Weihnachtsbaummitte",
+        "name": "Süße Weihnachtsbaummitte",
         "description": "xmas_c25_tree3b_candy desc"
       },
       {
         "code": "xmas_c25_tree3b_snowflake",
-        "name": "Frostige Baummitte",
+        "name": "Frostige Weihnachtsbaummitte",
         "description": "xmas_c25_tree3b_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3b_tinsel",
-        "name": "Lametta-Baummitte",
+        "name": "Lametta-Weihnachtsbaummitte",
         "description": "xmas_c25_tree3b_tinsel desc"
       },
       {
         "code": "xmas_c25_tree3c_baubles",
-        "name": "Buntes Baumunterteil",
+        "name": "Bunter Weihnachtsbaumstamm",
         "description": "xmas_c25_tree3c_baubles desc"
       },
       {
         "code": "xmas_c25_tree3c_candy",
-        "name": "Süsser Weihnachtsbaumunterteil",
+        "name": "Süßer Weihnachtsbaumstamm",
         "description": "xmas_c25_tree3c_candy desc"
       },
       {
         "code": "xmas_c25_tree3c_snowflake",
-        "name": "Frostiger Baumunterteil",
+        "name": "Frostiger Weihnachtsbaumstamm",
         "description": "xmas_c25_tree3c_snowflake desc"
       },
       {
         "code": "xmas_c25_tree3c_tinsel",
-        "name": "Lametta-Baumunterteil",
+        "name": "Lametta-Weihnachtsbaumstamm",
         "description": "xmas_c25_tree3c_tinsel desc"
       },
       {
         "code": "xmas_c25_treebaubles",
-        "name": "Auswahl an Weihnachtskugeln",
+        "name": "Buntgemischte Weihnachtskugeln",
         "description": "xmas_c25_treebaubles desc"
       },
       {
@@ -118333,7 +118333,7 @@
       },
       {
         "code": "xmas_c25_treetopper2",
-        "name": "Weihnachtsbaum-Engelspitze",
+        "name": "Weihnachtsbaum-Engelsspitze",
         "description": "xmas_c25_treetopper2 desc"
       },
       {
@@ -118743,12 +118743,12 @@
       },
       {
         "code": "xmas_r25_habubucalm_bd",
-        "name": "Ruhe-Habubu",
+        "name": "Beruhigungs-Habubu",
         "description": ""
       },
       {
         "code": "xmas_r25_habubucalm",
-        "name": "Ruhe-Habubu",
+        "name": "Beruhigungs-Habubu",
         "description": "xmas_r25_habubucalm desc"
       },
       {
@@ -118783,12 +118783,12 @@
       },
       {
         "code": "xmas_r25_habubuglam_bd",
-        "name": "Glamour Habubu",
+        "name": "Glamour-Habubu",
         "description": ""
       },
       {
         "code": "xmas_r25_habubuglam",
-        "name": "Glamour Habubu",
+        "name": "Glamour-Habubu",
         "description": "xmas_r25_habubuglam desc"
       },
       {
@@ -118803,12 +118803,12 @@
       },
       {
         "code": "xmas_r25_habubuhope_bd",
-        "name": "Hoffnung-Habubu",
+        "name": "Hoffnungs-Habubu",
         "description": ""
       },
       {
         "code": "xmas_r25_habubuhope",
-        "name": "Hoffnung-Habubu",
+        "name": "Hoffnungs-Habubu",
         "description": "xmas_r25_habubuhope desc"
       },
       {
@@ -118823,12 +118823,12 @@
       },
       {
         "code": "xmas_r25_habubuluck_bd",
-        "name": "Glück-Habubu",
+        "name": "Glücksbringer-Habubu",
         "description": ""
       },
       {
         "code": "xmas_r25_habubuluck",
-        "name": "Glück-Habubu",
+        "name": "Glücksbringer-Habubu",
         "description": "xmas_r25_habubuluck desc"
       },
       {
