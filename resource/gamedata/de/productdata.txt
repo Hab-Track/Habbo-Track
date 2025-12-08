@@ -73706,7 +73706,7 @@
   ],
   [
     "nest_pig",
-    "Patchwork Kissen",
+    "Patchwork-Tierkissen",
     "Erholsamer Schlaf..."
   ],
   [
@@ -111701,8 +111701,8 @@
   ],
   [
     "wf_act_adjust_clock",
-    "WIRED Effekt: Zähler-Zeit einstellen",
-    "wf_act_adjust_clock desc"
+    "WIRED Effekt: Timer einstellen",
+    ""
   ],
   [
     "wf_act_bot_clothes",
@@ -111756,8 +111756,8 @@
   ],
   [
     "wf_act_control_clock",
-    "WIRED Effekt: Zähler kontrollieren",
-    "wf_act_control_clock desc"
+    "WIRED Effekt: Timer bedienen",
+    ""
   ],
   [
     "wf_act_flee",
@@ -111821,7 +111821,7 @@
   ],
   [
     "wf_act_match_to_sshot",
-    "WIRED Effekt: Möbelstück nimmt Zustand und Position ein",
+    "WIRED Effekt: Möbel nimmt Zustand und Position ein",
     "Dieser Effekt setzt die ausgewählten Möbel an ihre Bedingungsposition zurück."
   ],
   [
@@ -111836,8 +111836,8 @@
   ],
   [
     "wf_act_move_rotate_user",
-    "WIRED Effekt: Benutzer bewegen und drehen",
-    "wf_act_move_rotate_user desc"
+    "WIRED Effekt: User bewegen und drehen",
+    ""
   ],
   [
     "wf_act_move_to_dir",
@@ -111881,7 +111881,7 @@
   ],
   [
     "wf_act_reset_timers",
-    "WIRED Effekt: Timer zurücksetzen",
+    "WIRED Effekt: Den programmierten Zeitpunkt zurücksetzen",
     "Dieser Effekt setzt Auslöser zurück, die an Timer gebunden sind."
   ],
   [
@@ -111901,13 +111901,13 @@
   ],
   [
     "wf_act_teleport_to",
-    "WIRED Effekt: Zu Möbelstück teleportieren",
+    "WIRED Effekt: Zu Möbel teleportieren",
     "Dieser Effekt teleportiert den auslösenden Habbo zu einem bestimmten Möbelstück. Wenn du mehrere Möbel auswählst, wird er zufällig zu einem teleportiert."
   ],
   [
     "wf_act_teleport_to_room",
     "WIRED Effekt: Raumteleportation",
-    "wf_act_teleport_to_room desc"
+    ""
   ],
   [
     "wf_act_toggle_state",
@@ -111916,7 +111916,7 @@
   ],
   [
     "wf_act_toggle_to_rnd",
-    "WIRED Effekt: Ändere den Zustand des Möbelstücks zufällig",
+    "WIRED Effekt: Zufälliger Möbelzustand",
     "Dieser Effekt ändert den Zustand des ausgewählten Möbelstücks zufällig."
   ],
   [
@@ -111926,8 +111926,8 @@
   ],
   [
     "wf_act_user_to_furni",
-    "WIRED Effekt: Benutzer zu Möbel bewegen",
-    "wf_act_user_to_furni desc"
+    "WIRED Effekt: User zu Möbel bewegen",
+    ""
   ],
   [
     "wf_antenna1",
@@ -112021,13 +112021,13 @@
   ],
   [
     "wf_cnd_actor_in_team",
-    "WIRED Zustand: Teammitglied",
+    "WIRED Bedingung: Teammitglied",
     "Zustand geht vorüber, wenn Avatar Mitglied des vordefinierten Teams ist"
   ],
   [
     "wf_cnd_counter_time_matches",
-    "WIRED Bedingung: Zähler-Zeit stimmt überein",
-    "wf_cnd_counter_time_matches desc"
+    "WIRED Bedingung: Zeit auf dem Timer stimmt überein",
+    ""
   ],
   [
     "wf_cnd_date_rng_active",
@@ -112056,7 +112056,7 @@
   ],
   [
     "wf_cnd_has_var",
-    "WIRED Bedingung: hat Variable",
+    "WIRED Bedingung: Hat Variable",
     "wf_cnd_has_var desc"
   ],
   [
@@ -112076,7 +112076,7 @@
   ],
   [
     "wf_cnd_neg_has_var",
-    "WIRED Negative Bedingung: hat KEINE Variable",
+    "WIRED Negative Bedingung: Hat KEINE Variable",
     "wf_cnd_neg_has_var desc"
   ],
   [
@@ -112086,7 +112086,7 @@
   ],
   [
     "wf_cnd_not_has_handitem",
-    "WIRED Negative Bedingung: User hat KEINEN Handitem",
+    "WIRED Negative Bedingung: User hat KEIN Handitem",
     "wf_cnd_not_has_handitem desc"
   ],
   [
@@ -112116,7 +112116,7 @@
   ],
   [
     "wf_cnd_not_stuff_is",
-    "WIRED Bedingung: Möbel stimmt NICHT überein",
+    "WIRED Negative Bedingung: Möbel stimmt NICHT überein",
     "Auslösen ist erlaubt, wenn das auslösende Möbel KEINES der ausgewählten Möbel ist oder NICHT eines der selben Art."
   ],
   [
@@ -112166,7 +112166,7 @@
   ],
   [
     "wf_cnd_team_has_score",
-    "WIRED Bedingung: Team hat Punkte:",
+    "WIRED Bedingung: Team hat Punktzahl",
     "wf_cnd_team_has_score desc"
   ],
   [
@@ -112206,7 +112206,7 @@
   ],
   [
     "wf_cnd_valid_moves",
-    "Wired Bedingung: Kann Bewegungen ausführen",
+    "WIRED Bedingung: Kann Bewegungen ausführen",
     "wf_cnd_valid_moves desc"
   ],
   [
@@ -112221,13 +112221,13 @@
   ],
   [
     "wf_cnd_wearing_badge",
-    "WIRED Zustand: Tragen eines Badges",
-    "WIRED Zustand: Tragen eines Badges"
+    "WIRED Bedingung: User trägt Badge",
+    ""
   ],
   [
     "wf_cnd_wearing_effect",
-    "WIRED Zustand: Tragen eines Avatar-Effekts",
-    "WIRED Zustand: Tragen eines Avatar-Effekts"
+    "WIRED Bedingung: User trägt Effekt",
+    ""
   ],
   [
     "wf_colortile",
@@ -112301,13 +112301,13 @@
   ],
   [
     "wf_game_upcounter1",
-    "WIRED Spielzähler",
-    "wf_game_upcounter1 desc"
+    "WIRED Timer (Spielzähler)",
+    ""
   ],
   [
     "wf_game_upcounter2",
-    "WIRED Spielzähler",
-    "wf_game_upcounter2 desc"
+    "WIRED Timer (Spielzähler)",
+    ""
   ],
   [
     "wf_glassdoor",
@@ -112681,8 +112681,8 @@
   ],
   [
     "wf_trg_clock_counter",
-    "WIRED Auslöser: Zähler erreicht programmierte Zeit",
-    "wf_trg_clock_counter desc"
+    "WIRED Auslöser: Timer erreicht programmierte Zeit",
+    ""
   ],
   [
     "wf_trg_collision",
@@ -112691,7 +112691,7 @@
   ],
   [
     "wf_trg_enter_room",
-    "WIRED Auslöser: ein Habbo betritt den Raum",
+    "WIRED Auslöser: User betritt den Raum",
     "Effekte werden ausgelöst, wenn ein Habbo den Raum betritt."
   ],
   [
@@ -112706,8 +112706,8 @@
   ],
   [
     "wf_trg_leave_room",
-    "WIRED Auslöser: Benutzer verlässt Raum",
-    "wf_trg_leave_room desc"
+    "WIRED Auslöser: User verlässt den Raum",
+    ""
   ],
   [
     "wf_trg_period_long",
@@ -112736,7 +112736,7 @@
   ],
   [
     "wf_trg_says_something",
-    "WIRED Auslöser: Ein Habbo sagt etwas",
+    "WIRED Auslöser: User sagt etwas",
     "Effekte werden ausgelöst, wenn ein Habbo ein bestimmtes Wort/Satz sagt."
   ],
   [
@@ -112761,32 +112761,32 @@
   ],
   [
     "wf_trg_var_changed",
-    "WIRED Auslöser: geänderte Variable",
+    "WIRED Auslöser: Variable verändert",
     "wf_trg_var_changed desc"
   ],
   [
     "wf_trg_walks_off_furni",
-    "WIRED Auslöser: Habbo tritt von einem Gegenstand herunter",
+    "WIRED Auslöser: User tritt von Möbel herunter",
     "Effekte werden ausgelöst, wenn ein Habbo von einem Gegenstand heruntertritt."
   ],
   [
     "wf_trg_walks_on_furni",
-    "WIRED Auslöser: Habbo tritt auf Gegenstand",
+    "WIRED Auslöser: User tritt auf Möbel",
     "Effekte werden ausgelöst, wenn ein Habbo auf einen Gegenstand tritt."
   ],
   [
     "wf_upcounter1",
-    "WIRED Kleiner Spielzähler",
-    "wf_upcounter1 desc"
+    "WIRED Timer (klein)",
+    ""
   ],
   [
     "wf_upcounter2",
-    "Sanduhr-Zähler",
-    "wf_upcounter2 desc"
+    "WIRED Sanduhr (Timer)",
+    ""
   ],
   [
     "wf_var_context",
-    "WIRED Variable: Kontext Variable",
+    "WIRED Variable: Kontext-Variable",
     "wf_var_context desc"
   ],
   [
@@ -112811,7 +112811,7 @@
   ],
   [
     "wf_var_reference",
-    "WIRED Variable: aus einem anderen Raum",
+    "WIRED Variable: Aus einem anderen Raum",
     "wf_var_reference desc"
   ],
   [
@@ -112856,7 +112856,7 @@
   ],
   [
     "wf_xtra_exec_in_order",
-    "WIRED Add-on: Ausführung in Reihenfolge",
+    "WIRED Extra: Ausführung in Reihenfolge",
     "wf_xtra_exec_in_order desc"
   ],
   [
@@ -112901,7 +112901,7 @@
   ],
   [
     "wf_xtra_or_eval",
-    "WIRED Extra: Mindestens eine Bedingung ist wahr",
+    "WIRED Extra: Bedingungsoptionen",
     "wf_xtra_or_eval desc"
   ],
   [
@@ -112916,17 +112916,17 @@
   ],
   [
     "wf_xtra_text_input_variable",
-    "WIRED Text-Add-on: variabler Fänge",
+    "WIRED Text-Extra: Variable erfassen",
     "wf_xtra_text_input_variable desc"
   ],
   [
     "wf_xtra_text_output_username",
-    "WIRED Text-Add-on: Benutzername-Platzhalter",
+    "WIRED Text-Extra: Usernamen ausgeben",
     "wf_xtra_text_output_username desc"
   ],
   [
     "wf_xtra_text_output_variable",
-    "WIRED Text-Add-on: variabler Platzhalter",
+    "WIRED Text-Extra: Variable ausgeben",
     "wf_xtra_text_output_variable desc"
   ],
   [
@@ -112936,17 +112936,17 @@
   ],
   [
     "wf_xtra_var_lvlup_system",
-    "Variable Add-on: Level-up System",
+    "Variablen Extra: Levelsystem",
     "wf_xtra_var_lvlup_system desc"
   ],
   [
     "wf_xtra_var_text_connector",
-    "Variablen Add-On: Text-Verknüpfung",
+    "Variablen Extra: Text-Verknüpfung",
     "wf_xtra_var_text_connector desc"
   ],
   [
     "wf_xtra_var_time_util",
-    "Variable Add-on: Zeit-Nutzen",
+    "Variablen Extra: Zeit-Verknüpfung",
     "wf_xtra_var_time_util desc"
   ],
   [

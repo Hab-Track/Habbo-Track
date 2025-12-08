@@ -73708,7 +73708,7 @@
       },
       {
         "code": "nest_pig",
-        "name": "Patchwork Kissen",
+        "name": "Patchwork-Tierkissen",
         "description": "Erholsamer Schlaf..."
       },
       {
@@ -111703,8 +111703,8 @@
       },
       {
         "code": "wf_act_adjust_clock",
-        "name": "WIRED Effekt: Zähler-Zeit einstellen",
-        "description": "wf_act_adjust_clock desc"
+        "name": "WIRED Effekt: Timer einstellen",
+        "description": ""
       },
       {
         "code": "wf_act_bot_clothes",
@@ -111758,8 +111758,8 @@
       },
       {
         "code": "wf_act_control_clock",
-        "name": "WIRED Effekt: Zähler kontrollieren",
-        "description": "wf_act_control_clock desc"
+        "name": "WIRED Effekt: Timer bedienen",
+        "description": ""
       },
       {
         "code": "wf_act_flee",
@@ -111823,7 +111823,7 @@
       },
       {
         "code": "wf_act_match_to_sshot",
-        "name": "WIRED Effekt: Möbelstück nimmt Zustand und Position ein",
+        "name": "WIRED Effekt: Möbel nimmt Zustand und Position ein",
         "description": "Dieser Effekt setzt die ausgewählten Möbel an ihre Bedingungsposition zurück."
       },
       {
@@ -111838,8 +111838,8 @@
       },
       {
         "code": "wf_act_move_rotate_user",
-        "name": "WIRED Effekt: Benutzer bewegen und drehen",
-        "description": "wf_act_move_rotate_user desc"
+        "name": "WIRED Effekt: User bewegen und drehen",
+        "description": ""
       },
       {
         "code": "wf_act_move_to_dir",
@@ -111883,7 +111883,7 @@
       },
       {
         "code": "wf_act_reset_timers",
-        "name": "WIRED Effekt: Timer zurücksetzen",
+        "name": "WIRED Effekt: Den programmierten Zeitpunkt zurücksetzen",
         "description": "Dieser Effekt setzt Auslöser zurück, die an Timer gebunden sind."
       },
       {
@@ -111903,13 +111903,13 @@
       },
       {
         "code": "wf_act_teleport_to",
-        "name": "WIRED Effekt: Zu Möbelstück teleportieren",
+        "name": "WIRED Effekt: Zu Möbel teleportieren",
         "description": "Dieser Effekt teleportiert den auslösenden Habbo zu einem bestimmten Möbelstück. Wenn du mehrere Möbel auswählst, wird er zufällig zu einem teleportiert."
       },
       {
         "code": "wf_act_teleport_to_room",
         "name": "WIRED Effekt: Raumteleportation",
-        "description": "wf_act_teleport_to_room desc"
+        "description": ""
       },
       {
         "code": "wf_act_toggle_state",
@@ -111918,7 +111918,7 @@
       },
       {
         "code": "wf_act_toggle_to_rnd",
-        "name": "WIRED Effekt: Ändere den Zustand des Möbelstücks zufällig",
+        "name": "WIRED Effekt: Zufälliger Möbelzustand",
         "description": "Dieser Effekt ändert den Zustand des ausgewählten Möbelstücks zufällig."
       },
       {
@@ -111928,8 +111928,8 @@
       },
       {
         "code": "wf_act_user_to_furni",
-        "name": "WIRED Effekt: Benutzer zu Möbel bewegen",
-        "description": "wf_act_user_to_furni desc"
+        "name": "WIRED Effekt: User zu Möbel bewegen",
+        "description": ""
       },
       {
         "code": "wf_antenna1",
@@ -112023,13 +112023,13 @@
       },
       {
         "code": "wf_cnd_actor_in_team",
-        "name": "WIRED Zustand: Teammitglied",
+        "name": "WIRED Bedingung: Teammitglied",
         "description": "Zustand geht vorüber, wenn Avatar Mitglied des vordefinierten Teams ist"
       },
       {
         "code": "wf_cnd_counter_time_matches",
-        "name": "WIRED Bedingung: Zähler-Zeit stimmt überein",
-        "description": "wf_cnd_counter_time_matches desc"
+        "name": "WIRED Bedingung: Zeit auf dem Timer stimmt überein",
+        "description": ""
       },
       {
         "code": "wf_cnd_date_rng_active",
@@ -112058,7 +112058,7 @@
       },
       {
         "code": "wf_cnd_has_var",
-        "name": "WIRED Bedingung: hat Variable",
+        "name": "WIRED Bedingung: Hat Variable",
         "description": "wf_cnd_has_var desc"
       },
       {
@@ -112078,7 +112078,7 @@
       },
       {
         "code": "wf_cnd_neg_has_var",
-        "name": "WIRED Negative Bedingung: hat KEINE Variable",
+        "name": "WIRED Negative Bedingung: Hat KEINE Variable",
         "description": "wf_cnd_neg_has_var desc"
       },
       {
@@ -112088,7 +112088,7 @@
       },
       {
         "code": "wf_cnd_not_has_handitem",
-        "name": "WIRED Negative Bedingung: User hat KEINEN Handitem",
+        "name": "WIRED Negative Bedingung: User hat KEIN Handitem",
         "description": "wf_cnd_not_has_handitem desc"
       },
       {
@@ -112118,7 +112118,7 @@
       },
       {
         "code": "wf_cnd_not_stuff_is",
-        "name": "WIRED Bedingung: Möbel stimmt NICHT überein",
+        "name": "WIRED Negative Bedingung: Möbel stimmt NICHT überein",
         "description": "Auslösen ist erlaubt, wenn das auslösende Möbel KEINES der ausgewählten Möbel ist oder NICHT eines der selben Art."
       },
       {
@@ -112168,7 +112168,7 @@
       },
       {
         "code": "wf_cnd_team_has_score",
-        "name": "WIRED Bedingung: Team hat Punkte:",
+        "name": "WIRED Bedingung: Team hat Punktzahl",
         "description": "wf_cnd_team_has_score desc"
       },
       {
@@ -112208,7 +112208,7 @@
       },
       {
         "code": "wf_cnd_valid_moves",
-        "name": "Wired Bedingung: Kann Bewegungen ausführen",
+        "name": "WIRED Bedingung: Kann Bewegungen ausführen",
         "description": "wf_cnd_valid_moves desc"
       },
       {
@@ -112223,13 +112223,13 @@
       },
       {
         "code": "wf_cnd_wearing_badge",
-        "name": "WIRED Zustand: Tragen eines Badges",
-        "description": "WIRED Zustand: Tragen eines Badges"
+        "name": "WIRED Bedingung: User trägt Badge",
+        "description": ""
       },
       {
         "code": "wf_cnd_wearing_effect",
-        "name": "WIRED Zustand: Tragen eines Avatar-Effekts",
-        "description": "WIRED Zustand: Tragen eines Avatar-Effekts"
+        "name": "WIRED Bedingung: User trägt Effekt",
+        "description": ""
       },
       {
         "code": "wf_colortile",
@@ -112303,13 +112303,13 @@
       },
       {
         "code": "wf_game_upcounter1",
-        "name": "WIRED Spielzähler",
-        "description": "wf_game_upcounter1 desc"
+        "name": "WIRED Timer (Spielzähler)",
+        "description": ""
       },
       {
         "code": "wf_game_upcounter2",
-        "name": "WIRED Spielzähler",
-        "description": "wf_game_upcounter2 desc"
+        "name": "WIRED Timer (Spielzähler)",
+        "description": ""
       },
       {
         "code": "wf_glassdoor",
@@ -112683,8 +112683,8 @@
       },
       {
         "code": "wf_trg_clock_counter",
-        "name": "WIRED Auslöser: Zähler erreicht programmierte Zeit",
-        "description": "wf_trg_clock_counter desc"
+        "name": "WIRED Auslöser: Timer erreicht programmierte Zeit",
+        "description": ""
       },
       {
         "code": "wf_trg_collision",
@@ -112693,7 +112693,7 @@
       },
       {
         "code": "wf_trg_enter_room",
-        "name": "WIRED Auslöser: ein Habbo betritt den Raum",
+        "name": "WIRED Auslöser: User betritt den Raum",
         "description": "Effekte werden ausgelöst, wenn ein Habbo den Raum betritt."
       },
       {
@@ -112708,8 +112708,8 @@
       },
       {
         "code": "wf_trg_leave_room",
-        "name": "WIRED Auslöser: Benutzer verlässt Raum",
-        "description": "wf_trg_leave_room desc"
+        "name": "WIRED Auslöser: User verlässt den Raum",
+        "description": ""
       },
       {
         "code": "wf_trg_period_long",
@@ -112738,7 +112738,7 @@
       },
       {
         "code": "wf_trg_says_something",
-        "name": "WIRED Auslöser: Ein Habbo sagt etwas",
+        "name": "WIRED Auslöser: User sagt etwas",
         "description": "Effekte werden ausgelöst, wenn ein Habbo ein bestimmtes Wort/Satz sagt."
       },
       {
@@ -112763,32 +112763,32 @@
       },
       {
         "code": "wf_trg_var_changed",
-        "name": "WIRED Auslöser: geänderte Variable",
+        "name": "WIRED Auslöser: Variable verändert",
         "description": "wf_trg_var_changed desc"
       },
       {
         "code": "wf_trg_walks_off_furni",
-        "name": "WIRED Auslöser: Habbo tritt von einem Gegenstand herunter",
+        "name": "WIRED Auslöser: User tritt von Möbel herunter",
         "description": "Effekte werden ausgelöst, wenn ein Habbo von einem Gegenstand heruntertritt."
       },
       {
         "code": "wf_trg_walks_on_furni",
-        "name": "WIRED Auslöser: Habbo tritt auf Gegenstand",
+        "name": "WIRED Auslöser: User tritt auf Möbel",
         "description": "Effekte werden ausgelöst, wenn ein Habbo auf einen Gegenstand tritt."
       },
       {
         "code": "wf_upcounter1",
-        "name": "WIRED Kleiner Spielzähler",
-        "description": "wf_upcounter1 desc"
+        "name": "WIRED Timer (klein)",
+        "description": ""
       },
       {
         "code": "wf_upcounter2",
-        "name": "Sanduhr-Zähler",
-        "description": "wf_upcounter2 desc"
+        "name": "WIRED Sanduhr (Timer)",
+        "description": ""
       },
       {
         "code": "wf_var_context",
-        "name": "WIRED Variable: Kontext Variable",
+        "name": "WIRED Variable: Kontext-Variable",
         "description": "wf_var_context desc"
       },
       {
@@ -112813,7 +112813,7 @@
       },
       {
         "code": "wf_var_reference",
-        "name": "WIRED Variable: aus einem anderen Raum",
+        "name": "WIRED Variable: Aus einem anderen Raum",
         "description": "wf_var_reference desc"
       },
       {
@@ -112858,7 +112858,7 @@
       },
       {
         "code": "wf_xtra_exec_in_order",
-        "name": "WIRED Add-on: Ausführung in Reihenfolge",
+        "name": "WIRED Extra: Ausführung in Reihenfolge",
         "description": "wf_xtra_exec_in_order desc"
       },
       {
@@ -112903,7 +112903,7 @@
       },
       {
         "code": "wf_xtra_or_eval",
-        "name": "WIRED Extra: Mindestens eine Bedingung ist wahr",
+        "name": "WIRED Extra: Bedingungsoptionen",
         "description": "wf_xtra_or_eval desc"
       },
       {
@@ -112918,17 +112918,17 @@
       },
       {
         "code": "wf_xtra_text_input_variable",
-        "name": "WIRED Text-Add-on: variabler Fänge",
+        "name": "WIRED Text-Extra: Variable erfassen",
         "description": "wf_xtra_text_input_variable desc"
       },
       {
         "code": "wf_xtra_text_output_username",
-        "name": "WIRED Text-Add-on: Benutzername-Platzhalter",
+        "name": "WIRED Text-Extra: Usernamen ausgeben",
         "description": "wf_xtra_text_output_username desc"
       },
       {
         "code": "wf_xtra_text_output_variable",
-        "name": "WIRED Text-Add-on: variabler Platzhalter",
+        "name": "WIRED Text-Extra: Variable ausgeben",
         "description": "wf_xtra_text_output_variable desc"
       },
       {
@@ -112938,17 +112938,17 @@
       },
       {
         "code": "wf_xtra_var_lvlup_system",
-        "name": "Variable Add-on: Level-up System",
+        "name": "Variablen Extra: Levelsystem",
         "description": "wf_xtra_var_lvlup_system desc"
       },
       {
         "code": "wf_xtra_var_text_connector",
-        "name": "Variablen Add-On: Text-Verknüpfung",
+        "name": "Variablen Extra: Text-Verknüpfung",
         "description": "wf_xtra_var_text_connector desc"
       },
       {
         "code": "wf_xtra_var_time_util",
-        "name": "Variable Add-on: Zeit-Nutzen",
+        "name": "Variablen Extra: Zeit-Verknüpfung",
         "description": "wf_xtra_var_time_util desc"
       },
       {
