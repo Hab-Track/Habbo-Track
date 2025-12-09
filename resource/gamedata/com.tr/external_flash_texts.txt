@@ -26175,7 +26175,7 @@ extendedprofile.add.friends.alert.body=Bu bağlantı seni bir arkadaş bulma oda
 extendedprofile.add.friends.alert.title=Odadan ayrılmak istiyor musun?
 extendedprofile.add.friends=Arkadaş ekle
 extendedprofile.addasafriend=Arkadaş ekle
-extendedprofile.block_player.desc=Bu kullanıcıyı yasaklamak istediğine emin misin?Kullanıcı:* Odalarına giremeyecek* Anonim bir hayalet olarak görünecek* Hediye, arkadaşlık isteği gönderemeyecek veya takas başlatamayacak
+extendedprofile.block_player.desc=Bu kullanıcıyı yasaklamak istediğine emin misin?\nKullanıcı:\n* Odalarına giremeyecek\n* Anonim bir hayalet olarak görünecek\n* Hediye, arkadaşlık isteği gönderemeyecek veya takas başlatamayacak
 extendedprofile.block_player.title=Kullanıcıyı yasakla
 extendedprofile.block_player.tooltip=Bu kullanıcıyı yasakla
 extendedprofile.blocked=<b>Drama seviyesi:</b> %100!<br><b>Kullanıcı:</b> yasaklandı.<br><b>Düzen:</b> sağlandı.<br><br><u><a href="event:profile/unblock">Buraya tıklayarak</a></u> kaosa son verebilirsin.
@@ -48399,7 +48399,7 @@ quests.xmas25game1.1763473171479.hint=Bu meydan okumayı tamamlamak için “Ust
 quests.xmas25game1.1763473171479.name=Pengueninizi Talep Edin!
 quests.xmas25game1.name=Penguen Takibi I
 quests.xmas25game2.1763475523502.desc=Kimimanu Pengueni Talep Et!
-quests.xmas25game2.1763475523502.hint=Oyun 2 rozetini takarak bir Kimimanu Pengueni kazan!
+quests.xmas25game2.1763475523502.hint=Bu meydan okumayı tamamlamak için "Kartopu Karşılaşması!" rozetini tak!
 quests.xmas25game2.1763475523502.name=Pengueninizi Talep Edin!
 quests.xmas25game2.name=Penguen Takibi II
 quests.xmas25game3.1763476331490.desc=Buz Pengueni Talep Et!

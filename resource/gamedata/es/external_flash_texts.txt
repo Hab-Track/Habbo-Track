@@ -26045,7 +26045,7 @@ extendedprofile.add.friends.alert.body=Este enlace te llevará a una Sala de bú
 extendedprofile.add.friends.alert.title=¿Salir de Sala?
 extendedprofile.add.friends=Añadir amigos
 extendedprofile.addasafriend=Añadir amig@
-extendedprofile.block_player.desc=¿Estás seguro de que quieres bloquear a este usuario?El usuario será:* Incapaz de entrar en tus salas* Aparecerá como un fantasma anónimo.* Incapaz de enviar regalos, peticiones de amistad o tradear.
+extendedprofile.block_player.desc=¿Estás seguro de que quieres bloquear a este usuario?\nEl usuario será:\n* Incapaz de entrar en tus salas.\n* Aparecerá como un fantasma anónimo.\n* Incapaz de enviar regalos, peticiones de amistad o tradear.
 extendedprofile.block_player.title=Bloquea usuario
 extendedprofile.block_player.tooltip=Bloquear este usuario.
 extendedprofile.blocked=<b>Nivel de drama:</b> 100%!<br><b>Usuario:</b> bloqueado.<br><b>Saldo:</b> restaurado.<br><br><u><a href="event:profile/unblock">Haz clic aquí</a></u> para desatar el caos.
@@ -48107,7 +48107,7 @@ quests.xmas25game1.1763473171479.hint=¡Ponte tu placa "Contador de Patatas Supr
 quests.xmas25game1.1763473171479.name=¡Reclama tu pingüino! 
 quests.xmas25game1.name=La Búsqueda del Pingüino I 
 quests.xmas25game2.1763475523502.desc=¡Reclama un pingüino Kimimanu!
-quests.xmas25game2.1763475523502.hint=¡Ponte la placa del Juego 2 para obtener un Pingüino Kimimanu!
+quests.xmas25game2.1763475523502.hint=¡Ponte tu placa "¡Combate de bolas de nieve!" para completar el Reto!
 quests.xmas25game2.1763475523502.name=¡Reclama tu pingüino!
 quests.xmas25game2.name=La Búsqueda del Pingüino II
 quests.xmas25game3.1763476331490.desc=¡Reclama un Pingüino de Hielo!

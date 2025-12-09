@@ -19440,7 +19440,7 @@ extendedprofile.add.friends.alert.body=Cliccando questo link, lascerai la Stanza
 extendedprofile.add.friends.alert.title=Vuoi lasciare la Stanza?
 extendedprofile.add.friends=Aggiungi Amici
 extendedprofile.addasafriend=Aggiungi Amico
-extendedprofile.block_player.desc=Sei sicuro/a di volver bloccare questo utente?L'utente:* Non potrà entrare nelle tue stanze* Apparirà come un fantasma anonimo* Non potrà inviare regali, richieste di amicizia o avviare scambi
+extendedprofile.block_player.desc=Sei sicuro/a di volver bloccare questo utente?\nL'utente:\n* Non potrà entrare nelle tue stanze\n* Apparirà come un fantasma anonimo\n* Non potrà inviare regali, richieste di amicizia o avviare scambi
 extendedprofile.block_player.title=Blocca utente
 extendedprofile.block_player.tooltip=Blocca questo utente
 extendedprofile.blocked=<b>Livello Dramma:</b> 100%!<br><b>Utente:</b> blockcato.<br><b>Equilibrio:</b>ripristinato.<br><br><u><a href="event:profile/unblock">Clicca qui</a></u> per scatenare il caos.
@@ -41543,7 +41543,7 @@ quests.xmas25game1.1763473171479.hint=Indossa il Distintivo "Contatore di Patate
 quests.xmas25game1.1763473171479.name=Richiedi il tuo Pinguino! 
 quests.xmas25game1.name=Inseguimento Pinguino I 
 quests.xmas25game2.1763475523502.desc=Richiedi un Pinguino Kimimanu! 
-quests.xmas25game2.1763475523502.hint=Indossa il Distintivo del Gioco 2 per ottenere un Pinguino Kimimanu! 
+quests.xmas25game2.1763475523502.hint=Indossa il Distintivo "Battaglia con Palle di neve!" per completare questa Missione!
 quests.xmas25game2.1763475523502.name=Richiedi il tuo Pinguino! 
 quests.xmas25game2.name=Inseguimento Pinguino II
 quests.xmas25game3.1763476331490.desc=Richiedi un Pinguino di Ghiaccio!
