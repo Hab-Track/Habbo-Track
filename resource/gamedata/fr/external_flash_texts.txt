@@ -23105,7 +23105,7 @@ extendedprofile.addasafriend=Ajouter aux amis
 extendedprofile.block_player.desc=Êtes-vous sûr de vouloir bloquer cet utilisateur ?\nL'utilisateur sera :\n* Incapable d'entrer dans vos salles\n* Apparaîtra comme un fantôme anonyme\n* Incapable d'envoyer des cadeaux, des demandes d'amitié ou de commencer des échanges
 extendedprofile.block_player.title=Bloquer l'utilisateur
 extendedprofile.block_player.tooltip=Bloquer cet utilisateur
-extendedprofile.blocked=<b>Niveau de Drame :</b> 100%<br><b>Utilisateur : bloqué</b><br><b>Équilibre :</b>restauré.<br><br><u><a href="événement : profil/déblocage">Cliquez ici</a></u> pour déclencher le chaos.
+extendedprofile.blocked=<b>Niveau de Drame :</b> 100%<br><b>Utilisateur : bloqué</b><br><b>Équilibre :</b>restauré.<br><br><u><a href="event:profile/unblock">Cliquez ici</a></u> pour déclencher le chaos.
 extendedprofile.caption=Profil utilisateur
 extendedprofile.created=<b>Créé </b> %created%
 extendedprofile.friend=Ami
