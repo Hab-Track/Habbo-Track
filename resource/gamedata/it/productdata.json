@@ -3532,6 +3532,11 @@
         "description": "CF_500_champagne desc"
       },
       {
+        "code": "CF_500_duckfigurine",
+        "name": "CF_500_duckfigurine name",
+        "description": "CF_500_duckfigurine desc"
+      },
+      {
         "code": "CF_500_egg",
         "name": "Uovo d'oca Dorato",
         "description": "CF_500_egg desc"
@@ -9033,7 +9038,7 @@
       },
       {
         "code": "a6 wooden_screen",
-        "name": "Schermo orientale oro!",
+        "name": "Schermo orientale oro",
         "description": "Dai un tocco esotico alla tua Stanza"
       },
       {
@@ -31417,6 +31422,21 @@
         "description": "Buon Anno Nuovo Cinese!"
       },
       {
+        "code": "china_horsefigure1",
+        "name": "china_horsefigure1 name",
+        "description": "china_horsefigure1 desc"
+      },
+      {
+        "code": "china_horsefigure2",
+        "name": "china_horsefigure2 name",
+        "description": "china_horsefigure2 desc"
+      },
+      {
+        "code": "china_horsefigure3",
+        "name": "china_horsefigure3 name",
+        "description": "china_horsefigure3 desc"
+      },
+      {
         "code": "china_lantern",
         "name": "Lanterna Cinese",
         "description": "Porta fortuna e... vola!"
@@ -42512,6 +42532,11 @@
         "description": "clothing_r25_yellowaisha desc"
       },
       {
+        "code": "clothing_r26_glitterwings",
+        "name": "clothing_r26_glitterwings name",
+        "description": "clothing_r26_glitterwings desc"
+      },
+      {
         "code": "clothing_raccoonbeanie_bd",
         "name": "Cappellino con Procione",
         "description": ""
@@ -50343,7 +50368,7 @@
       },
       {
         "code": "diner_poster",
-        "name": "diner_poster name",
+        "name": "Le Diner",
         "description": "diner_poster desc"
       },
       {
@@ -83928,7 +83953,7 @@
       },
       {
         "code": "paris15_cake",
-        "name": "La torta Fruttosa di Frank",
+        "name": "Torta Fruttosa di Frank",
         "description": "Frank adora questa torta."
       },
       {
@@ -91057,6 +91082,81 @@
         "description": "rare_prize25_xmas desc"
       },
       {
+        "code": "rare_prize26_0",
+        "name": "rare_prize26_0 name",
+        "description": "rare_prize26_0 desc"
+      },
+      {
+        "code": "rare_prize26_10",
+        "name": "rare_prize26_10 name",
+        "description": "rare_prize26_10 desc"
+      },
+      {
+        "code": "rare_prize26_11",
+        "name": "rare_prize26_11 name",
+        "description": "rare_prize26_11 desc"
+      },
+      {
+        "code": "rare_prize26_12",
+        "name": "rare_prize26_12 name",
+        "description": "rare_prize26_12 desc"
+      },
+      {
+        "code": "rare_prize26_13",
+        "name": "rare_prize26_13 name",
+        "description": "rare_prize26_13 desc"
+      },
+      {
+        "code": "rare_prize26_14",
+        "name": "rare_prize26_14 name",
+        "description": "rare_prize26_14 desc"
+      },
+      {
+        "code": "rare_prize26_1",
+        "name": "rare_prize26_1 name",
+        "description": "rare_prize26_1 desc"
+      },
+      {
+        "code": "rare_prize26_2",
+        "name": "rare_prize26_2 name",
+        "description": "rare_prize26_2 desc"
+      },
+      {
+        "code": "rare_prize26_3",
+        "name": "rare_prize26_3 name",
+        "description": "rare_prize26_3 desc"
+      },
+      {
+        "code": "rare_prize26_4",
+        "name": "rare_prize26_4 name",
+        "description": "rare_prize26_4 desc"
+      },
+      {
+        "code": "rare_prize26_5",
+        "name": "rare_prize26_5 name",
+        "description": "rare_prize26_5 desc"
+      },
+      {
+        "code": "rare_prize26_6",
+        "name": "rare_prize26_6 name",
+        "description": "rare_prize26_6 desc"
+      },
+      {
+        "code": "rare_prize26_7",
+        "name": "rare_prize26_7 name",
+        "description": "rare_prize26_7 desc"
+      },
+      {
+        "code": "rare_prize26_8",
+        "name": "rare_prize26_8 name",
+        "description": "rare_prize26_8 desc"
+      },
+      {
+        "code": "rare_prize26_9",
+        "name": "rare_prize26_9 name",
+        "description": "rare_prize26_9 desc"
+      },
+      {
         "code": "rare_r19_car1_bd",
         "name": "La Macchina di Bonnie Blonde",
         "description": ""
@@ -91350,6 +91450,16 @@
         "code": "rare_r25_tradetrophy",
         "name": "Trofeo Scambio Crediti",
         "description": "rare_r25_tradetrophy desc"
+      },
+      {
+        "code": "rare_r26_goldencontrol",
+        "name": "rare_r26_goldencontrol name",
+        "description": "rare_r26_goldencontrol desc"
+      },
+      {
+        "code": "rare_r26_silverdragonduck",
+        "name": "rare_r26_silverdragonduck name",
+        "description": "rare_r26_silverdragonduck desc"
       },
       {
         "code": "rare_rare_dragonlamp_11_bd",
