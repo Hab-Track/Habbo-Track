@@ -39,10 +39,8 @@ async function formatTxt(dst, res, png_name) {
             const prettyJsonString = JSON.stringify(jsonObject, null, 2)
             await fs.promises.writeFile(dst, prettyJsonString)
         } catch(err) {
-            const message = "Something went wrong while processing: `"+validJsonString+"`"
-            console.error(message)
-            console.error(err)
-            throw new Error(message)
+            console.error("Something went wrong while processing", dst)
+            throw err
         }
     } else if (dst.endsWith('figuredata.txt')) {
         const textContent = await res.text()
