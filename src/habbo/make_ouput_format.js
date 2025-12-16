@@ -34,9 +34,16 @@ async function formatTxt(dst, res, png_name) {
         })
         validJsonString = validJsonString.replace(/[\u0000-\u001F]/g, '')
         validJsonString += ']'
-        const jsonObject = JSON.parse(validJsonString)
-        const prettyJsonString = JSON.stringify(jsonObject, null, 2)
-        await fs.promises.writeFile(dst, prettyJsonString)
+        try {
+            const jsonObject = JSON.parse(validJsonString)
+            const prettyJsonString = JSON.stringify(jsonObject, null, 2)
+            await fs.promises.writeFile(dst, prettyJsonString)
+        } catch(err) {
+            const message = "Something went wrong while processing: `"+validJsonString+"`"
+            console.error(message)
+            console.error(err)
+            throw new Error(message)
+        }
     } else if (dst.endsWith('figuredata.txt')) {
         const textContent = await res.text()
         const regex = new RegExp('([[]{1})"\\w+":', 'g')
