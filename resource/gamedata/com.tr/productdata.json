@@ -36172,6 +36172,11 @@
         "description": ""
       },
       {
+        "code": "clothing_ducketpenguinbackpack",
+        "name": "clothing_ducketpenguinbackpack name",
+        "description": "clothing_ducketpenguinbackpack desc"
+      },
+      {
         "code": "clothing_ducketshirt",
         "name": "Ördek Avcısı Tişörtü",
         "description": "clothing_ducketshirt desc"
@@ -59098,7 +59103,7 @@
       },
       {
         "code": "diner_poster",
-        "name": "Le Diner",
+        "name": "Diner Posteri",
         "description": "Yemek Hazır!"
       },
       {
@@ -60040,6 +60045,21 @@
         "code": "ducket_c25_wovenhammock",
         "name": "Tropikal Hamak",
         "description": "ducket_c25_wovenhammock desc"
+      },
+      {
+        "code": "ducket_c26_cottagecandle",
+        "name": "ducket_c26_cottagecandle name",
+        "description": "ducket_c26_cottagecandle desc"
+      },
+      {
+        "code": "ducket_c26_cottagewreath",
+        "name": "ducket_c26_cottagewreath name",
+        "description": "ducket_c26_cottagewreath desc"
+      },
+      {
+        "code": "ducket_c26_largecottageshelf",
+        "name": "ducket_c26_largecottageshelf name",
+        "description": "ducket_c26_largecottageshelf desc"
       },
       {
         "code": "duckets_100",
