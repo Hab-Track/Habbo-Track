@@ -13,6 +13,9 @@ async function formatTxt(dst, res, png_name) {
             console.error(`Unable to convert ${dst.split('/').pop()} to png`, err);
         }
     }
+    else if (dst.endsWith('.png')) {
+        await pipeline(res.body, fs.createWriteStream(dst));
+    }
     
     else if (dst.endsWith('.json')) {
         try {
