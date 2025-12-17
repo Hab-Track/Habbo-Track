@@ -30,7 +30,7 @@ async function formatTxt(dst, res, png_name) {
             const prettyXml = xmlFormat(text);
             await fs.promises.writeFile(dst, prettyXml);
         } catch (err) {
-            await fs.promises.writeFile(dst, await res.text());
+            await fs.promises.writeFile(dst, text);
         }
     }
 }
