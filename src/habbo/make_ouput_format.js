@@ -8,7 +8,7 @@ async function formatTxt(dst, res, png_name) {
         try {
             const buffer = await res.buffer();
             const pngStream = await swf2png(buffer).then(spritesheet => spritesheet.createPNGStream());
-            pngStream.pipe(fs.createWriteStream(png_name));
+            await pipeline(pngStream, fs.createWriteStream(png_name));
         } catch (err) {
             console.error(`Unable to convert ${dst.split('/').pop()} to png`, err);
         }
