@@ -13007,6 +13007,12 @@
                     <layer parttype="hrb"/>
                 </hiddenlayers>
             </set>
+            <set id="6301" gender="U" club="0" colorable="0" selectable="1" preselectable="0" sellable="1">
+                <part id="7052" type="ha" colorable="0" index="0" colorindex="0"/>
+                <hiddenlayers>
+                    <layer parttype="hrb"/>
+                </hiddenlayers>
+            </set>
             <set id="6302" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="7053" type="ha" colorable="1" index="0" colorindex="1"/>
                 <part id="7054" type="ha" colorable="1" index="1" colorindex="2"/>
