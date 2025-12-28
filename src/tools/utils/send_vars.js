@@ -4,6 +4,7 @@ async function processVars(bot) {
     const fileToMessagesMap = generateDiscordDiffMessages()
 
     for (const [file, messages] of fileToMessagesMap.entries()) {
+        console.time(`Processing vars for ${file} (${messages.length} messages)`);
         if (file.endsWith('furnidata.xml') ||
             file.endsWith('furnidata.txt') ||
             file.endsWith('productdata.xml') ||
@@ -23,6 +24,7 @@ async function processVars(bot) {
 
             bot.queueTextMessage({ content: messageContent }, file);
         }
+        console.timeEnd(`Processing vars for ${file} (${messages.length} messages)`);
     }
 }
 

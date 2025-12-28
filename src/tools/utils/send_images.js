@@ -12,6 +12,7 @@ async function processImages(bot) {
     return;
   }
 
+  console.time(`Processing ${imageFiles.length} image(s)`);
   for (const file of imageFiles) {
     const filePath = path.resolve(file);
     const messageContent = formatName(filePath);
@@ -21,6 +22,7 @@ async function processImages(bot) {
       files: [filePath]
     });
   }
+  console.timeEnd(`Processing ${imageFiles.length} image(s)`);
 }
 
 module.exports = processImages;

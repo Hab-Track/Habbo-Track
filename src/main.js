@@ -46,6 +46,7 @@ async function main() {
 
         if (!command) {
             for (const cmd of commands) {
+                console.time(`Processing cmd ${cmd} (${domains.length} domains)`);
                 if (cmd === 'gamedata') {
                     for (const domain of domains) {
                         await processCommand(cmd, domain, bot, prod_version);
@@ -53,18 +54,23 @@ async function main() {
                 } else {
                     await processCommand(cmd, null, bot, prod_version);
                 }
+                console.timeEnd(`Processing cmd ${cmd} (${domains.length} domains)`);
             }
         } else if (command === 'gamedata') {
+            console.time(`Processing gamedata (${domains.length} domains)`);
             for (const domain of domains) {
                 await processCommand(command, domain, bot, prod_version);
             }
+            console.timeEnd(`Processing gamedata (${domains.length} domains)`);
         } else {
             await processCommand(command, null, bot, prod_version);
         }
 
         await processVars(bot);
         await processImages(bot);
+        console.time('Sending all messages');
         await bot.sendAllMessages();
+        console.timeEnd('Sending all messages');
     } catch (err) {
         console.error("huehuebr") // I forgot this lmao
         console.error(err)
