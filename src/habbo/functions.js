@@ -30,7 +30,7 @@ async function fileExists(file) {
 }
 
 function fetchRaw(src) {
-  return fetch(src, opt)
+  return fetch(src)
     .then((response) => {
       if (response.ok) {
         return response;
