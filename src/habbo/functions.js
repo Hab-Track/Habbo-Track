@@ -4,6 +4,7 @@ const path = require('path')
 const fs = require('fs')
 const { XMLParser } = require('fast-xml-parser')
 const { formatTxt } = require('./make_ouput_format')
+const retry = require('../utils/retry')
 
 const opt = {
   agent: new https.Agent({
@@ -29,16 +30,25 @@ async function fileExists(file) {
   }
 }
 
-function fetchRaw(src) {
-  return fetch(src)
-    .then((response) => {
-      if (response.ok) {
-        return response;
-      }
-    })
-    .catch((err) => {
-      console.error(err.message);
-    });
+async function fetchRaw(src, opt) {
+  return retry(async () => {
+    const response = await fetch(src, opt);
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status} – ${response.statusText}`);
+    }
+
+    return response;
+  }, {
+    retries: 3,
+    delay: 500,
+    backoff: 2,
+    onRetry: (err, attempt) => {
+      console.error(`Retry ${attempt} failed: ${err.message}`);
+    }
+  }).catch((err) => {
+    console.error(`All retry attempts failed for ${src}: ${err.message}`);
+  });;
 }
 
 async function fetchText(src) {
