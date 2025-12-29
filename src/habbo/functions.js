@@ -50,7 +50,7 @@ async function fetchRaw(src, opt) {
       console.error(`Retry ${attempt} failed: ${err.message}`);
     }
   }).catch((err) => {
-    if (!err.message?.includes('Status 404')) {
+    if (!err.message?.includes('HTTP 404')) {
       console.error(`All retry attempts failed for ${src}: ${err.message}`);
     }
   });;
