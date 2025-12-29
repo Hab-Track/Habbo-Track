@@ -32917,6 +32917,16 @@
         "description": ""
       },
       {
+        "code": "cl_r26_glitterwings_bd",
+        "name": "Glitter Wings",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_minielephant_bd",
+        "name": "Mini Grey Elephant",
+        "description": ""
+      },
+      {
         "code": "cl_sharebearoutfit_bd",
         "name": "Share Bear Outfit",
         "description": ""
@@ -35088,7 +35098,7 @@
       },
       {
         "code": "clothing_cnyhorse",
-        "name": "clothing_cnyhorse name",
+        "name": "Horse Accessories",
         "description": "clothing_cnyhorse desc"
       },
       {
@@ -43143,8 +43153,13 @@
       },
       {
         "code": "clothing_r26_glitterwings",
-        "name": "clothing_r26_glitterwings name",
+        "name": "Glitter Wings",
         "description": "clothing_r26_glitterwings desc"
+      },
+      {
+        "code": "clothing_r26_minielephant",
+        "name": "Mini Grey Elephant",
+        "description": ""
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -98237,13 +98252,23 @@
         "description": "rare_r25_tradetrophy desc"
       },
       {
+        "code": "rare_r26_dragonduck__bd",
+        "name": "Silver Ducky Lamp",
+        "description": ""
+      },
+      {
+        "code": "rare_r26_goldencontrol_bd",
+        "name": "The Golden Controller",
+        "description": ""
+      },
+      {
         "code": "rare_r26_goldencontrol",
-        "name": "rare_r26_goldencontrol name",
+        "name": "The Golden Controller",
         "description": "rare_r26_goldencontrol desc"
       },
       {
         "code": "rare_r26_silverdragonduck",
-        "name": "rare_r26_silverdragonduck name",
+        "name": "Silver Ducky Lamp",
         "description": "rare_r26_silverdragonduck desc"
       },
       {
@@ -107459,7 +107484,7 @@
       {
         "code": "rotating_roomdeal387",
         "name": "Space Station Bundle",
-        "description": "We're exploring space! The great unknown is becoming more known. This bundle includes brand new furni that you won't be able to get anywhere else."
+        "description": "We're exploring space! The great unknown is becoming more known. This bundle includes furni that you won't be able to get anywhere else."
       },
       {
         "code": "rotating_roomdeal388_10c",

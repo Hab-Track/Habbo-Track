@@ -33137,6 +33137,16 @@
         "description": ""
       },
       {
+        "code": "cl_r26_glitterwings_bd",
+        "name": "Säihkyvät siivet",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_minielephant_bd",
+        "name": "Harmaa miniatyyrinorsu",
+        "description": ""
+      },
+      {
         "code": "cl_sharebearoutfit_bd",
         "name": "Anteliaan asu",
         "description": ""
@@ -35303,7 +35313,7 @@
       },
       {
         "code": "clothing_cnyhorse",
-        "name": "clothing_cnyhorse name",
+        "name": "Hevosasusteet",
         "description": "clothing_cnyhorse desc"
       },
       {
@@ -43368,8 +43378,13 @@
       },
       {
         "code": "clothing_r26_glitterwings",
-        "name": "clothing_r26_glitterwings name",
+        "name": "Säihkyvät siivet",
         "description": "clothing_r26_glitterwings desc"
+      },
+      {
+        "code": "clothing_r26_minielephant",
+        "name": "Harmaa miniatyyrinorsu",
+        "description": ""
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -91637,13 +91652,23 @@
         "description": "rare_r25_tradetrophy desc"
       },
       {
+        "code": "rare_r26_dragonduck__bd",
+        "name": "Hopeinen ankkalamppu",
+        "description": ""
+      },
+      {
+        "code": "rare_r26_goldencontrol_bd",
+        "name": "Kultainen ohjain",
+        "description": ""
+      },
+      {
         "code": "rare_r26_goldencontrol",
-        "name": "rare_r26_goldencontrol name",
+        "name": "Kultainen ohjain",
         "description": "rare_r26_goldencontrol desc"
       },
       {
         "code": "rare_r26_silverdragonduck",
-        "name": "rare_r26_silverdragonduck name",
+        "name": "Hopeinen ankkalamppu",
         "description": "rare_r26_silverdragonduck desc"
       },
       {
@@ -100859,7 +100884,7 @@
       {
         "code": "rotating_roomdeal387",
         "name": "Avaruusasema-huonepaketti",
-        "description": "Avaruutta tutkimassa! Suuri tuntematon, joka käy pala palaselta tutummaksi. Paketti sisältää upouusia kamoja, joita et saa mistään muualta."
+        "description": "Avaruutta tutkimassa! Suuri tuntematon, joka käy pala palaselta tutummaksi. Paketti sisältää kamoja, joita et saa mistään muualta."
       },
       {
         "code": "rotating_roomdeal388_10c",

@@ -32327,6 +32327,16 @@
         "description": ""
       },
       {
+        "code": "cl_r26_glitterwings_bd",
+        "name": "Alas Brillantes",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_minielephant_bd",
+        "name": "Mini Elefante Gris",
+        "description": ""
+      },
+      {
         "code": "cl_sharebearoutfit_bd",
         "name": "Traje Generosita de Osos Amorosos",
         "description": ""
@@ -34503,7 +34513,7 @@
       },
       {
         "code": "clothing_cnyhorse",
-        "name": "clothing_cnyhorse name",
+        "name": "Accesorios para Caballos",
         "description": "clothing_cnyhorse desc"
       },
       {
@@ -42583,8 +42593,13 @@
       },
       {
         "code": "clothing_r26_glitterwings",
-        "name": "clothing_r26_glitterwings name",
+        "name": "Alas Brillantes",
         "description": "clothing_r26_glitterwings desc"
+      },
+      {
+        "code": "clothing_r26_minielephant",
+        "name": "Mini Elefante Gris",
+        "description": ""
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -91252,13 +91267,23 @@
         "description": "rare_r25_tradetrophy desc"
       },
       {
+        "code": "rare_r26_dragonduck__bd",
+        "name": "Patito de Fuego Plateado",
+        "description": ""
+      },
+      {
+        "code": "rare_r26_goldencontrol_bd",
+        "name": "Palanca de Mando Dorada",
+        "description": ""
+      },
+      {
         "code": "rare_r26_goldencontrol",
-        "name": "rare_r26_goldencontrol name",
+        "name": "Palanca de Mando Dorada",
         "description": "rare_r26_goldencontrol desc"
       },
       {
         "code": "rare_r26_silverdragonduck",
-        "name": "rare_r26_silverdragonduck name",
+        "name": "Patito de Fuego Plateado",
         "description": "rare_r26_silverdragonduck desc"
       },
       {
@@ -100449,7 +100474,7 @@
       {
         "code": "rotating_roomdeal387",
         "name": "Lote Estación Espacial",
-        "description": "¡Estamos explorando el espacio! El gran desconocido te va a resultar un poco más familiar. Este lote incluye furnis nuevos que no podrás conseguir en ningún otro sitio."
+        "description": "¡Estamos explorando el espacio! El gran desconocido te va a resultar un poco más familiar. Este lote incluye furnis que no podrás conseguir en ningún otro sitio."
       },
       {
         "code": "rotating_roomdeal388_10c",

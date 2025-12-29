@@ -32537,6 +32537,16 @@
         "description": ""
       },
       {
+        "code": "cl_r26_glitterwings_bd",
+        "name": "Asas de Glitter",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_minielephant_bd",
+        "name": "Mini Elefante Cinzento",
+        "description": ""
+      },
+      {
         "code": "cl_sharebearoutfit_bd",
         "name": "Ursinhos Carinhosos Altruísta",
         "description": ""
@@ -34713,7 +34723,7 @@
       },
       {
         "code": "clothing_cnyhorse",
-        "name": "clothing_cnyhorse name",
+        "name": "Acessórios de Cavalo",
         "description": "clothing_cnyhorse desc"
       },
       {
@@ -42788,8 +42798,13 @@
       },
       {
         "code": "clothing_r26_glitterwings",
-        "name": "clothing_r26_glitterwings name",
+        "name": "Asas de Glitter",
         "description": "clothing_r26_glitterwings desc"
+      },
+      {
+        "code": "clothing_r26_minielephant",
+        "name": "Mini Elefante Cinzento",
+        "description": ""
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -91607,13 +91622,23 @@
         "description": "rare_r25_tradetrophy desc"
       },
       {
+        "code": "rare_r26_dragonduck__bd",
+        "name": "Lâmpada de Patinho Prateada",
+        "description": ""
+      },
+      {
+        "code": "rare_r26_goldencontrol_bd",
+        "name": "O Controle Dourado",
+        "description": ""
+      },
+      {
         "code": "rare_r26_goldencontrol",
-        "name": "rare_r26_goldencontrol name",
+        "name": "O Controle Dourado",
         "description": "rare_r26_goldencontrol desc"
       },
       {
         "code": "rare_r26_silverdragonduck",
-        "name": "rare_r26_silverdragonduck name",
+        "name": "Lâmpada de Patinho Prateada",
         "description": "rare_r26_silverdragonduck desc"
       },
       {
@@ -100819,7 +100844,7 @@
       {
         "code": "rotating_roomdeal387",
         "name": "Pack Estação Espacial",
-        "description": "Estamos explorando o espaço! O grande desconhecido torna-se cada vez mais compreensível e nos aproximamos da fronteira final! Este pack inclui mobis novinhos em folha que você não encontrará em nenhum outro lugar."
+        "description": "Estamos explorando o espaço! O grande desconhecido torna-se cada vez mais compreensível e nos aproximamos da fronteira final! Este pack inclui mobis em folha que você não encontrará em nenhum outro lugar."
       },
       {
         "code": "rotating_roomdeal388_10c",

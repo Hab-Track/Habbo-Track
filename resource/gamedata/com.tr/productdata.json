@@ -3252,6 +3252,11 @@
         "description": "CF_250_fancywatch desc"
       },
       {
+        "code": "CF_250_flowerperfume",
+        "name": "Altın Çiçek Kokulu Parfüm",
+        "description": ""
+      },
+      {
         "code": "CF_250_frogprince",
         "name": "Altın Kurbağa Prens",
         "description": "CF_250_frogprince desc"
@@ -3270,6 +3275,11 @@
         "code": "CF_250_goldenfloor",
         "name": "Altın Tuğla Zemin",
         "description": "CF_250_goldenfloor desc"
+      },
+      {
+        "code": "CF_250_goldenh",
+        "name": "Altın Habbo H'si",
+        "description": ""
       },
       {
         "code": "CF_250_helix",
@@ -3322,6 +3332,11 @@
         "description": "350 Kredi değerinde"
       },
       {
+        "code": "CF_350_emergencyduck",
+        "name": "Acil Durum Altın Ördekçik",
+        "description": ""
+      },
+      {
         "code": "CF_350_geode",
         "name": "Prime Geode",
         "description": "CF_350_geode desc"
@@ -3335,6 +3350,11 @@
         "code": "CF_350_glass",
         "name": "Bubblejuice Klas Cam Bardak",
         "description": "CF_350_glass desc"
+      },
+      {
+        "code": "CF_350_goldenbranch",
+        "name": "Altın Kiraz Çiçeği",
+        "description": ""
       },
       {
         "code": "CF_350_goldendecanter",
@@ -3378,7 +3398,7 @@
       },
       {
         "code": "CF_500_duckfigurine",
-        "name": "CF_500_duckfigurine name",
+        "name": "Altın Ördekçik",
         "description": "CF_500_duckfigurine desc"
       },
       {
@@ -3480,6 +3500,11 @@
         "code": "CF_750_goldenshower",
         "name": "Altın Duş",
         "description": "CF_750_goldenshower desc"
+      },
+      {
+        "code": "CF_750_goldenskull",
+        "name": "Altın Kafatası",
+        "description": ""
       },
       {
         "code": "CF_750_goldentoast",
@@ -29217,6 +29242,26 @@
         "description": "bonusbag25_4 desc"
       },
       {
+        "code": "bonusbag26_1",
+        "name": "Bonus Çanta I",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_2",
+        "name": "Bonus Çanta II",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_3",
+        "name": "Bonus Çanta III",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_4",
+        "name": "Bonus Çanta IV",
+        "description": ""
+      },
+      {
         "code": "bonusrare16_1_1",
         "name": "Nane Vazo",
         "description": "Gözlerinizi bu bal kabağı desenlerden alamayacaksınız"
@@ -30513,23 +30558,123 @@
       },
       {
         "code": "bonusrare25_4_2",
-        "name": "Mavi Ördek Halı",
+        "name": "Tatlı Uzaylı Bebek",
         "description": "bonusrare25_4_2 desc"
       },
       {
         "code": "bonusrare25_4_3",
-        "name": "Fuşya Ördek Halı",
+        "name": "Harika Uzaylı Bebek",
         "description": "bonusrare25_4_3 desc"
       },
       {
         "code": "bonusrare25_4_4",
-        "name": "Kireç Rengi Ördek Halı",
+        "name": "Sıcak Uzaylı Bebek",
         "description": "bonusrare25_4_4 desc"
       },
       {
         "code": "bonusrare25_4_5",
-        "name": "Kırmızı Ördek Halı",
+        "name": "Karanlık Uzaylı Bebek",
         "description": "bonusrare25_4_5 desc"
+      },
+      {
+        "code": "bonusrare26_1_0",
+        "name": "Gümüş DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_1",
+        "name": "Pembe DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_2",
+        "name": "Mavi DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_3",
+        "name": "Yeşil DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_4",
+        "name": "Mor DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_5",
+        "name": "Siyah DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_0",
+        "name": "Turuncu Kawaii Kedi Baskısı",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_1",
+        "name": "Mor Kawaii Kedi Baskısı",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_2",
+        "name": "Pembe Kawaii Kedi Baskısı",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_3",
+        "name": "Yeşil Kawaii Kedi Baskısı",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_4",
+        "name": "Mavi Kawaii Kedi Baskısı",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_5",
+        "name": "Gri Kawaii Kedi Baskısı",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_0",
+        "name": "Yakut Taş",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_1",
+        "name": "Ametist Taş",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_2",
+        "name": "Safir Taş",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_3",
+        "name": "Kehribar Taş",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_4",
+        "name": "Topaz Taş",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_5",
+        "name": "Zümrüt Taş",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_4_0",
+        "name": "Radyoaktif Uzaylı Bebek",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_4_1",
+        "name": "Elektrik Uzaylı Bebek",
+        "description": ""
       },
       {
         "code": "bonusrare_april16",
@@ -33397,6 +33542,16 @@
         "description": ""
       },
       {
+        "code": "cl_r26_glitterwings_bd",
+        "name": "Simli Kanatlar",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_minielephant_bd",
+        "name": "Mini Gri Fil",
+        "description": ""
+      },
+      {
         "code": "cl_sharebearoutfit_bd",
         "name": "Share Bear Kıyafeti",
         "description": ""
@@ -35568,7 +35723,7 @@
       },
       {
         "code": "clothing_cnyhorse",
-        "name": "clothing_cnyhorse name",
+        "name": "Atlı Aksesuarlar",
         "description": "clothing_cnyhorse desc"
       },
       {
@@ -43633,8 +43788,13 @@
       },
       {
         "code": "clothing_r26_glitterwings",
-        "name": "clothing_r26_glitterwings name",
+        "name": "Simli Kanatlar",
         "description": "clothing_r26_glitterwings desc"
+      },
+      {
+        "code": "clothing_r26_minielephant",
+        "name": "Mini Gri Fil",
+        "description": ""
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -58512,6 +58672,31 @@
         "description": "diamond_painting111 desc"
       },
       {
+        "code": "diamond_painting112",
+        "name": "Her şey Bobba Tablosu",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting113",
+        "name": "Hug Yourself Tablosu",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting114",
+        "name": "Sisli Frank Tablosu",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting115",
+        "name": "Habbo'nun Savunması Tablosu",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting116",
+        "name": "Tall n' Salty Tablosu",
+        "description": ""
+      },
+      {
         "code": "diamond_painting11",
         "name": "Kırmızı Atkılı Adam",
         "description": "Ressam Duckstide Duckant"
@@ -69668,62 +69853,62 @@
       },
       {
         "code": "hc26_10",
-        "name": "hc26_10 name",
+        "name": "HK Ultra Modern Sandalye",
         "description": "hc26_10 desc"
       },
       {
         "code": "hc26_11",
-        "name": "hc26_11 name",
+        "name": "HK Ultra Modern CEO Sandalyesi",
         "description": "hc26_11 desc"
       },
       {
         "code": "hc26_12",
-        "name": "hc26_12 name",
+        "name": "HK Ultra Modern CEO Koltuğu",
         "description": "hc26_12 desc"
       },
       {
         "code": "hc26_1",
-        "name": "hc26_1 name",
+        "name": "HK Ultra Modern Paravan",
         "description": "hc26_1 desc"
       },
       {
         "code": "hc26_2",
-        "name": "hc26_2 name",
+        "name": "HK Ultra Modern Basamak",
         "description": "hc26_2 desc"
       },
       {
         "code": "hc26_3",
-        "name": "hc26_3 name",
+        "name": "HK Ultra Modern Kahve Sehpası",
         "description": "hc26_3 desc"
       },
       {
         "code": "hc26_4",
-        "name": "hc26_4 name",
+        "name": "Dalmaçyalı Yavru Köpek",
         "description": "hc26_4 desc"
       },
       {
         "code": "hc26_5",
-        "name": "hc26_5 name",
+        "name": "HK Ultra Modern Koltuk",
         "description": "hc26_5 desc"
       },
       {
         "code": "hc26_6",
-        "name": "hc26_6 name",
+        "name": "HK Ultra Modern Kitaplık",
         "description": "hc26_6 desc"
       },
       {
         "code": "hc26_7",
-        "name": "hc26_7 name",
+        "name": "HK Ultra Modern Ünite",
         "description": "hc26_7 desc"
       },
       {
         "code": "hc26_8",
-        "name": "hc26_8 name",
+        "name": "HK Köpek Heykeli",
         "description": "hc26_8 desc"
       },
       {
         "code": "hc26_9",
-        "name": "hc26_9 name",
+        "name": "HK Yüzlü Vazo",
         "description": "hc26_9 desc"
       },
       {
@@ -100663,77 +100848,77 @@
       },
       {
         "code": "rare_prize26_0",
-        "name": "rare_prize26_0 name",
+        "name": "Ten Kaplan Yavrusu",
         "description": "rare_prize26_0 desc"
       },
       {
         "code": "rare_prize26_10",
-        "name": "rare_prize26_10 name",
+        "name": "Safir Kaplan Yavrusu",
         "description": "rare_prize26_10 desc"
       },
       {
         "code": "rare_prize26_11",
-        "name": "rare_prize26_11 name",
+        "name": "Yeşim Kaplan Yavrusu",
         "description": "rare_prize26_11 desc"
       },
       {
         "code": "rare_prize26_12",
-        "name": "rare_prize26_12 name",
+        "name": "İnci Kaplan Yavrusu",
         "description": "rare_prize26_12 desc"
       },
       {
         "code": "rare_prize26_13",
-        "name": "rare_prize26_13 name",
+        "name": "Turkuaz Kaplan Yavrusu",
         "description": "rare_prize26_13 desc"
       },
       {
         "code": "rare_prize26_14",
-        "name": "rare_prize26_14 name",
+        "name": "Pembe Kaplan Yavrusu",
         "description": "rare_prize26_14 desc"
       },
       {
         "code": "rare_prize26_1",
-        "name": "rare_prize26_1 name",
+        "name": "Yakut Kaplan Yavrusu",
         "description": "rare_prize26_1 desc"
       },
       {
         "code": "rare_prize26_2",
-        "name": "rare_prize26_2 name",
+        "name": "Obsidyen Kaplan Yavrusu",
         "description": "rare_prize26_2 desc"
       },
       {
         "code": "rare_prize26_3",
-        "name": "rare_prize26_3 name",
+        "name": "Sitrin Kaplan Yavrusu",
         "description": "rare_prize26_3 desc"
       },
       {
         "code": "rare_prize26_4",
-        "name": "rare_prize26_4 name",
+        "name": "Ametist Kaplan Yavrusu",
         "description": "rare_prize26_4 desc"
       },
       {
         "code": "rare_prize26_5",
-        "name": "rare_prize26_5 name",
+        "name": "Turuncu Kaplan Yavrusu",
         "description": "rare_prize26_5 desc"
       },
       {
         "code": "rare_prize26_6",
-        "name": "rare_prize26_6 name",
+        "name": "Zümrüt Kaplan Yavrusu",
         "description": "rare_prize26_6 desc"
       },
       {
         "code": "rare_prize26_7",
-        "name": "rare_prize26_7 name",
+        "name": "Tanzanit Kaplan Yavrusu",
         "description": "rare_prize26_7 desc"
       },
       {
         "code": "rare_prize26_8",
-        "name": "rare_prize26_8 name",
+        "name": "Akuamarin Kaplan Yavrusu",
         "description": "rare_prize26_8 desc"
       },
       {
         "code": "rare_prize26_9",
-        "name": "rare_prize26_9 name",
+        "name": "Rodokrozit Kaplan Yavrusu",
         "description": "rare_prize26_9 desc"
       },
       {
@@ -101032,13 +101217,23 @@
         "description": "rare_r25_tradetrophy desc"
       },
       {
+        "code": "rare_r26_dragonduck__bd",
+        "name": "Gümüş Ördekçik Lamba",
+        "description": ""
+      },
+      {
+        "code": "rare_r26_goldencontrol_bd",
+        "name": "Altın Kumanda",
+        "description": ""
+      },
+      {
         "code": "rare_r26_goldencontrol",
-        "name": "rare_r26_goldencontrol name",
+        "name": "Altın Kumanda",
         "description": "rare_r26_goldencontrol desc"
       },
       {
         "code": "rare_r26_silverdragonduck",
-        "name": "rare_r26_silverdragonduck name",
+        "name": "Gümüş Ördekçik Lamba",
         "description": "rare_r26_silverdragonduck desc"
       },
       {
@@ -110264,7 +110459,7 @@
       {
         "code": "rotating_roomdeal387",
         "name": "Uzay İstasyonu Paketi",
-        "description": "Uzayı keşfediyoruz! Bilinmezlikleri çözüyoruz. Bu paket, başka hiçbir yerde bulamayacağınız yepyeni mobiler içeriyor."
+        "description": "Uzayı keşfediyoruz! Bilinmezlikleri çözüyoruz. Bu paket, başka hiçbir yerde bulamayacağınız mobiler içeriyor."
       },
       {
         "code": "rotating_roomdeal388_10c",

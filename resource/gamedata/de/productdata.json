@@ -31942,6 +31942,16 @@
         "description": ""
       },
       {
+        "code": "cl_r26_glitterwings_bd",
+        "name": "Glitterflügel",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_minielephant_bd",
+        "name": "Grauer Mini-Elefant",
+        "description": ""
+      },
+      {
         "code": "cl_sharebearoutfit_bd",
         "name": "Teile-gern-Bärchi-Outfit",
         "description": ""
@@ -34108,7 +34118,7 @@
       },
       {
         "code": "clothing_cnyhorse",
-        "name": "clothing_cnyhorse name",
+        "name": "Pferdezubehör",
         "description": "clothing_cnyhorse desc"
       },
       {
@@ -42173,8 +42183,13 @@
       },
       {
         "code": "clothing_r26_glitterwings",
-        "name": "clothing_r26_glitterwings name",
+        "name": "Glitterflügel",
         "description": "clothing_r26_glitterwings desc"
+      },
+      {
+        "code": "clothing_r26_minielephant",
+        "name": "Grauer Mini-Elefant",
+        "description": ""
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -90737,13 +90752,23 @@
         "description": "rare_r25_tradetrophy desc"
       },
       {
+        "code": "rare_r26_dragonduck__bd",
+        "name": "Silberne Entenlampe",
+        "description": ""
+      },
+      {
+        "code": "rare_r26_goldencontrol_bd",
+        "name": "Der goldene Controller",
+        "description": ""
+      },
+      {
         "code": "rare_r26_goldencontrol",
-        "name": "rare_r26_goldencontrol name",
+        "name": "Der goldene Controller",
         "description": "rare_r26_goldencontrol desc"
       },
       {
         "code": "rare_r26_silverdragonduck",
-        "name": "rare_r26_silverdragonduck name",
+        "name": "Silberne Entenlampe",
         "description": "rare_r26_silverdragonduck desc"
       },
       {
@@ -99934,7 +99959,7 @@
       {
         "code": "rotating_roomdeal387",
         "name": "Raumstation-Bündel",
-        "description": "Wir erkunden den Weltraum! Das Unbekannte wird ein bisschen bekannter. Dieses Bündel enthält brandneue Möbel, die du nirgendwo anders bekommen kannst."
+        "description": "Wir erkunden den Weltraum! Das Unbekannte wird ein bisschen bekannter. Dieses Bündel enthält Möbel, die du nirgendwo anders bekommen kannst."
       },
       {
         "code": "rotating_roomdeal388_10c",
