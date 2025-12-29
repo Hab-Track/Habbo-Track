@@ -17,6 +17,10 @@ async function retry(fn, {
     } catch (err) {
       lastError = err;
 
+      if (err?.status === 404) {
+        throw err;
+      }
+
       if (attempt === retries) break;
 
       onRetry(err, attempt + 1);
