@@ -3077,6 +3077,11 @@
         "description": "CF_250_fancywatch desc"
       },
       {
+        "code": "CF_250_flowerperfume",
+        "name": "Kultainen kukkaparfyymi",
+        "description": ""
+      },
+      {
         "code": "CF_250_frogprince",
         "name": "Kultainen sammakkoprinssi",
         "description": "CF_250_frogprince desc"
@@ -3095,6 +3100,11 @@
         "code": "CF_250_goldenfloor",
         "name": "Kultainen tiililattia",
         "description": "CF_250_goldenfloor desc"
+      },
+      {
+        "code": "CF_250_goldenh",
+        "name": "Kultainen Habbo-H",
+        "description": ""
       },
       {
         "code": "CF_250_helix",
@@ -3147,6 +3157,11 @@
         "description": "Arvoltaan 350 kolikkoa"
       },
       {
+        "code": "CF_350_emergencyduck",
+        "name": "Kultainen hätävara-ankka",
+        "description": ""
+      },
+      {
         "code": "CF_350_geode",
         "name": "Ensiluokkainen geodi",
         "description": "CF_350_geode desc"
@@ -3160,6 +3175,11 @@
         "code": "CF_350_glass",
         "name": "Kuplajuoma lasi",
         "description": "CF_350_glass desc"
+      },
+      {
+        "code": "CF_350_goldenbranch",
+        "name": "Kultainen sakura",
+        "description": ""
       },
       {
         "code": "CF_350_goldendecanter",
@@ -3208,7 +3228,7 @@
       },
       {
         "code": "CF_500_duckfigurine",
-        "name": "CF_500_duckfigurine name",
+        "name": "Kultainen ankka-avaimenperä",
         "description": "CF_500_duckfigurine desc"
       },
       {
@@ -3310,6 +3330,11 @@
         "code": "CF_750_goldenshower",
         "name": "Kultainen suihku",
         "description": "CF_750_goldenshower desc"
+      },
+      {
+        "code": "CF_750_goldenskull",
+        "name": "Kultainen kallo",
+        "description": ""
       },
       {
         "code": "CF_750_goldentoast",
@@ -28847,6 +28872,26 @@
         "description": "bonusbag25_4 desc"
       },
       {
+        "code": "bonusbag26_1",
+        "name": "Bonussäkki I",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_2",
+        "name": "Bonussäkki II",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_3",
+        "name": "Bonussäkki III",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_4",
+        "name": "Bonussäkki IV",
+        "description": ""
+      },
+      {
         "code": "bonusrare16_1_1",
         "name": "Minttu maljakko",
         "description": "Kurpitsaa, kurpitsaa"
@@ -30143,23 +30188,123 @@
       },
       {
         "code": "bonusrare25_4_2",
-        "name": "Sininen ankkaryijy",
+        "name": "Pinkki ufo-vauva",
         "description": "bonusrare25_4_2 desc"
       },
       {
         "code": "bonusrare25_4_3",
-        "name": "Fuksia ankkaryijy",
+        "name": "Violetti ufo-vauva",
         "description": "bonusrare25_4_3 desc"
       },
       {
         "code": "bonusrare25_4_4",
-        "name": "Limetti ankkaryijy",
+        "name": "Kultainen ufo-vauva",
         "description": "bonusrare25_4_4 desc"
       },
       {
         "code": "bonusrare25_4_5",
-        "name": "Punainen ankkaryijy",
+        "name": "Tumma ufo-vauva",
         "description": "bonusrare25_4_5 desc"
+      },
+      {
+        "code": "bonusrare26_1_0",
+        "name": "Hopeinen DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_1",
+        "name": "Pinkki DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_2",
+        "name": "Sininen DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_3",
+        "name": "Vihreä DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_4",
+        "name": "Violetti DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_5",
+        "name": "Musta DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_0",
+        "name": "Oranssi Kawaii-kissajuliste",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_1",
+        "name": "Violetti Kawaii-kissajuliste",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_2",
+        "name": "Pinkki Kawaii-kissajuliste",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_3",
+        "name": "Vihreä Kawaii-kissajuliste",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_4",
+        "name": "Sininen Kawaii-kissajuliste",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_5",
+        "name": "Harmaa Kawaii-kissajuliste",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_0",
+        "name": "Rubiinijalokivi",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_1",
+        "name": "Ametistijalokivi",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_2",
+        "name": "Safiirijalokivi",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_3",
+        "name": "Meripihkajalokivi",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_4",
+        "name": "Topaasijalokivi",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_5",
+        "name": "Smaragdijalokivi",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_4_0",
+        "name": "Limetinvihreä ufo-vauva",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_4_1",
+        "name": "Sähkönsininen ufo-vauva",
+        "description": ""
       },
       {
         "code": "bonusrare_april16",
@@ -32083,17 +32228,17 @@
       },
       {
         "code": "china_horsefigure1",
-        "name": "china_horsefigure1 name",
+        "name": "Obsidiaaniheppa",
         "description": "china_horsefigure1 desc"
       },
       {
         "code": "china_horsefigure2",
-        "name": "china_horsefigure2 name",
+        "name": "Marmoriheppa",
         "description": "china_horsefigure2 desc"
       },
       {
         "code": "china_horsefigure3",
-        "name": "china_horsefigure3 name",
+        "name": "Kultaheppa",
         "description": "china_horsefigure3 desc"
       },
       {
@@ -35768,7 +35913,7 @@
       },
       {
         "code": "clothing_ducketpenguinbackpack",
-        "name": "clothing_ducketpenguinbackpack name",
+        "name": "Pullea pingviinireppu",
         "description": "clothing_ducketpenguinbackpack desc"
       },
       {
@@ -36200,6 +36345,11 @@
         "code": "clothing_funshinebearoutfit",
         "name": "Aurinkoisen asu",
         "description": "clothing_funshinebearoutfit desc"
+      },
+      {
+        "code": "clothing_gamertee",
+        "name": "Habbo Gamer -t-paita",
+        "description": ""
       },
       {
         "code": "clothing_gardenapron",
@@ -39200,6 +39350,11 @@
         "code": "clothing_nftshortdreads",
         "name": "Lyhyet rastat",
         "description": "clothing_nftshortdreads desc"
+      },
+      {
+        "code": "clothing_nftshoulderdragon1",
+        "name": "Punainen lohikäärmekumppani",
+        "description": ""
       },
       {
         "code": "clothing_nftsilkbandana",
@@ -49792,6 +49947,31 @@
         "description": "diamond_painting111 desc"
       },
       {
+        "code": "diamond_painting112",
+        "name": "Voihan höpö",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting113",
+        "name": "Hali itsellesi",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting114",
+        "name": "Sumuinen Frank",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting115",
+        "name": "Habbon puolustus",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting116",
+        "name": "Pieni ja pippurinen",
+        "description": ""
+      },
+      {
         "code": "diamond_painting11",
         "name": "Ankan elämää",
         "description": "Ankkastide Akulan teos"
@@ -51313,17 +51493,17 @@
       },
       {
         "code": "ducket_c26_cottagecandle",
-        "name": "ducket_c26_cottagecandle name",
+        "name": "Tumma kynttilä",
         "description": "ducket_c26_cottagecandle desc"
       },
       {
         "code": "ducket_c26_cottagewreath",
-        "name": "ducket_c26_cottagewreath name",
+        "name": "Mökin seppele",
         "description": "ducket_c26_cottagewreath desc"
       },
       {
         "code": "ducket_c26_largecottageshelf",
-        "name": "ducket_c26_largecottageshelf name",
+        "name": "Mökin hylly",
         "description": "ducket_c26_largecottageshelf desc"
       },
       {
@@ -57267,6 +57447,11 @@
         "description": "gacha_r25_teddyking desc"
       },
       {
+        "code": "game_c26_handheldvendingmchn",
+        "name": "Habbo Gamer -myyntiautomaatti",
+        "description": ""
+      },
+      {
         "code": "gaming_c18_chairpro",
         "name": "Pro Gamer-tuoli",
         "description": "gaming_c18_chairpro desc"
@@ -60628,62 +60813,62 @@
       },
       {
         "code": "hc26_10",
-        "name": "hc26_10 name",
+        "name": "Supermoderni HC-tuoli",
         "description": "hc26_10 desc"
       },
       {
         "code": "hc26_11",
-        "name": "hc26_11 name",
+        "name": "Supermoderni toimitusjohtajan HC-jakkara",
         "description": "hc26_11 desc"
       },
       {
         "code": "hc26_12",
-        "name": "hc26_12 name",
+        "name": "Supermoderni toimitusjohtajan HC-tuoli",
         "description": "hc26_12 desc"
       },
       {
         "code": "hc26_1",
-        "name": "hc26_1 name",
+        "name": "Supermoderni HC-sermi",
         "description": "hc26_1 desc"
       },
       {
         "code": "hc26_2",
-        "name": "hc26_2 name",
+        "name": "Supermoderni HC-porras",
         "description": "hc26_2 desc"
       },
       {
         "code": "hc26_3",
-        "name": "hc26_3 name",
+        "name": "Supermoderni HC-sohvapöytä",
         "description": "hc26_3 desc"
       },
       {
         "code": "hc26_4",
-        "name": "hc26_4 name",
+        "name": "Dalmatialaispentu",
         "description": "hc26_4 desc"
       },
       {
         "code": "hc26_5",
-        "name": "hc26_5 name",
+        "name": "Supermoderni HC-sohva",
         "description": "hc26_5 desc"
       },
       {
         "code": "hc26_6",
-        "name": "hc26_6 name",
+        "name": "Supermoderni HC-taso",
         "description": "hc26_6 desc"
       },
       {
         "code": "hc26_7",
-        "name": "hc26_7 name",
+        "name": "Supermoderni HC-hylly",
         "description": "hc26_7 desc"
       },
       {
         "code": "hc26_8",
-        "name": "hc26_8 name",
+        "name": "HC-pentupatsas",
         "description": "hc26_8 desc"
       },
       {
         "code": "hc26_9",
-        "name": "hc26_9 name",
+        "name": "HC-kasvomaljakko",
         "description": "hc26_9 desc"
       },
       {
@@ -68174,6 +68359,11 @@
       {
         "code": "jan24_steampunk_internal",
         "name": "Steampunk Revamped   Bundle",
+        "description": ""
+      },
+      {
+        "code": "jan_c26_builderduck",
+        "name": "Raksa-ankka",
         "description": ""
       },
       {
@@ -80422,6 +80612,56 @@
         "description": "nft_h25_zeuspod desc"
       },
       {
+        "code": "nft_h26_Hsthodl",
+        "name": "H St. HODL -pelikone",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_bronzecontroller",
+        "name": "Pronssinen ohjain",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_drpgamingchair",
+        "name": "Retro Polyfon -pelaajan tuoli",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_gamingsign",
+        "name": "Pelipöpin seinäkoriste",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_goldcontroller",
+        "name": "Kultainen ohjain",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_haf_holoboy",
+        "name": "Holopoika-toimintafiguuri",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_haf_hologirl",
+        "name": "Holotyttö-toimintafiguuri",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_joystick",
+        "name": "Jättimäinen peliohjain -sisustuselementti",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_silvercontroller",
+        "name": "Hopeinen ohjain",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_trippycontroller",
+        "name": "Psykedeelinen ohjain",
+        "description": ""
+      },
+      {
         "code": "nft_habbo15_beehive",
         "name": "habbo15_beehive name",
         "description": "habbo15_beehive desc"
@@ -91028,77 +91268,77 @@
       },
       {
         "code": "rare_prize26_0",
-        "name": "rare_prize26_0 name",
+        "name": "Kellanruskea tiikerinpentu",
         "description": "rare_prize26_0 desc"
       },
       {
         "code": "rare_prize26_10",
-        "name": "rare_prize26_10 name",
+        "name": "Safiiritiikerinpentu",
         "description": "rare_prize26_10 desc"
       },
       {
         "code": "rare_prize26_11",
-        "name": "rare_prize26_11 name",
+        "name": "Jade tiikerinpentu",
         "description": "rare_prize26_11 desc"
       },
       {
         "code": "rare_prize26_12",
-        "name": "rare_prize26_12 name",
+        "name": "Helmitiikerinpentu",
         "description": "rare_prize26_12 desc"
       },
       {
         "code": "rare_prize26_13",
-        "name": "rare_prize26_13 name",
+        "name": "Turkoosi tiikerinpentu",
         "description": "rare_prize26_13 desc"
       },
       {
         "code": "rare_prize26_14",
-        "name": "rare_prize26_14 name",
+        "name": "Pinkki tiikerinpentu",
         "description": "rare_prize26_14 desc"
       },
       {
         "code": "rare_prize26_1",
-        "name": "rare_prize26_1 name",
+        "name": "Rubiinitiikerinpentu",
         "description": "rare_prize26_1 desc"
       },
       {
         "code": "rare_prize26_2",
-        "name": "rare_prize26_2 name",
+        "name": "Obsidiaanitiikerinpentu",
         "description": "rare_prize26_2 desc"
       },
       {
         "code": "rare_prize26_3",
-        "name": "rare_prize26_3 name",
+        "name": "Sitriinitiikerinpentu",
         "description": "rare_prize26_3 desc"
       },
       {
         "code": "rare_prize26_4",
-        "name": "rare_prize26_4 name",
+        "name": "Ametistitiikerinpentu",
         "description": "rare_prize26_4 desc"
       },
       {
         "code": "rare_prize26_5",
-        "name": "rare_prize26_5 name",
+        "name": "Jaspistiikerinpentu",
         "description": "rare_prize26_5 desc"
       },
       {
         "code": "rare_prize26_6",
-        "name": "rare_prize26_6 name",
+        "name": "Smaragditiikerinpentu",
         "description": "rare_prize26_6 desc"
       },
       {
         "code": "rare_prize26_7",
-        "name": "rare_prize26_7 name",
+        "name": "Tansaniittitiikerinpentu",
         "description": "rare_prize26_7 desc"
       },
       {
         "code": "rare_prize26_8",
-        "name": "rare_prize26_8 name",
+        "name": "Akvamariinitiikerinpentu",
         "description": "rare_prize26_8 desc"
       },
       {
         "code": "rare_prize26_9",
-        "name": "rare_prize26_9 name",
+        "name": "Rodokrosiittitiikerinpentu",
         "description": "rare_prize26_9 desc"
       },
       {
@@ -108350,6 +108590,11 @@
         "code": "tray_glasstower",
         "name": "Samppanjatorni",
         "description": "Juhlat pystyyn!"
+      },
+      {
+        "code": "trophy_baw",
+        "name": "Builders At Work -pokaali",
+        "description": ""
       },
       {
         "code": "trophy_chatterbox_bronze",

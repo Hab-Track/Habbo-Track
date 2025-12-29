@@ -2957,6 +2957,11 @@
         "description": "CF_250_fancywatch desc"
       },
       {
+        "code": "CF_250_flowerperfume",
+        "name": "Gouden Fleurig Parfum",
+        "description": ""
+      },
+      {
         "code": "CF_250_frogprince",
         "name": "Gouden Kikker Prins",
         "description": "CF_250_frogprince desc"
@@ -2975,6 +2980,11 @@
         "code": "CF_250_goldenfloor",
         "name": "Gouden Bakstenen Vloer",
         "description": "CF_250_goldenfloor desc"
+      },
+      {
+        "code": "CF_250_goldenh",
+        "name": "Gouden Habbo H",
+        "description": ""
       },
       {
         "code": "CF_250_helix",
@@ -3027,6 +3037,11 @@
         "description": "350 Credits waard"
       },
       {
+        "code": "CF_350_emergencyduck",
+        "name": "Gouden Eend Noodknop",
+        "description": ""
+      },
+      {
         "code": "CF_350_geode",
         "name": "Magische Geode",
         "description": "CF_350_geode desc"
@@ -3040,6 +3055,11 @@
         "code": "CF_350_glass",
         "name": "Bubblejuice Cocktailglas",
         "description": "CF_350_glass desc"
+      },
+      {
+        "code": "CF_350_goldenbranch",
+        "name": "Gouden Sakura",
+        "description": ""
       },
       {
         "code": "CF_350_goldendecanter",
@@ -3088,7 +3108,7 @@
       },
       {
         "code": "CF_500_duckfigurine",
-        "name": "CF_500_duckfigurine name",
+        "name": "Gouden Eend Pop",
         "description": "CF_500_duckfigurine desc"
       },
       {
@@ -3190,6 +3210,11 @@
         "code": "CF_750_goldenshower",
         "name": "Gouden Douche",
         "description": "CF_750_goldenshower desc"
+      },
+      {
+        "code": "CF_750_goldenskull",
+        "name": "Gouden Schedel",
+        "description": ""
       },
       {
         "code": "CF_750_goldentoast",
@@ -27347,6 +27372,26 @@
         "description": "bonusbag25_4 desc"
       },
       {
+        "code": "bonusbag26_1",
+        "name": "Bonuszak I",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_2",
+        "name": "Bonuszak II",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_3",
+        "name": "Bonuszak III",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_4",
+        "name": "Bonuszak IV",
+        "description": ""
+      },
+      {
         "code": "bonusrare16_1_1",
         "name": "Mint gekleurde Vaas",
         "description": "Door deze Pompoen gekleurde patroontjes lijkt het alsof alles draait."
@@ -28643,23 +28688,123 @@
       },
       {
         "code": "bonusrare25_4_2",
-        "name": "Blauw Badeendkleed",
+        "name": "Schattige Buitenaardse Baby",
         "description": "bonusrare25_4_2 desc"
       },
       {
         "code": "bonusrare25_4_3",
-        "name": "Fuschia Badeendkleed",
+        "name": "Dromerige Buitenaardse Baby",
         "description": "bonusrare25_4_3 desc"
       },
       {
         "code": "bonusrare25_4_4",
-        "name": "Limoen Badeendkleed",
+        "name": "Warmtevolle Buitenaardse Baby",
         "description": "bonusrare25_4_4 desc"
       },
       {
         "code": "bonusrare25_4_5",
-        "name": "Rood Badeendkleed",
+        "name": "Levenloze Buitenaardse Baby",
         "description": "bonusrare25_4_5 desc"
+      },
+      {
+        "code": "bonusrare26_1_0",
+        "name": "Zilveren DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_1",
+        "name": "Roze DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_2",
+        "name": "Blauwe DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_3",
+        "name": "Groene DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_4",
+        "name": "Paarse DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_5",
+        "name": "Zwarte DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_0",
+        "name": "Oranje Kawaii Katten Print",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_1",
+        "name": "Paarse Kawaii Katten Print",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_2",
+        "name": "Roze Kawaii Katten Print",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_3",
+        "name": "Groene Kawaii Katten Print",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_4",
+        "name": "Blauwe Kawaii Katten Print",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_5",
+        "name": "Grijze Kawaii Katten Print",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_0",
+        "name": "Robijnrode Edelsteen",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_1",
+        "name": "Amethist Edelsteen",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_2",
+        "name": "Saffier Edelsteen",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_3",
+        "name": "Amber Edelsteen",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_4",
+        "name": "Topaas Edelsteen",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_5",
+        "name": "Smaragdgroene Edelsteen",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_4_0",
+        "name": "Radioactieve Buitenaardse Baby",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_4_1",
+        "name": "Elektrische Buitenaardse Baby",
+        "description": ""
       },
       {
         "code": "bonusrare_april16",
@@ -30558,17 +30703,17 @@
       },
       {
         "code": "china_horsefigure1",
-        "name": "china_horsefigure1 name",
+        "name": "Obsidiaan Zwart Paard",
         "description": "china_horsefigure1 desc"
       },
       {
         "code": "china_horsefigure2",
-        "name": "china_horsefigure2 name",
+        "name": "Marmeren Paard",
         "description": "china_horsefigure2 desc"
       },
       {
         "code": "china_horsefigure3",
-        "name": "china_horsefigure3 name",
+        "name": "Gouden Paard",
         "description": "china_horsefigure3 desc"
       },
       {
@@ -31509,6 +31654,16 @@
       {
         "code": "cl_r25_valentinesgrom_bd",
         "name": "Valentijns Bruidspak",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_glitterwings_bd",
+        "name": "Glittervleugels",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_minielephant_bd",
+        "name": "Grijze Mini Olifant",
         "description": ""
       },
       {
@@ -34293,7 +34448,7 @@
       },
       {
         "code": "clothing_ducketpenguinbackpack",
-        "name": "clothing_ducketpenguinbackpack name",
+        "name": "Puffy Pinguïn Rugtas",
         "description": "clothing_ducketpenguinbackpack desc"
       },
       {
@@ -34725,6 +34880,11 @@
         "code": "clothing_funshinebearoutfit",
         "name": "Zonnebeer Outfit",
         "description": "clothing_funshinebearoutfit desc"
+      },
+      {
+        "code": "clothing_gamertee",
+        "name": "Habbo Gamer T-Shirt",
+        "description": ""
       },
       {
         "code": "clothing_gardenapron",
@@ -37730,6 +37890,11 @@
         "code": "clothing_nftshortdreads",
         "name": "Korte Dreads",
         "description": "clothing_nftshortdreads desc"
+      },
+      {
+        "code": "clothing_nftshoulderdragon1",
+        "name": "Rode Vuurdraak Huisdier",
+        "description": ""
       },
       {
         "code": "clothing_nftsilkbandana",
@@ -41743,8 +41908,13 @@
       },
       {
         "code": "clothing_r26_glitterwings",
-        "name": "clothing_r26_glitterwings name",
+        "name": "Glittervleugels",
         "description": "clothing_r26_glitterwings desc"
+      },
+      {
+        "code": "clothing_r26_minielephant",
+        "name": "Grijze Mini Olifant",
+        "description": ""
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -49502,6 +49672,31 @@
         "description": "diamond_painting111 desc"
       },
       {
+        "code": "diamond_painting112",
+        "name": "Dit is Bobba",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting113",
+        "name": "Omarm Jezelf",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting114",
+        "name": "Foggy Frank",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting115",
+        "name": "De Verdediging van Habbo",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting116",
+        "name": "Tall n' Salty",
+        "description": ""
+      },
+      {
         "code": "diamond_painting11",
         "name": "Dans so ducké",
         "description": "Door Duckstide Duckant"
@@ -51023,17 +51218,17 @@
       },
       {
         "code": "ducket_c26_cottagecandle",
-        "name": "ducket_c26_cottagecandle name",
+        "name": "Sfeermakende Kandelaar",
         "description": "ducket_c26_cottagecandle desc"
       },
       {
         "code": "ducket_c26_cottagewreath",
-        "name": "ducket_c26_cottagewreath name",
+        "name": "Cottage Krans",
         "description": "ducket_c26_cottagewreath desc"
       },
       {
         "code": "ducket_c26_largecottageshelf",
-        "name": "ducket_c26_largecottageshelf name",
+        "name": "Cottage Wandkubus",
         "description": "ducket_c26_largecottageshelf desc"
       },
       {
@@ -57012,6 +57207,11 @@
         "description": "gacha_r25_teddyking desc"
       },
       {
+        "code": "game_c26_handheldvendingmchn",
+        "name": "Habbo Gamer Verkoopautomaat",
+        "description": ""
+      },
+      {
         "code": "gaming_c18_chairpro",
         "name": "Pro Gamer Stoel",
         "description": "gaming_c18_chairpro desc"
@@ -60398,62 +60598,62 @@
       },
       {
         "code": "hc26_10",
-        "name": "hc26_10 name",
+        "name": "HC Ultra Moderne Directeurs Krukje",
         "description": "hc26_10 desc"
       },
       {
         "code": "hc26_11",
-        "name": "hc26_11 name",
+        "name": "HC Ultra Moderne Directeurs Krukje",
         "description": "hc26_11 desc"
       },
       {
         "code": "hc26_12",
-        "name": "hc26_12 name",
+        "name": "HC Ultra Moderne Directeurs Stoel",
         "description": "hc26_12 desc"
       },
       {
         "code": "hc26_1",
-        "name": "hc26_1 name",
+        "name": "HC Ultra Moderne Kamerscherm",
         "description": "hc26_1 desc"
       },
       {
         "code": "hc26_2",
-        "name": "hc26_2 name",
+        "name": "HC Ultra Moderne Opstapje",
         "description": "hc26_2 desc"
       },
       {
         "code": "hc26_3",
-        "name": "hc26_3 name",
+        "name": "HC Ultra Moderne Salontafel",
         "description": "hc26_3 desc"
       },
       {
         "code": "hc26_4",
-        "name": "hc26_4 name",
+        "name": "Dalmatiër Puppy",
         "description": "hc26_4 desc"
       },
       {
         "code": "hc26_5",
-        "name": "hc26_5 name",
+        "name": "HC Ultra Moderne Bank",
         "description": "hc26_5 desc"
       },
       {
         "code": "hc26_6",
-        "name": "hc26_6 name",
+        "name": "HC Ultra Moderne Kast",
         "description": "hc26_6 desc"
       },
       {
         "code": "hc26_7",
-        "name": "hc26_7 name",
+        "name": "HC Ultra Moderne Wandmeubel",
         "description": "hc26_7 desc"
       },
       {
         "code": "hc26_8",
-        "name": "hc26_8 name",
+        "name": "HC Puppy Standbeeld",
         "description": "hc26_8 desc"
       },
       {
         "code": "hc26_9",
-        "name": "hc26_9 name",
+        "name": "HC Vaas met Gezichten",
         "description": "hc26_9 desc"
       },
       {
@@ -67944,6 +68144,11 @@
       {
         "code": "jan24_steampunk_internal",
         "name": "Steampunk Revamped   Bundle",
+        "description": ""
+      },
+      {
+        "code": "jan_c26_builderduck",
+        "name": "Habbo Builder Eend",
         "description": ""
       },
       {
@@ -80112,6 +80317,56 @@
         "description": "nft_h25_zeuspod desc"
       },
       {
+        "code": "nft_h26_Hsthodl",
+        "name": "H St. HODL Arcade",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_bronzecontroller",
+        "name": "Bronzen Controller",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_drpgamingchair",
+        "name": "Retro Gamer Stoel",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_gamingsign",
+        "name": "Fanatieke Gamer Muurbord",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_goldcontroller",
+        "name": "Gouden Controller",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_haf_holoboy",
+        "name": "Holoboy Actiefiguur",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_haf_hologirl",
+        "name": "Hologirl Actiefiguur",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_joystick",
+        "name": "Extra Grote Joystick",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_silvercontroller",
+        "name": "Zilveren Controller",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_trippycontroller",
+        "name": "Trippy Controller",
+        "description": ""
+      },
+      {
         "code": "nft_habbo15_beehive",
         "name": "habbo15_beehive name",
         "description": "habbo15_beehive desc"
@@ -90838,77 +91093,77 @@
       },
       {
         "code": "rare_prize26_0",
-        "name": "rare_prize26_0 name",
+        "name": "Bruin Tijgerwelpje",
         "description": "rare_prize26_0 desc"
       },
       {
         "code": "rare_prize26_10",
-        "name": "rare_prize26_10 name",
+        "name": "Saffier Tijgerwelpje",
         "description": "rare_prize26_10 desc"
       },
       {
         "code": "rare_prize26_11",
-        "name": "rare_prize26_11 name",
+        "name": "Jade Tijgerwelpje",
         "description": "rare_prize26_11 desc"
       },
       {
         "code": "rare_prize26_12",
-        "name": "rare_prize26_12 name",
+        "name": "Parelkleurige Tijgerwelpje",
         "description": "rare_prize26_12 desc"
       },
       {
         "code": "rare_prize26_13",
-        "name": "rare_prize26_13 name",
+        "name": "Turquoise Tijgerwelpje",
         "description": "rare_prize26_13 desc"
       },
       {
         "code": "rare_prize26_14",
-        "name": "rare_prize26_14 name",
+        "name": "Roze Tijgerwelpje",
         "description": "rare_prize26_14 desc"
       },
       {
         "code": "rare_prize26_1",
-        "name": "rare_prize26_1 name",
+        "name": "Robijnrode Tijgerwelpje",
         "description": "rare_prize26_1 desc"
       },
       {
         "code": "rare_prize26_2",
-        "name": "rare_prize26_2 name",
+        "name": "Obsidiaan Zwart Tijgerwelpje",
         "description": "rare_prize26_2 desc"
       },
       {
         "code": "rare_prize26_3",
-        "name": "rare_prize26_3 name",
+        "name": "Citrien Tijgerwelpje",
         "description": "rare_prize26_3 desc"
       },
       {
         "code": "rare_prize26_4",
-        "name": "rare_prize26_4 name",
+        "name": "Amethist Tijgerwelpje",
         "description": "rare_prize26_4 desc"
       },
       {
         "code": "rare_prize26_5",
-        "name": "rare_prize26_5 name",
+        "name": "Jaspis Tijgerwelpje",
         "description": "rare_prize26_5 desc"
       },
       {
         "code": "rare_prize26_6",
-        "name": "rare_prize26_6 name",
+        "name": "Smaragdgroen Tijgerwelpje",
         "description": "rare_prize26_6 desc"
       },
       {
         "code": "rare_prize26_7",
-        "name": "rare_prize26_7 name",
+        "name": "Tanzaniet Tijgerwelpje",
         "description": "rare_prize26_7 desc"
       },
       {
         "code": "rare_prize26_8",
-        "name": "rare_prize26_8 name",
+        "name": "Aquamarijn Tijgerwelpje",
         "description": "rare_prize26_8 desc"
       },
       {
         "code": "rare_prize26_9",
-        "name": "rare_prize26_9 name",
+        "name": "Rhodochrosiet Tijgerwelpje",
         "description": "rare_prize26_9 desc"
       },
       {
@@ -91207,13 +91462,23 @@
         "description": "rare_r25_tradetrophy desc"
       },
       {
+        "code": "rare_r26_dragonduck__bd",
+        "name": "Zilveren Eendjes Lamp",
+        "description": ""
+      },
+      {
+        "code": "rare_r26_goldencontrol_bd",
+        "name": "De Gouden Controller",
+        "description": ""
+      },
+      {
         "code": "rare_r26_goldencontrol",
-        "name": "rare_r26_goldencontrol name",
+        "name": "De Gouden Controller",
         "description": "rare_r26_goldencontrol desc"
       },
       {
         "code": "rare_r26_silverdragonduck",
-        "name": "rare_r26_silverdragonduck name",
+        "name": "Zilveren Eendjes Lamp",
         "description": "rare_r26_silverdragonduck desc"
       },
       {
@@ -108230,6 +108495,11 @@
         "code": "tray_glasstower",
         "name": "Glazentoren",
         "description": "Dit is pas stapelen!"
+      },
+      {
+        "code": "trophy_baw",
+        "name": "Builders At Work Trofee",
+        "description": ""
       },
       {
         "code": "trophy_chatterbox_bronze",

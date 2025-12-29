@@ -3402,6 +3402,11 @@
         "description": "CF_250_fancywatch desc"
       },
       {
+        "code": "CF_250_flowerperfume",
+        "name": "Profumo Floreale Dorato",
+        "description": ""
+      },
+      {
         "code": "CF_250_frogprince",
         "name": "Principe Ranocchio Dorato",
         "description": "CF_250_frogprince desc"
@@ -3420,6 +3425,11 @@
         "code": "CF_250_goldenfloor",
         "name": "Pavimento in Mattoni d'Oro",
         "description": "CF_250_goldenfloor desc"
+      },
+      {
+        "code": "CF_250_goldenh",
+        "name": "H di Habbo Dorata",
+        "description": ""
       },
       {
         "code": "CF_250_helix",
@@ -3472,6 +3482,11 @@
         "description": "Vale 350 Crediti"
       },
       {
+        "code": "CF_350_emergencyduck",
+        "name": "Anatraccolo Dorato d’Emergenza",
+        "description": ""
+      },
+      {
         "code": "CF_350_geode",
         "name": "Geode di Prima Scelta",
         "description": "CF_350_geode desc"
@@ -3485,6 +3500,11 @@
         "code": "CF_350_glass",
         "name": "Bicchiere di Bubblejuice di Classe",
         "description": "CF_350_glass desc"
+      },
+      {
+        "code": "CF_350_goldenbranch",
+        "name": "Sakura Dorato",
+        "description": ""
       },
       {
         "code": "CF_350_goldendecanter",
@@ -3533,7 +3553,7 @@
       },
       {
         "code": "CF_500_duckfigurine",
-        "name": "CF_500_duckfigurine name",
+        "name": "Bambola Anatroccolo Dorato",
         "description": "CF_500_duckfigurine desc"
       },
       {
@@ -3635,6 +3655,11 @@
         "code": "CF_750_goldenshower",
         "name": "Doccia di Glitter",
         "description": "CF_750_goldenshower desc"
+      },
+      {
+        "code": "CF_750_goldenskull",
+        "name": "Teschio Dorato",
+        "description": ""
       },
       {
         "code": "CF_750_goldentoast",
@@ -28182,6 +28207,26 @@
         "description": "bonusbag25_4 desc"
       },
       {
+        "code": "bonusbag26_1",
+        "name": "Sacco Bonus I",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_2",
+        "name": "Sacco Bonus II",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_3",
+        "name": "Sacco Bonus III",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_4",
+        "name": "Sacco Bonus IV",
+        "description": ""
+      },
+      {
         "code": "bonusrare16_1_1",
         "name": "Vaso Verde Menta",
         "description": "Questi disegni di zucca ti faranno girare gli occhi."
@@ -29478,23 +29523,123 @@
       },
       {
         "code": "bonusrare25_4_2",
-        "name": "Tappetino Anatroccolo Azzurro",
+        "name": "Baby Alieno Adorabile",
         "description": "bonusrare25_4_2 desc"
       },
       {
         "code": "bonusrare25_4_3",
-        "name": "Tappetino Anatroccolo Fucsia",
+        "name": "Baby Alieno da Sogno",
         "description": "bonusrare25_4_3 desc"
       },
       {
         "code": "bonusrare25_4_4",
-        "name": "Tappetino Anatroccolo Lime",
+        "name": "Baby Alieno Accogliente",
         "description": "bonusrare25_4_4 desc"
       },
       {
         "code": "bonusrare25_4_5",
-        "name": "Tappetino Anatroccolo Rosso",
+        "name": "Baby Alieno Vuoto",
         "description": "bonusrare25_4_5 desc"
+      },
+      {
+        "code": "bonusrare26_1_0",
+        "name": "DuckBook Argento",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_1",
+        "name": "DuckBook Rosa",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_2",
+        "name": "DuckBook Blu",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_3",
+        "name": "DuckBook Verde",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_4",
+        "name": "DuckBook Viola",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_5",
+        "name": "DuckBook Nero",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_0",
+        "name": "Stampa Gatto Kawaii Arancione",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_1",
+        "name": "Stampa Gatto Kawaii Viola",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_2",
+        "name": "Stampa Gatto Kawaii Rosa",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_3",
+        "name": "Stampa Gatto Kawaii Verde",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_4",
+        "name": "Stampa Gatto Kawaii Blu",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_5",
+        "name": "Stampa Gatto Kawaii Grigio",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_0",
+        "name": "Gemma Rubino",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_1",
+        "name": "Gemma Ametista",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_2",
+        "name": "Gemma Zaffiro",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_3",
+        "name": "Gemma Ambra",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_4",
+        "name": "Gemma Topazio",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_5",
+        "name": "Gemma Smeraldo",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_4_0",
+        "name": "Baby Alieno Radioattivo",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_4_1",
+        "name": "Baby Alieno Elettrico",
+        "description": ""
       },
       {
         "code": "bonusrare_april16",
@@ -31423,17 +31568,17 @@
       },
       {
         "code": "china_horsefigure1",
-        "name": "china_horsefigure1 name",
+        "name": "Cavallo di Ossidiana",
         "description": "china_horsefigure1 desc"
       },
       {
         "code": "china_horsefigure2",
-        "name": "china_horsefigure2 name",
+        "name": "Cavallo di Marmo",
         "description": "china_horsefigure2 desc"
       },
       {
         "code": "china_horsefigure3",
-        "name": "china_horsefigure3 name",
+        "name": "Cavallo Dorato",
         "description": "china_horsefigure3 desc"
       },
       {
@@ -32329,6 +32474,16 @@
       {
         "code": "cl_r25_valentinesgrom_bd",
         "name": "Sposo di San Valentino",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_glitterwings_bd",
+        "name": "Ali Glitterate",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_minielephant_bd",
+        "name": "Mini Elefante Grigio",
         "description": ""
       },
       {
@@ -35108,7 +35263,7 @@
       },
       {
         "code": "clothing_ducketpenguinbackpack",
-        "name": "clothing_ducketpenguinbackpack name",
+        "name": "Zaino Pinguino Paffuto",
         "description": "clothing_ducketpenguinbackpack desc"
       },
       {
@@ -35540,6 +35695,11 @@
         "code": "clothing_funshinebearoutfit",
         "name": "Outfit Mattacchiorso",
         "description": "clothing_funshinebearoutfit desc"
+      },
+      {
+        "code": "clothing_gamertee",
+        "name": "T-Shirt Habbo Gamer",
+        "description": ""
       },
       {
         "code": "clothing_gardenapron",
@@ -38530,6 +38690,11 @@
         "code": "clothing_nftshortdreads",
         "name": "Dread Accorciati",
         "description": "clothing_nftshortdreads desc"
+      },
+      {
+        "code": "clothing_nftshoulderdragon1",
+        "name": "Familiare Dragone di Fuoco",
+        "description": ""
       },
       {
         "code": "clothing_nftsilkbandana",
@@ -42543,8 +42708,13 @@
       },
       {
         "code": "clothing_r26_glitterwings",
-        "name": "clothing_r26_glitterwings name",
+        "name": "Ali Glitterate",
         "description": "clothing_r26_glitterwings desc"
+      },
+      {
+        "code": "clothing_r26_minielephant",
+        "name": "Mini Elefante Grigio",
+        "description": ""
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -49697,6 +49867,31 @@
         "description": "diamond_painting111 desc"
       },
       {
+        "code": "diamond_painting112",
+        "name": "Dipinto: This is Bobba",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting113",
+        "name": "Dipinto: Hug Yourself",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting114",
+        "name": "Dipinto: Frank della Nebbia",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting115",
+        "name": "Dipinto: La Difesa di Habbo",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting116",
+        "name": "Dipinto: Tall n' Salty",
+        "description": ""
+      },
+      {
         "code": "diamond_painting11",
         "name": "Dipinto: Dans so ducké",
         "description": "Di Duckstide Duckant"
@@ -51293,17 +51488,17 @@
       },
       {
         "code": "ducket_c26_cottagecandle",
-        "name": "ducket_c26_cottagecandle name",
+        "name": "Candela Lunatica",
         "description": "ducket_c26_cottagecandle desc"
       },
       {
         "code": "ducket_c26_cottagewreath",
-        "name": "ducket_c26_cottagewreath name",
+        "name": "Ghirlanda Cottage",
         "description": "ducket_c26_cottagewreath desc"
       },
       {
         "code": "ducket_c26_largecottageshelf",
-        "name": "ducket_c26_largecottageshelf name",
+        "name": "Scaffali Cottage",
         "description": "ducket_c26_largecottageshelf desc"
       },
       {
@@ -57242,6 +57437,11 @@
         "description": "gacha_r25_teddyking desc"
       },
       {
+        "code": "game_c26_handheldvendingmchn",
+        "name": "Distributore Automatico Habbo Gamer",
+        "description": ""
+      },
+      {
         "code": "gaming_c18_chairpro",
         "name": "Sedia da Gaming",
         "description": "gaming_c18_chairpro desc"
@@ -60613,62 +60813,62 @@
       },
       {
         "code": "hc26_10",
-        "name": "hc26_10 name",
+        "name": "Sedia Ultra Moderna HC",
         "description": "hc26_10 desc"
       },
       {
         "code": "hc26_11",
-        "name": "hc26_11 name",
+        "name": "Sgabello CEO Ultra Moderno HC",
         "description": "hc26_11 desc"
       },
       {
         "code": "hc26_12",
-        "name": "hc26_12 name",
+        "name": "Poltrona CEO Ultra Moderna HC",
         "description": "hc26_12 desc"
       },
       {
         "code": "hc26_1",
-        "name": "hc26_1 name",
+        "name": "Divisore Ultra Modernoo HC",
         "description": "hc26_1 desc"
       },
       {
         "code": "hc26_2",
-        "name": "hc26_2 name",
+        "name": "Scalino Ultra Moderno HC",
         "description": "hc26_2 desc"
       },
       {
         "code": "hc26_3",
-        "name": "hc26_3 name",
+        "name": "Tavolino da caffè Ultra Moderno HC",
         "description": "hc26_3 desc"
       },
       {
         "code": "hc26_4",
-        "name": "hc26_4 name",
+        "name": "Cucciolo di Dalmata",
         "description": "hc26_4 desc"
       },
       {
         "code": "hc26_5",
-        "name": "hc26_5 name",
+        "name": "Divano Ultra Moderno HC",
         "description": "hc26_5 desc"
       },
       {
         "code": "hc26_6",
-        "name": "hc26_6 name",
+        "name": "Scaffali Ultra Moderni HC",
         "description": "hc26_6 desc"
       },
       {
         "code": "hc26_7",
-        "name": "hc26_7 name",
+        "name": "Mobile Ultra Moderno HC",
         "description": "hc26_7 desc"
       },
       {
         "code": "hc26_8",
-        "name": "hc26_8 name",
+        "name": "Statua Cucciolo HC",
         "description": "hc26_8 desc"
       },
       {
         "code": "hc26_9",
-        "name": "hc26_9 name",
+        "name": "Vaso Volti HC",
         "description": "hc26_9 desc"
       },
       {
@@ -68204,6 +68404,11 @@
       {
         "code": "jan24_steampunk_internal",
         "name": "Steampunk Revamped   Bundle",
+        "description": ""
+      },
+      {
+        "code": "jan_c26_builderduck",
+        "name": "Anatroccolo Habbo Builder",
         "description": ""
       },
       {
@@ -80402,6 +80607,56 @@
         "description": "nft_h25_zeuspod desc"
       },
       {
+        "code": "nft_h26_Hsthodl",
+        "name": "Macchina Arcade H St. HODL",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_bronzecontroller",
+        "name": "Controller  Bronzo",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_drpgamingchair",
+        "name": "Sedia da Gaming in Polyfon Retrò",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_gamingsign",
+        "name": "Pannello da parete per Gamers Fanatici",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_goldcontroller",
+        "name": "Controller  Oro",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_haf_holoboy",
+        "name": "Action Figure Holoboy",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_haf_hologirl",
+        "name": "Action Figure Hologirl",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_joystick",
+        "name": "Decorazione Joystick Oversize",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_silvercontroller",
+        "name": "Controller Argento",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_trippycontroller",
+        "name": "Controller Psichedelico",
+        "description": ""
+      },
+      {
         "code": "nft_habbo15_beehive",
         "name": "habbo15_beehive name",
         "description": "habbo15_beehive desc"
@@ -91108,77 +91363,77 @@
       },
       {
         "code": "rare_prize26_0",
-        "name": "rare_prize26_0 name",
+        "name": "Tigrotto Abbronzato",
         "description": "rare_prize26_0 desc"
       },
       {
         "code": "rare_prize26_10",
-        "name": "rare_prize26_10 name",
+        "name": "Tigrotto Zaffiro",
         "description": "rare_prize26_10 desc"
       },
       {
         "code": "rare_prize26_11",
-        "name": "rare_prize26_11 name",
+        "name": "Tigrotto Giada",
         "description": "rare_prize26_11 desc"
       },
       {
         "code": "rare_prize26_12",
-        "name": "rare_prize26_12 name",
+        "name": "Tigrotto Perla",
         "description": "rare_prize26_12 desc"
       },
       {
         "code": "rare_prize26_13",
-        "name": "rare_prize26_13 name",
+        "name": "Tigrotto Turchese",
         "description": "rare_prize26_13 desc"
       },
       {
         "code": "rare_prize26_14",
-        "name": "rare_prize26_14 name",
+        "name": "Tigrotto Rosa",
         "description": "rare_prize26_14 desc"
       },
       {
         "code": "rare_prize26_1",
-        "name": "rare_prize26_1 name",
+        "name": "Tigrotto Rubino",
         "description": "rare_prize26_1 desc"
       },
       {
         "code": "rare_prize26_2",
-        "name": "rare_prize26_2 name",
+        "name": "Tigrotto Ossidiana",
         "description": "rare_prize26_2 desc"
       },
       {
         "code": "rare_prize26_3",
-        "name": "rare_prize26_3 name",
+        "name": "Tigrotto Giallo Citrino",
         "description": "rare_prize26_3 desc"
       },
       {
         "code": "rare_prize26_4",
-        "name": "rare_prize26_4 name",
+        "name": "Tigrotto Ametista",
         "description": "rare_prize26_4 desc"
       },
       {
         "code": "rare_prize26_5",
-        "name": "rare_prize26_5 name",
+        "name": "Tigrotto Diaspro",
         "description": "rare_prize26_5 desc"
       },
       {
         "code": "rare_prize26_6",
-        "name": "rare_prize26_6 name",
+        "name": "Tigrotto Smeraldo",
         "description": "rare_prize26_6 desc"
       },
       {
         "code": "rare_prize26_7",
-        "name": "rare_prize26_7 name",
+        "name": "Tigrotto Tanzanite",
         "description": "rare_prize26_7 desc"
       },
       {
         "code": "rare_prize26_8",
-        "name": "rare_prize26_8 name",
+        "name": "Tigrotto Acquamarina",
         "description": "rare_prize26_8 desc"
       },
       {
         "code": "rare_prize26_9",
-        "name": "rare_prize26_9 name",
+        "name": "Tigrotto Rodocrosite",
         "description": "rare_prize26_9 desc"
       },
       {
@@ -91477,13 +91732,23 @@
         "description": "rare_r25_tradetrophy desc"
       },
       {
+        "code": "rare_r26_dragonduck__bd",
+        "name": "Lampada Anatroccolo Argento",
+        "description": ""
+      },
+      {
+        "code": "rare_r26_goldencontrol_bd",
+        "name": "Il Controller Dorato",
+        "description": ""
+      },
+      {
         "code": "rare_r26_goldencontrol",
-        "name": "rare_r26_goldencontrol name",
+        "name": "Il Controller Dorato",
         "description": "rare_r26_goldencontrol desc"
       },
       {
         "code": "rare_r26_silverdragonduck",
-        "name": "rare_r26_silverdragonduck name",
+        "name": "Lampada Anatroccolo Argento",
         "description": "rare_r26_silverdragonduck desc"
       },
       {
@@ -108425,6 +108690,11 @@
         "code": "tray_glasstower",
         "name": "Torre Champagne",
         "description": "Non temere è analcolico!"
+      },
+      {
+        "code": "trophy_baw",
+        "name": "Trofeo Builders at Work",
+        "description": ""
       },
       {
         "code": "trophy_chatterbox_bronze",

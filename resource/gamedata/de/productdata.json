@@ -2997,6 +2997,11 @@
         "description": "CF_250_fancywatch desc"
       },
       {
+        "code": "CF_250_flowerperfume",
+        "name": "Goldenes Blumenparfüm",
+        "description": ""
+      },
+      {
         "code": "CF_250_frogprince",
         "name": "Goldener Froschprinz",
         "description": "CF_250_frogprince desc"
@@ -3015,6 +3020,11 @@
         "code": "CF_250_goldenfloor",
         "name": "Goldener Backsteinboden",
         "description": "CF_250_goldenfloor desc"
+      },
+      {
+        "code": "CF_250_goldenh",
+        "name": "Goldenes Habbo-H",
+        "description": ""
       },
       {
         "code": "CF_250_helix",
@@ -3067,6 +3077,11 @@
         "description": "350 Taler wert"
       },
       {
+        "code": "CF_350_emergencyduck",
+        "name": "Goldene Notfallente",
+        "description": ""
+      },
+      {
         "code": "CF_350_geode",
         "name": "Geode",
         "description": "CF_350_geode desc"
@@ -3080,6 +3095,11 @@
         "code": "CF_350_glass",
         "name": "Stilvolles Bubblejuice-Glas",
         "description": "CF_350_glass desc"
+      },
+      {
+        "code": "CF_350_goldenbranch",
+        "name": "Goldener Sakura",
+        "description": ""
       },
       {
         "code": "CF_350_goldendecanter",
@@ -3128,7 +3148,7 @@
       },
       {
         "code": "CF_500_duckfigurine",
-        "name": "CF_500_duckfigurine name",
+        "name": "Goldene Entenpuppe",
         "description": "CF_500_duckfigurine desc"
       },
       {
@@ -3230,6 +3250,11 @@
         "code": "CF_750_goldenshower",
         "name": "Glitzer-Dusche",
         "description": "CF_750_goldenshower desc"
+      },
+      {
+        "code": "CF_750_goldenskull",
+        "name": "Goldener Totenkopf",
+        "description": ""
       },
       {
         "code": "CF_750_goldentoast",
@@ -27657,6 +27682,26 @@
         "description": "bonusbag25_4 desc"
       },
       {
+        "code": "bonusbag26_1",
+        "name": "Bonusbeutel I",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_2",
+        "name": "Bonusbeutel II",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_3",
+        "name": "Bonusbeutel III",
+        "description": ""
+      },
+      {
+        "code": "bonusbag26_4",
+        "name": "Bonusbeutel IV",
+        "description": ""
+      },
+      {
         "code": "bonusrare16_1_1",
         "name": "Minzgrüne Vase",
         "description": "Diese Kürbis Muster machen einen ganz schön schwindelig."
@@ -28953,23 +28998,123 @@
       },
       {
         "code": "bonusrare25_4_2",
-        "name": "Blauer Ententeppich",
+        "name": "Supersüsses Alienbaby",
         "description": "bonusrare25_4_2 desc"
       },
       {
         "code": "bonusrare25_4_3",
-        "name": "Fuchsia Ententeppich",
+        "name": "Verträumtes Alienbaby",
         "description": "bonusrare25_4_3 desc"
       },
       {
         "code": "bonusrare25_4_4",
-        "name": "Zitronengrüner Ententeppich",
+        "name": "Warmes Alienbaby",
         "description": "bonusrare25_4_4 desc"
       },
       {
         "code": "bonusrare25_4_5",
-        "name": "Roter Ententeppich",
+        "name": "Leeres Alienbaby",
         "description": "bonusrare25_4_5 desc"
+      },
+      {
+        "code": "bonusrare26_1_0",
+        "name": "Silbernes DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_1",
+        "name": "Pinkes DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_2",
+        "name": "Blaues DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_3",
+        "name": "Grünes DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_4",
+        "name": "Lila DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_1_5",
+        "name": "Schwarzes DuckBook",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_0",
+        "name": "Oranges Kawaii Katzenposter",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_1",
+        "name": "Lila Kawaii Katzenposter",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_2",
+        "name": "Pinkes Kawaii Katzenposter",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_3",
+        "name": "Grünes Kawaii Katzenposter",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_4",
+        "name": "Blaues Kawaii Katzenposter",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_2_5",
+        "name": "Graues Kawaii Katzenposter",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_0",
+        "name": "Rubinroter Edelstein",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_1",
+        "name": "Violetter Edelstein",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_2",
+        "name": "Saphir-Edelstein",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_3",
+        "name": "Bernsteingelber Edelstein",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_4",
+        "name": "Topasblauer Edelstein",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_3_5",
+        "name": "Smaragdgrüner Edelstein",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_4_0",
+        "name": "Radioaktives Alienbaby",
+        "description": ""
+      },
+      {
+        "code": "bonusrare26_4_1",
+        "name": "Elektrisches Alienbaby",
+        "description": ""
       },
       {
         "code": "bonusrare_april16",
@@ -30878,17 +31023,17 @@
       },
       {
         "code": "china_horsefigure1",
-        "name": "china_horsefigure1 name",
+        "name": "Schwarzes Pferd",
         "description": "china_horsefigure1 desc"
       },
       {
         "code": "china_horsefigure2",
-        "name": "china_horsefigure2 name",
+        "name": "Hellgraues Pferd",
         "description": "china_horsefigure2 desc"
       },
       {
         "code": "china_horsefigure3",
-        "name": "china_horsefigure3 name",
+        "name": "Goldenes Pferd",
         "description": "china_horsefigure3 desc"
       },
       {
@@ -34573,7 +34718,7 @@
       },
       {
         "code": "clothing_ducketpenguinbackpack",
-        "name": "clothing_ducketpenguinbackpack name",
+        "name": "Praller Pinguinrucksack",
         "description": "clothing_ducketpenguinbackpack desc"
       },
       {
@@ -35005,6 +35150,11 @@
         "code": "clothing_funshinebearoutfit",
         "name": "Sonnenscheinbärchi-Outfit",
         "description": "clothing_funshinebearoutfit desc"
+      },
+      {
+        "code": "clothing_gamertee",
+        "name": "Habbo Gamer-T-Shirt",
+        "description": ""
       },
       {
         "code": "clothing_gardenapron",
@@ -38005,6 +38155,11 @@
         "code": "clothing_nftshortdreads",
         "name": "Kurze Dreadlocks",
         "description": "clothing_nftshortdreads desc"
+      },
+      {
+        "code": "clothing_nftshoulderdragon1",
+        "name": "Feuerdrachen-Schutzgeist",
+        "description": ""
       },
       {
         "code": "clothing_nftsilkbandana",
@@ -48832,6 +48987,31 @@
         "description": "diamond_painting111 desc"
       },
       {
+        "code": "diamond_painting112",
+        "name": "This is Bobba",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting113",
+        "name": "Hug Yourself",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting114",
+        "name": "Frank im Nebel",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting115",
+        "name": "Die Verteidigung des Habbo",
+        "description": ""
+      },
+      {
+        "code": "diamond_painting116",
+        "name": "Tall n' Salty",
+        "description": ""
+      },
+      {
         "code": "diamond_painting11",
         "name": "Dans son atelier",
         "description": "Von Duckstide Duckant"
@@ -50353,17 +50533,17 @@
       },
       {
         "code": "ducket_c26_cottagecandle",
-        "name": "ducket_c26_cottagecandle name",
+        "name": "Düstere Kerze",
         "description": "ducket_c26_cottagecandle desc"
       },
       {
         "code": "ducket_c26_cottagewreath",
-        "name": "ducket_c26_cottagewreath name",
+        "name": "Hütten-Kranz",
         "description": "ducket_c26_cottagewreath desc"
       },
       {
         "code": "ducket_c26_largecottageshelf",
-        "name": "ducket_c26_largecottageshelf name",
+        "name": "Hüttenregal",
         "description": "ducket_c26_largecottageshelf desc"
       },
       {
@@ -56317,6 +56497,11 @@
         "description": "gacha_r25_teddyking desc"
       },
       {
+        "code": "game_c26_handheldvendingmchn",
+        "name": "Habbo Gamer-Verkaufsautomat",
+        "description": ""
+      },
+      {
         "code": "gaming_c18_chairpro",
         "name": "Pro-Gamer-Stuhl",
         "description": "gaming_c18_chairpro desc"
@@ -59698,62 +59883,62 @@
       },
       {
         "code": "hc26_10",
-        "name": "hc26_10 name",
+        "name": "HC Ultramoderner Stuhl",
         "description": "hc26_10 desc"
       },
       {
         "code": "hc26_11",
-        "name": "hc26_11 name",
+        "name": "HC Ultramoderner Chefhocker",
         "description": "hc26_11 desc"
       },
       {
         "code": "hc26_12",
-        "name": "hc26_12 name",
+        "name": "HC Ultramoderner Chefsessel",
         "description": "hc26_12 desc"
       },
       {
         "code": "hc26_1",
-        "name": "hc26_1 name",
+        "name": "HC Ultra moderner Raumteiler",
         "description": "hc26_1 desc"
       },
       {
         "code": "hc26_2",
-        "name": "hc26_2 name",
+        "name": "HC Ultramoderne Stufe",
         "description": "hc26_2 desc"
       },
       {
         "code": "hc26_3",
-        "name": "hc26_3 name",
+        "name": "HC Ultramoderner Kaffeetisch",
         "description": "hc26_3 desc"
       },
       {
         "code": "hc26_4",
-        "name": "hc26_4 name",
+        "name": "Dalmatinerwelpe",
         "description": "hc26_4 desc"
       },
       {
         "code": "hc26_5",
-        "name": "hc26_5 name",
+        "name": "HC Ultramodernes Sofa",
         "description": "hc26_5 desc"
       },
       {
         "code": "hc26_6",
-        "name": "hc26_6 name",
+        "name": "HC Ultramodernes Regal",
         "description": "hc26_6 desc"
       },
       {
         "code": "hc26_7",
-        "name": "hc26_7 name",
+        "name": "HC Ultramodernes Möbelstück",
         "description": "hc26_7 desc"
       },
       {
         "code": "hc26_8",
-        "name": "hc26_8 name",
+        "name": "HC Welpenstatue",
         "description": "hc26_8 desc"
       },
       {
         "code": "hc26_9",
-        "name": "hc26_9 name",
+        "name": "HC Gesichtervase",
         "description": "hc26_9 desc"
       },
       {
@@ -67219,6 +67404,11 @@
       {
         "code": "jan24_steampunk_internal",
         "name": "Steampunk Revamped   Bundle",
+        "description": ""
+      },
+      {
+        "code": "jan_c26_builderduck",
+        "name": "Habbo Builder-Ente",
         "description": ""
       },
       {
@@ -79402,6 +79592,56 @@
         "description": "nft_h25_zeuspod desc"
       },
       {
+        "code": "nft_h26_Hsthodl",
+        "name": "H St. HODL Arkade",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_bronzecontroller",
+        "name": "Bronze-Controller",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_drpgamingchair",
+        "name": "Retro Polyfon Gamer-Stuhl",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_gamingsign",
+        "name": "Gamer Fan Wall Mount",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_goldcontroller",
+        "name": "Gold-Controller",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_haf_holoboy",
+        "name": "Holoboy Actionfigur",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_haf_hologirl",
+        "name": "Hologirl Actionfigur",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_joystick",
+        "name": "Übergroße Joystick-Dekoration",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_silvercontroller",
+        "name": "Silber-Controller",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_trippycontroller",
+        "name": "Trippy Controller",
+        "description": ""
+      },
+      {
         "code": "nft_habbo15_beehive",
         "name": "habbo15_beehive name",
         "description": "habbo15_beehive desc"
@@ -90128,77 +90368,77 @@
       },
       {
         "code": "rare_prize26_0",
-        "name": "rare_prize26_0 name",
+        "name": "Braunes Tigerbaby",
         "description": "rare_prize26_0 desc"
       },
       {
         "code": "rare_prize26_10",
-        "name": "rare_prize26_10 name",
+        "name": "Saphir-Tigerbaby",
         "description": "rare_prize26_10 desc"
       },
       {
         "code": "rare_prize26_11",
-        "name": "rare_prize26_11 name",
+        "name": "Jadegrünes Tigerbaby",
         "description": "rare_prize26_11 desc"
       },
       {
         "code": "rare_prize26_12",
-        "name": "rare_prize26_12 name",
+        "name": "Weisses Tigerbaby",
         "description": "rare_prize26_12 desc"
       },
       {
         "code": "rare_prize26_13",
-        "name": "rare_prize26_13 name",
+        "name": "Türkises Tigerbaby",
         "description": "rare_prize26_13 desc"
       },
       {
         "code": "rare_prize26_14",
-        "name": "rare_prize26_14 name",
+        "name": "Pinkes Tigerbaby",
         "description": "rare_prize26_14 desc"
       },
       {
         "code": "rare_prize26_1",
-        "name": "rare_prize26_1 name",
+        "name": "Rubinrotes Tigerbaby",
         "description": "rare_prize26_1 desc"
       },
       {
         "code": "rare_prize26_2",
-        "name": "rare_prize26_2 name",
+        "name": "Schwarzes Tigerbaby",
         "description": "rare_prize26_2 desc"
       },
       {
         "code": "rare_prize26_3",
-        "name": "rare_prize26_3 name",
+        "name": "Gelbes Tigerbaby",
         "description": "rare_prize26_3 desc"
       },
       {
         "code": "rare_prize26_4",
-        "name": "rare_prize26_4 name",
+        "name": "Violettes Tigerbaby",
         "description": "rare_prize26_4 desc"
       },
       {
         "code": "rare_prize26_5",
-        "name": "rare_prize26_5 name",
+        "name": "Oranges Tigerbaby",
         "description": "rare_prize26_5 desc"
       },
       {
         "code": "rare_prize26_6",
-        "name": "rare_prize26_6 name",
+        "name": "Smaragdgrünes Tigerbaby",
         "description": "rare_prize26_6 desc"
       },
       {
         "code": "rare_prize26_7",
-        "name": "rare_prize26_7 name",
+        "name": "Dunkelblaues Tigerbaby",
         "description": "rare_prize26_7 desc"
       },
       {
         "code": "rare_prize26_8",
-        "name": "rare_prize26_8 name",
+        "name": "Blaugrünes Tigerbaby",
         "description": "rare_prize26_8 desc"
       },
       {
         "code": "rare_prize26_9",
-        "name": "rare_prize26_9 name",
+        "name": "Magenta-Tigerbaby",
         "description": "rare_prize26_9 desc"
       },
       {
@@ -107400,6 +107640,11 @@
         "code": "tray_glasstower",
         "name": "Gläserpyramide",
         "description": "Lasst uns feiern!"
+      },
+      {
+        "code": "trophy_baw",
+        "name": "Builders at Work-Trophäe",
+        "description": ""
       },
       {
         "code": "trophy_chatterbox_bronze",
