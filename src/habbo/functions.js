@@ -35,7 +35,9 @@ async function fetchRaw(src, opt) {
     const response = await fetch(src, opt);
 
     if (!response.ok) {
-      throw new Error(`HTTP ${response.status} – ${response.statusText}`);
+      const err = new Error(`HTTP ${response.status} – ${response.statusText}`);
+      err.status = response.status;
+      throw err;
     }
 
     return response;
