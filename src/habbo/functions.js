@@ -85,6 +85,7 @@ async function fetchOne(src, dst, replace = false) {
 }
 
 async function fetchMany(all, replace = false) {
+  console.time(`Batch fetching ${all.length} URLs`)
   await Promise.allSettled(
     all.map((v) => fetchOne(v.src, v.dst, replace)
       .catch((err) => {
@@ -94,6 +95,7 @@ async function fetchMany(all, replace = false) {
       })
     )
   )
+  console.timeEnd(`Batch fetching ${all.length} URLs`)
 }
 
 async function parseXml(txt) {

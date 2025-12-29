@@ -59,7 +59,9 @@ async function main() {
         } else if (command === 'gamedata') {
             console.time(`Processing gamedata (${domains.length} domains)`);
             for (const domain of domains) {
+                console.time(`Processing gamedata for ${domain} domain`)
                 await processCommand(command, domain, bot, prod_version);
+                console.timeEnd(`Processing gamedata for ${domain} domain`)
             }
             console.timeEnd(`Processing gamedata (${domains.length} domains)`);
         } else {
