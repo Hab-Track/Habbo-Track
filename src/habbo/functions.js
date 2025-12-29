@@ -5,6 +5,7 @@ const fs = require('fs')
 const { XMLParser } = require('fast-xml-parser')
 const { formatTxt } = require('./make_ouput_format')
 const retry = require('../utils/retry')
+const fetchWithTimeout = require('../utils/fetchWithTimeout')
 
 const opt = {
   agent: new https.Agent({
@@ -32,7 +33,7 @@ async function fileExists(file) {
 
 async function fetchRaw(src, opt) {
   return retry(async () => {
-    const response = await fetch(src, opt);
+    const response = await fetchWithTimeout(src, opt, 5000); // reduce after some testing
 
     if (!response.ok) {
       const err = new Error(`HTTP ${response.status} – ${response.statusText}`);
