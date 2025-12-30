@@ -13021,6 +13021,10 @@
                     <layer parttype="hrb"/>
                 </hiddenlayers>
             </set>
+            <set id="6356" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="7175" type="ha" colorable="0" index="0" colorindex="0"/>
+                <part id="7176" type="ha" colorable="1" index="1" colorindex="1"/>
+            </set>
             <set id="1003" gender="U" club="0" colorable="1" selectable="1" preselectable="1">
                 <part id="3" type="ha" colorable="1" index="0" colorindex="1"/>
                 <hiddenlayers>
