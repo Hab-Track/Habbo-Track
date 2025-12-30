@@ -38734,7 +38734,7 @@
       {
         "code": "clothing_nftheterocromia",
         "name": "Heterokromaattiset piilolinssit",
-        "description": ""
+        "description": "clothing_nftheterocromia desc"
       },
       {
         "code": "clothing_nfthiphop",
@@ -38774,7 +38774,7 @@
       {
         "code": "clothing_nfticaruscrown",
         "name": "Ikaroksen kruunu",
-        "description": ""
+        "description": "clothing_nfticaruscrown desc"
       },
       {
         "code": "clothing_nfticecreambag1",
@@ -76412,6 +76412,11 @@
         "description": "nft_army15_scanner desc"
       },
       {
+        "code": "nft_attic15_cabinet",
+        "name": "nft_attic15_cabinet name",
+        "description": "nft_attic15_cabinet desc"
+      },
+      {
         "code": "nft_autumn_r20_pond",
         "name": "Syksyinen toivomuslampi",
         "description": "nft_autumn_r20_pond desc"
@@ -76942,6 +76947,11 @@
         "description": "nft_cpunk15_blimp desc"
       },
       {
+        "code": "nft_cpunk15_roborat",
+        "name": "nft_cpunk15_roborat name",
+        "description": "nft_cpunk15_roborat desc"
+      },
+      {
         "code": "nft_cpunk15_robosheep",
         "name": "Elektrolammas",
         "description": "nft_cpunk15_robosheep desc"
@@ -77005,6 +77015,16 @@
         "code": "nft_diamond_dragon",
         "name": "Timanttinen lohikäärmelamppu",
         "description": "nft_diamond_dragon desc"
+      },
+      {
+        "code": "nft_diamond_painting10",
+        "name": "nft_diamond_painting10 name",
+        "description": "nft_diamond_painting10 desc"
+      },
+      {
+        "code": "nft_diamond_painting24",
+        "name": "nft_diamond_painting24 name",
+        "description": "nft_diamond_painting24 desc"
       },
       {
         "code": "nft_diamond_painting31",
@@ -77237,6 +77257,11 @@
         "description": "nft_diamond_painting87 desc"
       },
       {
+        "code": "nft_diamond_r23_elephant_statue",
+        "name": "nft_diamond_r23_elephant_statue name",
+        "description": "nft_diamond_r23_elephant_statue desc"
+      },
+      {
         "code": "nft_diamond_r23_pillow",
         "name": "Timanttityyny",
         "description": "nft_diamond_r23_pillow desc"
@@ -77245,6 +77270,11 @@
         "code": "nft_diamond_throne",
         "name": "Timanttinen valtaistuin",
         "description": "nft_diamond_throne desc"
+      },
+      {
+        "code": "nft_diner_poster",
+        "name": "nft_diner_poster name",
+        "description": "nft_diner_poster desc"
       },
       {
         "code": "nft_dino15_fossil2",
@@ -80369,12 +80399,12 @@
       {
         "code": "nft_h25_icarusfigure",
         "name": "Kultainen Ikaros-patsas",
-        "description": ""
+        "description": "nft_h25_icarusfigure desc"
       },
       {
         "code": "nft_h25_icaruspainting",
         "name": "Ikaroksen putoaminen",
-        "description": ""
+        "description": "nft_h25_icaruspainting desc"
       },
       {
         "code": "nft_h25_magiccauldron",
@@ -80634,22 +80664,22 @@
       {
         "code": "nft_h26_bronzecontroller",
         "name": "Pronssinen ohjain",
-        "description": ""
+        "description": "nft_h26_bronzecontroller desc"
       },
       {
         "code": "nft_h26_drpgamingchair",
         "name": "Retro Polyfon -pelaajan tuoli",
-        "description": ""
+        "description": "nft_h26_drpgamingchair desc"
       },
       {
         "code": "nft_h26_gamingsign",
         "name": "Pelipöpin seinäkoriste",
-        "description": ""
+        "description": "nft_h26_gamingsign desc"
       },
       {
         "code": "nft_h26_goldcontroller",
         "name": "Kultainen ohjain",
-        "description": ""
+        "description": "nft_h26_goldcontroller desc"
       },
       {
         "code": "nft_h26_haf_holoboy",
@@ -80669,17 +80699,22 @@
       {
         "code": "nft_h26_silvercontroller",
         "name": "Hopeinen ohjain",
-        "description": ""
+        "description": "nft_h26_silvercontroller desc"
       },
       {
         "code": "nft_h26_trippycontroller",
         "name": "Psykedeelinen ohjain",
-        "description": ""
+        "description": "nft_h26_trippycontroller desc"
       },
       {
         "code": "nft_habbo15_beehive",
         "name": "habbo15_beehive name",
         "description": "habbo15_beehive desc"
+      },
+      {
+        "code": "nft_habbo15_birthdaycake",
+        "name": "nft_habbo15_birthdaycake name",
+        "description": "nft_habbo15_birthdaycake desc"
       },
       {
         "code": "nft_habbo15_dragonlamp",
@@ -81017,6 +81052,11 @@
         "description": ""
       },
       {
+        "code": "nft_nft_rare_colourable_beehive_bulb_1",
+        "name": "nft_nft_rare_colourable_beehive_bulb_1 name",
+        "description": "nft_nft_rare_colourable_beehive_bulb_1 desc"
+      },
+      {
         "code": "nft_nft_rare_colourable_fan_1",
         "name": "nft_nft_rare_colourable_fan_1 name",
         "description": "nft_nft_rare_colourable_fan_1 desc"
@@ -81045,6 +81085,11 @@
         "code": "nft_oneway_paygate_test",
         "name": "nft_oneway_paygate_test name",
         "description": "nft_oneway_paygate_test desc"
+      },
+      {
+        "code": "nft_paris15_cake",
+        "name": "nft_paris15_cake name",
+        "description": "nft_paris15_cake desc"
       },
       {
         "code": "nft_pillar_2",
@@ -81172,6 +81217,11 @@
         "description": "nft_rare_blackrosegold_elephant_statue desc"
       },
       {
+        "code": "nft_rare_blackrosegold_fan",
+        "name": "nft_rare_blackrosegold_fan name",
+        "description": "nft_rare_blackrosegold_fan desc"
+      },
+      {
         "code": "nft_rare_blackrosegold_icecream",
         "name": "Ruusukultakoristeinen jäätelökone",
         "description": "nft_rare_blackrosegold_icecream desc"
@@ -81215,6 +81265,21 @@
         "code": "nft_rare_blackrosegold_wooden_screen",
         "name": "Ruusukultainen sermi",
         "description": "nft_rare_blackrosegold_wooden_screen desc"
+      },
+      {
+        "code": "nft_rare_colourable_beehive_bulb_2",
+        "name": "nft_rare_colourable_beehive_bulb_2 name",
+        "description": "nft_rare_colourable_beehive_bulb_2 desc"
+      },
+      {
+        "code": "nft_rare_colourable_beehive_bulb_3",
+        "name": "nft_rare_colourable_beehive_bulb_3 name",
+        "description": "nft_rare_colourable_beehive_bulb_3 desc"
+      },
+      {
+        "code": "nft_rare_colourable_beehive_bulb_4",
+        "name": "nft_rare_colourable_beehive_bulb_4 name",
+        "description": "nft_rare_colourable_beehive_bulb_4 desc"
       },
       {
         "code": "nft_rare_colourable_dragonlamp_1",
@@ -81917,9 +81982,19 @@
         "description": "nft_st_wildwest_buffalo desc"
       },
       {
+        "code": "nft_steampunk15_plane",
+        "name": "nft_steampunk15_plane name",
+        "description": "nft_steampunk15_plane desc"
+      },
+      {
         "code": "nft_steampunk_gramophone",
         "name": "Steampunk-gramofoni",
         "description": "nft_steampunk_gramophone desc"
+      },
+      {
+        "code": "nft_steampunk_timemach",
+        "name": "nft_steampunk_timemach name",
+        "description": "nft_steampunk_timemach desc"
       },
       {
         "code": "nft_svnr_de",
@@ -82075,6 +82150,11 @@
         "code": "nft_val13_statue",
         "name": "David-suihkulähde",
         "description": "nft_val13_statue desc"
+      },
+      {
+        "code": "nft_val15_dogstat",
+        "name": "nft_val15_dogstat name",
+        "description": "nft_val15_dogstat desc"
       },
       {
         "code": "nft_val15_hottub",
