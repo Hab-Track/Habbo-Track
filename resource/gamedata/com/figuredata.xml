@@ -19106,6 +19106,14 @@
                     <layer parttype="ls"/>
                 </hiddenlayers>
             </set>
+            <set id="6342" gender="U" club="0" colorable="0" selectable="1" preselectable="0" sellable="1">
+                <part id="7148" type="cc" colorable="0" index="0" colorindex="0"/>
+                <part id="7148" type="lc" colorable="0" index="0" colorindex="0"/>
+                <part id="7148" type="rc" colorable="0" index="0" colorindex="0"/>
+                <part id="7149" type="cc" colorable="0" index="1" colorindex="0"/>
+                <part id="7149" type="lc" colorable="0" index="1" colorindex="0"/>
+                <part id="7149" type="rc" colorable="0" index="1" colorindex="0"/>
+            </set>
             <set id="9563" gender="F" club="2" colorable="1" selectable="1" preselectable="0">
                 <part id="2233" type="cc" colorable="1" index="0" colorindex="1"/>
                 <part id="2233" type="lc" colorable="1" index="0" colorindex="1"/>
