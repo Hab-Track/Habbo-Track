@@ -75518,8 +75518,8 @@
       },
       {
         "code": "nft_a11_marquee",
-        "name": "Marquee - navy",
-        "description": "It's both door and a shade!"
+        "name": "$product_a11_marquee_name$",
+        "description": "$product_a11_marquee_desc$"
       },
       {
         "code": "nft_a11_nft_pillar",
@@ -75888,13 +75888,13 @@
       },
       {
         "code": "nft_a6_scifirocket",
-        "name": "Grey Scifirocket",
-        "description": "Retro steam engine"
+        "name": "$product_a6_scifirocket_name$",
+        "description": "$product_a6_scifirocket_desc$"
       },
       {
         "code": "nft_a6_wooden_screen",
-        "name": "Wooden screen - gold",
-        "description": "Add some oriental touch to your room."
+        "name": "$product_a6_wooden_screen_name$",
+        "description": "$product_a6_wooden_screen_desc$"
       },
       {
         "code": "nft_a7_marquee",
@@ -76103,8 +76103,8 @@
       },
       {
         "code": "nft_attic15_cabinet",
-        "name": "nft_attic15_cabinet name",
-        "description": "nft_attic15_cabinet desc"
+        "name": "Gebroken ijdelheid",
+        "description": "Sla het stof er vanaf om je toekomst te kunnen zien..."
       },
       {
         "code": "nft_autumn_r20_pond",
@@ -76638,8 +76638,8 @@
       },
       {
         "code": "nft_cpunk15_roborat",
-        "name": "nft_cpunk15_roborat name",
-        "description": "nft_cpunk15_roborat desc"
+        "name": "RoboRat",
+        "description": "Piep Beep."
       },
       {
         "code": "nft_cpunk15_robosheep",
@@ -76708,13 +76708,13 @@
       },
       {
         "code": "nft_diamond_painting10",
-        "name": "nft_diamond_painting10 name",
-        "description": "nft_diamond_painting10 desc"
+        "name": "Creatie van Habbo",
+        "description": "Door Frankaelangelo"
       },
       {
         "code": "nft_diamond_painting24",
-        "name": "nft_diamond_painting24 name",
-        "description": "nft_diamond_painting24 desc"
+        "name": "De Eendenvrouw",
+        "description": "diamond_painting24 desc"
       },
       {
         "code": "nft_diamond_painting31",
@@ -76948,8 +76948,8 @@
       },
       {
         "code": "nft_diamond_r23_elephant_statue",
-        "name": "nft_diamond_r23_elephant_statue name",
-        "description": "nft_diamond_r23_elephant_statue desc"
+        "name": "Zeldzame Diamanten Olifant Standbeeld",
+        "description": "diamond_r23_elephant_statue desc"
       },
       {
         "code": "nft_diamond_r23_pillow",
@@ -76963,8 +76963,8 @@
       },
       {
         "code": "nft_diner_poster",
-        "name": "nft_diner_poster name",
-        "description": "nft_diner_poster desc"
+        "name": "Diner Uithangbord",
+        "description": "Open van 6.30 tot 1.30."
       },
       {
         "code": "nft_dino15_fossil2",
@@ -80403,8 +80403,8 @@
       },
       {
         "code": "nft_habbo15_birthdaycake",
-        "name": "nft_habbo15_birthdaycake name",
-        "description": "nft_habbo15_birthdaycake desc"
+        "name": "Habbo 15 jaar Verjaardagstaart",
+        "description": "Laat ze maar taart eten"
       },
       {
         "code": "nft_habbo15_dragonlamp",
@@ -80464,7 +80464,7 @@
       {
         "code": "nft_habbo15_scifiport",
         "name": "Donkerrode Laserpoort",
-        "description": "Donkerrode Laserpoort"
+        "description": "Energieveld tegen indringers."
       },
       {
         "code": "nft_habbo15_scifirocket",
@@ -80778,8 +80778,8 @@
       },
       {
         "code": "nft_paris15_cake",
-        "name": "nft_paris15_cake name",
-        "description": "nft_paris15_cake desc"
+        "name": "Frank's Fruittaart",
+        "description": "Deze taart is goedgekeurd door Frank"
       },
       {
         "code": "nft_pillar_2",
@@ -80908,8 +80908,8 @@
       },
       {
         "code": "nft_rare_blackrosegold_fan",
-        "name": "nft_rare_blackrosegold_fan name",
-        "description": "nft_rare_blackrosegold_fan desc"
+        "name": "Roségouden Hitteflipper",
+        "description": "rare_blackrosegold_fan desc"
       },
       {
         "code": "nft_rare_blackrosegold_icecream",
@@ -80958,8 +80958,8 @@
       },
       {
         "code": "nft_rare_colourable_beehive_bulb_1",
-        "name": "nft_rare_colourable_beehive_bulb_1 name",
-        "description": "nft_rare_colourable_beehive_bulb_1 desc"
+        "name": "Azuurblauwe Toverlantaarn",
+        "description": "Met magische vuurvliegjes"
       },
       {
         "code": "nft_rare_colourable_beehive_bulb_2",
@@ -80984,7 +80984,7 @@
       {
         "code": "nft_rare_colourable_dragonlamp_2",
         "name": "Smaragdgroene Vuurdraak",
-        "description": "Smaragdgroene Vuurdraak"
+        "description": "rare_colourable_dragonlamp_2 desc"
       },
       {
         "code": "nft_rare_colourable_dragonlamp_3",
@@ -81034,7 +81034,7 @@
       {
         "code": "nft_rare_colourable_fountain_1",
         "name": "Azuurblauwe Fontein",
-        "description": "Azuurblauwe Fontein"
+        "description": "Een oase in elke kamer"
       },
       {
         "code": "nft_rare_colourable_fountain_2",
@@ -81059,7 +81059,7 @@
       {
         "code": "nft_rare_colourable_icecream_3",
         "name": "Turquoise Droomijsmachine",
-        "description": "Turquoise Droomijsmachine"
+        "description": "rare_colourable_icecream_3 desc"
       },
       {
         "code": "nft_rare_colourable_icecream_4",
@@ -81678,8 +81678,8 @@
       },
       {
         "code": "nft_steampunk15_plane",
-        "name": "nft_steampunk15_plane name",
-        "description": "nft_steampunk15_plane desc"
+        "name": "Steampunk Vliegtuig",
+        "description": "Wees stoer en kies voor avontuur"
       },
       {
         "code": "nft_steampunk_gramophone",
@@ -81688,8 +81688,8 @@
       },
       {
         "code": "nft_steampunk_timemach",
-        "name": "nft_steampunk_timemach name",
-        "description": "nft_steampunk_timemach desc"
+        "name": "Tijdmachine",
+        "description": "Reis naar de vierde dimensie"
       },
       {
         "code": "nft_svnr_de",
@@ -81848,8 +81848,8 @@
       },
       {
         "code": "nft_val15_dogstat",
-        "name": "nft_val15_dogstat name",
-        "description": "nft_val15_dogstat desc"
+        "name": "Doge en eend",
+        "description": "Dit standbeeld uit de oudheid zal je paleis bewaken."
       },
       {
         "code": "nft_val15_hottub",

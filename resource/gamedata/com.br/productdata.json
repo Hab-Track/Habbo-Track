@@ -75768,8 +75768,8 @@
       },
       {
         "code": "nft_a11_marquee",
-        "name": "Marquee - navy",
-        "description": "It's both door and a shade!"
+        "name": "$product_a11_marquee_name$",
+        "description": "$product_a11_marquee_desc$"
       },
       {
         "code": "nft_a11_nft_pillar",
@@ -76138,13 +76138,13 @@
       },
       {
         "code": "nft_a6_scifirocket",
-        "name": "Grey Scifirocket",
-        "description": "Retro steam engine"
+        "name": "$product_a6_scifirocket_name$",
+        "description": "$product_a6_scifirocket_desc$"
       },
       {
         "code": "nft_a6_wooden_screen",
-        "name": "Wooden screen - gold",
-        "description": "Add some oriental touch to your room."
+        "name": "$product_a6_wooden_screen_name$",
+        "description": "$product_a6_wooden_screen_desc$"
       },
       {
         "code": "nft_a7_marquee",
@@ -76353,8 +76353,8 @@
       },
       {
         "code": "nft_attic15_cabinet",
-        "name": "nft_attic15_cabinet name",
-        "description": "nft_attic15_cabinet desc"
+        "name": "Penteadeira antiga",
+        "description": "Limpe a poeira e veja o seu futuro!"
       },
       {
         "code": "nft_autumn_r20_pond",
@@ -76888,8 +76888,8 @@
       },
       {
         "code": "nft_cpunk15_roborat",
-        "name": "nft_cpunk15_roborat name",
-        "description": "nft_cpunk15_roborat desc"
+        "name": "Ratobô",
+        "description": "Beep estridente"
       },
       {
         "code": "nft_cpunk15_robosheep",
@@ -76958,13 +76958,13 @@
       },
       {
         "code": "nft_diamond_painting10",
-        "name": "nft_diamond_painting10 name",
-        "description": "nft_diamond_painting10 desc"
+        "name": "Criação do Habbo",
+        "description": "Por  Frankaelangelo"
       },
       {
         "code": "nft_diamond_painting24",
-        "name": "nft_diamond_painting24 name",
-        "description": "nft_diamond_painting24 desc"
+        "name": "Retrato de Adele Pato de Borracha",
+        "description": "diamond_painting24 desc"
       },
       {
         "code": "nft_diamond_painting31",
@@ -77198,8 +77198,8 @@
       },
       {
         "code": "nft_diamond_r23_elephant_statue",
-        "name": "nft_diamond_r23_elephant_statue name",
-        "description": "nft_diamond_r23_elephant_statue desc"
+        "name": "RARO Estátua Elefante de Diamante",
+        "description": "diamond_r23_elephant_statue desc"
       },
       {
         "code": "nft_diamond_r23_pillow",
@@ -77213,8 +77213,8 @@
       },
       {
         "code": "nft_diner_poster",
-        "name": "nft_diner_poster name",
-        "description": "nft_diner_poster desc"
+        "name": "Pôster Retrô",
+        "description": "Estilo que sobrevive ao tempo"
       },
       {
         "code": "nft_dino15_fossil2",
@@ -80653,8 +80653,8 @@
       },
       {
         "code": "nft_habbo15_birthdaycake",
-        "name": "nft_habbo15_birthdaycake name",
-        "description": "nft_habbo15_birthdaycake desc"
+        "name": "Bolo de Aniversário Habbo 15 anos",
+        "description": "Hora de cantar Parabéns!"
       },
       {
         "code": "nft_habbo15_dragonlamp",
@@ -80714,7 +80714,7 @@
       {
         "code": "nft_habbo15_scifiport",
         "name": "Porta Sci-Fi Grená",
-        "description": "Porta Sci-Fi Grená"
+        "description": "Deixe a energia boa entrar!"
       },
       {
         "code": "nft_habbo15_scifirocket",
@@ -81028,8 +81028,8 @@
       },
       {
         "code": "nft_paris15_cake",
-        "name": "nft_paris15_cake name",
-        "description": "nft_paris15_cake desc"
+        "name": "Bolo a la française",
+        "description": "5 estrelas de pixel para este bolo!"
       },
       {
         "code": "nft_pillar_2",
@@ -81158,8 +81158,8 @@
       },
       {
         "code": "nft_rare_blackrosegold_fan",
-        "name": "nft_rare_blackrosegold_fan name",
-        "description": "nft_rare_blackrosegold_fan desc"
+        "name": "Ventilador Ouro Rosa",
+        "description": "rare_blackrosegold_fan desc"
       },
       {
         "code": "nft_rare_blackrosegold_icecream",
@@ -81208,8 +81208,8 @@
       },
       {
         "code": "nft_rare_colourable_beehive_bulb_1",
-        "name": "nft_rare_colourable_beehive_bulb_1 name",
-        "description": "nft_rare_colourable_beehive_bulb_1 desc"
+        "name": "Lâmpada de Âmbar Safira",
+        "description": "Revela a verdadeira face de quem a rodeia."
       },
       {
         "code": "nft_rare_colourable_beehive_bulb_2",
@@ -81234,7 +81234,7 @@
       {
         "code": "nft_rare_colourable_dragonlamp_2",
         "name": "Lâmpada do Dragão Esmeralda",
-        "description": "Lâmpada do Dragão Esmeralda"
+        "description": "rare_colourable_dragonlamp_2 desc"
       },
       {
         "code": "nft_rare_colourable_dragonlamp_3",
@@ -81284,7 +81284,7 @@
       {
         "code": "nft_rare_colourable_fountain_1",
         "name": "Fonte Azul",
-        "description": "Fonte Azul"
+        "description": "Quase um oasis."
       },
       {
         "code": "nft_rare_colourable_fountain_2",
@@ -81309,7 +81309,7 @@
       {
         "code": "nft_rare_colourable_icecream_3",
         "name": "Sorveteira Água-Marinha",
-        "description": "Sorveteira Água-Marinha"
+        "description": "rare_colourable_icecream_3 desc"
       },
       {
         "code": "nft_rare_colourable_icecream_4",
@@ -81928,8 +81928,8 @@
       },
       {
         "code": "nft_steampunk15_plane",
-        "name": "nft_steampunk15_plane name",
-        "description": "nft_steampunk15_plane desc"
+        "name": "Avião Steampunk",
+        "description": "Seja incrível e escolha a aventura!"
       },
       {
         "code": "nft_steampunk_gramophone",
@@ -81938,8 +81938,8 @@
       },
       {
         "code": "nft_steampunk_timemach",
-        "name": "nft_steampunk_timemach name",
-        "description": "nft_steampunk_timemach desc"
+        "name": "Máquina do Tempo",
+        "description": "Uma viagem à Quarta Dimensão"
       },
       {
         "code": "nft_svnr_de",
@@ -82098,8 +82098,8 @@
       },
       {
         "code": "nft_val15_dogstat",
-        "name": "nft_val15_dogstat name",
-        "description": "nft_val15_dogstat desc"
+        "name": "Cão e Pato",
+        "description": "Esta estátua antiga guardará o seu palácio."
       },
       {
         "code": "nft_val15_hottub",

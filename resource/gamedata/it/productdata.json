@@ -75808,8 +75808,8 @@
       },
       {
         "code": "nft_a11_marquee",
-        "name": "Marquee - navy",
-        "description": "It's both door and a shade!"
+        "name": "$product_a11_marquee_name$",
+        "description": "$product_a11_marquee_desc$"
       },
       {
         "code": "nft_a11_nft_pillar",
@@ -76178,13 +76178,13 @@
       },
       {
         "code": "nft_a6_scifirocket",
-        "name": "Grey Scifirocket",
-        "description": "Retro steam engine"
+        "name": "$product_a6_scifirocket_name$",
+        "description": "$product_a6_scifirocket_desc$"
       },
       {
         "code": "nft_a6_wooden_screen",
-        "name": "Wooden screen - gold",
-        "description": "Add some oriental touch to your room."
+        "name": "$product_a6_wooden_screen_name$",
+        "description": "$product_a6_wooden_screen_desc$"
       },
       {
         "code": "nft_a7_marquee",
@@ -76393,8 +76393,8 @@
       },
       {
         "code": "nft_attic15_cabinet",
-        "name": "nft_attic15_cabinet name",
-        "description": "nft_attic15_cabinet desc"
+        "name": "Comò antico",
+        "description": "Togli la polvere per scoprire il tuo futuro"
       },
       {
         "code": "nft_autumn_r20_pond",
@@ -76928,8 +76928,8 @@
       },
       {
         "code": "nft_cpunk15_roborat",
-        "name": "nft_cpunk15_roborat name",
-        "description": "nft_cpunk15_roborat desc"
+        "name": "TopoRobo",
+        "description": "Squit Bip"
       },
       {
         "code": "nft_cpunk15_robosheep",
@@ -76998,13 +76998,13 @@
       },
       {
         "code": "nft_diamond_painting10",
-        "name": "nft_diamond_painting10 name",
-        "description": "nft_diamond_painting10 desc"
+        "name": "Dipinto: Creazione di Habbo",
+        "description": "Di Frankangelo"
       },
       {
         "code": "nft_diamond_painting24",
-        "name": "nft_diamond_painting24 name",
-        "description": "nft_diamond_painting24 desc"
+        "name": "Dipinto: La Donna Papera",
+        "description": "diamond_painting24 desc"
       },
       {
         "code": "nft_diamond_painting31",
@@ -77238,8 +77238,8 @@
       },
       {
         "code": "nft_diamond_r23_elephant_statue",
-        "name": "nft_diamond_r23_elephant_statue name",
-        "description": "nft_diamond_r23_elephant_statue desc"
+        "name": "Elefante Diamante Raro",
+        "description": "diamond_r23_elephant_statue desc"
       },
       {
         "code": "nft_diamond_r23_pillow",
@@ -77253,8 +77253,8 @@
       },
       {
         "code": "nft_diner_poster",
-        "name": "nft_diner_poster name",
-        "description": "nft_diner_poster desc"
+        "name": "Le Diner",
+        "description": "diner_poster desc"
       },
       {
         "code": "nft_dino15_fossil2",
@@ -80693,8 +80693,8 @@
       },
       {
         "code": "nft_habbo15_birthdaycake",
-        "name": "nft_habbo15_birthdaycake name",
-        "description": "nft_habbo15_birthdaycake desc"
+        "name": "Torta di Compleanno Habbo 15",
+        "description": "Se non hanno più pane, che mangino la torta!"
       },
       {
         "code": "nft_habbo15_dragonlamp",
@@ -80754,7 +80754,7 @@
       {
         "code": "nft_habbo15_scifiport",
         "name": "Porta Laser Marrone",
-        "description": "Porta Laser Marrone"
+        "description": "Fuga di energia. Non passare!"
       },
       {
         "code": "nft_habbo15_scifirocket",
@@ -81068,8 +81068,8 @@
       },
       {
         "code": "nft_paris15_cake",
-        "name": "nft_paris15_cake name",
-        "description": "nft_paris15_cake desc"
+        "name": "Torta Fruttosa di Frank",
+        "description": "Frank adora questa torta."
       },
       {
         "code": "nft_pillar_2",
@@ -81198,8 +81198,8 @@
       },
       {
         "code": "nft_rare_blackrosegold_fan",
-        "name": "nft_rare_blackrosegold_fan name",
-        "description": "nft_rare_blackrosegold_fan desc"
+        "name": "Ventilatore Potenziato Oro-Rosa",
+        "description": "rare_blackrosegold_fan desc"
       },
       {
         "code": "nft_rare_blackrosegold_icecream",
@@ -81248,8 +81248,8 @@
       },
       {
         "code": "nft_rare_colourable_beehive_bulb_1",
-        "name": "nft_rare_colourable_beehive_bulb_1 name",
-        "description": "nft_rare_colourable_beehive_bulb_1 desc"
+        "name": "Lampada d'Ambra Celeste",
+        "description": "Solo con questa lampada potrai vedere la verità!"
       },
       {
         "code": "nft_rare_colourable_beehive_bulb_2",
@@ -81274,7 +81274,7 @@
       {
         "code": "nft_rare_colourable_dragonlamp_2",
         "name": "Lampada Dragone Smeraldo",
-        "description": "Lampada Dragone Smeraldo"
+        "description": "rare_colourable_dragonlamp_2 desc"
       },
       {
         "code": "nft_rare_colourable_dragonlamp_3",
@@ -81324,7 +81324,7 @@
       {
         "code": "nft_rare_colourable_fountain_1",
         "name": "Fontana Celeste",
-        "description": "Fontana Celeste"
+        "description": "Eegante e rilassante"
       },
       {
         "code": "nft_rare_colourable_fountain_2",
@@ -81349,7 +81349,7 @@
       {
         "code": "nft_rare_colourable_icecream_3",
         "name": "Macchina del Gelato Foglia di tè",
-        "description": "Macchina del Gelato Foglia di tè"
+        "description": "rare_colourable_icecream_3 desc"
       },
       {
         "code": "nft_rare_colourable_icecream_4",
@@ -81968,8 +81968,8 @@
       },
       {
         "code": "nft_steampunk15_plane",
-        "name": "nft_steampunk15_plane name",
-        "description": "nft_steampunk15_plane desc"
+        "name": "Aeroplano Steampunk",
+        "description": "Diventa un mito e scegli l'avventura"
       },
       {
         "code": "nft_steampunk_gramophone",
@@ -81978,8 +81978,8 @@
       },
       {
         "code": "nft_steampunk_timemach",
-        "name": "nft_steampunk_timemach name",
-        "description": "nft_steampunk_timemach desc"
+        "name": "Macchina del Tempo",
+        "description": "Viaggio nella quarta dimensione"
       },
       {
         "code": "nft_svnr_de",
@@ -82138,8 +82138,8 @@
       },
       {
         "code": "nft_val15_dogstat",
-        "name": "nft_val15_dogstat name",
-        "description": "nft_val15_dogstat desc"
+        "name": "Doge e Anatroccolo",
+        "description": "Questa Statua Antica ti farà da guardia"
       },
       {
         "code": "nft_val15_hottub",
