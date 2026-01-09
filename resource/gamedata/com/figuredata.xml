@@ -19078,6 +19078,11 @@
                 <part id="6980" type="lc" colorable="0" index="2" colorindex="0"/>
                 <part id="6980" type="rc" colorable="0" index="2" colorindex="0"/>
             </set>
+            <set id="6266" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="6992" type="cc" colorable="1" index="0" colorindex="1"/>
+                <part id="6992" type="lc" colorable="1" index="0" colorindex="1"/>
+                <part id="6992" type="rc" colorable="1" index="0" colorindex="1"/>
+            </set>
             <set id="6306" gender="M" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="7062" type="cc" colorable="1" index="0" colorindex="1"/>
                 <part id="7062" type="lc" colorable="1" index="0" colorindex="1"/>
