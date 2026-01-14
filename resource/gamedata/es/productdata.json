@@ -32267,6 +32267,11 @@
         "description": ""
       },
       {
+        "code": "cl_floatingrainbow_",
+        "name": "Arcoíris flotante",
+        "description": ""
+      },
+      {
         "code": "cl_footballboppers_bd",
         "name": "Football Boppers",
         "description": ""
@@ -33558,7 +33563,7 @@
       },
       {
         "code": "clothing_autumnberet_dia",
-        "name": "Boina Otoñal",
+        "name": "Autumnal Baret",
         "description": ""
       },
       {
@@ -33568,7 +33573,7 @@
       },
       {
         "code": "clothing_autumnjacket_dia",
-        "name": "Chaqueta Bomber de Otoño",
+        "name": "Autumn Bomber Jacket",
         "description": ""
       },
       {
@@ -35163,7 +35168,7 @@
       },
       {
         "code": "clothing_ducketduckafro_d",
-        "name": "Pato Afro",
+        "name": "Duck Afro",
         "description": ""
       },
       {
@@ -35173,7 +35178,7 @@
       },
       {
         "code": "clothing_duckethat_dia",
-        "name": "Sombrero de Expedición Patito",
+        "name": "Ducket Hunter's Hat",
         "description": ""
       },
       {
@@ -35193,7 +35198,7 @@
       },
       {
         "code": "clothing_ducketshirt_dia",
-        "name": "Camiseta de Expedición Patito",
+        "name": "Ducket Hunter's T-Shirt",
         "description": ""
       },
       {
@@ -50768,7 +50773,7 @@
       },
       {
         "code": "ducket_c25_autumnconsolet",
-        "name": "Consola Baja",
+        "name": "Low Console Table",
         "description": ""
       },
       {
@@ -50778,7 +50783,7 @@
       },
       {
         "code": "ducket_c25_autumndecor_di",
-        "name": "Guirnalda Hojas de Otoño",
+        "name": "Autumn Leaf Garland",
         "description": ""
       },
       {
@@ -50788,7 +50793,7 @@
       },
       {
         "code": "ducket_c25_autumnlamp_dia",
-        "name": "Lámpara Relajante de techo",
+        "name": "Chill Hanging Lamp",
         "description": ""
       },
       {
@@ -50803,7 +50808,7 @@
       },
       {
         "code": "ducket_c25_autumnpod_dia",
-        "name": "Vaina de Bellota",
+        "name": "Acorn Pod",
         "description": ""
       },
       {
@@ -50813,7 +50818,7 @@
       },
       {
         "code": "ducket_c25_autumnrug_dia",
-        "name": "Alfombra Otoñal Suave al Tacto",
+        "name": "Cozy Autumn Rug",
         "description": ""
       },
       {
@@ -50823,7 +50828,7 @@
       },
       {
         "code": "ducket_c25_autumntable_di",
-        "name": "Mesa Otoñal",
+        "name": "Autumnal Table",
         "description": ""
       },
       {
@@ -50833,7 +50838,7 @@
       },
       {
         "code": "ducket_c25_autumnwall_dia",
-        "name": "Tapizado con Estampado de Hojas",
+        "name": "Leaf Print Wall",
         "description": ""
       },
       {
@@ -50843,7 +50848,7 @@
       },
       {
         "code": "ducket_c25_autumnwindow_d",
-        "name": "Ventana Hojas al Viento",
+        "name": "Leafy Window",
         "description": ""
       },
       {
@@ -50853,7 +50858,7 @@
       },
       {
         "code": "ducket_c25_bananatree_dia",
-        "name": "Banano",
+        "name": "Banana Tree",
         "description": ""
       },
       {
@@ -50863,7 +50868,7 @@
       },
       {
         "code": "ducket_c25_bed_dia",
-        "name": "Cama Patito Confortable",
+        "name": "Comfy Ducky Bed",
         "description": ""
       },
       {
@@ -50873,7 +50878,7 @@
       },
       {
         "code": "ducket_c25_brchair_dia",
-        "name": "Silla de jardín",
+        "name": "Garden Chair",
         "description": ""
       },
       {
@@ -50883,7 +50888,7 @@
       },
       {
         "code": "ducket_c25_brtable_dia",
-        "name": "Mesa de jardín",
+        "name": "Garden Table",
         "description": ""
       },
       {
@@ -50898,7 +50903,7 @@
       },
       {
         "code": "ducket_c25_cottagebook_di",
-        "name": "Lectura Relajante",
+        "name": "Cosy Book",
         "description": ""
       },
       {
@@ -50913,7 +50918,7 @@
       },
       {
         "code": "ducket_c25_cottageherbs_d",
-        "name": "Hierbas Esenciales",
+        "name": "Essential Herbs",
         "description": ""
       },
       {
@@ -50923,12 +50928,12 @@
       },
       {
         "code": "ducket_c25_cottagerug_dia",
-        "name": "Alfombra Rústica Patito",
+        "name": "Cottage Duck Rug",
         "description": ""
       },
       {
         "code": "ducket_c25_cottagestool_d",
-        "name": "Taburete Sedoso",
+        "name": "Fluffy Stool",
         "description": ""
       },
       {
@@ -50938,7 +50943,7 @@
       },
       {
         "code": "ducket_c25_duck_dia",
-        "name": "Patito Ducket",
+        "name": "Ducket Duck",
         "description": ""
       },
       {
@@ -50948,7 +50953,7 @@
       },
       {
         "code": "ducket_c25_duckcake_dia",
-        "name": "Pato Cupcake de Cumpleaños",
+        "name": "Duck Birthday Cupcake",
         "description": ""
       },
       {
@@ -50958,7 +50963,7 @@
       },
       {
         "code": "ducket_c25_ducklamp_dia",
-        "name": "Lámpara Patito",
+        "name": "Ducky Lamp",
         "description": ""
       },
       {
@@ -50968,7 +50973,7 @@
       },
       {
         "code": "ducket_c25_duckmug_dia",
-        "name": "Taza Patito Adorable",
+        "name": "Cute Duckling Mug",
         "description": ""
       },
       {
@@ -50978,7 +50983,7 @@
       },
       {
         "code": "ducket_c25_ducksofa_dia",
-        "name": "Sillón Patito de Terciopelo",
+        "name": "Soft Duckling Armchair",
         "description": ""
       },
       {
@@ -50988,7 +50993,7 @@
       },
       {
         "code": "ducket_c25_flowerstool_di",
-        "name": "Taburete Floral Patito",
+        "name": "Floral Ducket Stool",
         "description": ""
       },
       {
@@ -50998,7 +51003,7 @@
       },
       {
         "code": "ducket_c25_lilcrocexplore",
-        "name": "Pequeño Coco Explorador",
+        "name": "Lil Croc Explorer",
         "description": ""
       },
       {
@@ -51008,7 +51013,7 @@
       },
       {
         "code": "ducket_c25_plantpot_dia",
-        "name": "Planta Ornamental",
+        "name": "Ornamental Plant",
         "description": ""
       },
       {
@@ -51018,7 +51023,7 @@
       },
       {
         "code": "ducket_c25_rainbowdeco_di",
-        "name": "Plumas Ornamentales de Pavo Real",
+        "name": "Ornamental Peacock Feathers",
         "description": ""
       },
       {
@@ -51028,7 +51033,7 @@
       },
       {
         "code": "ducket_c25_rainbowstool_d",
-        "name": "Silla Nube Arcoíris",
+        "name": "Rainbow Cloud Stool",
         "description": ""
       },
       {
@@ -51043,7 +51048,7 @@
       },
       {
         "code": "ducket_c25_rug_dia",
-        "name": "Alfombra Abstracta",
+        "name": "Edgy Carpet",
         "description": ""
       },
       {
@@ -51053,7 +51058,7 @@
       },
       {
         "code": "ducket_c25_table_dia",
-        "name": "Mesa Patito",
+        "name": "Ducky Table",
         "description": ""
       },
       {
@@ -51063,7 +51068,7 @@
       },
       {
         "code": "ducket_c25_wall_dia",
-        "name": "Tapiz con Estilo",
+        "name": "Stylised Wallpaper",
         "description": ""
       },
       {
@@ -51073,7 +51078,7 @@
       },
       {
         "code": "ducket_c25_wardrobe_dia",
-        "name": "Armario Patito",
+        "name": "Cupboard of Ducks",
         "description": ""
       },
       {
@@ -51083,7 +51088,7 @@
       },
       {
         "code": "ducket_c25_warmfloor_dia",
-        "name": "Suelo Madera Cálida",
+        "name": "Warm Wood Floor",
         "description": ""
       },
       {
@@ -51093,7 +51098,7 @@
       },
       {
         "code": "ducket_c25_wovenhammock_d",
-        "name": "Hamaca Tropical",
+        "name": "Tropical Hammock",
         "description": ""
       },
       {
