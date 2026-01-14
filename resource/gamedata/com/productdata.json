@@ -34152,9 +34152,19 @@
         "description": "clothing_astralnecklace desc"
       },
       {
+        "code": "clothing_autumnberet_dia",
+        "name": "Autumnal Baret",
+        "description": ""
+      },
+      {
         "code": "clothing_autumnberet",
         "name": "Autumnal Baret",
         "description": "clothing_autumnberet desc"
+      },
+      {
+        "code": "clothing_autumnjacket_dia",
+        "name": "Autumn Bomber Jacket",
+        "description": ""
       },
       {
         "code": "clothing_autumnjacket",
@@ -35732,9 +35742,19 @@
         "description": "clothing_drsportsshirt desc"
       },
       {
+        "code": "clothing_ducketduckafro_d",
+        "name": "Duck Afro",
+        "description": ""
+      },
+      {
         "code": "clothing_ducketduckafro",
         "name": "Duck Afro",
         "description": "clothing_ducketduckafro desc"
+      },
+      {
+        "code": "clothing_duckethat_dia",
+        "name": "Ducket Hunter’s Hat",
+        "description": ""
       },
       {
         "code": "clothing_duckethat",
@@ -35750,6 +35770,11 @@
         "code": "clothing_ducketpenguinbackpack",
         "name": "Puffy Penguin Backpack",
         "description": "clothing_ducketpenguinbackpack desc"
+      },
+      {
+        "code": "clothing_ducketshirt_dia",
+        "name": "Ducket Hunter’s T-Shirt",
+        "description": ""
       },
       {
         "code": "clothing_ducketshirt",
@@ -57387,14 +57412,29 @@
         "description": "Braaaaiiinnns..."
       },
       {
+        "code": "ducket_c25_autumnconsolet",
+        "name": "Low Console Table",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_autumnconsoletable",
         "name": "Low Console Table",
         "description": "ducket_c25_autumnconsoletable desc"
       },
       {
+        "code": "ducket_c25_autumndecor_di",
+        "name": "Autumn Leaf Garland",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_autumndecor",
         "name": "Autumn Leaf Garland",
         "description": "ducket_c25_autumndecor desc"
+      },
+      {
+        "code": "ducket_c25_autumnlamp_dia",
+        "name": "Chill Hanging Lamp",
+        "description": ""
       },
       {
         "code": "ducket_c25_autumnlamp",
@@ -57403,8 +57443,13 @@
       },
       {
         "code": "ducket_c25_autumnplushie",
-        "name": "Baby Pumpkin",
+        "name": "$product_ducket_c25_autumnplushie_name$",
         "description": "ducket_c25_autumnplushie desc"
+      },
+      {
+        "code": "ducket_c25_autumnpod_dia",
+        "name": "Acorn Pod",
+        "description": ""
       },
       {
         "code": "ducket_c25_autumnpod",
@@ -57412,9 +57457,19 @@
         "description": "ducket_c25_autumnpod desc"
       },
       {
+        "code": "ducket_c25_autumnrug_dia",
+        "name": "Cozy Autumn Rug",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_autumnrug",
         "name": "Cozy Autumn Rug",
         "description": "ducket_c25_autumnrug desc"
+      },
+      {
+        "code": "ducket_c25_autumntable_di",
+        "name": "Autumnal Table",
+        "description": ""
       },
       {
         "code": "ducket_c25_autumntable",
@@ -57422,9 +57477,19 @@
         "description": "ducket_c25_autumntable desc"
       },
       {
+        "code": "ducket_c25_autumnwall_dia",
+        "name": "Leaf Print Wall",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_autumnwall",
         "name": "Leaf Print Wall",
         "description": "ducket_c25_autumnwall desc"
+      },
+      {
+        "code": "ducket_c25_autumnwindow_d",
+        "name": "Leafy Window",
+        "description": ""
       },
       {
         "code": "ducket_c25_autumnwindow",
@@ -57432,9 +57497,19 @@
         "description": "ducket_c25_autumnwindow desc"
       },
       {
+        "code": "ducket_c25_bananatree_dia",
+        "name": "Banana Tree",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_bananatree",
         "name": "Banana Tree",
         "description": "ducket_c25_bananatree desc"
+      },
+      {
+        "code": "ducket_c25_bed_dia",
+        "name": "Comfy Ducky Bed",
+        "description": ""
       },
       {
         "code": "ducket_c25_bed",
@@ -57442,9 +57517,19 @@
         "description": "ducket_c25_bed desc"
       },
       {
+        "code": "ducket_c25_brchair_dia",
+        "name": "Garden Chair",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_brchair",
         "name": "Garden Chair",
         "description": "ducket_c25_brchair desc"
+      },
+      {
+        "code": "ducket_c25_brtable_dia",
+        "name": "Garden Table",
+        "description": ""
       },
       {
         "code": "ducket_c25_brtable",
@@ -57454,6 +57539,11 @@
       {
         "code": "ducket_c25_chair",
         "name": "Garden Chair",
+        "description": ""
+      },
+      {
+        "code": "ducket_c25_cottagebook_di",
+        "name": "Cosy Book",
         "description": ""
       },
       {
@@ -57467,9 +57557,24 @@
         "description": "ducket_c25_cottageduckrug desc"
       },
       {
+        "code": "ducket_c25_cottageherbs_d",
+        "name": "Essential Herbs",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_cottageherbs",
         "name": "Essential Herbs",
         "description": "ducket_c25_cottageherbs desc"
+      },
+      {
+        "code": "ducket_c25_cottagerug_dia",
+        "name": "Cottage Duck Rug",
+        "description": ""
+      },
+      {
+        "code": "ducket_c25_cottagestool_d",
+        "name": "Fluffy Stool",
+        "description": ""
       },
       {
         "code": "ducket_c25_cottagestool",
@@ -57477,9 +57582,19 @@
         "description": "ducket_c25_cottagestool desc"
       },
       {
+        "code": "ducket_c25_duck_dia",
+        "name": "Ducket Duck",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_duck",
         "name": "Ducket Duck",
         "description": "ducket_c25_duck desc"
+      },
+      {
+        "code": "ducket_c25_duckcake_dia",
+        "name": "Duck Birthday Cupcake",
+        "description": ""
       },
       {
         "code": "ducket_c25_duckcake",
@@ -57487,9 +57602,19 @@
         "description": "ducket_c25_duckcake desc"
       },
       {
+        "code": "ducket_c25_ducklamp_dia",
+        "name": "Ducky Lamp",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_ducklamp",
         "name": "Ducky Lamp",
         "description": "ducket_c25_ducklamp desc"
+      },
+      {
+        "code": "ducket_c25_duckmug_dia",
+        "name": "Cute Duckling Mug",
+        "description": ""
       },
       {
         "code": "ducket_c25_duckmug",
@@ -57497,9 +57622,19 @@
         "description": "ducket_c25_duckmug desc"
       },
       {
+        "code": "ducket_c25_ducksofa_dia",
+        "name": "Soft Duckling Armchair",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_ducksofa",
         "name": "Soft Duckling Armchair",
         "description": "ducket_c25_ducksofa desc"
+      },
+      {
+        "code": "ducket_c25_flowerstool_di",
+        "name": "Floral Ducket Stool",
+        "description": ""
       },
       {
         "code": "ducket_c25_flowerstool",
@@ -57507,9 +57642,19 @@
         "description": "ducket_c25_flowerstool desc"
       },
       {
+        "code": "ducket_c25_lilcrocexplore",
+        "name": "Lil Croc Explorer",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_lilcrocexplorer",
         "name": "Lil Croc Explorer",
         "description": "ducket_c25_lilcrocexplorer desc"
+      },
+      {
+        "code": "ducket_c25_plantpot_dia",
+        "name": "Ornamental Plant",
+        "description": ""
       },
       {
         "code": "ducket_c25_plantpot",
@@ -57517,9 +57662,19 @@
         "description": "ducket_c25_plantpot desc"
       },
       {
+        "code": "ducket_c25_rainbowdeco_di",
+        "name": "Ornamental Peacock Feathers",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_rainbowdeco",
         "name": "Ornamental Peacock Feathers",
         "description": "ducket_c25_rainbowdeco desc"
+      },
+      {
+        "code": "ducket_c25_rainbowstool_d",
+        "name": "Rainbow Cloud Stool",
+        "description": ""
       },
       {
         "code": "ducket_c25_rainbowstool",
@@ -57528,8 +57683,13 @@
       },
       {
         "code": "ducket_c25_rainbowwasher",
-        "name": "Rainbow Washing Machine",
+        "name": "$product_ducket_c25_rainbowwasher_name$",
         "description": "ducket_c25_rainbowwasher desc"
+      },
+      {
+        "code": "ducket_c25_rug_dia",
+        "name": "Edgy Carpet",
+        "description": ""
       },
       {
         "code": "ducket_c25_rug",
@@ -57537,9 +57697,19 @@
         "description": "ducket_c25_rug desc"
       },
       {
+        "code": "ducket_c25_table_dia",
+        "name": "Ducky Table",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_table",
         "name": "Ducky Table",
         "description": "ducket_c25_table desc"
+      },
+      {
+        "code": "ducket_c25_wall_dia",
+        "name": "Stylised Wallpaper",
+        "description": ""
       },
       {
         "code": "ducket_c25_wall",
@@ -57547,14 +57717,29 @@
         "description": "ducket_c25_wall desc"
       },
       {
+        "code": "ducket_c25_wardrobe_dia",
+        "name": "Cupboard of Ducks",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_wardrobe",
         "name": "Cupboard of Ducks",
         "description": "ducket_c25_wardrobe desc"
       },
       {
+        "code": "ducket_c25_warmfloor_dia",
+        "name": "Warm Wood Floor",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_warmfloor",
         "name": "Warm Wood Floor",
         "description": "ducket_c25_warmfloor desc"
+      },
+      {
+        "code": "ducket_c25_wovenhammock_d",
+        "name": "Tropical Hammock",
+        "description": ""
       },
       {
         "code": "ducket_c25_wovenhammock",

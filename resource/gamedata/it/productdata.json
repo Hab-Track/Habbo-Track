@@ -33707,9 +33707,19 @@
         "description": "clothing_astralnecklace desc"
       },
       {
+        "code": "clothing_autumnberet_dia",
+        "name": "Berretto Autunnale",
+        "description": ""
+      },
+      {
         "code": "clothing_autumnberet",
         "name": "Berretto Autunnale",
         "description": "clothing_autumnberet desc"
+      },
+      {
+        "code": "clothing_autumnjacket_dia",
+        "name": "Bomber Autunnale",
+        "description": ""
       },
       {
         "code": "clothing_autumnjacket",
@@ -35287,9 +35297,19 @@
         "description": "T-shirt DR Sports"
       },
       {
+        "code": "clothing_ducketduckafro_d",
+        "name": "Anatroccolo Afro",
+        "description": ""
+      },
+      {
         "code": "clothing_ducketduckafro",
         "name": "Anatroccolo Afro",
         "description": "clothing_ducketduckafro desc"
+      },
+      {
+        "code": "clothing_duckethat_dia",
+        "name": "Cappello da Cacciatore Ducket",
+        "description": ""
       },
       {
         "code": "clothing_duckethat",
@@ -35305,6 +35325,11 @@
         "code": "clothing_ducketpenguinbackpack",
         "name": "Zaino Pinguino Paffuto",
         "description": "clothing_ducketpenguinbackpack desc"
+      },
+      {
+        "code": "clothing_ducketshirt_dia",
+        "name": "Maglietta da Cacciatore Ducket",
+        "description": ""
       },
       {
         "code": "clothing_ducketshirt",
@@ -51352,14 +51377,29 @@
         "description": "Cerveeellooo..."
       },
       {
+        "code": "ducket_c25_autumnconsolet",
+        "name": "Tavolino Basso",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_autumnconsoletable",
         "name": "Tavolino Basso",
         "description": "ducket_c25_autumnconsoletable desc"
       },
       {
+        "code": "ducket_c25_autumndecor_di",
+        "name": "Ghirlanda di Foglie Autunnali",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_autumndecor",
         "name": "Ghirlanda di Foglie Autunnali",
         "description": "ducket_c25_autumndecor desc"
+      },
+      {
+        "code": "ducket_c25_autumnlamp_dia",
+        "name": "Lampada da Tetto Chill",
+        "description": ""
       },
       {
         "code": "ducket_c25_autumnlamp",
@@ -51368,8 +51408,13 @@
       },
       {
         "code": "ducket_c25_autumnplushie",
-        "name": "Zucca Baby",
+        "name": "$product_ducket_c25_autumnplushie_name$",
         "description": "ducket_c25_autumnplushie desc"
+      },
+      {
+        "code": "ducket_c25_autumnpod_dia",
+        "name": "Guscio di Ghianda",
+        "description": ""
       },
       {
         "code": "ducket_c25_autumnpod",
@@ -51377,9 +51422,19 @@
         "description": "ducket_c25_autumnpod desc"
       },
       {
+        "code": "ducket_c25_autumnrug_dia",
+        "name": "Tappeto Autunnale Confortevole",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_autumnrug",
         "name": "Tappeto Autunnale Confortevole",
         "description": "ducket_c25_autumnrug desc"
+      },
+      {
+        "code": "ducket_c25_autumntable_di",
+        "name": "Tavolo Autunnale",
+        "description": ""
       },
       {
         "code": "ducket_c25_autumntable",
@@ -51387,9 +51442,19 @@
         "description": "ducket_c25_autumntable desc"
       },
       {
+        "code": "ducket_c25_autumnwall_dia",
+        "name": "Parete con motivo a Foglie",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_autumnwall",
         "name": "Parete con motivo a Foglie",
         "description": "ducket_c25_autumnwall desc"
+      },
+      {
+        "code": "ducket_c25_autumnwindow_d",
+        "name": "Finestra con Foglie",
+        "description": ""
       },
       {
         "code": "ducket_c25_autumnwindow",
@@ -51397,9 +51462,19 @@
         "description": "ducket_c25_autumnwindow desc"
       },
       {
+        "code": "ducket_c25_bananatree_dia",
+        "name": "Banano",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_bananatree",
         "name": "Banano",
         "description": "ducket_c25_bananatree desc"
+      },
+      {
+        "code": "ducket_c25_bed_dia",
+        "name": "Letto Anatroccoloso Comodo",
+        "description": ""
       },
       {
         "code": "ducket_c25_bed",
@@ -51407,9 +51482,19 @@
         "description": "ducket_c25_bed desc"
       },
       {
+        "code": "ducket_c25_brchair_dia",
+        "name": "Sedia da Giardino",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_brchair",
         "name": "Sedia da Giardino",
         "description": "ducket_c25_brchair desc"
+      },
+      {
+        "code": "ducket_c25_brtable_dia",
+        "name": "Tavolo da Giardino",
+        "description": ""
       },
       {
         "code": "ducket_c25_brtable",
@@ -51419,6 +51504,11 @@
       {
         "code": "ducket_c25_chair",
         "name": "Sedia da Giardino",
+        "description": ""
+      },
+      {
+        "code": "ducket_c25_cottagebook_di",
+        "name": "Libro Confortevole",
         "description": ""
       },
       {
@@ -51432,9 +51522,24 @@
         "description": "ducket_c25_cottageduckrug desc"
       },
       {
+        "code": "ducket_c25_cottageherbs_d",
+        "name": "Erbe Essenziali",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_cottageherbs",
         "name": "Erbe Essenziali",
         "description": "ducket_c25_cottageherbs desc"
+      },
+      {
+        "code": "ducket_c25_cottagerug_dia",
+        "name": "Tappeto Anatroccolo Cottage",
+        "description": ""
+      },
+      {
+        "code": "ducket_c25_cottagestool_d",
+        "name": "Sgabello Soffice",
+        "description": ""
       },
       {
         "code": "ducket_c25_cottagestool",
@@ -51442,9 +51547,19 @@
         "description": "ducket_c25_cottagestool desc"
       },
       {
+        "code": "ducket_c25_duck_dia",
+        "name": "Anatroccolo Ducket",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_duck",
         "name": "Anatroccolo Ducket",
         "description": "ducket_c25_duck desc"
+      },
+      {
+        "code": "ducket_c25_duckcake_dia",
+        "name": "Cupcake Anatroccolo di Compleanno",
+        "description": ""
       },
       {
         "code": "ducket_c25_duckcake",
@@ -51452,9 +51567,19 @@
         "description": "ducket_c25_duckcake desc"
       },
       {
+        "code": "ducket_c25_ducklamp_dia",
+        "name": "Lampada Anatroccolosa",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_ducklamp",
         "name": "Lampada Anatroccolosa",
         "description": "ducket_c25_ducklamp desc"
+      },
+      {
+        "code": "ducket_c25_duckmug_dia",
+        "name": "Tazzina Anatroccolosa Carina",
+        "description": ""
       },
       {
         "code": "ducket_c25_duckmug",
@@ -51462,9 +51587,19 @@
         "description": "ducket_c25_duckmug desc"
       },
       {
+        "code": "ducket_c25_ducksofa_dia",
+        "name": "Poltrona Anatroccolosa Morbida",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_ducksofa",
         "name": "Poltrona Anatroccolosa Morbida",
         "description": "ducket_c25_ducksofa desc"
+      },
+      {
+        "code": "ducket_c25_flowerstool_di",
+        "name": "Sgabello Floreale Ducket",
+        "description": ""
       },
       {
         "code": "ducket_c25_flowerstool",
@@ -51472,9 +51607,19 @@
         "description": "ducket_c25_flowerstool desc"
       },
       {
+        "code": "ducket_c25_lilcrocexplore",
+        "name": "Piccolo Coccodrillo Esploratore",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_lilcrocexplorer",
         "name": "Piccolo Coccodrillo Esploratore",
         "description": "ducket_c25_lilcrocexplorer desc"
+      },
+      {
+        "code": "ducket_c25_plantpot_dia",
+        "name": "Pianta Ornamentale",
+        "description": ""
       },
       {
         "code": "ducket_c25_plantpot",
@@ -51482,9 +51627,19 @@
         "description": "ducket_c25_plantpot desc"
       },
       {
+        "code": "ducket_c25_rainbowdeco_di",
+        "name": "Piume di Pavone Ornamentali",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_rainbowdeco",
         "name": "Piume di Pavone Ornamentali",
         "description": "ducket_c25_rainbowdeco desc"
+      },
+      {
+        "code": "ducket_c25_rainbowstool_d",
+        "name": "Sgabello Nuvola Arcobaleno",
+        "description": ""
       },
       {
         "code": "ducket_c25_rainbowstool",
@@ -51493,8 +51648,13 @@
       },
       {
         "code": "ducket_c25_rainbowwasher",
-        "name": "Lavatrice Arcobaleno",
+        "name": "$product_ducket_c25_rainbowwasher_name$",
         "description": "ducket_c25_rainbowwasher desc"
+      },
+      {
+        "code": "ducket_c25_rug_dia",
+        "name": "Tappeto Spigoloso",
+        "description": ""
       },
       {
         "code": "ducket_c25_rug",
@@ -51502,9 +51662,19 @@
         "description": "ducket_c25_rug desc"
       },
       {
+        "code": "ducket_c25_table_dia",
+        "name": "Tavolo Anatroccoloso",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_table",
         "name": "Tavolo Anatroccoloso",
         "description": "ducket_c25_table desc"
+      },
+      {
+        "code": "ducket_c25_wall_dia",
+        "name": "Parete Stilizzata",
+        "description": ""
       },
       {
         "code": "ducket_c25_wall",
@@ -51512,14 +51682,29 @@
         "description": "ducket_c25_wall desc"
       },
       {
+        "code": "ducket_c25_wardrobe_dia",
+        "name": "Credenza degli Anatroccoli",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_wardrobe",
         "name": "Credenza degli Anatroccoli",
         "description": "ducket_c25_wardrobe desc"
       },
       {
+        "code": "ducket_c25_warmfloor_dia",
+        "name": "Parquet",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_warmfloor",
         "name": "Parquet",
         "description": "ducket_c25_warmfloor desc"
+      },
+      {
+        "code": "ducket_c25_wovenhammock_d",
+        "name": "Amaca Tropicale",
+        "description": ""
       },
       {
         "code": "ducket_c25_wovenhammock",
@@ -59223,7 +59408,7 @@
       },
       {
         "code": "habbo15_woodenscreen",
-        "name": "Stanza Orientale Marrone",
+        "name": "Porta Orientale Bordeaux",
         "description": "Da un tocco esotico a ogni Stanza"
       },
       {
@@ -90038,7 +90223,7 @@
       },
       {
         "code": "rare_colourable_elephant_statue_3",
-        "name": "Statua Elefante Foglia di tè",
+        "name": "Statua Elefante Foglia di Tè",
         "description": "rare_colourable_elephant_statue_3 desc"
       },
       {
