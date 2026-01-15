@@ -49592,6 +49592,11 @@
         "description": "ducket_c25_autumnlamp desc"
       },
       {
+        "code": "ducket_c25_autumnplushie_",
+        "name": "$product_ducket_c25_autumnplushie_name$",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_autumnplushie",
         "name": "$product_ducket_c25_autumnplushie_name$",
         "description": "ducket_c25_autumnplushie desc"
@@ -49832,8 +49837,13 @@
         "description": "ducket_c25_rainbowstool desc"
       },
       {
+        "code": "ducket_c25_rainbowwasher_",
+        "name": "Machine à laver arc-en-ciel",
+        "description": ""
+      },
+      {
         "code": "ducket_c25_rainbowwasher",
-        "name": "$product_ducket_c25_rainbowwasher_name$",
+        "name": "Machine à laver arc-en-ciel",
         "description": "ducket_c25_rainbowwasher desc"
       },
       {
