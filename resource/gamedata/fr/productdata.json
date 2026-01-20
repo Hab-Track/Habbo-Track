@@ -5332,6 +5332,11 @@
         "description": "SID_c25_plush desc"
       },
       {
+        "code": "SID_c26_plush",
+        "name": "SID_c26_plush name",
+        "description": "SID_c26_plush desc"
+      },
+      {
         "code": "SONG AlleyCatInTrouble",
         "name": "Alley Cat in Trouble",
         "description": "By Rage Against the Fuse"
@@ -33277,6 +33282,11 @@
         "description": "Son odeur est aussi mauvaise que son apparence."
       },
       {
+        "code": "clothing_bedroll",
+        "name": "clothing_bedroll name",
+        "description": "clothing_bedroll desc"
+      },
+      {
         "code": "clothing_beetshirt",
         "name": "T-Shirt abeille",
         "description": "clothing_beetshirt desc"
@@ -33490,6 +33500,21 @@
         "code": "clothing_bookbag",
         "name": "Sac d'Écolier",
         "description": "clothing_bookbag desc"
+      },
+      {
+        "code": "clothing_borrowedshirt1",
+        "name": "clothing_borrowedshirt1 name",
+        "description": "clothing_borrowedshirt1 desc"
+      },
+      {
+        "code": "clothing_borrowedshirt2",
+        "name": "clothing_borrowedshirt2 name",
+        "description": "clothing_borrowedshirt2 desc"
+      },
+      {
+        "code": "clothing_borrowedshirt3",
+        "name": "clothing_borrowedshirt3 name",
+        "description": "clothing_borrowedshirt3 desc"
       },
       {
         "code": "clothing_botface",
@@ -42152,6 +42177,11 @@
         "description": "clothing_r25_yellowaisha desc"
       },
       {
+        "code": "clothing_r26_countingsheep",
+        "name": "clothing_r26_countingsheep name",
+        "description": "clothing_r26_countingsheep desc"
+      },
+      {
         "code": "clothing_r26_glitterwings",
         "name": "Ailes scintillantes",
         "description": "clothing_r26_glitterwings desc"
@@ -42160,6 +42190,11 @@
         "code": "clothing_r26_minielephant",
         "name": "Mini éléphant gris",
         "description": "clothing_r26_minielephant desc"
+      },
+      {
+        "code": "clothing_r26_plushiewings",
+        "name": "clothing_r26_plushiewings name",
+        "description": "clothing_r26_plushiewings desc"
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -42467,6 +42502,11 @@
         "description": "clothing_sharebearoutfit desc"
       },
       {
+        "code": "clothing_sharkonesie",
+        "name": "clothing_sharkonesie name",
+        "description": "clothing_sharkonesie desc"
+      },
+      {
         "code": "clothing_sharkplushie_bd",
         "name": "Peluche requin",
         "description": ""
@@ -42585,6 +42625,16 @@
         "code": "clothing_skullnecklace",
         "name": "Pendentif crâne maudit",
         "description": "Un sort de malchance pour une âme perdue."
+      },
+      {
+        "code": "clothing_sleepytimeadonis",
+        "name": "clothing_sleepytimeadonis name",
+        "description": "clothing_sleepytimeadonis desc"
+      },
+      {
+        "code": "clothing_sleepytimebun",
+        "name": "clothing_sleepytimebun name",
+        "description": "clothing_sleepytimebun desc"
       },
       {
         "code": "clothing_slickedbackhair2",
@@ -42830,6 +42880,11 @@
         "code": "clothing_stripeyshortsleevedshirt",
         "name": "Chemise à col rayé",
         "description": "clothing_stripeyshortsleevedshirt desc"
+      },
+      {
+        "code": "clothing_stripeywinterscarf",
+        "name": "clothing_stripeywinterscarf name",
+        "description": "clothing_stripeywinterscarf desc"
       },
       {
         "code": "clothing_stubblebeard",
@@ -49907,9 +49962,19 @@
         "description": "ducket_c25_wovenhammock desc"
       },
       {
+        "code": "ducket_c26_cottagebed",
+        "name": "ducket_c26_cottagebed name",
+        "description": "ducket_c26_cottagebed desc"
+      },
+      {
         "code": "ducket_c26_cottagecandle",
         "name": "Bougie d'ambiance",
         "description": "ducket_c26_cottagecandle desc"
+      },
+      {
+        "code": "ducket_c26_cottageplant",
+        "name": "ducket_c26_cottageplant name",
+        "description": "ducket_c26_cottageplant desc"
       },
       {
         "code": "ducket_c26_cottagewreath",
@@ -49920,6 +49985,11 @@
         "code": "ducket_c26_largecottageshelf",
         "name": "Étagères cottage",
         "description": "ducket_c26_largecottageshelf desc"
+      },
+      {
+        "code": "ducket_c26_smallcottageshelf",
+        "name": "ducket_c26_smallcottageshelf name",
+        "description": "ducket_c26_smallcottageshelf desc"
       },
       {
         "code": "duckets_100",
@@ -73172,6 +73242,76 @@
         "description": "neopets_c25_xweetokxmas desc"
       },
       {
+        "code": "neopets_c26_acarafae",
+        "name": "neopets_c26_acarafae name",
+        "description": "neopets_c26_acarafae desc"
+      },
+      {
+        "code": "neopets_c26_aishaval",
+        "name": "neopets_c26_aishaval name",
+        "description": "neopets_c26_aishaval desc"
+      },
+      {
+        "code": "neopets_c26_bruceval",
+        "name": "neopets_c26_bruceval name",
+        "description": "neopets_c26_bruceval desc"
+      },
+      {
+        "code": "neopets_c26_crackableval",
+        "name": "neopets_c26_crackableval name",
+        "description": "neopets_c26_crackableval desc"
+      },
+      {
+        "code": "neopets_c26_crackablevalb",
+        "name": "neopets_c26_crackablevalb name",
+        "description": "neopets_c26_crackablevalb desc"
+      },
+      {
+        "code": "neopets_c26_cybunnyval",
+        "name": "neopets_c26_cybunnyval name",
+        "description": "neopets_c26_cybunnyval desc"
+      },
+      {
+        "code": "neopets_c26_draikval",
+        "name": "neopets_c26_draikval name",
+        "description": "neopets_c26_draikval desc"
+      },
+      {
+        "code": "neopets_c26_eyriefae",
+        "name": "neopets_c26_eyriefae name",
+        "description": "neopets_c26_eyriefae desc"
+      },
+      {
+        "code": "neopets_c26_kacheekval",
+        "name": "neopets_c26_kacheekval name",
+        "description": "neopets_c26_kacheekval desc"
+      },
+      {
+        "code": "neopets_c26_kougraval",
+        "name": "neopets_c26_kougraval name",
+        "description": "neopets_c26_kougraval desc"
+      },
+      {
+        "code": "neopets_c26_lupeval",
+        "name": "neopets_c26_lupeval name",
+        "description": "neopets_c26_lupeval desc"
+      },
+      {
+        "code": "neopets_c26_shoyruval",
+        "name": "neopets_c26_shoyruval name",
+        "description": "neopets_c26_shoyruval desc"
+      },
+      {
+        "code": "neopets_c26_unival",
+        "name": "neopets_c26_unival name",
+        "description": "neopets_c26_unival desc"
+      },
+      {
+        "code": "neopets_c26_xweetokfae",
+        "name": "neopets_c26_xweetokfae name",
+        "description": "neopets_c26_xweetokfae desc"
+      },
+      {
         "code": "neopets_r25_neopetsarcade",
         "name": "Jeu d'arcade Neopets",
         "description": "neopets_r25_neopetsarcade desc"
@@ -84740,6 +84880,76 @@
         "code": "pixelduck_wall",
         "name": "Poster Canard",
         "description": "pixelduck_wall desc"
+      },
+      {
+        "code": "pj_c26_boardgames",
+        "name": "pj_c26_boardgames name",
+        "description": "pj_c26_boardgames desc"
+      },
+      {
+        "code": "pj_c26_duckplush",
+        "name": "pj_c26_duckplush name",
+        "description": "pj_c26_duckplush desc"
+      },
+      {
+        "code": "pj_c26_frankplush",
+        "name": "pj_c26_frankplush name",
+        "description": "pj_c26_frankplush desc"
+      },
+      {
+        "code": "pj_c26_nightlightbunny",
+        "name": "pj_c26_nightlightbunny name",
+        "description": "pj_c26_nightlightbunny desc"
+      },
+      {
+        "code": "pj_c26_nightlightcat",
+        "name": "pj_c26_nightlightcat name",
+        "description": "pj_c26_nightlightcat desc"
+      },
+      {
+        "code": "pj_c26_nightlightduck",
+        "name": "pj_c26_nightlightduck name",
+        "description": "pj_c26_nightlightduck desc"
+      },
+      {
+        "code": "pj_c26_nightlightghost",
+        "name": "pj_c26_nightlightghost name",
+        "description": "pj_c26_nightlightghost desc"
+      },
+      {
+        "code": "pj_c26_pillowcrackable",
+        "name": "pj_c26_pillowcrackable name",
+        "description": "pj_c26_pillowcrackable desc"
+      },
+      {
+        "code": "pj_c26_pillowcrackableb",
+        "name": "pj_c26_pillowcrackableb name",
+        "description": "pj_c26_pillowcrackableb desc"
+      },
+      {
+        "code": "pj_c26_pillowdragon",
+        "name": "pj_c26_pillowdragon name",
+        "description": "pj_c26_pillowdragon desc"
+      },
+      {
+        "code": "pj_c26_sleepytimeduck",
+        "name": "pj_c26_sleepytimeduck name",
+        "description": "pj_c26_sleepytimeduck desc"
+      },
+      {
+        "code": "pj_c26_toothbrushes",
+        "name": "pj_c26_toothbrushes name",
+        "description": "pj_c26_toothbrushes desc"
+      },
+      {
+        "code": "pj_r26_engagementring",
+        "name": "pj_r26_engagementring name",
+        "description": "pj_r26_engagementring desc"
+      },
+      {
+        "code": "pj_r26_rosesamovar",
+        "name": "pj_r26_rosesamovar name",
+        "description": "pj_r26_rosesamovar desc"
       },
       {
         "code": "planet_of_love",
