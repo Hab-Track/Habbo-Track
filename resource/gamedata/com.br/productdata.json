@@ -37602,6 +37602,11 @@
         "description": "clothing_nftblueraincoat desc"
       },
       {
+        "code": "clothing_nftbluerose",
+        "name": "Rosa Azul",
+        "description": ""
+      },
+      {
         "code": "clothing_nftbluestarshades",
         "name": "Óculos Estrela Azul",
         "description": "clothing_nftbluestarshades desc"
@@ -38047,6 +38052,11 @@
         "description": "clothing_nftflowershades5 desc"
       },
       {
+        "code": "clothing_nftflyingheart",
+        "name": "Coração Voador",
+        "description": ""
+      },
+      {
         "code": "clothing_nftfourtail",
         "name": "Penteado Multi-Chiquinhas",
         "description": "clothing_nftfourtail desc"
@@ -38237,6 +38247,11 @@
         "description": "clothing_nfthappy2026print desc"
       },
       {
+        "code": "clothing_nftheartearrings",
+        "name": "Brinco de Coração",
+        "description": ""
+      },
+      {
         "code": "clothing_nfthearteyes",
         "name": "Olhos Apaixonados",
         "description": "clothing_nfthearteyes desc"
@@ -38287,6 +38302,31 @@
         "description": "clothing_nfthoneyjar desc"
       },
       {
+        "code": "clothing_nfthorsecrown",
+        "name": "Ano da Coroa de Cavalo",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthorseyearmark1",
+        "name": "Impressão de Cobra Preta no Peito",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthorseyearmark2",
+        "name": "Impressão de Cobra Vermelha no Peito",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthorseyearmark3",
+        "name": "Impressão de Cobra Azul no Peito",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthorseyearmark4",
+        "name": "Impressão de Cobra Verde no Peito",
+        "description": ""
+      },
+      {
         "code": "clothing_nfticaruscrown",
         "name": "Coroa de Ícaro",
         "description": "clothing_nfticaruscrown desc"
@@ -38330,6 +38370,11 @@
         "code": "clothing_nftking",
         "name": "Estampa King",
         "description": "clothing_nftking desc"
+      },
+      {
+        "code": "clothing_nftkissmark",
+        "name": "Marca de Beijo",
+        "description": ""
       },
       {
         "code": "clothing_nftkpop",
@@ -38457,6 +38502,11 @@
         "description": "clothing_nftmonkeyfriend desc"
       },
       {
+        "code": "clothing_nftmoon",
+        "name": "Lua Sorridente",
+        "description": ""
+      },
+      {
         "code": "clothing_nftmop",
         "name": "Penteado Mop",
         "description": "clothing_nftmop desc"
@@ -38515,6 +38565,11 @@
         "code": "clothing_nftorigamihat2",
         "name": "Chapéuzinho de Papel Azul Aniversário 2 Anos",
         "description": "clothing_nftorigamihat2 desc"
+      },
+      {
+        "code": "clothing_nftpandamask",
+        "name": "Máscara de Dormir de Panda",
+        "description": ""
       },
       {
         "code": "clothing_nftpartyhat1",
@@ -39220,6 +39275,11 @@
         "code": "clothing_nfttangeberet",
         "name": "Boina Tangerina",
         "description": "clothing_nfttangeberet desc"
+      },
+      {
+        "code": "clothing_nftteddymask",
+        "name": "Máscara de Dormir de Ursinho",
+        "description": ""
       },
       {
         "code": "clothing_nftthebigcap",
@@ -80982,9 +81042,24 @@
         "description": ""
       },
       {
+        "code": "nft_h26_alarmboombox",
+        "name": "Caixa de Som com Alarme",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_bedtray",
+        "name": "Bandeja de Cama",
+        "description": ""
+      },
+      {
         "code": "nft_h26_bronzecontroller",
         "name": "Controle Bronze",
         "description": "nft_h26_bronzecontroller desc"
+      },
+      {
+        "code": "nft_h26_discobed",
+        "name": "Cama Disco",
+        "description": ""
       },
       {
         "code": "nft_h26_drpgamingchair",
@@ -81015,6 +81090,16 @@
         "code": "nft_h26_joystick",
         "name": "Decoração de Joystick Gigante",
         "description": "nft_h26_joystick desc"
+      },
+      {
+        "code": "nft_h26_pillowssofa",
+        "name": "Almofadas de Sofá",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_sandmangnome",
+        "name": "Gnomo Homem de Areia",
+        "description": ""
       },
       {
         "code": "nft_h26_silvercontroller",

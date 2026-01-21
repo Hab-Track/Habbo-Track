@@ -36712,6 +36712,11 @@
         "description": "clothing_nftblueraincoat desc"
       },
       {
+        "code": "clothing_nftbluerose",
+        "name": "Blauwe Roos",
+        "description": ""
+      },
+      {
         "code": "clothing_nftbluestarshades",
         "name": "Blauwe Sterretjes Zonnebril",
         "description": "clothing_nftbluestarshades desc"
@@ -37157,6 +37162,11 @@
         "description": "clothing_nftflowershades5 desc"
       },
       {
+        "code": "clothing_nftflyingheart",
+        "name": "Vliegend Hart",
+        "description": ""
+      },
+      {
         "code": "clothing_nftfourtail",
         "name": "Multihaar",
         "description": "clothing_nftfourtail desc"
@@ -37347,6 +37357,11 @@
         "description": "clothing_nfthappy2026print desc"
       },
       {
+        "code": "clothing_nftheartearrings",
+        "name": "Oorbellen met Hartjes",
+        "description": ""
+      },
+      {
         "code": "clothing_nfthearteyes",
         "name": "Verliefde Ogen",
         "description": "clothing_nfthearteyes desc"
@@ -37397,6 +37412,31 @@
         "description": "clothing_nfthoneyjar desc"
       },
       {
+        "code": "clothing_nfthorsecrown",
+        "name": "Jaar van het Paard Kroon",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthorseyearmark1",
+        "name": "Zwart Paard T-shirt Print",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthorseyearmark2",
+        "name": "Rood Paard T-shirt Print",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthorseyearmark3",
+        "name": "Blauw Paard T-shirt Print",
+        "description": ""
+      },
+      {
+        "code": "clothing_nfthorseyearmark4",
+        "name": "Groen Paard T-shirt Print",
+        "description": ""
+      },
+      {
         "code": "clothing_nfticaruscrown",
         "name": "Icarus Kroon",
         "description": "clothing_nfticaruscrown desc"
@@ -37440,6 +37480,11 @@
         "code": "clothing_nftking",
         "name": "King Print",
         "description": "clothing_nftking desc"
+      },
+      {
+        "code": "clothing_nftkissmark",
+        "name": "Kusafdruk",
+        "description": ""
       },
       {
         "code": "clothing_nftkpop",
@@ -37567,6 +37612,11 @@
         "description": "clothing_nftmonkeyfriend desc"
       },
       {
+        "code": "clothing_nftmoon",
+        "name": "Lachende Maan",
+        "description": ""
+      },
+      {
         "code": "clothing_nftmop",
         "name": "Wild Kapsel",
         "description": "clothing_nftmop desc"
@@ -37625,6 +37675,11 @@
         "code": "clothing_nftorigamihat2",
         "name": "Blauwe Boothoed - 2-jarig Jubileum",
         "description": "clothing_nftorigamihat2 desc"
+      },
+      {
+        "code": "clothing_nftpandamask",
+        "name": "Pandabeer Slaapmasker",
+        "description": ""
       },
       {
         "code": "clothing_nftpartyhat1",
@@ -38330,6 +38385,11 @@
         "code": "clothing_nfttangeberet",
         "name": "Fruitige Baret",
         "description": "clothing_nfttangeberet desc"
+      },
+      {
+        "code": "clothing_nftteddymask",
+        "name": "Teddybeer Slaapmasker",
+        "description": ""
       },
       {
         "code": "clothing_nftthebigcap",
@@ -80732,9 +80792,24 @@
         "description": ""
       },
       {
+        "code": "nft_h26_alarmboombox",
+        "name": "Wekker Boombox",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_bedtray",
+        "name": "Dienblad voor op Bed",
+        "description": ""
+      },
+      {
         "code": "nft_h26_bronzecontroller",
         "name": "Bronzen Controller",
         "description": "nft_h26_bronzecontroller desc"
+      },
+      {
+        "code": "nft_h26_discobed",
+        "name": "Discofeest Bed",
+        "description": ""
       },
       {
         "code": "nft_h26_drpgamingchair",
@@ -80765,6 +80840,16 @@
         "code": "nft_h26_joystick",
         "name": "Extra Grote Joystick",
         "description": "nft_h26_joystick desc"
+      },
+      {
+        "code": "nft_h26_pillowssofa",
+        "name": "Bank van Kussens",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_sandmangnome",
+        "name": "Klaas Vaak",
+        "description": ""
       },
       {
         "code": "nft_h26_silvercontroller",
