@@ -6,7 +6,8 @@ const xmlFormat = require('xml-formatter');
 async function formatTxt(dst, res, png_name) {
     if (dst.endsWith('.swf')) {
         try {
-            const buffer = await res.buffer();
+            const arrayBuffer = await res.arrayBuffer();
+            const buffer = Buffer.from(arrayBuffer);
             const pngStream = await swf2png(buffer).then(spritesheet => spritesheet.createPNGStream());
             await pipeline(pngStream, fs.createWriteStream(png_name));
         } catch (err) {

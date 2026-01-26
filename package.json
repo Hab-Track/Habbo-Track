@@ -4,7 +4,7 @@
   "description": "Track Habbo updates",
   "main": "src/main.js",
   "scripts": {
-    "test": "node src/main.js -d com"
+    "test": "node src/main.js -c clothes"
   },
   "repository": {
     "type": "git",
