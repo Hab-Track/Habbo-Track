@@ -12,6 +12,15 @@ class DiscordBot {
             images: [],
             text: new Map()
         };
+        
+        // Handle errors
+        this.client.on('error', (error) => {
+            console.error('Discord client error:', error.message);
+        });
+        
+        this.client.ws.on('error', (error) => {
+            console.error('Discord WebSocket error:', error.message);
+        });
     }
 
     async initialize() {
