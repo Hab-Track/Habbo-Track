@@ -32,8 +32,10 @@ async function fileExists(file) {
 }
 
 async function fetchRaw(src, opt) {
-  return retry(async () => {
-    const response = await fetchWithTimeout(src, opt, 5000); // reduce after some testing
+  return retry(async (attempt) => {
+    // Increase timeout progressively on retries
+    const timeout = 10000 + (attempt * 5000); // 10s, 15s, 20s, 25s
+    const response = await fetchWithTimeout(src, opt, timeout);
 
     if (!response.ok) {
       const err = new Error(`HTTP ${response.status} – ${response.statusText}`);
@@ -44,10 +46,10 @@ async function fetchRaw(src, opt) {
     return response;
   }, {
     retries: 3,
-    delay: 500,
+    delay: 1000,
     backoff: 2,
     onRetry: (err, attempt) => {
-      console.error(`Retry ${attempt} failed: ${err.message}`);
+      console.error(`Retry ${attempt} for ${src}: ${err.message}`);
     }
   }).catch((err) => {
     if (!err.message?.includes('HTTP 404')) {
@@ -87,15 +89,30 @@ async function fetchOne(src, dst, replace = false) {
 
 async function fetchMany(all, replace = false) {
   console.time(`Batch fetching ${all.length} URLs`)
-  await Promise.allSettled(
-    all.map((v) => fetchOne(v.src, v.dst, replace)
-      .catch((err) => {
-        if (!err.message?.includes('Status 404')) {
-          console.error(err)
-        }
-      })
-    )
-  )
+  
+  // Process in batches to avoid overwhelming the server
+  const BATCH_SIZE = 5;
+  const results = [];
+  
+  for (let i = 0; i < all.length; i += BATCH_SIZE) {
+    const batch = all.slice(i, i + BATCH_SIZE);
+    const batchResults = await Promise.allSettled(
+      batch.map((v) => fetchOne(v.src, v.dst, replace)
+        .catch((err) => {
+          if (!err.message?.includes('Status 404')) {
+            console.error(err)
+          }
+        })
+      )
+    );
+    results.push(...batchResults);
+    
+    // Small delay between batches
+    if (i + BATCH_SIZE < all.length) {
+      await new Promise(resolve => setTimeout(resolve, 100));
+    }
+  }
+  
   console.timeEnd(`Batch fetching ${all.length} URLs`)
 }
 
