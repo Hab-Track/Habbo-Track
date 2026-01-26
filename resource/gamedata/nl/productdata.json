@@ -36714,7 +36714,7 @@
       {
         "code": "clothing_nftbluerose",
         "name": "Blauwe Roos",
-        "description": ""
+        "description": "clothing_nftbluerose desc"
       },
       {
         "code": "clothing_nftbluestarshades",
@@ -37164,7 +37164,7 @@
       {
         "code": "clothing_nftflyingheart",
         "name": "Vliegend Hart",
-        "description": ""
+        "description": "clothing_nftflyingheart desc"
       },
       {
         "code": "clothing_nftfourtail",
@@ -37359,7 +37359,7 @@
       {
         "code": "clothing_nftheartearrings",
         "name": "Oorbellen met Hartjes",
-        "description": ""
+        "description": "clothing_nftheartearrings desc"
       },
       {
         "code": "clothing_nfthearteyes",
@@ -37414,27 +37414,27 @@
       {
         "code": "clothing_nfthorsecrown",
         "name": "Jaar van het Paard Kroon",
-        "description": ""
+        "description": "clothing_nfthorsecrown desc"
       },
       {
         "code": "clothing_nfthorseyearmark1",
         "name": "Zwart Paard T-shirt Print",
-        "description": ""
+        "description": "clothing_nfthorseyearmark1 desc"
       },
       {
         "code": "clothing_nfthorseyearmark2",
         "name": "Rood Paard T-shirt Print",
-        "description": ""
+        "description": "clothing_nfthorseyearmark2 desc"
       },
       {
         "code": "clothing_nfthorseyearmark3",
         "name": "Blauw Paard T-shirt Print",
-        "description": ""
+        "description": "clothing_nfthorseyearmark3 desc"
       },
       {
         "code": "clothing_nfthorseyearmark4",
         "name": "Groen Paard T-shirt Print",
-        "description": ""
+        "description": "clothing_nfthorseyearmark4 desc"
       },
       {
         "code": "clothing_nfticaruscrown",
@@ -37484,7 +37484,7 @@
       {
         "code": "clothing_nftkissmark",
         "name": "Kusafdruk",
-        "description": ""
+        "description": "clothing_nftkissmark desc"
       },
       {
         "code": "clothing_nftkpop",
@@ -37679,7 +37679,7 @@
       {
         "code": "clothing_nftpandamask",
         "name": "Pandabeer Slaapmasker",
-        "description": ""
+        "description": "clothing_nftpandamask desc"
       },
       {
         "code": "clothing_nftpartyhat1",
@@ -38389,7 +38389,7 @@
       {
         "code": "clothing_nftteddymask",
         "name": "Teddybeer Slaapmasker",
-        "description": ""
+        "description": "clothing_nftteddymask desc"
       },
       {
         "code": "clothing_nftthebigcap",
@@ -91815,6 +91815,81 @@
         "code": "rare_prize25_xmas",
         "name": "Kerst Lammetje",
         "description": "rare_prize25_xmas desc"
+      },
+      {
+        "code": "rare_prize26*0",
+        "name": "Bruin Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*10",
+        "name": "Saffier Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*11",
+        "name": "Jade Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*12",
+        "name": "Parelkleurige Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*13",
+        "name": "Turquoise Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*14",
+        "name": "Roze Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*1",
+        "name": "Robijnrode Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*2",
+        "name": "Obsidiaan Zwart Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*3",
+        "name": "Citrien Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*4",
+        "name": "Amethist Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*5",
+        "name": "Jaspis Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*6",
+        "name": "Smaragdgroen Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*7",
+        "name": "Tanzaniet Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*8",
+        "name": "Aquamarijn Tijgerwelpje",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*9",
+        "name": "Rhodochrosiet Tijgerwelpje",
+        "description": ""
       },
       {
         "code": "rare_prize26_0",

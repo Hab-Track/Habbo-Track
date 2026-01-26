@@ -9463,12 +9463,12 @@
       },
       {
         "code": "a5 rare_fan_bd",
-        "name": "Superlove Tuuletin",
+        "name": "Superlove-tuuletin",
         "description": ""
       },
       {
         "code": "a5 rare_fan",
-        "name": "Superlove Tuuletin",
+        "name": "Superlove-tuuletin",
         "description": "Puhaltaa romanttisia fiiliksiä"
       },
       {
@@ -9508,12 +9508,12 @@
       },
       {
         "code": "a5 scifiport_bd",
-        "name": "Pinkki Laserportti",
+        "name": "Pinkki laserportti",
         "description": ""
       },
       {
         "code": "a5 scifiport",
-        "name": "Pinkki Laserportti",
+        "name": "Pinkki laserportti",
         "description": "Varo, säteet kärtsäävät"
       },
       {
@@ -92007,6 +92007,81 @@
         "description": "rare_prize25_xmas desc"
       },
       {
+        "code": "rare_prize26*0",
+        "name": "Kellanruskea tiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*10",
+        "name": "Safiiritiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*11",
+        "name": "Jade tiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*12",
+        "name": "Helmitiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*13",
+        "name": "Turkoosi tiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*14",
+        "name": "Pinkki tiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*1",
+        "name": "Rubiinitiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*2",
+        "name": "Obsidiaanitiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*3",
+        "name": "Sitriinitiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*4",
+        "name": "Ametistitiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*5",
+        "name": "Jaspistiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*6",
+        "name": "Smaragditiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*7",
+        "name": "Tansaniittitiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*8",
+        "name": "Akvamariinitiikerinpentu",
+        "description": ""
+      },
+      {
+        "code": "rare_prize26*9",
+        "name": "Rodokrosiittitiikerinpentu",
+        "description": ""
+      },
+      {
         "code": "rare_prize26_0",
         "name": "Kellanruskea tiikerinpentu",
         "description": "rare_prize26_0 desc"
@@ -111133,7 +111208,7 @@
       },
       {
         "code": "val14_fountain",
-        "name": "Ikuisuuslähde",
+        "name": "Nuoruudenlähde",
         "description": "Pikselisuihku"
       },
       {
