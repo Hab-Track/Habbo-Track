@@ -42,7 +42,6 @@ async function main() {
 
     try {
         const bot = new DiscordBot();
-        await bot.initialize();
 
         if (!command) {
             for (const cmd of commands) {
@@ -70,6 +69,10 @@ async function main() {
 
         await processVars(bot);
         await processImages(bot);
+        
+        console.log('Initializing Discord bot...');
+        await bot.initialize();
+        
         console.time('Sending all messages');
         await bot.sendAllMessages();
         console.timeEnd('Sending all messages');

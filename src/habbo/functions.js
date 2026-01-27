@@ -90,8 +90,7 @@ async function fetchOne(src, dst, replace = false) {
 async function fetchMany(all, replace = false) {
   console.time(`Batch fetching ${all.length} URLs`)
   
-  // Process in batches to avoid overwhelming the server
-  const BATCH_SIZE = 5;
+  const BATCH_SIZE = 25;
   const results = [];
   
   for (let i = 0; i < all.length; i += BATCH_SIZE) {
@@ -107,7 +106,6 @@ async function fetchMany(all, replace = false) {
     );
     results.push(...batchResults);
     
-    // Small delay between batches
     if (i + BATCH_SIZE < all.length) {
       await new Promise(resolve => setTimeout(resolve, 100));
     }
