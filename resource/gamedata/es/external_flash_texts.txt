@@ -26202,7 +26202,7 @@ extendedprofile.addasafriend=Añadir amig@
 extendedprofile.block_player.desc=¿Estás seguro de que quieres bloquear a este usuario?\nEl usuario será:\n* Incapaz de entrar en tus salas.\n* Aparecerá como un fantasma anónimo.\n* Incapaz de enviar regalos, peticiones de amistad o tradear.
 extendedprofile.block_player.title=Bloquea usuario
 extendedprofile.block_player.tooltip=Bloquear este usuario.
-extendedprofile.blocked=<b>Nivel de drama:</b> 100%!<br><b>Usuario:</b> bloqueado.<br><b>Saldo:</b> restaurado.<br><br><u><a href="event:profile/unblock">Haz clic aquí</a></u> para desatar el caos.
+extendedprofile.blocked=<b>Nivel de drama:</b> ¡100%!<br><b>Usuario:</b> bloqueado.<br><b>Equilibrio:</b> restaurado.<br><br><u><a href="event:profile/unblock">Haz clic aquí</a></u> para desatar el caos.
 extendedprofile.caption=Perfil del Usuario
 extendedprofile.created=<b>Creado:</b> %created%
 extendedprofile.friend=Amigo
@@ -27945,7 +27945,7 @@ friendlist.invite.frequentalert.text=Por favor, espera 1 minuto antes de enviar 
 friendlist.invite.frequentalert.title=Has enviado la invitación muy rápido. 
 friendlist.invite.note=Asegúrate de que puedan seguirte.
 friendlist.invite.send=Enviar
-friendlist.invite.summary=Invitando a %count% personas a esta sala
+friendlist.invite.summary=Invitar a %count% persona(s) a esta sala
 friendlist.invite.title=Invitación
 friendlist.listfull.text=Tienes %mylimit% amigxs, ¡esto quiere decir que tu lista de contactos ha llegado al tope! La cantidad máxima para usuarixs normales es de 500 amigxs, ¡pero si te suscribes al Club HC puedes tener hasta 3000 amigxs en tu lista!
 friendlist.listfull.title=¡Atención!
@@ -38596,7 +38596,7 @@ navigator.roomsettings.floor_thickness.thinnest=Suelos más finos
 navigator.roomsettings.give_rights_friend=Dar derechos a un amigo
 navigator.roomsettings.give_rights_user=Dar derechos a un usuario en la sala
 navigator.roomsettings.hide_walls=Ocultar paredes (sólo HCs)
-navigator.roomsettings.invalidconfirm=Las claves no encajan
+navigator.roomsettings.invalidconfirm=Las claves no coinciden
 navigator.roomsettings.moderation.all=Tod@s
 navigator.roomsettings.moderation.ban.header=Quién puede expulsar:
 navigator.roomsettings.moderation.banned.users=Lista expulsad@s
