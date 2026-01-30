@@ -33592,6 +33592,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_countingsheep_bd",
+        "name": "Koyun Sayma",
+        "description": ""
+      },
+      {
         "code": "cl_r26_glitterwings_bd",
         "name": "Simli Kanatlar",
         "description": ""
@@ -33599,6 +33604,11 @@
       {
         "code": "cl_r26_minielephant_bd",
         "name": "Mini Gri Fil",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_plushiewings_bd",
+        "name": "Vintage Eros Kanatları",
         "description": ""
       },
       {
@@ -43943,7 +43953,7 @@
       },
       {
         "code": "clothing_r26_countingsheep",
-        "name": "clothing_r26_countingsheep name",
+        "name": "Koyun Sayma",
         "description": "clothing_r26_countingsheep desc"
       },
       {
@@ -43958,7 +43968,7 @@
       },
       {
         "code": "clothing_r26_plushiewings",
-        "name": "clothing_r26_plushiewings name",
+        "name": "Vintage Eros Kanatları",
         "description": "clothing_r26_plushiewings desc"
       },
       {
@@ -96437,13 +96447,23 @@
         "description": "pj_c26_toothbrushes desc"
       },
       {
+        "code": "pj_r26_engagementring_bd",
+        "name": "Nişan Yüzüğü",
+        "description": ""
+      },
+      {
         "code": "pj_r26_engagementring",
-        "name": "pj_r26_engagementring name",
+        "name": "Nişan Yüzüğü",
         "description": "pj_r26_engagementring desc"
       },
       {
+        "code": "pj_r26_rosesamovar_bd",
+        "name": "Elde boyanmış Semaver",
+        "description": ""
+      },
+      {
         "code": "pj_r26_rosesamovar",
-        "name": "pj_r26_rosesamovar name",
+        "name": "Elde boyanmış Semaver",
         "description": "pj_r26_rosesamovar desc"
       },
       {
@@ -104513,6 +104533,16 @@
       },
       {
         "code": "rm_dbl_tto283",
+        "name": "50 per cent Off 220 Credits",
+        "description": ""
+      },
+      {
+        "code": "rm_dbl_tto284",
+        "name": "50 per cent Off 220 Credits",
+        "description": ""
+      },
+      {
+        "code": "rm_dbl_tto285",
         "name": "50 per cent Off 220 Credits",
         "description": ""
       },

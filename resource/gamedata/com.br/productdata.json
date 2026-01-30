@@ -32587,6 +32587,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_countingsheep_bd",
+        "name": "Ovelhinha Flutuante",
+        "description": ""
+      },
+      {
         "code": "cl_r26_glitterwings_bd",
         "name": "Asas de Glitter",
         "description": ""
@@ -32594,6 +32599,11 @@
       {
         "code": "cl_r26_minielephant_bd",
         "name": "Mini Elefante Cinzento",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_plushiewings_bd",
+        "name": "Asas de Cupido Vintage",
         "description": ""
       },
       {
@@ -42953,7 +42963,7 @@
       },
       {
         "code": "clothing_r26_countingsheep",
-        "name": "clothing_r26_countingsheep name",
+        "name": "Ovelhinha Flutuante",
         "description": "clothing_r26_countingsheep desc"
       },
       {
@@ -42968,7 +42978,7 @@
       },
       {
         "code": "clothing_r26_plushiewings",
-        "name": "clothing_r26_plushiewings name",
+        "name": "Asas de Cupido Vintage",
         "description": "clothing_r26_plushiewings desc"
       },
       {
@@ -87007,13 +87017,23 @@
         "description": "pj_c26_toothbrushes desc"
       },
       {
+        "code": "pj_r26_engagementring_bd",
+        "name": "Anel da Intenção",
+        "description": ""
+      },
+      {
         "code": "pj_r26_engagementring",
-        "name": "pj_r26_engagementring name",
+        "name": "Anel da Intenção",
         "description": "pj_r26_engagementring desc"
       },
       {
+        "code": "pj_r26_rosesamovar_bd",
+        "name": "Samovar Pintado a Mão",
+        "description": ""
+      },
+      {
         "code": "pj_r26_rosesamovar",
-        "name": "pj_r26_rosesamovar name",
+        "name": "Samovar Pintado a Mão",
         "description": "pj_r26_rosesamovar desc"
       },
       {
@@ -94903,6 +94923,16 @@
       },
       {
         "code": "rm_dbl_tto283",
+        "name": "50 per cent Off 220 Credits",
+        "description": ""
+      },
+      {
+        "code": "rm_dbl_tto284",
+        "name": "50 per cent Off 220 Credits",
+        "description": ""
+      },
+      {
+        "code": "rm_dbl_tto285",
         "name": "50 per cent Off 220 Credits",
         "description": ""
       },

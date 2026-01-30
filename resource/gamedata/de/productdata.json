@@ -31992,6 +31992,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_countingsheep_bd",
+        "name": "Schäfchen zählen",
+        "description": ""
+      },
+      {
         "code": "cl_r26_glitterwings_bd",
         "name": "Glitterflügel",
         "description": ""
@@ -31999,6 +32004,11 @@
       {
         "code": "cl_r26_minielephant_bd",
         "name": "Grauer Mini-Elefant",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_plushiewings_bd",
+        "name": "Vintage Cupid-Flügel",
         "description": ""
       },
       {
@@ -42338,7 +42348,7 @@
       },
       {
         "code": "clothing_r26_countingsheep",
-        "name": "clothing_r26_countingsheep name",
+        "name": "Schäfchen zählen",
         "description": "clothing_r26_countingsheep desc"
       },
       {
@@ -42353,7 +42363,7 @@
       },
       {
         "code": "clothing_r26_plushiewings",
-        "name": "clothing_r26_plushiewings name",
+        "name": "Vintage Cupid-Flügel",
         "description": "clothing_r26_plushiewings desc"
       },
       {
@@ -86052,13 +86062,23 @@
         "description": "pj_c26_toothbrushes desc"
       },
       {
+        "code": "pj_r26_engagementring_bd",
+        "name": "Ein bedeutsamer Ring",
+        "description": ""
+      },
+      {
         "code": "pj_r26_engagementring",
-        "name": "pj_r26_engagementring name",
+        "name": "Ein bedeutsamer Ring",
         "description": "pj_r26_engagementring desc"
       },
       {
+        "code": "pj_r26_rosesamovar_bd",
+        "name": "Handbemalter Samowar",
+        "description": ""
+      },
+      {
         "code": "pj_r26_rosesamovar",
-        "name": "pj_r26_rosesamovar name",
+        "name": "Handbemalter Samowar",
         "description": "pj_r26_rosesamovar desc"
       },
       {
@@ -94023,6 +94043,16 @@
       },
       {
         "code": "rm_dbl_tto283",
+        "name": "50 per cent Off 220 Credits",
+        "description": ""
+      },
+      {
+        "code": "rm_dbl_tto284",
+        "name": "50 per cent Off 220 Credits",
+        "description": ""
+      },
+      {
+        "code": "rm_dbl_tto285",
         "name": "50 per cent Off 220 Credits",
         "description": ""
       },
