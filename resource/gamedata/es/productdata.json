@@ -31417,6 +31417,11 @@
         "description": "china_goldendragon desc"
       },
       {
+        "code": "china_goldenhorse",
+        "name": "china_goldenhorse name",
+        "description": "china_goldenhorse desc"
+      },
+      {
         "code": "china_goldenox",
         "name": "Estatua de Buey Dorado",
         "description": "china_goldenox desc"
@@ -38309,7 +38314,7 @@
       {
         "code": "clothing_nftmoon",
         "name": "Luna Sonriente",
-        "description": ""
+        "description": "clothing_nftmoon desc"
       },
       {
         "code": "clothing_nftmop",
@@ -53822,9 +53827,19 @@
         "description": "easter_c25_hotairballoon desc"
       },
       {
+        "code": "easter_c26_craftingtable",
+        "name": "easter_c26_craftingtable name",
+        "description": "easter_c26_craftingtable desc"
+      },
+      {
         "code": "easter_c26_elvenarchway",
         "name": "easter_c26_elvenarchway name",
         "description": "easter_c26_elvenarchway desc"
+      },
+      {
+        "code": "easter_c26_elvenboxb",
+        "name": "easter_c26_elvenboxb name",
+        "description": "easter_c26_elvenboxb desc"
       },
       {
         "code": "easter_c26_elvenbutton",
@@ -53837,6 +53852,11 @@
         "description": "easter_c26_elvenchair desc"
       },
       {
+        "code": "easter_c26_elvencloth",
+        "name": "easter_c26_elvencloth name",
+        "description": "easter_c26_elvencloth desc"
+      },
+      {
         "code": "easter_c26_elvendivider",
         "name": "easter_c26_elvendivider name",
         "description": "easter_c26_elvendivider desc"
@@ -53845,6 +53865,26 @@
         "code": "easter_c26_elvendiviercorners",
         "name": "easter_c26_elvendiviercorners name",
         "description": "easter_c26_elvendiviercorners desc"
+      },
+      {
+        "code": "easter_c26_elvenegg1",
+        "name": "easter_c26_elvenegg1 name",
+        "description": "easter_c26_elvenegg1 desc"
+      },
+      {
+        "code": "easter_c26_elvenegg2",
+        "name": "easter_c26_elvenegg2 name",
+        "description": "easter_c26_elvenegg2 desc"
+      },
+      {
+        "code": "easter_c26_elvenegg3",
+        "name": "easter_c26_elvenegg3 name",
+        "description": "easter_c26_elvenegg3 desc"
+      },
+      {
+        "code": "easter_c26_elvenegg4",
+        "name": "easter_c26_elvenegg4 name",
+        "description": "easter_c26_elvenegg4 desc"
       },
       {
         "code": "easter_c26_elvenfloor",
@@ -53870,6 +53910,11 @@
         "code": "easter_c26_elvenlongendtable",
         "name": "easter_c26_elvenlongendtable name",
         "description": "easter_c26_elvenlongendtable desc"
+      },
+      {
+        "code": "easter_c26_elvenorganicmat",
+        "name": "easter_c26_elvenorganicmat name",
+        "description": "easter_c26_elvenorganicmat desc"
       },
       {
         "code": "easter_c26_elvenpillar",
@@ -75277,6 +75322,11 @@
         "description": "Ho Ho Ho!"
       },
       {
+        "code": "nft_A0_val_cauldron",
+        "name": "Valentine's cauldron",
+        "description": ""
+      },
+      {
         "code": "nft_A1_A1P",
         "name": "Square Dining Table",
         "description": "Hip plastic furniture"
@@ -75400,6 +75450,11 @@
         "code": "nft_DEV_rclr_sofa",
         "name": "Polar Sofa",
         "description": "Snuggle up together"
+      },
+      {
+        "code": "nft_DEV_romantique_clock",
+        "name": "nft_romantique_clock",
+        "description": ""
       },
       {
         "code": "nft_Ecotron_Moon_Lamp",
@@ -75715,6 +75770,11 @@
         "code": "nft_a0_turntable",
         "name": "$product_djesko_turntable_name$",
         "description": "The wheels of expression"
+      },
+      {
+        "code": "nft_a0_valentinescreen",
+        "name": "Holiday romance",
+        "description": "Peep through and smile!"
       },
       {
         "code": "nft_a0_wooden_screen",
@@ -76425,6 +76485,56 @@
         "code": "nft_birds_r18_spoonbill",
         "name": "Pájaro Espátula",
         "description": "nft_birds_r18_spoonbill desc"
+      },
+      {
+        "code": "nft_book_rare_0",
+        "name": "nft_book_rare_0 name",
+        "description": "nft_book_rare_0 desc"
+      },
+      {
+        "code": "nft_book_rare_1",
+        "name": "nft_book_rare_1 name",
+        "description": "nft_book_rare_1 desc"
+      },
+      {
+        "code": "nft_book_rare_2",
+        "name": "nft_book_rare_2 name",
+        "description": "nft_book_rare_2 desc"
+      },
+      {
+        "code": "nft_book_rare_3",
+        "name": "nft_book_rare_3 name",
+        "description": "nft_book_rare_3 desc"
+      },
+      {
+        "code": "nft_book_rare_4",
+        "name": "nft_book_rare_4 name",
+        "description": "nft_book_rare_4 desc"
+      },
+      {
+        "code": "nft_book_rare_5",
+        "name": "nft_book_rare_5 name",
+        "description": "nft_book_rare_5 desc"
+      },
+      {
+        "code": "nft_book_rare_6",
+        "name": "nft_book_rare_6 name",
+        "description": "nft_book_rare_6 desc"
+      },
+      {
+        "code": "nft_book_rare_7",
+        "name": "nft_book_rare_7 name",
+        "description": "nft_book_rare_7 desc"
+      },
+      {
+        "code": "nft_book_rare_8",
+        "name": "nft_book_rare_8 name",
+        "description": "nft_book_rare_8 desc"
+      },
+      {
+        "code": "nft_book_rare_9",
+        "name": "nft_book_rare_9 name",
+        "description": "nft_book_rare_9 desc"
       },
       {
         "code": "nft_c22_babykong",
@@ -80619,12 +80729,12 @@
       {
         "code": "nft_h26_alarmboombox",
         "name": "Boombox Despertador",
-        "description": ""
+        "description": "nft_h26_alarmboombox desc"
       },
       {
         "code": "nft_h26_bedtray",
         "name": "Bandeja para la Cama",
-        "description": ""
+        "description": "nft_h26_bedtray desc"
       },
       {
         "code": "nft_h26_bronzecontroller",
@@ -80634,7 +80744,7 @@
       {
         "code": "nft_h26_discobed",
         "name": "Disco Cama",
-        "description": ""
+        "description": "nft_h26_discobed desc"
       },
       {
         "code": "nft_h26_drpgamingchair",
@@ -80669,12 +80779,12 @@
       {
         "code": "nft_h26_pillowssofa",
         "name": "Sofá de Almohadas",
-        "description": ""
+        "description": "nft_h26_pillowssofa desc"
       },
       {
         "code": "nft_h26_sandmangnome",
         "name": "Gnomo de los Sueños",
-        "description": ""
+        "description": "nft_h26_sandmangnome desc"
       },
       {
         "code": "nft_h26_silvercontroller",
@@ -81982,6 +82092,11 @@
         "description": "Un viaje a la cuarta dimensión"
       },
       {
+        "code": "nft_super_c16_pstrlove",
+        "name": "nft_super_c16_pstrlove name",
+        "description": "nft_super_c16_pstrlove desc"
+      },
+      {
         "code": "nft_svnr_de",
         "name": "Gnomo",
         "description": "nft_svnr_de desc"
@@ -82137,6 +82252,26 @@
         "description": "nft_val13_statue desc"
       },
       {
+        "code": "nft_val14_fountain",
+        "name": "nft_val14_fountain name",
+        "description": "nft_val14_fountain desc"
+      },
+      {
+        "code": "nft_val14_lamp",
+        "name": "nft_val14_lamp name",
+        "description": "nft_val14_lamp desc"
+      },
+      {
+        "code": "nft_val14_rosebook",
+        "name": "nft_val14_rosebook name",
+        "description": "nft_val14_rosebook desc"
+      },
+      {
+        "code": "nft_val15_crane",
+        "name": "nft_val15_crane name",
+        "description": "nft_val15_crane desc"
+      },
+      {
         "code": "nft_val15_dogstat",
         "name": "Dogo y Pato",
         "description": "Esta antigua estatua protegerá tu palacio"
@@ -82172,6 +82307,21 @@
         "description": "León florindo"
       },
       {
+        "code": "nft_val_c16_lovebirds",
+        "name": "nft_val_c16_lovebirds name",
+        "description": "nft_val_c16_lovebirds desc"
+      },
+      {
+        "code": "nft_val_c16_shellfountain",
+        "name": "nft_val_c16_shellfountain name",
+        "description": "nft_val_c16_shellfountain desc"
+      },
+      {
+        "code": "nft_val_c16_vase",
+        "name": "nft_val_c16_vase name",
+        "description": "nft_val_c16_vase desc"
+      },
+      {
         "code": "nft_val_r19_bath",
         "name": "Bañera Romántica",
         "description": "nft_val_r19_bath desc"
@@ -82190,6 +82340,11 @@
         "code": "nft_val_r19_sofa",
         "name": "Sofá Romántico",
         "description": "nft_val_r19_sofa desc"
+      },
+      {
+        "code": "nft_val_randomizer",
+        "name": "Love Randomizer",
+        "description": "Love Randomizer"
       },
       {
         "code": "nft_wildwest_gallows",
@@ -85730,6 +85885,56 @@
         "code": "pillow_bronze",
         "name": "Cojín: bronce",
         "description": "Comodidad con estilo"
+      },
+      {
+        "code": "pillow_pack10",
+        "name": "$pj_c26_pillowcrackable$ Pack 10",
+        "description": ""
+      },
+      {
+        "code": "pillow_pack1",
+        "name": "$pj_c26_pillowcrackable$ Pack 1",
+        "description": ""
+      },
+      {
+        "code": "pillow_pack2",
+        "name": "$pj_c26_pillowcrackable$ Pack 2",
+        "description": ""
+      },
+      {
+        "code": "pillow_pack3",
+        "name": "$pj_c26_pillowcrackable$ Pack 3",
+        "description": ""
+      },
+      {
+        "code": "pillow_pack4",
+        "name": "$pj_c26_pillowcrackable$ Pack 4",
+        "description": ""
+      },
+      {
+        "code": "pillow_pack5",
+        "name": "$pj_c26_pillowcrackable$ Pack 5",
+        "description": ""
+      },
+      {
+        "code": "pillow_pack6",
+        "name": "$pj_c26_pillowcrackable$ Pack 6",
+        "description": ""
+      },
+      {
+        "code": "pillow_pack7",
+        "name": "$pj_c26_pillowcrackable$ Pack 7",
+        "description": ""
+      },
+      {
+        "code": "pillow_pack8",
+        "name": "$pj_c26_pillowcrackable$ Pack 8",
+        "description": ""
+      },
+      {
+        "code": "pillow_pack9",
+        "name": "$pj_c26_pillowcrackable$ Pack 9",
+        "description": ""
       },
       {
         "code": "pillow_silver",
