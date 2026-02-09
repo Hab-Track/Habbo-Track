@@ -50068,7 +50068,7 @@
       },
       {
         "code": "ducket_c26_floor",
-        "name": "ducket_c26_floor name",
+        "name": "Cottage Floor",
         "description": "ducket_c26_floor desc"
       },
       {
@@ -110287,6 +110287,11 @@
         "description": "Affiche ton amitié au monde entier !"
       },
       {
+        "code": "valentines_lovelock2_dt",
+        "name": "Love Lock (Duckets)",
+        "description": ""
+      },
+      {
         "code": "valentines_lovelock2",
         "name": "Cadenas d'amour",
         "description": "Affiche ton amitié au monde entier !"
@@ -110325,6 +110330,11 @@
         "code": "valentines_lovelock9",
         "name": "Cadenas d'amour",
         "description": "Affiche ton amitié au monde entier !"
+      },
+      {
+        "code": "valentines_lovelock_dt",
+        "name": "Love Lock (Duckets)",
+        "description": ""
       },
       {
         "code": "valentines_lovelock",

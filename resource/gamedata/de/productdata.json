@@ -50948,7 +50948,7 @@
       },
       {
         "code": "ducket_c26_floor",
-        "name": "ducket_c26_floor name",
+        "name": "Cottage Floor",
         "description": "ducket_c26_floor desc"
       },
       {
@@ -111347,6 +111347,11 @@
         "description": "Zeigt der Welt eure Freundschaft!"
       },
       {
+        "code": "valentines_lovelock2_dt",
+        "name": "Love Lock (Duckets)",
+        "description": ""
+      },
+      {
         "code": "valentines_lovelock2",
         "name": "Liebesschloss",
         "description": "Zeigt der Welt eure Freundschaft!"
@@ -111385,6 +111390,11 @@
         "code": "valentines_lovelock9",
         "name": "Liebesschloss",
         "description": "Zeigt der Welt eure Freundschaft!"
+      },
+      {
+        "code": "valentines_lovelock_dt",
+        "name": "Love Lock (Duckets)",
+        "description": ""
       },
       {
         "code": "valentines_lovelock",
