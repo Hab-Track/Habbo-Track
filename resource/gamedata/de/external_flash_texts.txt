@@ -942,6 +942,9 @@
 26gameroom.image=web_promo_small/spromo_wildlife.png
 26gameroom.text=h2. Spielanleitung:- Um zu beginnen, gehe in der Warteschlange nach vorne. Wenn du der erste Spieler bist, klicke auf den Felsenplatz vor dir, um in den Zeichenbereich teleportiert zu werden.- Je nach Bild hast du 2 Minuten oder 2 Minuten 30 Sekunden, um es nachzubilden.\n\nh2. So zeichnest du :- Klicke auf eine Farbe auf der Palette (12 Farben + 1 Weiß zum Radieren), und klicke dann auf die Kästchen, die du auf deiner Plattform einfärben möchtest.- Sobald du deine Zeichnung fertiggestellt hast, klicke auf die Badge-Vitrine in der Nähe des Spielzählers, um sie einzureichen.- Wenn du einen Fehler gemacht hast, erscheint eine Nachricht und du kannst ihn beheben, solange noch Zeit bleibt.PS : Wenn du deinen Freunden beim Spielen zusehen möchtest, sage: **look**Viel Glück !
 26gameroom.title=Buntes Wild Life!
+26sidgame.image=web_promo_small/spromo_sidgame.png
+26sidgame.text=Teste dein Wissen und sieh, ob du erkennen kannst, was sicher ist und was ein Betrug ist. Achte genau darauf, denke klug und beweise, dass du weißt, wie man online sicher bleibt!\n\nh2. Spielanleitung:1) Lobbyraum:- Beginne, indem du auf einem der Sofas in der Mitte der Lobby sitzt und aufmerksam den Reden von Frank oder Piccolo zuhörst.- Sobald alle Nachrichten beendet sind, wirst du automatisch in den nächsten Raum teleportiert.2) Wartesaal:- Dort verwendest du das klassische BB-Ticket, um dich in die Warteschlange einzureihen und geduldig darauf zu warten, dass du dran bist.3) Betrug oder Sicher?:- Wenn du den Spielbereich betrittst, werden verschiedene Szenarien vor dir dargestellt.- Nach jedem wird Frank fragen: „Betrug oder Sicher?“- Wähle deine Antwort, indem du den roten Knopf für Betrug oder den grünen Knopf für Sicher drückst.- Identifiziere alle 6 Szenarien korrekt, um zu gewinnen, eine falsche Antwort führt zu deinem Ausscheiden also denke gut nach!
+26sidgame.title=Willkommen zum Safer Internet Day!
 ACH_PinataBreaker1_badge_name=${ACH_pinatabreaker1_badge_name}
 ACH_PinataBreaker2_badge_name=${ACH_pinatabreaker1_badge_name}
 ACH_PinataBreaker3_badge_name=${ACH_pinatabreaker1_badge_name}
@@ -22420,6 +22423,7 @@ badge_name_SLO05=Überholtes Regentag-Bündel 2.0
 badge_name_SLO06=Prinzessinnen-Bündel
 badge_name_SLO07=Sterngucker Bündel
 badge_name_SLO08=Februar 2026-Handwerksbündel
+badge_name_SLO09=Einen glücklichen Safer Internet Day 2026! 
 badge_name_SLO12=Habbo Brasilien Geburtstagsbündel
 badge_name_SM001=Instagram Geisterjäger Wettbewerb
 badge_name_SMB01=Bronze Level #HabboCreator

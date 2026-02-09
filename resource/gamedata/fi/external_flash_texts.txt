@@ -944,6 +944,9 @@
 26gameroom.image=web_promo_small/spromo_wildlife.png
 26gameroom.text=h2. Kuinka pelata:\n\n- Siirry jonoon päästäksesi peliin. Kun olet jonon ensimmäinen, napsauta edessäsi olevaa kivituolia siirtyäksesi piirtoalueelle.\n- Kuvasta riippuen sinulla on sen toistamiseen aikaa 2 minuuttia tai 2 minuuttia 30 sekuntia.\n\nh2. Kuinka piirtää:\n\n- Napsauta haluamaasi paletin väriä (12 väriä + valkoinen pyyhkimistä varten) ja sitten ruutuja, jotka haluat värittää.\n- Kun olet valmis piirroksesi kanssa, napsauta ajastimen lähellä olevaa merkkivitriiniä tarkastaaksesi kuvan.\n- Jos olet tehnyt virheen, saat siitä ilmoituksen ja voit korjata kuvaa, jos sinulla on vielä aikaa jäljellä.\nPS: jos haluat katsoa, kun kaverisi pelaavat, sano: **look**Onnea matkaan!
 26gameroom.title=Villieläinten värit
+26sidgame.image=web_promo_small/spromo_sidgame.png
+26sidgame.text=Testaa tietosi ja katso, erotatko mikä on Varmaa ja mikä Vedätystä. Pysy tarkkana, ajattele loogisesti ja todista, että tiedät, miten surfata netissä turvallisesti!\n\nh2. Miten pelata:\n\n1) Aula:\n\n- Aloita istumalla yhdelle aulan keskellä olevista sohvista ja kuuntele tarkasti Frankin tai Piccolon pitämiä puheita.\n- Kun kaikki puheet on pidetty, sinut siirretään automaattisesti seuraavaan huoneeseen.\n2) Jonotushuone:\n\n- Käytä klassista BB-lippua päästäksesi jonoon ja odota kärsivällisesti vuoroasi.\n3) Varmaa vai Vedätystä?:\n\n- Astuessasi pelialueelle, sinulle esitetään erilaisia skenaarioita.\n- Niistä jokaisen jälkeen Frank kysyy sinulta "Varmaa vai Vedätystä?"\n- Valitse vastauksesi painamalla punaista nappia Vedätykselle tai vihreää Varmalle.\n- Tunnista kaikki kuusi skenaariota oikein voittaaksesi. Yksikin väärä vastaus pudottaa sinut pelistä, joten mieti vastauksesi tarkkaan!\n
+26sidgame.title=Tervetuloa Turvallisempi internet -päivän peliin!
 ACH_PinataBreaker1_badge_name=${ACH_pinatabreaker1_badge_name}
 ACH_PinataBreaker2_badge_name=${ACH_pinatabreaker1_badge_name}
 ACH_PinataBreaker3_badge_name=${ACH_pinatabreaker1_badge_name}
@@ -12866,6 +12869,7 @@ badge_name_SLO05=Uudistettu sadepäivä 2.0 -huonepaketti
 badge_name_SLO06=Prinsessan huonepaketti
 badge_name_SLO07=Tähtien tähyilijän huonepaketti
 badge_name_SLO08=Helmikuun 2026 tehtailupaketti
+badge_name_SLO09=Hyvää Turvallisempi internet -päivää 2026!
 badge_name_SLO12=Brasilian Habbon synttäripaketti
 badge_name_SM001=Aavenmetsästäjät Instagram-kisa
 badge_name_SM1=Mainosmerkki Sebamed

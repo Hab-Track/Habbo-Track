@@ -944,6 +944,9 @@
 26gameroom.image=web_promo_small/spromo_wildlife.png
 26gameroom.text=h2. Come si gioca: \n\n- Per iniziare, avanza nella fila Quando sei il primo giocatore, fai clic sulla sedia di pietra di fronte a te per essere teletrasportato nell'area di disegno.\n- A seconda dell'immagine, avrai 2 minuti o 2 minuti e 30 secondi per riprodurla.\nh2. Come si disegna:\n\n- Clicca su un colore nella palette (12 colori + 1 bianco per cancellare), poi clicca sui quadrati che vuoi colorare sulla tua piattaforma.\n- Una volta che hai finito il tuo disegno, clicca sulla Vetrina Distintivo vicino al contatore del gioco per inviarlo.\n- Se commetti un errore, apparirà un messaggio e potrai sistemarlo finché avrai ancora tempo.\nPS : se vuoi vedere i tuoi amici giocare, dì: **look**\nBuona fortuna !
 26gameroom.title=Vita Selvaggia a Colori!
+26sidgame.image=web_promo_small/spromo_sidgame.png
+26sidgame.text=Metti alla prova le tue conoscenze e scopri se riesci a distinguere ciò che è Sicuro da ciò che è una Truffa. Fai attenzione, pensa in modo intelligente e dimostra di sapere come rimanere al sicuro online!h2. Come si gioca:\n\n1) Sala Lobby:\n\n- Inizia sedendoti su uno dei divani al centro della lobby e ascolta attentamente i discorsi tenuti da Frank o Piccolo.\n- Una volta che tutti i messaggi sono terminati, verrai teletrasportato automaticamente nella stanza successiva.\n2) Sala Coda:\n\n- Lì, usa il classico biglietto BB per unirti alla coda e attendi pazientemente il tuo turno.\n3) Truffa o Sicuro?:\n\n- Quando entri nell'area di gioco, diversi scenari verranno messi in scena davanti a te.\n- Dopo ciascuno, Frank chiederà “Truffa o Sicuro?”\n- Scegli la tua risposta premendo il pulsante rosso per Truffa o il pulsante verde per Sicuro.\n- Identifica correttamente tutti e 6 gli scenari per vincere, una risposta sbagliata ti eliminerà, quindi pensa attentamente!\
+26sidgame.title=Benvenuto/a al Safer Internet Day!
 ACH_PinataBreaker1_badge_name=${ACH_pinatabreaker1_badge_name}
 ACH_PinataBreaker2_badge_name=${ACH_pinatabreaker1_badge_name}
 ACH_PinataBreaker3_badge_name=${ACH_pinatabreaker1_badge_name}
@@ -15875,6 +15878,7 @@ badge_name_SLO05=Affare Stanza Giorno di Pioggia 2.0 Rinnovato
 badge_name_SLO06=Affare Stanza Principessa
 badge_name_SLO07=Affare Stanza Cacciatore di Stelle
 badge_name_SLO08=Affare Stanza Crafting Febbraio 2026
+badge_name_SLO09=Buon Safer Internet Day 2026!
 badge_name_SLO12=Affare Stanza Compleanno di Habbo Brasile
 badge_name_SM001=Competizione Instagram Ghost Hunter 
 badge_name_SMB01=#HabboCreator Livello Bronzo

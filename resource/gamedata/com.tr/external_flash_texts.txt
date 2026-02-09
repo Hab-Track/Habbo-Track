@@ -945,6 +945,9 @@
 26gameroom.image=web_promo_small/spromo_wildlife.png
 26gameroom.text=h2. How to play:\n\n- To start, move forward in the queue. When you’re the first player, click the rock seat in front of you to be teleported to the drawing area.\n- Depending on the image, you’ll have 2 minutes or 2 minutes 30 seconds to reproduce it.\n\nh2. How to draw :\n\n- Click a colour on the palette (12 colours + 1 white to erase), then click the squares you want to colour on your platform.\n- Once you’ve finished your drawing, click the badge display near the game counter to submit it.\n- If you’ve made a mistake, a message will appear and you’ll be able to fix it, as long as there’s time left.\nPS : if you want to watch your friends play, say: **look**\nGood luck !
 26gameroom.title=Wild Life in Colors
+26sidgame.image=web_promo_small/spromo_sidgame.png
+26sidgame.text=Bilginizi test edin ve hangisinin Güvenli, hangisinin Dolandırıcılık olduğunu tespit edip edemeyeceğinizi görün. Dikkatli olun, akıllıca düşünün ve çevrimiçi ortamda nasıl güvende kalacağınızı bildiğinizi kanıtlayın!\n\nh2. Oynama şekli:\n\n1) Lobi Odası:\n\n- Lobinin ortasındaki kanepelerden birine oturarak başlayın ve Frank veya Piccolo'nun yaptığı konuşmaları dikkatlice dinleyin.\n- Tüm mesajlar bittiğinde, otomatik olarak bir sonraki odaya ışınlanacaksınız.\n2) Sıra Odası:\n\n- Orada, sıraya girmek için klasik BB biletini kullanın ve sıranızı sabırla bekleyin.\n3) Dolandırıcılık mı yoksa Güvenli mi?:\n\n- Oyun alanına girdiğinizde, önünüzde farklı senaryolar canlandırılacaktır.\n- Her senaryodan sonra, Frank “Dolandırıcılık mı yoksa Güvenli mi?” diye soracak.\n- Dolandırıcılık için kırmızı butona veya Güvenli için yeşil butona basarak cevabınızı seçin.\n- Kazanmak için tüm 6 senaryoyu doğru bir şekilde tanımlayın, bir yanlış cevap sizi eler, bu yüzden dikkatlice düşünün!\n
+26sidgame.title=Güvenli İnternet Gününe hoş geldiniz!
 ACH_PinataBreaker1_badge_name=${ACH_pinatabreaker1_badge_name}
 ACH_PinataBreaker2_badge_name=${ACH_pinatabreaker1_badge_name}
 ACH_PinataBreaker3_badge_name=${ACH_pinatabreaker1_badge_name}
@@ -21054,6 +21057,7 @@ badge_name_SLO05=Yenilenmiş Yağmurlu Gün 2.0 Paketi
 badge_name_SLO06=Prenses Oda Paketi
 badge_name_SLO07=Yıldız Gözlemcisi Oda Paketi
 badge_name_SLO08=Şubat 2026 El İşi Paketi
+badge_name_SLO09=2026 Güvenli İnternet Günü!
 badge_name_SLO12=Habbo Brezilya Doğum Günü Paketi
 badge_name_SM001=Hayalet Avcıları Instagram yarışması
 badge_name_SMB01=Bronz Seviye #HabboCreator
