@@ -29104,6 +29104,7 @@ notification.invisible.room.bc=Huone on piilotettu muilta, koska siihen on käyt
 notification.invisible.room.short=Huone on tällä hetkellä piilossa muilta käyttäjiltä
 notification.invisible.room=Tämä huone on piilotettu muilta Habboilta. Haluatko esitellä sen koko hotellille?
 notification.kicked_from_room=Sinut potkittiin huoneesta.
+notification.moderation.alert.message=You got alerted for {reason}. This was detected by {sanctionSource} and the alert was decided by {decidedBy}. You can appeal within 6 months at {link}.
 notification.moderation.ambassador.mute.message=Olet saanut hiljennyksen Lähettiläältä. Kesto: {expiryDate}. Voit tehdä valituksen kuuden kuukauden sisällä osoitteessa {link}.
 notification.moderation.decided.automatically=automaattijärjestelmä
 notification.moderation.decided.manually=ihmismoderaattori

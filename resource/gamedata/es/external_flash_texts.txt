@@ -39012,6 +39012,7 @@ notification.invisible.room.bc=Tu sala permanece oculta al resto de personas por
 notification.invisible.room.short=Actualmente, esta sala está oculta para el resto de personas
 notification.invisible.room=La sala está oculta para el resto de Habbos. ¿Te gustaría mostrársela al resto del Hotel?
 notification.kicked_from_room=Has sido echado de la sala
+notification.moderation.alert.message=You got alerted for {reason}. This was detected by {sanctionSource} and the alert was decided by {decidedBy}. You can appeal within 6 months at {link}.
 notification.moderation.ambassador.mute.message=Tu cuenta ha sido muteada por un Embajador hasta {expiryDate}. Puedes presentar alegaciones durante los seis meses siguientes a través de {link}.
 notification.moderation.decided.automatically=un sistema automático
 notification.moderation.decided.manually=un moderador humano

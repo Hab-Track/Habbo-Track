@@ -35994,6 +35994,7 @@ notification.invisible.room.bc=Cet appart est invisible pour les autres joueurs 
 notification.invisible.room.short=Cette salle est actuellement cachée aux autres personnes
 notification.invisible.room=Cet appart est invisible pour les autres joueurs. Voudrais-tu le rendre visible ?
 notification.kicked_from_room=Expulsé de l'appart
+notification.moderation.alert.message=You got alerted for {reason}. This was detected by {sanctionSource} and the alert was decided by {decidedBy}. You can appeal within 6 months at {link}.
 notification.moderation.ambassador.mute.message=Tu as été mis en sourdine par un Ambassadeur jusqu’au {expiryDate}.  Tu peux faire appel dans un délai de 6 mois via {link}.
 notification.moderation.decided.automatically=par un système automatisé
 notification.moderation.decided.manually=par un modérateur humain
