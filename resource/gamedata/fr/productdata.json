@@ -34222,6 +34222,11 @@
         "description": "Look Campagnard."
       },
       {
+        "code": "clothing_crownedfantasydemon",
+        "name": "clothing_crownedfantasydemon name",
+        "description": "clothing_crownedfantasydemon desc"
+      },
+      {
         "code": "clothing_crystalnecklace",
         "name": "Collier gouttes de cristal",
         "description": "clothing_crystalnecklace desc"
@@ -34607,6 +34612,11 @@
         "description": "clothing_discohead desc"
       },
       {
+        "code": "clothing_diykittyplush",
+        "name": "clothing_diykittyplush name",
+        "description": "clothing_diykittyplush desc"
+      },
+      {
         "code": "clothing_docfranks",
         "name": "Doc Franks",
         "description": "clothing_docfranks desc"
@@ -34892,6 +34902,11 @@
         "description": "clothing_fantasycape desc"
       },
       {
+        "code": "clothing_fantasydemon",
+        "name": "clothing_fantasydemon name",
+        "description": "clothing_fantasydemon desc"
+      },
+      {
         "code": "clothing_fantasyheadpiece",
         "name": "Tiare en or fantastique",
         "description": "clothing_fantasyheadpiece desc"
@@ -35085,6 +35100,16 @@
         "code": "clothing_flowerdress",
         "name": "Robe de Fée fantastique",
         "description": "clothing_flowerdress desc"
+      },
+      {
+        "code": "clothing_flowereye",
+        "name": "clothing_flowereye name",
+        "description": "clothing_flowereye desc"
+      },
+      {
+        "code": "clothing_flowerheart",
+        "name": "clothing_flowerheart name",
+        "description": "clothing_flowerheart desc"
       },
       {
         "code": "clothing_flowerponytail",
@@ -42257,9 +42282,19 @@
         "description": "clothing_r26_countingsheep desc"
       },
       {
+        "code": "clothing_r26_flowerpothair",
+        "name": "clothing_r26_flowerpothair name",
+        "description": "clothing_r26_flowerpothair desc"
+      },
+      {
         "code": "clothing_r26_glitterwings",
         "name": "Ailes scintillantes",
         "description": "clothing_r26_glitterwings desc"
+      },
+      {
+        "code": "clothing_r26_mannequinskin",
+        "name": "clothing_r26_mannequinskin name",
+        "description": "clothing_r26_mannequinskin desc"
       },
       {
         "code": "clothing_r26_minielephant",
@@ -42270,6 +42305,11 @@
         "code": "clothing_r26_plushiewings",
         "name": "Ailes de Cupidon vintage",
         "description": "clothing_r26_plushiewings desc"
+      },
+      {
+        "code": "clothing_r26_robotcompanion",
+        "name": "clothing_r26_robotcompanion name",
+        "description": "clothing_r26_robotcompanion desc"
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -42795,6 +42835,11 @@
         "code": "clothing_snakepet",
         "name": "Compagnon de route",
         "description": ""
+      },
+      {
+        "code": "clothing_snakeyscarf",
+        "name": "clothing_snakeyscarf name",
+        "description": "clothing_snakeyscarf desc"
       },
       {
         "code": "clothing_snood",
@@ -50072,6 +50117,21 @@
         "description": "ducket_c26_floor desc"
       },
       {
+        "code": "ducket_c26_flowerbench",
+        "name": "ducket_c26_flowerbench name",
+        "description": "ducket_c26_flowerbench desc"
+      },
+      {
+        "code": "ducket_c26_honeygnome",
+        "name": "ducket_c26_honeygnome name",
+        "description": "ducket_c26_honeygnome desc"
+      },
+      {
+        "code": "ducket_c26_honeyparasol",
+        "name": "ducket_c26_honeyparasol name",
+        "description": "ducket_c26_honeyparasol desc"
+      },
+      {
         "code": "ducket_c26_largecottageshelf",
         "name": "Étagères cottage",
         "description": "ducket_c26_largecottageshelf desc"
@@ -50080,6 +50140,11 @@
         "code": "ducket_c26_smallcottageshelf",
         "name": "Étagère simple chalet",
         "description": "ducket_c26_smallcottageshelf desc"
+      },
+      {
+        "code": "ducket_c26_sweetflowers",
+        "name": "ducket_c26_sweetflowers name",
+        "description": "ducket_c26_sweetflowers desc"
       },
       {
         "code": "duckets_100",
@@ -60587,6 +60652,266 @@
         "description": "Qui a dit que les ours ne pouvaient pas skier..."
       },
       {
+        "code": "hobbies_c26_birdfeeder",
+        "name": "hobbies_c26_birdfeeder name",
+        "description": "hobbies_c26_birdfeeder desc"
+      },
+      {
+        "code": "hobbies_c26_boardgamescrackable",
+        "name": "hobbies_c26_boardgamescrackable name",
+        "description": "hobbies_c26_boardgamescrackable desc"
+      },
+      {
+        "code": "hobbies_c26_boardgamescrackableb",
+        "name": "hobbies_c26_boardgamescrackableb name",
+        "description": "hobbies_c26_boardgamescrackableb desc"
+      },
+      {
+        "code": "hobbies_c26_buttons",
+        "name": "hobbies_c26_buttons name",
+        "description": "hobbies_c26_buttons desc"
+      },
+      {
+        "code": "hobbies_c26_chair",
+        "name": "hobbies_c26_chair name",
+        "description": "hobbies_c26_chair desc"
+      },
+      {
+        "code": "hobbies_c26_d10",
+        "name": "hobbies_c26_d10 name",
+        "description": "hobbies_c26_d10 desc"
+      },
+      {
+        "code": "hobbies_c26_d12",
+        "name": "hobbies_c26_d12 name",
+        "description": "hobbies_c26_d12 desc"
+      },
+      {
+        "code": "hobbies_c26_d20",
+        "name": "hobbies_c26_d20 name",
+        "description": "hobbies_c26_d20 desc"
+      },
+      {
+        "code": "hobbies_c26_d4",
+        "name": "hobbies_c26_d4 name",
+        "description": "hobbies_c26_d4 desc"
+      },
+      {
+        "code": "hobbies_c26_d6",
+        "name": "hobbies_c26_d6 name",
+        "description": "hobbies_c26_d6 desc"
+      },
+      {
+        "code": "hobbies_c26_d8",
+        "name": "hobbies_c26_d8 name",
+        "description": "hobbies_c26_d8 desc"
+      },
+      {
+        "code": "hobbies_c26_dicetray",
+        "name": "hobbies_c26_dicetray name",
+        "description": "hobbies_c26_dicetray desc"
+      },
+      {
+        "code": "hobbies_c26_dirtpile",
+        "name": "hobbies_c26_dirtpile name",
+        "description": "hobbies_c26_dirtpile desc"
+      },
+      {
+        "code": "hobbies_c26_dmscreen",
+        "name": "hobbies_c26_dmscreen name",
+        "description": "hobbies_c26_dmscreen desc"
+      },
+      {
+        "code": "hobbies_c26_fabricscissors",
+        "name": "hobbies_c26_fabricscissors name",
+        "description": "hobbies_c26_fabricscissors desc"
+      },
+      {
+        "code": "hobbies_c26_flower",
+        "name": "hobbies_c26_flower name",
+        "description": "hobbies_c26_flower desc"
+      },
+      {
+        "code": "hobbies_c26_flowerpot1",
+        "name": "hobbies_c26_flowerpot1 name",
+        "description": "hobbies_c26_flowerpot1 desc"
+      },
+      {
+        "code": "hobbies_c26_flowerpot2",
+        "name": "hobbies_c26_flowerpot2 name",
+        "description": "hobbies_c26_flowerpot2 desc"
+      },
+      {
+        "code": "hobbies_c26_gamingtable",
+        "name": "hobbies_c26_gamingtable name",
+        "description": "hobbies_c26_gamingtable desc"
+      },
+      {
+        "code": "hobbies_c26_gardeningcrackable",
+        "name": "hobbies_c26_gardeningcrackable name",
+        "description": "hobbies_c26_gardeningcrackable desc"
+      },
+      {
+        "code": "hobbies_c26_gardeningcrackableb",
+        "name": "hobbies_c26_gardeningcrackableb name",
+        "description": "hobbies_c26_gardeningcrackableb desc"
+      },
+      {
+        "code": "hobbies_c26_gloves",
+        "name": "hobbies_c26_gloves name",
+        "description": "hobbies_c26_gloves desc"
+      },
+      {
+        "code": "hobbies_c26_hotgluegun",
+        "name": "hobbies_c26_hotgluegun name",
+        "description": "hobbies_c26_hotgluegun desc"
+      },
+      {
+        "code": "hobbies_c26_journal",
+        "name": "hobbies_c26_journal name",
+        "description": "hobbies_c26_journal desc"
+      },
+      {
+        "code": "hobbies_c26_lawnmover",
+        "name": "hobbies_c26_lawnmover name",
+        "description": "hobbies_c26_lawnmover desc"
+      },
+      {
+        "code": "hobbies_c26_loosetags",
+        "name": "hobbies_c26_loosetags name",
+        "description": "hobbies_c26_loosetags desc"
+      },
+      {
+        "code": "hobbies_c26_mannequin",
+        "name": "hobbies_c26_mannequin name",
+        "description": "hobbies_c26_mannequin desc"
+      },
+      {
+        "code": "hobbies_c26_ornated10",
+        "name": "hobbies_c26_ornated10 name",
+        "description": "hobbies_c26_ornated10 desc"
+      },
+      {
+        "code": "hobbies_c26_ornated12",
+        "name": "hobbies_c26_ornated12 name",
+        "description": "hobbies_c26_ornated12 desc"
+      },
+      {
+        "code": "hobbies_c26_ornated20",
+        "name": "hobbies_c26_ornated20 name",
+        "description": "hobbies_c26_ornated20 desc"
+      },
+      {
+        "code": "hobbies_c26_ornated4",
+        "name": "hobbies_c26_ornated4 name",
+        "description": "hobbies_c26_ornated4 desc"
+      },
+      {
+        "code": "hobbies_c26_ornated6",
+        "name": "hobbies_c26_ornated6 name",
+        "description": "hobbies_c26_ornated6 desc"
+      },
+      {
+        "code": "hobbies_c26_ornated8",
+        "name": "hobbies_c26_ornated8 name",
+        "description": "hobbies_c26_ornated8 desc"
+      },
+      {
+        "code": "hobbies_c26_owlbear",
+        "name": "hobbies_c26_owlbear name",
+        "description": "hobbies_c26_owlbear desc"
+      },
+      {
+        "code": "hobbies_c26_pincushion",
+        "name": "hobbies_c26_pincushion name",
+        "description": "hobbies_c26_pincushion desc"
+      },
+      {
+        "code": "hobbies_c26_preciouswateringcan",
+        "name": "hobbies_c26_preciouswateringcan name",
+        "description": "hobbies_c26_preciouswateringcan desc"
+      },
+      {
+        "code": "hobbies_c26_preciouswateringcanb",
+        "name": "hobbies_c26_preciouswateringcanb name",
+        "description": "hobbies_c26_preciouswateringcanb desc"
+      },
+      {
+        "code": "hobbies_c26_rose",
+        "name": "hobbies_c26_rose name",
+        "description": "hobbies_c26_rose desc"
+      },
+      {
+        "code": "hobbies_c26_sewingcrackable",
+        "name": "hobbies_c26_sewingcrackable name",
+        "description": "hobbies_c26_sewingcrackable desc"
+      },
+      {
+        "code": "hobbies_c26_sewingcrackableb",
+        "name": "hobbies_c26_sewingcrackableb name",
+        "description": "hobbies_c26_sewingcrackableb desc"
+      },
+      {
+        "code": "hobbies_c26_sewingmachine",
+        "name": "hobbies_c26_sewingmachine name",
+        "description": "hobbies_c26_sewingmachine desc"
+      },
+      {
+        "code": "hobbies_c26_shovel",
+        "name": "hobbies_c26_shovel name",
+        "description": "hobbies_c26_shovel desc"
+      },
+      {
+        "code": "hobbies_c26_tapemeasure",
+        "name": "hobbies_c26_tapemeasure name",
+        "description": "hobbies_c26_tapemeasure desc"
+      },
+      {
+        "code": "hobbies_c26_teddypincushion",
+        "name": "hobbies_c26_teddypincushion name",
+        "description": "hobbies_c26_teddypincushion desc"
+      },
+      {
+        "code": "hobbies_c26_threads",
+        "name": "hobbies_c26_threads name",
+        "description": "hobbies_c26_threads desc"
+      },
+      {
+        "code": "hobbies_c26_tool1",
+        "name": "hobbies_c26_tool1 name",
+        "description": "hobbies_c26_tool1 desc"
+      },
+      {
+        "code": "hobbies_c26_tool2",
+        "name": "hobbies_c26_tool2 name",
+        "description": "hobbies_c26_tool2 desc"
+      },
+      {
+        "code": "hobbies_c26_tool3",
+        "name": "hobbies_c26_tool3 name",
+        "description": "hobbies_c26_tool3 desc"
+      },
+      {
+        "code": "hobbies_c26_waterhose",
+        "name": "hobbies_c26_waterhose name",
+        "description": "hobbies_c26_waterhose desc"
+      },
+      {
+        "code": "hobbies_c26_wateringcan",
+        "name": "hobbies_c26_wateringcan name",
+        "description": "hobbies_c26_wateringcan desc"
+      },
+      {
+        "code": "hobbies_c26_wheelbarrow",
+        "name": "hobbies_c26_wheelbarrow name",
+        "description": "hobbies_c26_wheelbarrow desc"
+      },
+      {
+        "code": "hobbies_r26_diamondblade",
+        "name": "hobbies_r26_diamondblade name",
+        "description": "hobbies_r26_diamondblade desc"
+      },
+      {
         "code": "hof_parameter_test",
         "name": "hof_parameter_test name",
         "description": "hof_parameter_test desc"
@@ -70385,6 +70710,11 @@
         "code": "mar24_saintpatricksday",
         "name": "Fête de la Saint-Patrick",
         "description": ""
+      },
+      {
+        "code": "march_c26_submarine",
+        "name": "march_c26_submarine name",
+        "description": "march_c26_submarine desc"
       },
       {
         "code": "mariachidoll_badge",
