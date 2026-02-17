@@ -3079,7 +3079,7 @@
       {
         "code": "CF_250_flowerperfume",
         "name": "Kultainen kukkaparfyymi",
-        "description": ""
+        "description": "CF_250_flowerperfume desc"
       },
       {
         "code": "CF_250_frogprince",
@@ -28919,22 +28919,22 @@
       {
         "code": "bonusbag26_1",
         "name": "Bonussäkki I",
-        "description": ""
+        "description": "bonusbag26_1 desc"
       },
       {
         "code": "bonusbag26_2",
         "name": "Bonussäkki II",
-        "description": ""
+        "description": "bonusbag26_2 desc"
       },
       {
         "code": "bonusbag26_3",
         "name": "Bonussäkki III",
-        "description": ""
+        "description": "bonusbag26_3 desc"
       },
       {
         "code": "bonusbag26_4",
         "name": "Bonussäkki IV",
-        "description": ""
+        "description": "bonusbag26_4 desc"
       },
       {
         "code": "bonusrare16_1_1",
@@ -30254,102 +30254,122 @@
       {
         "code": "bonusrare26_1_0",
         "name": "Hopeinen DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_0 desc"
       },
       {
         "code": "bonusrare26_1_1",
         "name": "Pinkki DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_1 desc"
       },
       {
         "code": "bonusrare26_1_2",
         "name": "Sininen DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_2 desc"
       },
       {
         "code": "bonusrare26_1_3",
         "name": "Vihreä DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_3 desc"
       },
       {
         "code": "bonusrare26_1_4",
         "name": "Violetti DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_4 desc"
       },
       {
         "code": "bonusrare26_1_5",
         "name": "Musta DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_5 desc"
       },
       {
         "code": "bonusrare26_2_0",
         "name": "Oranssi Kawaii-kissajuliste",
-        "description": ""
+        "description": "bonusrare26_2_0 desc"
       },
       {
         "code": "bonusrare26_2_1",
         "name": "Violetti Kawaii-kissajuliste",
-        "description": ""
+        "description": "bonusrare26_2_1 desc"
       },
       {
         "code": "bonusrare26_2_2",
         "name": "Pinkki Kawaii-kissajuliste",
-        "description": ""
+        "description": "bonusrare26_2_2 desc"
       },
       {
         "code": "bonusrare26_2_3",
         "name": "Vihreä Kawaii-kissajuliste",
-        "description": ""
+        "description": "bonusrare26_2_3 desc"
       },
       {
         "code": "bonusrare26_2_4",
         "name": "Sininen Kawaii-kissajuliste",
-        "description": ""
+        "description": "bonusrare26_2_4 desc"
       },
       {
         "code": "bonusrare26_2_5",
         "name": "Harmaa Kawaii-kissajuliste",
-        "description": ""
+        "description": "bonusrare26_2_5 desc"
       },
       {
         "code": "bonusrare26_3_0",
         "name": "Rubiinijalokivi",
-        "description": ""
+        "description": "bonusrare26_3_0 desc"
       },
       {
         "code": "bonusrare26_3_1",
         "name": "Ametistijalokivi",
-        "description": ""
+        "description": "bonusrare26_3_1 desc"
       },
       {
         "code": "bonusrare26_3_2",
         "name": "Safiirijalokivi",
-        "description": ""
+        "description": "bonusrare26_3_2 desc"
       },
       {
         "code": "bonusrare26_3_3",
         "name": "Meripihkajalokivi",
-        "description": ""
+        "description": "bonusrare26_3_3 desc"
       },
       {
         "code": "bonusrare26_3_4",
         "name": "Topaasijalokivi",
-        "description": ""
+        "description": "bonusrare26_3_4 desc"
       },
       {
         "code": "bonusrare26_3_5",
         "name": "Smaragdijalokivi",
-        "description": ""
+        "description": "bonusrare26_3_5 desc"
       },
       {
         "code": "bonusrare26_4_0",
         "name": "Limetinvihreä ufo-vauva",
-        "description": ""
+        "description": "bonusrare26_4_0 desc"
       },
       {
         "code": "bonusrare26_4_1",
         "name": "Sähkönsininen ufo-vauva",
-        "description": ""
+        "description": "bonusrare26_4_1 desc"
+      },
+      {
+        "code": "bonusrare26_4_2",
+        "name": "bonusrare26_4_2 name",
+        "description": "bonusrare26_4_2 desc"
+      },
+      {
+        "code": "bonusrare26_4_3",
+        "name": "bonusrare26_4_3 name",
+        "description": "bonusrare26_4_3 desc"
+      },
+      {
+        "code": "bonusrare26_4_4",
+        "name": "bonusrare26_4_4 name",
+        "description": "bonusrare26_4_4 desc"
+      },
+      {
+        "code": "bonusrare26_4_5",
+        "name": "bonusrare26_4_5 name",
+        "description": "bonusrare26_4_5 desc"
       },
       {
         "code": "bonusrare_april16",
@@ -36494,7 +36514,7 @@
       {
         "code": "clothing_gamertee",
         "name": "Habbo Gamer -t-paita",
-        "description": ""
+        "description": "clothing_gamertee desc"
       },
       {
         "code": "clothing_gardenapron",
@@ -58074,7 +58094,7 @@
       {
         "code": "game_c26_handheldvendingmchn",
         "name": "Habbo Gamer -myyntiautomaatti",
-        "description": ""
+        "description": "game_c26_handheldvendingmchn desc"
       },
       {
         "code": "gaming_c18_chairpro",
@@ -69254,7 +69274,7 @@
       {
         "code": "jan_c26_builderduck",
         "name": "Raksa-ankka",
-        "description": ""
+        "description": "jan_c26_builderduck desc"
       },
       {
         "code": "jetset_landhigh",
@@ -81674,7 +81694,7 @@
       {
         "code": "nft_h26_Hsthodl",
         "name": "H St. HODL -pelikone",
-        "description": ""
+        "description": "nft_h26_Hsthodl desc"
       },
       {
         "code": "nft_h26_alarmboombox",
@@ -110019,7 +110039,7 @@
       {
         "code": "trophy_baw",
         "name": "Builders At Work -pokaali",
-        "description": ""
+        "description": "trophy_baw desc"
       },
       {
         "code": "trophy_chatterbox_bronze",

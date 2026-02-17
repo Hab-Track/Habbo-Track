@@ -3254,7 +3254,7 @@
       {
         "code": "CF_250_flowerperfume",
         "name": "Altın Çiçek Kokulu Parfüm",
-        "description": ""
+        "description": "CF_250_flowerperfume desc"
       },
       {
         "code": "CF_250_frogprince",
@@ -29289,22 +29289,22 @@
       {
         "code": "bonusbag26_1",
         "name": "Bonus Çanta I",
-        "description": ""
+        "description": "bonusbag26_1 desc"
       },
       {
         "code": "bonusbag26_2",
         "name": "Bonus Çanta II",
-        "description": ""
+        "description": "bonusbag26_2 desc"
       },
       {
         "code": "bonusbag26_3",
         "name": "Bonus Çanta III",
-        "description": ""
+        "description": "bonusbag26_3 desc"
       },
       {
         "code": "bonusbag26_4",
         "name": "Bonus Çanta IV",
-        "description": ""
+        "description": "bonusbag26_4 desc"
       },
       {
         "code": "bonusrare16_1_1",
@@ -30624,102 +30624,122 @@
       {
         "code": "bonusrare26_1_0",
         "name": "Gümüş DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_0 desc"
       },
       {
         "code": "bonusrare26_1_1",
         "name": "Pembe DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_1 desc"
       },
       {
         "code": "bonusrare26_1_2",
         "name": "Mavi DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_2 desc"
       },
       {
         "code": "bonusrare26_1_3",
         "name": "Yeşil DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_3 desc"
       },
       {
         "code": "bonusrare26_1_4",
         "name": "Mor DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_4 desc"
       },
       {
         "code": "bonusrare26_1_5",
         "name": "Siyah DuckBook",
-        "description": ""
+        "description": "bonusrare26_1_5 desc"
       },
       {
         "code": "bonusrare26_2_0",
         "name": "Turuncu Kawaii Kedi Baskısı",
-        "description": ""
+        "description": "bonusrare26_2_0 desc"
       },
       {
         "code": "bonusrare26_2_1",
         "name": "Mor Kawaii Kedi Baskısı",
-        "description": ""
+        "description": "bonusrare26_2_1 desc"
       },
       {
         "code": "bonusrare26_2_2",
         "name": "Pembe Kawaii Kedi Baskısı",
-        "description": ""
+        "description": "bonusrare26_2_2 desc"
       },
       {
         "code": "bonusrare26_2_3",
         "name": "Yeşil Kawaii Kedi Baskısı",
-        "description": ""
+        "description": "bonusrare26_2_3 desc"
       },
       {
         "code": "bonusrare26_2_4",
         "name": "Mavi Kawaii Kedi Baskısı",
-        "description": ""
+        "description": "bonusrare26_2_4 desc"
       },
       {
         "code": "bonusrare26_2_5",
         "name": "Gri Kawaii Kedi Baskısı",
-        "description": ""
+        "description": "bonusrare26_2_5 desc"
       },
       {
         "code": "bonusrare26_3_0",
         "name": "Yakut Taş",
-        "description": ""
+        "description": "bonusrare26_3_0 desc"
       },
       {
         "code": "bonusrare26_3_1",
         "name": "Ametist Taş",
-        "description": ""
+        "description": "bonusrare26_3_1 desc"
       },
       {
         "code": "bonusrare26_3_2",
         "name": "Safir Taş",
-        "description": ""
+        "description": "bonusrare26_3_2 desc"
       },
       {
         "code": "bonusrare26_3_3",
         "name": "Kehribar Taş",
-        "description": ""
+        "description": "bonusrare26_3_3 desc"
       },
       {
         "code": "bonusrare26_3_4",
         "name": "Topaz Taş",
-        "description": ""
+        "description": "bonusrare26_3_4 desc"
       },
       {
         "code": "bonusrare26_3_5",
         "name": "Zümrüt Taş",
-        "description": ""
+        "description": "bonusrare26_3_5 desc"
       },
       {
         "code": "bonusrare26_4_0",
         "name": "Radyoaktif Uzaylı Bebek",
-        "description": ""
+        "description": "bonusrare26_4_0 desc"
       },
       {
         "code": "bonusrare26_4_1",
         "name": "Elektrik Uzaylı Bebek",
-        "description": ""
+        "description": "bonusrare26_4_1 desc"
+      },
+      {
+        "code": "bonusrare26_4_2",
+        "name": "bonusrare26_4_2 name",
+        "description": "bonusrare26_4_2 desc"
+      },
+      {
+        "code": "bonusrare26_4_3",
+        "name": "bonusrare26_4_3 name",
+        "description": "bonusrare26_4_3 desc"
+      },
+      {
+        "code": "bonusrare26_4_4",
+        "name": "bonusrare26_4_4 name",
+        "description": "bonusrare26_4_4 desc"
+      },
+      {
+        "code": "bonusrare26_4_5",
+        "name": "bonusrare26_4_5 name",
+        "description": "bonusrare26_4_5 desc"
       },
       {
         "code": "bonusrare_april16",
@@ -36904,7 +36924,7 @@
       {
         "code": "clothing_gamertee",
         "name": "Habbo Gamer Tişörtü",
-        "description": ""
+        "description": "clothing_gamertee desc"
       },
       {
         "code": "clothing_gardenapron",
@@ -67044,7 +67064,7 @@
       {
         "code": "game_c26_handheldvendingmchn",
         "name": "Habbo Gamer Otomat Makinesi",
-        "description": ""
+        "description": "game_c26_handheldvendingmchn desc"
       },
       {
         "code": "gaming_c18_chairpro",
@@ -78339,7 +78359,7 @@
       {
         "code": "jan_c26_builderduck",
         "name": "Habbo Mimar Ördekçik",
-        "description": ""
+        "description": "jan_c26_builderduck desc"
       },
       {
         "code": "jetset_landhigh",
@@ -91014,7 +91034,7 @@
       {
         "code": "nft_h26_Hsthodl",
         "name": "H St. HODL Atari",
-        "description": ""
+        "description": "nft_h26_Hsthodl desc"
       },
       {
         "code": "nft_h26_alarmboombox",
@@ -119844,7 +119864,7 @@
       {
         "code": "trophy_baw",
         "name": "Builders At Work Kupası",
-        "description": ""
+        "description": "trophy_baw desc"
       },
       {
         "code": "trophy_chatterbox_bronze",

@@ -2904,7 +2904,7 @@
       {
         "code": "CF_250_flowerperfume",
         "name": "Perfume Floral de Ouro",
-        "description": ""
+        "description": "CF_250_flowerperfume desc"
       },
       {
         "code": "CF_250_frogprince",
@@ -28289,22 +28289,22 @@
       {
         "code": "bonusbag26_1",
         "name": "Sacola de Provisões 1",
-        "description": ""
+        "description": "bonusbag26_1 desc"
       },
       {
         "code": "bonusbag26_2",
         "name": "Sacola de provisões 2",
-        "description": ""
+        "description": "bonusbag26_2 desc"
       },
       {
         "code": "bonusbag26_3",
         "name": "Sacola de provisões 3",
-        "description": ""
+        "description": "bonusbag26_3 desc"
       },
       {
         "code": "bonusbag26_4",
         "name": "Sacola de Provisões 4",
-        "description": ""
+        "description": "bonusbag26_4 desc"
       },
       {
         "code": "bonusrare16_1_1",
@@ -29624,102 +29624,122 @@
       {
         "code": "bonusrare26_1_0",
         "name": "Livro-Pato Prateado",
-        "description": ""
+        "description": "bonusrare26_1_0 desc"
       },
       {
         "code": "bonusrare26_1_1",
         "name": "Livro-Pato Rosa",
-        "description": ""
+        "description": "bonusrare26_1_1 desc"
       },
       {
         "code": "bonusrare26_1_2",
         "name": "Livro-Pato Azul",
-        "description": ""
+        "description": "bonusrare26_1_2 desc"
       },
       {
         "code": "bonusrare26_1_3",
         "name": "Livro-Pato Verde",
-        "description": ""
+        "description": "bonusrare26_1_3 desc"
       },
       {
         "code": "bonusrare26_1_4",
         "name": "Livro-Pato Lilás",
-        "description": ""
+        "description": "bonusrare26_1_4 desc"
       },
       {
         "code": "bonusrare26_1_5",
         "name": "Livro-Pato Preto",
-        "description": ""
+        "description": "bonusrare26_1_5 desc"
       },
       {
         "code": "bonusrare26_2_0",
         "name": "Estampa Kawaii de Gato Laranja",
-        "description": ""
+        "description": "bonusrare26_2_0 desc"
       },
       {
         "code": "bonusrare26_2_1",
         "name": "Estampa Kawaii de Gato Lilás",
-        "description": ""
+        "description": "bonusrare26_2_1 desc"
       },
       {
         "code": "bonusrare26_2_2",
         "name": "Estampa Kawaii de Gato Rosa",
-        "description": ""
+        "description": "bonusrare26_2_2 desc"
       },
       {
         "code": "bonusrare26_2_3",
         "name": "Estampa Kawaii de Gato Verde",
-        "description": ""
+        "description": "bonusrare26_2_3 desc"
       },
       {
         "code": "bonusrare26_2_4",
         "name": "Estampa Kawaii de Gato Azul",
-        "description": ""
+        "description": "bonusrare26_2_4 desc"
       },
       {
         "code": "bonusrare26_2_5",
         "name": "Estampa Kawaii de Gato Cinza",
-        "description": ""
+        "description": "bonusrare26_2_5 desc"
       },
       {
         "code": "bonusrare26_3_0",
         "name": "Rubi Precioso",
-        "description": ""
+        "description": "bonusrare26_3_0 desc"
       },
       {
         "code": "bonusrare26_3_1",
         "name": "Ametista Precioso",
-        "description": ""
+        "description": "bonusrare26_3_1 desc"
       },
       {
         "code": "bonusrare26_3_2",
         "name": "Safira Preciosa",
-        "description": ""
+        "description": "bonusrare26_3_2 desc"
       },
       {
         "code": "bonusrare26_3_3",
         "name": "Amber Precioso",
-        "description": ""
+        "description": "bonusrare26_3_3 desc"
       },
       {
         "code": "bonusrare26_3_4",
         "name": "Topaz Precioso",
-        "description": ""
+        "description": "bonusrare26_3_4 desc"
       },
       {
         "code": "bonusrare26_3_5",
         "name": "Esmeralda Preciosa",
-        "description": ""
+        "description": "bonusrare26_3_5 desc"
       },
       {
         "code": "bonusrare26_4_0",
         "name": "Bebê Alien Radioativo",
-        "description": ""
+        "description": "bonusrare26_4_0 desc"
       },
       {
         "code": "bonusrare26_4_1",
         "name": "Bebê Alien Elétrico",
-        "description": ""
+        "description": "bonusrare26_4_1 desc"
+      },
+      {
+        "code": "bonusrare26_4_2",
+        "name": "bonusrare26_4_2 name",
+        "description": "bonusrare26_4_2 desc"
+      },
+      {
+        "code": "bonusrare26_4_3",
+        "name": "bonusrare26_4_3 name",
+        "description": "bonusrare26_4_3 desc"
+      },
+      {
+        "code": "bonusrare26_4_4",
+        "name": "bonusrare26_4_4 name",
+        "description": "bonusrare26_4_4 desc"
+      },
+      {
+        "code": "bonusrare26_4_5",
+        "name": "bonusrare26_4_5 name",
+        "description": "bonusrare26_4_5 desc"
       },
       {
         "code": "bonusrare_april16",
@@ -35904,7 +35924,7 @@
       {
         "code": "clothing_gamertee",
         "name": "Camista Gamer Habbo",
-        "description": ""
+        "description": "clothing_gamertee desc"
       },
       {
         "code": "clothing_gardenapron",
@@ -58004,7 +58024,7 @@
       {
         "code": "game_c26_handheldvendingmchn",
         "name": "Máquina de Vendas Gamer Habbo",
-        "description": ""
+        "description": "game_c26_handheldvendingmchn desc"
       },
       {
         "code": "gaming_c18_chairpro",
@@ -69164,7 +69184,7 @@
       {
         "code": "jan_c26_builderduck",
         "name": "Pato Construtor Habbo",
-        "description": ""
+        "description": "jan_c26_builderduck desc"
       },
       {
         "code": "japanese_rare",
@@ -81614,7 +81634,7 @@
       {
         "code": "nft_h26_Hsthodl",
         "name": "H St. HODL Arcade",
-        "description": ""
+        "description": "nft_h26_Hsthodl desc"
       },
       {
         "code": "nft_h26_alarmboombox",
@@ -109964,7 +109984,7 @@
       {
         "code": "trophy_baw",
         "name": "Troféu Arquitetos em Ação",
-        "description": ""
+        "description": "trophy_baw desc"
       },
       {
         "code": "trophy_chatterbox_bronze",
