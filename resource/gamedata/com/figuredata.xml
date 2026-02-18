@@ -8948,6 +8948,22 @@
                 <part id="6910" type="rs" colorable="1" index="1" colorindex="2"/>
                 <part id="6911" type="ch" colorable="0" index="2" colorindex="0"/>
             </set>
+            <set id="6267" gender="M" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="6993" type="ch" colorable="1" index="0" colorindex="1"/>
+                <part id="6993" type="ls" colorable="1" index="0" colorindex="1"/>
+                <part id="6993" type="rs" colorable="1" index="0" colorindex="1"/>
+                <part id="6994" type="ch" colorable="0" index="1" colorindex="0"/>
+                <part id="6994" type="ls" colorable="0" index="1" colorindex="0"/>
+                <part id="6994" type="rs" colorable="0" index="1" colorindex="0"/>
+            </set>
+            <set id="6268" gender="F" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="6995" type="ch" colorable="1" index="0" colorindex="1"/>
+                <part id="6995" type="ls" colorable="1" index="0" colorindex="1"/>
+                <part id="6995" type="rs" colorable="1" index="0" colorindex="1"/>
+                <part id="6996" type="ch" colorable="0" index="1" colorindex="0"/>
+                <part id="6996" type="ls" colorable="0" index="1" colorindex="0"/>
+                <part id="6996" type="rs" colorable="0" index="1" colorindex="0"/>
+            </set>
             <set id="6275" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="7008" type="ch" colorable="1" index="0" colorindex="1"/>
                 <part id="7008" type="ls" colorable="1" index="0" colorindex="1"/>
