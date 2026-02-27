@@ -3002,10 +3002,10 @@
                 <part id="7154" type="hrb" colorable="1" index="0" colorindex="1"/>
             </set>
             <set id="6374" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
-                <part id="7204" type="hr" colorable="0" index="0" colorindex="0"/>
-                <part id="7204" type="hrb" colorable="0" index="0" colorindex="0"/>
-                <part id="7205" type="hr" colorable="1" index="1" colorindex="1"/>
-                <part id="7205" type="hrb" colorable="1" index="1" colorindex="1"/>
+                <part id="7204" type="hr" colorable="1" index="0" colorindex="1"/>
+                <part id="7204" type="hrb" colorable="1" index="0" colorindex="1"/>
+                <part id="7205" type="hr" colorable="1" index="1" colorindex="2"/>
+                <part id="7205" type="hrb" colorable="1" index="1" colorindex="2"/>
                 <part id="7206" type="hr" colorable="0" index="2" colorindex="0"/>
                 <part id="7206" type="hrb" colorable="0" index="2" colorindex="0"/>
             </set>
