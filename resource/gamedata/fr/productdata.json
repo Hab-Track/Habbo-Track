@@ -37659,7 +37659,7 @@
       {
         "code": "clothing_nfthollywoodsmile",
         "name": "Sourire hollywoodien",
-        "description": ""
+        "description": "clothing_nfthollywoodsmile desc"
       },
       {
         "code": "clothing_nfthoneyjar",
@@ -38059,7 +38059,7 @@
       {
         "code": "clothing_nftpopcorn",
         "name": "Popcorn Film",
-        "description": ""
+        "description": "clothing_nftpopcorn desc"
       },
       {
         "code": "clothing_nftpopsicle1",
@@ -38419,7 +38419,7 @@
       {
         "code": "clothing_nftsoda",
         "name": "Soda Film",
-        "description": ""
+        "description": "clothing_nftsoda desc"
       },
       {
         "code": "clothing_nftspdemon",
@@ -76272,9 +76272,39 @@
         "description": "De  Frankaelangelo"
       },
       {
+        "code": "nft_diamond_painting13",
+        "name": "nft_diamond_painting13 name",
+        "description": "nft_diamond_painting13 desc"
+      },
+      {
+        "code": "nft_diamond_painting20",
+        "name": "nft_diamond_painting20 name",
+        "description": "nft_diamond_painting20 desc"
+      },
+      {
+        "code": "nft_diamond_painting21",
+        "name": "nft_diamond_painting21 name",
+        "description": "nft_diamond_painting21 desc"
+      },
+      {
+        "code": "nft_diamond_painting22",
+        "name": "nft_diamond_painting22 name",
+        "description": "nft_diamond_painting22 desc"
+      },
+      {
         "code": "nft_diamond_painting24",
         "name": "La Femme Canard",
         "description": "diamond_painting24 desc"
+      },
+      {
+        "code": "nft_diamond_painting25",
+        "name": "nft_diamond_painting25 name",
+        "description": "nft_diamond_painting25 desc"
+      },
+      {
+        "code": "nft_diamond_painting27",
+        "name": "nft_diamond_painting27 name",
+        "description": "nft_diamond_painting27 desc"
       },
       {
         "code": "nft_diamond_painting31",
@@ -76465,6 +76495,11 @@
         "code": "nft_diamond_painting79",
         "name": "Photobombing de canards sur la plage",
         "description": "nft_diamond_painting79 desc"
+      },
+      {
+        "code": "nft_diamond_painting7",
+        "name": "nft_diamond_painting7 name",
+        "description": "nft_diamond_painting7 desc"
       },
       {
         "code": "nft_diamond_painting80",
@@ -79924,7 +79959,7 @@
       {
         "code": "nft_h26_bigtv",
         "name": "Télévision non portable",
-        "description": ""
+        "description": "nft_h26_bigtv desc"
       },
       {
         "code": "nft_h26_bronzecontroller",
@@ -79934,7 +79969,7 @@
       {
         "code": "nft_h26_bronzedvd",
         "name": "DVD Bronze",
-        "description": ""
+        "description": "nft_h26_bronzedvd desc"
       },
       {
         "code": "nft_h26_discobed",
@@ -79974,7 +80009,7 @@
       {
         "code": "nft_h26_golddvd",
         "name": "DVD Or",
-        "description": ""
+        "description": "nft_h26_golddvd desc"
       },
       {
         "code": "nft_h26_haf_holoboy",
@@ -79999,12 +80034,12 @@
       {
         "code": "nft_h26_lotfposter",
         "name": "Poster Seigneur des Mobis",
-        "description": ""
+        "description": "nft_h26_lotfposter desc"
       },
       {
         "code": "nft_h26_movienightchair",
         "name": "Fauteuil Film",
-        "description": ""
+        "description": "nft_h26_movienightchair desc"
       },
       {
         "code": "nft_h26_pillowssofa",
@@ -80014,12 +80049,12 @@
       {
         "code": "nft_h26_poolfactionposter",
         "name": "Poster la faction Pool",
-        "description": ""
+        "description": "nft_h26_poolfactionposter desc"
       },
       {
         "code": "nft_h26_receptionistposter",
         "name": "Poster Réceptionniste",
-        "description": ""
+        "description": "nft_h26_receptionistposter desc"
       },
       {
         "code": "nft_h26_sandmangnome",
@@ -80034,7 +80069,7 @@
       {
         "code": "nft_h26_silverdvd",
         "name": "DVD Argent",
-        "description": ""
+        "description": "nft_h26_silverdvd desc"
       },
       {
         "code": "nft_h26_trippycontroller",
@@ -80044,7 +80079,7 @@
       {
         "code": "nft_h26_trippydvd",
         "name": "DVD Trippy",
-        "description": ""
+        "description": "nft_h26_trippydvd desc"
       },
       {
         "code": "nft_habbo15_beehive",
@@ -81002,6 +81037,11 @@
         "description": "nft_rare_vdoll desc"
       },
       {
+        "code": "nft_rare_venusstatue",
+        "name": "nft_rare_venusstatue name",
+        "description": "nft_rare_venusstatue desc"
+      },
+      {
         "code": "nft_rare_xmas_screen",
         "name": "$product_rare_xmas_screen_name$",
         "description": "$product_rare_xmas_screen_name$"
@@ -81347,6 +81387,11 @@
         "description": "Faîtes l'amour pas la guerre."
       },
       {
+        "code": "nft_svnr_aus",
+        "name": "nft_svnr_aus",
+        "description": ""
+      },
+      {
         "code": "nft_svnr_de",
         "name": "Collector Nain de jardin",
         "description": "nft_svnr_de desc"
@@ -81595,6 +81640,11 @@
         "code": "nft_val_randomizer",
         "name": "Love machine",
         "description": "Le fruit du hasard.."
+      },
+      {
+        "code": "nft_vikings_runestone",
+        "name": "nft_vikings_runestone name",
+        "description": "nft_vikings_runestone desc"
       },
       {
         "code": "nft_wildwest_gallows",
@@ -112777,6 +112827,11 @@
         "description": "Ce Wired te permet de sélectionner 5 piles Wired à exécuter avec un seul déclencheur, indépendamment des conditions ou des déclencheurs."
       },
       {
+        "code": "wf_act_cancel_transaction",
+        "name": "wf_act_cancel_transaction name",
+        "description": "wf_act_cancel_transaction desc"
+      },
+      {
         "code": "wf_act_change_var_val",
         "name": "Effet WIRED: Modification de la valeur de la variable",
         "description": "wf_act_change_var_val desc"
@@ -112812,6 +112867,16 @@
         "description": "wf_act_furni_to_user desc"
       },
       {
+        "code": "wf_act_give_currency",
+        "name": "wf_act_give_currency name",
+        "description": "wf_act_give_currency desc"
+      },
+      {
+        "code": "wf_act_give_furni",
+        "name": "wf_act_give_furni name",
+        "description": "wf_act_give_furni desc"
+      },
+      {
         "code": "wf_act_give_reward",
         "name": "Effet WIRED: Donne un lot",
         "description": "Cet effet donne la récompense choisie à l'utilisateur déclencheur."
@@ -112830,6 +112895,11 @@
         "code": "wf_act_give_var",
         "name": "Effet WIRED: Donner une variable",
         "description": "wf_act_give_var desc"
+      },
+      {
+        "code": "wf_act_init_transaction",
+        "name": "wf_act_init_transaction name",
+        "description": "wf_act_init_transaction desc"
       },
       {
         "code": "wf_act_join_team",
@@ -113067,6 +113137,16 @@
         "description": "Condition remplie si l'avatar est un membre de l'équipe prédéfinie"
       },
       {
+        "code": "wf_cnd_chest_has_item_type",
+        "name": "wf_cnd_chest_has_item_type name",
+        "description": "wf_cnd_chest_has_item_type desc"
+      },
+      {
+        "code": "wf_cnd_chest_has_items",
+        "name": "wf_cnd_chest_has_items name",
+        "description": "wf_cnd_chest_has_items desc"
+      },
+      {
         "code": "wf_cnd_counter_time_matches",
         "name": "Condition WIRED : Correspondances de contre-temps",
         "description": "wf_cnd_counter_time_matches desc"
@@ -113290,6 +113370,21 @@
         "code": "wf_colorwheel",
         "name": "Roue multicolore",
         "description": "Et maintenant quelle couleur?"
+      },
+      {
+        "code": "wf_contract_payment",
+        "name": "wf_contract_payment name",
+        "description": "wf_contract_payment desc"
+      },
+      {
+        "code": "wf_contract_reward",
+        "name": "wf_contract_reward name",
+        "description": "wf_contract_reward desc"
+      },
+      {
+        "code": "wf_contract_trade",
+        "name": "wf_contract_trade name",
+        "description": "wf_contract_trade desc"
       },
       {
         "code": "wf_deal1",
@@ -113582,6 +113677,31 @@
         "description": "wf_slider desc"
       },
       {
+        "code": "wf_storage_coins1",
+        "name": "wf_storage_coins1 name",
+        "description": "wf_storage_coins1 desc"
+      },
+      {
+        "code": "wf_storage_coins2",
+        "name": "wf_storage_coins2 name",
+        "description": "wf_storage_coins2 desc"
+      },
+      {
+        "code": "wf_storage_furni1",
+        "name": "wf_storage_furni1 name",
+        "description": "wf_storage_furni1 desc"
+      },
+      {
+        "code": "wf_storage_furni2",
+        "name": "wf_storage_furni2 name",
+        "description": "wf_storage_furni2 desc"
+      },
+      {
+        "code": "wf_storage_furni_starter",
+        "name": "wf_storage_furni_starter name",
+        "description": "wf_storage_furni_starter desc"
+      },
+      {
         "code": "wf_teamcolorquarter",
         "name": "Quartier couleur équipe",
         "description": "wf_teamcolorquarter desc"
@@ -113822,6 +113942,16 @@
         "description": "wf_trg_stuff_state desc"
       },
       {
+        "code": "wf_trg_transaction_complete",
+        "name": "wf_trg_transaction_complete name",
+        "description": "wf_trg_transaction_complete desc"
+      },
+      {
+        "code": "wf_trg_transaction_fail",
+        "name": "wf_trg_transaction_fail name",
+        "description": "wf_trg_transaction_fail desc"
+      },
+      {
         "code": "wf_trg_user_performs_action",
         "name": "Déclencheur Wired : L'utilisateur effectue une action",
         "description": "wf_trg_user_performs_action desc"
@@ -113932,6 +114062,11 @@
         "description": "wf_xtra_anim_time desc"
       },
       {
+        "code": "wf_xtra_custom_contract",
+        "name": "wf_xtra_custom_contract name",
+        "description": "wf_xtra_custom_contract desc"
+      },
+      {
         "code": "wf_xtra_exec_in_order",
         "name": "Wired Texte Add-on : Exécuter dans l'ordre",
         "description": "wf_xtra_exec_in_order desc"
@@ -113992,9 +114127,19 @@
         "description": ""
       },
       {
+        "code": "wf_xtra_scan_chest_furni_by_type",
+        "name": "wf_xtra_scan_chest_furni_by_type name",
+        "description": "wf_xtra_scan_chest_furni_by_type desc"
+      },
+      {
         "code": "wf_xtra_text_input_variable",
         "name": "Wired Texte Add-on : Capteur de variables",
         "description": "wf_xtra_text_input_variable desc"
+      },
+      {
+        "code": "wf_xtra_text_output_furni_name",
+        "name": "wf_xtra_text_output_furni_name name",
+        "description": "wf_xtra_text_output_furni_name desc"
       },
       {
         "code": "wf_xtra_text_output_username",
