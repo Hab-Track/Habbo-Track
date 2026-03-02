@@ -35348,7 +35348,7 @@
       },
       {
         "code": "clothing_diykittyplush",
-        "name": "clothing_diykittyplush name",
+        "name": "Gato de pelúcia",
         "description": "clothing_diykittyplush desc"
       },
       {
@@ -35838,12 +35838,12 @@
       },
       {
         "code": "clothing_flowereye",
-        "name": "clothing_flowereye name",
+        "name": "Olho de Flor",
         "description": "clothing_flowereye desc"
       },
       {
         "code": "clothing_flowerheart",
-        "name": "clothing_flowerheart name",
+        "name": "Coração de Flor",
         "description": "clothing_flowerheart desc"
       },
       {
@@ -38372,6 +38372,11 @@
         "description": "clothing_nftholidaycut desc"
       },
       {
+        "code": "clothing_nfthollywoodsmile",
+        "name": "Sorriso de Hollywood",
+        "description": ""
+      },
+      {
         "code": "clothing_nfthoneyjar",
         "name": "Bolsa Mel",
         "description": "clothing_nfthoneyjar desc"
@@ -38767,6 +38772,11 @@
         "description": "clothing_nftpompomcardigan desc"
       },
       {
+        "code": "clothing_nftpopcorn",
+        "name": "Pipoca de Cinema",
+        "description": ""
+      },
+      {
         "code": "clothing_nftpopsicle1",
         "name": "Picolé de Framboesa",
         "description": "clothing_nftpopsicle1 desc"
@@ -39120,6 +39130,11 @@
         "code": "clothing_nftsnowreindeerbackpack",
         "name": "Mochila Rena Fofinha",
         "description": "clothing_nftsnowreindeerbackpack desc"
+      },
+      {
+        "code": "clothing_nftsoda",
+        "name": "Refrigerante de Cinema",
+        "description": ""
       },
       {
         "code": "clothing_nftspdemon",
@@ -43588,7 +43603,7 @@
       },
       {
         "code": "clothing_snakeyscarf",
-        "name": "clothing_snakeyscarf name",
+        "name": "Cachecol Serpente",
         "description": "clothing_snakeyscarf desc"
       },
       {
@@ -51918,17 +51933,17 @@
       },
       {
         "code": "ducket_c26_flowerbench",
-        "name": "ducket_c26_flowerbench name",
+        "name": "Banco Florido",
         "description": "ducket_c26_flowerbench desc"
       },
       {
         "code": "ducket_c26_honeygnome",
-        "name": "ducket_c26_honeygnome name",
+        "name": "Gnomo do Mel",
         "description": "ducket_c26_honeygnome desc"
       },
       {
         "code": "ducket_c26_honeyparasol",
-        "name": "ducket_c26_honeyparasol name",
+        "name": "Guarda-sol Abelha",
         "description": "ducket_c26_honeyparasol desc"
       },
       {
@@ -51943,7 +51958,7 @@
       },
       {
         "code": "ducket_c26_sweetflowers",
-        "name": "ducket_c26_sweetflowers name",
+        "name": "Flores Florescendo",
         "description": "ducket_c26_sweetflowers desc"
       },
       {
@@ -62548,257 +62563,267 @@
       },
       {
         "code": "hobbies_c26_birdfeeder",
-        "name": "hobbies_c26_birdfeeder name",
+        "name": "Comedouro de Pássaros",
         "description": "hobbies_c26_birdfeeder desc"
       },
       {
         "code": "hobbies_c26_boardgamescrackable",
-        "name": "hobbies_c26_boardgamescrackable name",
+        "name": "Jogo de Mesa",
         "description": "hobbies_c26_boardgamescrackable desc"
       },
       {
         "code": "hobbies_c26_boardgamescrackableb",
-        "name": "hobbies_c26_boardgamescrackableb name",
+        "name": "Jogo de Mesa",
         "description": "hobbies_c26_boardgamescrackableb desc"
       },
       {
         "code": "hobbies_c26_buttons",
-        "name": "hobbies_c26_buttons name",
+        "name": "Conjunto de Botões",
         "description": "hobbies_c26_buttons desc"
       },
       {
         "code": "hobbies_c26_chair",
-        "name": "hobbies_c26_chair name",
+        "name": "Cadeira do Mestre da História",
         "description": "hobbies_c26_chair desc"
       },
       {
+        "code": "hobbies_c26_crownedfantasydemon",
+        "name": "Demônio Fantasia Vencedor",
+        "description": ""
+      },
+      {
         "code": "hobbies_c26_d10",
-        "name": "hobbies_c26_d10 name",
+        "name": "Dado D10",
         "description": "hobbies_c26_d10 desc"
       },
       {
         "code": "hobbies_c26_d12",
-        "name": "hobbies_c26_d12 name",
+        "name": "Dado D12",
         "description": "hobbies_c26_d12 desc"
       },
       {
         "code": "hobbies_c26_d20",
-        "name": "hobbies_c26_d20 name",
+        "name": "Dado D20",
         "description": "hobbies_c26_d20 desc"
       },
       {
         "code": "hobbies_c26_d4",
-        "name": "hobbies_c26_d4 name",
+        "name": "Dado D4",
         "description": "hobbies_c26_d4 desc"
       },
       {
         "code": "hobbies_c26_d6",
-        "name": "hobbies_c26_d6 name",
+        "name": "Dado D6",
         "description": "hobbies_c26_d6 desc"
       },
       {
         "code": "hobbies_c26_d8",
-        "name": "hobbies_c26_d8 name",
+        "name": "Dado D8",
         "description": "hobbies_c26_d8 desc"
       },
       {
         "code": "hobbies_c26_dicetray",
-        "name": "hobbies_c26_dicetray name",
+        "name": "Bandeja de Dados",
         "description": "hobbies_c26_dicetray desc"
       },
       {
         "code": "hobbies_c26_dirtpile",
-        "name": "hobbies_c26_dirtpile name",
+        "name": "Terra de Jardim",
         "description": "hobbies_c26_dirtpile desc"
       },
       {
         "code": "hobbies_c26_dmscreen",
-        "name": "hobbies_c26_dmscreen name",
+        "name": "Tela do Mestre da História",
         "description": "hobbies_c26_dmscreen desc"
       },
       {
         "code": "hobbies_c26_fabricscissors",
-        "name": "hobbies_c26_fabricscissors name",
+        "name": "Tesoura de Tecido",
         "description": "hobbies_c26_fabricscissors desc"
       },
       {
+        "code": "hobbies_c26_fantasydemon",
+        "name": "Demônio Fantasia",
+        "description": ""
+      },
+      {
         "code": "hobbies_c26_flower",
-        "name": "hobbies_c26_flower name",
+        "name": "Margaridas de Jardim",
         "description": "hobbies_c26_flower desc"
       },
       {
         "code": "hobbies_c26_flowerpot1",
-        "name": "hobbies_c26_flowerpot1 name",
+        "name": "Vaso Pequeno",
         "description": "hobbies_c26_flowerpot1 desc"
       },
       {
         "code": "hobbies_c26_flowerpot2",
-        "name": "hobbies_c26_flowerpot2 name",
+        "name": "Vaso Largo",
         "description": "hobbies_c26_flowerpot2 desc"
       },
       {
         "code": "hobbies_c26_gamingtable",
-        "name": "hobbies_c26_gamingtable name",
+        "name": "Mesa de Jogo",
         "description": "hobbies_c26_gamingtable desc"
       },
       {
         "code": "hobbies_c26_gardeningcrackable",
-        "name": "hobbies_c26_gardeningcrackable name",
+        "name": "Regador Comum",
         "description": "hobbies_c26_gardeningcrackable desc"
       },
       {
         "code": "hobbies_c26_gardeningcrackableb",
-        "name": "hobbies_c26_gardeningcrackableb name",
+        "name": "Regador Comum",
         "description": "hobbies_c26_gardeningcrackableb desc"
       },
       {
         "code": "hobbies_c26_gloves",
-        "name": "hobbies_c26_gloves name",
+        "name": "Luvas de Jardinagem",
         "description": "hobbies_c26_gloves desc"
       },
       {
         "code": "hobbies_c26_hotgluegun",
-        "name": "hobbies_c26_hotgluegun name",
+        "name": "Pistola de Cola Quente",
         "description": "hobbies_c26_hotgluegun desc"
       },
       {
         "code": "hobbies_c26_journal",
-        "name": "hobbies_c26_journal name",
+        "name": "Diário de Anotações",
         "description": "hobbies_c26_journal desc"
       },
       {
         "code": "hobbies_c26_lawnmover",
-        "name": "hobbies_c26_lawnmover name",
+        "name": "Cortador de Grama",
         "description": "hobbies_c26_lawnmover desc"
       },
       {
         "code": "hobbies_c26_loosetags",
-        "name": "hobbies_c26_loosetags name",
+        "name": "Etiquetas de Roupas",
         "description": "hobbies_c26_loosetags desc"
       },
       {
         "code": "hobbies_c26_mannequin",
-        "name": "hobbies_c26_mannequin name",
+        "name": "Manequim em Pé",
         "description": "hobbies_c26_mannequin desc"
       },
       {
         "code": "hobbies_c26_ornated10",
-        "name": "hobbies_c26_ornated10 name",
+        "name": "Dado D10 Ornado",
         "description": "hobbies_c26_ornated10 desc"
       },
       {
         "code": "hobbies_c26_ornated12",
-        "name": "hobbies_c26_ornated12 name",
+        "name": "Dado D12 Ornado",
         "description": "hobbies_c26_ornated12 desc"
       },
       {
         "code": "hobbies_c26_ornated20",
-        "name": "hobbies_c26_ornated20 name",
+        "name": "Dado D20 Ornado",
         "description": "hobbies_c26_ornated20 desc"
       },
       {
         "code": "hobbies_c26_ornated4",
-        "name": "hobbies_c26_ornated4 name",
+        "name": "Dado D4 Ornado",
         "description": "hobbies_c26_ornated4 desc"
       },
       {
         "code": "hobbies_c26_ornated6",
-        "name": "hobbies_c26_ornated6 name",
+        "name": "Dado D6 Ornado",
         "description": "hobbies_c26_ornated6 desc"
       },
       {
         "code": "hobbies_c26_ornated8",
-        "name": "hobbies_c26_ornated8 name",
+        "name": "Dado D8 Ornado",
         "description": "hobbies_c26_ornated8 desc"
       },
       {
         "code": "hobbies_c26_owlbear",
-        "name": "hobbies_c26_owlbear name",
+        "name": "Urso-Coruja",
         "description": "hobbies_c26_owlbear desc"
       },
       {
         "code": "hobbies_c26_pincushion",
-        "name": "hobbies_c26_pincushion name",
+        "name": "Almofada de Alfinetes Redonda",
         "description": "hobbies_c26_pincushion desc"
       },
       {
         "code": "hobbies_c26_preciouswateringcan",
-        "name": "hobbies_c26_preciouswateringcan name",
+        "name": "Regador Precioso",
         "description": "hobbies_c26_preciouswateringcan desc"
       },
       {
         "code": "hobbies_c26_preciouswateringcanb",
-        "name": "hobbies_c26_preciouswateringcanb name",
+        "name": "Regador Precioso",
         "description": "hobbies_c26_preciouswateringcanb desc"
       },
       {
         "code": "hobbies_c26_rose",
-        "name": "hobbies_c26_rose name",
+        "name": "Rosas de Jardim",
         "description": "hobbies_c26_rose desc"
       },
       {
         "code": "hobbies_c26_sewingcrackable",
-        "name": "hobbies_c26_sewingcrackable name",
+        "name": "Bolsa de Costura",
         "description": "hobbies_c26_sewingcrackable desc"
       },
       {
         "code": "hobbies_c26_sewingcrackableb",
-        "name": "hobbies_c26_sewingcrackableb name",
+        "name": "Bolsa de Costura",
         "description": "hobbies_c26_sewingcrackableb desc"
       },
       {
         "code": "hobbies_c26_sewingmachine",
-        "name": "hobbies_c26_sewingmachine name",
+        "name": "Máquina de Costura",
         "description": "hobbies_c26_sewingmachine desc"
       },
       {
         "code": "hobbies_c26_shovel",
-        "name": "hobbies_c26_shovel name",
+        "name": "Pá Grande de Jardinagem",
         "description": "hobbies_c26_shovel desc"
       },
       {
         "code": "hobbies_c26_tapemeasure",
-        "name": "hobbies_c26_tapemeasure name",
+        "name": "Fita Métrica",
         "description": "hobbies_c26_tapemeasure desc"
       },
       {
         "code": "hobbies_c26_teddypincushion",
-        "name": "hobbies_c26_teddypincushion name",
+        "name": "Almofada de Alfinetes Teddy",
         "description": "hobbies_c26_teddypincushion desc"
       },
       {
         "code": "hobbies_c26_threads",
-        "name": "hobbies_c26_threads name",
+        "name": "Linhas de Costura",
         "description": "hobbies_c26_threads desc"
       },
       {
         "code": "hobbies_c26_tool1",
-        "name": "hobbies_c26_tool1 name",
+        "name": "Colher de Jardinagem",
         "description": "hobbies_c26_tool1 desc"
       },
       {
         "code": "hobbies_c26_tool2",
-        "name": "hobbies_c26_tool2 name",
+        "name": "Pá de Jardinagem",
         "description": "hobbies_c26_tool2 desc"
       },
       {
         "code": "hobbies_c26_tool3",
-        "name": "hobbies_c26_tool3 name",
+        "name": "Garfo de Jardinagem",
         "description": "hobbies_c26_tool3 desc"
       },
       {
         "code": "hobbies_c26_waterhose",
-        "name": "hobbies_c26_waterhose name",
+        "name": "Mangueira",
         "description": "hobbies_c26_waterhose desc"
       },
       {
         "code": "hobbies_c26_wateringcan",
-        "name": "hobbies_c26_wateringcan name",
+        "name": "Regador Verde",
         "description": "hobbies_c26_wateringcan desc"
       },
       {
         "code": "hobbies_c26_wheelbarrow",
-        "name": "hobbies_c26_wheelbarrow name",
+        "name": "Carrinho de Mão",
         "description": "hobbies_c26_wheelbarrow desc"
       },
       {
@@ -81787,9 +81812,19 @@
         "description": "nft_h26_bedtray desc"
       },
       {
+        "code": "nft_h26_bigtv",
+        "name": "TV Não Portátil",
+        "description": ""
+      },
+      {
         "code": "nft_h26_bronzecontroller",
         "name": "Controle Bronze",
         "description": "nft_h26_bronzecontroller desc"
+      },
+      {
+        "code": "nft_h26_bronzedvd",
+        "name": "DVD Bronze",
+        "description": ""
       },
       {
         "code": "nft_h26_discobed",
@@ -81802,6 +81837,21 @@
         "description": "nft_h26_drpgamingchair desc"
       },
       {
+        "code": "nft_h26_figu1",
+        "name": "Action Figure Super Frank",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_figu2",
+        "name": "Action Figure Habbo de Preto",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_figu3",
+        "name": "Action Figure Robô",
+        "description": ""
+      },
+      {
         "code": "nft_h26_gamingsign",
         "name": "Suporte de Parede Gamer Fanatic",
         "description": "nft_h26_gamingsign desc"
@@ -81810,6 +81860,11 @@
         "code": "nft_h26_goldcontroller",
         "name": "Controle Ouro",
         "description": "nft_h26_goldcontroller desc"
+      },
+      {
+        "code": "nft_h26_golddvd",
+        "name": "DVD Ouro",
+        "description": ""
       },
       {
         "code": "nft_h26_haf_holoboy",
@@ -81822,14 +81877,39 @@
         "description": "nft_h26_haf_hologirl desc"
       },
       {
+        "code": "nft_h26_hafbox",
+        "name": "Caixa de Action Figure Habbo",
+        "description": ""
+      },
+      {
         "code": "nft_h26_joystick",
         "name": "Decoração de Joystick Gigante",
         "description": "nft_h26_joystick desc"
       },
       {
+        "code": "nft_h26_lotfposter",
+        "name": "Poster O Senhor dos Móbis",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_movienightchair",
+        "name": "Cadeira de Cinema",
+        "description": ""
+      },
+      {
         "code": "nft_h26_pillowssofa",
         "name": "Almofadas de Sofá",
         "description": "nft_h26_pillowssofa desc"
+      },
+      {
+        "code": "nft_h26_poolfactionposter",
+        "name": "Poster Pool Faction",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_receptionistposter",
+        "name": "Poster O Recepcionista",
+        "description": ""
       },
       {
         "code": "nft_h26_sandmangnome",
@@ -81842,9 +81922,19 @@
         "description": "nft_h26_silvercontroller desc"
       },
       {
+        "code": "nft_h26_silverdvd",
+        "name": "DVD Prata",
+        "description": ""
+      },
+      {
         "code": "nft_h26_trippycontroller",
         "name": "Controle Trippy",
         "description": "nft_h26_trippycontroller desc"
+      },
+      {
+        "code": "nft_h26_trippydvd",
+        "name": "DVD Psicodélico",
+        "description": ""
       },
       {
         "code": "nft_habbo15_beehive",
