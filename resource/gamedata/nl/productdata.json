@@ -31737,8 +31737,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_flowerpothair_bd",
+        "name": "Bloempot op je Hoofd",
+        "description": ""
+      },
+      {
         "code": "cl_r26_glitterwings_bd",
         "name": "Glittervleugels",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_mannequinskin_bd",
+        "name": "Paspop Huidskleur",
         "description": ""
       },
       {
@@ -31749,6 +31759,11 @@
       {
         "code": "cl_r26_plushiewings_bd",
         "name": "Vintage Cupido Vleugels",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_robotcompanion_bd",
+        "name": "Robot Vriendje",
         "description": ""
       },
       {
@@ -34448,7 +34463,7 @@
       },
       {
         "code": "clothing_diykittyplush",
-        "name": "clothing_diykittyplush name",
+        "name": "Katten Knuffel",
         "description": "clothing_diykittyplush desc"
       },
       {
@@ -34938,12 +34953,12 @@
       },
       {
         "code": "clothing_flowereye",
-        "name": "clothing_flowereye name",
+        "name": "Met Bloemen versierd Oog",
         "description": "clothing_flowereye desc"
       },
       {
         "code": "clothing_flowerheart",
-        "name": "clothing_flowerheart name",
+        "name": "Met Bloemen versierd Hart",
         "description": "clothing_flowerheart desc"
       },
       {
@@ -37467,6 +37482,11 @@
         "description": "clothing_nftholidaycut desc"
       },
       {
+        "code": "clothing_nfthollywoodsmile",
+        "name": "Hollywood-glimlach",
+        "description": ""
+      },
+      {
         "code": "clothing_nfthoneyjar",
         "name": "Honingtas",
         "description": "clothing_nfthoneyjar desc"
@@ -37862,6 +37882,11 @@
         "description": "clothing_nftpompomcardigan desc"
       },
       {
+        "code": "clothing_nftpopcorn",
+        "name": "Bioscoop Popcorn",
+        "description": ""
+      },
+      {
         "code": "clothing_nftpopsicle1",
         "name": "Frambozen IJslolly",
         "description": "clothing_nftpopsicle1 desc"
@@ -38215,6 +38240,11 @@
         "code": "clothing_nftsnowreindeerbackpack",
         "name": "Knuffelige Rendier Rugzak",
         "description": "clothing_nftsnowreindeerbackpack desc"
+      },
+      {
+        "code": "clothing_nftsoda",
+        "name": "Bioscoop Drankje",
+        "description": ""
       },
       {
         "code": "clothing_nftspdemon",
@@ -42128,7 +42158,7 @@
       },
       {
         "code": "clothing_r26_flowerpothair",
-        "name": "clothing_r26_flowerpothair name",
+        "name": "Bloempot op je Hoofd",
         "description": "clothing_r26_flowerpothair desc"
       },
       {
@@ -42138,7 +42168,7 @@
       },
       {
         "code": "clothing_r26_mannequinskin",
-        "name": "clothing_r26_mannequinskin name",
+        "name": "Paspop Huidskleur",
         "description": "clothing_r26_mannequinskin desc"
       },
       {
@@ -42153,7 +42183,7 @@
       },
       {
         "code": "clothing_r26_robotcompanion",
-        "name": "clothing_r26_robotcompanion name",
+        "name": "Robot Vriendje",
         "description": "clothing_r26_robotcompanion desc"
       },
       {
@@ -42683,7 +42713,7 @@
       },
       {
         "code": "clothing_snakeyscarf",
-        "name": "clothing_snakeyscarf name",
+        "name": "Slangensjaal",
         "description": "clothing_snakeyscarf desc"
       },
       {
@@ -51688,17 +51718,17 @@
       },
       {
         "code": "ducket_c26_flowerbench",
-        "name": "ducket_c26_flowerbench name",
+        "name": "Bankje met Bloemen",
         "description": "ducket_c26_flowerbench desc"
       },
       {
         "code": "ducket_c26_honeygnome",
-        "name": "ducket_c26_honeygnome name",
+        "name": "Honing Tuinkabouter",
         "description": "ducket_c26_honeygnome desc"
       },
       {
         "code": "ducket_c26_honeyparasol",
-        "name": "ducket_c26_honeyparasol name",
+        "name": "Parasol met Bijenprint",
         "description": "ducket_c26_honeyparasol desc"
       },
       {
@@ -51713,7 +51743,7 @@
       },
       {
         "code": "ducket_c26_sweetflowers",
-        "name": "ducket_c26_sweetflowers name",
+        "name": "In Bloei staande Bloemen",
         "description": "ducket_c26_sweetflowers desc"
       },
       {
@@ -62353,262 +62383,277 @@
       },
       {
         "code": "hobbies_c26_birdfeeder",
-        "name": "hobbies_c26_birdfeeder name",
+        "name": "Voederhuisje",
         "description": "hobbies_c26_birdfeeder desc"
       },
       {
         "code": "hobbies_c26_boardgamescrackable",
-        "name": "hobbies_c26_boardgamescrackable name",
+        "name": "Bordspel",
         "description": "hobbies_c26_boardgamescrackable desc"
       },
       {
         "code": "hobbies_c26_boardgamescrackableb",
-        "name": "hobbies_c26_boardgamescrackableb name",
+        "name": "Bordspel",
         "description": "hobbies_c26_boardgamescrackableb desc"
       },
       {
         "code": "hobbies_c26_buttons",
-        "name": "hobbies_c26_buttons name",
+        "name": "Verschillende Knoopjes",
         "description": "hobbies_c26_buttons desc"
       },
       {
         "code": "hobbies_c26_chair",
-        "name": "hobbies_c26_chair name",
+        "name": "Stoel van de Spelleider",
         "description": "hobbies_c26_chair desc"
       },
       {
+        "code": "hobbies_c26_crownedfantasydemon",
+        "name": "Extra Duivelse Accessoires",
+        "description": ""
+      },
+      {
         "code": "hobbies_c26_d10",
-        "name": "hobbies_c26_d10 name",
+        "name": "Tienzijdige Dobbelsteen",
         "description": "hobbies_c26_d10 desc"
       },
       {
         "code": "hobbies_c26_d12",
-        "name": "hobbies_c26_d12 name",
+        "name": "Twaalfzijdige Dobbelsteen",
         "description": "hobbies_c26_d12 desc"
       },
       {
         "code": "hobbies_c26_d20",
-        "name": "hobbies_c26_d20 name",
+        "name": "Twintigzijdige Dobbelsteen",
         "description": "hobbies_c26_d20 desc"
       },
       {
         "code": "hobbies_c26_d4",
-        "name": "hobbies_c26_d4 name",
+        "name": "Vierzijdige Dobbelsteen",
         "description": "hobbies_c26_d4 desc"
       },
       {
         "code": "hobbies_c26_d6",
-        "name": "hobbies_c26_d6 name",
+        "name": "Gewone Dobbelsteen",
         "description": "hobbies_c26_d6 desc"
       },
       {
         "code": "hobbies_c26_d8",
-        "name": "hobbies_c26_d8 name",
+        "name": "Achtzijdige Dobbelsteen",
         "description": "hobbies_c26_d8 desc"
       },
       {
         "code": "hobbies_c26_dicetray",
-        "name": "hobbies_c26_dicetray name",
+        "name": "Dobbelsteen Bakje",
         "description": "hobbies_c26_dicetray desc"
       },
       {
         "code": "hobbies_c26_dirtpile",
-        "name": "hobbies_c26_dirtpile name",
+        "name": "Onkruid",
         "description": "hobbies_c26_dirtpile desc"
       },
       {
         "code": "hobbies_c26_dmscreen",
-        "name": "hobbies_c26_dmscreen name",
+        "name": "Spelleider Scherm",
         "description": "hobbies_c26_dmscreen desc"
       },
       {
         "code": "hobbies_c26_fabricscissors",
-        "name": "hobbies_c26_fabricscissors name",
+        "name": "Stoffenschaar",
         "description": "hobbies_c26_fabricscissors desc"
       },
       {
+        "code": "hobbies_c26_fantasydemon",
+        "name": "Duivelse Accessoires",
+        "description": ""
+      },
+      {
         "code": "hobbies_c26_flower",
-        "name": "hobbies_c26_flower name",
+        "name": "Tuinmadeliefjes",
         "description": "hobbies_c26_flower desc"
       },
       {
         "code": "hobbies_c26_flowerpot1",
-        "name": "hobbies_c26_flowerpot1 name",
+        "name": "Kleine Bloempot",
         "description": "hobbies_c26_flowerpot1 desc"
       },
       {
         "code": "hobbies_c26_flowerpot2",
-        "name": "hobbies_c26_flowerpot2 name",
+        "name": "Grote Bloempot",
         "description": "hobbies_c26_flowerpot2 desc"
       },
       {
         "code": "hobbies_c26_gamingtable",
-        "name": "hobbies_c26_gamingtable name",
+        "name": "Bordspel Tafel",
         "description": "hobbies_c26_gamingtable desc"
       },
       {
         "code": "hobbies_c26_gardeningcrackable",
-        "name": "hobbies_c26_gardeningcrackable name",
+        "name": "Gewone Gieter",
         "description": "hobbies_c26_gardeningcrackable desc"
       },
       {
         "code": "hobbies_c26_gardeningcrackableb",
-        "name": "hobbies_c26_gardeningcrackableb name",
+        "name": "Gewone Gieter",
         "description": "hobbies_c26_gardeningcrackableb desc"
       },
       {
         "code": "hobbies_c26_gloves",
-        "name": "hobbies_c26_gloves name",
+        "name": "Tuin Handschoenen",
         "description": "hobbies_c26_gloves desc"
       },
       {
         "code": "hobbies_c26_hotgluegun",
-        "name": "hobbies_c26_hotgluegun name",
+        "name": "Hetelucht Lijmpistool",
         "description": "hobbies_c26_hotgluegun desc"
       },
       {
         "code": "hobbies_c26_journal",
-        "name": "hobbies_c26_journal name",
+        "name": "Notitieboekje",
         "description": "hobbies_c26_journal desc"
       },
       {
         "code": "hobbies_c26_lawnmover",
-        "name": "hobbies_c26_lawnmover name",
+        "name": "Grasmaaier",
         "description": "hobbies_c26_lawnmover desc"
       },
       {
         "code": "hobbies_c26_loosetags",
-        "name": "hobbies_c26_loosetags name",
+        "name": "Kledinglabels",
         "description": "hobbies_c26_loosetags desc"
       },
       {
         "code": "hobbies_c26_mannequin",
-        "name": "hobbies_c26_mannequin name",
+        "name": "Paspop",
         "description": "hobbies_c26_mannequin desc"
       },
       {
         "code": "hobbies_c26_ornated10",
-        "name": "hobbies_c26_ornated10 name",
+        "name": "Decoratieve Tienzijdige Dobbelsteen",
         "description": "hobbies_c26_ornated10 desc"
       },
       {
         "code": "hobbies_c26_ornated12",
-        "name": "hobbies_c26_ornated12 name",
+        "name": "Decoratieve Twaalfzijdige Dobbelsteen",
         "description": "hobbies_c26_ornated12 desc"
       },
       {
         "code": "hobbies_c26_ornated20",
-        "name": "hobbies_c26_ornated20 name",
+        "name": "Decoratieve Twintigzijdige Dobbelsteen",
         "description": "hobbies_c26_ornated20 desc"
       },
       {
         "code": "hobbies_c26_ornated4",
-        "name": "hobbies_c26_ornated4 name",
+        "name": "Decoratieve Vierzijdige Dobbelsteen",
         "description": "hobbies_c26_ornated4 desc"
       },
       {
         "code": "hobbies_c26_ornated6",
-        "name": "hobbies_c26_ornated6 name",
+        "name": "Decoratieve Vierzijdige Dobbelsteen",
         "description": "hobbies_c26_ornated6 desc"
       },
       {
         "code": "hobbies_c26_ornated8",
-        "name": "hobbies_c26_ornated8 name",
+        "name": "Decoratieve Achtzijdige Dobbelsteen",
         "description": "hobbies_c26_ornated8 desc"
       },
       {
         "code": "hobbies_c26_owlbear",
-        "name": "hobbies_c26_owlbear name",
+        "name": "Uilbeer",
         "description": "hobbies_c26_owlbear desc"
       },
       {
         "code": "hobbies_c26_pincushion",
-        "name": "hobbies_c26_pincushion name",
+        "name": "Rond Speldenkussen",
         "description": "hobbies_c26_pincushion desc"
       },
       {
         "code": "hobbies_c26_preciouswateringcan",
-        "name": "hobbies_c26_preciouswateringcan name",
+        "name": "Mooie Gieter",
         "description": "hobbies_c26_preciouswateringcan desc"
       },
       {
         "code": "hobbies_c26_preciouswateringcanb",
-        "name": "hobbies_c26_preciouswateringcanb name",
+        "name": "Mooie Gieter",
         "description": "hobbies_c26_preciouswateringcanb desc"
       },
       {
         "code": "hobbies_c26_rose",
-        "name": "hobbies_c26_rose name",
+        "name": "Tuinrozen",
         "description": "hobbies_c26_rose desc"
       },
       {
         "code": "hobbies_c26_sewingcrackable",
-        "name": "hobbies_c26_sewingcrackable name",
+        "name": "Opbergtas voor Naaispullen",
         "description": "hobbies_c26_sewingcrackable desc"
       },
       {
         "code": "hobbies_c26_sewingcrackableb",
-        "name": "hobbies_c26_sewingcrackableb name",
+        "name": "Opbergtas voor Naaispullen",
         "description": "hobbies_c26_sewingcrackableb desc"
       },
       {
         "code": "hobbies_c26_sewingmachine",
-        "name": "hobbies_c26_sewingmachine name",
+        "name": "Naaimachine",
         "description": "hobbies_c26_sewingmachine desc"
       },
       {
         "code": "hobbies_c26_shovel",
-        "name": "hobbies_c26_shovel name",
+        "name": "Tuinschep",
         "description": "hobbies_c26_shovel desc"
       },
       {
         "code": "hobbies_c26_tapemeasure",
-        "name": "hobbies_c26_tapemeasure name",
+        "name": "Meetlint",
         "description": "hobbies_c26_tapemeasure desc"
       },
       {
         "code": "hobbies_c26_teddypincushion",
-        "name": "hobbies_c26_teddypincushion name",
+        "name": "Teddybeer Speldenkussen",
         "description": "hobbies_c26_teddypincushion desc"
       },
       {
         "code": "hobbies_c26_threads",
-        "name": "hobbies_c26_threads name",
+        "name": "Naaigaren",
         "description": "hobbies_c26_threads desc"
       },
       {
         "code": "hobbies_c26_tool1",
-        "name": "hobbies_c26_tool1 name",
+        "name": "Tuin Troffel",
         "description": "hobbies_c26_tool1 desc"
       },
       {
         "code": "hobbies_c26_tool2",
-        "name": "hobbies_c26_tool2 name",
+        "name": "Tuinschepje",
         "description": "hobbies_c26_tool2 desc"
       },
       {
         "code": "hobbies_c26_tool3",
-        "name": "hobbies_c26_tool3 name",
+        "name": "Kleine Hark",
         "description": "hobbies_c26_tool3 desc"
       },
       {
         "code": "hobbies_c26_waterhose",
-        "name": "hobbies_c26_waterhose name",
+        "name": "Tuinslang",
         "description": "hobbies_c26_waterhose desc"
       },
       {
         "code": "hobbies_c26_wateringcan",
-        "name": "hobbies_c26_wateringcan name",
+        "name": "Groene Gieter",
         "description": "hobbies_c26_wateringcan desc"
       },
       {
         "code": "hobbies_c26_wheelbarrow",
-        "name": "hobbies_c26_wheelbarrow name",
+        "name": "Kruiwagen",
         "description": "hobbies_c26_wheelbarrow desc"
       },
       {
+        "code": "hobbies_r26_blade_bd",
+        "name": "Het Diamanten Zwaard",
+        "description": ""
+      },
+      {
         "code": "hobbies_r26_diamondblade",
-        "name": "hobbies_r26_diamondblade name",
+        "name": "Het Diamanten Zwaard",
         "description": "hobbies_r26_diamondblade desc"
       },
       {
@@ -81517,9 +81562,19 @@
         "description": "nft_h26_bedtray desc"
       },
       {
+        "code": "nft_h26_bigtv",
+        "name": "Niet Draagbare TV",
+        "description": ""
+      },
+      {
         "code": "nft_h26_bronzecontroller",
         "name": "Bronzen Controller",
         "description": "nft_h26_bronzecontroller desc"
+      },
+      {
+        "code": "nft_h26_bronzedvd",
+        "name": "Bronzen DVD",
+        "description": ""
       },
       {
         "code": "nft_h26_discobed",
@@ -81532,6 +81587,21 @@
         "description": "nft_h26_drpgamingchair desc"
       },
       {
+        "code": "nft_h26_figu1",
+        "name": "Super Frank Beeldje",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_figu2",
+        "name": "Habbo in Zwart Beeldje",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_figu3",
+        "name": "Robo Beeldje",
+        "description": ""
+      },
+      {
         "code": "nft_h26_gamingsign",
         "name": "Fanatieke Gamer Muurbord",
         "description": "nft_h26_gamingsign desc"
@@ -81540,6 +81610,11 @@
         "code": "nft_h26_goldcontroller",
         "name": "Gouden Controller",
         "description": "nft_h26_goldcontroller desc"
+      },
+      {
+        "code": "nft_h26_golddvd",
+        "name": "Gouden DVD",
+        "description": ""
       },
       {
         "code": "nft_h26_haf_holoboy",
@@ -81552,14 +81627,39 @@
         "description": "nft_h26_haf_hologirl desc"
       },
       {
+        "code": "nft_h26_hafbox",
+        "name": "Habbo Actiefiguur Doos",
+        "description": ""
+      },
+      {
         "code": "nft_h26_joystick",
         "name": "Extra Grote Joystick",
         "description": "nft_h26_joystick desc"
       },
       {
+        "code": "nft_h26_lotfposter",
+        "name": "The Lord of the Meubi Poster",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_movienightchair",
+        "name": "Bioscoop Stoel",
+        "description": ""
+      },
+      {
         "code": "nft_h26_pillowssofa",
         "name": "Bank van Kussens",
         "description": "nft_h26_pillowssofa desc"
+      },
+      {
+        "code": "nft_h26_poolfactionposter",
+        "name": "Pool Faction Poster",
+        "description": ""
+      },
+      {
+        "code": "nft_h26_receptionistposter",
+        "name": "De Receptionist Poster",
+        "description": ""
       },
       {
         "code": "nft_h26_sandmangnome",
@@ -81572,9 +81672,19 @@
         "description": "nft_h26_silvercontroller desc"
       },
       {
+        "code": "nft_h26_silverdvd",
+        "name": "Zilveren DVD",
+        "description": ""
+      },
+      {
         "code": "nft_h26_trippycontroller",
         "name": "Trippy Controller",
         "description": "nft_h26_trippycontroller desc"
+      },
+      {
+        "code": "nft_h26_trippydvd",
+        "name": "Trippy DVD",
+        "description": ""
       },
       {
         "code": "nft_habbo15_beehive",

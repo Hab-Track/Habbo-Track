@@ -32617,8 +32617,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_flowerpothair_bd",
+        "name": "Cabelo de Vaso",
+        "description": ""
+      },
+      {
         "code": "cl_r26_glitterwings_bd",
         "name": "Asas de Glitter",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_mannequinskin_bd",
+        "name": "Pele de Manequim",
         "description": ""
       },
       {
@@ -32629,6 +32639,11 @@
       {
         "code": "cl_r26_plushiewings_bd",
         "name": "Asas de Cupido Vintage",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_robotcompanion_bd",
+        "name": "Robô Companheiro",
         "description": ""
       },
       {
@@ -43018,7 +43033,7 @@
       },
       {
         "code": "clothing_r26_flowerpothair",
-        "name": "clothing_r26_flowerpothair name",
+        "name": "Cabelo de Vaso",
         "description": "clothing_r26_flowerpothair desc"
       },
       {
@@ -43028,7 +43043,7 @@
       },
       {
         "code": "clothing_r26_mannequinskin",
-        "name": "clothing_r26_mannequinskin name",
+        "name": "Pele de Manequim",
         "description": "clothing_r26_mannequinskin desc"
       },
       {
@@ -43043,7 +43058,7 @@
       },
       {
         "code": "clothing_r26_robotcompanion",
-        "name": "clothing_r26_robotcompanion name",
+        "name": "Robô Companheiro",
         "description": "clothing_r26_robotcompanion desc"
       },
       {
@@ -62787,8 +62802,13 @@
         "description": "hobbies_c26_wheelbarrow desc"
       },
       {
+        "code": "hobbies_r26_blade_bd",
+        "name": "Espada de Diamante",
+        "description": ""
+      },
+      {
         "code": "hobbies_r26_diamondblade",
-        "name": "hobbies_r26_diamondblade name",
+        "name": "Espada de Diamante",
         "description": "hobbies_r26_diamondblade desc"
       },
       {

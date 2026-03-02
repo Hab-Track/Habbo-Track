@@ -33622,8 +33622,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_flowerpothair_bd",
+        "name": "Saksı Saç",
+        "description": ""
+      },
+      {
         "code": "cl_r26_glitterwings_bd",
         "name": "Simli Kanatlar",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_mannequinskin_bd",
+        "name": "Manken Görünümü",
         "description": ""
       },
       {
@@ -33634,6 +33644,11 @@
       {
         "code": "cl_r26_plushiewings_bd",
         "name": "Vintage Eros Kanatları",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_robotcompanion_bd",
+        "name": "Robot Arkadaş",
         "description": ""
       },
       {
@@ -44008,7 +44023,7 @@
       },
       {
         "code": "clothing_r26_flowerpothair",
-        "name": "clothing_r26_flowerpothair name",
+        "name": "Saksı Saç",
         "description": "clothing_r26_flowerpothair desc"
       },
       {
@@ -44018,7 +44033,7 @@
       },
       {
         "code": "clothing_r26_mannequinskin",
-        "name": "clothing_r26_mannequinskin name",
+        "name": "Manken Görünümü",
         "description": "clothing_r26_mannequinskin desc"
       },
       {
@@ -44033,7 +44048,7 @@
       },
       {
         "code": "clothing_r26_robotcompanion",
-        "name": "clothing_r26_robotcompanion name",
+        "name": "Robot Arkadaş",
         "description": "clothing_r26_robotcompanion desc"
       },
       {
@@ -71872,8 +71887,13 @@
         "description": "hobbies_c26_wheelbarrow desc"
       },
       {
+        "code": "hobbies_r26_blade_bd",
+        "name": "Elmas Kılıç",
+        "description": ""
+      },
+      {
         "code": "hobbies_r26_diamondblade",
-        "name": "hobbies_r26_diamondblade name",
+        "name": "Elmas Kılıç",
         "description": "hobbies_r26_diamondblade desc"
       },
       {
