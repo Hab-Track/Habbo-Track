@@ -114828,7 +114828,7 @@
       },
       {
         "code": "wf_act_cancel_transaction",
-        "name": "wf_act_cancel_transaction name",
+        "name": "Efeito WIRED: Cancelar Transação",
         "description": "wf_act_cancel_transaction desc"
       },
       {
@@ -114868,12 +114868,12 @@
       },
       {
         "code": "wf_act_give_currency",
-        "name": "wf_act_give_currency name",
+        "name": "Efeito WIRED: Entregar Moeda do Baú",
         "description": "wf_act_give_currency desc"
       },
       {
         "code": "wf_act_give_furni",
-        "name": "wf_act_give_furni name",
+        "name": "Efeito WIRED: Entregar Moeda do Baú",
         "description": "wf_act_give_furni desc"
       },
       {
@@ -114898,7 +114898,7 @@
       },
       {
         "code": "wf_act_init_transaction",
-        "name": "wf_act_init_transaction name",
+        "name": "Efeito WIRED: Iniciar Transação",
         "description": "wf_act_init_transaction desc"
       },
       {
@@ -115128,12 +115128,12 @@
       },
       {
         "code": "wf_cnd_chest_has_item_type",
-        "name": "wf_cnd_chest_has_item_type name",
+        "name": "Condição WIRED: Baú Contém Tipo de Móbi",
         "description": "wf_cnd_chest_has_item_type desc"
       },
       {
         "code": "wf_cnd_chest_has_items",
-        "name": "wf_cnd_chest_has_items name",
+        "name": "Condição WIRED: Baú Possui X Itens",
         "description": "wf_cnd_chest_has_items desc"
       },
       {
@@ -115353,17 +115353,17 @@
       },
       {
         "code": "wf_contract_payment",
-        "name": "wf_contract_payment name",
+        "name": "Contrato WIRED: Contrato de Pagamento",
         "description": "wf_contract_payment desc"
       },
       {
         "code": "wf_contract_reward",
-        "name": "wf_contract_reward name",
+        "name": "Contrato WIRED: Contrato de Prêmio",
         "description": "wf_contract_reward desc"
       },
       {
         "code": "wf_contract_trade",
-        "name": "wf_contract_trade name",
+        "name": "Contrato WIRED: Contrato de Negociação",
         "description": "wf_contract_trade desc"
       },
       {
@@ -115643,27 +115643,27 @@
       },
       {
         "code": "wf_storage_coins1",
-        "name": "wf_storage_coins1 name",
+        "name": "Baú de Créditos",
         "description": "wf_storage_coins1 desc"
       },
       {
         "code": "wf_storage_coins2",
-        "name": "wf_storage_coins2 name",
+        "name": "Baú de Créditos",
         "description": "wf_storage_coins2 desc"
       },
       {
         "code": "wf_storage_furni1",
-        "name": "wf_storage_furni1 name",
+        "name": "Baú de Móbis",
         "description": "wf_storage_furni1 desc"
       },
       {
         "code": "wf_storage_furni2",
-        "name": "wf_storage_furni2 name",
+        "name": "Baú de Móbis",
         "description": "wf_storage_furni2 desc"
       },
       {
         "code": "wf_storage_furni_starter",
-        "name": "wf_storage_furni_starter name",
+        "name": "Baú de Móbis Inicial",
         "description": "wf_storage_furni_starter desc"
       },
       {
@@ -115908,12 +115908,12 @@
       },
       {
         "code": "wf_trg_transaction_complete",
-        "name": "wf_trg_transaction_complete name",
+        "name": "Efeito WIRED: Transação Completa",
         "description": "wf_trg_transaction_complete desc"
       },
       {
         "code": "wf_trg_transaction_fail",
-        "name": "wf_trg_transaction_fail name",
+        "name": "Efeito WIRED: Transação Falhou",
         "description": "wf_trg_transaction_fail desc"
       },
       {
@@ -116018,7 +116018,7 @@
       },
       {
         "code": "wf_xtra_custom_contract",
-        "name": "wf_xtra_custom_contract name",
+        "name": "WIRED Extra: Contrato Customizável",
         "description": "wf_xtra_custom_contract desc"
       },
       {
@@ -116083,7 +116083,7 @@
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",
-        "name": "wf_xtra_scan_chest_furni_by_type name",
+        "name": "Scanner WIRED Extra: Baú de Tipo",
         "description": "wf_xtra_scan_chest_furni_by_type desc"
       },
       {
@@ -116093,7 +116093,7 @@
       },
       {
         "code": "wf_xtra_text_output_furni_name",
-        "name": "wf_xtra_text_output_furni_name name",
+        "name": "WIRED Texto Extra: Campo Nome de Móbi",
         "description": "wf_xtra_text_output_furni_name desc"
       },
       {

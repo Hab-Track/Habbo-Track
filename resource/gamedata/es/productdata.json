@@ -114468,7 +114468,7 @@
       },
       {
         "code": "wf_act_cancel_transaction",
-        "name": "wf_act_cancel_transaction name",
+        "name": "Efecto WIRED: Cancelar Transacción",
         "description": "wf_act_cancel_transaction desc"
       },
       {
@@ -114508,12 +114508,12 @@
       },
       {
         "code": "wf_act_give_currency",
-        "name": "wf_act_give_currency name",
+        "name": "EFECTO WIRED: Entregar monedas del Cofre",
         "description": "wf_act_give_currency desc"
       },
       {
         "code": "wf_act_give_furni",
-        "name": "wf_act_give_furni name",
+        "name": "EFECTO WIRED: Entregar furnis del Cofre",
         "description": "wf_act_give_furni desc"
       },
       {
@@ -114538,7 +114538,7 @@
       },
       {
         "code": "wf_act_init_transaction",
-        "name": "wf_act_init_transaction name",
+        "name": "Efecto WIRED: Iniciar Transacción",
         "description": "wf_act_init_transaction desc"
       },
       {
@@ -114768,12 +114768,12 @@
       },
       {
         "code": "wf_cnd_chest_has_item_type",
-        "name": "wf_cnd_chest_has_item_type name",
+        "name": "CONDICIÓN WIRED: el cofre contiene un tipo de furni",
         "description": "wf_cnd_chest_has_item_type desc"
       },
       {
         "code": "wf_cnd_chest_has_items",
-        "name": "wf_cnd_chest_has_items name",
+        "name": "CONDICIÓN WIRED: el Cofre tiene X objetos",
         "description": "wf_cnd_chest_has_items desc"
       },
       {
@@ -114993,17 +114993,17 @@
       },
       {
         "code": "wf_contract_payment",
-        "name": "wf_contract_payment name",
+        "name": "Contrato WIRED: Contrato de Pago",
         "description": "wf_contract_payment desc"
       },
       {
         "code": "wf_contract_reward",
-        "name": "wf_contract_reward name",
+        "name": "Contrato WIRED: Contrato de Recompensa",
         "description": "wf_contract_reward desc"
       },
       {
         "code": "wf_contract_trade",
-        "name": "wf_contract_trade name",
+        "name": "Contrato WIRED: Contrato de Tradeo",
         "description": "wf_contract_trade desc"
       },
       {
@@ -115283,27 +115283,27 @@
       },
       {
         "code": "wf_storage_coins1",
-        "name": "wf_storage_coins1 name",
+        "name": "Cofre de Créditos",
         "description": "wf_storage_coins1 desc"
       },
       {
         "code": "wf_storage_coins2",
-        "name": "wf_storage_coins2 name",
+        "name": "Cofre de Créditos",
         "description": "wf_storage_coins2 desc"
       },
       {
         "code": "wf_storage_furni1",
-        "name": "wf_storage_furni1 name",
+        "name": "Cofre de Furnis",
         "description": "wf_storage_furni1 desc"
       },
       {
         "code": "wf_storage_furni2",
-        "name": "wf_storage_furni2 name",
+        "name": "Cofre de Furnis",
         "description": "wf_storage_furni2 desc"
       },
       {
         "code": "wf_storage_furni_starter",
-        "name": "wf_storage_furni_starter name",
+        "name": "Cofre de Furnis Principiante",
         "description": "wf_storage_furni_starter desc"
       },
       {
@@ -115548,12 +115548,12 @@
       },
       {
         "code": "wf_trg_transaction_complete",
-        "name": "wf_trg_transaction_complete name",
+        "name": "Causante WIRED: Transacción Completada",
         "description": "wf_trg_transaction_complete desc"
       },
       {
         "code": "wf_trg_transaction_fail",
-        "name": "wf_trg_transaction_fail name",
+        "name": "Causante WIRED: Error en la Transacción",
         "description": "wf_trg_transaction_fail desc"
       },
       {
@@ -115658,7 +115658,7 @@
       },
       {
         "code": "wf_xtra_custom_contract",
-        "name": "wf_xtra_custom_contract name",
+        "name": "Complemento WIRED: Contrato Personalizado",
         "description": "wf_xtra_custom_contract desc"
       },
       {
@@ -115723,7 +115723,7 @@
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",
-        "name": "wf_xtra_scan_chest_furni_by_type name",
+        "name": "Complemento Escáner WIRED: Tipos de Furni del Cofre de Furnis",
         "description": "wf_xtra_scan_chest_furni_by_type desc"
       },
       {
@@ -115733,7 +115733,7 @@
       },
       {
         "code": "wf_xtra_text_output_furni_name",
-        "name": "wf_xtra_text_output_furni_name name",
+        "name": "Complemento de texto WIRED: Marcador de posición del nombre del furni",
         "description": "wf_xtra_text_output_furni_name desc"
       },
       {

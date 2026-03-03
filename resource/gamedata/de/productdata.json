@@ -113918,7 +113918,7 @@
       },
       {
         "code": "wf_act_cancel_transaction",
-        "name": "wf_act_cancel_transaction name",
+        "name": "WIRED-Effekt: Zahlung stornieren",
         "description": "wf_act_cancel_transaction desc"
       },
       {
@@ -113958,12 +113958,12 @@
       },
       {
         "code": "wf_act_give_currency",
-        "name": "wf_act_give_currency name",
+        "name": "WIRED Effekt: Gibt Währung aus der Truhe",
         "description": "wf_act_give_currency desc"
       },
       {
         "code": "wf_act_give_furni",
-        "name": "wf_act_give_furni name",
+        "name": "WIRED Effekt: Gibt Möbel aus der Truhe",
         "description": "wf_act_give_furni desc"
       },
       {
@@ -113988,7 +113988,7 @@
       },
       {
         "code": "wf_act_init_transaction",
-        "name": "wf_act_init_transaction name",
+        "name": "WIRED-Effekt: Zahlung einleiten",
         "description": "wf_act_init_transaction desc"
       },
       {
@@ -114218,12 +114218,12 @@
       },
       {
         "code": "wf_cnd_chest_has_item_type",
-        "name": "wf_cnd_chest_has_item_type name",
+        "name": "WIRED Bedingung: Truhe enthält Möbeltyp",
         "description": "wf_cnd_chest_has_item_type desc"
       },
       {
         "code": "wf_cnd_chest_has_items",
-        "name": "wf_cnd_chest_has_items name",
+        "name": "WIRED Bedingung: Truhe hat X Items",
         "description": "wf_cnd_chest_has_items desc"
       },
       {
@@ -114443,17 +114443,17 @@
       },
       {
         "code": "wf_contract_payment",
-        "name": "wf_contract_payment name",
+        "name": "Wired Vertrag: Zahlungsvertrag",
         "description": "wf_contract_payment desc"
       },
       {
         "code": "wf_contract_reward",
-        "name": "wf_contract_reward name",
+        "name": "Wired Vertrag: Belohnungsvertrag",
         "description": "wf_contract_reward desc"
       },
       {
         "code": "wf_contract_trade",
-        "name": "wf_contract_trade name",
+        "name": "Wired Vertrag: Tauschvertrag",
         "description": "wf_contract_trade desc"
       },
       {
@@ -114733,27 +114733,27 @@
       },
       {
         "code": "wf_storage_coins1",
-        "name": "wf_storage_coins1 name",
+        "name": "Talertruhe",
         "description": "wf_storage_coins1 desc"
       },
       {
         "code": "wf_storage_coins2",
-        "name": "wf_storage_coins2 name",
+        "name": "Talertruhe",
         "description": "wf_storage_coins2 desc"
       },
       {
         "code": "wf_storage_furni1",
-        "name": "wf_storage_furni1 name",
+        "name": "Möbeltruhe",
         "description": "wf_storage_furni1 desc"
       },
       {
         "code": "wf_storage_furni2",
-        "name": "wf_storage_furni2 name",
+        "name": "Möbeltruhe",
         "description": "wf_storage_furni2 desc"
       },
       {
         "code": "wf_storage_furni_starter",
-        "name": "wf_storage_furni_starter name",
+        "name": "Starter-Möbeltruhe",
         "description": "wf_storage_furni_starter desc"
       },
       {
@@ -114998,12 +114998,12 @@
       },
       {
         "code": "wf_trg_transaction_complete",
-        "name": "wf_trg_transaction_complete name",
+        "name": "WIRED-Auslöser: Transaktion abgeschlossen",
         "description": "wf_trg_transaction_complete desc"
       },
       {
         "code": "wf_trg_transaction_fail",
-        "name": "wf_trg_transaction_fail name",
+        "name": "WIRED-Auslöser: Transaktion fehlgeschlagen",
         "description": "wf_trg_transaction_fail desc"
       },
       {
@@ -115108,7 +115108,7 @@
       },
       {
         "code": "wf_xtra_custom_contract",
-        "name": "wf_xtra_custom_contract name",
+        "name": "WIRED Add-on: Flexibler Vertrag",
         "description": "wf_xtra_custom_contract desc"
       },
       {
@@ -115173,7 +115173,7 @@
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",
-        "name": "wf_xtra_scan_chest_furni_by_type name",
+        "name": "WIRED Scanner Add-on: Truhen-Möbel vom Typ",
         "description": "wf_xtra_scan_chest_furni_by_type desc"
       },
       {
@@ -115183,7 +115183,7 @@
       },
       {
         "code": "wf_xtra_text_output_furni_name",
-        "name": "wf_xtra_text_output_furni_name name",
+        "name": "WIRED Text Add-on: Möbelname Placeholder",
         "description": "wf_xtra_text_output_furni_name desc"
       },
       {

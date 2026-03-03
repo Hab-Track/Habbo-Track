@@ -114783,7 +114783,7 @@
       },
       {
         "code": "wf_act_cancel_transaction",
-        "name": "wf_act_cancel_transaction name",
+        "name": "Wired Effect: Annuleer Transactie",
         "description": "wf_act_cancel_transaction desc"
       },
       {
@@ -114823,12 +114823,12 @@
       },
       {
         "code": "wf_act_give_currency",
-        "name": "wf_act_give_currency name",
+        "name": "Wired Effect: Geeft Valuta uit de Opbergkist",
         "description": "wf_act_give_currency desc"
       },
       {
         "code": "wf_act_give_furni",
-        "name": "wf_act_give_furni name",
+        "name": "Wired Effect: Geeft Meubi uit de Opbergkist",
         "description": "wf_act_give_furni desc"
       },
       {
@@ -114853,7 +114853,7 @@
       },
       {
         "code": "wf_act_init_transaction",
-        "name": "wf_act_init_transaction name",
+        "name": "Wired Effect: Start Transactie",
         "description": "wf_act_init_transaction desc"
       },
       {
@@ -115083,12 +115083,12 @@
       },
       {
         "code": "wf_cnd_chest_has_item_type",
-        "name": "wf_cnd_chest_has_item_type name",
+        "name": "Wired Voorwaarde: Opbergkist bevat verschillende Meubi Soorten",
         "description": "wf_cnd_chest_has_item_type desc"
       },
       {
         "code": "wf_cnd_chest_has_items",
-        "name": "wf_cnd_chest_has_items name",
+        "name": "Wired Voorwaarde: Opbergkist heeft X items",
         "description": "wf_cnd_chest_has_items desc"
       },
       {
@@ -115308,17 +115308,17 @@
       },
       {
         "code": "wf_contract_payment",
-        "name": "wf_contract_payment name",
+        "name": "Wired Contract: Betalings Contract",
         "description": "wf_contract_payment desc"
       },
       {
         "code": "wf_contract_reward",
-        "name": "wf_contract_reward name",
+        "name": "Wired Contract: Belongings Contract",
         "description": "wf_contract_reward desc"
       },
       {
         "code": "wf_contract_trade",
-        "name": "wf_contract_trade name",
+        "name": "Wired Contract: Ruil Contract",
         "description": "wf_contract_trade desc"
       },
       {
@@ -115598,27 +115598,27 @@
       },
       {
         "code": "wf_storage_coins1",
-        "name": "wf_storage_coins1 name",
+        "name": "Credit Opbergkist",
         "description": "wf_storage_coins1 desc"
       },
       {
         "code": "wf_storage_coins2",
-        "name": "wf_storage_coins2 name",
+        "name": "Credit Opbergkist",
         "description": "wf_storage_coins2 desc"
       },
       {
         "code": "wf_storage_furni1",
-        "name": "wf_storage_furni1 name",
+        "name": "Meubi Opbergkist",
         "description": "wf_storage_furni1 desc"
       },
       {
         "code": "wf_storage_furni2",
-        "name": "wf_storage_furni2 name",
+        "name": "Meubi Opbergkist",
         "description": "wf_storage_furni2 desc"
       },
       {
         "code": "wf_storage_furni_starter",
-        "name": "wf_storage_furni_starter name",
+        "name": "Starters Opbergkist!",
         "description": "wf_storage_furni_starter desc"
       },
       {
@@ -115863,12 +115863,12 @@
       },
       {
         "code": "wf_trg_transaction_complete",
-        "name": "wf_trg_transaction_complete name",
+        "name": "Wired Trigger: Transactie Voltooid",
         "description": "wf_trg_transaction_complete desc"
       },
       {
         "code": "wf_trg_transaction_fail",
-        "name": "wf_trg_transaction_fail name",
+        "name": "Wired Trigger: Transactie Mislukt",
         "description": "wf_trg_transaction_fail desc"
       },
       {
@@ -115983,7 +115983,7 @@
       },
       {
         "code": "wf_xtra_custom_contract",
-        "name": "wf_xtra_custom_contract name",
+        "name": "Wired Add-on: Personaliseer Contract",
         "description": "wf_xtra_custom_contract desc"
       },
       {
@@ -116048,7 +116048,7 @@
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",
-        "name": "wf_xtra_scan_chest_furni_by_type name",
+        "name": "Wired Zoeker Add-on: Opbergkist Meubi Soort",
         "description": "wf_xtra_scan_chest_furni_by_type desc"
       },
       {
@@ -116058,7 +116058,7 @@
       },
       {
         "code": "wf_xtra_text_output_furni_name",
-        "name": "wf_xtra_text_output_furni_name name",
+        "name": "Wired Tekst Add-on: Tekstveld Meubi Naam",
         "description": "wf_xtra_text_output_furni_name desc"
       },
       {

@@ -112828,7 +112828,7 @@
       },
       {
         "code": "wf_act_cancel_transaction",
-        "name": "wf_act_cancel_transaction name",
+        "name": "Effet WIRED : Annuler la transaction",
         "description": "wf_act_cancel_transaction desc"
       },
       {
@@ -112868,12 +112868,12 @@
       },
       {
         "code": "wf_act_give_currency",
-        "name": "wf_act_give_currency name",
+        "name": "Effet WIRED : donner de la monnaie à partir du coffre",
         "description": "wf_act_give_currency desc"
       },
       {
         "code": "wf_act_give_furni",
-        "name": "wf_act_give_furni name",
+        "name": "Effet WIRED : donner des mobis à partir du coffre",
         "description": "wf_act_give_furni desc"
       },
       {
@@ -112898,7 +112898,7 @@
       },
       {
         "code": "wf_act_init_transaction",
-        "name": "wf_act_init_transaction name",
+        "name": "WIRED Add-on : Contrat personnalisé",
         "description": "wf_act_init_transaction desc"
       },
       {
@@ -113138,12 +113138,12 @@
       },
       {
         "code": "wf_cnd_chest_has_item_type",
-        "name": "wf_cnd_chest_has_item_type name",
+        "name": "WIRED Condition : Coffre contenant Type de mobi",
         "description": "wf_cnd_chest_has_item_type desc"
       },
       {
         "code": "wf_cnd_chest_has_items",
-        "name": "wf_cnd_chest_has_items name",
+        "name": "WIRED Condition : Le coffre contient X articles",
         "description": "wf_cnd_chest_has_items desc"
       },
       {
@@ -113373,17 +113373,17 @@
       },
       {
         "code": "wf_contract_payment",
-        "name": "wf_contract_payment name",
+        "name": "Contrat WIRED : Contrat de paiement",
         "description": "wf_contract_payment desc"
       },
       {
         "code": "wf_contract_reward",
-        "name": "wf_contract_reward name",
+        "name": "Contrat WIRED : Contrat de récompense",
         "description": "wf_contract_reward desc"
       },
       {
         "code": "wf_contract_trade",
-        "name": "wf_contract_trade name",
+        "name": "Contrat WIRED : Contrat commercial",
         "description": "wf_contract_trade desc"
       },
       {
@@ -113678,27 +113678,27 @@
       },
       {
         "code": "wf_storage_coins1",
-        "name": "wf_storage_coins1 name",
+        "name": "Coffre crédit",
         "description": "wf_storage_coins1 desc"
       },
       {
         "code": "wf_storage_coins2",
-        "name": "wf_storage_coins2 name",
+        "name": "Coffre crédit",
         "description": "wf_storage_coins2 desc"
       },
       {
         "code": "wf_storage_furni1",
-        "name": "wf_storage_furni1 name",
+        "name": "Coffre mobi",
         "description": "wf_storage_furni1 desc"
       },
       {
         "code": "wf_storage_furni2",
-        "name": "wf_storage_furni2 name",
+        "name": "Coffre mobi",
         "description": "wf_storage_furni2 desc"
       },
       {
         "code": "wf_storage_furni_starter",
-        "name": "wf_storage_furni_starter name",
+        "name": "Coffre mobi de départ",
         "description": "wf_storage_furni_starter desc"
       },
       {
@@ -113943,12 +113943,12 @@
       },
       {
         "code": "wf_trg_transaction_complete",
-        "name": "wf_trg_transaction_complete name",
+        "name": "Déclencheur WIRED : transaction terminée",
         "description": "wf_trg_transaction_complete desc"
       },
       {
         "code": "wf_trg_transaction_fail",
-        "name": "wf_trg_transaction_fail name",
+        "name": "Déclencheur WIRED : transaction échouée",
         "description": "wf_trg_transaction_fail desc"
       },
       {
@@ -114063,7 +114063,7 @@
       },
       {
         "code": "wf_xtra_custom_contract",
-        "name": "wf_xtra_custom_contract name",
+        "name": "WIRED Add-on : Contrat personnalisé",
         "description": "wf_xtra_custom_contract desc"
       },
       {
@@ -114128,7 +114128,7 @@
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",
-        "name": "wf_xtra_scan_chest_furni_by_type name",
+        "name": "WIRED Scanner Add-on : Coffre mobi de type",
         "description": "wf_xtra_scan_chest_furni_by_type desc"
       },
       {
@@ -114138,7 +114138,7 @@
       },
       {
         "code": "wf_xtra_text_output_furni_name",
-        "name": "wf_xtra_text_output_furni_name name",
+        "name": "WIRED Texte Add-on : place nom de mobi",
         "description": "wf_xtra_text_output_furni_name desc"
       },
       {

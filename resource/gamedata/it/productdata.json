@@ -114958,7 +114958,7 @@
       },
       {
         "code": "wf_act_cancel_transaction",
-        "name": "wf_act_cancel_transaction name",
+        "name": "Effetto WIRED: Cancella Transazione",
         "description": "wf_act_cancel_transaction desc"
       },
       {
@@ -114998,12 +114998,12 @@
       },
       {
         "code": "wf_act_give_currency",
-        "name": "wf_act_give_currency name",
+        "name": "Effetto WIRED: Dai Valuta da Scrigno",
         "description": "wf_act_give_currency desc"
       },
       {
         "code": "wf_act_give_furni",
-        "name": "wf_act_give_furni name",
+        "name": "Effetto WIRED: Dai Furni da Scrigno",
         "description": "wf_act_give_furni desc"
       },
       {
@@ -115028,7 +115028,7 @@
       },
       {
         "code": "wf_act_init_transaction",
-        "name": "wf_act_init_transaction name",
+        "name": "Effetto WIRED: Avvia Transazione",
         "description": "wf_act_init_transaction desc"
       },
       {
@@ -115258,12 +115258,12 @@
       },
       {
         "code": "wf_cnd_chest_has_item_type",
-        "name": "wf_cnd_chest_has_item_type name",
+        "name": "Condizione WIRED: Lo Scrigno Contiene Tipo di Furni",
         "description": "wf_cnd_chest_has_item_type desc"
       },
       {
         "code": "wf_cnd_chest_has_items",
-        "name": "wf_cnd_chest_has_items name",
+        "name": "Condizione WIRED: Scrigno ha X Articoli",
         "description": "wf_cnd_chest_has_items desc"
       },
       {
@@ -115488,17 +115488,17 @@
       },
       {
         "code": "wf_contract_payment",
-        "name": "wf_contract_payment name",
+        "name": "Contratto WIRED: Contratto di Pagamento",
         "description": "wf_contract_payment desc"
       },
       {
         "code": "wf_contract_reward",
-        "name": "wf_contract_reward name",
+        "name": "Contratto WIRED: Contratto di Ricompensa",
         "description": "wf_contract_reward desc"
       },
       {
         "code": "wf_contract_trade",
-        "name": "wf_contract_trade name",
+        "name": "Contratto WIRED: Contratto di Scambio",
         "description": "wf_contract_trade desc"
       },
       {
@@ -115778,27 +115778,27 @@
       },
       {
         "code": "wf_storage_coins1",
-        "name": "wf_storage_coins1 name",
+        "name": "Scrigno Crediti",
         "description": "wf_storage_coins1 desc"
       },
       {
         "code": "wf_storage_coins2",
-        "name": "wf_storage_coins2 name",
+        "name": "Scrigno Crediti",
         "description": "wf_storage_coins2 desc"
       },
       {
         "code": "wf_storage_furni1",
-        "name": "wf_storage_furni1 name",
+        "name": "Scrigno Furni",
         "description": "wf_storage_furni1 desc"
       },
       {
         "code": "wf_storage_furni2",
-        "name": "wf_storage_furni2 name",
+        "name": "Scrigno Furni",
         "description": "wf_storage_furni2 desc"
       },
       {
         "code": "wf_storage_furni_starter",
-        "name": "wf_storage_furni_starter name",
+        "name": "Scrigno Furni Iniziale",
         "description": "wf_storage_furni_starter desc"
       },
       {
@@ -116043,12 +116043,12 @@
       },
       {
         "code": "wf_trg_transaction_complete",
-        "name": "wf_trg_transaction_complete name",
+        "name": "Innesco WIRED: Transazione Completata",
         "description": "wf_trg_transaction_complete desc"
       },
       {
         "code": "wf_trg_transaction_fail",
-        "name": "wf_trg_transaction_fail name",
+        "name": "Innesco WIRED: Transazione Fallita",
         "description": "wf_trg_transaction_fail desc"
       },
       {
@@ -116163,7 +116163,7 @@
       },
       {
         "code": "wf_xtra_custom_contract",
-        "name": "wf_xtra_custom_contract name",
+        "name": "Componente Aggiuntivo WIRED: Contratto Personalizzato",
         "description": "wf_xtra_custom_contract desc"
       },
       {
@@ -116228,7 +116228,7 @@
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",
-        "name": "wf_xtra_scan_chest_furni_by_type name",
+        "name": "Componente Aggiuntivo Scanner WIRED: Scrigno con Furni di Tipo",
         "description": "wf_xtra_scan_chest_furni_by_type desc"
       },
       {
@@ -116238,7 +116238,7 @@
       },
       {
         "code": "wf_xtra_text_output_furni_name",
-        "name": "wf_xtra_text_output_furni_name name",
+        "name": "Componente Aggiuntivo Testo WIRED: Placeholder nome Furni",
         "description": "wf_xtra_text_output_furni_name desc"
       },
       {
