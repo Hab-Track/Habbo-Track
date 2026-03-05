@@ -35548,7 +35548,7 @@
       },
       {
         "code": "clothing_crownedfantasydemon",
-        "name": "clothing_crownedfantasydemon name",
+        "name": "Voittaja fantasiademoni",
         "description": "clothing_crownedfantasydemon desc"
       },
       {
@@ -36228,7 +36228,7 @@
       },
       {
         "code": "clothing_fantasydemon",
-        "name": "clothing_fantasydemon name",
+        "name": "Fantasiademoni",
         "description": "clothing_fantasydemon desc"
       },
       {
@@ -108160,6 +108160,11 @@
         "code": "stone_wall",
         "name": "Kiviseinä",
         "description": "Täydellinen naapurin jalkapallojen, kananmunien ja lemmikkien torjumiseen"
+      },
+      {
+        "code": "storage_furni_starter_bd",
+        "name": "Aloittelijan arkku",
+        "description": ""
       },
       {
         "code": "stories_bschool_deal2",

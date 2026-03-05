@@ -34068,7 +34068,7 @@
       },
       {
         "code": "clothing_crownedfantasydemon",
-        "name": "clothing_crownedfantasydemon name",
+        "name": "Extra Duivelse Accessoires",
         "description": "clothing_crownedfantasydemon desc"
       },
       {
@@ -34753,7 +34753,7 @@
       },
       {
         "code": "clothing_fantasydemon",
-        "name": "clothing_fantasydemon name",
+        "name": "Duivelse Accessoires",
         "description": "clothing_fantasydemon desc"
       },
       {
@@ -107997,6 +107997,11 @@
         "description": "Perfect om de voetballen, eieren en huisdieren van de buren te weren"
       },
       {
+        "code": "storage_furni_starter_bd",
+        "name": "Starters Opbergkist!",
+        "description": ""
+      },
+      {
         "code": "stories_football_board",
         "name": "Voetbal Strategie Bord",
         "description": "Zoals het gaat in het leven: ga vooruit, ontwijk je tegenstanders en sla toe als je de kans krijgt!"
@@ -114778,7 +114783,7 @@
       },
       {
         "code": "wf_act_adjust_clock",
-        "name": "WIRED Reactie: Tellerstijd Aanpassen",
+        "name": "WIRED Reactie: Timer Tijd Aanpassen",
         "description": "wf_act_adjust_clock desc"
       },
       {
@@ -114823,7 +114828,7 @@
       },
       {
         "code": "wf_act_cancel_transaction",
-        "name": "Wired Effect: Annuleer Transactie",
+        "name": "WIRED Reactie: Annuleert Transactie",
         "description": "wf_act_cancel_transaction desc"
       },
       {
@@ -114863,12 +114868,12 @@
       },
       {
         "code": "wf_act_give_currency",
-        "name": "Wired Effect: Geeft Valuta uit de Opbergkist",
+        "name": "WIRED Reactie: Geeft Valuta uit Opbergkist",
         "description": "wf_act_give_currency desc"
       },
       {
         "code": "wf_act_give_furni",
-        "name": "Wired Effect: Geeft Meubi uit de Opbergkist",
+        "name": "WIRED Reactie: Geeft Meubi uit Opbergkist",
         "description": "wf_act_give_furni desc"
       },
       {
@@ -114893,7 +114898,7 @@
       },
       {
         "code": "wf_act_init_transaction",
-        "name": "Wired Effect: Start Transactie",
+        "name": "WIRED Reactie: Start Transactie",
         "description": "wf_act_init_transaction desc"
       },
       {
@@ -114913,7 +114918,7 @@
       },
       {
         "code": "wf_act_log",
-        "name": "Wired Effect: Schrijf een berichtje in logboek",
+        "name": "WIRED Reactie: Schrijf naar logboek",
         "description": "wf_act_log desc"
       },
       {
@@ -114953,7 +114958,7 @@
       },
       {
         "code": "wf_act_neg_log",
-        "name": "Wired Negatief Effect: Schrijf een berichtje in logboek",
+        "name": "WIRED Negatieve Reactie: Schrijf naar logboek",
         "description": "wf_act_neg_log desc"
       },
       {
@@ -115003,7 +115008,7 @@
       },
       {
         "code": "wf_act_teleport_to_room",
-        "name": "Wired Effect: Teleporteer naar Kamer",
+        "name": "WIRED Reactie: Teleporteer naar Kamer",
         "description": "wf_act_teleport_to_room desc"
       },
       {
@@ -115123,12 +115128,12 @@
       },
       {
         "code": "wf_cnd_chest_has_item_type",
-        "name": "Wired Voorwaarde: Opbergkist bevat verschillende Meubi Soorten",
+        "name": "WIRED Voorwaarde: Opbergkist bevat Meubi Soort",
         "description": "wf_cnd_chest_has_item_type desc"
       },
       {
         "code": "wf_cnd_chest_has_items",
-        "name": "Wired Voorwaarde: Opbergkist heeft X items",
+        "name": "WIRED Voorwaarde: Opbergkist heeft X items",
         "description": "wf_cnd_chest_has_items desc"
       },
       {
@@ -115298,17 +115303,17 @@
       },
       {
         "code": "wf_cnd_user_count_in",
-        "name": "WIRED Voorwaarde: aantal gebruikers in kamer",
-        "description": "Triggeren is toegestaan wanneer het aantal gebruikers in de kamer tussen de limieten valt."
+        "name": "WIRED Voorwaarde: aantal spelers in kamer",
+        "description": "Triggeren is toegestaan wanneer het aantal spelers in de kamer tussen de limieten valt."
       },
       {
         "code": "wf_cnd_user_count_int",
-        "name": "WIRED VOORWAARDE: aantal gebruikers in kamer",
-        "description": "Is niet geldig wanneer het aantal gebruikers in kamer gelijk of hoger is de de vooropgestelde limiet."
+        "name": "WIRED Voorwaarde: aantal spelers in kamer",
+        "description": "Is niet geldig wanneer het aantal spelers in kamer gelijk of hoger is de de vooropgestelde limiet."
       },
       {
         "code": "wf_cnd_user_performs_action",
-        "name": "WIRED Voorwaarde: User Voert Actie Uit",
+        "name": "WIRED Voorwaarde: Speler Voert Actie Uit",
         "description": "wf_cnd_user_performs_action desc"
       },
       {
@@ -115333,8 +115338,8 @@
       },
       {
         "code": "wf_cnd_wearing_effect",
-        "name": "Wired Voorwaarde: Gebruikt Reactie",
-        "description": "Wired Voorwaarde: Gebruikt Reactie"
+        "name": "WIRED Voorwaarde: Heeft Effect aan",
+        "description": "WIRED Voorwaarde: Heeft Effect aan"
       },
       {
         "code": "wf_colortile",
@@ -115348,17 +115353,17 @@
       },
       {
         "code": "wf_contract_payment",
-        "name": "Wired Contract: Betalings Contract",
+        "name": "WIRED Contract: Betalings Contract",
         "description": "wf_contract_payment desc"
       },
       {
         "code": "wf_contract_reward",
-        "name": "Wired Contract: Belongings Contract",
+        "name": "WIRED Contract: Belonings Contract",
         "description": "wf_contract_reward desc"
       },
       {
         "code": "wf_contract_trade",
-        "name": "Wired Contract: Ruil Contract",
+        "name": "WIRED Contract: Ruil Contract",
         "description": "wf_contract_trade desc"
       },
       {
@@ -115493,7 +115498,7 @@
       },
       {
         "code": "wf_proto_cnd_trggrer_on_frn",
-        "name": "WIRED Voorwaarde: Actie Habbo moet op Meubi staan",
+        "name": "Oude WIRED Voorwaarde: Actie Habbo moet op Meubi staan",
         "description": "wf_proto_cnd_trggrer_on_frn desc"
       },
       {
@@ -115503,7 +115508,7 @@
       },
       {
         "code": "wf_proto_trg_at_given_time",
-        "name": "Oude Wired Trigger: Op de Aangegeven Tijd",
+        "name": "Oude WIRED Actie: Op de Aangegeven Tijd",
         "description": "wf_proto_trg_at_given_time desc"
       },
       {
@@ -115523,7 +115528,7 @@
       },
       {
         "code": "wf_room_linker",
-        "name": "Wired Kamer Linken",
+        "name": "WIRED Kamer Linker",
         "description": "wf_room_linker desc"
       },
       {
@@ -115823,7 +115828,7 @@
       },
       {
         "code": "wf_trg_click_user",
-        "name": "WIRED Trigger: Speler klikt op Speler",
+        "name": "WIRED Actie: Speler klikt op Speler",
         "description": "wf_trg_click_user desc"
       },
       {

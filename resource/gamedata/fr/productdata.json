@@ -34258,7 +34258,7 @@
       },
       {
         "code": "clothing_crownedfantasydemon",
-        "name": "clothing_crownedfantasydemon name",
+        "name": "Démon fantastique vainqueur",
         "description": "clothing_crownedfantasydemon desc"
       },
       {
@@ -34938,7 +34938,7 @@
       },
       {
         "code": "clothing_fantasydemon",
-        "name": "clothing_fantasydemon name",
+        "name": "Démon fantastique",
         "description": "clothing_fantasydemon desc"
       },
       {
@@ -106205,6 +106205,11 @@
         "code": "stone_wall",
         "name": "Mur en pierre",
         "description": "Parfait pour éloigner le ballon des voisins, les œufs et les animaux"
+      },
+      {
+        "code": "storage_furni_starter_bd",
+        "name": "Coffre mobi de départ",
+        "description": ""
       },
       {
         "code": "stories_football_board",

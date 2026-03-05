@@ -7198,12 +7198,12 @@
       },
       {
         "code": "a11 rare_icecream_bd",
-        "name": "Silber Eismaschine",
+        "name": "Silberne Eismaschine",
         "description": "eiskalte Snacks"
       },
       {
         "code": "a11 rare_icecream",
-        "name": "Silber Eismaschine",
+        "name": "Silberne Eismaschine",
         "description": "eiskalte Snacks"
       },
       {
@@ -32023,7 +32023,7 @@
       },
       {
         "code": "cl_r26_flowerpothair_bd",
-        "name": "Eingetopftes Haar",
+        "name": "Topfhaar",
         "description": ""
       },
       {
@@ -32033,7 +32033,7 @@
       },
       {
         "code": "cl_r26_mannequinskin_bd",
-        "name": "Mannequin-Haut",
+        "name": "Schneiderpuppen-Haut",
         "description": ""
       },
       {
@@ -42433,7 +42433,7 @@
       },
       {
         "code": "clothing_r26_flowerpothair",
-        "name": "Eingetopftes Haar",
+        "name": "Topfhaar",
         "description": "clothing_r26_flowerpothair desc"
       },
       {
@@ -42443,7 +42443,7 @@
       },
       {
         "code": "clothing_r26_mannequinskin",
-        "name": "Mannequin-Haut",
+        "name": "Schneiderpuppen-Haut",
         "description": "clothing_r26_mannequinskin desc"
       },
       {
@@ -51043,7 +51043,7 @@
       },
       {
         "code": "ducket_c26_floor",
-        "name": "Cottage Floor",
+        "name": "Landhaus-Boden",
         "description": "ducket_c26_floor desc"
       },
       {
@@ -61783,7 +61783,7 @@
       },
       {
         "code": "hobbies_c26_flower",
-        "name": "Gartengänseblümchen",
+        "name": "Gänseblümchen",
         "description": "hobbies_c26_flower desc"
       },
       {
@@ -61793,7 +61793,7 @@
       },
       {
         "code": "hobbies_c26_flowerpot2",
-        "name": "Breiter Blumentopf",
+        "name": "Großer Blumentopf",
         "description": "hobbies_c26_flowerpot2 desc"
       },
       {
@@ -61838,7 +61838,7 @@
       },
       {
         "code": "hobbies_c26_mannequin",
-        "name": "Stehende Schaufensterpuppe",
+        "name": "Schicke Schneiderpuppe",
         "description": "hobbies_c26_mannequin desc"
       },
       {
@@ -61933,7 +61933,7 @@
       },
       {
         "code": "hobbies_c26_tool1",
-        "name": "Gartenspaten",
+        "name": "Gartenkelle",
         "description": "hobbies_c26_tool1 desc"
       },
       {
@@ -61968,7 +61968,7 @@
       },
       {
         "code": "hobbies_r26_diamondblade",
-        "name": "Die Diamantenklinge",
+        "name": "Die Diamantklinge",
         "description": "hobbies_r26_diamondblade desc"
       },
       {
@@ -65088,7 +65088,7 @@
       },
       {
         "code": "hween_c20_mannequin",
-        "name": "Schauriges Mannequin",
+        "name": "Schauriges Schneiderpuppe",
         "description": "hween_c20_mannequin desc"
       },
       {
@@ -84288,7 +84288,7 @@
       },
       {
         "code": "olympics_c16_mannequin",
-        "name": "HabboLympix Mannequin",
+        "name": "HabboLympix Schneiderpuppe",
         "description": "Lege deine Sportsbekleidung darauf."
       },
       {
@@ -84658,12 +84658,12 @@
       },
       {
         "code": "org_chrblk",
-        "name": "Schwarzer Sessel Organo",
+        "name": "Schwarzer Organo Sessel",
         "description": "Aus einem Guss"
       },
       {
         "code": "org_chrpnk",
-        "name": "Pinker Sessel Organo",
+        "name": "Pinker Organo Sessel",
         "description": "Aus einem Guss"
       },
       {
@@ -84678,17 +84678,17 @@
       },
       {
         "code": "org_table",
-        "name": "Pinker Area-Tisch",
+        "name": "Pinker Organo Tisch",
         "description": "Modernes Design zum Wohlfühlen"
       },
       {
         "code": "org_tblblk",
-        "name": "Schwarzer Organo Tisch",
+        "name": "Schwarzer Organo Rundtisch",
         "description": "Modernes Design zum Wohlfühlen"
       },
       {
         "code": "org_tblpnk",
-        "name": "Pinker Tisch Organo",
+        "name": "Pinker Organo Rundtisch",
         "description": "Modernes Design zum Wohlfühlen"
       },
       {
@@ -107265,6 +107265,11 @@
         "code": "stone_wall",
         "name": "Steinmauer",
         "description": "Prima, um nachbarliche Fußbälle, Eier, Haustiere fernzuhalten"
+      },
+      {
+        "code": "storage_furni_starter_bd",
+        "name": "Starter-Möbeltruhe",
+        "description": ""
       },
       {
         "code": "stories_football_board",
