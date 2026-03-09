@@ -79043,7 +79043,7 @@
       },
       {
         "code": "march_c26_submarine",
-        "name": "march_c26_submarine name",
+        "name": "Purple Submarine",
         "description": "march_c26_submarine desc"
       },
       {
@@ -80163,7 +80163,7 @@
       },
       {
         "code": "minirare_fan_3",
-        "name": "minirare_fan_3 name",
+        "name": "Purple Mini Fan",
         "description": "minirare_fan_3 desc"
       },
       {
@@ -122807,6 +122807,11 @@
         "description": "wf_storage_coins2 desc"
       },
       {
+        "code": "wf_storage_coins_bd",
+        "name": "Credit Chest Pack",
+        "description": ""
+      },
+      {
         "code": "wf_storage_furni1",
         "name": "Furni Chest",
         "description": "wf_storage_furni1 desc"
@@ -122815,6 +122820,11 @@
         "code": "wf_storage_furni2",
         "name": "Furni Chest",
         "description": "wf_storage_furni2 desc"
+      },
+      {
+        "code": "wf_storage_furni_bd",
+        "name": "Furni Chest Pack",
+        "description": ""
       },
       {
         "code": "wf_storage_furni_starter",

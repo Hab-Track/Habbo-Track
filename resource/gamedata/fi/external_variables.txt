@@ -1,4 +1,4 @@
-achievements.new=DailyTasksCompleted,DailyTaskStreakDays
+achievements.new=FurniOrganizer
 activity.point.display.enabled=true
 activitypoint.name.0=tooltip.duckets
 activitypoint.name.101=${seasonalcurrency.id.101}.currency.name
@@ -2023,7 +2023,7 @@ notification.wired_chests.chest_wired_transaction={"delivery":"PERSISTENT","disp
 notification.wired_chests.donation={"delivery":"PERSISTENT","display":"BUBBLE","image":"chests_icon_chest_donation"}
 notification.wired_chests.earnings={"delivery":"PERSISTENT","display":"BUBBLE","image":"chests_icon_chest_capacity_exceeds"}
 notification.wired_chests.someone_withdraws={"delivery":"PERSISTENT","display":"BUBBLE","image":"chests_icon_chest_withdraw"}
-notifications.new_feature.active=chests
+notifications.new_feature.active=chests,new_achievements
 notifications.new_feature.color.chests=#fcba03
 notifications.new_feature.color.daily_task_achievements=#f51d21
 notifications.new_feature.color.daily_tasks=#5e3c83
@@ -2286,8 +2286,8 @@ zoom.enabled=1
 
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202603021419-946838303/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.fi/gamedata/external_flash_texts/3c704c24de56731fb9e8709fd92cd35e642b10d7
+external.texts.txt=https://www.habbo.fi/gamedata/external_flash_texts/58fdcf7b8c8b18307505a924a71a5e5ba2d39b55
 external.figurepartlist.txt=https://www.habbo.fi/gamedata/figuredata/cb911b7e577c04ec0d1917e27e5af73611a30b0f
 productdata.load.url=http://www.habbo.fi/gamedata/productdata/8a83fa3561dcae07c4dec0042237ac4a513f28fc
 furnidata.load.url=http://www.habbo.fi/gamedata/furnidata_xml/b993e867878cefc1380fb18e0bbc54c938c01ce3
-external.override.texts.txt=https://www.habbo.fi/gamedata/override/external_flash_override_texts/3c704c24de56731fb9e8709fd92cd35e642b10d7
+external.override.texts.txt=https://www.habbo.fi/gamedata/override/external_flash_override_texts/58fdcf7b8c8b18307505a924a71a5e5ba2d39b55
