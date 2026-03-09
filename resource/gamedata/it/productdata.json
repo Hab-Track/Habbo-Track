@@ -115832,6 +115832,11 @@
         "description": "wf_storage_coins2 desc"
       },
       {
+        "code": "wf_storage_coins_bd",
+        "name": "Credit Chest Pack",
+        "description": ""
+      },
+      {
         "code": "wf_storage_furni1",
         "name": "Scrigno Furni",
         "description": "wf_storage_furni1 desc"
@@ -115840,6 +115845,11 @@
         "code": "wf_storage_furni2",
         "name": "Scrigno Furni",
         "description": "wf_storage_furni2 desc"
+      },
+      {
+        "code": "wf_storage_furni_bd",
+        "name": "Furni Chest Pack",
+        "description": ""
       },
       {
         "code": "wf_storage_furni_starter",
