@@ -6733,7 +6733,7 @@
       },
       {
         "code": "a0 theatre_seat",
-        "name": "Butaca HC",
+        "name": "Butaca Habbowood Roja",
         "description": "¡Comienza el espectáculo!"
       },
       {
@@ -31918,8 +31918,8 @@
       },
       {
         "code": "cine_tile",
-        "name": "Baldosa de cine",
-        "description": "¡Menudo diseño!"
+        "name": "Baldosa de Cine",
+        "description": "Se ilumina al pasar por encima."
       },
       {
         "code": "cine_vipsign",
@@ -78958,12 +78958,12 @@
       },
       {
         "code": "nft_h22_small_bug2",
-        "name": "Otro pequeño bicho",
+        "name": "Otro pequeño bug",
         "description": "nft_h22_small_bug2 desc"
       },
       {
         "code": "nft_h22_small_bug",
-        "name": "Un pequeño bicho",
+        "name": "Un pequeño bug",
         "description": "nft_h22_small_bug desc"
       },
       {
@@ -109313,12 +109313,12 @@
       },
       {
         "code": "theatre_seat_b",
-        "name": "Black Habbowood Chair",
+        "name": "Butaca Habbowood Negra",
         "description": "Try not to spill any drinks!"
       },
       {
         "code": "theatre_seat_g",
-        "name": "Green Habbowood Chair",
+        "name": "Butaca Habbowood Verde",
         "description": "Try not to spill any drinks!"
       },
       {
@@ -114553,12 +114553,12 @@
       },
       {
         "code": "wf_act_give_currency",
-        "name": "EFECTO WIRED: Entregar monedas del Cofre",
+        "name": "Efecto WIRED: Dar moneda desde Cofre",
         "description": "wf_act_give_currency desc"
       },
       {
         "code": "wf_act_give_furni",
-        "name": "EFECTO WIRED: Entregar furnis del Cofre",
+        "name": "Efecto WIRED: Dar furni desde Cofre",
         "description": "wf_act_give_furni desc"
       },
       {
@@ -114813,12 +114813,12 @@
       },
       {
         "code": "wf_cnd_chest_has_item_type",
-        "name": "CONDICIÓN WIRED: el cofre contiene un tipo de furni",
+        "name": "Condición WIRED: Cofre Contiene Tipo de Furni",
         "description": "wf_cnd_chest_has_item_type desc"
       },
       {
         "code": "wf_cnd_chest_has_items",
-        "name": "CONDICIÓN WIRED: el Cofre tiene X objetos",
+        "name": "Condición WIRED: Cantidad en Cofre",
         "description": "wf_cnd_chest_has_items desc"
       },
       {
@@ -115608,7 +115608,7 @@
       },
       {
         "code": "wf_trg_transaction_fail",
-        "name": "Causante WIRED: Error en la Transacción",
+        "name": "Causante WIRED: Transacción Fallida",
         "description": "wf_trg_transaction_fail desc"
       },
       {
@@ -115778,7 +115778,7 @@
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",
-        "name": "Complemento Escáner WIRED: Tipos de Furni del Cofre de Furnis",
+        "name": "Complemento Escáner WIRED: Tipos de Furni en Cofre",
         "description": "wf_xtra_scan_chest_furni_by_type desc"
       },
       {
@@ -115788,7 +115788,7 @@
       },
       {
         "code": "wf_xtra_text_output_furni_name",
-        "name": "Complemento de texto WIRED: Marcador de posición del nombre del furni",
+        "name": "Complemento de Texto WIRED: Identificar Nombres de Furni",
         "description": "wf_xtra_text_output_furni_name desc"
       },
       {
