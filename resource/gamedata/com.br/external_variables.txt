@@ -1,4 +1,4 @@
-achievements.new=FurniOrganizer
+achievements.new=FurniOrganizer,GamerPaycheck
 activity.point.display.enabled=true
 activitypoint.name.0=tooltip.duckets
 activitypoint.name.101=${seasonalcurrency.id.101}.currency.name
@@ -2289,8 +2289,8 @@ zoom.enabled=1
 
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202603021419-946838303/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.com.br/gamedata/external_flash_texts/c129b3890747212d7fffc01979f356af9ef704bf
+external.texts.txt=https://www.habbo.com.br/gamedata/external_flash_texts/2c66bae31579ba3e366dfbd063b0ceaeffa5b727
 external.figurepartlist.txt=https://www.habbo.com.br/gamedata/figuredata/cb911b7e577c04ec0d1917e27e5af73611a30b0f
-productdata.load.url=http://www.habbo.com.br/gamedata/productdata/4e01b719134ea34c6b1f24eb7d2edb3580fb0d6f
-furnidata.load.url=http://www.habbo.com.br/gamedata/furnidata_xml/fdac5944b9cf9327f87c1b1936fb73ec6745c53d
-external.override.texts.txt=https://www.habbo.com.br/gamedata/override/external_flash_override_texts/c129b3890747212d7fffc01979f356af9ef704bf
+productdata.load.url=http://www.habbo.com.br/gamedata/productdata/6ed3e2ba3868ad831cf619d42495d791ad55d5cc
+furnidata.load.url=http://www.habbo.com.br/gamedata/furnidata_xml/8cc416e29a3266db44164799388cbde055e8dcce
+external.override.texts.txt=https://www.habbo.com.br/gamedata/override/external_flash_override_texts/2c66bae31579ba3e366dfbd063b0ceaeffa5b727
