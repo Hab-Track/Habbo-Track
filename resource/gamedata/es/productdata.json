@@ -35317,6 +35317,11 @@
         "description": "clothing_drsportsshirt desc"
       },
       {
+        "code": "clothing_ducketbearbag",
+        "name": "clothing_ducketbearbag name",
+        "description": "clothing_ducketbearbag desc"
+      },
+      {
         "code": "clothing_ducketduckafro_d",
         "name": "Duck Afro",
         "description": ""
@@ -35335,6 +35340,11 @@
         "code": "clothing_duckethat",
         "name": "Sombrero de Expedición Patito",
         "description": "clothing_duckethat desc"
+      },
+      {
+        "code": "clothing_duckethoneyshirt",
+        "name": "clothing_duckethoneyshirt name",
+        "description": "clothing_duckethoneyshirt desc"
       },
       {
         "code": "clothing_ducketoutfit",
@@ -35395,6 +35405,36 @@
         "code": "clothing_elepony",
         "name": "Coleta Elegante",
         "description": ""
+      },
+      {
+        "code": "clothing_elvenlamp",
+        "name": "clothing_elvenlamp name",
+        "description": "clothing_elvenlamp desc"
+      },
+      {
+        "code": "clothing_elvenlongears",
+        "name": "clothing_elvenlongears name",
+        "description": "clothing_elvenlongears desc"
+      },
+      {
+        "code": "clothing_elvenmithriltop",
+        "name": "clothing_elvenmithriltop name",
+        "description": "clothing_elvenmithriltop desc"
+      },
+      {
+        "code": "clothing_elvenoutfit",
+        "name": "clothing_elvenoutfit name",
+        "description": "clothing_elvenoutfit desc"
+      },
+      {
+        "code": "clothing_elvensatchel",
+        "name": "clothing_elvensatchel name",
+        "description": "clothing_elvensatchel desc"
+      },
+      {
+        "code": "clothing_elvenshortears",
+        "name": "clothing_elvenshortears name",
+        "description": "clothing_elvenshortears desc"
       },
       {
         "code": "clothing_emobelt",
@@ -35680,6 +35720,11 @@
         "code": "clothing_floraltubetop",
         "name": "Top de Tubo Floreado",
         "description": "clothing_floraltubetop desc"
+      },
+      {
+        "code": "clothing_flowerantlers",
+        "name": "clothing_flowerantlers name",
+        "description": "clothing_flowerantlers desc"
       },
       {
         "code": "clothing_flowerbeard",
@@ -36592,6 +36637,11 @@
         "description": "clothing_layeredlongskirt desc"
       },
       {
+        "code": "clothing_leafantlers",
+        "name": "clothing_leafantlers name",
+        "description": "clothing_leafantlers desc"
+      },
+      {
         "code": "clothing_leafcrown",
         "name": "La Gran Corona",
         "description": "clothing_leafcrown desc"
@@ -36680,6 +36730,11 @@
         "code": "clothing_longdress",
         "name": "Vestido Ajustado Básico",
         "description": "clothing_longdress desc"
+      },
+      {
+        "code": "clothing_longelvenhair",
+        "name": "clothing_longelvenhair name",
+        "description": "clothing_longelvenhair desc"
       },
       {
         "code": "clothing_longmohawk",
@@ -42927,6 +42982,11 @@
         "description": "clothing_r26_minielephant desc"
       },
       {
+        "code": "clothing_r26_mysticdragon",
+        "name": "clothing_r26_mysticdragon name",
+        "description": "clothing_r26_mysticdragon desc"
+      },
+      {
         "code": "clothing_r26_plushiewings",
         "name": "Alas de Cupido Retro",
         "description": "clothing_r26_plushiewings desc"
@@ -42935,6 +42995,11 @@
         "code": "clothing_r26_robotcompanion",
         "name": "Robot de Compañía",
         "description": "clothing_r26_robotcompanion desc"
+      },
+      {
+        "code": "clothing_r26_wisp",
+        "name": "clothing_r26_wisp name",
+        "description": "clothing_r26_wisp desc"
       },
       {
         "code": "clothing_raccoonbeanie_bd",
@@ -51467,6 +51532,11 @@
         "description": "ducket_c25_wovenhammock desc"
       },
       {
+        "code": "ducket_c26_beeplushie",
+        "name": "ducket_c26_beeplushie name",
+        "description": "ducket_c26_beeplushie desc"
+      },
+      {
         "code": "ducket_c26_cottagebed",
         "name": "Cama Funcional Cabaña",
         "description": "ducket_c26_cottagebed desc"
@@ -51497,6 +51567,11 @@
         "description": "ducket_c26_flowerbench desc"
       },
       {
+        "code": "ducket_c26_hivewateringcan",
+        "name": "ducket_c26_hivewateringcan name",
+        "description": "ducket_c26_hivewateringcan desc"
+      },
+      {
         "code": "ducket_c26_honeygnome",
         "name": "Gnomo de Miel",
         "description": "ducket_c26_honeygnome desc"
@@ -51505,6 +51580,21 @@
         "code": "ducket_c26_honeyparasol",
         "name": "Parasol Abeja Melífera",
         "description": "ducket_c26_honeyparasol desc"
+      },
+      {
+        "code": "ducket_c26_honeypot",
+        "name": "ducket_c26_honeypot name",
+        "description": "ducket_c26_honeypot desc"
+      },
+      {
+        "code": "ducket_c26_honeystall",
+        "name": "ducket_c26_honeystall name",
+        "description": "ducket_c26_honeystall desc"
+      },
+      {
+        "code": "ducket_c26_honeyvase",
+        "name": "ducket_c26_honeyvase name",
+        "description": "ducket_c26_honeyvase desc"
       },
       {
         "code": "ducket_c26_largecottageshelf",
@@ -54102,6 +54192,11 @@
         "description": "easter_c26_elvenarchway desc"
       },
       {
+        "code": "easter_c26_elvenbox",
+        "name": "easter_c26_elvenbox name",
+        "description": "easter_c26_elvenbox desc"
+      },
+      {
         "code": "easter_c26_elvenboxb",
         "name": "easter_c26_elvenboxb name",
         "description": "easter_c26_elvenboxb desc"
@@ -54162,6 +54257,11 @@
         "description": "easter_c26_elvenfloorlamp desc"
       },
       {
+        "code": "easter_c26_elvengoddess",
+        "name": "easter_c26_elvengoddess name",
+        "description": "easter_c26_elvengoddess desc"
+      },
+      {
         "code": "easter_c26_elvenhanginglight",
         "name": "easter_c26_elvenhanginglight name",
         "description": "easter_c26_elvenhanginglight desc"
@@ -54175,6 +54275,11 @@
         "code": "easter_c26_elvenlongendtable",
         "name": "easter_c26_elvenlongendtable name",
         "description": "easter_c26_elvenlongendtable desc"
+      },
+      {
+        "code": "easter_c26_elvenmarbleblock",
+        "name": "easter_c26_elvenmarbleblock name",
+        "description": "easter_c26_elvenmarbleblock desc"
       },
       {
         "code": "easter_c26_elvenorganicmat",
@@ -54227,6 +54332,11 @@
         "description": "easter_c26_elventexts desc"
       },
       {
+        "code": "easter_c26_elventhroneb",
+        "name": "easter_c26_elventhroneb name",
+        "description": "easter_c26_elventhroneb desc"
+      },
+      {
         "code": "easter_c26_elvenwall",
         "name": "easter_c26_elvenwall name",
         "description": "easter_c26_elvenwall desc"
@@ -54235,6 +54345,21 @@
         "code": "easter_c26_elvenwoodfloor",
         "name": "easter_c26_elvenwoodfloor name",
         "description": "easter_c26_elvenwoodfloor desc"
+      },
+      {
+        "code": "easter_c26_potionbottle",
+        "name": "easter_c26_potionbottle name",
+        "description": "easter_c26_potionbottle desc"
+      },
+      {
+        "code": "easter_c26_rosebottle",
+        "name": "easter_c26_rosebottle name",
+        "description": "easter_c26_rosebottle desc"
+      },
+      {
+        "code": "easter_c26_windchime",
+        "name": "easter_c26_windchime name",
+        "description": "easter_c26_windchime desc"
       },
       {
         "code": "easter_c2_picnicfood",
@@ -54325,6 +54450,11 @@
         "code": "easter_ltd24_bunnyride",
         "name": "Montura conejo flamenco",
         "description": "easter_ltd24_bunnyride desc"
+      },
+      {
+        "code": "easter_ltd26_elventhrone",
+        "name": "easter_ltd26_elventhrone name",
+        "description": "easter_ltd26_elventhrone desc"
       },
       {
         "code": "easter_r16_crackable",
@@ -54515,6 +54645,16 @@
         "code": "easter_r25_easterpatch",
         "name": "Camino floral de Pascua",
         "description": "easter_r25_easterpatch desc"
+      },
+      {
+        "code": "easter_r26_elvenarcher",
+        "name": "easter_r26_elvenarcher name",
+        "description": "easter_r26_elvenarcher desc"
+      },
+      {
+        "code": "easter_r26_snowfairybird",
+        "name": "easter_r26_snowfairybird name",
+        "description": "easter_r26_snowfairybird desc"
       },
       {
         "code": "eastercraft1",
@@ -57535,6 +57675,26 @@
         "code": "fxbox_fx192",
         "name": "Regadera",
         "description": "Úsalo para que crezcan varias plantas"
+      },
+      {
+        "code": "fxbox_fx238",
+        "name": "fxbox_fx238 name",
+        "description": "fxbox_fx238 desc"
+      },
+      {
+        "code": "fxbox_fx239",
+        "name": "fxbox_fx239 name",
+        "description": "fxbox_fx239 desc"
+      },
+      {
+        "code": "fxbox_fx240",
+        "name": "fxbox_fx240 name",
+        "description": "fxbox_fx240 desc"
+      },
+      {
+        "code": "fxbox_fx241",
+        "name": "fxbox_fx241 name",
+        "description": "fxbox_fx241 desc"
       },
       {
         "code": "fxbox_fx92",
@@ -75482,6 +75642,21 @@
         "description": "neopets_c25_xweetokxmas desc"
       },
       {
+        "code": "neopets_c26_acara1",
+        "name": "neopets_c26_acara1 name",
+        "description": "neopets_c26_acara1 desc"
+      },
+      {
+        "code": "neopets_c26_acara2",
+        "name": "neopets_c26_acara2 name",
+        "description": "neopets_c26_acara2 desc"
+      },
+      {
+        "code": "neopets_c26_acara3",
+        "name": "neopets_c26_acara3 name",
+        "description": "neopets_c26_acara3 desc"
+      },
+      {
         "code": "neopets_c26_acarafae",
         "name": "Faerie Acara",
         "description": "neopets_c26_acarafae desc"
@@ -75492,9 +75667,34 @@
         "description": "neopets_c26_aishaval desc"
       },
       {
+        "code": "neopets_c26_bruce1",
+        "name": "neopets_c26_bruce1 name",
+        "description": "neopets_c26_bruce1 desc"
+      },
+      {
+        "code": "neopets_c26_bruce2",
+        "name": "neopets_c26_bruce2 name",
+        "description": "neopets_c26_bruce2 desc"
+      },
+      {
+        "code": "neopets_c26_bruce3",
+        "name": "neopets_c26_bruce3 name",
+        "description": "neopets_c26_bruce3 desc"
+      },
+      {
         "code": "neopets_c26_bruceval",
         "name": "Bruce Valentín",
         "description": "neopets_c26_bruceval desc"
+      },
+      {
+        "code": "neopets_c26_crackableeaster",
+        "name": "neopets_c26_crackableeaster name",
+        "description": "neopets_c26_crackableeaster desc"
+      },
+      {
+        "code": "neopets_c26_crackableeasterb",
+        "name": "neopets_c26_crackableeasterb name",
+        "description": "neopets_c26_crackableeasterb desc"
       },
       {
         "code": "neopets_c26_crackableval",
@@ -75512,6 +75712,21 @@
         "description": "neopets_c26_cybunnyval desc"
       },
       {
+        "code": "neopets_c26_draik1",
+        "name": "neopets_c26_draik1 name",
+        "description": "neopets_c26_draik1 desc"
+      },
+      {
+        "code": "neopets_c26_draik2",
+        "name": "neopets_c26_draik2 name",
+        "description": "neopets_c26_draik2 desc"
+      },
+      {
+        "code": "neopets_c26_draik3",
+        "name": "neopets_c26_draik3 name",
+        "description": "neopets_c26_draik3 desc"
+      },
+      {
         "code": "neopets_c26_draikval",
         "name": "Draik Valentín",
         "description": "neopets_c26_draikval desc"
@@ -75520,6 +75735,21 @@
         "code": "neopets_c26_eyriefae",
         "name": "Faerie Eyrie",
         "description": "neopets_c26_eyriefae desc"
+      },
+      {
+        "code": "neopets_c26_kacheek1",
+        "name": "neopets_c26_kacheek1 name",
+        "description": "neopets_c26_kacheek1 desc"
+      },
+      {
+        "code": "neopets_c26_kacheek2",
+        "name": "neopets_c26_kacheek2 name",
+        "description": "neopets_c26_kacheek2 desc"
+      },
+      {
+        "code": "neopets_c26_kacheek3",
+        "name": "neopets_c26_kacheek3 name",
+        "description": "neopets_c26_kacheek3 desc"
       },
       {
         "code": "neopets_c26_kacheekval",
@@ -75542,9 +75772,39 @@
         "description": "neopets_c26_shoyruval desc"
       },
       {
+        "code": "neopets_c26_uni1",
+        "name": "neopets_c26_uni1 name",
+        "description": "neopets_c26_uni1 desc"
+      },
+      {
+        "code": "neopets_c26_uni2",
+        "name": "neopets_c26_uni2 name",
+        "description": "neopets_c26_uni2 desc"
+      },
+      {
+        "code": "neopets_c26_uni3",
+        "name": "neopets_c26_uni3 name",
+        "description": "neopets_c26_uni3 desc"
+      },
+      {
         "code": "neopets_c26_unival",
         "name": "Uni Valentín",
         "description": "neopets_c26_unival desc"
+      },
+      {
+        "code": "neopets_c26_xweetok1",
+        "name": "neopets_c26_xweetok1 name",
+        "description": "neopets_c26_xweetok1 desc"
+      },
+      {
+        "code": "neopets_c26_xweetok2",
+        "name": "neopets_c26_xweetok2 name",
+        "description": "neopets_c26_xweetok2 desc"
+      },
+      {
+        "code": "neopets_c26_xweetok3",
+        "name": "neopets_c26_xweetok3 name",
+        "description": "neopets_c26_xweetok3 desc"
       },
       {
         "code": "neopets_c26_xweetokfae",
