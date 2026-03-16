@@ -14047,9 +14047,29 @@
         "description": "Completely Confused FX_desc"
       },
       {
+        "code": "avatar_effect238",
+        "name": "MagicalBlueOrb_name",
+        "description": "MagicalBlueOrb_desc"
+      },
+      {
+        "code": "avatar_effect239",
+        "name": "MagicalPinkOrb_name",
+        "description": "MagicalPinkOrb_desc"
+      },
+      {
         "code": "avatar_effect23",
         "name": "Affenflug",
         "description": "Berühre niemals den Boden..."
+      },
+      {
+        "code": "avatar_effect240",
+        "name": "ElvenGreenStaff_name",
+        "description": "ElvenGreenStaff_desc"
+      },
+      {
+        "code": "avatar_effect241",
+        "name": "ElvenYellowStaff_name",
+        "description": "ElvenYellowStaff_desc"
       },
       {
         "code": "avatar_effect24",
@@ -29315,6 +29335,11 @@
         "code": "book_rare_8",
         "name": "Buch des Habbo Wissens IX",
         "description": "book_rare_8 desc"
+      },
+      {
+        "code": "book_rare_9_bd",
+        "name": "Buch des Habbo Wissens X",
+        "description": ""
       },
       {
         "code": "book_rare_9",
