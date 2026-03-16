@@ -1113,6 +1113,7 @@ ads.interstitial.tooltip=Cliccando su questa pubblicità, verrà aperta una nuov
 ads.roomad.tooltip=Cliccando su questa pubblicità verrà aperta una nuova pagina.
 ads.roomad.tooltip=Cliccando su questa pubblicità, verrà aperta una nuova Finestra
 age.verification.info=Devi avere %age%+ per giocare ad Habbo. Non condivideremo mai la tua data di nascita pubblicamente.
+age_verification.service.name.K-Id=K-ID
 alert.close.button=Chiudi
 alerts.default_title=Attenzione
 america17chess.america17chess.header  =Affare Stanza Scacchiera!
@@ -45723,6 +45724,7 @@ wiredrewards.desc_default=Complimenti! Hai ricevuto delle cose  :)
 wiredrewards.earnings=Puoi richiedere i tuoi crediti nella <a href="event:habboUI/open/vault">finestra dei Guadagni</a>
 wiredrewards.ok=Evviva
 wiredrewards.title=Premi
+wiredtrading.reward=${wiredrewards.title}
 word_filter.settings.title=Filtro Parole
 xmas2012.calendar.infobox.left.text=Non perdere la tua Scatola Misteriosa! Mettila nella tua Stanza, e ricordati di aprirla ogni giorno con un Amico per ottenere il tuo premio quotidiano.
 xmas2012.calendar.infobox.right.text=Completa ogni giorno una Missione di Natale per attivare la tua Scatola Misteriosa e ottenere una Chiave. Potrai usare la tua Chiave per aiutare un Amico ad aprire la sua Scatola Misteriosa, e una volta attivata la tua un Amico potrà aiutarti ad aprirla!

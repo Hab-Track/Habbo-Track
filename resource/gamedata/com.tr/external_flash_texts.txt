@@ -1108,6 +1108,7 @@ activities.level=%username% şuan %level% avatar seviyesine ulaştı
 ads.interstitial.tooltip=Bu bir reklamdır. Üzerine tıkladığında başka bir web sitesi açılacaktır.
 ads.roomad.tooltip=Bu bir reklamdır. Üzerine tıkladığında başka bir web sitesi açılacaktır.
 age.verification.info=Habbo oynamak için %yaş%+ olman gerekiyor. Doğum tarihini kimseyle paylaşmayacağız.
+age_verification.service.name.K-Id=K-ID
 alert.close.button=Kapat
 alerts.default_title=Alert
 america17chess.america17chess.header  =Satranç Seti Paketi!
@@ -52813,6 +52814,7 @@ wiredrewards.desc_default=Tebrikler! Sana bir şeyler gelmiş :)
 wiredrewards.earnings=Kredilerini, <a href="event:habboUI/open/vault ">kazançlar penceresinden talep edebilirsin</a>
 wiredrewards.ok=Yaşasın be
 wiredrewards.title=Ödüller
+wiredtrading.reward=${wiredrewards.title}
 word_filter.settings.title=Kelime Filtresi
 xmas2012.calendar.infobox.left.text=Gizemli Kutu'nu kaybedeyim deme! Odana koy ve günlük ödüller için bir arkadaşınla birlikte kutuyu her gün açmayı unutma.
 xmas2012.calendar.infobox.right.text=Gizemli Kutu'nu etkinleştirmek ve bir anahtar almak için günlük Yeni Yıl görevlerini tamamla. Anahtarın, bir arkadaşının Gizemli Kutu'sunu açmakta kullanılabilir. Kendi kutunu açmak için de aynı renkten anahtarı olan bir arkadaş bulman gerekli.

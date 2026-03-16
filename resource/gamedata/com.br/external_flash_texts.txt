@@ -1132,6 +1132,7 @@ activities.level=%username% atingiu o nível %level%
 ads.interstitial.tooltip=Isto é uma propaganda. Clique nela para abrir uma nova página.
 ads.roomad.tooltip=Isto é  uma propaganda. Clique aqui para abrir o link em uma nova página.
 age.verification.info=Você precisa ter + de %age% anos para jogar Habbo. Nunca compartilharemos sua data de nascimento publicamente.
+age_verification.service.name.K-Id=K-ID
 alert.close.button=Fechar
 alerts.default_title=Alerta
 america17chess.america17chess.header  =Pack Xeque-Mate!
@@ -50201,6 +50202,7 @@ wiredrewards.desc_default=Parabéns! Você recebeu algumas coisas :)
 wiredrewards.earnings=Você pode resgatar seus créditos na  <a href="event:habboUI/open/vault">janela de lucros</a>
 wiredrewards.ok=Uhul
 wiredrewards.title=Recompensas
+wiredtrading.reward=${wiredrewards.title}
 word_filter.settings.title=Filtro de Palavras
 xmas2012.calendar.infobox.left.text=Não perca sua Caixa Surpresa!. Coloque-a em seu Quarto e lembre-se de abrí-la diariamente com um amigo para receber seus prêmios do dia.
 xmas2012.calendar.infobox.right.text=Complete uma Missão de Natal diária para ativar sua Caixa Surpresa e conseguir a Chave. Sua chave pode ser usada para ajudar a abrir a Caixa Surpresa dos seus amigos e uma vez sua caixa esteja ativada, um amigo pode ajudar você a abrir a sua e ganhar prêmios da hora!

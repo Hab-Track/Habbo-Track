@@ -1204,6 +1204,7 @@ ads.roomad.tooltip=Ceci est une annonce. En cliquant dessus une nouvelle page we
 affsemaine.text=Chaque semaine, une oeuvre du septième art (film ou série) est mise à l'honneur à travers un quiz. En répondant correctement aux 10 questions qui te seront soumises, tu remporteras un badge inédit !\n\nLe programme :\n\n- Du 19 au 25 avril : Game Of Thrones\n- Du 26 avril au 2 mai : The Umbrella Academy\n- Du 3 au 9 mai : Lucifer\n- Du 10 au 17 mai : Prison Break\n- Du 17 au 23 mai : The Mandalorian (par P!OU et darke-skies)\n- Du 24 au 30 mai : Inception (par CaracolDoré)\n- Du 31 mai au 6 juin : Interstellar (par Sulfurite)\n- Du 7 au 13 juin : La La Land (par machin-choses) & Spiderman (par Baenary et 77Francklove77)\n- Du 14 au 20 juin : Chucky (par ThomSko_) & Ça (par RsvRolex)\n- Du 21 au 27 juin : Desperate Housewives (par Aquanaute et Yaniss...) & Wandavision (par coraye77)\n- Du 28 juin au 4 juillet : Élite (par Keeith et harryetron)\n- Du 5 au 11 juillet :Breaking Bad (par L3apin et hipersatan3)\n- Du 12 au 18 juillet : Peaky Blinders (par JulieJunes et samoceblue)\n- Du 19 au 25 juillet : Dexter _(par Topeka et batista03234)_\n- Du 26 juillet au 1er août : Murder _(par Zyfox=ban, ,Cook!e et Boulotee)_\n- Du 2 au 8 août : The 100 _(par Sans-avenir., Tellier8 et MisterLouqua)_\n- Du 9 au 15 août : Dark\n- Du 16 au 22 août : The Walking Dead _(par Shuyha92:banomg et stevenlebogoss)_\n- Du 23 au 29 août : L'Âge de glace\n- Du 30 août au 5 septembre :* Charlie et la Chocolaterie\n- Du 6 au 12 septembre : Pokémon\n- Du 12 au 19 septembre : La Casa de Papel\n\nTu veux proposer ton propre quiz ?\n\nIl n'est plus possible de proposer un quiz pour le moment. Reste attentif aux news pour être au courant des nouveautés à venir concernant L'affiche de la semaine !
 affsemaine.title=L'affiche de la semaine
 age.verification.info=Tu dois avoir %age%+ pour jouer à Habbo. Nous ne communiquerons jamais ta date de naissance publiquement.
+age_verification.service.name.K-Id=K-ID
 alert.ambassador.warning=Les Ambassadeurs pensent que ton comportement n'est pas correct. Attention avant que nous intervenions !
 alert.close.button=Fermer
 alerts.default_title=Alerte
@@ -49811,6 +49812,7 @@ wiredrewards.desc_default=Félicitations ! Vous avez reçu des trucs :)
 wiredrewards.earnings=Vous pouvez réclamer vos crédits dans la fenêtre <a href="event:habboUI/open/vault">de gains</a>
 wiredrewards.ok=Yayy
 wiredrewards.title=Récompenses
+wiredtrading.reward=${wiredrewards.title}
 word_filter.settings.title=Filtre de mots
 xmas2012.calendar.infobox.left.text=Ne perd pas ta Boîte Mystère ! Place la dans ton appart et faite en sorte de l'ouvrir tous les jours avec un ami pour recevoir des prix quotidiennement.
 xmas2012.calendar.infobox.right.text=Réussi une mission journalière de Noël pour activer ta Boîte Mystère et recevoir une clé. Ta clé peut être utilisée pour aider un ami à déverrouiller sa Boîte Mystère, et une fois ta boîte activée, un ami peut t'aider à la déverrouiller pour obtenir des prix formidables.
