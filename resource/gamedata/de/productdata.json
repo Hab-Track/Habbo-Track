@@ -35032,6 +35032,16 @@
         "description": ""
       },
       {
+        "code": "clothing_elvendress",
+        "name": "clothing_elvendress name",
+        "description": "clothing_elvendress desc"
+      },
+      {
+        "code": "clothing_elvenearring",
+        "name": "clothing_elvenearring name",
+        "description": "clothing_elvenearring desc"
+      },
+      {
         "code": "clothing_elvenlamp",
         "name": "clothing_elvenlamp name",
         "description": "clothing_elvenlamp desc"
@@ -36267,6 +36277,11 @@
         "description": "clothing_leafantlers desc"
       },
       {
+        "code": "clothing_leafbrooch",
+        "name": "clothing_leafbrooch name",
+        "description": "clothing_leafbrooch desc"
+      },
+      {
         "code": "clothing_leafcrown",
         "name": "Kranz",
         "description": "clothing_leafcrown desc"
@@ -36350,6 +36365,11 @@
         "code": "clothing_littlesnowman",
         "name": "Schneemann-Haarreif",
         "description": "clothing_littlesnowman desc"
+      },
+      {
+        "code": "clothing_longbraidedelvenhair",
+        "name": "clothing_longbraidedelvenhair name",
+        "description": "clothing_longbraidedelvenhair desc"
       },
       {
         "code": "clothing_longdress",
@@ -42970,6 +42990,11 @@
         "code": "clothing_shortcut",
         "name": "Kurzes büscheliges Haar",
         "description": "clothing_shortcut desc"
+      },
+      {
+        "code": "clothing_shortelvenhair",
+        "name": "clothing_shortelvenhair name",
+        "description": "clothing_shortelvenhair desc"
       },
       {
         "code": "clothing_shortfluffy",
@@ -51265,6 +51290,11 @@
         "code": "ducket_c26_hivewateringcan",
         "name": "ducket_c26_hivewateringcan name",
         "description": "ducket_c26_hivewateringcan desc"
+      },
+      {
+        "code": "ducket_c26_honeyfountain",
+        "name": "ducket_c26_honeyfountain name",
+        "description": "ducket_c26_honeyfountain desc"
       },
       {
         "code": "ducket_c26_honeygnome",
@@ -81322,6 +81352,11 @@
         "description": "nft_h26_bronzedvd desc"
       },
       {
+        "code": "nft_h26_bronzeelf",
+        "name": "nft_h26_bronzeelf name",
+        "description": "nft_h26_bronzeelf desc"
+      },
+      {
         "code": "nft_h26_discobed",
         "name": "Disco-Bett",
         "description": "nft_h26_discobed desc"
@@ -81360,6 +81395,11 @@
         "code": "nft_h26_golddvd",
         "name": "Gold DVD",
         "description": "nft_h26_golddvd desc"
+      },
+      {
+        "code": "nft_h26_goldelf",
+        "name": "nft_h26_goldelf name",
+        "description": "nft_h26_goldelf desc"
       },
       {
         "code": "nft_h26_haf_holoboy",
@@ -81422,6 +81462,11 @@
         "description": "nft_h26_silverdvd desc"
       },
       {
+        "code": "nft_h26_silverelf",
+        "name": "nft_h26_silverelf name",
+        "description": "nft_h26_silverelf desc"
+      },
+      {
         "code": "nft_h26_trippycontroller",
         "name": "Trippy Controller",
         "description": "nft_h26_trippycontroller desc"
@@ -81430,6 +81475,11 @@
         "code": "nft_h26_trippydvd",
         "name": "Trippy DVD",
         "description": "nft_h26_trippydvd desc"
+      },
+      {
+        "code": "nft_h26_trippyelf",
+        "name": "nft_h26_trippyelf name",
+        "description": "nft_h26_trippyelf desc"
       },
       {
         "code": "nft_habbo15_beehive",
