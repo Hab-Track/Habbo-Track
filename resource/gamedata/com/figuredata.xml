@@ -1647,7 +1647,7 @@
                 <part id="2019" type="hr" colorable="1" index="0" colorindex="1"/>
                 <part id="2019" type="hrb" colorable="1" index="0" colorindex="1"/>
             </set>
-            <set id="3020" gender="U" club="2" colorable="1" selectable="1" preselectable="0">
+            <set id="3020" gender="U" club="0" colorable="1" selectable="1" preselectable="0">
                 <part id="2031" type="hr" colorable="1" index="0" colorindex="1"/>
                 <part id="2031" type="hrb" colorable="1" index="0" colorindex="1"/>
                 <part id="2032" type="hr" colorable="0" index="1" colorindex="0"/>
@@ -1662,10 +1662,10 @@
             <set id="3024" gender="F" club="2" colorable="1" selectable="1" preselectable="0">
                 <part id="2038" type="hr" colorable="1" index="0" colorindex="1"/>
                 <part id="2038" type="hrb" colorable="1" index="0" colorindex="1"/>
-                <part id="2039" type="hr" colorable="1" index="1" colorindex="1"/>
-                <part id="2039" type="hrb" colorable="1" index="1" colorindex="1"/>
+                <part id="2039" type="hr" colorable="1" index="1" colorindex="2"/>
+                <part id="2039" type="hrb" colorable="1" index="1" colorindex="2"/>
             </set>
-            <set id="3025" gender="U" club="2" colorable="1" selectable="1" preselectable="0">
+            <set id="3025" gender="U" club="0" colorable="1" selectable="1" preselectable="0">
                 <part id="2040" type="hr" colorable="1" index="0" colorindex="1"/>
                 <part id="2040" type="hrb" colorable="1" index="0" colorindex="1"/>
             </set>
@@ -3025,7 +3025,7 @@
                 <part id="7206" type="hr" colorable="0" index="2" colorindex="0"/>
                 <part id="7206" type="hrb" colorable="0" index="2" colorindex="0"/>
             </set>
-            <set id="9534" gender="U" club="2" colorable="1" selectable="1" preselectable="0">
+            <set id="9534" gender="F" club="2" colorable="1" selectable="1" preselectable="0">
                 <part id="2232" type="hr" colorable="1" index="0" colorindex="1"/>
                 <part id="2232" type="hrb" colorable="1" index="0" colorindex="1"/>
             </set>
