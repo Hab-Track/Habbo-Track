@@ -2136,7 +2136,7 @@ quests.unity.enabled=true
 raycasting.alpha_threshold=127
 recycler.ducket_cost=10
 recycler.enabled=true
-recycler.number_of_slots=8
+recycler.number_of_slots=4
 recycler.timeout_seconds=10
 register.allowed.characters=_-=?!@:.,
 register.allowed_unicode_blocks=Basic Latin
@@ -2320,8 +2320,8 @@ zoom.enabled=1
 
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202603171335-449765302/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.es/gamedata/external_flash_texts/eb6a7d68add60764c6edd75ea039e1e009e19e5e
+external.texts.txt=https://www.habbo.es/gamedata/external_flash_texts/745aa623ae77516514059f43658c1d5dee213fdc
 external.figurepartlist.txt=https://www.habbo.es/gamedata/figuredata/af3c95394d2861e3cddda0781edeebf1256c0175
 productdata.load.url=http://www.habbo.es/gamedata/productdata/3b88b04ebf6925063937396200d9442726f616d2
 furnidata.load.url=http://www.habbo.es/gamedata/furnidata_xml/de754c5e5e5ab1747b0efacd0e404bd53087bf13
-external.override.texts.txt=https://www.habbo.es/gamedata/override/external_flash_override_texts/eb6a7d68add60764c6edd75ea039e1e009e19e5e
+external.override.texts.txt=https://www.habbo.es/gamedata/override/external_flash_override_texts/745aa623ae77516514059f43658c1d5dee213fdc

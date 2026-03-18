@@ -1204,7 +1204,15 @@ ads.roomad.tooltip=Ceci est une annonce. En cliquant dessus une nouvelle page we
 affsemaine.text=Chaque semaine, une oeuvre du septième art (film ou série) est mise à l'honneur à travers un quiz. En répondant correctement aux 10 questions qui te seront soumises, tu remporteras un badge inédit !\n\nLe programme :\n\n- Du 19 au 25 avril : Game Of Thrones\n- Du 26 avril au 2 mai : The Umbrella Academy\n- Du 3 au 9 mai : Lucifer\n- Du 10 au 17 mai : Prison Break\n- Du 17 au 23 mai : The Mandalorian (par P!OU et darke-skies)\n- Du 24 au 30 mai : Inception (par CaracolDoré)\n- Du 31 mai au 6 juin : Interstellar (par Sulfurite)\n- Du 7 au 13 juin : La La Land (par machin-choses) & Spiderman (par Baenary et 77Francklove77)\n- Du 14 au 20 juin : Chucky (par ThomSko_) & Ça (par RsvRolex)\n- Du 21 au 27 juin : Desperate Housewives (par Aquanaute et Yaniss...) & Wandavision (par coraye77)\n- Du 28 juin au 4 juillet : Élite (par Keeith et harryetron)\n- Du 5 au 11 juillet :Breaking Bad (par L3apin et hipersatan3)\n- Du 12 au 18 juillet : Peaky Blinders (par JulieJunes et samoceblue)\n- Du 19 au 25 juillet : Dexter _(par Topeka et batista03234)_\n- Du 26 juillet au 1er août : Murder _(par Zyfox=ban, ,Cook!e et Boulotee)_\n- Du 2 au 8 août : The 100 _(par Sans-avenir., Tellier8 et MisterLouqua)_\n- Du 9 au 15 août : Dark\n- Du 16 au 22 août : The Walking Dead _(par Shuyha92:banomg et stevenlebogoss)_\n- Du 23 au 29 août : L'Âge de glace\n- Du 30 août au 5 septembre :* Charlie et la Chocolaterie\n- Du 6 au 12 septembre : Pokémon\n- Du 12 au 19 septembre : La Casa de Papel\n\nTu veux proposer ton propre quiz ?\n\nIl n'est plus possible de proposer un quiz pour le moment. Reste attentif aux news pour être au courant des nouveautés à venir concernant L'affiche de la semaine !
 affsemaine.title=L'affiche de la semaine
 age.verification.info=Tu dois avoir %age%+ pour jouer à Habbo. Nous ne communiquerons jamais ta date de naissance publiquement.
+age_verification.choose_method=Sélection de la méthode que tu souhaites utiliser pour la vérification :
+age_verification.cooldown.description=Tu peux vérifier en utilisant cette méthode dans %time%
+age_verification.description=Frank doit vérifier ton âge, conformément à la législation en vigueur dans ta région, avant que tu ne puisses commencer à explorer Habbo
+age_verification.error.failed=Échec de la vérification de l'âge : %reason%
+age_verification.error.user_cancelled=La vérification de l'âge a été annulée. Essaie encore.
 age_verification.service.name.K-Id=K-ID
+age_verification.steps.external=Suivre la procédure de vérification dans la fenêtre du navigateur.
+age_verification.success.waiting.confirmation=La vérification de l'âge est terminée, en attente de la confirmation de Frank
+age_verification.title=Vérification de l'âge
 alert.ambassador.warning=Les Ambassadeurs pensent que ton comportement n'est pas correct. Attention avant que nous intervenions !
 alert.close.button=Fermer
 alerts.default_title=Alerte

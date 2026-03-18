@@ -2155,7 +2155,7 @@ quests.unity.enabled=true
 raycasting.alpha_threshold=127
 recycler.ducket_cost=10
 recycler.enabled=true
-recycler.number_of_slots=8
+recycler.number_of_slots=4
 recycler.timeout_seconds=10
 register.allowed.characters=_-=?!@:.,
 register.allowed_unicode_blocks=Basic Latin
@@ -2334,8 +2334,8 @@ zoom.enabled=1
 
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202603171335-449765302/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.nl/gamedata/external_flash_texts/cdf28c0113b6240906df49b61c1b898d77a33865
+external.texts.txt=https://www.habbo.nl/gamedata/external_flash_texts/61e7fe79a79c3a1c6698fa923815fbd4bc50c812
 external.figurepartlist.txt=https://www.habbo.nl/gamedata/figuredata/af3c95394d2861e3cddda0781edeebf1256c0175
 productdata.load.url=http://www.habbo.nl/gamedata/productdata/6fef10eeb5d0ac65a2bb64e3635c0836343c52e2
 furnidata.load.url=http://www.habbo.nl/gamedata/furnidata_xml/40b50a3234a2df8e57f87424d247e61baef163b4
-external.override.texts.txt=https://www.habbo.nl/gamedata/override/external_flash_override_texts/cdf28c0113b6240906df49b61c1b898d77a33865
+external.override.texts.txt=https://www.habbo.nl/gamedata/override/external_flash_override_texts/61e7fe79a79c3a1c6698fa923815fbd4bc50c812
