@@ -44845,7 +44845,7 @@ wired_transactions.type.3=CONTRACT_REWARD
 wired_transactions.type.4=CONTRACT_TRADE
 wired_transactions.type.5=AUTO_WITHDRAW
 wiredchests.auto_lock_chest=Blocca automaticamente lo scrigno quando il proprietario esce dalla stanza
-wiredchests.big_fat_warning=<font color="#C42F3D"><b>Avviso di utilizzo: </b>Tutti gli utenti con i diritti di modifica Wired <u><a href="event:wiredmenu/open/settings "></a></u>possono depositare e prelevare dagli Scrigni Wired.<br><br>Questa operazione è <b>irreversibile!</b></font>
+wiredchests.big_fat_warning=<font color="#C42F3D"><b>Avviso di utilizzo: </b>Tutti gli utenti con <u><a href="event:wiredmenu/open/settings "> i diritti di modifica Wired </a></u> possono depositare e prelevare dagli Scrigni Wired.<br><br>Questa operazione è <b>irreversibile!</b></font>
 wiredchests.capacity=Capacità scrigno:
 wiredchests.capacity_info.desc=La capacità dello scrigno indica quanto può essere riempito:
 wiredchests.capacity_info.rule_1=<b>1. </b> Quando la capacità viene superata tramite una transazione Wired, tutti i furni/crediti inseriti nello scrigno saranno inviati al proprietario dello scrigno. 
