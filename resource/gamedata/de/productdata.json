@@ -34727,6 +34727,11 @@
         "description": "Für die, die gerne ihren Bauch zeigen."
       },
       {
+        "code": "clothing_dia_bearbag",
+        "name": "$furni_clothing_ducketbearbag_name$",
+        "description": ""
+      },
+      {
         "code": "clothing_diaelegantcrown",
         "name": "Diamant Elegante Krone",
         "description": "clothing_diaelegantcrown desc"
@@ -51397,6 +51402,11 @@
         "description": ""
       },
       {
+        "code": "ducket_dia_honeyfountain",
+        "name": "ducket_c26_honeyfountain name",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_honeygnome",
         "name": "Honiggnom",
         "description": ""
@@ -51404,6 +51414,16 @@
       {
         "code": "ducket_dia_honeyparasol",
         "name": "Honigbienen-Sonnenschirm",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_honeypot",
+        "name": "ducket_c26_honeypot name",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_honeyvase",
+        "name": "ducket_c26_honeyvase name",
         "description": ""
       },
       {

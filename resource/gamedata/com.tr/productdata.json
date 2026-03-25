@@ -36332,6 +36332,11 @@
         "description": "Modası asla geçmez"
       },
       {
+        "code": "clothing_dia_bearbag",
+        "name": "$furni_clothing_ducketbearbag_name$",
+        "description": ""
+      },
+      {
         "code": "clothing_diaelegantcrown",
         "name": "Elmas Elegant Taç",
         "description": "clothing_diaelegantcrown desc"
@@ -61097,6 +61102,11 @@
         "description": ""
       },
       {
+        "code": "ducket_dia_honeyfountain",
+        "name": "ducket_c26_honeyfountain name",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_honeygnome",
         "name": "Bal Cücesi",
         "description": ""
@@ -61104,6 +61114,16 @@
       {
         "code": "ducket_dia_honeyparasol",
         "name": "Bal Arısı Şemsiyesi",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_honeypot",
+        "name": "ducket_c26_honeypot name",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_honeyvase",
+        "name": "ducket_c26_honeyvase name",
         "description": ""
       },
       {

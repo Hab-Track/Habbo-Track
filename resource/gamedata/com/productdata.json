@@ -35707,6 +35707,11 @@
         "description": "For the abdomen obsessives."
       },
       {
+        "code": "clothing_dia_bearbag",
+        "name": "$furni_clothing_ducketbearbag_name$",
+        "description": ""
+      },
+      {
         "code": "clothing_diaelegantcrown",
         "name": "Diamond Elegant Crown",
         "description": "clothing_diaelegantcrown desc"
@@ -58372,6 +58377,11 @@
         "description": ""
       },
       {
+        "code": "ducket_dia_honeyfountain",
+        "name": "ducket_c26_honeyfountain name",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_honeygnome",
         "name": "Honey Gnome",
         "description": ""
@@ -58379,6 +58389,16 @@
       {
         "code": "ducket_dia_honeyparasol",
         "name": "Honey Bee Parasol",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_honeypot",
+        "name": "ducket_c26_honeypot name",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_honeyvase",
+        "name": "ducket_c26_honeyvase name",
         "description": ""
       },
       {

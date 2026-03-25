@@ -34632,6 +34632,11 @@
         "description": "Pour les obsédés du ventre."
       },
       {
+        "code": "clothing_dia_bearbag",
+        "name": "$furni_clothing_ducketbearbag_name$",
+        "description": ""
+      },
+      {
         "code": "clothing_diaelegantcrown",
         "name": "Couronne Élégante Diamant",
         "description": "clothing_diaelegantcrown desc"
@@ -50517,6 +50522,11 @@
         "description": ""
       },
       {
+        "code": "ducket_dia_honeyfountain",
+        "name": "ducket_c26_honeyfountain name",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_honeygnome",
         "name": "Gnome miel",
         "description": ""
@@ -50524,6 +50534,16 @@
       {
         "code": "ducket_dia_honeyparasol",
         "name": "Parasol Abeille",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_honeypot",
+        "name": "ducket_c26_honeypot name",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_honeyvase",
+        "name": "ducket_c26_honeyvase name",
         "description": ""
       },
       {

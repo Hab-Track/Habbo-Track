@@ -35332,6 +35332,11 @@
         "description": "Para os tanquinhos de plantão."
       },
       {
+        "code": "clothing_dia_bearbag",
+        "name": "$furni_clothing_ducketbearbag_name$",
+        "description": ""
+      },
+      {
         "code": "clothing_diaelegantcrown",
         "name": "Coroa Elegante Diamante",
         "description": "clothing_diaelegantcrown desc"
@@ -52282,6 +52287,11 @@
         "description": ""
       },
       {
+        "code": "ducket_dia_honeyfountain",
+        "name": "ducket_c26_honeyfountain name",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_honeygnome",
         "name": "Gnomo do Mel",
         "description": ""
@@ -52289,6 +52299,16 @@
       {
         "code": "ducket_dia_honeyparasol",
         "name": "Guarda-sol Abelha",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_honeypot",
+        "name": "ducket_c26_honeypot name",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_honeyvase",
+        "name": "ducket_c26_honeyvase name",
         "description": ""
       },
       {
