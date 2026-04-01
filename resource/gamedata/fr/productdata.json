@@ -32037,6 +32037,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_mysticdragon_bd",
+        "name": "Bébé dragon",
+        "description": ""
+      },
+      {
         "code": "cl_r26_plushiewings_bd",
         "name": "Ailes de Cupidon vintage",
         "description": ""
@@ -32044,6 +32049,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Compagnon robot",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_wisp_bd",
+        "name": "Guide brume",
         "description": ""
       },
       {
@@ -34993,42 +35003,42 @@
       },
       {
         "code": "clothing_elvendress",
-        "name": "clothing_elvendress name",
+        "name": "Robe elfe",
         "description": "clothing_elvendress desc"
       },
       {
         "code": "clothing_elvenearring",
-        "name": "clothing_elvenearring name",
+        "name": "Boucle d'oreille elfe",
         "description": "clothing_elvenearring desc"
       },
       {
         "code": "clothing_elvenlamp",
-        "name": "clothing_elvenlamp name",
+        "name": "Lampe mystique",
         "description": "clothing_elvenlamp desc"
       },
       {
         "code": "clothing_elvenlongears",
-        "name": "clothing_elvenlongears name",
+        "name": "Elfe oreilles longues",
         "description": "clothing_elvenlongears desc"
       },
       {
         "code": "clothing_elvenmithriltop",
-        "name": "clothing_elvenmithriltop name",
+        "name": "Top mithril elfe",
         "description": "clothing_elvenmithriltop desc"
       },
       {
         "code": "clothing_elvenoutfit",
-        "name": "clothing_elvenoutfit name",
+        "name": "Tunique elfe",
         "description": "clothing_elvenoutfit desc"
       },
       {
         "code": "clothing_elvensatchel",
-        "name": "clothing_elvensatchel name",
+        "name": "Sac à main feuille",
         "description": "clothing_elvensatchel desc"
       },
       {
         "code": "clothing_elvenshortears",
-        "name": "clothing_elvenshortears name",
+        "name": "Elfe oreilles courtes",
         "description": "clothing_elvenshortears desc"
       },
       {
@@ -35323,7 +35333,7 @@
       },
       {
         "code": "clothing_flowerantlers",
-        "name": "clothing_flowerantlers name",
+        "name": "Bois fleur",
         "description": "clothing_flowerantlers desc"
       },
       {
@@ -36258,12 +36268,12 @@
       },
       {
         "code": "clothing_leafantlers",
-        "name": "clothing_leafantlers name",
+        "name": "Bois feuille",
         "description": "clothing_leafantlers desc"
       },
       {
         "code": "clothing_leafbrooch",
-        "name": "clothing_leafbrooch name",
+        "name": "Broche feuille",
         "description": "clothing_leafbrooch desc"
       },
       {
@@ -36353,7 +36363,7 @@
       },
       {
         "code": "clothing_longbraidedelvenhair",
-        "name": "clothing_longbraidedelvenhair name",
+        "name": "Longue tresse elfe",
         "description": "clothing_longbraidedelvenhair desc"
       },
       {
@@ -36363,7 +36373,7 @@
       },
       {
         "code": "clothing_longelvenhair",
-        "name": "clothing_longelvenhair name",
+        "name": "Majestueuses boucles elfe",
         "description": "clothing_longelvenhair desc"
       },
       {
@@ -37653,12 +37663,12 @@
       },
       {
         "code": "clothing_nftelvenface2",
-        "name": "clothing_nftelvenface2 name",
+        "name": "Maquillage elfe",
         "description": "clothing_nftelvenface2 desc"
       },
       {
         "code": "clothing_nftelvenface",
-        "name": "clothing_nftelvenface name",
+        "name": "Visage elfe",
         "description": "clothing_nftelvenface desc"
       },
       {
@@ -38738,7 +38748,7 @@
       },
       {
         "code": "clothing_nftsquirrel",
-        "name": "clothing_nftsquirrel name",
+        "name": "Écureuil allié",
         "description": "clothing_nftsquirrel desc"
       },
       {
@@ -39043,7 +39053,7 @@
       },
       {
         "code": "clothing_nftwarhammer",
-        "name": "clothing_nftwarhammer name",
+        "name": "Puissant marteau de guerre",
         "description": "clothing_nftwarhammer desc"
       },
       {
@@ -42678,7 +42688,7 @@
       },
       {
         "code": "clothing_r26_mysticdragon",
-        "name": "clothing_r26_mysticdragon name",
+        "name": "Bébé dragon",
         "description": "clothing_r26_mysticdragon desc"
       },
       {
@@ -42698,7 +42708,7 @@
       },
       {
         "code": "clothing_r26_wisp",
-        "name": "clothing_r26_wisp name",
+        "name": "Guide brume",
         "description": "clothing_r26_wisp desc"
       },
       {
@@ -43058,7 +43068,7 @@
       },
       {
         "code": "clothing_shortelvenhair",
-        "name": "clothing_shortelvenhair name",
+        "name": "Chevelure comté",
         "description": "clothing_shortelvenhair desc"
       },
       {
@@ -53493,97 +53503,97 @@
       },
       {
         "code": "easter_c26_craftingtable",
-        "name": "easter_c26_craftingtable name",
+        "name": "Table craft Elfes !",
         "description": "easter_c26_craftingtable desc"
       },
       {
         "code": "easter_c26_elvenarchway",
-        "name": "easter_c26_elvenarchway name",
+        "name": "Arcade elfe",
         "description": "easter_c26_elvenarchway desc"
       },
       {
         "code": "easter_c26_elvenbox",
-        "name": "easter_c26_elvenbox name",
+        "name": "Boîte des elfes !",
         "description": "easter_c26_elvenbox desc"
       },
       {
         "code": "easter_c26_elvenboxb",
-        "name": "easter_c26_elvenboxb name",
+        "name": "Boîte elfe",
         "description": "easter_c26_elvenboxb desc"
       },
       {
         "code": "easter_c26_elvenbutton",
-        "name": "easter_c26_elvenbutton name",
+        "name": "Bouton elfe",
         "description": "easter_c26_elvenbutton desc"
       },
       {
         "code": "easter_c26_elvenchair",
-        "name": "easter_c26_elvenchair name",
+        "name": "Siège elfe",
         "description": "easter_c26_elvenchair desc"
       },
       {
         "code": "easter_c26_elvencloth",
-        "name": "easter_c26_elvencloth name",
+        "name": "Tissu elfe",
         "description": "easter_c26_elvencloth desc"
       },
       {
         "code": "easter_c26_elvendivider",
-        "name": "easter_c26_elvendivider name",
+        "name": "Diviseur elfe",
         "description": "easter_c26_elvendivider desc"
       },
       {
         "code": "easter_c26_elvendiviercorners",
-        "name": "easter_c26_elvendiviercorners name",
+        "name": "Diviseur de coin elfe",
         "description": "easter_c26_elvendiviercorners desc"
       },
       {
         "code": "easter_c26_elvenegg1",
-        "name": "easter_c26_elvenegg1 name",
+        "name": "Œuf feuille",
         "description": "easter_c26_elvenegg1 desc"
       },
       {
         "code": "easter_c26_elvenegg2",
-        "name": "easter_c26_elvenegg2 name",
+        "name": "Œuf fleur",
         "description": "easter_c26_elvenegg2 desc"
       },
       {
         "code": "easter_c26_elvenegg3",
-        "name": "easter_c26_elvenegg3 name",
+        "name": "Œuf doré",
         "description": "easter_c26_elvenegg3 desc"
       },
       {
         "code": "easter_c26_elvenegg4",
-        "name": "easter_c26_elvenegg4 name",
+        "name": "Œuf gemme",
         "description": "easter_c26_elvenegg4 desc"
       },
       {
         "code": "easter_c26_elvenfloor",
-        "name": "easter_c26_elvenfloor name",
+        "name": "Sol en pierre elfe",
         "description": "easter_c26_elvenfloor desc"
       },
       {
         "code": "easter_c26_elvenfloorlamp",
-        "name": "easter_c26_elvenfloorlamp name",
+        "name": "Lampadaire elfe",
         "description": "easter_c26_elvenfloorlamp desc"
       },
       {
         "code": "easter_c26_elvengoddess",
-        "name": "easter_c26_elvengoddess name",
+        "name": "Grande Déesse Elfes !",
         "description": "easter_c26_elvengoddess desc"
       },
       {
         "code": "easter_c26_elvenhanginglight",
-        "name": "easter_c26_elvenhanginglight name",
+        "name": "Lampe suspendue elfe",
         "description": "easter_c26_elvenhanginglight desc"
       },
       {
         "code": "easter_c26_elvenkey",
-        "name": "easter_c26_elvenkey name",
+        "name": "La clé unique",
         "description": "easter_c26_elvenkey desc"
       },
       {
         "code": "easter_c26_elvenlongendtable",
-        "name": "easter_c26_elvenlongendtable name",
+        "name": "Longue table elfe",
         "description": "easter_c26_elvenlongendtable desc"
       },
       {
@@ -53593,82 +53603,87 @@
       },
       {
         "code": "easter_c26_elvenorganicmat",
-        "name": "easter_c26_elvenorganicmat name",
+        "name": "Matériaux forestiers",
         "description": "easter_c26_elvenorganicmat desc"
       },
       {
         "code": "easter_c26_elvenpillar",
-        "name": "easter_c26_elvenpillar name",
+        "name": "Pilier elfe",
         "description": "easter_c26_elvenpillar desc"
       },
       {
         "code": "easter_c26_elvenroundendtable",
-        "name": "easter_c26_elvenroundendtable name",
+        "name": "Table ronde elfe",
         "description": "easter_c26_elvenroundendtable desc"
       },
       {
         "code": "easter_c26_elvensquareendtable",
-        "name": "easter_c26_elvensquareendtable name",
+        "name": "Table d'appoint elfe",
         "description": "easter_c26_elvensquareendtable desc"
       },
       {
         "code": "easter_c26_elvensquaretable",
-        "name": "easter_c26_elvensquaretable name",
+        "name": "Table carrée elfe",
         "description": "easter_c26_elvensquaretable desc"
       },
       {
         "code": "easter_c26_elvenstage",
-        "name": "easter_c26_elvenstage name",
+        "name": "Sol pierre surélevé elfe",
         "description": "easter_c26_elvenstage desc"
       },
       {
         "code": "easter_c26_elvenstairs",
-        "name": "easter_c26_elvenstairs name",
+        "name": "Marches elfe",
         "description": "easter_c26_elvenstairs desc"
       },
       {
         "code": "easter_c26_elvenstairsblock",
-        "name": "easter_c26_elvenstairsblock name",
+        "name": "Bloc elfe",
         "description": "easter_c26_elvenstairsblock desc"
       },
       {
         "code": "easter_c26_elventable",
-        "name": "easter_c26_elventable name",
+        "name": "Grande table elfe",
         "description": "easter_c26_elventable desc"
       },
       {
         "code": "easter_c26_elventexts",
-        "name": "easter_c26_elventexts name",
+        "name": "Textes sacrés elfe",
         "description": "easter_c26_elventexts desc"
       },
       {
         "code": "easter_c26_elventhroneb",
-        "name": "easter_c26_elventhroneb name",
+        "name": "Trône Ancien Elfe",
         "description": "easter_c26_elventhroneb desc"
       },
       {
         "code": "easter_c26_elvenwall",
-        "name": "easter_c26_elvenwall name",
+        "name": "Mur elfe",
         "description": "easter_c26_elvenwall desc"
       },
       {
         "code": "easter_c26_elvenwoodfloor",
-        "name": "easter_c26_elvenwoodfloor name",
+        "name": "Parquet bois elfe",
         "description": "easter_c26_elvenwoodfloor desc"
       },
       {
+        "code": "easter_c26_goddess_bd",
+        "name": "Grande Déesse Elfes !",
+        "description": ""
+      },
+      {
         "code": "easter_c26_potionbottle",
-        "name": "easter_c26_potionbottle name",
+        "name": "Flacon de potion fée",
         "description": "easter_c26_potionbottle desc"
       },
       {
         "code": "easter_c26_rosebottle",
-        "name": "easter_c26_rosebottle name",
+        "name": "Flacon de potion rose",
         "description": "easter_c26_rosebottle desc"
       },
       {
         "code": "easter_c26_windchime",
-        "name": "easter_c26_windchime name",
+        "name": "Carillon éolien feuille",
         "description": "easter_c26_windchime desc"
       },
       {
@@ -53763,8 +53778,13 @@
       },
       {
         "code": "easter_ltd26_elventhrone",
-        "name": "easter_ltd26_elventhrone name",
+        "name": "Trône Ancien Elfe",
         "description": "easter_ltd26_elventhrone desc"
+      },
+      {
+        "code": "easter_ltd26_throne_bd",
+        "name": "Trône Ancien Elfe",
+        "description": ""
       },
       {
         "code": "easter_r16_crackable",
@@ -53957,13 +53977,23 @@
         "description": "easter_r25_easterpatch desc"
       },
       {
+        "code": "easter_r26_archer_bd",
+        "name": "Grand archer elfe",
+        "description": ""
+      },
+      {
         "code": "easter_r26_elvenarcher",
-        "name": "easter_r26_elvenarcher name",
+        "name": "Grand archer elfe",
         "description": "easter_r26_elvenarcher desc"
       },
       {
+        "code": "easter_r26_fairybird_bd",
+        "name": "Oiseau des neiges féerique",
+        "description": ""
+      },
+      {
         "code": "easter_r26_snowfairybird",
-        "name": "easter_r26_snowfairybird name",
+        "name": "Oiseau des neiges féerique",
         "description": "easter_r26_snowfairybird desc"
       },
       {
@@ -57013,22 +57043,22 @@
       },
       {
         "code": "fxbox_fx238",
-        "name": "fxbox_fx238 name",
+        "name": "Lueur de la flamme",
         "description": "fxbox_fx238 desc"
       },
       {
         "code": "fxbox_fx239",
-        "name": "fxbox_fx239 name",
+        "name": "Lueur de la fée",
         "description": "fxbox_fx239 desc"
       },
       {
         "code": "fxbox_fx240",
-        "name": "fxbox_fx240 name",
+        "name": "Staff de nature",
         "description": "fxbox_fx240 desc"
       },
       {
         "code": "fxbox_fx241",
-        "name": "fxbox_fx241 name",
+        "name": "Staff du soleil",
         "description": "fxbox_fx241 desc"
       },
       {
@@ -74843,17 +74873,17 @@
       },
       {
         "code": "neopets_c26_acara1",
-        "name": "neopets_c26_acara1 name",
+        "name": "Acara",
         "description": "neopets_c26_acara1 desc"
       },
       {
         "code": "neopets_c26_acara2",
-        "name": "neopets_c26_acara2 name",
+        "name": "Acara Maraquan",
         "description": "neopets_c26_acara2 desc"
       },
       {
         "code": "neopets_c26_acara3",
-        "name": "neopets_c26_acara3 name",
+        "name": "Acara Mutant",
         "description": "neopets_c26_acara3 desc"
       },
       {
@@ -74868,17 +74898,17 @@
       },
       {
         "code": "neopets_c26_bruce1",
-        "name": "neopets_c26_bruce1 name",
+        "name": "Bruce",
         "description": "neopets_c26_bruce1 desc"
       },
       {
         "code": "neopets_c26_bruce2",
-        "name": "neopets_c26_bruce2 name",
+        "name": "Bruce Halloween",
         "description": "neopets_c26_bruce2 desc"
       },
       {
         "code": "neopets_c26_bruce3",
-        "name": "neopets_c26_bruce3 name",
+        "name": "Disco Bruce",
         "description": "neopets_c26_bruce3 desc"
       },
       {
@@ -74888,12 +74918,12 @@
       },
       {
         "code": "neopets_c26_crackableeaster",
-        "name": "neopets_c26_crackableeaster name",
+        "name": "Œuf de Pâques Neopets !",
         "description": "neopets_c26_crackableeaster desc"
       },
       {
         "code": "neopets_c26_crackableeasterb",
-        "name": "neopets_c26_crackableeasterb name",
+        "name": "Œuf de Pâques Neopets !",
         "description": "neopets_c26_crackableeasterb desc"
       },
       {
@@ -74913,17 +74943,17 @@
       },
       {
         "code": "neopets_c26_draik1",
-        "name": "neopets_c26_draik1 name",
+        "name": "Draik",
         "description": "neopets_c26_draik1 desc"
       },
       {
         "code": "neopets_c26_draik2",
-        "name": "neopets_c26_draik2 name",
+        "name": "Draik fantôme",
         "description": "neopets_c26_draik2 desc"
       },
       {
         "code": "neopets_c26_draik3",
-        "name": "neopets_c26_draik3 name",
+        "name": "Draik Maraquan",
         "description": "neopets_c26_draik3 desc"
       },
       {
@@ -74938,17 +74968,17 @@
       },
       {
         "code": "neopets_c26_kacheek1",
-        "name": "neopets_c26_kacheek1 name",
+        "name": "Kacheek",
         "description": "neopets_c26_kacheek1 desc"
       },
       {
         "code": "neopets_c26_kacheek2",
-        "name": "neopets_c26_kacheek2 name",
+        "name": "Disco Kacheek",
         "description": "neopets_c26_kacheek2 desc"
       },
       {
         "code": "neopets_c26_kacheek3",
-        "name": "neopets_c26_kacheek3 name",
+        "name": "Kacheek Mutant",
         "description": "neopets_c26_kacheek3 desc"
       },
       {
@@ -74973,17 +75003,17 @@
       },
       {
         "code": "neopets_c26_uni1",
-        "name": "neopets_c26_uni1 name",
+        "name": "Uni",
         "description": "neopets_c26_uni1 desc"
       },
       {
         "code": "neopets_c26_uni2",
-        "name": "neopets_c26_uni2 name",
+        "name": "Fille Royale uni",
         "description": "neopets_c26_uni2 desc"
       },
       {
         "code": "neopets_c26_uni3",
-        "name": "neopets_c26_uni3 name",
+        "name": "Forêt uni",
         "description": "neopets_c26_uni3 desc"
       },
       {
@@ -74993,17 +75023,17 @@
       },
       {
         "code": "neopets_c26_xweetok1",
-        "name": "neopets_c26_xweetok1 name",
+        "name": "Xweetok",
         "description": "neopets_c26_xweetok1 desc"
       },
       {
         "code": "neopets_c26_xweetok2",
-        "name": "neopets_c26_xweetok2 name",
+        "name": "Xweetok Darigan",
         "description": "neopets_c26_xweetok2 desc"
       },
       {
         "code": "neopets_c26_xweetok3",
-        "name": "neopets_c26_xweetok3 name",
+        "name": "Xweetok Pastel",
         "description": "neopets_c26_xweetok3 desc"
       },
       {
@@ -80922,6 +80952,11 @@
         "description": "nft_h26_alarmboombox desc"
       },
       {
+        "code": "nft_h26_aprilshrimp",
+        "name": "nft_h26_aprilshrimp name",
+        "description": "nft_h26_aprilshrimp desc"
+      },
+      {
         "code": "nft_h26_bedtray",
         "name": "Table de lit",
         "description": "nft_h26_bedtray desc"
@@ -80943,7 +80978,7 @@
       },
       {
         "code": "nft_h26_bronzeelf",
-        "name": "nft_h26_bronzeelf name",
+        "name": "Elfe bronze",
         "description": "nft_h26_bronzeelf desc"
       },
       {
@@ -80953,32 +80988,32 @@
       },
       {
         "code": "nft_h26_dngbattlerockingchair",
-        "name": "nft_h26_dngbattlerockingchair name",
+        "name": "Rocking Chair donjon",
         "description": "nft_h26_dngbattlerockingchair desc"
       },
       {
         "code": "nft_h26_dngbbq",
-        "name": "nft_h26_dngbbq name",
+        "name": "Barbecue donjon",
         "description": "nft_h26_dngbbq desc"
       },
       {
         "code": "nft_h26_dngdragonsofa",
-        "name": "nft_h26_dngdragonsofa name",
+        "name": "Canapé donjon",
         "description": "nft_h26_dngdragonsofa desc"
       },
       {
         "code": "nft_h26_dngpillar",
-        "name": "nft_h26_dngpillar name",
+        "name": "Pilier donjon",
         "description": "nft_h26_dngpillar desc"
       },
       {
         "code": "nft_h26_dngstool",
-        "name": "nft_h26_dngstool name",
+        "name": "Tabouret donjon",
         "description": "nft_h26_dngstool desc"
       },
       {
         "code": "nft_h26_dngtable",
-        "name": "nft_h26_dngtable name",
+        "name": "Table donjon",
         "description": "nft_h26_dngtable desc"
       },
       {
@@ -81018,7 +81053,7 @@
       },
       {
         "code": "nft_h26_goldelf",
-        "name": "nft_h26_goldelf name",
+        "name": "Elfe or",
         "description": "nft_h26_goldelf desc"
       },
       {
@@ -81083,7 +81118,7 @@
       },
       {
         "code": "nft_h26_silverelf",
-        "name": "nft_h26_silverelf name",
+        "name": "Elfe argent",
         "description": "nft_h26_silverelf desc"
       },
       {
@@ -81098,7 +81133,7 @@
       },
       {
         "code": "nft_h26_trippyelf",
-        "name": "nft_h26_trippyelf name",
+        "name": "Elfe trippy",
         "description": "nft_h26_trippyelf desc"
       },
       {
@@ -82313,17 +82348,17 @@
       },
       {
         "code": "nft_sc_elvenstatue1",
-        "name": "nft_sc_elvenstatue1 name",
+        "name": "Statue Mère elfe",
         "description": "nft_sc_elvenstatue1 desc"
       },
       {
         "code": "nft_sc_elvenstatue2",
-        "name": "nft_sc_elvenstatue2 name",
+        "name": "Statue Père elfe",
         "description": "nft_sc_elvenstatue2 desc"
       },
       {
         "code": "nft_sc_elvenstatue3",
-        "name": "nft_sc_elvenstatue3 name",
+        "name": "Statue Jeune elfe",
         "description": "nft_sc_elvenstatue3 desc"
       },
       {
@@ -102697,6 +102732,21 @@
         "description": "Gamers Habbo, vous pouvez désormais profiter d'une gamme beaucoup plus large d'articles conçus spécialement pour vos besoins en matière de gaming ! Ils seront également disponibles dans la boutique et au BC en permanence afin que vous puissiez faire passer vos constructions de jeux vidéo au niveau supérieur."
       },
       {
+        "code": "rotating_roomdeal452_10c",
+        "name": "Pack Rassemblement des Elfes",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452_d",
+        "name": "Pack Rassemblement des Elfes",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452",
+        "name": "Pack Rassemblement des Elfes",
+        "description": "Tout ce dont vous avez besoin pour organiser votre propre rassemblement elfique se trouve ici. Conçu et préparé spécialement pour vous !"
+      },
+      {
         "code": "rotating_roomdeal45_10c",
         "name": "Pack Arctic",
         "description": "Prends te mitaines et couvre-toi bien - Cet appart congelé est conçu pour les festivités avec tout ce que tu pourrais avoir besoin. Comprend une Sculpture Ours EXCLUSIVE + 10 Crédits."
@@ -104348,17 +104398,17 @@
       },
       {
         "code": "sc_elvenstatue1",
-        "name": "sc_elvenstatue1 name",
+        "name": "Statue Mère elfe",
         "description": "sc_elvenstatue1 desc"
       },
       {
         "code": "sc_elvenstatue2",
-        "name": "sc_elvenstatue2 name",
+        "name": "Statue Père elfe",
         "description": "sc_elvenstatue2 desc"
       },
       {
         "code": "sc_elvenstatue3",
-        "name": "sc_elvenstatue3 name",
+        "name": "Statue Jeune elfe",
         "description": "sc_elvenstatue3 desc"
       },
       {

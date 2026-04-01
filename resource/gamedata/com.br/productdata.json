@@ -32727,6 +32727,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_mysticdragon_bd",
+        "name": "Bebê Dragão",
+        "description": ""
+      },
+      {
         "code": "cl_r26_plushiewings_bd",
         "name": "Asas de Cupido Vintage",
         "description": ""
@@ -32734,6 +32739,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robô Companheiro",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_wisp_bd",
+        "name": "Chama Guia",
         "description": ""
       },
       {
@@ -43393,7 +43403,7 @@
       },
       {
         "code": "clothing_r26_mysticdragon",
-        "name": "clothing_r26_mysticdragon name",
+        "name": "Bebê Dragão",
         "description": "clothing_r26_mysticdragon desc"
       },
       {
@@ -43413,7 +43423,7 @@
       },
       {
         "code": "clothing_r26_wisp",
-        "name": "clothing_r26_wisp name",
+        "name": "Chama Guia",
         "description": "clothing_r26_wisp desc"
       },
       {
@@ -55333,7 +55343,7 @@
       },
       {
         "code": "easter_c26_elvengoddess",
-        "name": "easter_c26_elvengoddess name",
+        "name": "Grande Deusa dos Élfos",
         "description": "easter_c26_elvengoddess desc"
       },
       {
@@ -55408,7 +55418,7 @@
       },
       {
         "code": "easter_c26_elventhroneb",
-        "name": "easter_c26_elventhroneb name",
+        "name": "Trono Élfico Ancião",
         "description": "easter_c26_elventhroneb desc"
       },
       {
@@ -55420,6 +55430,11 @@
         "code": "easter_c26_elvenwoodfloor",
         "name": "easter_c26_elvenwoodfloor name",
         "description": "easter_c26_elvenwoodfloor desc"
+      },
+      {
+        "code": "easter_c26_goddess_bd",
+        "name": "Grande Deusa dos Élfos",
+        "description": ""
       },
       {
         "code": "easter_c26_potionbottle",
@@ -55528,8 +55543,13 @@
       },
       {
         "code": "easter_ltd26_elventhrone",
-        "name": "easter_ltd26_elventhrone name",
+        "name": "Trono Élfico Ancião",
         "description": "easter_ltd26_elventhrone desc"
+      },
+      {
+        "code": "easter_ltd26_throne_bd",
+        "name": "Trono Élfico Ancião",
+        "description": ""
       },
       {
         "code": "easter_r16_crackable",
@@ -55722,13 +55742,23 @@
         "description": "easter_r25_easterpatch desc"
       },
       {
+        "code": "easter_r26_archer_bd",
+        "name": "Grande Arco Élfico",
+        "description": ""
+      },
+      {
         "code": "easter_r26_elvenarcher",
-        "name": "easter_r26_elvenarcher name",
+        "name": "Grande Arco Élfico",
         "description": "easter_r26_elvenarcher desc"
       },
       {
+        "code": "easter_r26_fairybird_bd",
+        "name": "Pássaro Fada da Neve",
+        "description": ""
+      },
+      {
         "code": "easter_r26_snowfairybird",
-        "name": "easter_r26_snowfairybird name",
+        "name": "Pássaro Fada da Neve",
         "description": "easter_r26_snowfairybird desc"
       },
       {
@@ -104615,6 +104645,21 @@
         "code": "rotating_roomdeal451",
         "name": "Pack Gaming",
         "description": "Habbo Gamers, agora vocês podem aproveitar uma grande variedade de itens criados especialmente para as suas necessidades gamer! Esses itens também estarão disponíveis PERMANENTEMENTE na Loja e no Clube do Arquiteto para que vocês possam levar suas construções de jogo para o próximo nível."
+      },
+      {
+        "code": "rotating_roomdeal452_10c",
+        "name": "Pack Reunião dos Élfos",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452_d",
+        "name": "Pack Reunião dos Élfos",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452",
+        "name": "Pack Reunião dos Élfos",
+        "description": "Tudo que você precisa para sua própria Reunião de Élfos está aqui. Já preparado e empacotado só para você!"
       },
       {
         "code": "rotating_roomdeal45_10c",

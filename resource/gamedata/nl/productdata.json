@@ -31847,6 +31847,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_mysticdragon_bd",
+        "name": "Baby Draakje",
+        "description": ""
+      },
+      {
         "code": "cl_r26_plushiewings_bd",
         "name": "Vintage Cupido Vleugels",
         "description": ""
@@ -31854,6 +31859,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robot Vriendje",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_wisp_bd",
+        "name": "Zwevend lichtje",
         "description": ""
       },
       {
@@ -34808,42 +34818,42 @@
       },
       {
         "code": "clothing_elvendress",
-        "name": "clothing_elvendress name",
+        "name": "Elfen Jurk",
         "description": "clothing_elvendress desc"
       },
       {
         "code": "clothing_elvenearring",
-        "name": "clothing_elvenearring name",
+        "name": "Elfen Oorbel",
         "description": "clothing_elvenearring desc"
       },
       {
         "code": "clothing_elvenlamp",
-        "name": "clothing_elvenlamp name",
+        "name": "Mystieke Lamp",
         "description": "clothing_elvenlamp desc"
       },
       {
         "code": "clothing_elvenlongears",
-        "name": "clothing_elvenlongears name",
+        "name": "Elf met Grote Oren",
         "description": "clothing_elvenlongears desc"
       },
       {
         "code": "clothing_elvenmithriltop",
-        "name": "clothing_elvenmithriltop name",
+        "name": "Zilveren Stalen Elfen Top",
         "description": "clothing_elvenmithriltop desc"
       },
       {
         "code": "clothing_elvenoutfit",
-        "name": "clothing_elvenoutfit name",
+        "name": "Elfen Gewaad",
         "description": "clothing_elvenoutfit desc"
       },
       {
         "code": "clothing_elvensatchel",
-        "name": "clothing_elvensatchel name",
+        "name": "Elfen Heuptasje",
         "description": "clothing_elvensatchel desc"
       },
       {
         "code": "clothing_elvenshortears",
-        "name": "clothing_elvenshortears name",
+        "name": "Elf met kleine Oren",
         "description": "clothing_elvenshortears desc"
       },
       {
@@ -35138,7 +35148,7 @@
       },
       {
         "code": "clothing_flowerantlers",
-        "name": "clothing_flowerantlers name",
+        "name": "Gewei met Bloemetjes",
         "description": "clothing_flowerantlers desc"
       },
       {
@@ -36083,12 +36093,12 @@
       },
       {
         "code": "clothing_leafantlers",
-        "name": "clothing_leafantlers name",
+        "name": "Gewei met Bladblaadjes",
         "description": "clothing_leafantlers desc"
       },
       {
         "code": "clothing_leafbrooch",
-        "name": "clothing_leafbrooch name",
+        "name": "Broche met Bladblaadje",
         "description": "clothing_leafbrooch desc"
       },
       {
@@ -36178,7 +36188,7 @@
       },
       {
         "code": "clothing_longbraidedelvenhair",
-        "name": "clothing_longbraidedelvenhair name",
+        "name": "Lange Elfenvlecht",
         "description": "clothing_longbraidedelvenhair desc"
       },
       {
@@ -36188,7 +36198,7 @@
       },
       {
         "code": "clothing_longelvenhair",
-        "name": "clothing_longelvenhair name",
+        "name": "Magische Elfenlokken",
         "description": "clothing_longelvenhair desc"
       },
       {
@@ -37478,12 +37488,12 @@
       },
       {
         "code": "clothing_nftelvenface2",
-        "name": "clothing_nftelvenface2 name",
+        "name": "Elfen Make-Up",
         "description": "clothing_nftelvenface2 desc"
       },
       {
         "code": "clothing_nftelvenface",
-        "name": "clothing_nftelvenface name",
+        "name": "Elfen Gezicht",
         "description": "clothing_nftelvenface desc"
       },
       {
@@ -38563,7 +38573,7 @@
       },
       {
         "code": "clothing_nftsquirrel",
-        "name": "clothing_nftsquirrel name",
+        "name": "Eekhoorn op Schouder",
         "description": "clothing_nftsquirrel desc"
       },
       {
@@ -38868,7 +38878,7 @@
       },
       {
         "code": "clothing_nftwarhammer",
-        "name": "clothing_nftwarhammer name",
+        "name": "Machtige Oorlogshamer",
         "description": "clothing_nftwarhammer desc"
       },
       {
@@ -42503,7 +42513,7 @@
       },
       {
         "code": "clothing_r26_mysticdragon",
-        "name": "clothing_r26_mysticdragon name",
+        "name": "Baby Draakje",
         "description": "clothing_r26_mysticdragon desc"
       },
       {
@@ -42523,7 +42533,7 @@
       },
       {
         "code": "clothing_r26_wisp",
-        "name": "clothing_r26_wisp name",
+        "name": "Zwevend lichtje",
         "description": "clothing_r26_wisp desc"
       },
       {
@@ -42883,7 +42893,7 @@
       },
       {
         "code": "clothing_shortelvenhair",
-        "name": "clothing_shortelvenhair name",
+        "name": "Shire Kapsel",
         "description": "clothing_shortelvenhair desc"
       },
       {
@@ -55043,97 +55053,97 @@
       },
       {
         "code": "easter_c26_craftingtable",
-        "name": "easter_c26_craftingtable name",
+        "name": "Elfen Craft Tafel",
         "description": "easter_c26_craftingtable desc"
       },
       {
         "code": "easter_c26_elvenarchway",
-        "name": "easter_c26_elvenarchway name",
+        "name": "Elfen Boog",
         "description": "easter_c26_elvenarchway desc"
       },
       {
         "code": "easter_c26_elvenbox",
-        "name": "easter_c26_elvenbox name",
+        "name": "Elfen Box",
         "description": "easter_c26_elvenbox desc"
       },
       {
         "code": "easter_c26_elvenboxb",
-        "name": "easter_c26_elvenboxb name",
+        "name": "Elfen Box",
         "description": "easter_c26_elvenboxb desc"
       },
       {
         "code": "easter_c26_elvenbutton",
-        "name": "easter_c26_elvenbutton name",
+        "name": "Elfen Knoop",
         "description": "easter_c26_elvenbutton desc"
       },
       {
         "code": "easter_c26_elvenchair",
-        "name": "easter_c26_elvenchair name",
+        "name": "Elfen Stoel",
         "description": "easter_c26_elvenchair desc"
       },
       {
         "code": "easter_c26_elvencloth",
-        "name": "easter_c26_elvencloth name",
+        "name": "Elfen Kleding",
         "description": "easter_c26_elvencloth desc"
       },
       {
         "code": "easter_c26_elvendivider",
-        "name": "easter_c26_elvendivider name",
+        "name": "Elfen Afscheiding",
         "description": "easter_c26_elvendivider desc"
       },
       {
         "code": "easter_c26_elvendiviercorners",
-        "name": "easter_c26_elvendiviercorners name",
+        "name": "Elfen Afscheiding Hoekstuk",
         "description": "easter_c26_elvendiviercorners desc"
       },
       {
         "code": "easter_c26_elvenegg1",
-        "name": "easter_c26_elvenegg1 name",
+        "name": "Ei met Bladblaadjes",
         "description": "easter_c26_elvenegg1 desc"
       },
       {
         "code": "easter_c26_elvenegg2",
-        "name": "easter_c26_elvenegg2 name",
+        "name": "Ei met Bloemetjes",
         "description": "easter_c26_elvenegg2 desc"
       },
       {
         "code": "easter_c26_elvenegg3",
-        "name": "easter_c26_elvenegg3 name",
+        "name": "Gouden Ei",
         "description": "easter_c26_elvenegg3 desc"
       },
       {
         "code": "easter_c26_elvenegg4",
-        "name": "easter_c26_elvenegg4 name",
+        "name": "Ei met Edelstenen",
         "description": "easter_c26_elvenegg4 desc"
       },
       {
         "code": "easter_c26_elvenfloor",
-        "name": "easter_c26_elvenfloor name",
+        "name": "Elfen Stenen Vloer",
         "description": "easter_c26_elvenfloor desc"
       },
       {
         "code": "easter_c26_elvenfloorlamp",
-        "name": "easter_c26_elvenfloorlamp name",
+        "name": "Elfen Vloer Lamp",
         "description": "easter_c26_elvenfloorlamp desc"
       },
       {
         "code": "easter_c26_elvengoddess",
-        "name": "easter_c26_elvengoddess name",
+        "name": "De grote Godin van de Elfen!",
         "description": "easter_c26_elvengoddess desc"
       },
       {
         "code": "easter_c26_elvenhanginglight",
-        "name": "easter_c26_elvenhanginglight name",
+        "name": "Elfen Hangende Lamp",
         "description": "easter_c26_elvenhanginglight desc"
       },
       {
         "code": "easter_c26_elvenkey",
-        "name": "easter_c26_elvenkey name",
+        "name": "Die ene Sleutel",
         "description": "easter_c26_elvenkey desc"
       },
       {
         "code": "easter_c26_elvenlongendtable",
-        "name": "easter_c26_elvenlongendtable name",
+        "name": "Elfen Lange Tafel",
         "description": "easter_c26_elvenlongendtable desc"
       },
       {
@@ -55143,82 +55153,87 @@
       },
       {
         "code": "easter_c26_elvenorganicmat",
-        "name": "easter_c26_elvenorganicmat name",
+        "name": "Takjes",
         "description": "easter_c26_elvenorganicmat desc"
       },
       {
         "code": "easter_c26_elvenpillar",
-        "name": "easter_c26_elvenpillar name",
+        "name": "Elfen Pilaar",
         "description": "easter_c26_elvenpillar desc"
       },
       {
         "code": "easter_c26_elvenroundendtable",
-        "name": "easter_c26_elvenroundendtable name",
+        "name": "Elfen Ronde Tafel",
         "description": "easter_c26_elvenroundendtable desc"
       },
       {
         "code": "easter_c26_elvensquareendtable",
-        "name": "easter_c26_elvensquareendtable name",
+        "name": "Elfen Bijzettafeltje",
         "description": "easter_c26_elvensquareendtable desc"
       },
       {
         "code": "easter_c26_elvensquaretable",
-        "name": "easter_c26_elvensquaretable name",
+        "name": "Elfen Vierkante Tafel",
         "description": "easter_c26_elvensquaretable desc"
       },
       {
         "code": "easter_c26_elvenstage",
-        "name": "easter_c26_elvenstage name",
+        "name": "Elfen Verhoogde Stenen Vloer",
         "description": "easter_c26_elvenstage desc"
       },
       {
         "code": "easter_c26_elvenstairs",
-        "name": "easter_c26_elvenstairs name",
+        "name": "Elfen Trap",
         "description": "easter_c26_elvenstairs desc"
       },
       {
         "code": "easter_c26_elvenstairsblock",
-        "name": "easter_c26_elvenstairsblock name",
+        "name": "Elfen Blok",
         "description": "easter_c26_elvenstairsblock desc"
       },
       {
         "code": "easter_c26_elventable",
-        "name": "easter_c26_elventable name",
+        "name": "Elfen Grote Eettafel",
         "description": "easter_c26_elventable desc"
       },
       {
         "code": "easter_c26_elventexts",
-        "name": "easter_c26_elventexts name",
+        "name": "Heilige Elftenteksten",
         "description": "easter_c26_elventexts desc"
       },
       {
         "code": "easter_c26_elventhroneb",
-        "name": "easter_c26_elventhroneb name",
+        "name": "Grote Elfen Troon",
         "description": "easter_c26_elventhroneb desc"
       },
       {
         "code": "easter_c26_elvenwall",
-        "name": "easter_c26_elvenwall name",
+        "name": "Elfen Muur",
         "description": "easter_c26_elvenwall desc"
       },
       {
         "code": "easter_c26_elvenwoodfloor",
-        "name": "easter_c26_elvenwoodfloor name",
+        "name": "Elfen Houten Vloer",
         "description": "easter_c26_elvenwoodfloor desc"
       },
       {
+        "code": "easter_c26_goddess_bd",
+        "name": "De grote Godin van de Elfen!",
+        "description": ""
+      },
+      {
         "code": "easter_c26_potionbottle",
-        "name": "easter_c26_potionbottle name",
+        "name": "Feeëndrank Flesje",
         "description": "easter_c26_potionbottle desc"
       },
       {
         "code": "easter_c26_rosebottle",
-        "name": "easter_c26_rosebottle name",
+        "name": "Rozen Toverdrank Flesje",
         "description": "easter_c26_rosebottle desc"
       },
       {
         "code": "easter_c26_windchime",
-        "name": "easter_c26_windchime name",
+        "name": "Windklok met Bladblaadjes",
         "description": "easter_c26_windchime desc"
       },
       {
@@ -55313,8 +55328,13 @@
       },
       {
         "code": "easter_ltd26_elventhrone",
-        "name": "easter_ltd26_elventhrone name",
+        "name": "Grote Elfen Troon",
         "description": "easter_ltd26_elventhrone desc"
+      },
+      {
+        "code": "easter_ltd26_throne_bd",
+        "name": "Grote Elfen Troon",
+        "description": ""
       },
       {
         "code": "easter_r16_crackable",
@@ -55507,13 +55527,23 @@
         "description": "easter_r25_easterpatch desc"
       },
       {
+        "code": "easter_r26_archer_bd",
+        "name": "Grote Elfen Boogschutter",
+        "description": ""
+      },
+      {
         "code": "easter_r26_elvenarcher",
-        "name": "easter_r26_elvenarcher name",
+        "name": "Grote Elfen Boogschutter",
         "description": "easter_r26_elvenarcher desc"
       },
       {
+        "code": "easter_r26_fairybird_bd",
+        "name": "Japanse Sneeuwfee",
+        "description": ""
+      },
+      {
         "code": "easter_r26_snowfairybird",
-        "name": "easter_r26_snowfairybird name",
+        "name": "Japanse Sneeuwfee",
         "description": "easter_r26_snowfairybird desc"
       },
       {
@@ -58533,22 +58563,22 @@
       },
       {
         "code": "fxbox_fx238",
-        "name": "fxbox_fx238 name",
+        "name": "Toverachtige Gloed",
         "description": "fxbox_fx238 desc"
       },
       {
         "code": "fxbox_fx239",
-        "name": "fxbox_fx239 name",
+        "name": "Feeënachtige Gloed",
         "description": "fxbox_fx239 desc"
       },
       {
         "code": "fxbox_fx240",
-        "name": "fxbox_fx240 name",
+        "name": "Scepter van Natuur",
         "description": "fxbox_fx240 desc"
       },
       {
         "code": "fxbox_fx241",
-        "name": "fxbox_fx241 name",
+        "name": "Scepter van de Zon",
         "description": "fxbox_fx241 desc"
       },
       {
@@ -76483,17 +76513,17 @@
       },
       {
         "code": "neopets_c26_acara1",
-        "name": "neopets_c26_acara1 name",
+        "name": "Acara",
         "description": "neopets_c26_acara1 desc"
       },
       {
         "code": "neopets_c26_acara2",
-        "name": "neopets_c26_acara2 name",
+        "name": "Maraquan Acara",
         "description": "neopets_c26_acara2 desc"
       },
       {
         "code": "neopets_c26_acara3",
-        "name": "neopets_c26_acara3 name",
+        "name": "Mutante Acara",
         "description": "neopets_c26_acara3 desc"
       },
       {
@@ -76508,17 +76538,17 @@
       },
       {
         "code": "neopets_c26_bruce1",
-        "name": "neopets_c26_bruce1 name",
+        "name": "Bruce",
         "description": "neopets_c26_bruce1 desc"
       },
       {
         "code": "neopets_c26_bruce2",
-        "name": "neopets_c26_bruce2 name",
+        "name": "Halloween Bruce",
         "description": "neopets_c26_bruce2 desc"
       },
       {
         "code": "neopets_c26_bruce3",
-        "name": "neopets_c26_bruce3 name",
+        "name": "Disco Bruce",
         "description": "neopets_c26_bruce3 desc"
       },
       {
@@ -76528,12 +76558,12 @@
       },
       {
         "code": "neopets_c26_crackableeaster",
-        "name": "neopets_c26_crackableeaster name",
+        "name": "Paas Neopets Ei",
         "description": "neopets_c26_crackableeaster desc"
       },
       {
         "code": "neopets_c26_crackableeasterb",
-        "name": "neopets_c26_crackableeasterb name",
+        "name": "Paas Neopets Ei",
         "description": "neopets_c26_crackableeasterb desc"
       },
       {
@@ -76553,17 +76583,17 @@
       },
       {
         "code": "neopets_c26_draik1",
-        "name": "neopets_c26_draik1 name",
+        "name": "Draik",
         "description": "neopets_c26_draik1 desc"
       },
       {
         "code": "neopets_c26_draik2",
-        "name": "neopets_c26_draik2 name",
+        "name": "Spook Draik",
         "description": "neopets_c26_draik2 desc"
       },
       {
         "code": "neopets_c26_draik3",
-        "name": "neopets_c26_draik3 name",
+        "name": "Maraquan Draik",
         "description": "neopets_c26_draik3 desc"
       },
       {
@@ -76578,17 +76608,17 @@
       },
       {
         "code": "neopets_c26_kacheek1",
-        "name": "neopets_c26_kacheek1 name",
+        "name": "Kacheek",
         "description": "neopets_c26_kacheek1 desc"
       },
       {
         "code": "neopets_c26_kacheek2",
-        "name": "neopets_c26_kacheek2 name",
+        "name": "Disco Kacheek",
         "description": "neopets_c26_kacheek2 desc"
       },
       {
         "code": "neopets_c26_kacheek3",
-        "name": "neopets_c26_kacheek3 name",
+        "name": "Mutante Kacheek",
         "description": "neopets_c26_kacheek3 desc"
       },
       {
@@ -76613,17 +76643,17 @@
       },
       {
         "code": "neopets_c26_uni1",
-        "name": "neopets_c26_uni1 name",
+        "name": "Uni",
         "description": "neopets_c26_uni1 desc"
       },
       {
         "code": "neopets_c26_uni2",
-        "name": "neopets_c26_uni2 name",
+        "name": "Koninklijke Meisjes Uni",
         "description": "neopets_c26_uni2 desc"
       },
       {
         "code": "neopets_c26_uni3",
-        "name": "neopets_c26_uni3 name",
+        "name": "Bos Uni",
         "description": "neopets_c26_uni3 desc"
       },
       {
@@ -76633,17 +76663,17 @@
       },
       {
         "code": "neopets_c26_xweetok1",
-        "name": "neopets_c26_xweetok1 name",
+        "name": "Xweetok",
         "description": "neopets_c26_xweetok1 desc"
       },
       {
         "code": "neopets_c26_xweetok2",
-        "name": "neopets_c26_xweetok2 name",
+        "name": "Darigan Xweetok",
         "description": "neopets_c26_xweetok2 desc"
       },
       {
         "code": "neopets_c26_xweetok3",
-        "name": "neopets_c26_xweetok3 name",
+        "name": "Pastelkleurige Xweetok",
         "description": "neopets_c26_xweetok3 desc"
       },
       {
@@ -82562,6 +82592,11 @@
         "description": "nft_h26_alarmboombox desc"
       },
       {
+        "code": "nft_h26_aprilshrimp",
+        "name": "nft_h26_aprilshrimp name",
+        "description": "nft_h26_aprilshrimp desc"
+      },
+      {
         "code": "nft_h26_bedtray",
         "name": "Dienblad voor op Bed",
         "description": "nft_h26_bedtray desc"
@@ -82583,7 +82618,7 @@
       },
       {
         "code": "nft_h26_bronzeelf",
-        "name": "nft_h26_bronzeelf name",
+        "name": "Bronzen Elf",
         "description": "nft_h26_bronzeelf desc"
       },
       {
@@ -82593,32 +82628,32 @@
       },
       {
         "code": "nft_h26_dngbattlerockingchair",
-        "name": "nft_h26_dngbattlerockingchair name",
+        "name": "Dungeon Schommelstoel",
         "description": "nft_h26_dngbattlerockingchair desc"
       },
       {
         "code": "nft_h26_dngbbq",
-        "name": "nft_h26_dngbbq name",
+        "name": "Dungeon Barbecue",
         "description": "nft_h26_dngbbq desc"
       },
       {
         "code": "nft_h26_dngdragonsofa",
-        "name": "nft_h26_dngdragonsofa name",
+        "name": "Dungeon Bank",
         "description": "nft_h26_dngdragonsofa desc"
       },
       {
         "code": "nft_h26_dngpillar",
-        "name": "nft_h26_dngpillar name",
+        "name": "Drakenpilaar",
         "description": "nft_h26_dngpillar desc"
       },
       {
         "code": "nft_h26_dngstool",
-        "name": "nft_h26_dngstool name",
+        "name": "Dungeon Krukje",
         "description": "nft_h26_dngstool desc"
       },
       {
         "code": "nft_h26_dngtable",
-        "name": "nft_h26_dngtable name",
+        "name": "Dungeon Tafel",
         "description": "nft_h26_dngtable desc"
       },
       {
@@ -82658,7 +82693,7 @@
       },
       {
         "code": "nft_h26_goldelf",
-        "name": "nft_h26_goldelf name",
+        "name": "Gouden Elf",
         "description": "nft_h26_goldelf desc"
       },
       {
@@ -82723,7 +82758,7 @@
       },
       {
         "code": "nft_h26_silverelf",
-        "name": "nft_h26_silverelf name",
+        "name": "Zilveren Elf",
         "description": "nft_h26_silverelf desc"
       },
       {
@@ -82738,7 +82773,7 @@
       },
       {
         "code": "nft_h26_trippyelf",
-        "name": "nft_h26_trippyelf name",
+        "name": "Trippy Elf",
         "description": "nft_h26_trippyelf desc"
       },
       {
@@ -83953,17 +83988,17 @@
       },
       {
         "code": "nft_sc_elvenstatue1",
-        "name": "nft_sc_elvenstatue1 name",
+        "name": "Moeder Elf Standbeeld",
         "description": "nft_sc_elvenstatue1 desc"
       },
       {
         "code": "nft_sc_elvenstatue2",
-        "name": "nft_sc_elvenstatue2 name",
+        "name": "Vader Elf Standbeeld",
         "description": "nft_sc_elvenstatue2 desc"
       },
       {
         "code": "nft_sc_elvenstatue3",
-        "name": "nft_sc_elvenstatue3 name",
+        "name": "Jonge Elf Standbeeld",
         "description": "nft_sc_elvenstatue3 desc"
       },
       {
@@ -104472,6 +104507,21 @@
         "description": "Habbo spelers jullie kunnen nu genieten van meer items speciaal ontworpen voor jouw speelervaring! Ze komen ook in de shop en je zullen PERMANENT in het BC Warenhuis te vinden zijn."
       },
       {
+        "code": "rotating_roomdeal452_10c",
+        "name": "Bijeenkomst van Elfen Bundel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452_d",
+        "name": "Bijeenkomst van Elfen Bundel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452",
+        "name": "Bijeenkomst van Elfen Bundel",
+        "description": "Alles wat je nodig hebt om je eigen bijeenkomst voor Elfen te organiseren. Speciaal voor jou samengesteld en ingepakt!"
+      },
+      {
         "code": "rotating_roomdeal45_10c",
         "name": "Noordpool Bundel",
         "description": "Pak je wanten en kleed je warm aan - Deze ijskoude kamerbundel is tot aan de hoogste kerstboom ingepakt met alles wat een feestelijke Habbo zich maar kan wensen. Geleverd met een EXCLUSIEVE Beervormige Boom. Inclusief 10 Credits"
@@ -106123,17 +106173,17 @@
       },
       {
         "code": "sc_elvenstatue1",
-        "name": "sc_elvenstatue1 name",
+        "name": "Moeder Elf Standbeeld",
         "description": "sc_elvenstatue1 desc"
       },
       {
         "code": "sc_elvenstatue2",
-        "name": "sc_elvenstatue2 name",
+        "name": "Vader Elf Standbeeld",
         "description": "sc_elvenstatue2 desc"
       },
       {
         "code": "sc_elvenstatue3",
-        "name": "sc_elvenstatue3 name",
+        "name": "Jonge Elf Standbeeld",
         "description": "sc_elvenstatue3 desc"
       },
       {

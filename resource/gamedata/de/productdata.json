@@ -32132,6 +32132,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_mysticdragon_bd",
+        "name": "Drachenbaby",
+        "description": ""
+      },
+      {
         "code": "cl_r26_plushiewings_bd",
         "name": "Vintage Cupid-Flügel",
         "description": ""
@@ -32139,6 +32144,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robotbegleiter",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_wisp_bd",
+        "name": "Begleitendes Wölkchen",
         "description": ""
       },
       {
@@ -37753,12 +37763,12 @@
       },
       {
         "code": "clothing_nftelvenface2",
-        "name": "clothing_nftelvenface2 name",
+        "name": "Elfen-Makeup",
         "description": "clothing_nftelvenface2 desc"
       },
       {
         "code": "clothing_nftelvenface",
-        "name": "clothing_nftelvenface name",
+        "name": "Elfengesicht",
         "description": "clothing_nftelvenface desc"
       },
       {
@@ -39143,7 +39153,7 @@
       },
       {
         "code": "clothing_nftwarhammer",
-        "name": "clothing_nftwarhammer name",
+        "name": "Riesen-Kriegshammer",
         "description": "clothing_nftwarhammer desc"
       },
       {
@@ -42778,7 +42788,7 @@
       },
       {
         "code": "clothing_r26_mysticdragon",
-        "name": "clothing_r26_mysticdragon name",
+        "name": "Drachenbaby",
         "description": "clothing_r26_mysticdragon desc"
       },
       {
@@ -42798,7 +42808,7 @@
       },
       {
         "code": "clothing_r26_wisp",
-        "name": "clothing_r26_wisp name",
+        "name": "Begleitendes Wölkchen",
         "description": "clothing_r26_wisp desc"
       },
       {
@@ -54453,7 +54463,7 @@
       },
       {
         "code": "easter_c26_elvengoddess",
-        "name": "easter_c26_elvengoddess name",
+        "name": "Grosse Elfengöttin",
         "description": "easter_c26_elvengoddess desc"
       },
       {
@@ -54528,7 +54538,7 @@
       },
       {
         "code": "easter_c26_elventhroneb",
-        "name": "easter_c26_elventhroneb name",
+        "name": "Weiser Elfen-Thron",
         "description": "easter_c26_elventhroneb desc"
       },
       {
@@ -54540,6 +54550,11 @@
         "code": "easter_c26_elvenwoodfloor",
         "name": "easter_c26_elvenwoodfloor name",
         "description": "easter_c26_elvenwoodfloor desc"
+      },
+      {
+        "code": "easter_c26_goddess_bd",
+        "name": "Grosse Elfengöttin",
+        "description": ""
       },
       {
         "code": "easter_c26_potionbottle",
@@ -54648,8 +54663,13 @@
       },
       {
         "code": "easter_ltd26_elventhrone",
-        "name": "easter_ltd26_elventhrone name",
+        "name": "Weiser Elfen-Thron",
         "description": "easter_ltd26_elventhrone desc"
+      },
+      {
+        "code": "easter_ltd26_throne_bd",
+        "name": "Weiser Elfen-Thron",
+        "description": ""
       },
       {
         "code": "easter_r16_crackable",
@@ -54842,13 +54862,23 @@
         "description": "easter_r25_easterpatch desc"
       },
       {
+        "code": "easter_r26_archer_bd",
+        "name": "Grosser Elfen-Bogenschütze",
+        "description": ""
+      },
+      {
         "code": "easter_r26_elvenarcher",
-        "name": "easter_r26_elvenarcher name",
+        "name": "Grosser Elfen-Bogenschütze",
         "description": "easter_r26_elvenarcher desc"
       },
       {
+        "code": "easter_r26_fairybird_bd",
+        "name": "Schneemärchenvogel",
+        "description": ""
+      },
+      {
         "code": "easter_r26_snowfairybird",
-        "name": "easter_r26_snowfairybird name",
+        "name": "Schneemärchenvogel",
         "description": "easter_r26_snowfairybird desc"
       },
       {
@@ -81873,7 +81903,7 @@
       },
       {
         "code": "nft_h26_bronzeelf",
-        "name": "nft_h26_bronzeelf name",
+        "name": "Bronze Elfe",
         "description": "nft_h26_bronzeelf desc"
       },
       {
@@ -81883,32 +81913,32 @@
       },
       {
         "code": "nft_h26_dngbattlerockingchair",
-        "name": "nft_h26_dngbattlerockingchair name",
+        "name": "Verlies-Schaukelstuhl",
         "description": "nft_h26_dngbattlerockingchair desc"
       },
       {
         "code": "nft_h26_dngbbq",
-        "name": "nft_h26_dngbbq name",
+        "name": "Verlies-Grill",
         "description": "nft_h26_dngbbq desc"
       },
       {
         "code": "nft_h26_dngdragonsofa",
-        "name": "nft_h26_dngdragonsofa name",
+        "name": "Verlies Sofa",
         "description": "nft_h26_dngdragonsofa desc"
       },
       {
         "code": "nft_h26_dngpillar",
-        "name": "nft_h26_dngpillar name",
+        "name": "Verlies-Säule",
         "description": "nft_h26_dngpillar desc"
       },
       {
         "code": "nft_h26_dngstool",
-        "name": "nft_h26_dngstool name",
+        "name": "Verlies-Hocker",
         "description": "nft_h26_dngstool desc"
       },
       {
         "code": "nft_h26_dngtable",
-        "name": "nft_h26_dngtable name",
+        "name": "Verlies-Tisch",
         "description": "nft_h26_dngtable desc"
       },
       {
@@ -81948,7 +81978,7 @@
       },
       {
         "code": "nft_h26_goldelf",
-        "name": "nft_h26_goldelf name",
+        "name": "Gold Elfe",
         "description": "nft_h26_goldelf desc"
       },
       {
@@ -82013,7 +82043,7 @@
       },
       {
         "code": "nft_h26_silverelf",
-        "name": "nft_h26_silverelf name",
+        "name": "Silber Elfe",
         "description": "nft_h26_silverelf desc"
       },
       {
@@ -82028,7 +82058,7 @@
       },
       {
         "code": "nft_h26_trippyelf",
-        "name": "nft_h26_trippyelf name",
+        "name": "Trippy Elfe",
         "description": "nft_h26_trippyelf desc"
       },
       {
@@ -103735,6 +103765,21 @@
         "code": "rotating_roomdeal451",
         "name": "NEU Gaming-Bündel",
         "description": "Habbos, ihr könnt ab jetzt auf eine viel grössere Vielfalt an Items für eure Gaming-Bedürfnisse zugreifen! Sie werden DAUERHAFT im Shop und auch im Builder's Club erhältlich sein, sodass ihr eure Gamingbauten auf ein höheres Level bringen könnt."
+      },
+      {
+        "code": "rotating_roomdeal452_10c",
+        "name": "Elfenversammlungs-Bündel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452_d",
+        "name": "Elfenversammlungs-Bündel",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452",
+        "name": "Elfenversammlungs-Bündel",
+        "description": "Alles, was du für deine eigene Elfenversammlung brauchst, findest du hier. Im Voraus geplant und verpackt, nur für dich!"
       },
       {
         "code": "rotating_roomdeal45_10c",

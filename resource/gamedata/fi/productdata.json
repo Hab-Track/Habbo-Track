@@ -33327,6 +33327,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_mysticdragon_bd",
+        "name": "Lohikäärmeen poikanen",
+        "description": ""
+      },
+      {
         "code": "cl_r26_plushiewings_bd",
         "name": "Perinteiset enkelin siivet",
         "description": ""
@@ -33334,6 +33339,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robottikaveri",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_wisp_bd",
+        "name": "Vivatulitoveri",
         "description": ""
       },
       {
@@ -36283,42 +36293,42 @@
       },
       {
         "code": "clothing_elvendress",
-        "name": "clothing_elvendress name",
+        "name": "Haltijan leninki",
         "description": "clothing_elvendress desc"
       },
       {
         "code": "clothing_elvenearring",
-        "name": "clothing_elvenearring name",
+        "name": "Haltijan korvakoru",
         "description": "clothing_elvenearring desc"
       },
       {
         "code": "clothing_elvenlamp",
-        "name": "clothing_elvenlamp name",
+        "name": "Mystinen lamppu",
         "description": "clothing_elvenlamp desc"
       },
       {
         "code": "clothing_elvenlongears",
-        "name": "clothing_elvenlongears name",
+        "name": "Pitkät haltijan korvat",
         "description": "clothing_elvenlongears desc"
       },
       {
         "code": "clothing_elvenmithriltop",
-        "name": "clothing_elvenmithriltop name",
+        "name": "Haltijan Mithril-panssaripaita",
         "description": "clothing_elvenmithriltop desc"
       },
       {
         "code": "clothing_elvenoutfit",
-        "name": "clothing_elvenoutfit name",
+        "name": "Haltijan tunika",
         "description": "clothing_elvenoutfit desc"
       },
       {
         "code": "clothing_elvensatchel",
-        "name": "clothing_elvensatchel name",
+        "name": "Lehtivyötärölaukku",
         "description": "clothing_elvensatchel desc"
       },
       {
         "code": "clothing_elvenshortears",
-        "name": "clothing_elvenshortears name",
+        "name": "Haltijan korvat",
         "description": "clothing_elvenshortears desc"
       },
       {
@@ -36613,7 +36623,7 @@
       },
       {
         "code": "clothing_flowerantlers",
-        "name": "clothing_flowerantlers name",
+        "name": "Kukkasarvet",
         "description": "clothing_flowerantlers desc"
       },
       {
@@ -37553,12 +37563,12 @@
       },
       {
         "code": "clothing_leafantlers",
-        "name": "clothing_leafantlers name",
+        "name": "Lehtisarvet",
         "description": "clothing_leafantlers desc"
       },
       {
         "code": "clothing_leafbrooch",
-        "name": "clothing_leafbrooch name",
+        "name": "Lehtirintaneula",
         "description": "clothing_leafbrooch desc"
       },
       {
@@ -37648,7 +37658,7 @@
       },
       {
         "code": "clothing_longbraidedelvenhair",
-        "name": "clothing_longbraidedelvenhair name",
+        "name": "Haltijan lettikampaus",
         "description": "clothing_longbraidedelvenhair desc"
       },
       {
@@ -37658,7 +37668,7 @@
       },
       {
         "code": "clothing_longelvenhair",
-        "name": "clothing_longelvenhair name",
+        "name": "Majesteettiset haltijan kutrit",
         "description": "clothing_longelvenhair desc"
       },
       {
@@ -38948,12 +38958,12 @@
       },
       {
         "code": "clothing_nftelvenface2",
-        "name": "clothing_nftelvenface2 name",
+        "name": "Haltijan meikki",
         "description": "clothing_nftelvenface2 desc"
       },
       {
         "code": "clothing_nftelvenface",
-        "name": "clothing_nftelvenface name",
+        "name": "Haltijan kasvot",
         "description": "clothing_nftelvenface desc"
       },
       {
@@ -40033,7 +40043,7 @@
       },
       {
         "code": "clothing_nftsquirrel",
-        "name": "clothing_nftsquirrel name",
+        "name": "Kurrekaveri",
         "description": "clothing_nftsquirrel desc"
       },
       {
@@ -40338,7 +40348,7 @@
       },
       {
         "code": "clothing_nftwarhammer",
-        "name": "clothing_nftwarhammer name",
+        "name": "Sotavasara",
         "description": "clothing_nftwarhammer desc"
       },
       {
@@ -43973,7 +43983,7 @@
       },
       {
         "code": "clothing_r26_mysticdragon",
-        "name": "clothing_r26_mysticdragon name",
+        "name": "Lohikäärmeen poikanen",
         "description": "clothing_r26_mysticdragon desc"
       },
       {
@@ -43993,7 +44003,7 @@
       },
       {
         "code": "clothing_r26_wisp",
-        "name": "clothing_r26_wisp name",
+        "name": "Vivatulitoveri",
         "description": "clothing_r26_wisp desc"
       },
       {
@@ -44353,7 +44363,7 @@
       },
       {
         "code": "clothing_shortelvenhair",
-        "name": "clothing_shortelvenhair name",
+        "name": "Kontu-kampaus",
         "description": "clothing_shortelvenhair desc"
       },
       {
@@ -55333,97 +55343,97 @@
       },
       {
         "code": "easter_c26_craftingtable",
-        "name": "easter_c26_craftingtable name",
+        "name": "Haltijan tehtailupöytä",
         "description": "easter_c26_craftingtable desc"
       },
       {
         "code": "easter_c26_elvenarchway",
-        "name": "easter_c26_elvenarchway name",
+        "name": "Haltijan kaariportti",
         "description": "easter_c26_elvenarchway desc"
       },
       {
         "code": "easter_c26_elvenbox",
-        "name": "easter_c26_elvenbox name",
+        "name": "Haltijan lipas",
         "description": "easter_c26_elvenbox desc"
       },
       {
         "code": "easter_c26_elvenboxb",
-        "name": "easter_c26_elvenboxb name",
+        "name": "Haltijan lipas",
         "description": "easter_c26_elvenboxb desc"
       },
       {
         "code": "easter_c26_elvenbutton",
-        "name": "easter_c26_elvenbutton name",
+        "name": "Haltijan painike",
         "description": "easter_c26_elvenbutton desc"
       },
       {
         "code": "easter_c26_elvenchair",
-        "name": "easter_c26_elvenchair name",
+        "name": "Haltijan tuoli",
         "description": "easter_c26_elvenchair desc"
       },
       {
         "code": "easter_c26_elvencloth",
-        "name": "easter_c26_elvencloth name",
+        "name": "Haltijan kangaspalat",
         "description": "easter_c26_elvencloth desc"
       },
       {
         "code": "easter_c26_elvendivider",
-        "name": "easter_c26_elvendivider name",
+        "name": "Haltijan aita",
         "description": "easter_c26_elvendivider desc"
       },
       {
         "code": "easter_c26_elvendiviercorners",
-        "name": "easter_c26_elvendiviercorners name",
+        "name": "Haltijan aidan kulmapala",
         "description": "easter_c26_elvendiviercorners desc"
       },
       {
         "code": "easter_c26_elvenegg1",
-        "name": "easter_c26_elvenegg1 name",
+        "name": "Lehtipääsiäismuna",
         "description": "easter_c26_elvenegg1 desc"
       },
       {
         "code": "easter_c26_elvenegg2",
-        "name": "easter_c26_elvenegg2 name",
+        "name": "Kukkainen pääsiäismuna",
         "description": "easter_c26_elvenegg2 desc"
       },
       {
         "code": "easter_c26_elvenegg3",
-        "name": "easter_c26_elvenegg3 name",
+        "name": "Kultainen pääsiäismuna",
         "description": "easter_c26_elvenegg3 desc"
       },
       {
         "code": "easter_c26_elvenegg4",
-        "name": "easter_c26_elvenegg4 name",
+        "name": "Kristallipääsiäismuna",
         "description": "easter_c26_elvenegg4 desc"
       },
       {
         "code": "easter_c26_elvenfloor",
-        "name": "easter_c26_elvenfloor name",
+        "name": "Haltijan lattialaatta",
         "description": "easter_c26_elvenfloor desc"
       },
       {
         "code": "easter_c26_elvenfloorlamp",
-        "name": "easter_c26_elvenfloorlamp name",
+        "name": "Haltijan jalkalamppu",
         "description": "easter_c26_elvenfloorlamp desc"
       },
       {
         "code": "easter_c26_elvengoddess",
-        "name": "easter_c26_elvengoddess name",
+        "name": "Haltijajumalatar",
         "description": "easter_c26_elvengoddess desc"
       },
       {
         "code": "easter_c26_elvenhanginglight",
-        "name": "easter_c26_elvenhanginglight name",
+        "name": "Haltijan kattolamppu",
         "description": "easter_c26_elvenhanginglight desc"
       },
       {
         "code": "easter_c26_elvenkey",
-        "name": "easter_c26_elvenkey name",
+        "name": "Valta-avain",
         "description": "easter_c26_elvenkey desc"
       },
       {
         "code": "easter_c26_elvenlongendtable",
-        "name": "easter_c26_elvenlongendtable name",
+        "name": "Haltijan iso sohvapöytä",
         "description": "easter_c26_elvenlongendtable desc"
       },
       {
@@ -55433,82 +55443,87 @@
       },
       {
         "code": "easter_c26_elvenorganicmat",
-        "name": "easter_c26_elvenorganicmat name",
+        "name": "Metsärisut",
         "description": "easter_c26_elvenorganicmat desc"
       },
       {
         "code": "easter_c26_elvenpillar",
-        "name": "easter_c26_elvenpillar name",
+        "name": "Haltijan pylväs",
         "description": "easter_c26_elvenpillar desc"
       },
       {
         "code": "easter_c26_elvenroundendtable",
-        "name": "easter_c26_elvenroundendtable name",
+        "name": "Pyöreä haltijan pöytä",
         "description": "easter_c26_elvenroundendtable desc"
       },
       {
         "code": "easter_c26_elvensquareendtable",
-        "name": "easter_c26_elvensquareendtable name",
+        "name": "Haltijan pieni sohvapöytä",
         "description": "easter_c26_elvensquareendtable desc"
       },
       {
         "code": "easter_c26_elvensquaretable",
-        "name": "easter_c26_elvensquaretable name",
+        "name": "Haltijan pieni ruokapöytä",
         "description": "easter_c26_elvensquaretable desc"
       },
       {
         "code": "easter_c26_elvenstage",
-        "name": "easter_c26_elvenstage name",
+        "name": "Haltijan lava",
         "description": "easter_c26_elvenstage desc"
       },
       {
         "code": "easter_c26_elvenstairs",
-        "name": "easter_c26_elvenstairs name",
+        "name": "Haltijan portaat",
         "description": "easter_c26_elvenstairs desc"
       },
       {
         "code": "easter_c26_elvenstairsblock",
-        "name": "easter_c26_elvenstairsblock name",
+        "name": "Haltijan palikka",
         "description": "easter_c26_elvenstairsblock desc"
       },
       {
         "code": "easter_c26_elventable",
-        "name": "easter_c26_elventable name",
+        "name": "Haltijan iso ruokapöytä",
         "description": "easter_c26_elventable desc"
       },
       {
         "code": "easter_c26_elventexts",
-        "name": "easter_c26_elventexts name",
+        "name": "Haltijoiden pyhät kirjoitukset",
         "description": "easter_c26_elventexts desc"
       },
       {
         "code": "easter_c26_elventhroneb",
-        "name": "easter_c26_elventhroneb name",
+        "name": "Haltijan valtaistuin",
         "description": "easter_c26_elventhroneb desc"
       },
       {
         "code": "easter_c26_elvenwall",
-        "name": "easter_c26_elvenwall name",
+        "name": "Haltijan muuri",
         "description": "easter_c26_elvenwall desc"
       },
       {
         "code": "easter_c26_elvenwoodfloor",
-        "name": "easter_c26_elvenwoodfloor name",
+        "name": "Haltijan parketti",
         "description": "easter_c26_elvenwoodfloor desc"
       },
       {
+        "code": "easter_c26_goddess_bd",
+        "name": "Haltijajumalatar",
+        "description": ""
+      },
+      {
         "code": "easter_c26_potionbottle",
-        "name": "easter_c26_potionbottle name",
+        "name": "Haltijan taikajuoma",
         "description": "easter_c26_potionbottle desc"
       },
       {
         "code": "easter_c26_rosebottle",
-        "name": "easter_c26_rosebottle name",
+        "name": "Ruusuinen taikajuoma",
         "description": "easter_c26_rosebottle desc"
       },
       {
         "code": "easter_c26_windchime",
-        "name": "easter_c26_windchime name",
+        "name": "Lehtituulikello",
         "description": "easter_c26_windchime desc"
       },
       {
@@ -55603,8 +55618,13 @@
       },
       {
         "code": "easter_ltd26_elventhrone",
-        "name": "easter_ltd26_elventhrone name",
+        "name": "Haltijan valtaistuin",
         "description": "easter_ltd26_elventhrone desc"
+      },
+      {
+        "code": "easter_ltd26_throne_bd",
+        "name": "Haltijan valtaistuin",
+        "description": ""
       },
       {
         "code": "easter_r16_crackable",
@@ -55797,13 +55817,23 @@
         "description": "easter_r25_easterpatch desc"
       },
       {
+        "code": "easter_r26_archer_bd",
+        "name": "Haltijajousiampuja",
+        "description": ""
+      },
+      {
         "code": "easter_r26_elvenarcher",
-        "name": "easter_r26_elvenarcher name",
+        "name": "Haltijajousiampuja",
         "description": "easter_r26_elvenarcher desc"
       },
       {
+        "code": "easter_r26_fairybird_bd",
+        "name": "Pyrstötiaishaltija",
+        "description": ""
+      },
+      {
         "code": "easter_r26_snowfairybird",
-        "name": "easter_r26_snowfairybird name",
+        "name": "Pyrstötiaishaltija",
         "description": "easter_r26_snowfairybird desc"
       },
       {
@@ -58788,22 +58818,22 @@
       },
       {
         "code": "fxbox_fx238",
-        "name": "fxbox_fx238 name",
+        "name": "Virvatulen hehku",
         "description": "fxbox_fx238 desc"
       },
       {
         "code": "fxbox_fx239",
-        "name": "fxbox_fx239 name",
+        "name": "Haltijan hehku",
         "description": "fxbox_fx239 desc"
       },
       {
         "code": "fxbox_fx240",
-        "name": "fxbox_fx240 name",
+        "name": "Luontosauva",
         "description": "fxbox_fx240 desc"
       },
       {
         "code": "fxbox_fx241",
-        "name": "fxbox_fx241 name",
+        "name": "Aurinkosauva",
         "description": "fxbox_fx241 desc"
       },
       {
@@ -76793,17 +76823,17 @@
       },
       {
         "code": "neopets_c26_acara1",
-        "name": "neopets_c26_acara1 name",
+        "name": "Acara",
         "description": "neopets_c26_acara1 desc"
       },
       {
         "code": "neopets_c26_acara2",
-        "name": "neopets_c26_acara2 name",
+        "name": "Vesilisko-Acara",
         "description": "neopets_c26_acara2 desc"
       },
       {
         "code": "neopets_c26_acara3",
-        "name": "neopets_c26_acara3 name",
+        "name": "Mutantti-Acara",
         "description": "neopets_c26_acara3 desc"
       },
       {
@@ -76818,17 +76848,17 @@
       },
       {
         "code": "neopets_c26_bruce1",
-        "name": "neopets_c26_bruce1 name",
+        "name": "Bruce",
         "description": "neopets_c26_bruce1 desc"
       },
       {
         "code": "neopets_c26_bruce2",
-        "name": "neopets_c26_bruce2 name",
+        "name": "Halloween-Bruce",
         "description": "neopets_c26_bruce2 desc"
       },
       {
         "code": "neopets_c26_bruce3",
-        "name": "neopets_c26_bruce3 name",
+        "name": "Disko-Bruce",
         "description": "neopets_c26_bruce3 desc"
       },
       {
@@ -76838,12 +76868,12 @@
       },
       {
         "code": "neopets_c26_crackableeaster",
-        "name": "neopets_c26_crackableeaster name",
+        "name": "Pääsiäisen Neopets-muna",
         "description": "neopets_c26_crackableeaster desc"
       },
       {
         "code": "neopets_c26_crackableeasterb",
-        "name": "neopets_c26_crackableeasterb name",
+        "name": "Pääsiäisen Neopets-muna",
         "description": "neopets_c26_crackableeasterb desc"
       },
       {
@@ -76863,17 +76893,17 @@
       },
       {
         "code": "neopets_c26_draik1",
-        "name": "neopets_c26_draik1 name",
+        "name": "Draik",
         "description": "neopets_c26_draik1 desc"
       },
       {
         "code": "neopets_c26_draik2",
-        "name": "neopets_c26_draik2 name",
+        "name": "Henkiolento-Draik",
         "description": "neopets_c26_draik2 desc"
       },
       {
         "code": "neopets_c26_draik3",
-        "name": "neopets_c26_draik3 name",
+        "name": "Vesilisko-Draik",
         "description": "neopets_c26_draik3 desc"
       },
       {
@@ -76888,17 +76918,17 @@
       },
       {
         "code": "neopets_c26_kacheek1",
-        "name": "neopets_c26_kacheek1 name",
+        "name": "Kacheek",
         "description": "neopets_c26_kacheek1 desc"
       },
       {
         "code": "neopets_c26_kacheek2",
-        "name": "neopets_c26_kacheek2 name",
+        "name": "Disko-Kacheek",
         "description": "neopets_c26_kacheek2 desc"
       },
       {
         "code": "neopets_c26_kacheek3",
-        "name": "neopets_c26_kacheek3 name",
+        "name": "Mutantti-Kacheek",
         "description": "neopets_c26_kacheek3 desc"
       },
       {
@@ -76923,17 +76953,17 @@
       },
       {
         "code": "neopets_c26_uni1",
-        "name": "neopets_c26_uni1 name",
+        "name": "Uni",
         "description": "neopets_c26_uni1 desc"
       },
       {
         "code": "neopets_c26_uni2",
-        "name": "neopets_c26_uni2 name",
+        "name": "Ruhtinaallinen Uni",
         "description": "neopets_c26_uni2 desc"
       },
       {
         "code": "neopets_c26_uni3",
-        "name": "neopets_c26_uni3 name",
+        "name": "Metsien Uni",
         "description": "neopets_c26_uni3 desc"
       },
       {
@@ -76943,17 +76973,17 @@
       },
       {
         "code": "neopets_c26_xweetok1",
-        "name": "neopets_c26_xweetok1 name",
+        "name": "Xweetok",
         "description": "neopets_c26_xweetok1 desc"
       },
       {
         "code": "neopets_c26_xweetok2",
-        "name": "neopets_c26_xweetok2 name",
+        "name": "Turmeltunut Xweetok",
         "description": "neopets_c26_xweetok2 desc"
       },
       {
         "code": "neopets_c26_xweetok3",
-        "name": "neopets_c26_xweetok3 name",
+        "name": "Pastelli-Xweetok",
         "description": "neopets_c26_xweetok3 desc"
       },
       {
@@ -82872,6 +82902,11 @@
         "description": "nft_h26_alarmboombox desc"
       },
       {
+        "code": "nft_h26_aprilshrimp",
+        "name": "nft_h26_aprilshrimp name",
+        "description": "nft_h26_aprilshrimp desc"
+      },
+      {
         "code": "nft_h26_bedtray",
         "name": "Sänkytarjotin",
         "description": "nft_h26_bedtray desc"
@@ -82893,7 +82928,7 @@
       },
       {
         "code": "nft_h26_bronzeelf",
-        "name": "nft_h26_bronzeelf name",
+        "name": "Pronssinen haltija",
         "description": "nft_h26_bronzeelf desc"
       },
       {
@@ -82903,32 +82938,32 @@
       },
       {
         "code": "nft_h26_dngbattlerockingchair",
-        "name": "nft_h26_dngbattlerockingchair name",
+        "name": "Tyrmän kiikkutuoli",
         "description": "nft_h26_dngbattlerockingchair desc"
       },
       {
         "code": "nft_h26_dngbbq",
-        "name": "nft_h26_dngbbq name",
+        "name": "Tyrmän grilli",
         "description": "nft_h26_dngbbq desc"
       },
       {
         "code": "nft_h26_dngdragonsofa",
-        "name": "nft_h26_dngdragonsofa name",
+        "name": "Tyrmän sohva",
         "description": "nft_h26_dngdragonsofa desc"
       },
       {
         "code": "nft_h26_dngpillar",
-        "name": "nft_h26_dngpillar name",
+        "name": "Tyrmän pylväs",
         "description": "nft_h26_dngpillar desc"
       },
       {
         "code": "nft_h26_dngstool",
-        "name": "nft_h26_dngstool name",
+        "name": "Tyrmän jakkara",
         "description": "nft_h26_dngstool desc"
       },
       {
         "code": "nft_h26_dngtable",
-        "name": "nft_h26_dngtable name",
+        "name": "Tyrmän pöytä",
         "description": "nft_h26_dngtable desc"
       },
       {
@@ -82968,7 +83003,7 @@
       },
       {
         "code": "nft_h26_goldelf",
-        "name": "nft_h26_goldelf name",
+        "name": "Kultainen haltija",
         "description": "nft_h26_goldelf desc"
       },
       {
@@ -83033,7 +83068,7 @@
       },
       {
         "code": "nft_h26_silverelf",
-        "name": "nft_h26_silverelf name",
+        "name": "Hopeinen haltija",
         "description": "nft_h26_silverelf desc"
       },
       {
@@ -83048,7 +83083,7 @@
       },
       {
         "code": "nft_h26_trippyelf",
-        "name": "nft_h26_trippyelf name",
+        "name": "Psykedeelinen haltija",
         "description": "nft_h26_trippyelf desc"
       },
       {
@@ -84263,17 +84298,17 @@
       },
       {
         "code": "nft_sc_elvenstatue1",
-        "name": "nft_sc_elvenstatue1 name",
+        "name": "Haltijaäidin rintakuva",
         "description": "nft_sc_elvenstatue1 desc"
       },
       {
         "code": "nft_sc_elvenstatue2",
-        "name": "nft_sc_elvenstatue2 name",
+        "name": "Haltijaisän rintakuva",
         "description": "nft_sc_elvenstatue2 desc"
       },
       {
         "code": "nft_sc_elvenstatue3",
-        "name": "nft_sc_elvenstatue3 name",
+        "name": "Haltijanuorukaisen rintakuva",
         "description": "nft_sc_elvenstatue3 desc"
       },
       {
@@ -104657,6 +104692,21 @@
         "description": "Habbo-pelaajat pääsevät nyt nauttimaan paljon laajemmasta valikoimasta tuotteita, jotka on suunniteltu nimenomaan gaming-tarpeisiin! Tuotteet tulevat myös JÄÄDÄKSEEN Kauppaan ja Huoneenrakentajaklubiin, jotta pelirakennelmissa olisi vain taivas rajana."
       },
       {
+        "code": "rotating_roomdeal452_10c",
+        "name": "Haltijatapaaminen-huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452_d",
+        "name": "Haltijatapaaminen-huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452",
+        "name": "Haltijatapaaminen-huonepaketti",
+        "description": "Huonepaketti sisältää kaiken sen, mitä omat haltijapirskeesi kaipaavat. Ei huolen häivää, sillä kaikki järjestelyt on tehty etukäteen puolestasi!"
+      },
+      {
         "code": "rotating_roomdeal45_10c",
         "name": "Arktinen huonepaketti",
         "description": "Laita lapaset ja lämmintä päälle, koska tämä paketti on äyräitä myöten täynnä jäisiä, talvisia ihanuuksia! Mukana ainutlaatuinen Karhun pensaspatsas. Mukana 10 kolikkoa."
@@ -106313,17 +106363,17 @@
       },
       {
         "code": "sc_elvenstatue1",
-        "name": "sc_elvenstatue1 name",
+        "name": "Haltijaäidin rintakuva",
         "description": "sc_elvenstatue1 desc"
       },
       {
         "code": "sc_elvenstatue2",
-        "name": "sc_elvenstatue2 name",
+        "name": "Haltijaisän rintakuva",
         "description": "sc_elvenstatue2 desc"
       },
       {
         "code": "sc_elvenstatue3",
-        "name": "sc_elvenstatue3 name",
+        "name": "Haltijanuorukaisen rintakuva",
         "description": "sc_elvenstatue3 desc"
       },
       {

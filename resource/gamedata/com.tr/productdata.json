@@ -33732,6 +33732,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_mysticdragon_bd",
+        "name": "Ejderha Yavrusu",
+        "description": ""
+      },
+      {
         "code": "cl_r26_plushiewings_bd",
         "name": "Vintage Eros Kanatları",
         "description": ""
@@ -33739,6 +33744,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robot Arkadaş",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_wisp_bd",
+        "name": "Yol Gösteren İllüzyon",
         "description": ""
       },
       {
@@ -44383,7 +44393,7 @@
       },
       {
         "code": "clothing_r26_mysticdragon",
-        "name": "clothing_r26_mysticdragon name",
+        "name": "Ejderha Yavrusu",
         "description": "clothing_r26_mysticdragon desc"
       },
       {
@@ -44403,7 +44413,7 @@
       },
       {
         "code": "clothing_r26_wisp",
-        "name": "clothing_r26_wisp name",
+        "name": "Yol Gösteren İllüzyon",
         "description": "clothing_r26_wisp desc"
       },
       {
@@ -64158,7 +64168,7 @@
       },
       {
         "code": "easter_c26_elvengoddess",
-        "name": "easter_c26_elvengoddess name",
+        "name": "Elflerin Ulu Tanrıçası",
         "description": "easter_c26_elvengoddess desc"
       },
       {
@@ -64233,7 +64243,7 @@
       },
       {
         "code": "easter_c26_elventhroneb",
-        "name": "easter_c26_elventhroneb name",
+        "name": "Elflerin Kebir Tahtı",
         "description": "easter_c26_elventhroneb desc"
       },
       {
@@ -64245,6 +64255,11 @@
         "code": "easter_c26_elvenwoodfloor",
         "name": "easter_c26_elvenwoodfloor name",
         "description": "easter_c26_elvenwoodfloor desc"
+      },
+      {
+        "code": "easter_c26_goddess_bd",
+        "name": "Elflerin Ulu Tanrıçası",
+        "description": ""
       },
       {
         "code": "easter_c26_potionbottle",
@@ -64353,8 +64368,13 @@
       },
       {
         "code": "easter_ltd26_elventhrone",
-        "name": "easter_ltd26_elventhrone name",
+        "name": "Elflerin Kebir Tahtı",
         "description": "easter_ltd26_elventhrone desc"
+      },
+      {
+        "code": "easter_ltd26_throne_bd",
+        "name": "Elflerin Kebir Tahtı",
+        "description": ""
       },
       {
         "code": "easter_r16_crackable",
@@ -64547,13 +64567,23 @@
         "description": "easter_r25_easterpatch desc"
       },
       {
+        "code": "easter_r26_archer_bd",
+        "name": "Büyük Elf Okçusu",
+        "description": ""
+      },
+      {
         "code": "easter_r26_elvenarcher",
-        "name": "easter_r26_elvenarcher name",
+        "name": "Büyük Elf Okçusu",
         "description": "easter_r26_elvenarcher desc"
       },
       {
+        "code": "easter_r26_fairybird_bd",
+        "name": "Kar Perisi Kuşu",
+        "description": ""
+      },
+      {
         "code": "easter_r26_snowfairybird",
-        "name": "easter_r26_snowfairybird name",
+        "name": "Kar Perisi Kuşu",
         "description": "easter_r26_snowfairybird desc"
       },
       {
@@ -114230,6 +114260,21 @@
         "code": "rotating_roomdeal451",
         "name": "Oyun Paketi",
         "description": "Habbo oyuncuları, oyun ihtiyaçlarınızı karşılayacak geniş ürün çeşitliliğinin tadını çıkarabilirsiniz! Oyun deneyiminizi ileri boyuta taşıyabilesiniz diye Mağaza ve Mimarlar Kulübünde KALICI olacaklar."
+      },
+      {
+        "code": "rotating_roomdeal452_10c",
+        "name": "Elf Meclisi Oda Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452_d",
+        "name": "Elf Meclisi Oda Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal452",
+        "name": "Elf Meclisi Oda Paketi",
+        "description": "Kendi Elf Meclisini kurmak için gerekli her şey burada. Senin için önceden tasarlanıp paketlendi!"
       },
       {
         "code": "rotating_roomdeal45_10c",
