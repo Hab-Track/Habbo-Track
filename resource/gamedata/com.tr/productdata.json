@@ -13427,6 +13427,11 @@
         "description": ""
       },
       {
+        "code": "april26_special1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
         "code": "aprl23_earth_promo",
         "name": "Dünya Günü Teklifi: %20 İndirim!",
         "description": ""
@@ -36613,7 +36618,7 @@
       },
       {
         "code": "clothing_ducketbearbag",
-        "name": "clothing_ducketbearbag name",
+        "name": "Cuddly Bear Backpack",
         "description": "clothing_ducketbearbag desc"
       },
       {
@@ -36703,42 +36708,42 @@
       },
       {
         "code": "clothing_elvendress",
-        "name": "clothing_elvendress name",
+        "name": "Elf Elbisesi",
         "description": "clothing_elvendress desc"
       },
       {
         "code": "clothing_elvenearring",
-        "name": "clothing_elvenearring name",
+        "name": "Elf Küpesi",
         "description": "clothing_elvenearring desc"
       },
       {
         "code": "clothing_elvenlamp",
-        "name": "clothing_elvenlamp name",
+        "name": "Mistik Lamba",
         "description": "clothing_elvenlamp desc"
       },
       {
         "code": "clothing_elvenlongears",
-        "name": "clothing_elvenlongears name",
+        "name": "Uzun Kulaklı Elf",
         "description": "clothing_elvenlongears desc"
       },
       {
         "code": "clothing_elvenmithriltop",
-        "name": "clothing_elvenmithriltop name",
+        "name": "Elf Mithril Üst",
         "description": "clothing_elvenmithriltop desc"
       },
       {
         "code": "clothing_elvenoutfit",
-        "name": "clothing_elvenoutfit name",
+        "name": "Elf Tuniği",
         "description": "clothing_elvenoutfit desc"
       },
       {
         "code": "clothing_elvensatchel",
-        "name": "clothing_elvensatchel name",
+        "name": "Yaprak Çanta",
         "description": "clothing_elvensatchel desc"
       },
       {
         "code": "clothing_elvenshortears",
-        "name": "clothing_elvenshortears name",
+        "name": "Kısa Kulaklı Elf",
         "description": "clothing_elvenshortears desc"
       },
       {
@@ -37033,7 +37038,7 @@
       },
       {
         "code": "clothing_flowerantlers",
-        "name": "clothing_flowerantlers name",
+        "name": "Çiçek Boynuzlar",
         "description": "clothing_flowerantlers desc"
       },
       {
@@ -37973,12 +37978,12 @@
       },
       {
         "code": "clothing_leafantlers",
-        "name": "clothing_leafantlers name",
+        "name": "Yaprak Boynuzlar",
         "description": "clothing_leafantlers desc"
       },
       {
         "code": "clothing_leafbrooch",
-        "name": "clothing_leafbrooch name",
+        "name": "Yaprak Broş",
         "description": "clothing_leafbrooch desc"
       },
       {
@@ -38068,7 +38073,7 @@
       },
       {
         "code": "clothing_longbraidedelvenhair",
-        "name": "clothing_longbraidedelvenhair name",
+        "name": "Uzun Elf Örgüsü",
         "description": "clothing_longbraidedelvenhair desc"
       },
       {
@@ -38078,7 +38083,7 @@
       },
       {
         "code": "clothing_longelvenhair",
-        "name": "clothing_longelvenhair name",
+        "name": "Görkemli Elf Örgüleri",
         "description": "clothing_longelvenhair desc"
       },
       {
@@ -39368,12 +39373,12 @@
       },
       {
         "code": "clothing_nftelvenface2",
-        "name": "clothing_nftelvenface2 name",
+        "name": "Elf Makyajı",
         "description": "clothing_nftelvenface2 desc"
       },
       {
         "code": "clothing_nftelvenface",
-        "name": "clothing_nftelvenface name",
+        "name": "Elf Yüzü",
         "description": "clothing_nftelvenface desc"
       },
       {
@@ -40453,7 +40458,7 @@
       },
       {
         "code": "clothing_nftsquirrel",
-        "name": "clothing_nftsquirrel name",
+        "name": "Sincap Dost",
         "description": "clothing_nftsquirrel desc"
       },
       {
@@ -40758,7 +40763,7 @@
       },
       {
         "code": "clothing_nftwarhammer",
-        "name": "clothing_nftwarhammer name",
+        "name": "Güçlü Savaş Çekici",
         "description": "clothing_nftwarhammer desc"
       },
       {
@@ -44773,7 +44778,7 @@
       },
       {
         "code": "clothing_shortelvenhair",
-        "name": "clothing_shortelvenhair name",
+        "name": "Shire Saç Kesimi",
         "description": "clothing_shortelvenhair desc"
       },
       {
@@ -61453,7 +61458,7 @@
       },
       {
         "code": "ducket_c26_honeyfountain",
-        "name": "ducket_c26_honeyfountain name",
+        "name": "Honey Fountain",
         "description": "ducket_c26_honeyfountain desc"
       },
       {
@@ -61468,7 +61473,7 @@
       },
       {
         "code": "ducket_c26_honeypot",
-        "name": "ducket_c26_honeypot name",
+        "name": "Pot of Honey",
         "description": "ducket_c26_honeypot desc"
       },
       {
@@ -61478,7 +61483,7 @@
       },
       {
         "code": "ducket_c26_honeyvase",
-        "name": "ducket_c26_honeyvase name",
+        "name": "Windowsill Sunflowers",
         "description": "ducket_c26_honeyvase desc"
       },
       {
@@ -61503,7 +61508,7 @@
       },
       {
         "code": "ducket_dia_honeyfountain",
-        "name": "ducket_c26_honeyfountain name",
+        "name": "Honey Fountain",
         "description": ""
       },
       {
@@ -61518,12 +61523,12 @@
       },
       {
         "code": "ducket_dia_honeypot",
-        "name": "ducket_c26_honeypot name",
+        "name": "Pot of Honey",
         "description": ""
       },
       {
         "code": "ducket_dia_honeyvase",
-        "name": "ducket_c26_honeyvase name",
+        "name": "Windowsill Sunflowers",
         "description": ""
       },
       {
@@ -64093,77 +64098,77 @@
       },
       {
         "code": "easter_c26_craftingtable",
-        "name": "easter_c26_craftingtable name",
+        "name": "Elf Üretim Masası",
         "description": "easter_c26_craftingtable desc"
       },
       {
         "code": "easter_c26_elvenarchway",
-        "name": "easter_c26_elvenarchway name",
+        "name": "Elf Kemeri",
         "description": "easter_c26_elvenarchway desc"
       },
       {
         "code": "easter_c26_elvenbox",
-        "name": "easter_c26_elvenbox name",
+        "name": "Elf Kutusu",
         "description": "easter_c26_elvenbox desc"
       },
       {
         "code": "easter_c26_elvenboxb",
-        "name": "easter_c26_elvenboxb name",
+        "name": "Elf Kutusu",
         "description": "easter_c26_elvenboxb desc"
       },
       {
         "code": "easter_c26_elvenbutton",
-        "name": "easter_c26_elvenbutton name",
+        "name": "Elf Butonu",
         "description": "easter_c26_elvenbutton desc"
       },
       {
         "code": "easter_c26_elvenchair",
-        "name": "easter_c26_elvenchair name",
+        "name": "Elf Sandalyesi",
         "description": "easter_c26_elvenchair desc"
       },
       {
         "code": "easter_c26_elvencloth",
-        "name": "easter_c26_elvencloth name",
+        "name": "Elf Kumaşı",
         "description": "easter_c26_elvencloth desc"
       },
       {
         "code": "easter_c26_elvendivider",
-        "name": "easter_c26_elvendivider name",
+        "name": "Elf Bölücü",
         "description": "easter_c26_elvendivider desc"
       },
       {
         "code": "easter_c26_elvendiviercorners",
-        "name": "easter_c26_elvendiviercorners name",
+        "name": "Elf Köşe Bölücü",
         "description": "easter_c26_elvendiviercorners desc"
       },
       {
         "code": "easter_c26_elvenegg1",
-        "name": "easter_c26_elvenegg1 name",
+        "name": "Yaprak Yumurta",
         "description": "easter_c26_elvenegg1 desc"
       },
       {
         "code": "easter_c26_elvenegg2",
-        "name": "easter_c26_elvenegg2 name",
+        "name": "Çiçek Yumurta",
         "description": "easter_c26_elvenegg2 desc"
       },
       {
         "code": "easter_c26_elvenegg3",
-        "name": "easter_c26_elvenegg3 name",
+        "name": "Altın Yumurta",
         "description": "easter_c26_elvenegg3 desc"
       },
       {
         "code": "easter_c26_elvenegg4",
-        "name": "easter_c26_elvenegg4 name",
+        "name": "Değerli Taşlı Yumurta",
         "description": "easter_c26_elvenegg4 desc"
       },
       {
         "code": "easter_c26_elvenfloor",
-        "name": "easter_c26_elvenfloor name",
+        "name": "Elf Taş Zemin",
         "description": "easter_c26_elvenfloor desc"
       },
       {
         "code": "easter_c26_elvenfloorlamp",
-        "name": "easter_c26_elvenfloorlamp name",
+        "name": "Elf Yer Lambası",
         "description": "easter_c26_elvenfloorlamp desc"
       },
       {
@@ -64173,17 +64178,17 @@
       },
       {
         "code": "easter_c26_elvenhanginglight",
-        "name": "easter_c26_elvenhanginglight name",
+        "name": "Elf Sarkan Lamba",
         "description": "easter_c26_elvenhanginglight desc"
       },
       {
         "code": "easter_c26_elvenkey",
-        "name": "easter_c26_elvenkey name",
+        "name": "Tek Anahtar",
         "description": "easter_c26_elvenkey desc"
       },
       {
         "code": "easter_c26_elvenlongendtable",
-        "name": "easter_c26_elvenlongendtable name",
+        "name": "Elf Uzun Masa",
         "description": "easter_c26_elvenlongendtable desc"
       },
       {
@@ -64193,52 +64198,52 @@
       },
       {
         "code": "easter_c26_elvenorganicmat",
-        "name": "easter_c26_elvenorganicmat name",
+        "name": "Orman Malzemeleri",
         "description": "easter_c26_elvenorganicmat desc"
       },
       {
         "code": "easter_c26_elvenpillar",
-        "name": "easter_c26_elvenpillar name",
+        "name": "Elf Sütunu",
         "description": "easter_c26_elvenpillar desc"
       },
       {
         "code": "easter_c26_elvenroundendtable",
-        "name": "easter_c26_elvenroundendtable name",
+        "name": "Elf Yuvarlak Sehpa",
         "description": "easter_c26_elvenroundendtable desc"
       },
       {
         "code": "easter_c26_elvensquareendtable",
-        "name": "easter_c26_elvensquareendtable name",
+        "name": "Elf Yan Sehpa",
         "description": "easter_c26_elvensquareendtable desc"
       },
       {
         "code": "easter_c26_elvensquaretable",
-        "name": "easter_c26_elvensquaretable name",
+        "name": "Elf Kare Masa",
         "description": "easter_c26_elvensquaretable desc"
       },
       {
         "code": "easter_c26_elvenstage",
-        "name": "easter_c26_elvenstage name",
+        "name": "Elf Yüksek Taş Zemin",
         "description": "easter_c26_elvenstage desc"
       },
       {
         "code": "easter_c26_elvenstairs",
-        "name": "easter_c26_elvenstairs name",
+        "name": "Elf Merdiveni",
         "description": "easter_c26_elvenstairs desc"
       },
       {
         "code": "easter_c26_elvenstairsblock",
-        "name": "easter_c26_elvenstairsblock name",
+        "name": "Elf Bloğu",
         "description": "easter_c26_elvenstairsblock desc"
       },
       {
         "code": "easter_c26_elventable",
-        "name": "easter_c26_elventable name",
+        "name": "Elf Büyük Masa",
         "description": "easter_c26_elventable desc"
       },
       {
         "code": "easter_c26_elventexts",
-        "name": "easter_c26_elventexts name",
+        "name": "Kutsal Elf Yazıları",
         "description": "easter_c26_elventexts desc"
       },
       {
@@ -64248,12 +64253,12 @@
       },
       {
         "code": "easter_c26_elvenwall",
-        "name": "easter_c26_elvenwall name",
+        "name": "Elf Duvarı",
         "description": "easter_c26_elvenwall desc"
       },
       {
         "code": "easter_c26_elvenwoodfloor",
-        "name": "easter_c26_elvenwoodfloor name",
+        "name": "Elf Ahşap Zemin",
         "description": "easter_c26_elvenwoodfloor desc"
       },
       {
@@ -64263,17 +64268,17 @@
       },
       {
         "code": "easter_c26_potionbottle",
-        "name": "easter_c26_potionbottle name",
+        "name": "Peri İksiri Şişesi",
         "description": "easter_c26_potionbottle desc"
       },
       {
         "code": "easter_c26_rosebottle",
-        "name": "easter_c26_rosebottle name",
+        "name": "Gül İksiri Şişesi",
         "description": "easter_c26_rosebottle desc"
       },
       {
         "code": "easter_c26_windchime",
-        "name": "easter_c26_windchime name",
+        "name": "Yaprak Rüzgar Çanı",
         "description": "easter_c26_windchime desc"
       },
       {
@@ -67788,22 +67793,22 @@
       },
       {
         "code": "fxbox_fx238",
-        "name": "fxbox_fx238 name",
+        "name": "İllüzyon Parıltısı",
         "description": "fxbox_fx238 desc"
       },
       {
         "code": "fxbox_fx239",
-        "name": "fxbox_fx239 name",
+        "name": "Peri Parıltısı",
         "description": "fxbox_fx239 desc"
       },
       {
         "code": "fxbox_fx240",
-        "name": "fxbox_fx240 name",
+        "name": "Doğa Asası",
         "description": "fxbox_fx240 desc"
       },
       {
         "code": "fxbox_fx241",
-        "name": "fxbox_fx241 name",
+        "name": "Güneş Asası",
         "description": "fxbox_fx241 desc"
       },
       {
@@ -86138,17 +86143,17 @@
       },
       {
         "code": "neopets_c26_acara1",
-        "name": "neopets_c26_acara1 name",
+        "name": "Acara",
         "description": "neopets_c26_acara1 desc"
       },
       {
         "code": "neopets_c26_acara2",
-        "name": "neopets_c26_acara2 name",
+        "name": "Maraquan Acara",
         "description": "neopets_c26_acara2 desc"
       },
       {
         "code": "neopets_c26_acara3",
-        "name": "neopets_c26_acara3 name",
+        "name": "Mutant Acara",
         "description": "neopets_c26_acara3 desc"
       },
       {
@@ -86163,17 +86168,17 @@
       },
       {
         "code": "neopets_c26_bruce1",
-        "name": "neopets_c26_bruce1 name",
+        "name": "Bruce",
         "description": "neopets_c26_bruce1 desc"
       },
       {
         "code": "neopets_c26_bruce2",
-        "name": "neopets_c26_bruce2 name",
+        "name": "Cadılar Bayramı Bruce",
         "description": "neopets_c26_bruce2 desc"
       },
       {
         "code": "neopets_c26_bruce3",
-        "name": "neopets_c26_bruce3 name",
+        "name": "Disko Bruce",
         "description": "neopets_c26_bruce3 desc"
       },
       {
@@ -86183,12 +86188,12 @@
       },
       {
         "code": "neopets_c26_crackableeaster",
-        "name": "neopets_c26_crackableeaster name",
+        "name": "Paskalya Neopets Yumurtası",
         "description": "neopets_c26_crackableeaster desc"
       },
       {
         "code": "neopets_c26_crackableeasterb",
-        "name": "neopets_c26_crackableeasterb name",
+        "name": "Paskalya Neopets Yumurtası",
         "description": "neopets_c26_crackableeasterb desc"
       },
       {
@@ -86208,17 +86213,17 @@
       },
       {
         "code": "neopets_c26_draik1",
-        "name": "neopets_c26_draik1 name",
+        "name": "Draik",
         "description": "neopets_c26_draik1 desc"
       },
       {
         "code": "neopets_c26_draik2",
-        "name": "neopets_c26_draik2 name",
+        "name": "Hayalet Draik",
         "description": "neopets_c26_draik2 desc"
       },
       {
         "code": "neopets_c26_draik3",
-        "name": "neopets_c26_draik3 name",
+        "name": "Maraquan Draik",
         "description": "neopets_c26_draik3 desc"
       },
       {
@@ -86233,17 +86238,17 @@
       },
       {
         "code": "neopets_c26_kacheek1",
-        "name": "neopets_c26_kacheek1 name",
+        "name": "Kacheek",
         "description": "neopets_c26_kacheek1 desc"
       },
       {
         "code": "neopets_c26_kacheek2",
-        "name": "neopets_c26_kacheek2 name",
+        "name": "Disko Kacheek",
         "description": "neopets_c26_kacheek2 desc"
       },
       {
         "code": "neopets_c26_kacheek3",
-        "name": "neopets_c26_kacheek3 name",
+        "name": "Mutant Kacheek",
         "description": "neopets_c26_kacheek3 desc"
       },
       {
@@ -86268,17 +86273,17 @@
       },
       {
         "code": "neopets_c26_uni1",
-        "name": "neopets_c26_uni1 name",
+        "name": "Uni",
         "description": "neopets_c26_uni1 desc"
       },
       {
         "code": "neopets_c26_uni2",
-        "name": "neopets_c26_uni2 name",
+        "name": "Kraliyet Kızı Uni",
         "description": "neopets_c26_uni2 desc"
       },
       {
         "code": "neopets_c26_uni3",
-        "name": "neopets_c26_uni3 name",
+        "name": "Tahta Uni",
         "description": "neopets_c26_uni3 desc"
       },
       {
@@ -86288,17 +86293,17 @@
       },
       {
         "code": "neopets_c26_xweetok1",
-        "name": "neopets_c26_xweetok1 name",
+        "name": "Xweetok",
         "description": "neopets_c26_xweetok1 desc"
       },
       {
         "code": "neopets_c26_xweetok2",
-        "name": "neopets_c26_xweetok2 name",
+        "name": "Darigan Xweetok",
         "description": "neopets_c26_xweetok2 desc"
       },
       {
         "code": "neopets_c26_xweetok3",
-        "name": "neopets_c26_xweetok3 name",
+        "name": "Pastel Xweetok",
         "description": "neopets_c26_xweetok3 desc"
       },
       {
@@ -92242,6 +92247,11 @@
         "description": "nft_h26_alarmboombox desc"
       },
       {
+        "code": "nft_h26_aprilshrimp",
+        "name": "nft_h26_aprilshrimp name",
+        "description": "nft_h26_aprilshrimp desc"
+      },
+      {
         "code": "nft_h26_bedtray",
         "name": "Yatak Tepsisi",
         "description": "nft_h26_bedtray desc"
@@ -92263,7 +92273,7 @@
       },
       {
         "code": "nft_h26_bronzeelf",
-        "name": "nft_h26_bronzeelf name",
+        "name": "Bronz Elf",
         "description": "nft_h26_bronzeelf desc"
       },
       {
@@ -92273,32 +92283,32 @@
       },
       {
         "code": "nft_h26_dngbattlerockingchair",
-        "name": "nft_h26_dngbattlerockingchair name",
+        "name": "Dungeon Sallanan Sandalye",
         "description": "nft_h26_dngbattlerockingchair desc"
       },
       {
         "code": "nft_h26_dngbbq",
-        "name": "nft_h26_dngbbq name",
+        "name": "Dungeon Barbekü",
         "description": "nft_h26_dngbbq desc"
       },
       {
         "code": "nft_h26_dngdragonsofa",
-        "name": "nft_h26_dngdragonsofa name",
+        "name": "Dungeon Kanepesi",
         "description": "nft_h26_dngdragonsofa desc"
       },
       {
         "code": "nft_h26_dngpillar",
-        "name": "nft_h26_dngpillar name",
+        "name": "Dungeon Sütun",
         "description": "nft_h26_dngpillar desc"
       },
       {
         "code": "nft_h26_dngstool",
-        "name": "nft_h26_dngstool name",
+        "name": "Dungeon Tabure",
         "description": "nft_h26_dngstool desc"
       },
       {
         "code": "nft_h26_dngtable",
-        "name": "nft_h26_dngtable name",
+        "name": "Dungeon Masa",
         "description": "nft_h26_dngtable desc"
       },
       {
@@ -92338,7 +92348,7 @@
       },
       {
         "code": "nft_h26_goldelf",
-        "name": "nft_h26_goldelf name",
+        "name": "Altın Elf",
         "description": "nft_h26_goldelf desc"
       },
       {
@@ -92403,7 +92413,7 @@
       },
       {
         "code": "nft_h26_silverelf",
-        "name": "nft_h26_silverelf name",
+        "name": "Gümüş Elf",
         "description": "nft_h26_silverelf desc"
       },
       {
@@ -92418,7 +92428,7 @@
       },
       {
         "code": "nft_h26_trippyelf",
-        "name": "nft_h26_trippyelf name",
+        "name": "Trip Elf",
         "description": "nft_h26_trippyelf desc"
       },
       {
@@ -93633,17 +93643,17 @@
       },
       {
         "code": "nft_sc_elvenstatue1",
-        "name": "nft_sc_elvenstatue1 name",
+        "name": "Elf Ana Heykeli",
         "description": "nft_sc_elvenstatue1 desc"
       },
       {
         "code": "nft_sc_elvenstatue2",
-        "name": "nft_sc_elvenstatue2 name",
+        "name": "Elf Baba Heykeli",
         "description": "nft_sc_elvenstatue2 desc"
       },
       {
         "code": "nft_sc_elvenstatue3",
-        "name": "nft_sc_elvenstatue3 name",
+        "name": "Genç Elf Heykeli",
         "description": "nft_sc_elvenstatue3 desc"
       },
       {
@@ -115963,17 +115973,17 @@
       },
       {
         "code": "sc_elvenstatue1",
-        "name": "sc_elvenstatue1 name",
+        "name": "Elf Ana Heykeli",
         "description": "sc_elvenstatue1 desc"
       },
       {
         "code": "sc_elvenstatue2",
-        "name": "sc_elvenstatue2 name",
+        "name": "Elf Baba Heykeli",
         "description": "sc_elvenstatue2 desc"
       },
       {
         "code": "sc_elvenstatue3",
-        "name": "sc_elvenstatue3 name",
+        "name": "Genç Elf Heykeli",
         "description": "sc_elvenstatue3 desc"
       },
       {
