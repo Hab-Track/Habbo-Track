@@ -117328,117 +117328,117 @@
       },
       {
         "code": "wf_xtra_anim_time",
-        "name": "ACCESSORIO WIRED: Tempo di Animazione",
+        "name": "Accessorio WIRED: Tempo di Animazione",
         "description": "wf_xtra_anim_time desc"
       },
       {
         "code": "wf_xtra_custom_contract",
-        "name": "Componente Aggiuntivo WIRED: Contratto Personalizzato",
+        "name": "Accessorio WIRED: Contratto Personalizzato",
         "description": "wf_xtra_custom_contract desc"
       },
       {
         "code": "wf_xtra_exec_in_order",
-        "name": "AGGIUNTA: Esegui in ordine",
+        "name": "Accessorio WIRED: Esegui in ordine",
         "description": "wf_xtra_exec_in_order desc"
       },
       {
         "code": "wf_xtra_execution_limit",
-        "name": "ACCESSORIO WIRED: Limite di Esecuzione",
+        "name": "Accessorio WIRED: Limite di Esecuzione",
         "description": "wf_xtra_execution_limit desc"
       },
       {
         "code": "wf_xtra_filter_furni_by_var",
-        "name": "Filtro: Furni con la variabile più alta/bassa",
+        "name": "Filtro WIRED: Furni con la variabile più alta/bassa",
         "description": "wf_xtra_filter_furni_by_var desc"
       },
       {
         "code": "wf_xtra_filter_furni",
-        "name": "FILTRO: Filtro a X Furni",
+        "name": "Filtro WIRED: Filtro a X Furni",
         "description": "wf_xtra_filter_furni desc"
       },
       {
         "code": "wf_xtra_filter_users_by_var",
-        "name": "Filtro: Utenti con la variabile più alta/bassa",
+        "name": "Filtro WIRED: Utenti con la variabile più alta/bassa",
         "description": "wf_xtra_filter_users_by_var desc"
       },
       {
         "code": "wf_xtra_filter_users",
-        "name": "FILTRO: Filtro a X Utenti",
+        "name": "Filtro WIRED: Filtro a X Utenti",
         "description": "wf_xtra_filter_users desc"
       },
       {
         "code": "wf_xtra_mov_carry_users",
-        "name": "ACCESSORIO WIRED: Trasporta Utenti",
+        "name": "Accessorio WIRED: Trasporta Utenti",
         "description": "wf_xtra_mov_carry_users desc"
       },
       {
         "code": "wf_xtra_mov_no_animation",
-        "name": "ACCESSORIO WIRED: Annulla l'Animazione di Spostamento",
+        "name": "Accessorio WIRED: Annulla l'Animazione di Spostamento",
         "description": "wf_xtra_mov_no_animation desc"
       },
       {
         "code": "wf_xtra_mov_physics",
-        "name": "ACCESSORIO WIRED: Fisica del Movimento",
+        "name": "Accessorio WIRED: Fisica del Movimento",
         "description": "wf_xtra_mov_physics desc"
       },
       {
         "code": "wf_xtra_or_eval",
-        "name": "ACCESSORIO WIRED: Almeno una condizione è vera",
+        "name": "Accessorio WIRED: Almeno una condizione è vera",
         "description": "wf_xtra_or_eval desc"
       },
       {
         "code": "wf_xtra_random",
-        "name": "ACCESSORIO WIRED: Effetto Casuale",
+        "name": "Accessorio WIRED: Effetto Casuale",
         "description": "Nella pila a cui appartiene innesca un Effetto scelto casualmente."
       },
       {
         "code": "wf_xtra_rotate_to_dir",
-        "name": "Componente aggiuntivo WIRED: Proiettile",
+        "name": "Accessorio WIRED: Proiettile",
         "description": ""
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",
-        "name": "Componente Aggiuntivo Scanner WIRED: Scrigno con Furni di Tipo",
+        "name": "Accessorio Scanner WIRED: Scrigno con Furni di Tipo",
         "description": "wf_xtra_scan_chest_furni_by_type desc"
       },
       {
         "code": "wf_xtra_text_input_variable",
-        "name": "ACCESSORIO DI TESTO: Catturatore Variabile",
+        "name": "Accessorio di Testo WIRED: Catturatore Variabile",
         "description": "wf_xtra_text_input_variable desc"
       },
       {
         "code": "wf_xtra_text_output_furni_name",
-        "name": "Componente Aggiuntivo Testo WIRED: Placeholder nome Furni",
+        "name": "Accessorio di Testo WIRED: Placeholder nome Furni",
         "description": "wf_xtra_text_output_furni_name desc"
       },
       {
         "code": "wf_xtra_text_output_username",
-        "name": "ACCESSORIO DI TESTO: Placeholder nome utente",
+        "name": "Accessorio di Testo WIRED: Placeholder nome utente",
         "description": "wf_xtra_text_output_username desc"
       },
       {
         "code": "wf_xtra_text_output_variable",
-        "name": "ACCESSORIO DI TESTO: Placeholder Variabile",
+        "name": "Accessorio di Testo WIRED: Placeholder Variabile",
         "description": "wf_xtra_text_output_variable desc"
       },
       {
         "code": "wf_xtra_unseen",
-        "name": "ACCESSORIO WIRED: effetto mai visto!",
+        "name": "Accessorio WIRED: effetto mai visto!",
         "description": "Nella pila a cui appartiene innesca un Effetto inutilizzato in precedenza."
       },
       {
         "code": "wf_xtra_var_lvlup_system",
-        "name": "Componente aggiuntivo variabile: Sistema Level-up",
+        "name": "Accessorio Variabile: Sistema Level-up",
         "description": "wf_xtra_var_lvlup_system desc"
       },
       {
         "code": "wf_xtra_var_text_connector",
-        "name": "Aggiunta Variabile: Connettore di Testo",
+        "name": "Accessorio Variabile: Connettore di Testo",
         "description": "wf_xtra_var_text_connector desc"
       },
       {
         "code": "wf_xtra_var_time_util",
-        "name": "Componente aggiuntivo variabile: Strumenti gestione Tempo",
+        "name": "Accessorio Variabile: Strumenti gestione Tempo",
         "description": "wf_xtra_var_time_util desc"
       },
       {
