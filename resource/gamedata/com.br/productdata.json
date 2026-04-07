@@ -98857,6 +98857,11 @@
         "description": "room_invisible_click_tile desc"
       },
       {
+        "code": "room_invisible_lay_tile",
+        "name": "room_invisible_lay_tile name",
+        "description": "room_invisible_lay_tile desc"
+      },
+      {
         "code": "room_invisible_sit_tile",
         "name": "Piso cadeira invisível",
         "description": "room_invisible_sit_tile desc"
@@ -116007,6 +116012,11 @@
         "description": "Este efeito move o mobi para o usuário mais próximo dele na mesma linha ou coluna. Se tiver um usuário próximo a este mobi, o DISPARADOR WIRED: Batida irá ativar."
       },
       {
+        "code": "wf_act_click_conf",
+        "name": "wf_act_click_conf name",
+        "description": "wf_act_click_conf desc"
+      },
+      {
         "code": "wf_act_control_clock",
         "name": "EFEITO WIRED: Controlar Cronômetro",
         "description": "wf_act_control_clock desc"
@@ -117232,6 +117242,11 @@
         "description": "wf_xtra_mov_carry_users desc"
       },
       {
+        "code": "wf_xtra_mov_curve",
+        "name": "wf_xtra_mov_curve name",
+        "description": "wf_xtra_mov_curve desc"
+      },
+      {
         "code": "wf_xtra_mov_no_animation",
         "name": "WIRED EXTRA: Cancelar Animação de Movimento",
         "description": "wf_xtra_mov_no_animation desc"
@@ -117254,7 +117269,7 @@
       {
         "code": "wf_xtra_rotate_to_dir",
         "name": "Add-on Wired: Projétil",
-        "description": ""
+        "description": "wf_xtra_rotate_to_dir desc"
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",

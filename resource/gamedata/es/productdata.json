@@ -98497,6 +98497,11 @@
         "description": "room_invisible_click_tile desc"
       },
       {
+        "code": "room_invisible_lay_tile",
+        "name": "room_invisible_lay_tile name",
+        "description": "room_invisible_lay_tile desc"
+      },
+      {
         "code": "room_invisible_sit_tile",
         "name": "Baldosa Invisible: Silla",
         "description": "room_invisible_sit_tile desc"
@@ -115647,6 +115652,11 @@
         "description": "Este Efecto acerca los Furni seleccionados al usuario más cercano que se encuentre en la misma fila o columna. Se activará si hay un usuario junto al Furni más el 'Causante WIRED: Colisión'."
       },
       {
+        "code": "wf_act_click_conf",
+        "name": "wf_act_click_conf name",
+        "description": "wf_act_click_conf desc"
+      },
+      {
         "code": "wf_act_control_clock",
         "name": "Efecto WIRED: Control de Contador",
         "description": "wf_act_control_clock desc"
@@ -116872,6 +116882,11 @@
         "description": "wf_xtra_mov_carry_users desc"
       },
       {
+        "code": "wf_xtra_mov_curve",
+        "name": "wf_xtra_mov_curve name",
+        "description": "wf_xtra_mov_curve desc"
+      },
+      {
         "code": "wf_xtra_mov_no_animation",
         "name": "Complemento WIRED: Cancelar Animación de Movimiento",
         "description": "wf_xtra_mov_no_animation desc"
@@ -116894,7 +116909,7 @@
       {
         "code": "wf_xtra_rotate_to_dir",
         "name": "Complemento WIRED: proyectil",
-        "description": ""
+        "description": "wf_xtra_rotate_to_dir desc"
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",

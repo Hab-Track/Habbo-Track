@@ -98977,6 +98977,11 @@
         "description": "room_invisible_click_tile desc"
       },
       {
+        "code": "room_invisible_lay_tile",
+        "name": "room_invisible_lay_tile name",
+        "description": "room_invisible_lay_tile desc"
+      },
+      {
         "code": "room_invisible_sit_tile",
         "name": "Casella Sedia Invisibile",
         "description": "room_invisible_sit_tile desc"
@@ -116137,6 +116142,11 @@
         "description": "L'Effetto muove il Furni verso l'Habbo più vicino, se nella stessa riga o colonna. Se un Habbo è su una casella accanto, l'INNESCO WIRED: Scontro verrà attivato."
       },
       {
+        "code": "wf_act_click_conf",
+        "name": "wf_act_click_conf name",
+        "description": "wf_act_click_conf desc"
+      },
+      {
         "code": "wf_act_control_clock",
         "name": "EFFETTO: Contatore di Controllo",
         "description": "wf_act_control_clock desc"
@@ -117377,6 +117387,11 @@
         "description": "wf_xtra_mov_carry_users desc"
       },
       {
+        "code": "wf_xtra_mov_curve",
+        "name": "wf_xtra_mov_curve name",
+        "description": "wf_xtra_mov_curve desc"
+      },
+      {
         "code": "wf_xtra_mov_no_animation",
         "name": "Accessorio WIRED: Annulla l'Animazione di Spostamento",
         "description": "wf_xtra_mov_no_animation desc"
@@ -117399,7 +117414,7 @@
       {
         "code": "wf_xtra_rotate_to_dir",
         "name": "Accessorio WIRED: Proiettile",
-        "description": ""
+        "description": "wf_xtra_rotate_to_dir desc"
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",

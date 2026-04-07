@@ -97987,6 +97987,11 @@
         "description": "room_invisible_click_tile desc"
       },
       {
+        "code": "room_invisible_lay_tile",
+        "name": "room_invisible_lay_tile name",
+        "description": "room_invisible_lay_tile desc"
+      },
+      {
         "code": "room_invisible_sit_tile",
         "name": "Unsichtbare Stuhlfliese",
         "description": "room_invisible_sit_tile desc"
@@ -115097,6 +115102,11 @@
         "description": "Dieser Effekt bewegt die Möbel zum Habbo, der sich am nächsten in der selben Reihe befindet. Wenn sich ein Habbo neben diesem Möbel befindet, wird der Wired Auslöser: Kollision aktiviert."
       },
       {
+        "code": "wf_act_click_conf",
+        "name": "wf_act_click_conf name",
+        "description": "wf_act_click_conf desc"
+      },
+      {
         "code": "wf_act_control_clock",
         "name": "WIRED Effekt: Timer bedienen",
         "description": ""
@@ -116322,6 +116332,11 @@
         "description": "wf_xtra_mov_carry_users desc"
       },
       {
+        "code": "wf_xtra_mov_curve",
+        "name": "wf_xtra_mov_curve name",
+        "description": "wf_xtra_mov_curve desc"
+      },
+      {
         "code": "wf_xtra_mov_no_animation",
         "name": "WIRED Extra: Bewegungsanimation ausschalten",
         "description": "wf_xtra_mov_no_animation desc"
@@ -116344,7 +116359,7 @@
       {
         "code": "wf_xtra_rotate_to_dir",
         "name": "WIRED Add-on: Projektil",
-        "description": ""
+        "description": "wf_xtra_rotate_to_dir desc"
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",

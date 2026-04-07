@@ -98702,6 +98702,11 @@
         "description": "room_invisible_click_tile desc"
       },
       {
+        "code": "room_invisible_lay_tile",
+        "name": "room_invisible_lay_tile name",
+        "description": "room_invisible_lay_tile desc"
+      },
+      {
         "code": "room_invisible_sit_tile",
         "name": "Onzichtbare Stoeltegel",
         "description": "room_invisible_sit_tile desc"
@@ -115962,6 +115967,11 @@
         "description": "Dit effect beweegt de meubi naar de dichtstbijzijnde speler in de zelfde rij of kolom. Als er een user naast deze meubi staat, dan wordt de Wired Actie: user item botsing geactiveerd."
       },
       {
+        "code": "wf_act_click_conf",
+        "name": "wf_act_click_conf name",
+        "description": "wf_act_click_conf desc"
+      },
+      {
         "code": "wf_act_control_clock",
         "name": "WIRED Reactie: Beheer Timer",
         "description": "wf_act_control_clock desc"
@@ -117197,6 +117207,11 @@
         "description": "wf_xtra_mov_carry_users desc"
       },
       {
+        "code": "wf_xtra_mov_curve",
+        "name": "wf_xtra_mov_curve name",
+        "description": "wf_xtra_mov_curve desc"
+      },
+      {
         "code": "wf_xtra_mov_no_animation",
         "name": "WIRED Add-on: Annuleer Bewegingsanimatie",
         "description": "wf_xtra_mov_no_animation desc"
@@ -117219,7 +117234,7 @@
       {
         "code": "wf_xtra_rotate_to_dir",
         "name": "WIRED Add-On: Projectiel",
-        "description": ""
+        "description": "wf_xtra_rotate_to_dir desc"
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",

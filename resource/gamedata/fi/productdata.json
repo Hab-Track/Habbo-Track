@@ -98917,6 +98917,11 @@
         "description": "room_invisible_click_tile desc"
       },
       {
+        "code": "room_invisible_lay_tile",
+        "name": "room_invisible_lay_tile name",
+        "description": "room_invisible_lay_tile desc"
+      },
+      {
         "code": "room_invisible_sit_tile",
         "name": "Näkymätön istumaruutu",
         "description": "room_invisible_sit_tile desc"
@@ -116027,6 +116032,11 @@
         "description": "Toiminto liikuttaa tavaroita kohti lähintä samalla vaaka- tai pystyrivillä olevaa käyttäjää. Jos käyttäjä on kyseisen tavaran vieressä, 'Wired-laukaisin: Yhteentörmäys' aktivoituu."
       },
       {
+        "code": "wf_act_click_conf",
+        "name": "wf_act_click_conf name",
+        "description": "wf_act_click_conf desc"
+      },
+      {
         "code": "wf_act_control_clock",
         "name": "Wired-toiminto: Hallitse ajastinta",
         "description": "wf_act_control_clock desc"
@@ -117252,6 +117262,11 @@
         "description": "wf_xtra_mov_carry_users desc"
       },
       {
+        "code": "wf_xtra_mov_curve",
+        "name": "wf_xtra_mov_curve name",
+        "description": "wf_xtra_mov_curve desc"
+      },
+      {
         "code": "wf_xtra_mov_no_animation",
         "name": "Wired-lisä: Peruuta liikkeen animaatio",
         "description": "wf_xtra_mov_no_animation desc"
@@ -117274,7 +117289,7 @@
       {
         "code": "wf_xtra_rotate_to_dir",
         "name": "Wired-lisä: Ammus",
-        "description": ""
+        "description": "wf_xtra_rotate_to_dir desc"
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",

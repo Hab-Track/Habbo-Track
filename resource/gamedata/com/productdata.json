@@ -105517,6 +105517,11 @@
         "description": "room_invisible_click_tile desc"
       },
       {
+        "code": "room_invisible_lay_tile",
+        "name": "room_invisible_lay_tile name",
+        "description": "room_invisible_lay_tile desc"
+      },
+      {
         "code": "room_invisible_sit_tile",
         "name": "Invisible Chair Tile",
         "description": "room_invisible_sit_tile desc"
@@ -123117,6 +123122,11 @@
         "description": "This Effect moves the Furnis towards nearest user in the same row or column. If there is a user next to this furni, WIRED Trigger: User stuff collision will activate."
       },
       {
+        "code": "wf_act_click_conf",
+        "name": "wf_act_click_conf name",
+        "description": "wf_act_click_conf desc"
+      },
+      {
         "code": "wf_act_control_clock",
         "name": "Wired Effect: Control counter",
         "description": "wf_act_control_clock desc"
@@ -124352,6 +124362,11 @@
         "description": "wf_xtra_mov_carry_users desc"
       },
       {
+        "code": "wf_xtra_mov_curve",
+        "name": "wf_xtra_mov_curve name",
+        "description": "wf_xtra_mov_curve desc"
+      },
+      {
         "code": "wf_xtra_mov_no_animation",
         "name": "WIRED Add-on: Cancel Move Animation",
         "description": "wf_xtra_mov_no_animation desc"
@@ -124374,7 +124389,7 @@
       {
         "code": "wf_xtra_rotate_to_dir",
         "name": "WIRED Add-on: Projectile",
-        "description": ""
+        "description": "wf_xtra_rotate_to_dir desc"
       },
       {
         "code": "wf_xtra_scan_chest_furni_by_type",
