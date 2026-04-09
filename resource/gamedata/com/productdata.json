@@ -105588,7 +105588,7 @@
       },
       {
         "code": "room_invisible_lay_tile",
-        "name": "room_invisible_lay_tile name",
+        "name": "Invisible Bed Tile",
         "description": "room_invisible_lay_tile desc"
       },
       {
@@ -113767,8 +113767,18 @@
         "description": ""
       },
       {
+        "code": "seasonal_pack1_new",
+        "name": "Seasonal Pack I (500 SC)",
+        "description": ""
+      },
+      {
         "code": "seasonal_pack2",
         "name": "Seasonal Pack II (1,000 SC)",
+        "description": ""
+      },
+      {
+        "code": "seasonal_pack2_new",
+        "name": "Seasonal Pack II (1000 SC)",
         "description": ""
       },
       {
@@ -123193,7 +123203,7 @@
       },
       {
         "code": "wf_act_click_conf",
-        "name": "wf_act_click_conf name",
+        "name": "WIRED Effect: Set Clicking Configurations",
         "description": "wf_act_click_conf desc"
       },
       {
@@ -124433,7 +124443,7 @@
       },
       {
         "code": "wf_xtra_mov_curve",
-        "name": "wf_xtra_mov_curve name",
+        "name": "WIRED Add-on: Movement Curve",
         "description": "wf_xtra_mov_curve desc"
       },
       {

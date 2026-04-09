@@ -35038,7 +35038,7 @@
       },
       {
         "code": "clothing_ducketbearbag",
-        "name": "Cuddly Bear Backpack",
+        "name": "Kuscheliger Bärenrucksack",
         "description": "clothing_ducketbearbag desc"
       },
       {
@@ -51828,7 +51828,7 @@
       },
       {
         "code": "ducket_c26_honeyfountain",
-        "name": "Honey Fountain",
+        "name": "Honigbrunnen",
         "description": "ducket_c26_honeyfountain desc"
       },
       {
@@ -51843,7 +51843,7 @@
       },
       {
         "code": "ducket_c26_honeypot",
-        "name": "Pot of Honey",
+        "name": "Honigtopf",
         "description": "ducket_c26_honeypot desc"
       },
       {
@@ -51853,7 +51853,7 @@
       },
       {
         "code": "ducket_c26_honeyvase",
-        "name": "Windowsill Sunflowers",
+        "name": "Fensterbank-Sonnenblumen",
         "description": "ducket_c26_honeyvase desc"
       },
       {
@@ -51878,7 +51878,7 @@
       },
       {
         "code": "ducket_dia_honeyfountain",
-        "name": "Honey Fountain",
+        "name": "Honigbrunnen",
         "description": ""
       },
       {
@@ -51893,12 +51893,12 @@
       },
       {
         "code": "ducket_dia_honeypot",
-        "name": "Pot of Honey",
+        "name": "Honigtopf",
         "description": ""
       },
       {
         "code": "ducket_dia_honeyvase",
-        "name": "Windowsill Sunflowers",
+        "name": "Fensterbank-Sonnenblumen",
         "description": ""
       },
       {
@@ -98058,7 +98058,7 @@
       },
       {
         "code": "room_invisible_lay_tile",
-        "name": "room_invisible_lay_tile name",
+        "name": "Unsichtbare Bettfliese",
         "description": "room_invisible_lay_tile desc"
       },
       {
@@ -106227,8 +106227,18 @@
         "description": ""
       },
       {
+        "code": "seasonal_pack1_new",
+        "name": "Seasonal Pack I (500 SC)",
+        "description": ""
+      },
+      {
         "code": "seasonal_pack2",
         "name": "Saisonpack II (1,000 SC)",
+        "description": ""
+      },
+      {
+        "code": "seasonal_pack2_new",
+        "name": "Seasonal Pack II (1000 SC)",
         "description": ""
       },
       {
@@ -115173,7 +115183,7 @@
       },
       {
         "code": "wf_act_click_conf",
-        "name": "wf_act_click_conf name",
+        "name": "WIRED-Effekt: Klickeinstellungen festlegen",
         "description": "wf_act_click_conf desc"
       },
       {
@@ -116403,7 +116413,7 @@
       },
       {
         "code": "wf_xtra_mov_curve",
-        "name": "wf_xtra_mov_curve name",
+        "name": "WIRED Extra: Bewegungskurve",
         "description": "wf_xtra_mov_curve desc"
       },
       {
