@@ -30493,7 +30493,7 @@
       },
       {
         "code": "book_rare_0",
-        "name": "Tietämisen Kirja (Punainen)",
+        "name": "Tietokirja (punainen)",
         "description": "Kaikki muodista, muotihirmuille."
       },
       {
@@ -30518,42 +30518,42 @@
       },
       {
         "code": "book_rare_3",
-        "name": "Tietämisen Kirja (Violetti)",
+        "name": "Tietokirja (violetti)",
         "description": "Lukutoukille"
       },
       {
         "code": "book_rare_4",
-        "name": "Tietämisen Kirja (Vaaleanpunainen)",
+        "name": "Tietokirja (vaaleanpunainen)",
         "description": "book_rare_4 desc"
       },
       {
         "code": "book_rare_5_bd",
-        "name": "Tietämisen Kirja (Oliivi)",
+        "name": "Tietokirja (oliivi)",
         "description": ""
       },
       {
         "code": "book_rare_5",
-        "name": "Tietämisen Kirja (Oliivi)",
+        "name": "Tietokirja (oliivi)",
         "description": "book_rare_5 desc"
       },
       {
         "code": "book_rare_6",
-        "name": "Tietämisen Kirja (Oranssi)",
+        "name": "Tietokirja (oranssi)",
         "description": "book_rare_6 desc"
       },
       {
         "code": "book_rare_7",
-        "name": "Tietämisen Kirja (Ruskea)",
+        "name": "Tietokirja (ruskea)",
         "description": "book_rare_7 desc"
       },
       {
         "code": "book_rare_8_bd",
-        "name": "Tietämisen Kirja (Aqua)",
+        "name": "Tietokirja (turkoosi)",
         "description": ""
       },
       {
         "code": "book_rare_8",
-        "name": "Tietämisen Kirja (Aqua)",
+        "name": "Tietokirja (turkoosi)",
         "description": "book_rare_8 desc"
       },
       {
@@ -30563,7 +30563,7 @@
       },
       {
         "code": "book_rare_9",
-        "name": "Tietämisen Kirja (Shokkipinkki)",
+        "name": "Tietokirja (pinkki)",
         "description": "book_rare_9 desc"
       },
       {
@@ -61718,13 +61718,13 @@
       },
       {
         "code": "hblooza_bubblejuice_badge",
-        "name": "Bobbamehu-ständi",
+        "name": "Kuplajuomakiska",
         "description": ""
       },
       {
         "code": "hblooza_bubblejuice",
-        "name": "Bobbamehu -kioski",
-        "description": "Hae bobbamehusi täältä!"
+        "name": "Kuplajuomakiska",
+        "description": "Hae kuplajuomasi täältä!"
       },
       {
         "code": "hblooza_candyfloss",
@@ -61843,12 +61843,12 @@
       },
       {
         "code": "hblooza_popcorn_badge",
-        "name": "Popcorn Stand",
+        "name": "Popparikiska",
         "description": ""
       },
       {
         "code": "hblooza_popcorn",
-        "name": "Popcorn-kioski",
+        "name": "Popparikiska",
         "description": "Hae popcornisi täältä!"
       },
       {
@@ -76333,7 +76333,7 @@
       },
       {
         "code": "mystics_bthrone",
-        "name": "Pahuus-istuin",
+        "name": "Pahuusistuin",
         "description": "Vain tuhmimmille Habboille."
       },
       {
@@ -76418,7 +76418,7 @@
       },
       {
         "code": "mystics_gthrone",
-        "name": "Hyvyys-istuin",
+        "name": "Hyvyysistuin",
         "description": "Vain kivoimmille Habboille."
       },
       {
@@ -78693,22 +78693,22 @@
       },
       {
         "code": "nft_book_rare_3",
-        "name": "Tietämisen Kirja (Violetti)",
+        "name": "Tietokirja (violetti)",
         "description": "Lukutoukille"
       },
       {
         "code": "nft_book_rare_4",
-        "name": "Tietämisen Kirja (Vaaleanpunainen)",
+        "name": "Tietokirja (vaaleanpunainen)",
         "description": "book_rare_4 desc"
       },
       {
         "code": "nft_book_rare_5",
-        "name": "Tietämisen Kirja (Oliivi)",
+        "name": "Tietokirja (oliivi)",
         "description": "book_rare_5 desc"
       },
       {
         "code": "nft_book_rare_6",
-        "name": "Tietämisen Kirja (Oranssi)",
+        "name": "Tietokirja (oranssi)",
         "description": "book_rare_6 desc"
       },
       {
@@ -78723,7 +78723,7 @@
       },
       {
         "code": "nft_book_rare_9",
-        "name": "Tietämisen Kirja (Shokkipinkki)",
+        "name": "Tietokirja (pinkki)",
         "description": "book_rare_9 desc"
       },
       {
@@ -108873,13 +108873,13 @@
       },
       {
         "code": "st_uni_labtable_badge",
-        "name": "Labran pöytä",
-        "description": "Eureka! Kaava toimii..."
+        "name": "Labrapöytä",
+        "description": "formula"
       },
       {
         "code": "st_uni_labtable",
-        "name": "Labran pöytä",
-        "description": "Eureka! Kaava toimii..."
+        "name": "Labrapöytä",
+        "description": "formula"
       },
       {
         "code": "st_uni_ooze",
