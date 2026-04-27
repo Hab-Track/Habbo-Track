@@ -13162,6 +13162,11 @@
         "description": ""
       },
       {
+        "code": "apr25_kingsday_internal",
+        "name": "Kuninkaan päivä -huonepaketti",
+        "description": ""
+      },
+      {
         "code": "apr25shark",
         "name": "Haipehmolelu",
         "description": ""
@@ -85388,8 +85393,8 @@
       },
       {
         "code": "nl_c25_meatballs",
-        "name": "nl_c25_meatballs name",
-        "description": "nl_c25_meatballs desc"
+        "name": "Bitterballen",
+        "description": "Bitterballen"
       },
       {
         "code": "no24_craftingprize",
@@ -104985,6 +104990,16 @@
         "code": "rotating_roomdeal43",
         "name": "Habbon saaristolomakohde",
         "description": "Karibian lämpöä tihkuva trooppinen huone tuo takuuvarmasti lomatunnelman. Sisältää eksklusiivisen oravan pensaspatsaan!"
+      },
+      {
+        "code": "rotating_roomdeal440_d",
+        "name": "Kuninkaan päivä -huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal440",
+        "name": "Kuninkaan päivä -huonepaketti",
+        "description": "Kuninkaan päivä -huonepaketti"
       },
       {
         "code": "rotating_roomdeal441_10c",

@@ -11853,7 +11853,12 @@
       },
       {
         "code": "apr24_kingsday_internal",
-        "name": "Kingsday Bundle",
+        "name": "Pack Fête du Roi",
+        "description": ""
+      },
+      {
+        "code": "apr25_kingsday_internal",
+        "name": "Pack Fête du Roi",
         "description": ""
       },
       {
@@ -83438,8 +83443,8 @@
       },
       {
         "code": "nl_c25_meatballs",
-        "name": "nl_c25_meatballs name",
-        "description": "nl_c25_meatballs desc"
+        "name": "Bitterballen",
+        "description": "Bitterballen"
       },
       {
         "code": "no24_craftingprize",
@@ -103025,6 +103030,16 @@
         "code": "rotating_roomdeal43",
         "name": "Pack Habbo Hôtel aux Caraïbes",
         "description": "Ce chaleureux appart tropical promet une ambiance festive. Comprend une Sculpture Écureuil EXCLUSIVE !"
+      },
+      {
+        "code": "rotating_roomdeal440_d",
+        "name": "Pack Fête du Roi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal440",
+        "name": "Pack Fête du Roi",
+        "description": "Pack Fête du Roi"
       },
       {
         "code": "rotating_roomdeal441_10c",
