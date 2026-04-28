@@ -12468,7 +12468,7 @@
       },
       {
         "code": "apr25_kingsday_internal",
-        "name": "Kings Day Bundle",
+        "name": "Affare Stanza Giorno del Re",
         "description": ""
       },
       {
@@ -32589,6 +32589,11 @@
       {
         "code": "cl_cheerbearoutfit_bd",
         "name": "Outfit Allegrorsa",
+        "description": ""
+      },
+      {
+        "code": "cl_dia_duckethoneyshirt",
+        "name": "clothing_duckethoneyshirt name",
         "description": ""
       },
       {
@@ -52922,8 +52927,18 @@
         "description": "ducket_c26_sweetflowers desc"
       },
       {
+        "code": "ducket_dia_beeplushie",
+        "name": "ducket_c26_beeplushie name",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_flowerbench",
         "name": "Blooming Bench",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_hivewateringca",
+        "name": "ducket_c26_hivewateringcan name",
         "description": ""
       },
       {
@@ -52944,6 +52959,11 @@
       {
         "code": "ducket_dia_honeypot",
         "name": "Vaso di Miele",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_honeystall",
+        "name": "ducket_c26_honeystall name",
         "description": ""
       },
       {
