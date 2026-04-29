@@ -31802,6 +31802,11 @@
         "description": ""
       },
       {
+        "code": "cl_ltd26_iridescentskin_bd",
+        "name": "Parelmoerkleurige Huid",
+        "description": ""
+      },
+      {
         "code": "cl_nftfestashirt_bd",
         "name": "Feestelijk T-Shirt",
         "description": ""
@@ -31892,6 +31897,16 @@
         "description": ""
       },
       {
+        "code": "cl_r26_iridescentcoat_bd",
+        "name": "Parelmoerkleurige Regenjas",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_lasersword_bd",
+        "name": "Laser Zwaard",
+        "description": ""
+      },
+      {
         "code": "cl_r26_mannequinskin_bd",
         "name": "Paspop Huidskleur",
         "description": ""
@@ -31909,6 +31924,11 @@
       {
         "code": "cl_r26_plushiewings_bd",
         "name": "Vintage Cupido Vleugels",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_roboface_bd",
+        "name": "Schattig Robot Gezicht",
         "description": ""
       },
       {
@@ -36433,7 +36453,7 @@
       },
       {
         "code": "clothing_ltd26_iridescentskin",
-        "name": "clothing_ltd26_iridescentskin name",
+        "name": "Parelmoerkleurige Huid",
         "description": "clothing_ltd26_iridescentskin desc"
       },
       {
@@ -42653,12 +42673,12 @@
       },
       {
         "code": "clothing_r26_iridescentcoat",
-        "name": "clothing_r26_iridescentcoat name",
+        "name": "Parelmoerkleurige Regenjas",
         "description": "clothing_r26_iridescentcoat desc"
       },
       {
         "code": "clothing_r26_lasersword",
-        "name": "clothing_r26_lasersword name",
+        "name": "Laser Zwaard",
         "description": "clothing_r26_lasersword desc"
       },
       {
@@ -42683,7 +42703,7 @@
       },
       {
         "code": "clothing_r26_roboface",
-        "name": "clothing_r26_roboface name",
+        "name": "Schattig Robot Gezicht",
         "description": "clothing_r26_roboface desc"
       },
       {
@@ -51832,13 +51852,23 @@
         "description": "disco_c26_wheels desc"
       },
       {
+        "code": "disco_r26_discotable_bd",
+        "name": "Parelmoerkleurige Draaitafel",
+        "description": ""
+      },
+      {
         "code": "disco_r26_discoturntable",
-        "name": "disco_r26_discoturntable name",
+        "name": "Parelmoerkleurige Draaitafel",
         "description": "disco_r26_discoturntable desc"
       },
       {
+        "code": "disco_r26_sharkzone_bd",
+        "name": "Haaienknuffel Automaat",
+        "description": ""
+      },
+      {
         "code": "disco_r26_sharkzone",
-        "name": "disco_r26_sharkzone name",
+        "name": "Haaienknuffel Automaat",
         "description": "disco_r26_sharkzone desc"
       },
       {

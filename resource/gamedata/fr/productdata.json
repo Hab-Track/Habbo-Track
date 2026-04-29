@@ -31997,6 +31997,11 @@
         "description": ""
       },
       {
+        "code": "cl_ltd26_iridescentskin_bd",
+        "name": "Skin irisée",
+        "description": ""
+      },
+      {
         "code": "cl_nftfestashirt_bd",
         "name": "Chemise de fête",
         "description": ""
@@ -32087,6 +32092,16 @@
         "description": ""
       },
       {
+        "code": "cl_r26_iridescentcoat_bd",
+        "name": "Imperméable irisé",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_lasersword_bd",
+        "name": "Épée laser",
+        "description": ""
+      },
+      {
         "code": "cl_r26_mannequinskin_bd",
         "name": "Skin de mannequin",
         "description": ""
@@ -32104,6 +32119,11 @@
       {
         "code": "cl_r26_plushiewings_bd",
         "name": "Ailes de Cupidon vintage",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_roboface_bd",
+        "name": "Visage de robot mignon",
         "description": ""
       },
       {
@@ -36613,7 +36633,7 @@
       },
       {
         "code": "clothing_ltd26_iridescentskin",
-        "name": "clothing_ltd26_iridescentskin name",
+        "name": "Skin irisée",
         "description": "clothing_ltd26_iridescentskin desc"
       },
       {
@@ -42833,12 +42853,12 @@
       },
       {
         "code": "clothing_r26_iridescentcoat",
-        "name": "clothing_r26_iridescentcoat name",
+        "name": "Imperméable irisé",
         "description": "clothing_r26_iridescentcoat desc"
       },
       {
         "code": "clothing_r26_lasersword",
-        "name": "clothing_r26_lasersword name",
+        "name": "Épée laser",
         "description": "clothing_r26_lasersword desc"
       },
       {
@@ -42863,7 +42883,7 @@
       },
       {
         "code": "clothing_r26_roboface",
-        "name": "clothing_r26_roboface name",
+        "name": "Visage de robot mignon",
         "description": "clothing_r26_roboface desc"
       },
       {
@@ -50292,13 +50312,23 @@
         "description": "disco_c26_wheels desc"
       },
       {
+        "code": "disco_r26_discotable_bd",
+        "name": "Platine vinyle disco irisée",
+        "description": ""
+      },
+      {
         "code": "disco_r26_discoturntable",
-        "name": "disco_r26_discoturntable name",
+        "name": "Platine vinyle disco irisée",
         "description": "disco_r26_discoturntable desc"
       },
       {
+        "code": "disco_r26_sharkzone_bd",
+        "name": "Machine Zone requin",
+        "description": ""
+      },
+      {
         "code": "disco_r26_sharkzone",
-        "name": "disco_r26_sharkzone name",
+        "name": "Machine Zone requin",
         "description": "disco_r26_sharkzone desc"
       },
       {

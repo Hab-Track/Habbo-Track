@@ -32627,6 +32627,11 @@
         "description": ""
       },
       {
+        "code": "cl_ltd26_iridescentskin_bd",
+        "name": "Pelle Iridescente",
+        "description": ""
+      },
+      {
         "code": "cl_nftfestashirt_bd",
         "name": "Blusa Festa",
         "description": ""
@@ -32717,6 +32722,16 @@
         "description": ""
       },
       {
+        "code": "cl_r26_iridescentcoat_bd",
+        "name": "Impermeabile Iridescente",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_lasersword_bd",
+        "name": "Spada Laser",
+        "description": ""
+      },
+      {
         "code": "cl_r26_mannequinskin_bd",
         "name": "Skin Manichino",
         "description": ""
@@ -32734,6 +32749,11 @@
       {
         "code": "cl_r26_plushiewings_bd",
         "name": "Ali di Cupido Vintage",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_roboface_bd",
+        "name": "Faccia Robot Carina",
         "description": ""
       },
       {
@@ -37238,7 +37258,7 @@
       },
       {
         "code": "clothing_ltd26_iridescentskin",
-        "name": "clothing_ltd26_iridescentskin name",
+        "name": "Pelle Iridescente",
         "description": "clothing_ltd26_iridescentskin desc"
       },
       {
@@ -43458,12 +43478,12 @@
       },
       {
         "code": "clothing_r26_iridescentcoat",
-        "name": "clothing_r26_iridescentcoat name",
+        "name": "Impermeabile Iridescente",
         "description": "clothing_r26_iridescentcoat desc"
       },
       {
         "code": "clothing_r26_lasersword",
-        "name": "clothing_r26_lasersword name",
+        "name": "Spada Laser",
         "description": "clothing_r26_lasersword desc"
       },
       {
@@ -43488,7 +43508,7 @@
       },
       {
         "code": "clothing_r26_roboface",
-        "name": "clothing_r26_roboface name",
+        "name": "Faccia Robot Carina",
         "description": "clothing_r26_roboface desc"
       },
       {
@@ -52112,13 +52132,23 @@
         "description": "Per serate alla moda"
       },
       {
+        "code": "disco_r26_discotable_bd",
+        "name": "Giradischi Iridescente",
+        "description": ""
+      },
+      {
         "code": "disco_r26_discoturntable",
-        "name": "disco_r26_discoturntable name",
+        "name": "Giradischi Iridescente",
         "description": "disco_r26_discoturntable desc"
       },
       {
+        "code": "disco_r26_sharkzone_bd",
+        "name": "Macchina Shark Zone",
+        "description": ""
+      },
+      {
         "code": "disco_r26_sharkzone",
-        "name": "disco_r26_sharkzone name",
+        "name": "Macchina Shark Zone",
         "description": "disco_r26_sharkzone desc"
       },
       {
