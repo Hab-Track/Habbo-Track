@@ -33658,7 +33658,7 @@
       },
       {
         "code": "cl_dia_duckethoneyshirt",
-        "name": "clothing_duckethoneyshirt name",
+        "name": "Bal Lekeli Tişört",
         "description": ""
       },
       {
@@ -33689,6 +33689,11 @@
       {
         "code": "cl_ltd23_80sretro_bd",
         "name": "80ler Nostaljisi Kıyafeti",
+        "description": ""
+      },
+      {
+        "code": "cl_ltd26_iridescentskin_bd",
+        "name": "Yanardöner Görünüm",
         "description": ""
       },
       {
@@ -33782,6 +33787,16 @@
         "description": ""
       },
       {
+        "code": "cl_r26_iridescentcoat_bd",
+        "name": "Yanardöner Yağmurluk",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_lasersword_bd",
+        "name": "Lazer Kılıç",
+        "description": ""
+      },
+      {
         "code": "cl_r26_mannequinskin_bd",
         "name": "Manken Görünümü",
         "description": ""
@@ -33799,6 +33814,11 @@
       {
         "code": "cl_r26_plushiewings_bd",
         "name": "Vintage Eros Kanatları",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_roboface_bd",
+        "name": "Tatlı Robot Surat",
         "description": ""
       },
       {
@@ -34863,7 +34883,7 @@
       },
       {
         "code": "clothing_80safro",
-        "name": "clothing_80safro name",
+        "name": "Gösterişli Afro",
         "description": "clothing_80safro desc"
       },
       {
@@ -36133,7 +36153,7 @@
       },
       {
         "code": "clothing_croppedhoodie",
-        "name": "clothing_croppedhoodie name",
+        "name": "Süper Kısa Kapüşonlu",
         "description": "clothing_croppedhoodie desc"
       },
       {
@@ -36548,7 +36568,7 @@
       },
       {
         "code": "clothing_discoboombox",
-        "name": "clothing_discoboombox name",
+        "name": "Disko Boombox",
         "description": "clothing_discoboombox desc"
       },
       {
@@ -36558,7 +36578,7 @@
       },
       {
         "code": "clothing_discoskates",
-        "name": "clothing_discoskates name",
+        "name": "Disko Patenler",
         "description": "clothing_discoskates desc"
       },
       {
@@ -36698,7 +36718,7 @@
       },
       {
         "code": "clothing_duckethoneyshirt",
-        "name": "clothing_duckethoneyshirt name",
+        "name": "Bal Lekeli Tişört",
         "description": "clothing_duckethoneyshirt desc"
       },
       {
@@ -37003,7 +37023,7 @@
       },
       {
         "code": "clothing_fishnetsskirt",
-        "name": "clothing_fishnetsskirt name",
+        "name": "Şık File Etek",
         "description": "clothing_fishnetsskirt desc"
       },
       {
@@ -37638,7 +37658,7 @@
       },
       {
         "code": "clothing_heartbuns",
-        "name": "clothing_heartbuns name",
+        "name": "Kalp Şeklinde Topuzlar",
         "description": "clothing_heartbuns desc"
       },
       {
@@ -37773,7 +37793,7 @@
       },
       {
         "code": "clothing_hockeycut",
-        "name": "clothing_hockeycut name",
+        "name": "Hokey Oyuncusu Saçı",
         "description": "clothing_hockeycut desc"
       },
       {
@@ -37883,17 +37903,17 @@
       },
       {
         "code": "clothing_keychainegg",
-        "name": "clothing_keychainegg name",
+        "name": "Yumurta Anahtarlık",
         "description": "clothing_keychainegg desc"
       },
       {
         "code": "clothing_keychainshark",
-        "name": "clothing_keychainshark name",
+        "name": "Köpekbalığı Anahtarlık",
         "description": "clothing_keychainshark desc"
       },
       {
         "code": "clothing_keychaintoast",
-        "name": "clothing_keychaintoast name",
+        "name": "Tost Anahtarlık",
         "description": "clothing_keychaintoast desc"
       },
       {
@@ -38318,7 +38338,7 @@
       },
       {
         "code": "clothing_ltd26_iridescentskin",
-        "name": "clothing_ltd26_iridescentskin name",
+        "name": "Yanardöner Görünüm",
         "description": "clothing_ltd26_iridescentskin desc"
       },
       {
@@ -39818,7 +39838,7 @@
       },
       {
         "code": "clothing_nftkeytar",
-        "name": "clothing_nftkeytar name",
+        "name": "Anahtavatar",
         "description": "clothing_nftkeytar desc"
       },
       {
@@ -39843,12 +39863,12 @@
       },
       {
         "code": "clothing_nftledbracelet",
-        "name": "clothing_nftledbracelet name",
+        "name": "LED Bileklik",
         "description": "clothing_nftledbracelet desc"
       },
       {
         "code": "clothing_nftledhorns",
-        "name": "clothing_nftledhorns name",
+        "name": "LED Boynuzlu Kafa Bandı",
         "description": "clothing_nftledhorns desc"
       },
       {
@@ -39883,17 +39903,17 @@
       },
       {
         "code": "clothing_nftmayhair1",
-        "name": "clothing_nftmayhair1 name",
+        "name": "Büyük Kabarık Saçlar",
         "description": "clothing_nftmayhair1 desc"
       },
       {
         "code": "clothing_nftmayhair2",
-        "name": "clothing_nftmayhair2 name",
+        "name": "Dikenli Mullet",
         "description": "clothing_nftmayhair2 desc"
       },
       {
         "code": "clothing_nftmayhair3",
-        "name": "clothing_nftmayhair3 name",
+        "name": "Sıkı Lüleler",
         "description": "clothing_nftmayhair3 desc"
       },
       {
@@ -40038,7 +40058,7 @@
       },
       {
         "code": "clothing_nftmusicalnotes",
-        "name": "clothing_nftmusicalnotes name",
+        "name": "Müzik Notaları",
         "description": "clothing_nftmusicalnotes desc"
       },
       {
@@ -40343,12 +40363,12 @@
       },
       {
         "code": "clothing_nftrollerskate",
-        "name": "clothing_nftrollerskate name",
+        "name": "Büyük Paten",
         "description": "clothing_nftrollerskate desc"
       },
       {
         "code": "clothing_nftrollerskatershades",
-        "name": "clothing_nftrollerskatershades name",
+        "name": "Paten Gözlükleri",
         "description": "clothing_nftrollerskatershades desc"
       },
       {
@@ -40838,7 +40858,7 @@
       },
       {
         "code": "clothing_nfttintedglasses",
-        "name": "clothing_nfttintedglasses name",
+        "name": "Renkli Gözlükler",
         "description": "clothing_nfttintedglasses desc"
       },
       {
@@ -41098,7 +41118,7 @@
       },
       {
         "code": "clothing_nftyoyo",
-        "name": "clothing_nftyoyo name",
+        "name": "Hobi Yo-Yo'su",
         "description": "clothing_nftyoyo desc"
       },
       {
@@ -44538,12 +44558,12 @@
       },
       {
         "code": "clothing_r26_iridescentcoat",
-        "name": "clothing_r26_iridescentcoat name",
+        "name": "Yanardöner Yağmurluk",
         "description": "clothing_r26_iridescentcoat desc"
       },
       {
         "code": "clothing_r26_lasersword",
-        "name": "clothing_r26_lasersword name",
+        "name": "Lazer Kılıç",
         "description": "clothing_r26_lasersword desc"
       },
       {
@@ -44568,7 +44588,7 @@
       },
       {
         "code": "clothing_r26_roboface",
-        "name": "clothing_r26_roboface name",
+        "name": "Tatlı Robot Surat",
         "description": "clothing_r26_roboface desc"
       },
       {
@@ -60588,252 +60608,252 @@
       },
       {
         "code": "disco_c26_block",
-        "name": "disco_c26_block name",
+        "name": "Paten Disko Blok",
         "description": "disco_c26_block desc"
       },
       {
         "code": "disco_c26_blueglitterbomb",
-        "name": "disco_c26_blueglitterbomb name",
+        "name": "Mavi Simli Bomba",
         "description": "disco_c26_blueglitterbomb desc"
       },
       {
         "code": "disco_c26_candyheart",
-        "name": "disco_c26_candyheart name",
+        "name": "Kalp Şeklinde Şeker",
         "description": "disco_c26_candyheart desc"
       },
       {
         "code": "disco_c26_craftingdiscoduck",
-        "name": "disco_c26_craftingdiscoduck name",
+        "name": "Üretim Disko Ördeği",
         "description": "disco_c26_craftingdiscoduck desc"
       },
       {
         "code": "disco_c26_discoball",
-        "name": "disco_c26_discoball name",
+        "name": "Yanardöner Disko Topu",
         "description": "disco_c26_discoball desc"
       },
       {
         "code": "disco_c26_discoballb",
-        "name": "disco_c26_discoballb name",
+        "name": "Yanardöner Disko Topu",
         "description": "disco_c26_discoballb desc"
       },
       {
         "code": "disco_c26_divider",
-        "name": "disco_c26_divider name",
+        "name": "Paten Disko Bariyeri",
         "description": "disco_c26_divider desc"
       },
       {
         "code": "disco_c26_dividercorner",
-        "name": "disco_c26_dividercorner name",
+        "name": "Paten Disko Köşe",
         "description": "disco_c26_dividercorner desc"
       },
       {
         "code": "disco_c26_donutlight",
-        "name": "disco_c26_donutlight name",
+        "name": "Donut Duvar Lambası",
         "description": "disco_c26_donutlight desc"
       },
       {
         "code": "disco_c26_floor",
-        "name": "disco_c26_floor name",
+        "name": "Paten Disko Zemini",
         "description": "disco_c26_floor desc"
       },
       {
         "code": "disco_c26_floornutlight",
-        "name": "disco_c26_floornutlight name",
+        "name": "Donut Yer Lambası",
         "description": "disco_c26_floornutlight desc"
       },
       {
         "code": "disco_c26_glitterball",
-        "name": "disco_c26_glitterball name",
+        "name": "Kırılamaz Ayna Top",
         "description": "disco_c26_glitterball desc"
       },
       {
         "code": "disco_c26_goldglitterbomb",
-        "name": "disco_c26_goldglitterbomb name",
+        "name": "Altın Simli Bomba",
         "description": "disco_c26_goldglitterbomb desc"
       },
       {
         "code": "disco_c26_greenglitterbomb",
-        "name": "disco_c26_greenglitterbomb name",
+        "name": "Yeşil Simli Bomba",
         "description": "disco_c26_greenglitterbomb desc"
       },
       {
         "code": "disco_c26_heartglitter",
-        "name": "disco_c26_heartglitter name",
+        "name": "Kalpli Sim",
         "description": "disco_c26_heartglitter desc"
       },
       {
         "code": "disco_c26_helmet",
-        "name": "disco_c26_helmet name",
+        "name": "Paten Kaskı",
         "description": "disco_c26_helmet desc"
       },
       {
         "code": "disco_c26_hexagonblue",
-        "name": "disco_c26_hexagonblue name",
+        "name": "Mavi Altıgen Işık",
         "description": "disco_c26_hexagonblue desc"
       },
       {
         "code": "disco_c26_hexagongreen",
-        "name": "disco_c26_hexagongreen name",
+        "name": "Yeşil Altıgen Işık",
         "description": "disco_c26_hexagongreen desc"
       },
       {
         "code": "disco_c26_hexagonpink",
-        "name": "disco_c26_hexagonpink name",
+        "name": "Pembe Altıgen Işık",
         "description": "disco_c26_hexagonpink desc"
       },
       {
         "code": "disco_c26_hexagonpurple",
-        "name": "disco_c26_hexagonpurple name",
+        "name": "Mor Altıgen Işık",
         "description": "disco_c26_hexagonpurple desc"
       },
       {
         "code": "disco_c26_hexagonyellow",
-        "name": "disco_c26_hexagonyellow name",
+        "name": "Sarı Altıgen Işık",
         "description": "disco_c26_hexagonyellow desc"
       },
       {
         "code": "disco_c26_iridescentstool",
-        "name": "disco_c26_iridescentstool name",
+        "name": "Yanardöner Tabure",
         "description": "disco_c26_iridescentstool desc"
       },
       {
         "code": "disco_c26_jukebox",
-        "name": "disco_c26_jukebox name",
+        "name": "Yanardöner Müzik kutusu",
         "description": "disco_c26_jukebox desc"
       },
       {
         "code": "disco_c26_ledtube",
-        "name": "disco_c26_ledtube name",
+        "name": "Paten Disko Yer Işıkları",
         "description": "disco_c26_ledtube desc"
       },
       {
         "code": "disco_c26_lightbarblue",
-        "name": "disco_c26_lightbarblue name",
+        "name": "Mavi Işık Çubuğu",
         "description": "disco_c26_lightbarblue desc"
       },
       {
         "code": "disco_c26_lightbargreen",
-        "name": "disco_c26_lightbargreen name",
+        "name": "Yeşil Işık Çubuğu",
         "description": "disco_c26_lightbargreen desc"
       },
       {
         "code": "disco_c26_lightbarpink",
-        "name": "disco_c26_lightbarpink name",
+        "name": "Pembe Işık Çubuğu",
         "description": "disco_c26_lightbarpink desc"
       },
       {
         "code": "disco_c26_lightbarpurple",
-        "name": "disco_c26_lightbarpurple name",
+        "name": "Mor Işık Çubuğu",
         "description": "disco_c26_lightbarpurple desc"
       },
       {
         "code": "disco_c26_lightbaryellow",
-        "name": "disco_c26_lightbaryellow name",
+        "name": "Sarı Işık Çubuğu",
         "description": "disco_c26_lightbaryellow desc"
       },
       {
         "code": "disco_c26_lightpoleblue",
-        "name": "disco_c26_lightpoleblue name",
+        "name": "Mavi Işık Direği",
         "description": "disco_c26_lightpoleblue desc"
       },
       {
         "code": "disco_c26_lightpolegreen",
-        "name": "disco_c26_lightpolegreen name",
+        "name": "Yeşil Işık Direği",
         "description": "disco_c26_lightpolegreen desc"
       },
       {
         "code": "disco_c26_lightpolepink",
-        "name": "disco_c26_lightpolepink name",
+        "name": "Pembe Işık Direği",
         "description": "disco_c26_lightpolepink desc"
       },
       {
         "code": "disco_c26_lightpolepurple",
-        "name": "disco_c26_lightpolepurple name",
+        "name": "Mor Işık Direği",
         "description": "disco_c26_lightpolepurple desc"
       },
       {
         "code": "disco_c26_lightpoleyellow",
-        "name": "disco_c26_lightpoleyellow name",
+        "name": "Sarı Işık Direği",
         "description": "disco_c26_lightpoleyellow desc"
       },
       {
         "code": "disco_c26_lightstick",
-        "name": "disco_c26_lightstick name",
+        "name": "Disko Işık Çubuğu",
         "description": "disco_c26_lightstick desc"
       },
       {
         "code": "disco_c26_neonlight1",
-        "name": "disco_c26_neonlight1 name",
+        "name": "Dudak Isırığı Neon Işık",
         "description": "disco_c26_neonlight1 desc"
       },
       {
         "code": "disco_c26_neonlight2",
-        "name": "disco_c26_neonlight2 name",
+        "name": "Paten Neon Işık",
         "description": "disco_c26_neonlight2 desc"
       },
       {
         "code": "disco_c26_neonlight3",
-        "name": "disco_c26_neonlight3 name",
+        "name": "Köpekbalığı Neon Işık",
         "description": "disco_c26_neonlight3 desc"
       },
       {
         "code": "disco_c26_pinkglitterbomb",
-        "name": "disco_c26_pinkglitterbomb name",
+        "name": "Pembe Simli Bomba",
         "description": "disco_c26_pinkglitterbomb desc"
       },
       {
         "code": "disco_c26_purpleglitterbomb",
-        "name": "disco_c26_purpleglitterbomb name",
+        "name": "Mor Simli Bomba",
         "description": "disco_c26_purpleglitterbomb desc"
       },
       {
         "code": "disco_c26_redglitterbomb",
-        "name": "disco_c26_redglitterbomb name",
+        "name": "Kırmızı Simli Bomba",
         "description": "disco_c26_redglitterbomb desc"
       },
       {
         "code": "disco_c26_silverglitterbomb",
-        "name": "disco_c26_silverglitterbomb name",
+        "name": "Gümüş Simli Bomba",
         "description": "disco_c26_silverglitterbomb desc"
       },
       {
         "code": "disco_c26_slay",
-        "name": "disco_c26_slay name",
+        "name": "Slay Tabelası",
         "description": "disco_c26_slay desc"
       },
       {
         "code": "disco_c26_starglitter",
-        "name": "disco_c26_starglitter name",
+        "name": "Yıldızlı Sim",
         "description": "disco_c26_starglitter desc"
       },
       {
         "code": "disco_c26_tile",
-        "name": "disco_c26_tile name",
+        "name": "Paten Disko Karosu",
         "description": "disco_c26_tile desc"
       },
       {
         "code": "disco_c26_tool",
-        "name": "disco_c26_tool name",
+        "name": "Paten Aleti",
         "description": "disco_c26_tool desc"
       },
       {
         "code": "disco_c26_vinyltable",
-        "name": "disco_c26_vinyltable name",
+        "name": "Vinil Plak Masası",
         "description": "disco_c26_vinyltable desc"
       },
       {
         "code": "disco_c26_walkman",
-        "name": "disco_c26_walkman name",
+        "name": "Şık Walkman",
         "description": "disco_c26_walkman desc"
       },
       {
         "code": "disco_c26_wall",
-        "name": "disco_c26_wall name",
+        "name": "Paten Disko Duvarı",
         "description": "disco_c26_wall desc"
       },
       {
         "code": "disco_c26_wheels",
-        "name": "disco_c26_wheels name",
+        "name": "Paten Tekerlekleri",
         "description": "disco_c26_wheels desc"
       },
       {
@@ -60847,13 +60867,23 @@
         "description": ""
       },
       {
+        "code": "disco_r26_discotable_bd",
+        "name": "Yanardöner Disko Pikap",
+        "description": ""
+      },
+      {
         "code": "disco_r26_discoturntable",
-        "name": "disco_r26_discoturntable name",
+        "name": "Yanardöner Disko Pikap",
         "description": "disco_r26_discoturntable desc"
       },
       {
+        "code": "disco_r26_sharkzone_bd",
+        "name": "Köpekbalığı Bölgesi Makine",
+        "description": ""
+      },
+      {
         "code": "disco_r26_sharkzone",
-        "name": "disco_r26_sharkzone name",
+        "name": "Köpekbalığı Bölgesi Makine",
         "description": "disco_r26_sharkzone desc"
       },
       {
@@ -61603,7 +61633,7 @@
       },
       {
         "code": "ducket_c26_beeplushie",
-        "name": "ducket_c26_beeplushie name",
+        "name": "Arı Pelüşü",
         "description": "ducket_c26_beeplushie desc"
       },
       {
@@ -61638,7 +61668,7 @@
       },
       {
         "code": "ducket_c26_hivewateringcan",
-        "name": "ducket_c26_hivewateringcan name",
+        "name": "Kovan Sulama Kabı",
         "description": "ducket_c26_hivewateringcan desc"
       },
       {
@@ -61663,7 +61693,7 @@
       },
       {
         "code": "ducket_c26_honeystall",
-        "name": "ducket_c26_honeystall name",
+        "name": "Bal Standı",
         "description": "ducket_c26_honeystall desc"
       },
       {
@@ -61688,7 +61718,7 @@
       },
       {
         "code": "ducket_dia_beeplushie",
-        "name": "ducket_c26_beeplushie name",
+        "name": "Arı Pelüşü",
         "description": ""
       },
       {
@@ -61698,7 +61728,7 @@
       },
       {
         "code": "ducket_dia_hivewateringca",
-        "name": "ducket_c26_hivewateringcan name",
+        "name": "Kovan Sulama Kabı",
         "description": ""
       },
       {
@@ -61723,7 +61753,7 @@
       },
       {
         "code": "ducket_dia_honeystall",
-        "name": "ducket_c26_honeystall name",
+        "name": "Bal Standı",
         "description": ""
       },
       {
@@ -92723,7 +92753,7 @@
       },
       {
         "code": "nft_h26_bigcd",
-        "name": "nft_h26_bigcd name",
+        "name": "Büyük CD",
         "description": "nft_h26_bigcd desc"
       },
       {
@@ -92733,7 +92763,7 @@
       },
       {
         "code": "nft_h26_bronzeboombox",
-        "name": "nft_h26_bronzeboombox name",
+        "name": "Bronz Boombox",
         "description": "nft_h26_bronzeboombox desc"
       },
       {
@@ -92813,7 +92843,7 @@
       },
       {
         "code": "nft_h26_goldboombox",
-        "name": "nft_h26_goldboombox name",
+        "name": "Altın Boombox",
         "description": "nft_h26_goldboombox desc"
       },
       {
@@ -92883,7 +92913,7 @@
       },
       {
         "code": "nft_h26_silverboombox",
-        "name": "nft_h26_silverboombox name",
+        "name": "Gümüş Boombox",
         "description": "nft_h26_silverboombox desc"
       },
       {
@@ -114875,6 +114905,66 @@
         "code": "rotating_roomdeal452",
         "name": "Elf Meclisi Oda Paketi",
         "description": "Kendi Elf Meclisini kurmak için gerekli her şey burada. Senin için önceden tasarlanıp paketlendi!"
+      },
+      {
+        "code": "rotating_roomdeal453_10c",
+        "name": "Disko Pisti Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal453_d",
+        "name": "Disko Pisti Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal453",
+        "name": "Disko Pisti Paketi",
+        "description": "Patenlerini kap ve Disko Pistine gel! Ortam çok güzel."
+      },
+      {
+        "code": "rotating_roomdeal454_10c",
+        "name": "Galeri XXIII Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal454_d",
+        "name": "Galeri XXIII Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal454",
+        "name": "Galeri XXIII Paketi",
+        "description": "Bu paketi alarak Sanat Galerisindeki birçok eski esere büyük bir indirimle sahip ol."
+      },
+      {
+        "code": "rotating_roomdeal455_10c",
+        "name": "Galeri XXIV Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal455_d",
+        "name": "Galeri XXIV Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal455",
+        "name": "Galeri XXIV Paketi",
+        "description": "Bu paketi alarak Sanat Galerisindeki birçok eski esere büyük bir indirimle sahip ol."
+      },
+      {
+        "code": "rotating_roomdeal456_10c",
+        "name": "Galeri Paketi XXV",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal456_d",
+        "name": "Galeri Paketi XXV",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal456",
+        "name": "Galeri Paketi XXV",
+        "description": "Bu paketi alarak Sanat Galerisindeki birçok eski esere büyük bir indirimle sahip ol."
       },
       {
         "code": "rotating_roomdeal45_10c",

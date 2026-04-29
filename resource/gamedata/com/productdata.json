@@ -33033,7 +33033,7 @@
       },
       {
         "code": "cl_dia_duckethoneyshirt",
-        "name": "clothing_duckethoneyshirt name",
+        "name": "Honey Splatter Shirt",
         "description": ""
       },
       {
@@ -33064,6 +33064,11 @@
       {
         "code": "cl_ltd23_80sretro_bd",
         "name": "80s Nostalgia Outfit",
+        "description": ""
+      },
+      {
+        "code": "cl_ltd26_iridescentskin_bd",
+        "name": "Iridescent Skin",
         "description": ""
       },
       {
@@ -33157,6 +33162,16 @@
         "description": ""
       },
       {
+        "code": "cl_r26_iridescentcoat_bd",
+        "name": "Iridescent Raincoat",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_lasersword_bd",
+        "name": "Laser Sword",
+        "description": ""
+      },
+      {
         "code": "cl_r26_mannequinskin_bd",
         "name": "Mannequin Skin",
         "description": ""
@@ -33174,6 +33189,11 @@
       {
         "code": "cl_r26_plushiewings_bd",
         "name": "Vintage Cupid Wings",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_roboface_bd",
+        "name": "Cute Robo Face",
         "description": ""
       },
       {
@@ -34238,7 +34258,7 @@
       },
       {
         "code": "clothing_80safro",
-        "name": "clothing_80safro name",
+        "name": "Extravagant Afro",
         "description": "clothing_80safro desc"
       },
       {
@@ -35508,7 +35528,7 @@
       },
       {
         "code": "clothing_croppedhoodie",
-        "name": "clothing_croppedhoodie name",
+        "name": "Super Cropped Hoodie",
         "description": "clothing_croppedhoodie desc"
       },
       {
@@ -35923,7 +35943,7 @@
       },
       {
         "code": "clothing_discoboombox",
-        "name": "clothing_discoboombox name",
+        "name": "Disco Boom Box",
         "description": "clothing_discoboombox desc"
       },
       {
@@ -35933,7 +35953,7 @@
       },
       {
         "code": "clothing_discoskates",
-        "name": "clothing_discoskates name",
+        "name": "Disco Skates",
         "description": "clothing_discoskates desc"
       },
       {
@@ -36073,7 +36093,7 @@
       },
       {
         "code": "clothing_duckethoneyshirt",
-        "name": "clothing_duckethoneyshirt name",
+        "name": "Honey Splatter Shirt",
         "description": "clothing_duckethoneyshirt desc"
       },
       {
@@ -36378,7 +36398,7 @@
       },
       {
         "code": "clothing_fishnetsskirt",
-        "name": "clothing_fishnetsskirt name",
+        "name": "Stylish Fishnet Skirt",
         "description": "clothing_fishnetsskirt desc"
       },
       {
@@ -37013,7 +37033,7 @@
       },
       {
         "code": "clothing_heartbuns",
-        "name": "clothing_heartbuns name",
+        "name": "Heart Shaped Buns",
         "description": "clothing_heartbuns desc"
       },
       {
@@ -37148,7 +37168,7 @@
       },
       {
         "code": "clothing_hockeycut",
-        "name": "clothing_hockeycut name",
+        "name": "Hockey Player Hair",
         "description": "clothing_hockeycut desc"
       },
       {
@@ -37258,17 +37278,17 @@
       },
       {
         "code": "clothing_keychainegg",
-        "name": "clothing_keychainegg name",
+        "name": "Egg Keyring",
         "description": "clothing_keychainegg desc"
       },
       {
         "code": "clothing_keychainshark",
-        "name": "clothing_keychainshark name",
+        "name": "Shark Keyring",
         "description": "clothing_keychainshark desc"
       },
       {
         "code": "clothing_keychaintoast",
-        "name": "clothing_keychaintoast name",
+        "name": "Toast Keyring",
         "description": "clothing_keychaintoast desc"
       },
       {
@@ -37683,7 +37703,7 @@
       },
       {
         "code": "clothing_ltd26_iridescentskin",
-        "name": "clothing_ltd26_iridescentskin name",
+        "name": "Iridescent Skin",
         "description": "clothing_ltd26_iridescentskin desc"
       },
       {
@@ -39183,7 +39203,7 @@
       },
       {
         "code": "clothing_nftkeytar",
-        "name": "clothing_nftkeytar name",
+        "name": "Keytar",
         "description": "clothing_nftkeytar desc"
       },
       {
@@ -39208,12 +39228,12 @@
       },
       {
         "code": "clothing_nftledbracelet",
-        "name": "clothing_nftledbracelet name",
+        "name": "LED Bracelet",
         "description": "clothing_nftledbracelet desc"
       },
       {
         "code": "clothing_nftledhorns",
-        "name": "clothing_nftledhorns name",
+        "name": "LED Horn Headband",
         "description": "clothing_nftledhorns desc"
       },
       {
@@ -39248,17 +39268,17 @@
       },
       {
         "code": "clothing_nftmayhair1",
-        "name": "clothing_nftmayhair1 name",
+        "name": "Big Bouffant Hair",
         "description": "clothing_nftmayhair1 desc"
       },
       {
         "code": "clothing_nftmayhair2",
-        "name": "clothing_nftmayhair2 name",
+        "name": "Spiky Mullet",
         "description": "clothing_nftmayhair2 desc"
       },
       {
         "code": "clothing_nftmayhair3",
-        "name": "clothing_nftmayhair3 name",
+        "name": "Tight Curls",
         "description": "clothing_nftmayhair3 desc"
       },
       {
@@ -39403,7 +39423,7 @@
       },
       {
         "code": "clothing_nftmusicalnotes",
-        "name": "clothing_nftmusicalnotes name",
+        "name": "Music Notes",
         "description": "clothing_nftmusicalnotes desc"
       },
       {
@@ -39708,12 +39728,12 @@
       },
       {
         "code": "clothing_nftrollerskate",
-        "name": "clothing_nftrollerskate name",
+        "name": "Large Roller Skate",
         "description": "clothing_nftrollerskate desc"
       },
       {
         "code": "clothing_nftrollerskatershades",
-        "name": "clothing_nftrollerskatershades name",
+        "name": "Skating Shades",
         "description": "clothing_nftrollerskatershades desc"
       },
       {
@@ -40203,7 +40223,7 @@
       },
       {
         "code": "clothing_nfttintedglasses",
-        "name": "clothing_nfttintedglasses name",
+        "name": "Tinted Glasses",
         "description": "clothing_nfttintedglasses desc"
       },
       {
@@ -40463,7 +40483,7 @@
       },
       {
         "code": "clothing_nftyoyo",
-        "name": "clothing_nftyoyo name",
+        "name": "Hobbiest Yo-Yo",
         "description": "clothing_nftyoyo desc"
       },
       {
@@ -43903,12 +43923,12 @@
       },
       {
         "code": "clothing_r26_iridescentcoat",
-        "name": "clothing_r26_iridescentcoat name",
+        "name": "Iridescent Raincoat",
         "description": "clothing_r26_iridescentcoat desc"
       },
       {
         "code": "clothing_r26_lasersword",
-        "name": "clothing_r26_lasersword name",
+        "name": "Laser Sword",
         "description": "clothing_r26_lasersword desc"
       },
       {
@@ -43933,7 +43953,7 @@
       },
       {
         "code": "clothing_r26_roboface",
-        "name": "clothing_r26_roboface name",
+        "name": "Cute Robo Face",
         "description": "clothing_r26_roboface desc"
       },
       {
@@ -57868,252 +57888,252 @@
       },
       {
         "code": "disco_c26_block",
-        "name": "disco_c26_block name",
+        "name": "Roller Disco Block",
         "description": "disco_c26_block desc"
       },
       {
         "code": "disco_c26_blueglitterbomb",
-        "name": "disco_c26_blueglitterbomb name",
+        "name": "Blue Glitter Bomb",
         "description": "disco_c26_blueglitterbomb desc"
       },
       {
         "code": "disco_c26_candyheart",
-        "name": "disco_c26_candyheart name",
+        "name": "Heart Candy",
         "description": "disco_c26_candyheart desc"
       },
       {
         "code": "disco_c26_craftingdiscoduck",
-        "name": "disco_c26_craftingdiscoduck name",
+        "name": "Crafting Disco Duck",
         "description": "disco_c26_craftingdiscoduck desc"
       },
       {
         "code": "disco_c26_discoball",
-        "name": "disco_c26_discoball name",
+        "name": "Iridescent Disco Ball",
         "description": "disco_c26_discoball desc"
       },
       {
         "code": "disco_c26_discoballb",
-        "name": "disco_c26_discoballb name",
+        "name": "Iridescent Disco Ball",
         "description": "disco_c26_discoballb desc"
       },
       {
         "code": "disco_c26_divider",
-        "name": "disco_c26_divider name",
+        "name": "Roller Disco Barrier",
         "description": "disco_c26_divider desc"
       },
       {
         "code": "disco_c26_dividercorner",
-        "name": "disco_c26_dividercorner name",
+        "name": "Roller Disco Corner",
         "description": "disco_c26_dividercorner desc"
       },
       {
         "code": "disco_c26_donutlight",
-        "name": "disco_c26_donutlight name",
+        "name": "Doughnut Wall Lamp",
         "description": "disco_c26_donutlight desc"
       },
       {
         "code": "disco_c26_floor",
-        "name": "disco_c26_floor name",
+        "name": "Roller Disco Floor",
         "description": "disco_c26_floor desc"
       },
       {
         "code": "disco_c26_floornutlight",
-        "name": "disco_c26_floornutlight name",
+        "name": "Doughnut Floor Lamp",
         "description": "disco_c26_floornutlight desc"
       },
       {
         "code": "disco_c26_glitterball",
-        "name": "disco_c26_glitterball name",
+        "name": "Indestructible Mirror Ball",
         "description": "disco_c26_glitterball desc"
       },
       {
         "code": "disco_c26_goldglitterbomb",
-        "name": "disco_c26_goldglitterbomb name",
+        "name": "Gold Glitter Bomb",
         "description": "disco_c26_goldglitterbomb desc"
       },
       {
         "code": "disco_c26_greenglitterbomb",
-        "name": "disco_c26_greenglitterbomb name",
+        "name": "Green Glitter Bomb",
         "description": "disco_c26_greenglitterbomb desc"
       },
       {
         "code": "disco_c26_heartglitter",
-        "name": "disco_c26_heartglitter name",
+        "name": "Heart Glitter",
         "description": "disco_c26_heartglitter desc"
       },
       {
         "code": "disco_c26_helmet",
-        "name": "disco_c26_helmet name",
+        "name": "Skating Helmet",
         "description": "disco_c26_helmet desc"
       },
       {
         "code": "disco_c26_hexagonblue",
-        "name": "disco_c26_hexagonblue name",
+        "name": "Blue Hexagon Light",
         "description": "disco_c26_hexagonblue desc"
       },
       {
         "code": "disco_c26_hexagongreen",
-        "name": "disco_c26_hexagongreen name",
+        "name": "Green Hexagon Light",
         "description": "disco_c26_hexagongreen desc"
       },
       {
         "code": "disco_c26_hexagonpink",
-        "name": "disco_c26_hexagonpink name",
+        "name": "Pink Hexagon Light",
         "description": "disco_c26_hexagonpink desc"
       },
       {
         "code": "disco_c26_hexagonpurple",
-        "name": "disco_c26_hexagonpurple name",
+        "name": "Purple Hexagon Light",
         "description": "disco_c26_hexagonpurple desc"
       },
       {
         "code": "disco_c26_hexagonyellow",
-        "name": "disco_c26_hexagonyellow name",
+        "name": "Yellow Hexagon Light",
         "description": "disco_c26_hexagonyellow desc"
       },
       {
         "code": "disco_c26_iridescentstool",
-        "name": "disco_c26_iridescentstool name",
+        "name": "Iridescent Stool",
         "description": "disco_c26_iridescentstool desc"
       },
       {
         "code": "disco_c26_jukebox",
-        "name": "disco_c26_jukebox name",
+        "name": "Iridescent Jukebox",
         "description": "disco_c26_jukebox desc"
       },
       {
         "code": "disco_c26_ledtube",
-        "name": "disco_c26_ledtube name",
+        "name": "Roller Floor Lights",
         "description": "disco_c26_ledtube desc"
       },
       {
         "code": "disco_c26_lightbarblue",
-        "name": "disco_c26_lightbarblue name",
+        "name": "Blue Light Bar",
         "description": "disco_c26_lightbarblue desc"
       },
       {
         "code": "disco_c26_lightbargreen",
-        "name": "disco_c26_lightbargreen name",
+        "name": "Green Light Bar",
         "description": "disco_c26_lightbargreen desc"
       },
       {
         "code": "disco_c26_lightbarpink",
-        "name": "disco_c26_lightbarpink name",
+        "name": "Pink Light Bar",
         "description": "disco_c26_lightbarpink desc"
       },
       {
         "code": "disco_c26_lightbarpurple",
-        "name": "disco_c26_lightbarpurple name",
+        "name": "Purple Light Bar",
         "description": "disco_c26_lightbarpurple desc"
       },
       {
         "code": "disco_c26_lightbaryellow",
-        "name": "disco_c26_lightbaryellow name",
+        "name": "Yellow Light Bar",
         "description": "disco_c26_lightbaryellow desc"
       },
       {
         "code": "disco_c26_lightpoleblue",
-        "name": "disco_c26_lightpoleblue name",
+        "name": "Blue Light Pole",
         "description": "disco_c26_lightpoleblue desc"
       },
       {
         "code": "disco_c26_lightpolegreen",
-        "name": "disco_c26_lightpolegreen name",
+        "name": "Green Light Pole",
         "description": "disco_c26_lightpolegreen desc"
       },
       {
         "code": "disco_c26_lightpolepink",
-        "name": "disco_c26_lightpolepink name",
+        "name": "Pink Light Pole",
         "description": "disco_c26_lightpolepink desc"
       },
       {
         "code": "disco_c26_lightpolepurple",
-        "name": "disco_c26_lightpolepurple name",
+        "name": "Purple Light Pole",
         "description": "disco_c26_lightpolepurple desc"
       },
       {
         "code": "disco_c26_lightpoleyellow",
-        "name": "disco_c26_lightpoleyellow name",
+        "name": "Yellow Light Pole",
         "description": "disco_c26_lightpoleyellow desc"
       },
       {
         "code": "disco_c26_lightstick",
-        "name": "disco_c26_lightstick name",
+        "name": "Disco Lightstick",
         "description": "disco_c26_lightstick desc"
       },
       {
         "code": "disco_c26_neonlight1",
-        "name": "disco_c26_neonlight1 name",
+        "name": "Lip Bite Neon Light",
         "description": "disco_c26_neonlight1 desc"
       },
       {
         "code": "disco_c26_neonlight2",
-        "name": "disco_c26_neonlight2 name",
+        "name": "Roller Skate Neon Light",
         "description": "disco_c26_neonlight2 desc"
       },
       {
         "code": "disco_c26_neonlight3",
-        "name": "disco_c26_neonlight3 name",
+        "name": "Shark Neon Light",
         "description": "disco_c26_neonlight3 desc"
       },
       {
         "code": "disco_c26_pinkglitterbomb",
-        "name": "disco_c26_pinkglitterbomb name",
+        "name": "Pink Glitter Bomb",
         "description": "disco_c26_pinkglitterbomb desc"
       },
       {
         "code": "disco_c26_purpleglitterbomb",
-        "name": "disco_c26_purpleglitterbomb name",
+        "name": "Purple Glitter Bomb",
         "description": "disco_c26_purpleglitterbomb desc"
       },
       {
         "code": "disco_c26_redglitterbomb",
-        "name": "disco_c26_redglitterbomb name",
+        "name": "Red Glitter Bomb",
         "description": "disco_c26_redglitterbomb desc"
       },
       {
         "code": "disco_c26_silverglitterbomb",
-        "name": "disco_c26_silverglitterbomb name",
+        "name": "Silver Glitter Bomb",
         "description": "disco_c26_silverglitterbomb desc"
       },
       {
         "code": "disco_c26_slay",
-        "name": "disco_c26_slay name",
+        "name": "Slay Sign",
         "description": "disco_c26_slay desc"
       },
       {
         "code": "disco_c26_starglitter",
-        "name": "disco_c26_starglitter name",
+        "name": "Star Glitter",
         "description": "disco_c26_starglitter desc"
       },
       {
         "code": "disco_c26_tile",
-        "name": "disco_c26_tile name",
+        "name": "Roller Disco Tile",
         "description": "disco_c26_tile desc"
       },
       {
         "code": "disco_c26_tool",
-        "name": "disco_c26_tool name",
+        "name": "Skate Tool",
         "description": "disco_c26_tool desc"
       },
       {
         "code": "disco_c26_vinyltable",
-        "name": "disco_c26_vinyltable name",
+        "name": "Vinyl Disc Table",
         "description": "disco_c26_vinyltable desc"
       },
       {
         "code": "disco_c26_walkman",
-        "name": "disco_c26_walkman name",
+        "name": "Classy Walkman",
         "description": "disco_c26_walkman desc"
       },
       {
         "code": "disco_c26_wall",
-        "name": "disco_c26_wall name",
+        "name": "Roller Disco Wall",
         "description": "disco_c26_wall desc"
       },
       {
         "code": "disco_c26_wheels",
-        "name": "disco_c26_wheels name",
+        "name": "Skates Wheels",
         "description": "disco_c26_wheels desc"
       },
       {
@@ -58127,13 +58147,23 @@
         "description": ""
       },
       {
+        "code": "disco_r26_discotable_bd",
+        "name": "Iridescent Disco Turntable",
+        "description": ""
+      },
+      {
         "code": "disco_r26_discoturntable",
-        "name": "disco_r26_discoturntable name",
+        "name": "Iridescent Disco Turntable",
         "description": "disco_r26_discoturntable desc"
       },
       {
+        "code": "disco_r26_sharkzone_bd",
+        "name": "Shark Zone Machine",
+        "description": ""
+      },
+      {
         "code": "disco_r26_sharkzone",
-        "name": "disco_r26_sharkzone name",
+        "name": "Shark Zone Machine",
         "description": "disco_r26_sharkzone desc"
       },
       {
@@ -58878,7 +58908,7 @@
       },
       {
         "code": "ducket_c26_beeplushie",
-        "name": "ducket_c26_beeplushie name",
+        "name": "Bee Plushie",
         "description": "ducket_c26_beeplushie desc"
       },
       {
@@ -58913,7 +58943,7 @@
       },
       {
         "code": "ducket_c26_hivewateringcan",
-        "name": "ducket_c26_hivewateringcan name",
+        "name": "Hive Pot",
         "description": "ducket_c26_hivewateringcan desc"
       },
       {
@@ -58938,7 +58968,7 @@
       },
       {
         "code": "ducket_c26_honeystall",
-        "name": "ducket_c26_honeystall name",
+        "name": "Honey Stall",
         "description": "ducket_c26_honeystall desc"
       },
       {
@@ -58963,7 +58993,7 @@
       },
       {
         "code": "ducket_dia_beeplushie",
-        "name": "ducket_c26_beeplushie name",
+        "name": "Bee Plushie",
         "description": ""
       },
       {
@@ -58973,7 +59003,7 @@
       },
       {
         "code": "ducket_dia_hivewateringca",
-        "name": "ducket_c26_hivewateringcan name",
+        "name": "Hive Pot",
         "description": ""
       },
       {
@@ -58998,7 +59028,7 @@
       },
       {
         "code": "ducket_dia_honeystall",
-        "name": "ducket_c26_honeystall name",
+        "name": "Honey Stall",
         "description": ""
       },
       {
@@ -89813,7 +89843,7 @@
       },
       {
         "code": "nft_h26_bigcd",
-        "name": "nft_h26_bigcd name",
+        "name": "Large CD",
         "description": "nft_h26_bigcd desc"
       },
       {
@@ -89823,7 +89853,7 @@
       },
       {
         "code": "nft_h26_bronzeboombox",
-        "name": "nft_h26_bronzeboombox name",
+        "name": "Bronze Boombox",
         "description": "nft_h26_bronzeboombox desc"
       },
       {
@@ -89903,7 +89933,7 @@
       },
       {
         "code": "nft_h26_goldboombox",
-        "name": "nft_h26_goldboombox name",
+        "name": "Gold Boombox",
         "description": "nft_h26_goldboombox desc"
       },
       {
@@ -89973,7 +90003,7 @@
       },
       {
         "code": "nft_h26_silverboombox",
-        "name": "nft_h26_silverboombox name",
+        "name": "Silver Boombox",
         "description": "nft_h26_silverboombox desc"
       },
       {
@@ -111900,6 +111930,66 @@
         "code": "rotating_roomdeal452",
         "name": "Elven Gathering Bundle",
         "description": "Everything you need for your own Elven Gathering is right here. Pre-planned and pre-packaged just for you!"
+      },
+      {
+        "code": "rotating_roomdeal453_10c",
+        "name": "Disco Rink Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal453_d",
+        "name": "Disco Rink Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal453",
+        "name": "Disco Rink Bundle",
+        "description": "Grab your skates and come on down to the Disco Rink! The vibes are groovy."
+      },
+      {
+        "code": "rotating_roomdeal454_10c",
+        "name": "Gallery Bundle XXIII",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal454_d",
+        "name": "Gallery Bundle XXIII",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal454",
+        "name": "Gallery Bundle XXIII",
+        "description": "Grab this bundle to get a large discount on a bunch of old pieces from the Art Gallery."
+      },
+      {
+        "code": "rotating_roomdeal455_10c",
+        "name": "Gallery Bundle XXIV",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal455_d",
+        "name": "Gallery Bundle XXIV",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal455",
+        "name": "Gallery Bundle XXIV",
+        "description": "Grab this bundle to get a large discount on a bunch of old pieces from the Art Gallery."
+      },
+      {
+        "code": "rotating_roomdeal456_10c",
+        "name": "Gallery Bundle XXV",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal456_d",
+        "name": "Gallery Bundle XXV",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal456",
+        "name": "Gallery Bundle XXV",
+        "description": "Grab this bundle to get a large discount on a bunch of old pieces from the Art Gallery."
       },
       {
         "code": "rotating_roomdeal45_10c",
