@@ -57342,6 +57342,41 @@
         "description": "Voor echte voetbalfans"
       },
       {
+        "code": "fball_c26_counterup",
+        "name": "fball_c26_counterup name",
+        "description": "fball_c26_counterup desc"
+      },
+      {
+        "code": "fball_c26_directionindicator",
+        "name": "fball_c26_directionindicator name",
+        "description": "fball_c26_directionindicator desc"
+      },
+      {
+        "code": "fball_c26_longbench",
+        "name": "fball_c26_longbench name",
+        "description": "fball_c26_longbench desc"
+      },
+      {
+        "code": "fball_c26_ptch11",
+        "name": "fball_c26_ptch11 name",
+        "description": "fball_c26_ptch11 desc"
+      },
+      {
+        "code": "fball_c26_standlesscounter",
+        "name": "fball_c26_standlesscounter name",
+        "description": "fball_c26_standlesscounter desc"
+      },
+      {
+        "code": "fball_c26_standlesscounterup",
+        "name": "fball_c26_standlesscounterup name",
+        "description": "fball_c26_standlesscounterup desc"
+      },
+      {
+        "code": "fball_c26_trainingcone",
+        "name": "fball_c26_trainingcone name",
+        "description": "fball_c26_trainingcone desc"
+      },
+      {
         "code": "fball_cote",
         "name": "Regenscherm",
         "description": "Richting de catacomben"
@@ -112157,6 +112192,21 @@
         "description": "trophy_fansite desc"
       },
       {
+        "code": "trophy_fball_c26_wingedbronze",
+        "name": "trophy_fball_c26_wingedbronze name",
+        "description": "trophy_fball_c26_wingedbronze desc"
+      },
+      {
+        "code": "trophy_fball_c26_wingedgold",
+        "name": "trophy_fball_c26_wingedgold name",
+        "description": "trophy_fball_c26_wingedgold desc"
+      },
+      {
+        "code": "trophy_fball_c26_wingedsilver",
+        "name": "trophy_fball_c26_wingedsilver name",
+        "description": "trophy_fball_c26_wingedsilver desc"
+      },
+      {
         "code": "trophy_gameprize",
         "name": "Snake Master Trofee",
         "description": "trophy_gameprize desc"
@@ -116767,6 +116817,11 @@
         "description": "Deze reactie verplaatst de geselecteerde Meubi naar de ingestelde positie en staat. Zo verplaats je meerdere meubels of stel je in dat een deur altijd open moet gaan als Reactie."
       },
       {
+        "code": "wf_act_move_furni_as_group",
+        "name": "wf_act_move_furni_as_group name",
+        "description": "wf_act_move_furni_as_group desc"
+      },
+      {
         "code": "wf_act_move_furni_to",
         "name": "WIRED Effect: Move Triggering Furni",
         "description": "This Effect moves a Furni defined by the Trigger to the vicinity of one of the selected Furnis."
@@ -116807,9 +116862,19 @@
         "description": "wf_act_neg_send_signal desc"
       },
       {
+        "code": "wf_act_place_furni",
+        "name": "wf_act_place_furni name",
+        "description": "wf_act_place_furni desc"
+      },
+      {
         "code": "wf_act_rel_mov",
         "name": "WIRED Reactie: Relatieve Meubi Beweging",
         "description": "wf_act_rel_mov desc"
+      },
+      {
+        "code": "wf_act_remove_furni",
+        "name": "wf_act_remove_furni name",
+        "description": "wf_act_remove_furni desc"
       },
       {
         "code": "wf_act_remove_var",
