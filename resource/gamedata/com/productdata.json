@@ -33077,6 +33077,41 @@
         "description": ""
       },
       {
+        "code": "cl_nftkeytar_slv",
+        "name": "Keytar",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledbracelet_slv",
+        "name": "LED Bracelet",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledhorns_slv",
+        "name": "LED Horn Headband",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair1_slv",
+        "name": "Big Bouffant Hair",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair2_slv",
+        "name": "Spiky Mullet",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair3_slv",
+        "name": "Tight Curls",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmusicalnotes_slv",
+        "name": "Music Notes",
+        "description": ""
+      },
+      {
         "code": "cl_nftsunflowerbadge_bd",
         "name": "Sunflower Pin",
         "description": ""
@@ -33084,6 +33119,16 @@
       {
         "code": "cl_nftsunflowerheadacc_bd",
         "name": "Sunflower Hair Clip",
+        "description": ""
+      },
+      {
+        "code": "cl_nfttintedglasses_slv",
+        "name": "Tinted Glasses",
+        "description": ""
+      },
+      {
+        "code": "cl_nftyoyo_slv",
+        "name": "Hobbiest Yo-Yo",
         "description": ""
       },
       {
@@ -89930,6 +89975,11 @@
         "code": "nft_h26_bigcd",
         "name": "Large CD",
         "description": "nft_h26_bigcd desc"
+      },
+      {
+        "code": "nft_h26_bigcd_slv",
+        "name": "Large CD",
+        "description": ""
       },
       {
         "code": "nft_h26_bigtv",

@@ -33297,6 +33297,41 @@
         "description": ""
       },
       {
+        "code": "cl_nftkeytar_slv",
+        "name": "Kiippari",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledbracelet_slv",
+        "name": "LED-valoranneke",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledhorns_slv",
+        "name": "LED-valosarvet",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair1_slv",
+        "name": "Megatupeerattu kampaus",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair2_slv",
+        "name": "Piikikäs takatukka",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair3_slv",
+        "name": "Tiiviit kiharat",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmusicalnotes_slv",
+        "name": "Nuotit",
+        "description": ""
+      },
+      {
         "code": "cl_nftsunflowerbadge_bd",
         "name": "Auringonkukkapinssi",
         "description": ""
@@ -33304,6 +33339,16 @@
       {
         "code": "cl_nftsunflowerheadacc_bd",
         "name": "Auringonkukkaklipsi",
+        "description": ""
+      },
+      {
+        "code": "cl_nfttintedglasses_slv",
+        "name": "Sävytetyt lasit",
+        "description": ""
+      },
+      {
+        "code": "cl_nftyoyo_slv",
+        "name": "Jojo",
         "description": ""
       },
       {
@@ -83500,6 +83545,11 @@
         "code": "nft_h26_bigcd",
         "name": "Jätti-CD",
         "description": "nft_h26_bigcd desc"
+      },
+      {
+        "code": "nft_h26_bigcd_slv",
+        "name": "Jätti-CD",
+        "description": ""
       },
       {
         "code": "nft_h26_bigtv",

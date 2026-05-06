@@ -32697,6 +32697,41 @@
         "description": ""
       },
       {
+        "code": "cl_nftkeytar_slv",
+        "name": "Keytar",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledbracelet_slv",
+        "name": "Bracelete LED",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledhorns_slv",
+        "name": "Tiara de Chifres LED",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair1_slv",
+        "name": "Cabelo Bouffant Grande",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair2_slv",
+        "name": "Mullet Espetado",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair3_slv",
+        "name": "Cachos bem Cacheados",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmusicalnotes_slv",
+        "name": "Notas Musicais",
+        "description": ""
+      },
+      {
         "code": "cl_nftsunflowerbadge_bd",
         "name": "Broche Girassol",
         "description": ""
@@ -32704,6 +32739,16 @@
       {
         "code": "cl_nftsunflowerheadacc_bd",
         "name": "Girassol no Cabelo",
+        "description": ""
+      },
+      {
+        "code": "cl_nfttintedglasses_slv",
+        "name": "Óculos Coloridos",
+        "description": ""
+      },
+      {
+        "code": "cl_nftyoyo_slv",
+        "name": "Ioiô de Hobby",
         "description": ""
       },
       {
@@ -83440,6 +83485,11 @@
         "code": "nft_h26_bigcd",
         "name": "CD Grande",
         "description": "nft_h26_bigcd desc"
+      },
+      {
+        "code": "nft_h26_bigcd_slv",
+        "name": "CD Grande",
+        "description": ""
       },
       {
         "code": "nft_h26_bigtv",

@@ -32007,6 +32007,41 @@
         "description": ""
       },
       {
+        "code": "cl_nftkeytar_slv",
+        "name": "Keytar",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledbracelet_slv",
+        "name": "Bracelet LED",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledhorns_slv",
+        "name": "Bandeau LED klaxon",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair1_slv",
+        "name": "Coiffure volumineuse",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair2_slv",
+        "name": "Mullet hérissé",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair3_slv",
+        "name": "Boucles serrées",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmusicalnotes_slv",
+        "name": "Notes de musique",
+        "description": ""
+      },
+      {
         "code": "cl_nftsunflowerbadge_bd",
         "name": "Épingle Tournesol",
         "description": ""
@@ -32014,6 +32049,16 @@
       {
         "code": "cl_nftsunflowerheadacc_bd",
         "name": "Barrette à cheveux Tournesol",
+        "description": ""
+      },
+      {
+        "code": "cl_nfttintedglasses_slv",
+        "name": "Lunettes teintées",
+        "description": ""
+      },
+      {
+        "code": "cl_nftyoyo_slv",
+        "name": "Yo-yo amateurs",
         "description": ""
       },
       {
@@ -81550,6 +81595,11 @@
         "code": "nft_h26_bigcd",
         "name": "Grand CD",
         "description": "nft_h26_bigcd desc"
+      },
+      {
+        "code": "nft_h26_bigcd_slv",
+        "name": "Grand CD",
+        "description": ""
       },
       {
         "code": "nft_h26_bigtv",

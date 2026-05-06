@@ -32102,6 +32102,41 @@
         "description": ""
       },
       {
+        "code": "cl_nftkeytar_slv",
+        "name": "Keyboard-Guitarre",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledbracelet_slv",
+        "name": "LED-Armband",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledhorns_slv",
+        "name": "LED-Hörner Haarreifen",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair1_slv",
+        "name": "Hochtoupierte Frisur",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair2_slv",
+        "name": "Stacheliger Vokuhila",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair3_slv",
+        "name": "Kleine Locken",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmusicalnotes_slv",
+        "name": "Musiknoten",
+        "description": ""
+      },
+      {
         "code": "cl_nftsunflowerbadge_bd",
         "name": "Sonnenblumen-Anstecker",
         "description": ""
@@ -32109,6 +32144,16 @@
       {
         "code": "cl_nftsunflowerheadacc_bd",
         "name": "Sonnenblumen-Haarspange",
+        "description": ""
+      },
+      {
+        "code": "cl_nfttintedglasses_slv",
+        "name": "Getönte Sonnenbrille",
+        "description": ""
+      },
+      {
+        "code": "cl_nftyoyo_slv",
+        "name": "Jo-Jo",
         "description": ""
       },
       {
@@ -82480,6 +82525,11 @@
         "code": "nft_h26_bigcd",
         "name": "Grosse CD",
         "description": "nft_h26_bigcd desc"
+      },
+      {
+        "code": "nft_h26_bigcd_slv",
+        "name": "Grosse CD",
+        "description": ""
       },
       {
         "code": "nft_h26_bigtv",

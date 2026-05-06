@@ -31812,6 +31812,41 @@
         "description": ""
       },
       {
+        "code": "cl_nftkeytar_slv",
+        "name": "Gitaar Keyboard",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledbracelet_slv",
+        "name": "Armband met LED-verlichting",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledhorns_slv",
+        "name": "Hoofdband met LED Hoorntjes",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair1_slv",
+        "name": "Hoog Opgestoken Kapsel",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair2_slv",
+        "name": "Rebels Kapsel met Matje",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair3_slv",
+        "name": "Kort Kapsel met Krullen",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmusicalnotes_slv",
+        "name": "Muzieknootjes",
+        "description": ""
+      },
+      {
         "code": "cl_nftsunflowerbadge_bd",
         "name": "Zonnebloem Speld",
         "description": ""
@@ -31819,6 +31854,16 @@
       {
         "code": "cl_nftsunflowerheadacc_bd",
         "name": "Zonnebloem Haar Clip",
+        "description": ""
+      },
+      {
+        "code": "cl_nfttintedglasses_slv",
+        "name": "Getinte Brillenglazen",
+        "description": ""
+      },
+      {
+        "code": "cl_nftyoyo_slv",
+        "name": "Jojoën",
         "description": ""
       },
       {
@@ -83185,6 +83230,11 @@
         "code": "nft_h26_bigcd",
         "name": "Grote CD",
         "description": "nft_h26_bigcd desc"
+      },
+      {
+        "code": "nft_h26_bigcd_slv",
+        "name": "Grote CD",
+        "description": ""
       },
       {
         "code": "nft_h26_bigtv",

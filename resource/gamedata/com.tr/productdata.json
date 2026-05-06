@@ -33702,6 +33702,41 @@
         "description": ""
       },
       {
+        "code": "cl_nftkeytar_slv",
+        "name": "Anahtavatar",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledbracelet_slv",
+        "name": "LED Bileklik",
+        "description": ""
+      },
+      {
+        "code": "cl_nftledhorns_slv",
+        "name": "LED Boynuzlu Kafa Bandı",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair1_slv",
+        "name": "Büyük Kabarık Saçlar",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair2_slv",
+        "name": "Dikenli Mullet",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmayhair3_slv",
+        "name": "Sıkı Lüleler",
+        "description": ""
+      },
+      {
+        "code": "cl_nftmusicalnotes_slv",
+        "name": "Müzik Notaları",
+        "description": ""
+      },
+      {
         "code": "cl_nftsunflowerbadge_bd",
         "name": "Ayçiçeği Broş",
         "description": ""
@@ -33709,6 +33744,16 @@
       {
         "code": "cl_nftsunflowerheadacc_bd",
         "name": "Ayçiçeği Saç Tokası",
+        "description": ""
+      },
+      {
+        "code": "cl_nfttintedglasses_slv",
+        "name": "Renkli Gözlükler",
+        "description": ""
+      },
+      {
+        "code": "cl_nftyoyo_slv",
+        "name": "Hobi Yo-Yo'su",
         "description": ""
       },
       {
@@ -92840,6 +92885,11 @@
         "code": "nft_h26_bigcd",
         "name": "Büyük CD",
         "description": "nft_h26_bigcd desc"
+      },
+      {
+        "code": "nft_h26_bigcd_slv",
+        "name": "Büyük CD",
+        "description": ""
       },
       {
         "code": "nft_h26_bigtv",
