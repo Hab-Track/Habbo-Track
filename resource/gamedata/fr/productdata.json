@@ -35527,6 +35527,11 @@
         "description": "clothing_footballboppers desc"
       },
       {
+        "code": "clothing_footballuniform",
+        "name": "clothing_footballuniform name",
+        "description": "clothing_footballuniform desc"
+      },
+      {
         "code": "clothing_footlocker_shirt",
         "name": "T-shirt Foot Locker",
         "description": "clothing_footlocker_shirt desc"
@@ -43025,6 +43030,11 @@
         "code": "clothing_recycler_patchlongscarf",
         "name": "Écharpe longue patchwork",
         "description": "clothing_recycler_patchlongscarf desc"
+      },
+      {
+        "code": "clothing_refereewhistle",
+        "name": "clothing_refereewhistle name",
+        "description": "clothing_refereewhistle desc"
       },
       {
         "code": "clothing_regiment",
@@ -51137,6 +51147,11 @@
         "description": "ducket_c25_wovenhammock desc"
       },
       {
+        "code": "ducket_c26_anchorpillow",
+        "name": "ducket_c26_anchorpillow name",
+        "description": "ducket_c26_anchorpillow desc"
+      },
+      {
         "code": "ducket_c26_beeplushie",
         "name": "Peluche abeille",
         "description": "ducket_c26_beeplushie desc"
@@ -51162,6 +51177,11 @@
         "description": "ducket_c26_cottagewreath desc"
       },
       {
+        "code": "ducket_c26_decofish",
+        "name": "ducket_c26_decofish name",
+        "description": "ducket_c26_decofish desc"
+      },
+      {
         "code": "ducket_c26_floor",
         "name": "Cottage Floor",
         "description": "ducket_c26_floor desc"
@@ -51170,6 +51190,11 @@
         "code": "ducket_c26_flowerbench",
         "name": "Banc fleuri",
         "description": "ducket_c26_flowerbench desc"
+      },
+      {
+        "code": "ducket_c26_glasslantern",
+        "name": "ducket_c26_glasslantern name",
+        "description": "ducket_c26_glasslantern desc"
       },
       {
         "code": "ducket_c26_hivewateringcan",
@@ -51210,6 +51235,16 @@
         "code": "ducket_c26_largecottageshelf",
         "name": "Étagères cottage",
         "description": "ducket_c26_largecottageshelf desc"
+      },
+      {
+        "code": "ducket_c26_nauticalpillow",
+        "name": "ducket_c26_nauticalpillow name",
+        "description": "ducket_c26_nauticalpillow desc"
+      },
+      {
+        "code": "ducket_c26_seachair",
+        "name": "ducket_c26_seachair name",
+        "description": "ducket_c26_seachair desc"
       },
       {
         "code": "ducket_c26_smallcottageshelf",
@@ -72095,6 +72130,21 @@
         "code": "lt_r26_parasol",
         "name": "lt_r26_parasol name",
         "description": "lt_r26_parasol desc"
+      },
+      {
+        "code": "lt_r26_totem1",
+        "name": "lt_r26_totem1 name",
+        "description": "lt_r26_totem1 desc"
+      },
+      {
+        "code": "lt_r26_totem2",
+        "name": "lt_r26_totem2 name",
+        "description": "lt_r26_totem2 desc"
+      },
+      {
+        "code": "lt_r26_totem3",
+        "name": "lt_r26_totem3 name",
+        "description": "lt_r26_totem3 desc"
       },
       {
         "code": "lt_spider",
