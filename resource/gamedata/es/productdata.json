@@ -15778,7 +15778,7 @@
       },
       {
         "code": "bb_counter",
-        "name": "Contador Banzai",
+        "name": "Temporizador Banzai",
         "description": "¿Cuánto queda de juego?"
       },
       {
@@ -56158,7 +56158,7 @@
       },
       {
         "code": "es_counter",
-        "name": "Contador Freeze",
+        "name": "Temporizador Freeze",
         "description": "Y el juego comienza en 3, 2, 1..."
       },
       {
@@ -57113,7 +57113,7 @@
       },
       {
         "code": "fball_counter",
-        "name": "Cronómetro",
+        "name": "Temporizador",
         "description": "Árbitro, ¡la hora!"
       },
       {
@@ -116668,7 +116668,7 @@
       },
       {
         "code": "wf_act_place_furni",
-        "name": "wf_act_place_furni name",
+        "name": "Efecto WIRED: Colocar Furni",
         "description": "wf_act_place_furni desc"
       },
       {
@@ -116678,7 +116678,7 @@
       },
       {
         "code": "wf_act_remove_furni",
-        "name": "wf_act_remove_furni name",
+        "name": "Efecto WIRED: Retirar Furni",
         "description": "wf_act_remove_furni desc"
       },
       {
