@@ -124113,7 +124113,7 @@
       },
       {
         "code": "wf_act_move_furni_as_group",
-        "name": "wf_act_move_furni_as_group name",
+        "name": "WIRED Effect: Move Furni As Group",
         "description": "wf_act_move_furni_as_group desc"
       },
       {
@@ -124158,7 +124158,7 @@
       },
       {
         "code": "wf_act_place_furni",
-        "name": "wf_act_place_furni name",
+        "name": "WIRED Effect: Place Temporary Furni",
         "description": "wf_act_place_furni desc"
       },
       {
@@ -124168,7 +124168,7 @@
       },
       {
         "code": "wf_act_remove_furni",
-        "name": "wf_act_remove_furni name",
+        "name": "WIRED Effect: Remove Temporary Furni",
         "description": "wf_act_remove_furni desc"
       },
       {
