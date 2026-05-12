@@ -35062,6 +35062,11 @@
         "description": "clothing_ducketbearbag desc"
       },
       {
+        "code": "clothing_ducketcropshirt",
+        "name": "clothing_ducketcropshirt name",
+        "description": "clothing_ducketcropshirt desc"
+      },
+      {
         "code": "clothing_ducketduckafro_d",
         "name": "Duck Afro",
         "description": ""
@@ -37497,6 +37502,11 @@
         "description": "clothing_nftbrokenglasses desc"
       },
       {
+        "code": "clothing_nftbronzejunglemask",
+        "name": "clothing_nftbronzejunglemask name",
+        "description": "clothing_nftbronzejunglemask desc"
+      },
+      {
         "code": "clothing_nftbronzeskin",
         "name": "Peau de bronze",
         "description": "clothing_nftbronzeskin desc"
@@ -37852,6 +37862,11 @@
         "description": "clothing_nftfloraradiance desc"
       },
       {
+        "code": "clothing_nftflowerearrings",
+        "name": "clothing_nftflowerearrings name",
+        "description": "clothing_nftflowerearrings desc"
+      },
+      {
         "code": "clothing_nftflowerfairy",
         "name": "Fée des fleurs Saint-Valentin",
         "description": "clothing_nftflowerfairy desc"
@@ -37975,6 +37990,11 @@
         "code": "clothing_nftgiftbox",
         "name": "Tenue Boîte-cadeau Bleue",
         "description": "clothing_nftgiftbox desc"
+      },
+      {
+        "code": "clothing_nftgoldjunglemask",
+        "name": "clothing_nftgoldjunglemask name",
+        "description": "clothing_nftgoldjunglemask desc"
       },
       {
         "code": "clothing_nftgoldskin",
@@ -38235,6 +38255,11 @@
         "code": "clothing_nftledhorns",
         "name": "Cornes LED",
         "description": "clothing_nftledhorns desc"
+      },
+      {
+        "code": "clothing_nftlittlemonkey",
+        "name": "clothing_nftlittlemonkey name",
+        "description": "clothing_nftlittlemonkey desc"
       },
       {
         "code": "clothing_nftlollipop2",
@@ -38872,6 +38897,11 @@
         "description": "clothing_nftsilvereyes desc"
       },
       {
+        "code": "clothing_nftsilverjunglemask",
+        "name": "clothing_nftsilverjunglemask name",
+        "description": "clothing_nftsilverjunglemask desc"
+      },
+      {
         "code": "clothing_nftsilverskin",
         "name": "Peau d'argent",
         "description": "clothing_nftsilverskin desc"
@@ -39235,6 +39265,11 @@
         "code": "clothing_nfttophat",
         "name": "Chapeau psychédélique",
         "description": "clothing_nfttophat desc"
+      },
+      {
+        "code": "clothing_nfttreasurechest",
+        "name": "clothing_nfttreasurechest name",
+        "description": "clothing_nfttreasurechest desc"
       },
       {
         "code": "clothing_nfttrench",
@@ -51262,6 +51297,11 @@
         "description": "ducket_c26_largecottageshelf desc"
       },
       {
+        "code": "ducket_c26_minilighthouse",
+        "name": "ducket_c26_minilighthouse name",
+        "description": "ducket_c26_minilighthouse desc"
+      },
+      {
         "code": "ducket_c26_nauticalpillow",
         "name": "ducket_c26_nauticalpillow name",
         "description": "ducket_c26_nauticalpillow desc"
@@ -51270,6 +51310,16 @@
         "code": "ducket_c26_seachair",
         "name": "ducket_c26_seachair name",
         "description": "ducket_c26_seachair desc"
+      },
+      {
+        "code": "ducket_c26_seasidetable",
+        "name": "ducket_c26_seasidetable name",
+        "description": "ducket_c26_seasidetable desc"
+      },
+      {
+        "code": "ducket_c26_shipbed",
+        "name": "ducket_c26_shipbed name",
+        "description": "ducket_c26_shipbed desc"
       },
       {
         "code": "ducket_c26_smallcottageshelf",
@@ -81802,6 +81852,21 @@
         "description": "nft_h26_joystick desc"
       },
       {
+        "code": "nft_h26_jungleplant1",
+        "name": "nft_h26_jungleplant1 name",
+        "description": "nft_h26_jungleplant1 desc"
+      },
+      {
+        "code": "nft_h26_jungleplant2",
+        "name": "nft_h26_jungleplant2 name",
+        "description": "nft_h26_jungleplant2 desc"
+      },
+      {
+        "code": "nft_h26_jungleplant3",
+        "name": "nft_h26_jungleplant3 name",
+        "description": "nft_h26_jungleplant3 desc"
+      },
+      {
         "code": "nft_h26_lotfposter",
         "name": "Poster Seigneur des Mobis",
         "description": "nft_h26_lotfposter desc"
@@ -81850,6 +81915,16 @@
         "code": "nft_h26_silverelf",
         "name": "Elfe argent",
         "description": "nft_h26_silverelf desc"
+      },
+      {
+        "code": "nft_h26_treasuremap1",
+        "name": "nft_h26_treasuremap1 name",
+        "description": "nft_h26_treasuremap1 desc"
+      },
+      {
+        "code": "nft_h26_treasuremap2",
+        "name": "nft_h26_treasuremap2 name",
+        "description": "nft_h26_treasuremap2 desc"
       },
       {
         "code": "nft_h26_trippycontroller",
@@ -83142,6 +83217,11 @@
         "description": "nft_sc_frozenthrone desc"
       },
       {
+        "code": "nft_sc_giantcoconutdrink",
+        "name": "nft_sc_giantcoconutdrink name",
+        "description": "nft_sc_giantcoconutdrink desc"
+      },
+      {
         "code": "nft_sc_snowglobe1",
         "name": "Globe de neige Lampe Dragon",
         "description": "nft_sc_snowglobe1 desc"
@@ -83155,6 +83235,16 @@
         "code": "nft_sc_snowglobe3",
         "name": "Globe de neige Canard Glacé",
         "description": "nft_sc_snowglobe3 desc"
+      },
+      {
+        "code": "nft_sc_summer26duck",
+        "name": "nft_sc_summer26duck name",
+        "description": "nft_sc_summer26duck desc"
+      },
+      {
+        "code": "nft_sc_summer26penguin",
+        "name": "nft_sc_summer26penguin name",
+        "description": "nft_sc_summer26penguin desc"
       },
       {
         "code": "nft_school_chairgold",
@@ -105307,6 +105397,11 @@
         "description": "sc_elvenstatue3 desc"
       },
       {
+        "code": "sc_giantcoconutdrink",
+        "name": "sc_giantcoconutdrink name",
+        "description": "sc_giantcoconutdrink desc"
+      },
+      {
         "code": "sc_snowglobe1",
         "name": "Globe de neige Lampe Dragon",
         "description": "sc_snowglobe1 desc"
@@ -105320,6 +105415,16 @@
         "code": "sc_snowglobe3",
         "name": "Globe de neige Canard Glacé",
         "description": "sc_snowglobe3 desc"
+      },
+      {
+        "code": "sc_summer26duck",
+        "name": "sc_summer26duck name",
+        "description": "sc_summer26duck desc"
+      },
+      {
+        "code": "sc_summer26penguin",
+        "name": "sc_summer26penguin name",
+        "description": "sc_summer26penguin desc"
       },
       {
         "code": "school_backtoschool",
