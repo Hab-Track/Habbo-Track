@@ -452,6 +452,11 @@
         "description": ""
       },
       {
+        "code": "100diamonds_new",
+        "name": "100 Diamonds",
+        "description": ""
+      },
+      {
         "code": "105_credits",
         "name": "105 Credits",
         "description": ""
@@ -487,8 +492,18 @@
         "description": ""
       },
       {
+        "code": "150diamonds_new",
+        "name": "150 Diamonds",
+        "description": ""
+      },
+      {
         "code": "198_credits",
         "name": "Hanki 198 kolea ja timanttia 110:n hinnalla!",
+        "description": ""
+      },
+      {
+        "code": "198_credits_new",
+        "name": "Get 198 credits for the price of 110 credits!",
         "description": ""
       },
       {
@@ -504,6 +519,11 @@
       {
         "code": "220_credits",
         "name": "Hanki 220 kolea ja timanttia 110:n hinnalla!",
+        "description": ""
+      },
+      {
+        "code": "220_credits_new",
+        "name": "Get 220 credits for the price of 110 credits!",
         "description": ""
       },
       {
@@ -53252,6 +53272,11 @@
         "description": ""
       },
       {
+        "code": "duckets_200_new",
+        "name": "200 Duckets",
+        "description": ""
+      },
+      {
         "code": "duckets_25",
         "name": "25 duckettia",
         "description": ""
@@ -83802,6 +83827,11 @@
         "description": "nft_h26_haf_hologirl desc"
       },
       {
+        "code": "nft_h26_haf_junglesantini",
+        "name": "nft_h26_haf_junglesantini name",
+        "description": "nft_h26_haf_junglesantini desc"
+      },
+      {
         "code": "nft_h26_hafbox",
         "name": "Habbo toimintafiguuriboksi",
         "description": "nft_h26_hafbox desc"
@@ -108752,13 +108782,18 @@
         "description": ""
       },
       {
+        "code": "silver_135",
+        "name": "135 Silver",
+        "description": ""
+      },
+      {
         "code": "silver_2000",
         "name": "2000 hopeaa",
         "description": "Silver can be used to buy Curator Stamps for use in Collector Cabinets, exclusive items, and to cover Collectibles-related trading fees. More info here: hab.bo/3tlCW6B"
       },
       {
         "code": "silver_250",
-        "name": "250 Silver",
+        "name": "250 hopeaa",
         "description": ""
       },
       {

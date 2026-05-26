@@ -377,6 +377,11 @@
         "description": ""
       },
       {
+        "code": "100diamonds_new",
+        "name": "100 Diamonds",
+        "description": ""
+      },
+      {
         "code": "105_credits",
         "name": "105 Credits",
         "description": ""
@@ -412,8 +417,18 @@
         "description": ""
       },
       {
+        "code": "150diamonds_new",
+        "name": "150 Diamonds",
+        "description": ""
+      },
+      {
         "code": "198_credits",
         "name": "¡Consigue 198 créditos y diamantes al precio de 110!",
+        "description": ""
+      },
+      {
+        "code": "198_credits_new",
+        "name": "Get 198 credits for the price of 110 credits!",
         "description": ""
       },
       {
@@ -429,6 +444,11 @@
       {
         "code": "220_credits",
         "name": "¡Consigue 220 créditos y diamantes al precio de 110!",
+        "description": ""
+      },
+      {
+        "code": "220_credits_new",
+        "name": "Get 220 credits for the price of 110 credits!",
         "description": ""
       },
       {
@@ -52622,6 +52642,11 @@
         "description": ""
       },
       {
+        "code": "duckets_200_new",
+        "name": "200 Duckets",
+        "description": ""
+      },
+      {
         "code": "duckets_25",
         "name": "25 Duckets",
         "description": ""
@@ -83202,6 +83227,11 @@
         "description": "nft_h26_haf_hologirl desc"
       },
       {
+        "code": "nft_h26_haf_junglesantini",
+        "name": "nft_h26_haf_junglesantini name",
+        "description": "nft_h26_haf_junglesantini desc"
+      },
+      {
         "code": "nft_h26_hafbox",
         "name": "Caja Figura de Acción Habbo",
         "description": "nft_h26_hafbox desc"
@@ -108422,13 +108452,18 @@
         "description": ""
       },
       {
+        "code": "silver_135",
+        "name": "135 Silver",
+        "description": ""
+      },
+      {
         "code": "silver_2000",
         "name": "2000 Plata",
         "description": "La Plata se puede utilizar para comprar Sellos de Conservador para usar en la Tienda de Coleccionables, para artículos exclusivos y para cubrir las tarifas comerciales relacionadas con coleccionables. Más información aquí: hab.bo/42exj7p"
       },
       {
         "code": "silver_250",
-        "name": "250 Silver",
+        "name": "250 Plata",
         "description": ""
       },
       {
