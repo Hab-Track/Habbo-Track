@@ -19851,7 +19851,7 @@
             </set>
             <set id="6403" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="7257" type="cp" colorable="0" index="0" colorindex="0"/>
-                <part id="5758" type="cp" colorable="1" index="1" colorindex="1"/>
+                <part id="7258" type="cp" colorable="1" index="1" colorindex="1"/>
             </set>
             <set id="6404" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="7259" type="cp" colorable="0" index="0" colorindex="0"/>
@@ -20400,6 +20400,20 @@
                 <part id="7389" type="mc" colorable="1" index="1" colorindex="1"/>
                 <part id="7389" type="mcl" colorable="1" index="1" colorindex="1"/>
                 <part id="7389" type="mcr" colorable="1" index="1" colorindex="1"/>
+            </set>
+            <set id="6481" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="7415" type="mc" colorable="0" index="0" colorindex="0"/>
+                <part id="7415" type="mcl" colorable="0" index="0" colorindex="0"/>
+                <part id="7415" type="mcr" colorable="0" index="0" colorindex="0"/>
+                <part id="7416" type="mc" colorable="1" index="1" colorindex="1"/>
+                <part id="7416" type="mcl" colorable="1" index="1" colorindex="1"/>
+                <part id="7416" type="mcr" colorable="1" index="1" colorindex="1"/>
+                <part id="7417" type="mc" colorable="1" index="2" colorindex="2"/>
+                <part id="7417" type="mcl" colorable="1" index="2" colorindex="2"/>
+                <part id="7417" type="mcr" colorable="1" index="2" colorindex="2"/>
+                <hiddenlayers>
+                    <layer parttype="sh"/>
+                </hiddenlayers>
             </set>
             <set id="6486" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="7423" type="mc" colorable="0" index="0" colorindex="0"/>
