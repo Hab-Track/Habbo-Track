@@ -39183,7 +39183,7 @@
       },
       {
         "code": "clothing_nftflowerearrings",
-        "name": "clothing_nftflowerearrings name",
+        "name": "Kukkakorvikset",
         "description": "clothing_nftflowerearrings desc"
       },
       {
@@ -85228,7 +85228,7 @@
       },
       {
         "code": "nft_sc_giantcoconutdrink",
-        "name": "nft_sc_giantcoconutdrink name",
+        "name": "Jättimäinen kookos-cocktail",
         "description": "nft_sc_giantcoconutdrink desc"
       },
       {
@@ -85248,12 +85248,12 @@
       },
       {
         "code": "nft_sc_summer26duck",
-        "name": "nft_sc_summer26duck name",
+        "name": "Kesäankka",
         "description": "nft_sc_summer26duck desc"
       },
       {
         "code": "nft_sc_summer26penguin",
-        "name": "nft_sc_summer26penguin name",
+        "name": "Rantalomapingviini",
         "description": "nft_sc_summer26penguin desc"
       },
       {
@@ -105752,6 +105752,21 @@
         "description": "Nappaa tämä huonepaketti saadaksesi roppakaupalla alennusta taidegallerian klassikkoteoksista."
       },
       {
+        "code": "rotating_roomdeal457_10c",
+        "name": "Viidakkoseikkailu-huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal457_d",
+        "name": "Viidakkoseikkailu-huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal457",
+        "name": "Viidakkoseikkailu-huonepaketti",
+        "description": "Sukella upouuteen viidakkoseikkailuun. Luvassa uusia kamoja ja rehevää tunnelmaa – hanki omasi, ennen kuin liaanit peittävät sen. Huoneenrakentaja: Albertsoler."
+      },
+      {
         "code": "rotating_roomdeal45_10c",
         "name": "Arktinen huonepaketti",
         "description": "Laita lapaset ja lämmintä päälle, koska tämä paketti on äyräitä myöten täynnä jäisiä, talvisia ihanuuksia! Mukana ainutlaatuinen Karhun pensaspatsas. Mukana 10 kolikkoa."
@@ -107423,7 +107438,7 @@
       },
       {
         "code": "sc_giantcoconutdrink",
-        "name": "sc_giantcoconutdrink name",
+        "name": "Jättimäinen kookos-cocktail",
         "description": "sc_giantcoconutdrink desc"
       },
       {
@@ -107443,12 +107458,12 @@
       },
       {
         "code": "sc_summer26duck",
-        "name": "sc_summer26duck name",
+        "name": "Kesäankka",
         "description": "sc_summer26duck desc"
       },
       {
         "code": "sc_summer26penguin",
-        "name": "sc_summer26penguin name",
+        "name": "Rantalomapingviini",
         "description": "sc_summer26penguin desc"
       },
       {
