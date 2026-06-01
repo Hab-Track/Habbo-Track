@@ -33337,6 +33337,11 @@
         "description": ""
       },
       {
+        "code": "cl_ltd26_vinewings_bd",
+        "name": "Liaanisiivet",
+        "description": ""
+      },
+      {
         "code": "cl_nftfestashirt_bd",
         "name": "Festa-paita",
         "description": ""
@@ -33509,6 +33514,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robottikaveri",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_tigeronesie_bd",
+        "name": "Tiikerihaalarit",
         "description": ""
       },
       {
@@ -38033,7 +38043,7 @@
       },
       {
         "code": "clothing_ltd26_vinewings",
-        "name": "clothing_ltd26_vinewings name",
+        "name": "Liaanisiivet",
         "description": "clothing_ltd26_vinewings desc"
       },
       {
@@ -44323,17 +44333,17 @@
       },
       {
         "code": "clothing_r26_spider",
-        "name": "clothing_r26_spider name",
+        "name": "Myrkkyhämishattu",
         "description": "clothing_r26_spider desc"
       },
       {
         "code": "clothing_r26_tigeronesie",
-        "name": "clothing_r26_tigeronesie name",
+        "name": "Tiikerihaalarit",
         "description": "clothing_r26_tigeronesie desc"
       },
       {
         "code": "clothing_r26_toucancompanion",
-        "name": "clothing_r26_toucancompanion name",
+        "name": "Lemmikkitukaani",
         "description": "clothing_r26_toucancompanion desc"
       },
       {
@@ -74027,8 +74037,13 @@
         "description": "Kaistale viidakkoa"
       },
       {
+        "code": "lt_ltd26_juicedispenser_bd",
+        "name": "Viidakon kuplajuomakone",
+        "description": ""
+      },
+      {
         "code": "lt_ltd26_woodjuicedispenser",
-        "name": "lt_ltd26_woodjuicedispenser name",
+        "name": "Viidakon kuplajuomakone",
         "description": "lt_ltd26_woodjuicedispenser desc"
       },
       {
@@ -74043,52 +74058,72 @@
       },
       {
         "code": "lt_r26_crackable",
-        "name": "lt_r26_crackable name",
+        "name": "Viidakkolahjapaketti",
         "description": "lt_r26_crackable desc"
       },
       {
         "code": "lt_r26_fan",
-        "name": "lt_r26_fan name",
+        "name": "Viidakkotuuletin",
         "description": "lt_r26_fan desc"
       },
       {
         "code": "lt_r26_fountain",
-        "name": "lt_r26_fountain name",
+        "name": "Viidakkolähde",
         "description": "lt_r26_fountain desc"
       },
       {
+        "code": "lt_r26_gemstatue_bd",
+        "name": "Jalokivikoristeinen krokotiilipatsas",
+        "description": ""
+      },
+      {
         "code": "lt_r26_gemstatue",
-        "name": "lt_r26_gemstatue name",
+        "name": "Jalokivikoristeinen krokotiilipatsas",
         "description": "lt_r26_gemstatue desc"
       },
       {
         "code": "lt_r26_icecream",
-        "name": "lt_r26_icecream name",
+        "name": "Viidakkojäätelökone",
         "description": "lt_r26_icecream desc"
       },
       {
         "code": "lt_r26_parasol",
-        "name": "lt_r26_parasol name",
+        "name": "Viidakon päivänvarjo",
         "description": "lt_r26_parasol desc"
       },
       {
+        "code": "lt_r26_totem1_bd",
+        "name": "Viidakkototeemin pohja",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem1",
-        "name": "lt_r26_totem1 name",
+        "name": "Viidakkototeemin pohja",
         "description": "lt_r26_totem1 desc"
       },
       {
+        "code": "lt_r26_totem2_bd",
+        "name": "Viidakkototeemin runko",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem2",
-        "name": "lt_r26_totem2 name",
+        "name": "Viidakkototeemin runko",
         "description": "lt_r26_totem2 desc"
       },
       {
+        "code": "lt_r26_totem3_bd",
+        "name": "Viidakkototeemin huippu",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem3",
-        "name": "lt_r26_totem3 name",
+        "name": "Viidakkototeemin huippu",
         "description": "lt_r26_totem3 desc"
       },
       {
         "code": "lt_r26_totemset_bd",
-        "name": "Jungle Totem Set",
+        "name": "Viidakkototeemisarja",
         "description": ""
       },
       {

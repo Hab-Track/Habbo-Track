@@ -32047,6 +32047,11 @@
         "description": ""
       },
       {
+        "code": "cl_ltd26_vinewings_bd",
+        "name": "Ailes vigne",
+        "description": ""
+      },
+      {
         "code": "cl_nftfestashirt_bd",
         "name": "Chemise de fête",
         "description": ""
@@ -32219,6 +32224,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Compagnon robot",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_tigeronesie_bd",
+        "name": "Onesie tigre",
         "description": ""
       },
       {
@@ -36738,7 +36748,7 @@
       },
       {
         "code": "clothing_ltd26_vinewings",
-        "name": "clothing_ltd26_vinewings name",
+        "name": "Ailes vigne",
         "description": "clothing_ltd26_vinewings desc"
       },
       {
@@ -43028,17 +43038,17 @@
       },
       {
         "code": "clothing_r26_spider",
-        "name": "clothing_r26_spider name",
+        "name": "Chapeau araignée venimeuse",
         "description": "clothing_r26_spider desc"
       },
       {
         "code": "clothing_r26_tigeronesie",
-        "name": "clothing_r26_tigeronesie name",
+        "name": "Onesie tigre",
         "description": "clothing_r26_tigeronesie desc"
       },
       {
         "code": "clothing_r26_toucancompanion",
-        "name": "clothing_r26_toucancompanion name",
+        "name": "Animal Toucan",
         "description": "clothing_r26_toucancompanion desc"
       },
       {
@@ -72197,8 +72207,13 @@
         "description": "Sauvage !"
       },
       {
+        "code": "lt_ltd26_juicedispenser_bd",
+        "name": "Distributeur Bubblejuice Jungle",
+        "description": ""
+      },
+      {
         "code": "lt_ltd26_woodjuicedispenser",
-        "name": "lt_ltd26_woodjuicedispenser name",
+        "name": "Distributeur Bubblejuice Jungle",
         "description": "lt_ltd26_woodjuicedispenser desc"
       },
       {
@@ -72213,52 +72228,72 @@
       },
       {
         "code": "lt_r26_crackable",
-        "name": "lt_r26_crackable name",
+        "name": "Boîte-cadeau jungle",
         "description": "lt_r26_crackable desc"
       },
       {
         "code": "lt_r26_fan",
-        "name": "lt_r26_fan name",
+        "name": "Ventilateur jungle",
         "description": "lt_r26_fan desc"
       },
       {
         "code": "lt_r26_fountain",
-        "name": "lt_r26_fountain name",
+        "name": "Fontaine jungle",
         "description": "lt_r26_fountain desc"
       },
       {
+        "code": "lt_r26_gemstatue_bd",
+        "name": "Statue idole pierres précieuses",
+        "description": ""
+      },
+      {
         "code": "lt_r26_gemstatue",
-        "name": "lt_r26_gemstatue name",
+        "name": "Statue idole pierres précieuses",
         "description": "lt_r26_gemstatue desc"
       },
       {
         "code": "lt_r26_icecream",
-        "name": "lt_r26_icecream name",
+        "name": "Sorbetière jungle",
         "description": "lt_r26_icecream desc"
       },
       {
         "code": "lt_r26_parasol",
-        "name": "lt_r26_parasol name",
+        "name": "Parasol jungle",
         "description": "lt_r26_parasol desc"
       },
       {
+        "code": "lt_r26_totem1_bd",
+        "name": "Base Totem jungle",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem1",
-        "name": "lt_r26_totem1 name",
+        "name": "Base Totem jungle",
         "description": "lt_r26_totem1 desc"
       },
       {
+        "code": "lt_r26_totem2_bd",
+        "name": "Corps Totem jungle",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem2",
-        "name": "lt_r26_totem2 name",
+        "name": "Corps Totem jungle",
         "description": "lt_r26_totem2 desc"
       },
       {
+        "code": "lt_r26_totem3_bd",
+        "name": "Tête Totem jungle",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem3",
-        "name": "lt_r26_totem3 name",
+        "name": "Tête Totem jungle",
         "description": "lt_r26_totem3 desc"
       },
       {
         "code": "lt_r26_totemset_bd",
-        "name": "Jungle Totem Set",
+        "name": "Ensemble Totem jungle",
         "description": ""
       },
       {

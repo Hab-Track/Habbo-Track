@@ -32737,6 +32737,11 @@
         "description": ""
       },
       {
+        "code": "cl_ltd26_vinewings_bd",
+        "name": "Asas Planta Trepadeira",
+        "description": ""
+      },
+      {
         "code": "cl_nftfestashirt_bd",
         "name": "Camisa Festa",
         "description": ""
@@ -32909,6 +32914,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robô Companheiro",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_tigeronesie_bd",
+        "name": "Macacão Tigre",
         "description": ""
       },
       {
@@ -37443,7 +37453,7 @@
       },
       {
         "code": "clothing_ltd26_vinewings",
-        "name": "clothing_ltd26_vinewings name",
+        "name": "Asas Planta Trepadeira",
         "description": "clothing_ltd26_vinewings desc"
       },
       {
@@ -43743,17 +43753,17 @@
       },
       {
         "code": "clothing_r26_spider",
-        "name": "clothing_r26_spider name",
+        "name": "Chapéu Aranha Venenosa",
         "description": "clothing_r26_spider desc"
       },
       {
         "code": "clothing_r26_tigeronesie",
-        "name": "clothing_r26_tigeronesie name",
+        "name": "Macacão Tigre",
         "description": "clothing_r26_tigeronesie desc"
       },
       {
         "code": "clothing_r26_toucancompanion",
-        "name": "clothing_r26_toucancompanion name",
+        "name": "Mascote Tucano",
         "description": "clothing_r26_toucancompanion desc"
       },
       {
@@ -73942,8 +73952,13 @@
         "description": "Não ande por aí sozinho"
       },
       {
+        "code": "lt_ltd26_juicedispenser_bd",
+        "name": "Máquina Bubblejuice Selva",
+        "description": ""
+      },
+      {
         "code": "lt_ltd26_woodjuicedispenser",
-        "name": "lt_ltd26_woodjuicedispenser name",
+        "name": "Máquina Bubblejuice Selva",
         "description": "lt_ltd26_woodjuicedispenser desc"
       },
       {
@@ -73958,52 +73973,72 @@
       },
       {
         "code": "lt_r26_crackable",
-        "name": "lt_r26_crackable name",
+        "name": "Caixa-Presente Selva",
         "description": "lt_r26_crackable desc"
       },
       {
         "code": "lt_r26_fan",
-        "name": "lt_r26_fan name",
+        "name": "Ventilador Poderoso Selva",
         "description": "lt_r26_fan desc"
       },
       {
         "code": "lt_r26_fountain",
-        "name": "lt_r26_fountain name",
+        "name": "Fonte Selva",
         "description": "lt_r26_fountain desc"
       },
       {
+        "code": "lt_r26_gemstatue_bd",
+        "name": "Estátua Ídolo Pedras Preciosas",
+        "description": ""
+      },
+      {
         "code": "lt_r26_gemstatue",
-        "name": "lt_r26_gemstatue name",
+        "name": "Estátua Ídolo Pedras Preciosas",
         "description": "lt_r26_gemstatue desc"
       },
       {
         "code": "lt_r26_icecream",
-        "name": "lt_r26_icecream name",
+        "name": "Sorveteira Selva",
         "description": "lt_r26_icecream desc"
       },
       {
         "code": "lt_r26_parasol",
-        "name": "lt_r26_parasol name",
+        "name": "Guarda-sol Selva",
         "description": "lt_r26_parasol desc"
       },
       {
+        "code": "lt_r26_totem1_bd",
+        "name": "Base Totem Selva",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem1",
-        "name": "lt_r26_totem1 name",
+        "name": "Base Totem Selva",
         "description": "lt_r26_totem1 desc"
       },
       {
+        "code": "lt_r26_totem2_bd",
+        "name": "Corpo Totem Selva",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem2",
-        "name": "lt_r26_totem2 name",
+        "name": "Corpo Totem Selva",
         "description": "lt_r26_totem2 desc"
       },
       {
+        "code": "lt_r26_totem3_bd",
+        "name": "Cabeça Totem Selva",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem3",
-        "name": "lt_r26_totem3 name",
+        "name": "Cabeça Totem Selva",
         "description": "lt_r26_totem3 desc"
       },
       {
         "code": "lt_r26_totemset_bd",
-        "name": "Jungle Totem Set",
+        "name": "Conjunto Totem Selva",
         "description": ""
       },
       {

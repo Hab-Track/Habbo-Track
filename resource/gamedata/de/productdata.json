@@ -32142,6 +32142,11 @@
         "description": ""
       },
       {
+        "code": "cl_ltd26_vinewings_bd",
+        "name": "Weinrebenflügel",
+        "description": ""
+      },
+      {
         "code": "cl_nftfestashirt_bd",
         "name": "Festa-Bluse",
         "description": ""
@@ -32314,6 +32319,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robotbegleiter",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_tigeronesie_bd",
+        "name": "Tiger-Einteiler",
         "description": ""
       },
       {
@@ -36838,7 +36848,7 @@
       },
       {
         "code": "clothing_ltd26_vinewings",
-        "name": "clothing_ltd26_vinewings name",
+        "name": "Weinrebenflügel",
         "description": "clothing_ltd26_vinewings desc"
       },
       {
@@ -43128,17 +43138,17 @@
       },
       {
         "code": "clothing_r26_spider",
-        "name": "clothing_r26_spider name",
+        "name": "Giftspinnen-Hut",
         "description": "clothing_r26_spider desc"
       },
       {
         "code": "clothing_r26_tigeronesie",
-        "name": "clothing_r26_tigeronesie name",
+        "name": "Tiger-Einteiler",
         "description": "clothing_r26_tigeronesie desc"
       },
       {
         "code": "clothing_r26_toucancompanion",
-        "name": "clothing_r26_toucancompanion name",
+        "name": "Tukan-Haustier",
         "description": "clothing_r26_toucancompanion desc"
       },
       {
@@ -73087,8 +73097,13 @@
         "description": "Die grüne Hölle..."
       },
       {
+        "code": "lt_ltd26_juicedispenser_bd",
+        "name": "Dschungel-Bubblejuice-Automat",
+        "description": ""
+      },
+      {
         "code": "lt_ltd26_woodjuicedispenser",
-        "name": "lt_ltd26_woodjuicedispenser name",
+        "name": "Dschungel-Bubblejuice-Automat",
         "description": "lt_ltd26_woodjuicedispenser desc"
       },
       {
@@ -73103,52 +73118,72 @@
       },
       {
         "code": "lt_r26_crackable",
-        "name": "lt_r26_crackable name",
+        "name": "Dschungel-Geschenkbox",
         "description": "lt_r26_crackable desc"
       },
       {
         "code": "lt_r26_fan",
-        "name": "lt_r26_fan name",
+        "name": "Dschungel-Ventilator",
         "description": "lt_r26_fan desc"
       },
       {
         "code": "lt_r26_fountain",
-        "name": "lt_r26_fountain name",
+        "name": "Dschungel-Brunnen",
         "description": "lt_r26_fountain desc"
       },
       {
+        "code": "lt_r26_gemstatue_bd",
+        "name": "Edelstein Idol-Statue",
+        "description": ""
+      },
+      {
         "code": "lt_r26_gemstatue",
-        "name": "lt_r26_gemstatue name",
+        "name": "Edelstein Idol-Statue",
         "description": "lt_r26_gemstatue desc"
       },
       {
         "code": "lt_r26_icecream",
-        "name": "lt_r26_icecream name",
+        "name": "Dschungel-Eisautomat",
         "description": "lt_r26_icecream desc"
       },
       {
         "code": "lt_r26_parasol",
-        "name": "lt_r26_parasol name",
+        "name": "Dschungel-Sonnenschirm",
         "description": "lt_r26_parasol desc"
       },
       {
+        "code": "lt_r26_totem1_bd",
+        "name": "Dschungel-Totemstandsockel",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem1",
-        "name": "lt_r26_totem1 name",
+        "name": "Dschungel-Totemstandsockel",
         "description": "lt_r26_totem1 desc"
       },
       {
+        "code": "lt_r26_totem2_bd",
+        "name": "Dschungel-Totemkörper",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem2",
-        "name": "lt_r26_totem2 name",
+        "name": "Dschungel-Totemkörper",
         "description": "lt_r26_totem2 desc"
       },
       {
+        "code": "lt_r26_totem3_bd",
+        "name": "Dschungel-Totemkopf",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem3",
-        "name": "lt_r26_totem3 name",
+        "name": "Dschungel-Totemkopf",
         "description": "lt_r26_totem3 desc"
       },
       {
         "code": "lt_r26_totemset_bd",
-        "name": "Jungle Totem Set",
+        "name": "Dschungel-Totem-Set",
         "description": ""
       },
       {

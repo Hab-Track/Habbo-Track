@@ -32527,6 +32527,11 @@
         "description": ""
       },
       {
+        "code": "cl_ltd26_vinewings_bd",
+        "name": "Alas Enredadera",
+        "description": ""
+      },
+      {
         "code": "cl_nftfestashirt_bd",
         "name": "Camiseta de Festa",
         "description": ""
@@ -32699,6 +32704,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robot de Compañía",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_tigeronesie_bd",
+        "name": "Mono Tigre",
         "description": ""
       },
       {
@@ -37238,7 +37248,7 @@
       },
       {
         "code": "clothing_ltd26_vinewings",
-        "name": "clothing_ltd26_vinewings name",
+        "name": "Alas Enredadera",
         "description": "clothing_ltd26_vinewings desc"
       },
       {
@@ -43538,17 +43548,17 @@
       },
       {
         "code": "clothing_r26_spider",
-        "name": "clothing_r26_spider name",
+        "name": "Araña Venenosa en la Cabeza",
         "description": "clothing_r26_spider desc"
       },
       {
         "code": "clothing_r26_tigeronesie",
-        "name": "clothing_r26_tigeronesie name",
+        "name": "Mono Tigre",
         "description": "clothing_r26_tigeronesie desc"
       },
       {
         "code": "clothing_r26_toucancompanion",
-        "name": "clothing_r26_toucancompanion name",
+        "name": "Mascota Tucán",
         "description": "clothing_r26_toucancompanion desc"
       },
       {
@@ -73517,8 +73527,13 @@
         "description": "¿Te atreves a penetrar en ella?"
       },
       {
+        "code": "lt_ltd26_juicedispenser_bd",
+        "name": "Dispensador Zumo de Burbujas de la Jungla",
+        "description": ""
+      },
+      {
         "code": "lt_ltd26_woodjuicedispenser",
-        "name": "lt_ltd26_woodjuicedispenser name",
+        "name": "Dispensador Zumo de Burbujas de la Jungla",
         "description": "lt_ltd26_woodjuicedispenser desc"
       },
       {
@@ -73533,52 +73548,72 @@
       },
       {
         "code": "lt_r26_crackable",
-        "name": "lt_r26_crackable name",
+        "name": "Caja Regalo de la Jungla",
         "description": "lt_r26_crackable desc"
       },
       {
         "code": "lt_r26_fan",
-        "name": "lt_r26_fan name",
+        "name": "Ventolera de la Jungla",
         "description": "lt_r26_fan desc"
       },
       {
         "code": "lt_r26_fountain",
-        "name": "lt_r26_fountain name",
+        "name": "Fontana de la Jungla",
         "description": "lt_r26_fountain desc"
       },
       {
+        "code": "lt_r26_gemstatue_bd",
+        "name": "Estatua Ídolo de Piedras Preciosas",
+        "description": ""
+      },
+      {
         "code": "lt_r26_gemstatue",
-        "name": "lt_r26_gemstatue name",
+        "name": "Estatua Ídolo de Piedras Preciosas",
         "description": "lt_r26_gemstatue desc"
       },
       {
         "code": "lt_r26_icecream",
-        "name": "lt_r26_icecream name",
+        "name": "Máquina de Helados de la Jungla",
         "description": "lt_r26_icecream desc"
       },
       {
         "code": "lt_r26_parasol",
-        "name": "lt_r26_parasol name",
+        "name": "Sombrilla de la Jungla",
         "description": "lt_r26_parasol desc"
       },
       {
+        "code": "lt_r26_totem1_bd",
+        "name": "Base Tótem de la Jungla",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem1",
-        "name": "lt_r26_totem1 name",
+        "name": "Base Tótem de la Jungla",
         "description": "lt_r26_totem1 desc"
       },
       {
+        "code": "lt_r26_totem2_bd",
+        "name": "Cuerpo Tótem de la Jungla",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem2",
-        "name": "lt_r26_totem2 name",
+        "name": "Cuerpo Tótem de la Jungla",
         "description": "lt_r26_totem2 desc"
       },
       {
+        "code": "lt_r26_totem3_bd",
+        "name": "Cabeza Tótem de la Jungla",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem3",
-        "name": "lt_r26_totem3 name",
+        "name": "Cabeza Tótem de la Jungla",
         "description": "lt_r26_totem3 desc"
       },
       {
         "code": "lt_r26_totemset_bd",
-        "name": "Jungle Totem Set",
+        "name": "Set Tótem de la Jungla",
         "description": ""
       },
       {

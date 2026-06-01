@@ -33117,6 +33117,11 @@
         "description": ""
       },
       {
+        "code": "cl_ltd26_vinewings_bd",
+        "name": "Vine Wings",
+        "description": ""
+      },
+      {
         "code": "cl_nftfestashirt_bd",
         "name": "Festa Shirt",
         "description": ""
@@ -33289,6 +33294,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robot Companion",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_tigeronesie_bd",
+        "name": "Tiger Onesie",
         "description": ""
       },
       {
@@ -37808,7 +37818,7 @@
       },
       {
         "code": "clothing_ltd26_vinewings",
-        "name": "clothing_ltd26_vinewings name",
+        "name": "Vine Wings",
         "description": "clothing_ltd26_vinewings desc"
       },
       {
@@ -44098,17 +44108,17 @@
       },
       {
         "code": "clothing_r26_spider",
-        "name": "clothing_r26_spider name",
+        "name": "Poisonous Spider Hat",
         "description": "clothing_r26_spider desc"
       },
       {
         "code": "clothing_r26_tigeronesie",
-        "name": "clothing_r26_tigeronesie name",
+        "name": "Tiger Onesie",
         "description": "clothing_r26_tigeronesie desc"
       },
       {
         "code": "clothing_r26_toucancompanion",
-        "name": "clothing_r26_toucancompanion name",
+        "name": "Pet Toucan",
         "description": "clothing_r26_toucancompanion desc"
       },
       {
@@ -80297,8 +80307,13 @@
         "description": "Act like a monkey and climb."
       },
       {
+        "code": "lt_ltd26_juicedispenser_bd",
+        "name": "Jungle Bubblejuice Dispenser",
+        "description": ""
+      },
+      {
         "code": "lt_ltd26_woodjuicedispenser",
-        "name": "lt_ltd26_woodjuicedispenser name",
+        "name": "Jungle Bubblejuice Dispenser",
         "description": "lt_ltd26_woodjuicedispenser desc"
       },
       {
@@ -80313,47 +80328,67 @@
       },
       {
         "code": "lt_r26_crackable",
-        "name": "lt_r26_crackable name",
+        "name": "Jungle Gift Box",
         "description": "lt_r26_crackable desc"
       },
       {
         "code": "lt_r26_fan",
-        "name": "lt_r26_fan name",
+        "name": "Jungle Powered Fan",
         "description": "lt_r26_fan desc"
       },
       {
         "code": "lt_r26_fountain",
-        "name": "lt_r26_fountain name",
+        "name": "Jungle Fountain",
         "description": "lt_r26_fountain desc"
       },
       {
+        "code": "lt_r26_gemstatue_bd",
+        "name": "Gemstone Idol Statue",
+        "description": ""
+      },
+      {
         "code": "lt_r26_gemstatue",
-        "name": "lt_r26_gemstatue name",
+        "name": "Gemstone Idol Statue",
         "description": "lt_r26_gemstatue desc"
       },
       {
         "code": "lt_r26_icecream",
-        "name": "lt_r26_icecream name",
+        "name": "Jungle Ice Cream Machine",
         "description": "lt_r26_icecream desc"
       },
       {
         "code": "lt_r26_parasol",
-        "name": "lt_r26_parasol name",
+        "name": "Jungle Parasol",
         "description": "lt_r26_parasol desc"
       },
       {
+        "code": "lt_r26_totem1_bd",
+        "name": "Jungle Totem Base",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem1",
-        "name": "lt_r26_totem1 name",
+        "name": "Jungle Totem Base",
         "description": "lt_r26_totem1 desc"
       },
       {
+        "code": "lt_r26_totem2_bd",
+        "name": "Jungle Totem Body",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem2",
-        "name": "lt_r26_totem2 name",
+        "name": "Jungle Totem Body",
         "description": "lt_r26_totem2 desc"
       },
       {
+        "code": "lt_r26_totem3_bd",
+        "name": "Jungle Totem Head",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem3",
-        "name": "lt_r26_totem3 name",
+        "name": "Jungle Totem Head",
         "description": "lt_r26_totem3 desc"
       },
       {

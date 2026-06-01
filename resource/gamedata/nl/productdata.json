@@ -31852,6 +31852,11 @@
         "description": ""
       },
       {
+        "code": "cl_ltd26_vinewings_bd",
+        "name": "Wijnstokken Vleugels",
+        "description": ""
+      },
+      {
         "code": "cl_nftfestashirt_bd",
         "name": "Feestelijk T-Shirt",
         "description": ""
@@ -32024,6 +32029,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robot Vriendje",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_tigeronesie_bd",
+        "name": "Tijger Onesie",
         "description": ""
       },
       {
@@ -36558,7 +36568,7 @@
       },
       {
         "code": "clothing_ltd26_vinewings",
-        "name": "clothing_ltd26_vinewings name",
+        "name": "Wijnstokken Vleugels",
         "description": "clothing_ltd26_vinewings desc"
       },
       {
@@ -42848,17 +42858,17 @@
       },
       {
         "code": "clothing_r26_spider",
-        "name": "clothing_r26_spider name",
+        "name": "Giftige Spin op je Hoofd",
         "description": "clothing_r26_spider desc"
       },
       {
         "code": "clothing_r26_tigeronesie",
-        "name": "clothing_r26_tigeronesie name",
+        "name": "Tijger Onesie",
         "description": "clothing_r26_tigeronesie desc"
       },
       {
         "code": "clothing_r26_toucancompanion",
-        "name": "clothing_r26_toucancompanion name",
+        "name": "Toekan Vriendje",
         "description": "clothing_r26_toucancompanion desc"
       },
       {
@@ -73827,8 +73837,13 @@
         "description": ""
       },
       {
+        "code": "lt_ltd26_juicedispenser_bd",
+        "name": "Jungle Bubblejuice Machine",
+        "description": ""
+      },
+      {
         "code": "lt_ltd26_woodjuicedispenser",
-        "name": "lt_ltd26_woodjuicedispenser name",
+        "name": "Jungle Bubblejuice Machine",
         "description": "lt_ltd26_woodjuicedispenser desc"
       },
       {
@@ -73843,47 +73858,67 @@
       },
       {
         "code": "lt_r26_crackable",
-        "name": "lt_r26_crackable name",
+        "name": "Jungle Cadeaudoos",
         "description": "lt_r26_crackable desc"
       },
       {
         "code": "lt_r26_fan",
-        "name": "lt_r26_fan name",
+        "name": "Jungle Hitteflipper",
         "description": "lt_r26_fan desc"
       },
       {
         "code": "lt_r26_fountain",
-        "name": "lt_r26_fountain name",
+        "name": "Jungle Fontein",
         "description": "lt_r26_fountain desc"
       },
       {
+        "code": "lt_r26_gemstatue_bd",
+        "name": "Idool Standbeeld met Edelsteen",
+        "description": ""
+      },
+      {
         "code": "lt_r26_gemstatue",
-        "name": "lt_r26_gemstatue name",
+        "name": "Idool Standbeeld met Edelsteen",
         "description": "lt_r26_gemstatue desc"
       },
       {
         "code": "lt_r26_icecream",
-        "name": "lt_r26_icecream name",
+        "name": "Jungle IJsmachine",
         "description": "lt_r26_icecream desc"
       },
       {
         "code": "lt_r26_parasol",
-        "name": "lt_r26_parasol name",
+        "name": "Jungle Parasol",
         "description": "lt_r26_parasol desc"
       },
       {
+        "code": "lt_r26_totem1_bd",
+        "name": "Jungle Totem Onderkant",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem1",
-        "name": "lt_r26_totem1 name",
+        "name": "Jungle Totem Onderkant",
         "description": "lt_r26_totem1 desc"
       },
       {
+        "code": "lt_r26_totem2_bd",
+        "name": "Jungle Totem Middenstuk",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem2",
-        "name": "lt_r26_totem2 name",
+        "name": "Jungle Totem Middenstuk",
         "description": "lt_r26_totem2 desc"
       },
       {
+        "code": "lt_r26_totem3_bd",
+        "name": "Jungle Totem Hoofd",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem3",
-        "name": "lt_r26_totem3 name",
+        "name": "Jungle Totem Hoofd",
         "description": "lt_r26_totem3 desc"
       },
       {

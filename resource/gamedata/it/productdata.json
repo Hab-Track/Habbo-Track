@@ -32677,6 +32677,11 @@
         "description": ""
       },
       {
+        "code": "cl_ltd26_vinewings_bd",
+        "name": "Ali di Vite",
+        "description": ""
+      },
+      {
         "code": "cl_nftfestashirt_bd",
         "name": "Blusa Festa",
         "description": ""
@@ -32849,6 +32854,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Compagno Robot",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_tigeronesie_bd",
+        "name": "TutaTigre",
         "description": ""
       },
       {
@@ -37363,7 +37373,7 @@
       },
       {
         "code": "clothing_ltd26_vinewings",
-        "name": "clothing_ltd26_vinewings name",
+        "name": "Ali di Vite",
         "description": "clothing_ltd26_vinewings desc"
       },
       {
@@ -43653,17 +43663,17 @@
       },
       {
         "code": "clothing_r26_spider",
-        "name": "clothing_r26_spider name",
+        "name": "Cappello Ragno Velenoso",
         "description": "clothing_r26_spider desc"
       },
       {
         "code": "clothing_r26_tigeronesie",
-        "name": "clothing_r26_tigeronesie name",
+        "name": "Tuta Tigre",
         "description": "clothing_r26_tigeronesie desc"
       },
       {
         "code": "clothing_r26_toucancompanion",
-        "name": "clothing_r26_toucancompanion name",
+        "name": "Tucano da Compagnia",
         "description": "clothing_r26_toucancompanion desc"
       },
       {
@@ -74097,8 +74107,13 @@
         "description": "Attento a non bruciarti!"
       },
       {
+        "code": "lt_ltd26_juicedispenser_bd",
+        "name": "Distributore Bubblejuice della Giungla",
+        "description": ""
+      },
+      {
         "code": "lt_ltd26_woodjuicedispenser",
-        "name": "lt_ltd26_woodjuicedispenser name",
+        "name": "Distributore Bubblejuice della Giungla",
         "description": "lt_ltd26_woodjuicedispenser desc"
       },
       {
@@ -74113,52 +74128,72 @@
       },
       {
         "code": "lt_r26_crackable",
-        "name": "lt_r26_crackable name",
+        "name": "Scatola Regalo della Giungla",
         "description": "lt_r26_crackable desc"
       },
       {
         "code": "lt_r26_fan",
-        "name": "lt_r26_fan name",
+        "name": "Ventilatore della Giungla",
         "description": "lt_r26_fan desc"
       },
       {
         "code": "lt_r26_fountain",
-        "name": "lt_r26_fountain name",
+        "name": "Fontana della Giungla",
         "description": "lt_r26_fountain desc"
       },
       {
+        "code": "lt_r26_gemstatue_bd",
+        "name": "Statua Idolo di Gemme",
+        "description": ""
+      },
+      {
         "code": "lt_r26_gemstatue",
-        "name": "lt_r26_gemstatue name",
+        "name": "Statua Idolo di Gemme",
         "description": "lt_r26_gemstatue desc"
       },
       {
         "code": "lt_r26_icecream",
-        "name": "lt_r26_icecream name",
+        "name": "Macchina Gelato della Giungla",
         "description": "lt_r26_icecream desc"
       },
       {
         "code": "lt_r26_parasol",
-        "name": "lt_r26_parasol name",
+        "name": "Ombrellone della Giungla",
         "description": "lt_r26_parasol desc"
       },
       {
+        "code": "lt_r26_totem1_bd",
+        "name": "Base Totem della Giungla",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem1",
-        "name": "lt_r26_totem1 name",
+        "name": "Base Totem della Giungla",
         "description": "lt_r26_totem1 desc"
       },
       {
+        "code": "lt_r26_totem2_bd",
+        "name": "Corpo Totem della Giungla",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem2",
-        "name": "lt_r26_totem2 name",
+        "name": "Corpo Totem della Giungla",
         "description": "lt_r26_totem2 desc"
       },
       {
+        "code": "lt_r26_totem3_bd",
+        "name": "Testa Totem della Giungla",
+        "description": ""
+      },
+      {
         "code": "lt_r26_totem3",
-        "name": "lt_r26_totem3 name",
+        "name": "Testa Totem della Giungla",
         "description": "lt_r26_totem3 desc"
       },
       {
         "code": "lt_r26_totemset_bd",
-        "name": "Jungle Totem Set",
+        "name": "Set Totem della Giungla",
         "description": ""
       },
       {
