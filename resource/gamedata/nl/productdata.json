@@ -32032,8 +32032,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_spider_bd",
+        "name": "Giftige Spin op je Hoofd",
+        "description": ""
+      },
+      {
         "code": "cl_r26_tigeronesie_bd",
         "name": "Tijger Onesie",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_toucan_bd",
+        "name": "Toekan Vriendje",
         "description": ""
       },
       {
@@ -52793,7 +52803,7 @@
       },
       {
         "code": "ducket_c26_anchorpillow",
-        "name": "ducket_c26_anchorpillow name",
+        "name": "Anchor Throw Pillow",
         "description": "ducket_c26_anchorpillow desc"
       },
       {
@@ -52823,7 +52833,7 @@
       },
       {
         "code": "ducket_c26_decofish",
-        "name": "ducket_c26_decofish name",
+        "name": "Decorative Fish",
         "description": "ducket_c26_decofish desc"
       },
       {
@@ -52838,7 +52848,7 @@
       },
       {
         "code": "ducket_c26_glasslantern",
-        "name": "ducket_c26_glasslantern name",
+        "name": "Sea Glass Lanterns",
         "description": "ducket_c26_glasslantern desc"
       },
       {
@@ -52888,12 +52898,12 @@
       },
       {
         "code": "ducket_c26_nauticalpillow",
-        "name": "ducket_c26_nauticalpillow name",
+        "name": "Nautical Throw Pillow",
         "description": "ducket_c26_nauticalpillow desc"
       },
       {
         "code": "ducket_c26_seachair",
-        "name": "ducket_c26_seachair name",
+        "name": "Seaside Chair",
         "description": "ducket_c26_seachair desc"
       },
       {
@@ -52917,13 +52927,28 @@
         "description": "ducket_c26_sweetflowers desc"
       },
       {
+        "code": "ducket_dia_anchorpillow",
+        "name": "Anchor Throw Pillow",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_beeplushie",
         "name": "Bijen Knuffel",
         "description": ""
       },
       {
+        "code": "ducket_dia_decofish",
+        "name": "Decorative Fish",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_flowerbench",
         "name": "Blooming Bench",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_glasslantern",
+        "name": "Sea Glass Lanterns",
         "description": ""
       },
       {
@@ -52959,6 +52984,16 @@
       {
         "code": "ducket_dia_honeyvase",
         "name": "Zonnebloemen voor op de Vensterbank",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_nauticalpillow",
+        "name": "Nautical Throw Pillow",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_seachair",
+        "name": "Seaside Chair",
         "description": ""
       },
       {
@@ -70157,6 +70192,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_457",
+        "name": "Jungle Run Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -71579,6 +71619,11 @@
       {
         "code": "jun24_silo_internal",
         "name": "Silo Bundle",
+        "description": ""
+      },
+      {
+        "code": "june26_special1_internal",
+        "name": "Jungle Run Bundle",
         "description": ""
       },
       {
@@ -73862,9 +73907,19 @@
         "description": "lt_r26_crackable desc"
       },
       {
+        "code": "lt_r26_fan_bd",
+        "name": "Jungle Hitteflipper",
+        "description": ""
+      },
+      {
         "code": "lt_r26_fan",
         "name": "Jungle Hitteflipper",
         "description": "lt_r26_fan desc"
+      },
+      {
+        "code": "lt_r26_fountain_bd",
+        "name": "Jungle Fontein",
+        "description": ""
       },
       {
         "code": "lt_r26_fountain",
@@ -73882,9 +73937,19 @@
         "description": "lt_r26_gemstatue desc"
       },
       {
+        "code": "lt_r26_icecream_bd",
+        "name": "Jungle IJsmachine",
+        "description": ""
+      },
+      {
         "code": "lt_r26_icecream",
         "name": "Jungle IJsmachine",
         "description": "lt_r26_icecream desc"
+      },
+      {
+        "code": "lt_r26_parasol_bd",
+        "name": "Jungle Parasol",
+        "description": ""
       },
       {
         "code": "lt_r26_parasol",
@@ -80257,6 +80322,46 @@
         "description": "nft_exe_icecream desc"
       },
       {
+        "code": "nft_exotic_r17_bat",
+        "name": "Fruit Vleermuis",
+        "description": "Gevonden in een subtropisch regenwoud in Australië"
+      },
+      {
+        "code": "nft_exotic_r17_birds",
+        "name": "Exotische vogels",
+        "description": "Uit de jungle van Papoea-Nieuw-Guinea"
+      },
+      {
+        "code": "nft_exotic_r17_chamele",
+        "name": "Kameleon",
+        "description": "Gevonden in een bos in Madagascar"
+      },
+      {
+        "code": "nft_exotic_r17_chinchil",
+        "name": "Chinchilla",
+        "description": "Gevonden in de Chileense Andes"
+      },
+      {
+        "code": "nft_exotic_r17_chipmunk",
+        "name": "Eekhoorn",
+        "description": "Geboren in Noord-Amerika"
+      },
+      {
+        "code": "nft_exotic_r17_sloth",
+        "name": "Luiaard",
+        "description": "Afkomstig van de Panama eilanden"
+      },
+      {
+        "code": "nft_exotic_r17_snake",
+        "name": "Python",
+        "description": "Helemaal vanuit het Amazoneregenwoud"
+      },
+      {
+        "code": "nft_exotic_r17_treefrog",
+        "name": "Boomkikker",
+        "description": "Gevonden in de bossen van Cuba"
+      },
+      {
         "code": "nft_ff23_commonbox",
         "name": "Algemeen Meubi Krat",
         "description": "nft_ff23_commonbox desc"
@@ -83897,6 +84002,11 @@
         "description": "Frisse lucht!"
       },
       {
+        "code": "nft_js_r16_jelly",
+        "name": "Kwal Lamp",
+        "description": "Geeft een warme blauwe gloed af."
+      },
+      {
         "code": "nft_jungle_r16_basket",
         "name": "Jungle Katrol",
         "description": "nft_jungle_r16_basket desc"
@@ -84080,6 +84190,26 @@
         "code": "nft_ny16_stars",
         "name": "Glimmende Sterren Decoratie",
         "description": "nft_ny16_stars desc"
+      },
+      {
+        "code": "nft_olympics_r16_cheerleader",
+        "name": "Bonnie de Cheerleader",
+        "description": "Bonnie heeft een nieuwe hobby: professional cheerleading."
+      },
+      {
+        "code": "nft_olympics_r16_gymfreak",
+        "name": "Fitness Fanaat",
+        "description": "Je kunt dus wel te veel sporten"
+      },
+      {
+        "code": "nft_olympics_r16_smoothie",
+        "name": "Braziliaanse Smoothie Blender",
+        "description": "Gemaakt met de meest verse ingrediënten in Zuid America"
+      },
+      {
+        "code": "nft_olympics_r16_vendingmchn",
+        "name": "Veganistische Snack Automaat",
+        "description": "Voor iedereen die geen vlees wilt"
       },
       {
         "code": "nft_oneway_paygate_test",
@@ -85370,6 +85500,41 @@
         "code": "nft_vikings_runestone",
         "name": "Viking Relikwie",
         "description": "Uit het puin... komt kunst."
+      },
+      {
+        "code": "nft_virus_r16_angtank",
+        "name": "Zeeduivel Aquarium",
+        "description": "Lelijk en gevaarlijjk"
+      },
+      {
+        "code": "nft_virus_r16_crabtank",
+        "name": "Koningskrab Aquarium",
+        "description": "Vermijd zijn tangen"
+      },
+      {
+        "code": "nft_virus_r16_eeltank",
+        "name": "Sidderaal Aquarium",
+        "description": "Wat een schokken"
+      },
+      {
+        "code": "nft_virus_r16_piratank",
+        "name": "Piranha Aquarium",
+        "description": "Hecht je waarde aan je vingers?"
+      },
+      {
+        "code": "nft_virus_r16_pufftank",
+        "name": "Kogelvissen Aquarium",
+        "description": "Niet geschikt voor consumptie"
+      },
+      {
+        "code": "nft_virus_r16_troptank",
+        "name": "Tropische Vissen Aquarium",
+        "description": "Breng een aantal Caribische invloeden naar je kamer"
+      },
+      {
+        "code": "nft_virus_r16_turttank",
+        "name": "Schildpadden Aquarium",
+        "description": "Wat een kerel"
       },
       {
         "code": "nft_wildwest_gallows",

@@ -33517,8 +33517,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_spider_bd",
+        "name": "Myrkkyhämishattu",
+        "description": ""
+      },
+      {
         "code": "cl_r26_tigeronesie_bd",
         "name": "Tiikerihaalarit",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_toucan_bd",
+        "name": "Lemmikkitukaani",
         "description": ""
       },
       {
@@ -53088,7 +53098,7 @@
       },
       {
         "code": "ducket_c26_anchorpillow",
-        "name": "ducket_c26_anchorpillow name",
+        "name": "Anchor Throw Pillow",
         "description": "ducket_c26_anchorpillow desc"
       },
       {
@@ -53118,7 +53128,7 @@
       },
       {
         "code": "ducket_c26_decofish",
-        "name": "ducket_c26_decofish name",
+        "name": "Decorative Fish",
         "description": "ducket_c26_decofish desc"
       },
       {
@@ -53133,7 +53143,7 @@
       },
       {
         "code": "ducket_c26_glasslantern",
-        "name": "ducket_c26_glasslantern name",
+        "name": "Sea Glass Lanterns",
         "description": "ducket_c26_glasslantern desc"
       },
       {
@@ -53183,12 +53193,12 @@
       },
       {
         "code": "ducket_c26_nauticalpillow",
-        "name": "ducket_c26_nauticalpillow name",
+        "name": "Nautical Throw Pillow",
         "description": "ducket_c26_nauticalpillow desc"
       },
       {
         "code": "ducket_c26_seachair",
-        "name": "ducket_c26_seachair name",
+        "name": "Seaside Chair",
         "description": "ducket_c26_seachair desc"
       },
       {
@@ -53212,13 +53222,28 @@
         "description": "ducket_c26_sweetflowers desc"
       },
       {
+        "code": "ducket_dia_anchorpillow",
+        "name": "Anchor Throw Pillow",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_beeplushie",
         "name": "Mehiläispehmolelu",
         "description": ""
       },
       {
+        "code": "ducket_dia_decofish",
+        "name": "Decorative Fish",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_flowerbench",
         "name": "Blooming Bench",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_glasslantern",
+        "name": "Sea Glass Lanterns",
         "description": ""
       },
       {
@@ -53254,6 +53279,16 @@
       {
         "code": "ducket_dia_honeyvase",
         "name": "Ruukkuauringonkukat",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_nauticalpillow",
+        "name": "Nautical Throw Pillow",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_seachair",
+        "name": "Seaside Chair",
         "description": ""
       },
       {
@@ -70387,6 +70422,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_457",
+        "name": "Jungle Run Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -71814,6 +71854,11 @@
       {
         "code": "jun24_silo_internal",
         "name": "Silo Bundle",
+        "description": ""
+      },
+      {
+        "code": "june26_special1_internal",
+        "name": "Jungle Run Bundle",
         "description": ""
       },
       {
@@ -74062,9 +74107,19 @@
         "description": "lt_r26_crackable desc"
       },
       {
+        "code": "lt_r26_fan_bd",
+        "name": "Viidakkotuuletin",
+        "description": ""
+      },
+      {
         "code": "lt_r26_fan",
         "name": "Viidakkotuuletin",
         "description": "lt_r26_fan desc"
+      },
+      {
+        "code": "lt_r26_fountain_bd",
+        "name": "Viidakkolähde",
+        "description": ""
       },
       {
         "code": "lt_r26_fountain",
@@ -74082,9 +74137,19 @@
         "description": "lt_r26_gemstatue desc"
       },
       {
+        "code": "lt_r26_icecream_bd",
+        "name": "Viidakkojäätelökone",
+        "description": ""
+      },
+      {
         "code": "lt_r26_icecream",
         "name": "Viidakkojäätelökone",
         "description": "lt_r26_icecream desc"
+      },
+      {
+        "code": "lt_r26_parasol_bd",
+        "name": "Viidakon päivänvarjo",
+        "description": ""
       },
       {
         "code": "lt_r26_parasol",
@@ -80572,6 +80637,46 @@
         "description": "nft_exe_icecream desc"
       },
       {
+        "code": "nft_exotic_r17_bat",
+        "name": "Hedelmälepakko",
+        "description": "Tavataan Australian subtrooppisissa sademetsissä."
+      },
+      {
+        "code": "nft_exotic_r17_birds",
+        "name": "Eksoottiset linnut",
+        "description": "Papua-Uusi-Guinean viidakosta."
+      },
+      {
+        "code": "nft_exotic_r17_chamele",
+        "name": "Kameleontti",
+        "description": "Löytyy Madagaskarin metsistä."
+      },
+      {
+        "code": "nft_exotic_r17_chinchil",
+        "name": "Chinchilla",
+        "description": "Tavataan Chilen Andeilla."
+      },
+      {
+        "code": "nft_exotic_r17_chipmunk",
+        "name": "Maaorava",
+        "description": "Pohjois-Amerikan alkuperäisasukkaita."
+      },
+      {
+        "code": "nft_exotic_r17_sloth",
+        "name": "Laiskiainen",
+        "description": "Panaman saarilta."
+      },
+      {
+        "code": "nft_exotic_r17_snake",
+        "name": "Pyton",
+        "description": "Kaukaa Amazonin sademetsistä."
+      },
+      {
+        "code": "nft_exotic_r17_treefrog",
+        "name": "Puusammakko",
+        "description": "Löytyy Kuuban metsistä."
+      },
+      {
         "code": "nft_ff23_commonbox",
         "name": "Tavallinen laatikko",
         "description": "nft_ff23_commonbox desc"
@@ -84212,6 +84317,11 @@
         "description": "Raakaa tuuletusvoimaa"
       },
       {
+        "code": "nft_js_r16_jelly",
+        "name": "Meduusalamppu",
+        "description": "Luo kuulaan sinisen hehkun."
+      },
+      {
         "code": "nft_jungle_r16_basket",
         "name": "Viidakkotalja",
         "description": "nft_jungle_r16_basket desc"
@@ -84395,6 +84505,26 @@
         "code": "nft_ny16_stars",
         "name": "Tähtikoriste",
         "description": "nft_ny16_stars desc"
+      },
+      {
+        "code": "nft_olympics_r16_cheerleader",
+        "name": "Bonnie huutosakkilainen",
+        "description": "Bonnien uusi harrastus: ammattilaishuutosakkilainen"
+      },
+      {
+        "code": "nft_olympics_r16_gymfreak",
+        "name": "Urheiluhullu",
+        "description": "Kyllä liikaakin VOI urheilla"
+      },
+      {
+        "code": "nft_olympics_r16_smoothie",
+        "name": "Brasilialainen smoothiekone",
+        "description": "Valmistettu Etelä-Amerikan tuoreimmista aineksista"
+      },
+      {
+        "code": "nft_olympics_r16_vendingmchn",
+        "name": "Vegeherkkuautomaatti",
+        "description": "Lihakammoisille"
       },
       {
         "code": "nft_oneway_paygate_test",
@@ -85685,6 +85815,41 @@
         "code": "nft_vikings_runestone",
         "name": "Viikinkireliikki",
         "description": "Raunioista syntyy taidetta."
+      },
+      {
+        "code": "nft_virus_r16_angtank",
+        "name": "Krottikalan akvaario",
+        "description": "Ruma ja vaarallinen"
+      },
+      {
+        "code": "nft_virus_r16_crabtank",
+        "name": "Jättiravun akvaario",
+        "description": "Varo sen saksia"
+      },
+      {
+        "code": "nft_virus_r16_eeltank",
+        "name": "Sähköankeriaan akvaario",
+        "description": "Shokkihoitoa"
+      },
+      {
+        "code": "nft_virus_r16_piratank",
+        "name": "Piraijan akvaario",
+        "description": "Ovatko sormesi sinulle tärkeät?"
+      },
+      {
+        "code": "nft_virus_r16_pufftank",
+        "name": "Pallokalan akvaario",
+        "description": "Ei sovellu syötäväksi"
+      },
+      {
+        "code": "nft_virus_r16_troptank",
+        "name": "Trooppisen kalan akvaario",
+        "description": "Tuulahdus Karibiaa huoneeseesi"
+      },
+      {
+        "code": "nft_virus_r16_turttank",
+        "name": "Kilpparin akvaario",
+        "description": "Hyvä jätkä"
       },
       {
         "code": "nft_wildwest_gallows",

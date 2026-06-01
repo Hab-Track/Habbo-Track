@@ -32917,8 +32917,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_spider_bd",
+        "name": "Chapéu Aranha Venenosa",
+        "description": ""
+      },
+      {
         "code": "cl_r26_tigeronesie_bd",
         "name": "Macacão Tigre",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_toucan_bd",
+        "name": "Mascote Tucano",
         "description": ""
       },
       {
@@ -53013,7 +53023,7 @@
       },
       {
         "code": "ducket_c26_anchorpillow",
-        "name": "ducket_c26_anchorpillow name",
+        "name": "Anchor Throw Pillow",
         "description": "ducket_c26_anchorpillow desc"
       },
       {
@@ -53043,7 +53053,7 @@
       },
       {
         "code": "ducket_c26_decofish",
-        "name": "ducket_c26_decofish name",
+        "name": "Decorative Fish",
         "description": "ducket_c26_decofish desc"
       },
       {
@@ -53058,7 +53068,7 @@
       },
       {
         "code": "ducket_c26_glasslantern",
-        "name": "ducket_c26_glasslantern name",
+        "name": "Sea Glass Lanterns",
         "description": "ducket_c26_glasslantern desc"
       },
       {
@@ -53108,12 +53118,12 @@
       },
       {
         "code": "ducket_c26_nauticalpillow",
-        "name": "ducket_c26_nauticalpillow name",
+        "name": "Nautical Throw Pillow",
         "description": "ducket_c26_nauticalpillow desc"
       },
       {
         "code": "ducket_c26_seachair",
-        "name": "ducket_c26_seachair name",
+        "name": "Seaside Chair",
         "description": "ducket_c26_seachair desc"
       },
       {
@@ -53137,13 +53147,28 @@
         "description": "ducket_c26_sweetflowers desc"
       },
       {
+        "code": "ducket_dia_anchorpillow",
+        "name": "Anchor Throw Pillow",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_beeplushie",
         "name": "Pelúcia de Abelha",
         "description": ""
       },
       {
+        "code": "ducket_dia_decofish",
+        "name": "Decorative Fish",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_flowerbench",
         "name": "Blooming Bench",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_glasslantern",
+        "name": "Sea Glass Lanterns",
         "description": ""
       },
       {
@@ -53179,6 +53204,16 @@
       {
         "code": "ducket_dia_honeyvase",
         "name": "Girassóis na Janela",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_nauticalpillow",
+        "name": "Nautical Throw Pillow",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_seachair",
+        "name": "Seaside Chair",
         "description": ""
       },
       {
@@ -70302,6 +70337,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_457",
+        "name": "Jungle Run Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -71734,6 +71774,11 @@
       {
         "code": "jun24_silo_internal",
         "name": "Silo Bundle",
+        "description": ""
+      },
+      {
+        "code": "june26_special1_internal",
+        "name": "Jungle Run Bundle",
         "description": ""
       },
       {
@@ -73977,9 +74022,19 @@
         "description": "lt_r26_crackable desc"
       },
       {
+        "code": "lt_r26_fan_bd",
+        "name": "Ventilador Poderoso Selva",
+        "description": ""
+      },
+      {
         "code": "lt_r26_fan",
         "name": "Ventilador Poderoso Selva",
         "description": "lt_r26_fan desc"
+      },
+      {
+        "code": "lt_r26_fountain_bd",
+        "name": "Fonte Selva",
+        "description": ""
       },
       {
         "code": "lt_r26_fountain",
@@ -73997,9 +74052,19 @@
         "description": "lt_r26_gemstatue desc"
       },
       {
+        "code": "lt_r26_icecream_bd",
+        "name": "Sorveteira Selva",
+        "description": ""
+      },
+      {
         "code": "lt_r26_icecream",
         "name": "Sorveteira Selva",
         "description": "lt_r26_icecream desc"
+      },
+      {
+        "code": "lt_r26_parasol_bd",
+        "name": "Guarda-sol Selva",
+        "description": ""
       },
       {
         "code": "lt_r26_parasol",
@@ -80512,6 +80577,46 @@
         "description": "nft_exe_icecream desc"
       },
       {
+        "code": "nft_exotic_r17_bat",
+        "name": "Morcego",
+        "description": "Encontrado nas florestas subtropicais da Austrália."
+      },
+      {
+        "code": "nft_exotic_r17_birds",
+        "name": "Aves-do-paraíso",
+        "description": "Direto das selvas de Papua-Nova Guiné."
+      },
+      {
+        "code": "nft_exotic_r17_chamele",
+        "name": "Camaleão",
+        "description": "Encontrado nas florestas de Madagascar."
+      },
+      {
+        "code": "nft_exotic_r17_chinchil",
+        "name": "Chinchila",
+        "description": "Encontrada nos Andes Chilenos."
+      },
+      {
+        "code": "nft_exotic_r17_chipmunk",
+        "name": "Tâmia",
+        "description": "Nativas da América do Norte."
+      },
+      {
+        "code": "nft_exotic_r17_sloth",
+        "name": "Preguiça-anã",
+        "description": "Direto das ilhas do Panamá."
+      },
+      {
+        "code": "nft_exotic_r17_snake",
+        "name": "Píton reticulada",
+        "description": "Direto do Sudeste Asiático."
+      },
+      {
+        "code": "nft_exotic_r17_treefrog",
+        "name": "Rã Europeia",
+        "description": "Encontrada por toda a Europa"
+      },
+      {
         "code": "nft_ff23_commonbox",
         "name": "Caixa de Mobis Comum",
         "description": "nft_ff23_commonbox desc"
@@ -84152,6 +84257,11 @@
         "description": "Turbina Industrial"
       },
       {
+        "code": "nft_js_r16_jelly",
+        "name": "Lâmpada de Medusas",
+        "description": "Diretamente das profundezas, emite uma brilhante luz azul."
+      },
+      {
         "code": "nft_jungle_r16_basket",
         "name": "Polia da Selva",
         "description": "nft_jungle_r16_basket desc"
@@ -84335,6 +84445,26 @@
         "code": "nft_ny16_stars",
         "name": "Snazzy Star Decoration",
         "description": "nft_ny16_stars desc"
+      },
+      {
+        "code": "nft_olympics_r16_cheerleader",
+        "name": "Bonnie a Animadora",
+        "description": "Bonnie tem um novo hobby: chefe de torcida profissional."
+      },
+      {
+        "code": "nft_olympics_r16_gymfreak",
+        "name": "Saradão",
+        "description": "Se eu pudesse, moraría na academia."
+      },
+      {
+        "code": "nft_olympics_r16_smoothie",
+        "name": "Máquina de Sucos",
+        "description": "Os mais refrescantes sucos com as melhores frutas."
+      },
+      {
+        "code": "nft_olympics_r16_vendingmchn",
+        "name": "Máquina de Lanche Vegano",
+        "description": "Para quem decidiu não comer derivados de animais."
       },
       {
         "code": "nft_oneway_paygate_test",
@@ -85625,6 +85755,41 @@
         "code": "nft_vikings_runestone",
         "name": "Relíquia Viking",
         "description": "Há arte no cascalho"
+      },
+      {
+        "code": "nft_virus_r16_angtank",
+        "name": "Aquário Xarroco",
+        "description": "Feio e perigoso"
+      },
+      {
+        "code": "nft_virus_r16_crabtank",
+        "name": "Aquário Caranguejo Rei",
+        "description": "Evite as garras dele"
+      },
+      {
+        "code": "nft_virus_r16_eeltank",
+        "name": "Aquário Enguia Elétrica",
+        "description": "Quanta energia"
+      },
+      {
+        "code": "nft_virus_r16_piratank",
+        "name": "Aquário Piranha",
+        "description": "Você valoriza os seus dedos?"
+      },
+      {
+        "code": "nft_virus_r16_pufftank",
+        "name": "Aquário Baiacu",
+        "description": "Melhor não consumir"
+      },
+      {
+        "code": "nft_virus_r16_troptank",
+        "name": "Aquário Peixes Tropicais",
+        "description": "Traga um ar caribenho para o seu quarto"
+      },
+      {
+        "code": "nft_virus_r16_turttank",
+        "name": "Aquário Tartaruga",
+        "description": "Rápida na sua concepção"
       },
       {
         "code": "nft_wildwest_gallows",

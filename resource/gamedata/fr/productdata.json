@@ -32227,8 +32227,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_spider_bd",
+        "name": "Chapeau araignée venimeuse",
+        "description": ""
+      },
+      {
         "code": "cl_r26_tigeronesie_bd",
         "name": "Onesie tigre",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_toucan_bd",
+        "name": "Animal Toucan",
         "description": ""
       },
       {
@@ -51248,7 +51258,7 @@
       },
       {
         "code": "ducket_c26_anchorpillow",
-        "name": "ducket_c26_anchorpillow name",
+        "name": "Anchor Throw Pillow",
         "description": "ducket_c26_anchorpillow desc"
       },
       {
@@ -51278,7 +51288,7 @@
       },
       {
         "code": "ducket_c26_decofish",
-        "name": "ducket_c26_decofish name",
+        "name": "Decorative Fish",
         "description": "ducket_c26_decofish desc"
       },
       {
@@ -51293,7 +51303,7 @@
       },
       {
         "code": "ducket_c26_glasslantern",
-        "name": "ducket_c26_glasslantern name",
+        "name": "Sea Glass Lanterns",
         "description": "ducket_c26_glasslantern desc"
       },
       {
@@ -51343,12 +51353,12 @@
       },
       {
         "code": "ducket_c26_nauticalpillow",
-        "name": "ducket_c26_nauticalpillow name",
+        "name": "Nautical Throw Pillow",
         "description": "ducket_c26_nauticalpillow desc"
       },
       {
         "code": "ducket_c26_seachair",
-        "name": "ducket_c26_seachair name",
+        "name": "Seaside Chair",
         "description": "ducket_c26_seachair desc"
       },
       {
@@ -51372,13 +51382,28 @@
         "description": "ducket_c26_sweetflowers desc"
       },
       {
+        "code": "ducket_dia_anchorpillow",
+        "name": "Anchor Throw Pillow",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_beeplushie",
         "name": "Peluche abeille",
         "description": ""
       },
       {
+        "code": "ducket_dia_decofish",
+        "name": "Decorative Fish",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_flowerbench",
         "name": "Blooming Bench",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_glasslantern",
+        "name": "Sea Glass Lanterns",
         "description": ""
       },
       {
@@ -51414,6 +51439,16 @@
       {
         "code": "ducket_dia_honeyvase",
         "name": "Tournesols rebord fenêtre",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_nauticalpillow",
+        "name": "Nautical Throw Pillow",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_seachair",
+        "name": "Seaside Chair",
         "description": ""
       },
       {
@@ -68572,6 +68607,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_457",
+        "name": "Jungle Run Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -69994,6 +70034,11 @@
       {
         "code": "jun24_silo_internal",
         "name": "Silo Bundle",
+        "description": ""
+      },
+      {
+        "code": "june26_special1_internal",
+        "name": "Jungle Run Bundle",
         "description": ""
       },
       {
@@ -72232,9 +72277,19 @@
         "description": "lt_r26_crackable desc"
       },
       {
+        "code": "lt_r26_fan_bd",
+        "name": "Ventilateur jungle",
+        "description": ""
+      },
+      {
         "code": "lt_r26_fan",
         "name": "Ventilateur jungle",
         "description": "lt_r26_fan desc"
+      },
+      {
+        "code": "lt_r26_fountain_bd",
+        "name": "Fontaine jungle",
+        "description": ""
       },
       {
         "code": "lt_r26_fountain",
@@ -72252,9 +72307,19 @@
         "description": "lt_r26_gemstatue desc"
       },
       {
+        "code": "lt_r26_icecream_bd",
+        "name": "Sorbetière jungle",
+        "description": ""
+      },
+      {
         "code": "lt_r26_icecream",
         "name": "Sorbetière jungle",
         "description": "lt_r26_icecream desc"
+      },
+      {
+        "code": "lt_r26_parasol_bd",
+        "name": "Parasol jungle",
+        "description": ""
       },
       {
         "code": "lt_r26_parasol",
@@ -78622,6 +78687,46 @@
         "description": "nft_exe_icecream desc"
       },
       {
+        "code": "nft_exotic_r17_bat",
+        "name": "Chauve-souris roussette",
+        "description": "Venue des forêts pluvieuses d'Australie"
+      },
+      {
+        "code": "nft_exotic_r17_birds",
+        "name": "Oiseaux exotiques",
+        "description": "De la Papouasie Nouvelle Guinée."
+      },
+      {
+        "code": "nft_exotic_r17_chamele",
+        "name": "Caméléon",
+        "description": "Des forêts de Madagascar."
+      },
+      {
+        "code": "nft_exotic_r17_chinchil",
+        "name": "Chinchilla",
+        "description": "De la Cordillère des Andes."
+      },
+      {
+        "code": "nft_exotic_r17_chipmunk",
+        "name": "Tamia",
+        "description": "Natif d'Amérique du Nord"
+      },
+      {
+        "code": "nft_exotic_r17_sloth",
+        "name": "Paresseux",
+        "description": "Venu du Panama"
+      },
+      {
+        "code": "nft_exotic_r17_snake",
+        "name": "Python",
+        "description": "Tout le chemin de la forêt amazonienne."
+      },
+      {
+        "code": "nft_exotic_r17_treefrog",
+        "name": "Grenouille arboricole",
+        "description": "Trouvée dans les forêts de Cuba."
+      },
+      {
         "code": "nft_ff23_commonbox",
         "name": "Mobi Caisse commune",
         "description": "nft_ff23_commonbox desc"
@@ -82262,6 +82367,11 @@
         "description": "Puissante et performante"
       },
       {
+        "code": "nft_js_r16_jelly",
+        "name": "Lampe Méduse",
+        "description": "Émet une brillance bleu et chaleureuse."
+      },
+      {
         "code": "nft_jungle_r16_basket",
         "name": "Poulie de la Jungle",
         "description": "nft_jungle_r16_basket desc"
@@ -82445,6 +82555,26 @@
         "code": "nft_ny16_stars",
         "name": "Décoration chic et étoilée",
         "description": "nft_ny16_stars desc"
+      },
+      {
+        "code": "nft_olympics_r16_cheerleader",
+        "name": "Bonnie la Cheerleader",
+        "description": "Bonnie a un nouvel Hobby: Cheerleader"
+      },
+      {
+        "code": "nft_olympics_r16_gymfreak",
+        "name": "Maniac du gym",
+        "description": "C'est un peu tout much"
+      },
+      {
+        "code": "nft_olympics_r16_smoothie",
+        "name": "Machine à smoothies",
+        "description": "Les meilleurs fruits y sont."
+      },
+      {
+        "code": "nft_olympics_r16_vendingmchn",
+        "name": "Distributeur végétalien",
+        "description": "Pour ceux qui n'aiment pas la viande."
       },
       {
         "code": "nft_oneway_paygate_test",
@@ -83735,6 +83865,41 @@
         "code": "nft_vikings_runestone",
         "name": "Relique Viking",
         "description": "Des décombres ... vient art."
+      },
+      {
+        "code": "nft_virus_r16_angtank",
+        "name": "Aquarium à Lottes de Mer",
+        "description": "Laid et Dangereux"
+      },
+      {
+        "code": "nft_virus_r16_crabtank",
+        "name": "Aquarium du Crabe Royal",
+        "description": "Évite de te faire pincer"
+      },
+      {
+        "code": "nft_virus_r16_eeltank",
+        "name": "Aquarium à Anguilles Électriques",
+        "description": "Quel choc"
+      },
+      {
+        "code": "nft_virus_r16_piratank",
+        "name": "Aquarium à Piranhas",
+        "description": "Tiens-tu à garder tes doigts?"
+      },
+      {
+        "code": "nft_virus_r16_pufftank",
+        "name": "Aquarium à Poissons-globe",
+        "description": "Ne convient pas à la consommation"
+      },
+      {
+        "code": "nft_virus_r16_troptank",
+        "name": "Aquarium à Poissons Tropicaux",
+        "description": "Donne des saveurs caribéennes à ton appart"
+      },
+      {
+        "code": "nft_virus_r16_turttank",
+        "name": "Aquarium à Tortues",
+        "description": "Toute une créature"
       },
       {
         "code": "nft_wildwest_gallows",

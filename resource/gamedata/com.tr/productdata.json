@@ -33922,8 +33922,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_spider_bd",
+        "name": "Zehirli Örümcek Şapkası",
+        "description": ""
+      },
+      {
         "code": "cl_r26_tigeronesie_bd",
         "name": "Kaplan Tulumu",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_toucan_bd",
+        "name": "Evcil Tukan",
         "description": ""
       },
       {
@@ -61828,7 +61838,7 @@
       },
       {
         "code": "ducket_c26_anchorpillow",
-        "name": "ducket_c26_anchorpillow name",
+        "name": "Anchor Throw Pillow",
         "description": "ducket_c26_anchorpillow desc"
       },
       {
@@ -61858,7 +61868,7 @@
       },
       {
         "code": "ducket_c26_decofish",
-        "name": "ducket_c26_decofish name",
+        "name": "Decorative Fish",
         "description": "ducket_c26_decofish desc"
       },
       {
@@ -61873,7 +61883,7 @@
       },
       {
         "code": "ducket_c26_glasslantern",
-        "name": "ducket_c26_glasslantern name",
+        "name": "Sea Glass Lanterns",
         "description": "ducket_c26_glasslantern desc"
       },
       {
@@ -61923,12 +61933,12 @@
       },
       {
         "code": "ducket_c26_nauticalpillow",
-        "name": "ducket_c26_nauticalpillow name",
+        "name": "Nautical Throw Pillow",
         "description": "ducket_c26_nauticalpillow desc"
       },
       {
         "code": "ducket_c26_seachair",
-        "name": "ducket_c26_seachair name",
+        "name": "Seaside Chair",
         "description": "ducket_c26_seachair desc"
       },
       {
@@ -61952,13 +61962,28 @@
         "description": "ducket_c26_sweetflowers desc"
       },
       {
+        "code": "ducket_dia_anchorpillow",
+        "name": "Anchor Throw Pillow",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_beeplushie",
         "name": "Arı Pelüşü",
         "description": ""
       },
       {
+        "code": "ducket_dia_decofish",
+        "name": "Decorative Fish",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_flowerbench",
         "name": "Blooming Bench",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_glasslantern",
+        "name": "Sea Glass Lanterns",
         "description": ""
       },
       {
@@ -61994,6 +62019,16 @@
       {
         "code": "ducket_dia_honeyvase",
         "name": "Pencere Kenarı Ayçiçekleri",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_nauticalpillow",
+        "name": "Nautical Throw Pillow",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_seachair",
+        "name": "Seaside Chair",
         "description": ""
       },
       {
@@ -79467,6 +79502,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_457",
+        "name": "Jungle Run Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -80934,6 +80974,11 @@
       {
         "code": "jun24_silo_internal",
         "name": "Silo Bundle",
+        "description": ""
+      },
+      {
+        "code": "june26_special1_internal",
+        "name": "Jungle Run Bundle",
         "description": ""
       },
       {
@@ -83222,9 +83267,19 @@
         "description": "lt_r26_crackable desc"
       },
       {
+        "code": "lt_r26_fan_bd",
+        "name": "Orman Elektrikli Fan",
+        "description": ""
+      },
+      {
         "code": "lt_r26_fan",
         "name": "Orman Elektrikli Fan",
         "description": "lt_r26_fan desc"
+      },
+      {
+        "code": "lt_r26_fountain_bd",
+        "name": "Orman Çeşmesi",
+        "description": ""
       },
       {
         "code": "lt_r26_fountain",
@@ -83242,9 +83297,19 @@
         "description": "lt_r26_gemstatue desc"
       },
       {
+        "code": "lt_r26_icecream_bd",
+        "name": "Orman Dondurma Makinesi",
+        "description": ""
+      },
+      {
         "code": "lt_r26_icecream",
         "name": "Orman Dondurma Makinesi",
         "description": "lt_r26_icecream desc"
+      },
+      {
+        "code": "lt_r26_parasol_bd",
+        "name": "Orman Şemsiyesi",
+        "description": ""
       },
       {
         "code": "lt_r26_parasol",
@@ -89912,6 +89977,46 @@
         "description": "nft_exe_icecream desc"
       },
       {
+        "code": "nft_exotic_r17_bat",
+        "name": "Meyveci Yarasa",
+        "description": "Avustralya'nın al tropikal yağmur ormanlarında bulundu.."
+      },
+      {
+        "code": "nft_exotic_r17_birds",
+        "name": "Egzotik Kuşlar",
+        "description": "Papua Yeni Gine Ormanı."
+      },
+      {
+        "code": "nft_exotic_r17_chamele",
+        "name": "Bukalemun",
+        "description": "Madagaskar ormanlarında bulundu."
+      },
+      {
+        "code": "nft_exotic_r17_chinchil",
+        "name": "Çinçilya",
+        "description": "Şili'nın Andlarında bulundu."
+      },
+      {
+        "code": "nft_exotic_r17_chipmunk",
+        "name": "Çizgili Sincap",
+        "description": "Kuzey Amerika Yerlisi."
+      },
+      {
+        "code": "nft_exotic_r17_sloth",
+        "name": "Tembel Hayvan",
+        "description": "Panama adalarından."
+      },
+      {
+        "code": "nft_exotic_r17_snake",
+        "name": "Piton",
+        "description": "Her Şekilde Amazon Yağmur Ormanlarından"
+      },
+      {
+        "code": "nft_exotic_r17_treefrog",
+        "name": "Ağaç Kurbağası",
+        "description": "Küba'nın ormanlarında bulundu."
+      },
+      {
         "code": "nft_ff23_commonbox",
         "name": "Sıradan Mobi Sandığı",
         "description": "nft_ff23_commonbox desc"
@@ -93552,6 +93657,11 @@
         "description": "Güçlü ve esnek"
       },
       {
+        "code": "nft_js_r16_jelly",
+        "name": "Denizanası Lambası",
+        "description": "Mavi pırıltılı sıcak ışık yayar"
+      },
+      {
         "code": "nft_jungle_r16_basket",
         "name": "Vahşi Orman Makaraları",
         "description": "nft_jungle_r16_basket desc"
@@ -93735,6 +93845,26 @@
         "code": "nft_ny16_stars",
         "name": "Zarif Yıldız Dekorasyonu",
         "description": "nft_ny16_stars desc"
+      },
+      {
+        "code": "nft_olympics_r16_cheerleader",
+        "name": "Amigo Bonnie",
+        "description": "Profesyonel amigo: Bonnie yeni bir hobi edindi"
+      },
+      {
+        "code": "nft_olympics_r16_gymfreak",
+        "name": "Gym Delisi",
+        "description": "Çok fazla egzersiz gibi bir şey"
+      },
+      {
+        "code": "nft_olympics_r16_smoothie",
+        "name": "Brezilya Smoothie Makinesi",
+        "description": "Güney Amerika'nın en taze malzemeleriyle yapılmış."
+      },
+      {
+        "code": "nft_olympics_r16_vendingmchn",
+        "name": "Vegan İçecek Otomatı",
+        "description": "Et istemeyenler için"
       },
       {
         "code": "nft_oneway_paygate_test",
@@ -95025,6 +95155,41 @@
         "code": "nft_vikings_runestone",
         "name": "Viking Rölik",
         "description": "Sanat, taş bloklarından doğar gelir"
+      },
+      {
+        "code": "nft_virus_r16_angtank",
+        "name": "Fener Balığı Akvaryumu",
+        "description": "Çirkin ve tehlikeli"
+      },
+      {
+        "code": "nft_virus_r16_crabtank",
+        "name": "Kral Yengeç Akvaryumu",
+        "description": "Kıskaçlarından kaçının"
+      },
+      {
+        "code": "nft_virus_r16_eeltank",
+        "name": "Elektrikli Yılanbalığı Akvaryumu",
+        "description": "Ne şok ama!"
+      },
+      {
+        "code": "nft_virus_r16_piratank",
+        "name": "Pirana Akvaryumu",
+        "description": "Parmağını seviyor musun?"
+      },
+      {
+        "code": "nft_virus_r16_pufftank",
+        "name": "Kirpi Balığı Akvaryumu",
+        "description": "Tüketimi için uygun değil"
+      },
+      {
+        "code": "nft_virus_r16_troptank",
+        "name": "Tropikal Balık Akvaryumu",
+        "description": "Odanıza biraz Karayip tadı katın"
+      },
+      {
+        "code": "nft_virus_r16_turttank",
+        "name": "Kaplumbağa Akvaryumu",
+        "description": "Tam bir dost!"
       },
       {
         "code": "nft_wildwest_gallows",
