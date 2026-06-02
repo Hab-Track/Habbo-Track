@@ -25905,6 +25905,7 @@ collectibles.item.type=Tür
 collectibles.item.xp=XP
 collectibles.level=Seviye
 collectibles.no_claims=Şu anda talep edebileceğin bir şey yok. Daha sonra tekrar kontrol et! Koleksiyoncu seviyene göre aylık ödüller veriyoruz, yakında senin için de bir şeyler olacaktır!
+collectibles.preview.bonus_claim_ended=Bonus eşya talep süresi sona erdi - %date%
 collectibles.preview.buy=Bu ürünü alarak <b>%amount%</b> XP kazan
 collectibles.preview.collect_reward=İlk kez set tamamlama ödülü!
 collectibles.preview.completion_bonus=Tamamlama bonusu:

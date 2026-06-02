@@ -15801,6 +15801,7 @@ collectibles.item.type=Tyyppi
 collectibles.item.xp=XP
 collectibles.level=Taso
 collectibles.no_claims=Ei lunastettavia tuotteita tällä hetkellä. Palaa asiaan myöhemmin!  Annamme kuukausittain palkintoja keräilijätasosi perusteella, joten pian sinua pitäisi lykästää!
+collectibles.preview.bonus_claim_ended=Bonustuotteen lunastuspäivä päättyi - %date%
 collectibles.preview.buy=Ostamalla tuotteen saat <b>%amount%</b> XP:tä
 collectibles.preview.collect_reward=Palkinto sarjan täydentämisestä ensimmäistä kertaa!
 collectibles.preview.completion_bonus=Täydennysbonus:

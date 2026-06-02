@@ -97917,6 +97917,11 @@
         "description": ""
       },
       {
+        "code": "rm_dbl_tto289",
+        "name": "50 per cent Off 220 Credits",
+        "description": ""
+      },
+      {
         "code": "rm_dbl_tto28a2",
         "name": "50 per cent Off 210 Credits",
         "description": "Get 210 credits and diamonds for the price of 105 credits! Offer available for 48 hours, limited to 3 per person"
@@ -117228,7 +117233,7 @@
       },
       {
         "code": "wf_act_cancel_transaction",
-        "name": "WIRED Reactie: Annuleert Transactie",
+        "name": "WIRED Reactie: Annuleer Transactie",
         "description": "wf_act_cancel_transaction desc"
       },
       {
@@ -117273,12 +117278,12 @@
       },
       {
         "code": "wf_act_give_currency",
-        "name": "WIRED Reactie: Geeft Valuta uit Opbergkist",
+        "name": "WIRED Reactie: Geef Valuta uit Opbergkist",
         "description": "wf_act_give_currency desc"
       },
       {
         "code": "wf_act_give_furni",
-        "name": "WIRED Reactie: Geeft Meubi uit Opbergkist",
+        "name": "WIRED Reactie: Geef Meubi uit Opbergkist",
         "description": "wf_act_give_furni desc"
       },
       {
@@ -118498,7 +118503,7 @@
       },
       {
         "code": "wf_xtra_mov_curve",
-        "name": "WIRED Add-on: Bewegings Dimensie",
+        "name": "WIRED Add-on: Bewegings Kromming",
         "description": "wf_xtra_mov_curve desc"
       },
       {

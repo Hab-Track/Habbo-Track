@@ -22589,6 +22589,7 @@ collectibles.item.type=Type
 collectibles.item.xp=XP
 collectibles.level=Niveau
 collectibles.no_claims=Rien à revendiquer pour le moment. Reviens plus tard. Nous attribuons des récompenses mensuelles en fonction de ton niveau de collectionneur, tu devrais donc bientôt trouver quelque chose à ton goût !
+collectibles.preview.bonus_claim_ended=Fin de la période de réclamation des articles bonus - %date%
 collectibles.preview.buy=Achetez cet article et recevez <b>%amount%</b> XP
 collectibles.preview.collect_reward=Récompense pour avoir complété l'ensemble pour la première fois !
 collectibles.preview.completion_bonus=Prime d'accomplissement :
