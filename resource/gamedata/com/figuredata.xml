@@ -14478,10 +14478,6 @@
             <set id="5804" gender="U" club="0" colorable="0" selectable="1" preselectable="0" sellable="1">
                 <part id="6153" type="he" colorable="0" index="0" colorindex="0"/>
             </set>
-            <set id="5808" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
-                <part id="6161" type="he" colorable="1" index="0" colorindex="1"/>
-                <part id="6162" type="he" colorable="0" index="1" colorindex="0"/>
-            </set>
             <set id="5813" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="6169" type="he" colorable="0" index="0" colorindex="0"/>
                 <part id="6170" type="he" colorable="1" index="1" colorindex="1"/>
@@ -20355,6 +20351,14 @@
                 <part id="6146" type="mc" colorable="1" index="1" colorindex="2"/>
                 <part id="6146" type="mcl" colorable="1" index="1" colorindex="2"/>
                 <part id="6146" type="mcr" colorable="1" index="1" colorindex="2"/>
+            </set>
+            <set id="5808" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="6161" type="mc" colorable="1" index="0" colorindex="1"/>
+                <part id="6161" type="mcl" colorable="1" index="0" colorindex="1"/>
+                <part id="6161" type="mcr" colorable="1" index="0" colorindex="1"/>
+                <part id="6162" type="mc" colorable="0" index="1" colorindex="0"/>
+                <part id="6162" type="mcl" colorable="0" index="1" colorindex="0"/>
+                <part id="6162" type="mcr" colorable="0" index="1" colorindex="0"/>
             </set>
             <set id="5810" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="6165" type="mc" colorable="1" index="0" colorindex="1"/>
