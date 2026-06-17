@@ -7583,7 +7583,7 @@
       },
       {
         "code": "a2 legotrophy",
-        "name": "Trofeo",
+        "name": "Trofeo Baloncesto",
         "description": "Sólo para los Habbos atletas"
       },
       {
@@ -35667,6 +35667,11 @@
         "description": "clothing_ducketsailorcap desc"
       },
       {
+        "code": "clothing_ducketsailorcollar",
+        "name": "clothing_ducketsailorcollar name",
+        "description": "clothing_ducketsailorcollar desc"
+      },
+      {
         "code": "clothing_ducketshirt_dia",
         "name": "Ducket Hunter's T-Shirt",
         "description": ""
@@ -35927,6 +35932,16 @@
         "description": "clothing_featheroutfit desc"
       },
       {
+        "code": "clothing_femmefataledress",
+        "name": "clothing_femmefataledress name",
+        "description": "clothing_femmefataledress desc"
+      },
+      {
+        "code": "clothing_femmefatalehair",
+        "name": "clothing_femmefatalehair name",
+        "description": "clothing_femmefatalehair desc"
+      },
+      {
         "code": "clothing_festivepenguinhat",
         "name": "Gorro de Invierno Pingüino",
         "description": "clothing_festivepenguinhat desc"
@@ -36118,7 +36133,7 @@
       },
       {
         "code": "clothing_footballuniform",
-        "name": "Equipación de Fútbol",
+        "name": "Uniforme de Fútbol",
         "description": "clothing_footballuniform desc"
       },
       {
@@ -37315,6 +37330,26 @@
         "code": "clothing_madhat",
         "name": "Sombrero loco",
         "description": "clothing_madhat desc"
+      },
+      {
+        "code": "clothing_mafiacane",
+        "name": "clothing_mafiacane name",
+        "description": "clothing_mafiacane desc"
+      },
+      {
+        "code": "clothing_mafiarose",
+        "name": "clothing_mafiarose name",
+        "description": "clothing_mafiarose desc"
+      },
+      {
+        "code": "clothing_mafiascarf",
+        "name": "clothing_mafiascarf name",
+        "description": "clothing_mafiascarf desc"
+      },
+      {
+        "code": "clothing_mafiasuit",
+        "name": "clothing_mafiasuit name",
+        "description": "clothing_mafiasuit desc"
       },
       {
         "code": "clothing_maid",
@@ -38582,6 +38617,11 @@
         "description": "clothing_nftgiftbox desc"
       },
       {
+        "code": "clothing_nftgoldgrills",
+        "name": "clothing_nftgoldgrills name",
+        "description": "clothing_nftgoldgrills desc"
+      },
+      {
         "code": "clothing_nftgoldjunglemask",
         "name": "Máscara de la Jungla de Oro",
         "description": "clothing_nftgoldjunglemask desc"
@@ -39017,6 +39057,11 @@
         "description": ""
       },
       {
+        "code": "clothing_nftmouthtape",
+        "name": "clothing_nftmouthtape name",
+        "description": "clothing_nftmouthtape desc"
+      },
+      {
         "code": "clothing_nftmrareshirt",
         "name": "Camiseta Etiqueta Habbo Raro",
         "description": "clothing_nftmrareshirt desc"
@@ -39055,6 +39100,11 @@
         "code": "clothing_nftneondevilmask",
         "name": "Máscara de Diablo de Neón",
         "description": "clothing_nftneondevilmask desc"
+      },
+      {
+        "code": "clothing_nftnewsboycap",
+        "name": "clothing_nftnewsboycap name",
+        "description": "clothing_nftnewsboycap desc"
       },
       {
         "code": "clothing_nftnewspaperhat",
@@ -39845,6 +39895,11 @@
         "code": "clothing_nftsunflowershorts",
         "name": "Shorts Girasol",
         "description": "clothing_nftsunflowershorts desc"
+      },
+      {
+        "code": "clothing_nftsuspenders",
+        "name": "clothing_nftsuspenders name",
+        "description": "clothing_nftsuspenders desc"
       },
       {
         "code": "clothing_nftswordnshiled",
@@ -43582,6 +43637,11 @@
         "description": "clothing_r26_glitterwings desc"
       },
       {
+        "code": "clothing_r26_goldwatch",
+        "name": "clothing_r26_goldwatch name",
+        "description": "clothing_r26_goldwatch desc"
+      },
+      {
         "code": "clothing_r26_iridescentcoat",
         "name": "Chubasquero Iridiscente",
         "description": "clothing_r26_iridescentcoat desc"
@@ -43635,6 +43695,11 @@
         "code": "clothing_r26_robotcompanion",
         "name": "Robot de Compañía",
         "description": "clothing_r26_robotcompanion desc"
+      },
+      {
+        "code": "clothing_r26_scarface",
+        "name": "clothing_r26_scarface name",
+        "description": "clothing_r26_scarface desc"
       },
       {
         "code": "clothing_r26_spider",
@@ -44437,6 +44502,11 @@
         "description": "clothing_survivalbackpack desc"
       },
       {
+        "code": "clothing_susglasses",
+        "name": "clothing_susglasses name",
+        "description": "clothing_susglasses desc"
+      },
+      {
         "code": "clothing_swirlskirt",
         "name": "Falda Remolino",
         "description": "Obbah Wobbah bobba-dee-dah-dii. ¡Tenemos la ropa perfecta para ti!"
@@ -44452,9 +44522,19 @@
         "description": "clothing_tailedcoat desc"
       },
       {
+        "code": "clothing_tattoobody2",
+        "name": "clothing_tattoobody2 name",
+        "description": "clothing_tattoobody2 desc"
+      },
+      {
         "code": "clothing_tattoobody",
         "name": "Brazo Tatuado",
         "description": "clothing_tattoobody desc"
+      },
+      {
+        "code": "clothing_tattoohead",
+        "name": "clothing_tattoohead name",
+        "description": "clothing_tattoohead desc"
       },
       {
         "code": "clothing_teacuphat",
@@ -52677,6 +52757,16 @@
         "description": "ducket_c26_nauticalpillow desc"
       },
       {
+        "code": "ducket_c26_puffin",
+        "name": "ducket_c26_puffin name",
+        "description": "ducket_c26_puffin desc"
+      },
+      {
+        "code": "ducket_c26_sailboat",
+        "name": "ducket_c26_sailboat name",
+        "description": "ducket_c26_sailboat desc"
+      },
+      {
         "code": "ducket_c26_seachair",
         "name": "Silla de Playa",
         "description": "ducket_c26_seachair desc"
@@ -57333,7 +57423,7 @@
       },
       {
         "code": "fball_c26_counterup",
-        "name": "Marcador Ascendente",
+        "name": "Cronómetro",
         "description": "fball_c26_counterup desc"
       },
       {
@@ -57343,27 +57433,27 @@
       },
       {
         "code": "fball_c26_longbench",
-        "name": "Banquillo del Equipo",
+        "name": "Banca Larga de Estadio",
         "description": "fball_c26_longbench desc"
       },
       {
         "code": "fball_c26_ptch11",
-        "name": "Campo de Fútbol",
+        "name": "Césped de Fútbol: Línea de Meta",
         "description": "fball_c26_ptch11 desc"
       },
       {
         "code": "fball_c26_standlesscounter",
-        "name": "Marcador sin Soporte",
+        "name": "Temporizador",
         "description": "fball_c26_standlesscounter desc"
       },
       {
         "code": "fball_c26_standlesscounterup",
-        "name": "Marcador Ascendente sin Soporte",
+        "name": "Cronómetro",
         "description": "fball_c26_standlesscounterup desc"
       },
       {
         "code": "fball_c26_trainingcone",
-        "name": "Cono de Entrenamiento Pequeño",
+        "name": "Cono de Entrenamiento",
         "description": "fball_c26_trainingcone desc"
       },
       {
@@ -73892,6 +73982,266 @@
         "description": "Featherweight fighting to go pro."
       },
       {
+        "code": "mafia_c26_armchair_dark",
+        "name": "mafia_c26_armchair_dark name",
+        "description": "mafia_c26_armchair_dark desc"
+      },
+      {
+        "code": "mafia_c26_armchair_white",
+        "name": "mafia_c26_armchair_white name",
+        "description": "mafia_c26_armchair_white desc"
+      },
+      {
+        "code": "mafia_c26_bed_dark",
+        "name": "mafia_c26_bed_dark name",
+        "description": "mafia_c26_bed_dark desc"
+      },
+      {
+        "code": "mafia_c26_bed_white",
+        "name": "mafia_c26_bed_white name",
+        "description": "mafia_c26_bed_white desc"
+      },
+      {
+        "code": "mafia_c26_car",
+        "name": "mafia_c26_car name",
+        "description": "mafia_c26_car desc"
+      },
+      {
+        "code": "mafia_c26_cash",
+        "name": "mafia_c26_cash name",
+        "description": "mafia_c26_cash desc"
+      },
+      {
+        "code": "mafia_c26_coffeetable_dark",
+        "name": "mafia_c26_coffeetable_dark name",
+        "description": "mafia_c26_coffeetable_dark desc"
+      },
+      {
+        "code": "mafia_c26_coffeetable_white",
+        "name": "mafia_c26_coffeetable_white name",
+        "description": "mafia_c26_coffeetable_white desc"
+      },
+      {
+        "code": "mafia_c26_designer",
+        "name": "mafia_c26_designer name",
+        "description": "mafia_c26_designer desc"
+      },
+      {
+        "code": "mafia_c26_divider_dark",
+        "name": "mafia_c26_divider_dark name",
+        "description": "mafia_c26_divider_dark desc"
+      },
+      {
+        "code": "mafia_c26_divider_white",
+        "name": "mafia_c26_divider_white name",
+        "description": "mafia_c26_divider_white desc"
+      },
+      {
+        "code": "mafia_c26_drinkcabinet",
+        "name": "mafia_c26_drinkcabinet name",
+        "description": "mafia_c26_drinkcabinet desc"
+      },
+      {
+        "code": "mafia_c26_drinktray",
+        "name": "mafia_c26_drinktray name",
+        "description": "mafia_c26_drinktray desc"
+      },
+      {
+        "code": "mafia_c26_firepit_dark",
+        "name": "mafia_c26_firepit_dark name",
+        "description": "mafia_c26_firepit_dark desc"
+      },
+      {
+        "code": "mafia_c26_firepit_white",
+        "name": "mafia_c26_firepit_white name",
+        "description": "mafia_c26_firepit_white desc"
+      },
+      {
+        "code": "mafia_c26_fish",
+        "name": "mafia_c26_fish name",
+        "description": "mafia_c26_fish desc"
+      },
+      {
+        "code": "mafia_c26_goldleaf",
+        "name": "mafia_c26_goldleaf name",
+        "description": "mafia_c26_goldleaf desc"
+      },
+      {
+        "code": "mafia_c26_guarddog",
+        "name": "mafia_c26_guarddog name",
+        "description": "mafia_c26_guarddog desc"
+      },
+      {
+        "code": "mafia_c26_gunrack",
+        "name": "mafia_c26_gunrack name",
+        "description": "mafia_c26_gunrack desc"
+      },
+      {
+        "code": "mafia_c26_jacuzzi_dark",
+        "name": "mafia_c26_jacuzzi_dark name",
+        "description": "mafia_c26_jacuzzi_dark desc"
+      },
+      {
+        "code": "mafia_c26_jacuzzi_white",
+        "name": "mafia_c26_jacuzzi_white name",
+        "description": "mafia_c26_jacuzzi_white desc"
+      },
+      {
+        "code": "mafia_c26_kit",
+        "name": "mafia_c26_kit name",
+        "description": "mafia_c26_kit desc"
+      },
+      {
+        "code": "mafia_c26_ledger",
+        "name": "mafia_c26_ledger name",
+        "description": "mafia_c26_ledger desc"
+      },
+      {
+        "code": "mafia_c26_magazines",
+        "name": "mafia_c26_magazines name",
+        "description": "mafia_c26_magazines desc"
+      },
+      {
+        "code": "mafia_c26_magazinesb",
+        "name": "mafia_c26_magazinesb name",
+        "description": "mafia_c26_magazinesb desc"
+      },
+      {
+        "code": "mafia_c26_paint",
+        "name": "mafia_c26_paint name",
+        "description": "mafia_c26_paint desc"
+      },
+      {
+        "code": "mafia_c26_pasta",
+        "name": "mafia_c26_pasta name",
+        "description": "mafia_c26_pasta desc"
+      },
+      {
+        "code": "mafia_c26_planter_dark",
+        "name": "mafia_c26_planter_dark name",
+        "description": "mafia_c26_planter_dark desc"
+      },
+      {
+        "code": "mafia_c26_planter_white",
+        "name": "mafia_c26_planter_white name",
+        "description": "mafia_c26_planter_white desc"
+      },
+      {
+        "code": "mafia_c26_polish",
+        "name": "mafia_c26_polish name",
+        "description": "mafia_c26_polish desc"
+      },
+      {
+        "code": "mafia_c26_safe",
+        "name": "mafia_c26_safe name",
+        "description": "mafia_c26_safe desc"
+      },
+      {
+        "code": "mafia_c26_sidetable_dark",
+        "name": "mafia_c26_sidetable_dark name",
+        "description": "mafia_c26_sidetable_dark desc"
+      },
+      {
+        "code": "mafia_c26_sidetable_white",
+        "name": "mafia_c26_sidetable_white name",
+        "description": "mafia_c26_sidetable_white desc"
+      },
+      {
+        "code": "mafia_c26_sofa_dark",
+        "name": "mafia_c26_sofa_dark name",
+        "description": "mafia_c26_sofa_dark desc"
+      },
+      {
+        "code": "mafia_c26_sofa_white",
+        "name": "mafia_c26_sofa_white name",
+        "description": "mafia_c26_sofa_white desc"
+      },
+      {
+        "code": "mafia_c26_tallwall_dark",
+        "name": "mafia_c26_tallwall_dark name",
+        "description": "mafia_c26_tallwall_dark desc"
+      },
+      {
+        "code": "mafia_c26_tallwall_white",
+        "name": "mafia_c26_tallwall_white name",
+        "description": "mafia_c26_tallwall_white desc"
+      },
+      {
+        "code": "mafia_c26_teleport_dark",
+        "name": "mafia_c26_teleport_dark name",
+        "description": "mafia_c26_teleport_dark desc"
+      },
+      {
+        "code": "mafia_c26_teleport_white",
+        "name": "mafia_c26_teleport_white name",
+        "description": "mafia_c26_teleport_white desc"
+      },
+      {
+        "code": "mafia_c26_vase_dark",
+        "name": "mafia_c26_vase_dark name",
+        "description": "mafia_c26_vase_dark desc"
+      },
+      {
+        "code": "mafia_c26_vase_white",
+        "name": "mafia_c26_vase_white name",
+        "description": "mafia_c26_vase_white desc"
+      },
+      {
+        "code": "mafia_c26_vintagechair",
+        "name": "mafia_c26_vintagechair name",
+        "description": "mafia_c26_vintagechair desc"
+      },
+      {
+        "code": "mafia_c26_vintagedesk",
+        "name": "mafia_c26_vintagedesk name",
+        "description": "mafia_c26_vintagedesk desc"
+      },
+      {
+        "code": "mafia_c26_wall_dark",
+        "name": "mafia_c26_wall_dark name",
+        "description": "mafia_c26_wall_dark desc"
+      },
+      {
+        "code": "mafia_c26_wall_white",
+        "name": "mafia_c26_wall_white name",
+        "description": "mafia_c26_wall_white desc"
+      },
+      {
+        "code": "mafia_c26_walllamp_dark",
+        "name": "mafia_c26_walllamp_dark name",
+        "description": "mafia_c26_walllamp_dark desc"
+      },
+      {
+        "code": "mafia_c26_walllamp_white",
+        "name": "mafia_c26_walllamp_white name",
+        "description": "mafia_c26_walllamp_white desc"
+      },
+      {
+        "code": "mafia_c26_wallsafe",
+        "name": "mafia_c26_wallsafe name",
+        "description": "mafia_c26_wallsafe desc"
+      },
+      {
+        "code": "mafia_c26_window_dark",
+        "name": "mafia_c26_window_dark name",
+        "description": "mafia_c26_window_dark desc"
+      },
+      {
+        "code": "mafia_c26_window_white",
+        "name": "mafia_c26_window_white name",
+        "description": "mafia_c26_window_white desc"
+      },
+      {
+        "code": "mafia_r26_globe",
+        "name": "mafia_r26_globe name",
+        "description": "mafia_r26_globe desc"
+      },
+      {
+        "code": "mafia_r26_moneytile",
+        "name": "mafia_r26_moneytile name",
+        "description": "mafia_r26_moneytile desc"
+      },
+      {
         "code": "magazines",
         "name": "Revistas",
         "description": "magazines desc"
@@ -80728,7 +81078,7 @@
       },
       {
         "code": "nft_h22_bronzetrophy",
-        "name": "Trofeo Habbo Comprometido con la Comunidad Bronce",
+        "name": "Trofeo Pilar de la Comunidad Bronce",
         "description": "nft_h22_bronzetrophy desc"
       },
       {
@@ -82233,7 +82583,7 @@
       },
       {
         "code": "nft_h24_cb_pillows1",
-        "name": "Trofeo Almohada 1",
+        "name": "Trofeo Almohadones 1",
         "description": "nft_h24_cb_pillows1 desc"
       },
       {
@@ -82868,7 +83218,7 @@
       },
       {
         "code": "nft_h25_cb_holos",
-        "name": "Trofeos Holo",
+        "name": "Trofeos Holos",
         "description": "nft_h25_cb_holos desc"
       },
       {
@@ -83402,6 +83752,26 @@
         "description": "nft_h26_bronzeelf desc"
       },
       {
+        "code": "nft_h26_cardchair",
+        "name": "nft_h26_cardchair name",
+        "description": "nft_h26_cardchair desc"
+      },
+      {
+        "code": "nft_h26_cardtable",
+        "name": "nft_h26_cardtable name",
+        "description": "nft_h26_cardtable desc"
+      },
+      {
+        "code": "nft_h26_contraband",
+        "name": "nft_h26_contraband name",
+        "description": "nft_h26_contraband desc"
+      },
+      {
+        "code": "nft_h26_crates",
+        "name": "nft_h26_crates name",
+        "description": "nft_h26_crates desc"
+      },
+      {
         "code": "nft_h26_discobed",
         "name": "Disco Cama",
         "description": "nft_h26_discobed desc"
@@ -83575,6 +83945,26 @@
         "code": "nft_h26_receptionistposter",
         "name": "Póster El Recepcionista",
         "description": "nft_h26_receptionistposter desc"
+      },
+      {
+        "code": "nft_h26_rifle_bronze",
+        "name": "nft_h26_rifle_bronze name",
+        "description": "nft_h26_rifle_bronze desc"
+      },
+      {
+        "code": "nft_h26_rifle_gold",
+        "name": "nft_h26_rifle_gold name",
+        "description": "nft_h26_rifle_gold desc"
+      },
+      {
+        "code": "nft_h26_rifle_silver",
+        "name": "nft_h26_rifle_silver name",
+        "description": "nft_h26_rifle_silver desc"
+      },
+      {
+        "code": "nft_h26_rifle_trippy",
+        "name": "nft_h26_rifle_trippy name",
+        "description": "nft_h26_rifle_trippy desc"
       },
       {
         "code": "nft_h26_sandmangnome",
@@ -84912,6 +85302,11 @@
         "description": "nft_sc25_warningsign desc"
       },
       {
+        "code": "nft_sc_bodybag",
+        "name": "nft_sc_bodybag name",
+        "description": "nft_sc_bodybag desc"
+      },
+      {
         "code": "nft_sc_elvenstatue1",
         "name": "Estatua Madre Elfo",
         "description": "nft_sc_elvenstatue1 desc"
@@ -84935,6 +85330,26 @@
         "code": "nft_sc_giantcoconutdrink",
         "name": "Cóctel de Coco Gigante",
         "description": "nft_sc_giantcoconutdrink desc"
+      },
+      {
+        "code": "nft_sc_habbfather",
+        "name": "nft_sc_habbfather name",
+        "description": "nft_sc_habbfather desc"
+      },
+      {
+        "code": "nft_sc_horsehead",
+        "name": "nft_sc_horsehead name",
+        "description": "nft_sc_horsehead desc"
+      },
+      {
+        "code": "nft_sc_knife",
+        "name": "nft_sc_knife name",
+        "description": "nft_sc_knife desc"
+      },
+      {
+        "code": "nft_sc_moneybag",
+        "name": "nft_sc_moneybag name",
+        "description": "nft_sc_moneybag desc"
       },
       {
         "code": "nft_sc_snowglobe1",
@@ -91468,7 +91883,7 @@
       },
       {
         "code": "prizetrophy_cine",
-        "name": "Estatuilla de cine",
+        "name": "Trofeo Habbowood",
         "description": "¡No me digas que te han premiado!"
       },
       {
@@ -91713,7 +92128,7 @@
       },
       {
         "code": "prizetrophy_thumb",
-        "name": "Pulgares arriba",
+        "name": "Trofeo Pulgares Arriba",
         "description": "¿Todo ok?"
       },
       {
@@ -95910,6 +96325,16 @@
         "code": "rentable_bot_visitor_log",
         "name": "Bot Espía de una semana",
         "description": "Te cuenta quiénes han sido los últimos 50 visitantes de tu Sala mientras no estabas."
+      },
+      {
+        "code": "rewardtrack_duckformer",
+        "name": "rewardtrack_duckformer name",
+        "description": "rewardtrack_duckformer desc"
+      },
+      {
+        "code": "rewardtrack_lovelock",
+        "name": "rewardtrack_lovelock name",
+        "description": "rewardtrack_lovelock desc"
       },
       {
         "code": "rift1",
@@ -107422,6 +107847,11 @@
         "description": "sc25_warningsign desc"
       },
       {
+        "code": "sc_bodybag",
+        "name": "sc_bodybag name",
+        "description": "sc_bodybag desc"
+      },
+      {
         "code": "sc_elvenstatue1",
         "name": "Estatua Madre Elfo",
         "description": "sc_elvenstatue1 desc"
@@ -107440,6 +107870,21 @@
         "code": "sc_giantcoconutdrink",
         "name": "Cóctel de Coco Gigante",
         "description": "sc_giantcoconutdrink desc"
+      },
+      {
+        "code": "sc_horsehead",
+        "name": "sc_horsehead name",
+        "description": "sc_horsehead desc"
+      },
+      {
+        "code": "sc_knife",
+        "name": "sc_knife name",
+        "description": "sc_knife desc"
+      },
+      {
+        "code": "sc_moneybag",
+        "name": "sc_moneybag name",
+        "description": "sc_moneybag desc"
       },
       {
         "code": "sc_snowglobe1",
@@ -112763,17 +113208,17 @@
       },
       {
         "code": "trophy_fball_c26_wingedbronze",
-        "name": "Trofeo de Fútbol Alas de Bronce",
+        "name": "Trofeo Alado de Fútbol Bronce",
         "description": "trophy_fball_c26_wingedbronze desc"
       },
       {
         "code": "trophy_fball_c26_wingedgold",
-        "name": "Trofeo de Fútbol Alas de Oro",
+        "name": "Trofeo Alado de Fútbol Oro",
         "description": "trophy_fball_c26_wingedgold desc"
       },
       {
         "code": "trophy_fball_c26_wingedsilver",
-        "name": "Trofeo de Fútbol Alas de Plata",
+        "name": "Trofeo Alado de Fútbol Plata",
         "description": "trophy_fball_c26_wingedsilver desc"
       },
       {
@@ -112873,7 +113318,7 @@
       },
       {
         "code": "trophy_torch",
-        "name": "Torch Trophy",
+        "name": "Trofeo Antorcha",
         "description": "Brillante"
       },
       {
