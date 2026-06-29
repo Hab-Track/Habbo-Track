@@ -45447,6 +45447,11 @@
         "description": "clothing_toastbackpack desc"
       },
       {
+        "code": "clothing_toastfriend",
+        "name": "clothing_toastfriend name",
+        "description": "clothing_toastfriend desc"
+      },
+      {
         "code": "clothing_topbuttonshirt",
         "name": "Ylhäältä napitettu paita",
         "description": "clothing_topbuttonshirt desc"
@@ -78567,6 +78572,16 @@
         "description": "Netarin oma juliste"
       },
       {
+        "code": "newbie_cat_package",
+        "name": "newbie_cat_package name",
+        "description": "newbie_cat_package desc"
+      },
+      {
+        "code": "newbie_crocodile_package",
+        "name": "newbie_crocodile_package name",
+        "description": "newbie_crocodile_package desc"
+      },
+      {
         "code": "newbie_eleblock1",
         "name": "Nyybipalikka",
         "description": "Ja ei kun pinoamaan!"
@@ -79140,6 +79155,21 @@
         "code": "nft_a0_pillow",
         "name": "Untuvatyyny",
         "description": "Comfort with style"
+      },
+      {
+        "code": "nft_a0_prize1",
+        "name": "Gold Trophy",
+        "description": "Gorgeously glittery"
+      },
+      {
+        "code": "nft_a0_prize2",
+        "name": "Silver Trophy",
+        "description": "Nice and shiny"
+      },
+      {
+        "code": "nft_a0_prize3",
+        "name": "Bronze Trophy",
+        "description": "A weighty award"
       },
       {
         "code": "nft_a0_rareparasolbrown",
@@ -80377,6 +80407,11 @@
         "description": "nft_cland15_candythrone desc"
       },
       {
+        "code": "nft_cland15_tent",
+        "name": "nft_cland15_tent name",
+        "description": "nft_cland15_tent desc"
+      },
+      {
         "code": "nft_cland15_unicorn",
         "name": "Taianomainen karkkiyksisarvinen",
         "description": "nft_cland15_unicorn desc"
@@ -80640,6 +80675,26 @@
         "code": "nft_diamond_painting41",
         "name": "Ankkajainen",
         "description": "Ankkajainen"
+      },
+      {
+        "code": "nft_diamond_painting43",
+        "name": "nft_diamond_painting43 name",
+        "description": "nft_diamond_painting43 desc"
+      },
+      {
+        "code": "nft_diamond_painting44",
+        "name": "nft_diamond_painting44 name",
+        "description": "nft_diamond_painting44 desc"
+      },
+      {
+        "code": "nft_diamond_painting48",
+        "name": "nft_diamond_painting48 name",
+        "description": "nft_diamond_painting48 desc"
+      },
+      {
+        "code": "nft_diamond_painting49",
+        "name": "nft_diamond_painting49 name",
+        "description": "nft_diamond_painting49 desc"
       },
       {
         "code": "nft_diamond_painting53",
@@ -81015,6 +81070,26 @@
         "code": "nft_eco_mush2",
         "name": "Kärpässieni",
         "description": "Kärpässieni"
+      },
+      {
+        "code": "nft_eco_sofa1",
+        "name": "nft_eco_sofa1 name",
+        "description": "nft_eco_sofa1 desc"
+      },
+      {
+        "code": "nft_eco_sofa2",
+        "name": "nft_eco_sofa2 name",
+        "description": "nft_eco_sofa2 desc"
+      },
+      {
+        "code": "nft_eco_sofa3",
+        "name": "nft_eco_sofa3 name",
+        "description": "nft_eco_sofa3 desc"
+      },
+      {
+        "code": "nft_eco_table1",
+        "name": "nft_eco_table1 name",
+        "description": "nft_eco_table1 desc"
       },
       {
         "code": "nft_eco_tree1",
@@ -84782,6 +84857,11 @@
         "description": "Hienostunutta valaisua"
       },
       {
+        "code": "nft_holo_dragon",
+        "name": "nft_holo_dragon name",
+        "description": "nft_holo_dragon desc"
+      },
+      {
         "code": "nft_hologram1",
         "name": "NFT Pronssinen Holo Steampunk",
         "description": "nft_hologram1 desc"
@@ -84937,6 +85017,11 @@
         "description": "nft_matic_dispenser desc"
       },
       {
+        "code": "nft_matic_probe",
+        "name": "nft_matic_probe name",
+        "description": "nft_matic_probe desc"
+      },
+      {
         "code": "nft_matic_tree_green",
         "name": "Vihreä hologrammipuu",
         "description": "Tämä puu eli ja kuoli tähtien tuikkeesta."
@@ -84945,6 +85030,16 @@
         "code": "nft_matic_tree_yellow",
         "name": "Keltainen hologrammipuu",
         "description": "Hyvä yritys, Spock!"
+      },
+      {
+        "code": "nft_matic_walkway_blue",
+        "name": "nft_matic_walkway_blue name",
+        "description": "nft_matic_walkway_blue desc"
+      },
+      {
+        "code": "nft_matic_walkway_green",
+        "name": "nft_matic_walkway_green name",
+        "description": "nft_matic_walkway_green desc"
       },
       {
         "code": "nft_mint_token_purchase_10",
@@ -85195,6 +85290,11 @@
         "code": "nft_rare_beehive_bulb",
         "name": "$product_rare_beehive_bulb_name$",
         "description": "$product_rare_beehive_bulb_name$"
+      },
+      {
+        "code": "nft_rare_blackrosegold_dragonlamp",
+        "name": "nft_rare_blackrosegold_dragonlamp name",
+        "description": "nft_rare_blackrosegold_dragonlamp desc"
       },
       {
         "code": "nft_rare_blackrosegold_elephant_statue",
@@ -85645,6 +85745,11 @@
         "code": "nft_rare_r23_djesko_turntable_2",
         "name": "nft_rare_r23_djesko_turntable_2 name",
         "description": "nft_rare_r23_djesko_turntable_2 desc"
+      },
+      {
+        "code": "nft_rare_r24_whippet",
+        "name": "nft_rare_r24_whippet name",
+        "description": "nft_rare_r24_whippet desc"
       },
       {
         "code": "nft_rare_royalchair",
