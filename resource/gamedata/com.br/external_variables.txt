@@ -228,6 +228,7 @@ guides.enabled=false
 guidetool.handle.chat_reviews=true
 guidetool.handle.help_requests=true
 guidetool.handle.tour_requests=false
+habbicons.enabled=false
 habbo.gaming.api.enabled=true
 habbo_club_buy_disabled=true
 habboinfotool.url=https://theallseeingeye.sulake.com/ase/habbo/br/housekeeping/extra/hobba/scam_userinfo_new.action?searchParamName=username&database=Stats&searchParamValue=
@@ -2684,7 +2685,7 @@ zoom.enabled=1
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202606251236-639260803/
 new.user.flow.roomTypes=10,11,12
 external.texts.txt=https://www.habbo.com.br/gamedata/external_flash_texts/fc8a4eb74b7366a468a900be8976c58f6777d546
-external.figurepartlist.txt=https://www.habbo.com.br/gamedata/figuredata/07da10ea7a67b5d86fc1b98853a3540631ad60c2
+external.figurepartlist.txt=https://www.habbo.com.br/gamedata/figuredata/4f9df5f5465da9a7b27ae81da7e2f53b2e0cee82
 productdata.load.url=http://www.habbo.com.br/gamedata/productdata/a58262c99d928617615d3cf962da3e194509e730
 furnidata.load.url=http://www.habbo.com.br/gamedata/furnidata_xml/e17f8d17b1035a660e602045bc1de5b1f5c21229
 external.override.texts.txt=https://www.habbo.com.br/gamedata/override/external_flash_override_texts/fc8a4eb74b7366a468a900be8976c58f6777d546
