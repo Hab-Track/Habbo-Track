@@ -31807,6 +31807,11 @@
         "description": ""
       },
       {
+        "code": "cl_dia_cropshirt",
+        "name": "Kort Gestreepte Trui",
+        "description": ""
+      },
+      {
         "code": "cl_dia_duckethoneyshirt",
         "name": "T-Shirt met Honingvlek",
         "description": ""
@@ -31997,6 +32002,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_jellyfishcut_bd",
+        "name": "Kwalvormig Kapsel",
+        "description": ""
+      },
+      {
         "code": "cl_r26_lasersword_bd",
         "name": "Laser Zwaard",
         "description": ""
@@ -32007,8 +32017,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_mantabag_bd",
+        "name": "Mantarog Rugtas",
+        "description": ""
+      },
+      {
         "code": "cl_r26_minielephant_bd",
         "name": "Grijze Mini Olifant",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_moodoctopus_bd",
+        "name": "Stemmingswisselende Octopus",
         "description": ""
       },
       {
@@ -33128,7 +33148,7 @@
       },
       {
         "code": "clothing_adorablepetshark",
-        "name": "clothing_adorablepetshark name",
+        "name": "Schattig Haaien Vriendje",
         "description": "clothing_adorablepetshark desc"
       },
       {
@@ -33368,7 +33388,7 @@
       },
       {
         "code": "clothing_beachvisor",
-        "name": "clothing_beachvisor name",
+        "name": "Strand Zonneklep",
         "description": "clothing_beachvisor desc"
       },
       {
@@ -34343,12 +34363,12 @@
       },
       {
         "code": "clothing_cozysailorhat",
-        "name": "clothing_cozysailorhat name",
+        "name": "Matrozenmuts",
         "description": "clothing_cozysailorhat desc"
       },
       {
         "code": "clothing_cozysailoruniform",
-        "name": "clothing_cozysailoruniform name",
+        "name": "Matrozen Uniform",
         "description": "clothing_cozysailoruniform desc"
       },
       {
@@ -34938,7 +34958,7 @@
       },
       {
         "code": "clothing_ducketcropshirt",
-        "name": "clothing_ducketcropshirt name",
+        "name": "Kort Gestreepte Trui",
         "description": "clothing_ducketcropshirt desc"
       },
       {
@@ -36403,7 +36423,7 @@
       },
       {
         "code": "clothing_letitgrow",
-        "name": "clothing_letitgrow name",
+        "name": "Superlang Haar",
         "description": "clothing_letitgrow desc"
       },
       {
@@ -37223,7 +37243,7 @@
       },
       {
         "code": "clothing_nftbeachboy",
-        "name": "clothing_nftbeachboy name",
+        "name": "Klaar voor het Strand Kapsel",
         "description": "clothing_nftbeachboy desc"
       },
       {
@@ -38453,7 +38473,7 @@
       },
       {
         "code": "clothing_nftpalmbraid",
-        "name": "clothing_nftpalmbraid name",
+        "name": "Palmboom Kapsel",
         "description": "clothing_nftpalmbraid desc"
       },
       {
@@ -38493,7 +38513,7 @@
       },
       {
         "code": "clothing_nftpartyshades",
-        "name": "clothing_nftpartyshades name",
+        "name": "Feestbril",
         "description": "clothing_nftpartyshades desc"
       },
       {
@@ -38563,7 +38583,7 @@
       },
       {
         "code": "clothing_nftpinwheel",
-        "name": "clothing_nftpinwheel name",
+        "name": "Kleurrijk Windmolentje",
         "description": "clothing_nftpinwheel desc"
       },
       {
@@ -38643,17 +38663,17 @@
       },
       {
         "code": "clothing_nftrainbowbikini",
-        "name": "clothing_nftrainbowbikini name",
+        "name": "Regenboog Bikini",
         "description": "clothing_nftrainbowbikini desc"
       },
       {
         "code": "clothing_nftrainbowpartyshades",
-        "name": "clothing_nftrainbowpartyshades name",
+        "name": "Regenboog Feestbril",
         "description": "clothing_nftrainbowpartyshades desc"
       },
       {
         "code": "clothing_nftrainbowswimshorts",
-        "name": "clothing_nftrainbowswimshorts name",
+        "name": "Regenboog Zwembroek",
         "description": "clothing_nftrainbowswimshorts desc"
       },
       {
@@ -42958,7 +42978,7 @@
       },
       {
         "code": "clothing_r26_jellyfishcut",
-        "name": "clothing_r26_jellyfishcut name",
+        "name": "Kwalvormig Kapsel",
         "description": "clothing_r26_jellyfishcut desc"
       },
       {
@@ -42973,7 +42993,7 @@
       },
       {
         "code": "clothing_r26_mantabag",
-        "name": "clothing_r26_mantabag name",
+        "name": "Mantarog Rugtas",
         "description": "clothing_r26_mantabag desc"
       },
       {
@@ -42983,7 +43003,7 @@
       },
       {
         "code": "clothing_r26_moodoctopus",
-        "name": "clothing_r26_moodoctopus name",
+        "name": "Stemmingswisselende Octopus",
         "description": "clothing_r26_moodoctopus desc"
       },
       {
@@ -43303,7 +43323,7 @@
       },
       {
         "code": "clothing_scallywagseagull",
-        "name": "clothing_scallywagseagull name",
+        "name": "Scallywag Zeemeeuw",
         "description": "clothing_scallywagseagull desc"
       },
       {
@@ -43768,7 +43788,7 @@
       },
       {
         "code": "clothing_sturdylifejacket",
-        "name": "clothing_sturdylifejacket name",
+        "name": "Reddingsvest",
         "description": "clothing_sturdylifejacket desc"
       },
       {
@@ -43778,12 +43798,12 @@
       },
       {
         "code": "clothing_summerbraid",
-        "name": "clothing_summerbraid name",
+        "name": "Zomerse Vlecht",
         "description": "clothing_summerbraid desc"
       },
       {
         "code": "clothing_sunburntcheeks",
-        "name": "clothing_sunburntcheeks name",
+        "name": "Zonverbrande Wangen",
         "description": "clothing_sunburntcheeks desc"
       },
       {
@@ -43875,6 +43895,11 @@
         "code": "clothing_tenderheartoutfit",
         "name": "Hartebeer Outfit",
         "description": "clothing_tenderheartoutfit desc"
+      },
+      {
+        "code": "clothing_tentacleddress",
+        "name": "Tentakel Jurk",
+        "description": ""
       },
       {
         "code": "clothing_tentacledress",
@@ -44263,7 +44288,7 @@
       },
       {
         "code": "clothing_vintageswimsuit",
-        "name": "clothing_vintageswimsuit name",
+        "name": "Vintage Badpak",
         "description": "clothing_vintageswimsuit desc"
       },
       {
@@ -53088,7 +53113,7 @@
       },
       {
         "code": "ducket_c26_minilighthouse",
-        "name": "ducket_c26_minilighthouse name",
+        "name": "Miniatuur Vuurtoren",
         "description": "ducket_c26_minilighthouse desc"
       },
       {
@@ -53113,12 +53138,12 @@
       },
       {
         "code": "ducket_c26_seasidetable",
-        "name": "ducket_c26_seasidetable name",
+        "name": "Strandhuis Bijzettafel",
         "description": "ducket_c26_seasidetable desc"
       },
       {
         "code": "ducket_c26_shipbed",
-        "name": "ducket_c26_shipbed name",
+        "name": "Scheepsvormig Bed",
         "description": "ducket_c26_shipbed desc"
       },
       {
@@ -53192,6 +53217,11 @@
         "description": ""
       },
       {
+        "code": "ducket_dia_minilighthouse",
+        "name": "Miniatuur Vuurtoren",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_nauticalpillow",
         "name": "Sierkussen Stuurwiel",
         "description": ""
@@ -53199,6 +53229,16 @@
       {
         "code": "ducket_dia_seachair",
         "name": "Strandstoel",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_seasidetable",
+        "name": "Strandhuis Bijzettafel",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_shipbed",
+        "name": "Scheepsvormig Bed",
         "description": ""
       },
       {
@@ -74267,6 +74307,11 @@
         "description": ""
       },
       {
+        "code": "ltd26_sanddragon_bd",
+        "name": "Zanddraak",
+        "description": ""
+      },
+      {
         "code": "ltd_habberge1",
         "name": "Lapis Lazuli Ei",
         "description": "Gemaakt door het Huis van Habberge"
@@ -78258,12 +78303,12 @@
       },
       {
         "code": "newbie_cat_package",
-        "name": "newbie_cat_package name",
+        "name": "Je eerste Habbo Kat",
         "description": "newbie_cat_package desc"
       },
       {
         "code": "newbie_crocodile_package",
-        "name": "newbie_crocodile_package name",
+        "name": "Je eerste Habbo Krokodil",
         "description": "newbie_crocodile_package desc"
       },
       {
@@ -84273,27 +84318,27 @@
       },
       {
         "code": "nft_h26_pineapple_bronze",
-        "name": "nft_h26_pineapple_bronze name",
+        "name": "Bronzen Ananas",
         "description": "nft_h26_pineapple_bronze desc"
       },
       {
         "code": "nft_h26_pineapple_gold",
-        "name": "nft_h26_pineapple_gold name",
+        "name": "Gouden Ananas",
         "description": "nft_h26_pineapple_gold desc"
       },
       {
         "code": "nft_h26_pineapple_silver",
-        "name": "nft_h26_pineapple_silver name",
+        "name": "Zilveren Ananas",
         "description": "nft_h26_pineapple_silver desc"
       },
       {
         "code": "nft_h26_pineapple_trippy",
-        "name": "nft_h26_pineapple_trippy name",
+        "name": "Trippy Ananas",
         "description": "nft_h26_pineapple_trippy desc"
       },
       {
         "code": "nft_h26_pineapplefridge",
-        "name": "nft_h26_pineapplefridge name",
+        "name": "Ananas Koelkast",
         "description": "nft_h26_pineapplefridge desc"
       },
       {
@@ -96628,12 +96673,12 @@
       },
       {
         "code": "rewardtrack_duckformer",
-        "name": "rewardtrack_duckformer name",
+        "name": "Klassieke Duckformer",
         "description": "rewardtrack_duckformer desc"
       },
       {
         "code": "rewardtrack_lovelock",
-        "name": "rewardtrack_lovelock name",
+        "name": "Allereerste Liefdesslot",
         "description": "rewardtrack_lovelock desc"
       },
       {
@@ -108783,157 +108828,162 @@
       },
       {
         "code": "seaside_c26_beachbag",
-        "name": "seaside_c26_beachbag name",
+        "name": "Overvolle Strandtas",
         "description": "seaside_c26_beachbag desc"
       },
       {
         "code": "seaside_c26_beachbagb",
-        "name": "seaside_c26_beachbagb name",
+        "name": "Overvolle Strandtas",
         "description": "seaside_c26_beachbagb desc"
       },
       {
         "code": "seaside_c26_bubblepop",
-        "name": "seaside_c26_bubblepop name",
+        "name": "Uiteenspattende Bubbel",
         "description": "seaside_c26_bubblepop desc"
       },
       {
         "code": "seaside_c26_bubbles",
-        "name": "seaside_c26_bubbles name",
+        "name": "Zeepbellen",
         "description": "seaside_c26_bubbles desc"
       },
       {
         "code": "seaside_c26_chest",
-        "name": "seaside_c26_chest name",
+        "name": "Gesloten Schatkist",
         "description": "seaside_c26_chest desc"
       },
       {
         "code": "seaside_c26_chestb",
-        "name": "seaside_c26_chestb name",
+        "name": "Gesloten Schatkist",
         "description": "seaside_c26_chestb desc"
       },
       {
         "code": "seaside_c26_conch",
-        "name": "seaside_c26_conch name",
+        "name": "Oceaanschelp",
         "description": "seaside_c26_conch desc"
       },
       {
         "code": "seaside_c26_conch_rainbow",
-        "name": "seaside_c26_conch_rainbow name",
+        "name": "Regenboog Oceaanschelp",
         "description": "seaside_c26_conch_rainbow desc"
       },
       {
         "code": "seaside_c26_conchshell",
-        "name": "seaside_c26_conchshell name",
+        "name": "Stekelige Hoornschelp",
         "description": "seaside_c26_conchshell desc"
       },
       {
         "code": "seaside_c26_dock",
-        "name": "seaside_c26_dock name",
+        "name": "Met Regenboogkleuren Versierde Steiger",
         "description": "seaside_c26_dock desc"
       },
       {
         "code": "seaside_c26_fishchair",
-        "name": "seaside_c26_fishchair name",
+        "name": "Kleurrijke Vis Houten Strandstoel",
         "description": "seaside_c26_fishchair desc"
       },
       {
         "code": "seaside_c26_fishchair_rainbow",
-        "name": "seaside_c26_fishchair_rainbow name",
+        "name": "Houten Strandstoel in Regenboogkleur",
         "description": "seaside_c26_fishchair_rainbow desc"
       },
       {
         "code": "seaside_c26_flag",
-        "name": "seaside_c26_flag name",
+        "name": "Kleine Regenboogvlag",
         "description": "seaside_c26_flag desc"
       },
       {
         "code": "seaside_c26_jellyfish",
-        "name": "seaside_c26_jellyfish name",
+        "name": "Geanimeerde Kwal",
         "description": "seaside_c26_jellyfish desc"
       },
       {
         "code": "seaside_c26_kite",
-        "name": "seaside_c26_kite name",
+        "name": "Kleurrijke Vlieger",
         "description": "seaside_c26_kite desc"
       },
       {
         "code": "seaside_c26_kite_rainbow",
-        "name": "seaside_c26_kite_rainbow name",
+        "name": "Regenboog Vlieger",
         "description": "seaside_c26_kite_rainbow desc"
       },
       {
         "code": "seaside_c26_lighthouse",
-        "name": "seaside_c26_lighthouse name",
+        "name": "Trotse Vuurtoren",
         "description": "seaside_c26_lighthouse desc"
       },
       {
         "code": "seaside_c26_octopus",
-        "name": "seaside_c26_octopus name",
+        "name": "Geanimeerde Octopus",
         "description": "seaside_c26_octopus desc"
       },
       {
         "code": "seaside_c26_paintbucket",
-        "name": "seaside_c26_paintbucket name",
+        "name": "Regenboog Verfblik",
         "description": "seaside_c26_paintbucket desc"
       },
       {
         "code": "seaside_c26_paperplanes",
-        "name": "seaside_c26_paperplanes name",
+        "name": "Vrolijke Papieren Vliegtuigjes",
         "description": "seaside_c26_paperplanes desc"
       },
       {
+        "code": "seaside_c26_pasteleasel_bd",
+        "name": "Pastelkleurige Regenboog Schildersezel",
+        "description": ""
+      },
+      {
         "code": "seaside_c26_pasteleasel",
-        "name": "seaside_c26_pasteleasel name",
+        "name": "Pastelkleurige Regenboog Schildersezel",
         "description": "seaside_c26_pasteleasel desc"
       },
       {
         "code": "seaside_c26_pearl",
-        "name": "seaside_c26_pearl name",
+        "name": "Stralende Parel",
         "description": "seaside_c26_pearl desc"
       },
       {
         "code": "seaside_c26_pufferfish",
-        "name": "seaside_c26_pufferfish name",
+        "name": "Geanimeerde Kogelvis",
         "description": "seaside_c26_pufferfish desc"
       },
       {
         "code": "seaside_c26_rainbowwater",
-        "name": "seaside_c26_rainbowwater name",
+        "name": "Regenboog Water",
         "description": "seaside_c26_rainbowwater desc"
       },
       {
         "code": "seaside_c26_sand",
-        "name": "seaside_c26_sand name",
+        "name": "Zandstrand",
         "description": "seaside_c26_sand desc"
       },
       {
         "code": "seaside_c26_sandcastle",
-        "name": "seaside_c26_sandcastle name",
+        "name": "Vrolijk Zandkasteel",
         "description": "seaside_c26_sandcastle desc"
       },
       {
         "code": "seaside_c26_seashell",
-        "name": "seaside_c26_seashell name",
+        "name": "Zeeschelp",
         "description": "seaside_c26_seashell desc"
       },
       {
         "code": "seaside_c26_starfish",
-        "name": "seaside_c26_starfish name",
+        "name": "Zeester",
         "description": "seaside_c26_starfish desc"
       },
       {
         "code": "seaside_c26_tentacles",
-        "name": "seaside_c26_tentacles name",
+        "name": "Kleurrijke Tentakels",
         "description": "seaside_c26_tentacles desc"
       },
       {
         "code": "seaside_c26_trawler",
-        "name": "seaside_c26_trawler name",
+        "name": "Gezellig Klein Vissersscheepje",
         "description": "seaside_c26_trawler desc"
       },
       {
         "code": "seaside_ltd26_sanddragon",
-        "name": "seaside_ltd26_sanddragon name",
+        "name": "Zanddraak",
         "description": "seaside_ltd26_sanddragon desc"
       },
       {
@@ -108977,8 +109027,13 @@
         "description": ""
       },
       {
+        "code": "seaside_r26_popsicle_bd",
+        "name": "Opblaasbare Regenboog IJslolly",
+        "description": ""
+      },
+      {
         "code": "seaside_r26_popsiclefloat",
-        "name": "seaside_r26_popsiclefloat name",
+        "name": "Opblaasbare Regenboog IJslolly",
         "description": "seaside_r26_popsiclefloat desc"
       },
       {

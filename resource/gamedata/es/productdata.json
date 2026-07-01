@@ -32482,6 +32482,11 @@
         "description": ""
       },
       {
+        "code": "cl_dia_cropshirt",
+        "name": "Camiseta Corta Confortable",
+        "description": ""
+      },
+      {
         "code": "cl_dia_duckethoneyshirt",
         "name": "Camiseta Salpicadura de Miel",
         "description": ""
@@ -32672,6 +32677,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_jellyfishcut_bd",
+        "name": "Peinado Medusa",
+        "description": ""
+      },
+      {
         "code": "cl_r26_lasersword_bd",
         "name": "Espada Láser",
         "description": ""
@@ -32682,8 +32692,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_mantabag_bd",
+        "name": "Mochila Manta Raya",
+        "description": ""
+      },
+      {
         "code": "cl_r26_minielephant_bd",
         "name": "Mini Elefante Gris",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_moodoctopus_bd",
+        "name": "Pulpo de los Estados de Ánimo",
         "description": ""
       },
       {
@@ -33803,7 +33823,7 @@
       },
       {
         "code": "clothing_adorablepetshark",
-        "name": "clothing_adorablepetshark name",
+        "name": "Adorable Tiburón Mascota",
         "description": "clothing_adorablepetshark desc"
       },
       {
@@ -34043,7 +34063,7 @@
       },
       {
         "code": "clothing_beachvisor",
-        "name": "clothing_beachvisor name",
+        "name": "Visera de Playa",
         "description": "clothing_beachvisor desc"
       },
       {
@@ -35028,12 +35048,12 @@
       },
       {
         "code": "clothing_cozysailorhat",
-        "name": "clothing_cozysailorhat name",
+        "name": "Gorro Marinero Conjuntado",
         "description": "clothing_cozysailorhat desc"
       },
       {
         "code": "clothing_cozysailoruniform",
-        "name": "clothing_cozysailoruniform name",
+        "name": "Uniforme Marinero Conjuntado",
         "description": "clothing_cozysailoruniform desc"
       },
       {
@@ -35623,7 +35643,7 @@
       },
       {
         "code": "clothing_ducketcropshirt",
-        "name": "clothing_ducketcropshirt name",
+        "name": "Camiseta Corta Confortable",
         "description": "clothing_ducketcropshirt desc"
       },
       {
@@ -37083,7 +37103,7 @@
       },
       {
         "code": "clothing_letitgrow",
-        "name": "clothing_letitgrow name",
+        "name": "Melena Asilvestrada",
         "description": "clothing_letitgrow desc"
       },
       {
@@ -37913,7 +37933,7 @@
       },
       {
         "code": "clothing_nftbeachboy",
-        "name": "clothing_nftbeachboy name",
+        "name": "Peinado Playero",
         "description": "clothing_nftbeachboy desc"
       },
       {
@@ -39143,7 +39163,7 @@
       },
       {
         "code": "clothing_nftpalmbraid",
-        "name": "clothing_nftpalmbraid name",
+        "name": "Trenza Palmera",
         "description": "clothing_nftpalmbraid desc"
       },
       {
@@ -39183,7 +39203,7 @@
       },
       {
         "code": "clothing_nftpartyshades",
-        "name": "clothing_nftpartyshades name",
+        "name": "Gafas de Fiesta",
         "description": "clothing_nftpartyshades desc"
       },
       {
@@ -39253,7 +39273,7 @@
       },
       {
         "code": "clothing_nftpinwheel",
-        "name": "clothing_nftpinwheel name",
+        "name": "Molinete de Colores",
         "description": "clothing_nftpinwheel desc"
       },
       {
@@ -39333,17 +39353,17 @@
       },
       {
         "code": "clothing_nftrainbowbikini",
-        "name": "clothing_nftrainbowbikini name",
+        "name": "Bikini Arcoíris",
         "description": "clothing_nftrainbowbikini desc"
       },
       {
         "code": "clothing_nftrainbowpartyshades",
-        "name": "clothing_nftrainbowpartyshades name",
+        "name": "Gafas de Fiesta Arcoíris",
         "description": "clothing_nftrainbowpartyshades desc"
       },
       {
         "code": "clothing_nftrainbowswimshorts",
-        "name": "clothing_nftrainbowswimshorts name",
+        "name": "Bañador Arcoíris",
         "description": "clothing_nftrainbowswimshorts desc"
       },
       {
@@ -43648,7 +43668,7 @@
       },
       {
         "code": "clothing_r26_jellyfishcut",
-        "name": "clothing_r26_jellyfishcut name",
+        "name": "Peinado Medusa",
         "description": "clothing_r26_jellyfishcut desc"
       },
       {
@@ -43663,7 +43683,7 @@
       },
       {
         "code": "clothing_r26_mantabag",
-        "name": "clothing_r26_mantabag name",
+        "name": "Mochila Manta Raya",
         "description": "clothing_r26_mantabag desc"
       },
       {
@@ -43673,7 +43693,7 @@
       },
       {
         "code": "clothing_r26_moodoctopus",
-        "name": "clothing_r26_moodoctopus name",
+        "name": "Pulpo de los Estados de Ánimo",
         "description": "clothing_r26_moodoctopus desc"
       },
       {
@@ -43993,7 +44013,7 @@
       },
       {
         "code": "clothing_scallywagseagull",
-        "name": "clothing_scallywagseagull name",
+        "name": "Gaviota Pícara",
         "description": "clothing_scallywagseagull desc"
       },
       {
@@ -44458,7 +44478,7 @@
       },
       {
         "code": "clothing_sturdylifejacket",
-        "name": "clothing_sturdylifejacket name",
+        "name": "Chaleco Salvavidas Resistente",
         "description": "clothing_sturdylifejacket desc"
       },
       {
@@ -44468,12 +44488,12 @@
       },
       {
         "code": "clothing_summerbraid",
-        "name": "clothing_summerbraid name",
+        "name": "Trenza Veraniega",
         "description": "clothing_summerbraid desc"
       },
       {
         "code": "clothing_sunburntcheeks",
-        "name": "clothing_sunburntcheeks name",
+        "name": "Mejillas Bronceadas",
         "description": "clothing_sunburntcheeks desc"
       },
       {
@@ -44565,6 +44585,11 @@
         "code": "clothing_tenderheartoutfit",
         "name": "Traje Angeloso de Osos Amorosos",
         "description": "clothing_tenderheartoutfit desc"
+      },
+      {
+        "code": "clothing_tentacleddress",
+        "name": "Vestido con Tentáculos",
+        "description": ""
       },
       {
         "code": "clothing_tentacledress",
@@ -44953,7 +44978,7 @@
       },
       {
         "code": "clothing_vintageswimsuit",
-        "name": "clothing_vintageswimsuit name",
+        "name": "Traje de Baño Vintage",
         "description": "clothing_vintageswimsuit desc"
       },
       {
@@ -52753,7 +52778,7 @@
       },
       {
         "code": "ducket_c26_minilighthouse",
-        "name": "ducket_c26_minilighthouse name",
+        "name": "Faro en Miniatura",
         "description": "ducket_c26_minilighthouse desc"
       },
       {
@@ -52778,12 +52803,12 @@
       },
       {
         "code": "ducket_c26_seasidetable",
-        "name": "ducket_c26_seasidetable name",
+        "name": "Mesa Auxiliar de Playa",
         "description": "ducket_c26_seasidetable desc"
       },
       {
         "code": "ducket_c26_shipbed",
-        "name": "ducket_c26_shipbed name",
+        "name": "Cama con forma de Barco",
         "description": "ducket_c26_shipbed desc"
       },
       {
@@ -52857,6 +52882,11 @@
         "description": ""
       },
       {
+        "code": "ducket_dia_minilighthouse",
+        "name": "Faro en Miniatura",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_nauticalpillow",
         "name": "Cojín Náutico",
         "description": ""
@@ -52864,6 +52894,16 @@
       {
         "code": "ducket_dia_seachair",
         "name": "Silla de Playa",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_seasidetable",
+        "name": "Mesa Auxiliar de Playa",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_shipbed",
+        "name": "Cama con forma de Barco",
         "description": ""
       },
       {
@@ -73957,6 +73997,11 @@
         "description": ""
       },
       {
+        "code": "ltd26_sanddragon_bd",
+        "name": "Dragón Velo de Arena",
+        "description": ""
+      },
+      {
         "code": "ltd_habberge1",
         "name": "Huevo Lapis Lazuli",
         "description": "Fabricado en la Casa de Habberge"
@@ -77973,12 +78018,12 @@
       },
       {
         "code": "newbie_cat_package",
-        "name": "newbie_cat_package name",
+        "name": "Tu primer gato Habbo",
         "description": "newbie_cat_package desc"
       },
       {
         "code": "newbie_crocodile_package",
-        "name": "newbie_crocodile_package name",
+        "name": "Tu primer cocodrilo Habbo",
         "description": "newbie_crocodile_package desc"
       },
       {
@@ -83988,27 +84033,27 @@
       },
       {
         "code": "nft_h26_pineapple_bronze",
-        "name": "nft_h26_pineapple_bronze name",
+        "name": "Piña de Bronce",
         "description": "nft_h26_pineapple_bronze desc"
       },
       {
         "code": "nft_h26_pineapple_gold",
-        "name": "nft_h26_pineapple_gold name",
+        "name": "Piña de Oro",
         "description": "nft_h26_pineapple_gold desc"
       },
       {
         "code": "nft_h26_pineapple_silver",
-        "name": "nft_h26_pineapple_silver name",
+        "name": "Piña de Plata",
         "description": "nft_h26_pineapple_silver desc"
       },
       {
         "code": "nft_h26_pineapple_trippy",
-        "name": "nft_h26_pineapple_trippy name",
+        "name": "Piña Psicodélica",
         "description": "nft_h26_pineapple_trippy desc"
       },
       {
         "code": "nft_h26_pineapplefridge",
-        "name": "nft_h26_pineapplefridge name",
+        "name": "Nevera Piña",
         "description": "nft_h26_pineapplefridge desc"
       },
       {
@@ -96433,12 +96478,12 @@
       },
       {
         "code": "rewardtrack_duckformer",
-        "name": "rewardtrack_duckformer name",
+        "name": "Pato-Corazón Clásico",
         "description": "rewardtrack_duckformer desc"
       },
       {
         "code": "rewardtrack_lovelock",
-        "name": "rewardtrack_lovelock name",
+        "name": "Primer Candado de Amor",
         "description": "rewardtrack_lovelock desc"
       },
       {
@@ -108648,157 +108693,162 @@
       },
       {
         "code": "seaside_c26_beachbag",
-        "name": "seaside_c26_beachbag name",
+        "name": "Bolso de Playa Rebosante",
         "description": "seaside_c26_beachbag desc"
       },
       {
         "code": "seaside_c26_beachbagb",
-        "name": "seaside_c26_beachbagb name",
+        "name": "Bolso de Playa Rebosante",
         "description": "seaside_c26_beachbagb desc"
       },
       {
         "code": "seaside_c26_bubblepop",
-        "name": "seaside_c26_bubblepop name",
+        "name": "Burbuja Explotando",
         "description": "seaside_c26_bubblepop desc"
       },
       {
         "code": "seaside_c26_bubbles",
-        "name": "seaside_c26_bubbles name",
+        "name": "Burbujas Delicadas",
         "description": "seaside_c26_bubbles desc"
       },
       {
         "code": "seaside_c26_chest",
-        "name": "seaside_c26_chest name",
+        "name": "Cofre Marino Cerrado",
         "description": "seaside_c26_chest desc"
       },
       {
         "code": "seaside_c26_chestb",
-        "name": "seaside_c26_chestb name",
+        "name": "Cofre Marino Cerrado",
         "description": "seaside_c26_chestb desc"
       },
       {
         "code": "seaside_c26_conch",
-        "name": "seaside_c26_conch name",
+        "name": "Caracola del Océano",
         "description": "seaside_c26_conch desc"
       },
       {
         "code": "seaside_c26_conch_rainbow",
-        "name": "seaside_c26_conch_rainbow name",
+        "name": "Caracola Arcoíris",
         "description": "seaside_c26_conch_rainbow desc"
       },
       {
         "code": "seaside_c26_conchshell",
-        "name": "seaside_c26_conchshell name",
+        "name": "Caracola con Púas",
         "description": "seaside_c26_conchshell desc"
       },
       {
         "code": "seaside_c26_dock",
-        "name": "seaside_c26_dock name",
+        "name": "Muelle Decoración Arcoíris",
         "description": "seaside_c26_dock desc"
       },
       {
         "code": "seaside_c26_fishchair",
-        "name": "seaside_c26_fishchair name",
+        "name": "Silla de Playa Pececito",
         "description": "seaside_c26_fishchair desc"
       },
       {
         "code": "seaside_c26_fishchair_rainbow",
-        "name": "seaside_c26_fishchair_rainbow name",
+        "name": "Silla de Playa Arcoíris",
         "description": "seaside_c26_fishchair_rainbow desc"
       },
       {
         "code": "seaside_c26_flag",
-        "name": "seaside_c26_flag name",
+        "name": "Mini Bandera Arcoíris",
         "description": "seaside_c26_flag desc"
       },
       {
         "code": "seaside_c26_jellyfish",
-        "name": "seaside_c26_jellyfish name",
+        "name": "Medusa Solo Añade Agua",
         "description": "seaside_c26_jellyfish desc"
       },
       {
         "code": "seaside_c26_kite",
-        "name": "seaside_c26_kite name",
+        "name": "Cometa Alegre",
         "description": "seaside_c26_kite desc"
       },
       {
         "code": "seaside_c26_kite_rainbow",
-        "name": "seaside_c26_kite_rainbow name",
+        "name": "Cometa Arcoíris",
         "description": "seaside_c26_kite_rainbow desc"
       },
       {
         "code": "seaside_c26_lighthouse",
-        "name": "seaside_c26_lighthouse name",
+        "name": "Faro del Orgullo",
         "description": "seaside_c26_lighthouse desc"
       },
       {
         "code": "seaside_c26_octopus",
-        "name": "seaside_c26_octopus name",
+        "name": "Pulpo Solo Añade Agua",
         "description": "seaside_c26_octopus desc"
       },
       {
         "code": "seaside_c26_paintbucket",
-        "name": "seaside_c26_paintbucket name",
+        "name": "Cubo Pintura Arcoíris",
         "description": "seaside_c26_paintbucket desc"
       },
       {
         "code": "seaside_c26_paperplanes",
-        "name": "seaside_c26_paperplanes name",
+        "name": "Aviones de Papel Festivos",
         "description": "seaside_c26_paperplanes desc"
       },
       {
+        "code": "seaside_c26_pasteleasel_bd",
+        "name": "Caballete Arcoíris Pastel",
+        "description": ""
+      },
+      {
         "code": "seaside_c26_pasteleasel",
-        "name": "seaside_c26_pasteleasel name",
+        "name": "Caballete Arcoíris Pastel",
         "description": "seaside_c26_pasteleasel desc"
       },
       {
         "code": "seaside_c26_pearl",
-        "name": "seaside_c26_pearl name",
+        "name": "Perla Radiante",
         "description": "seaside_c26_pearl desc"
       },
       {
         "code": "seaside_c26_pufferfish",
-        "name": "seaside_c26_pufferfish name",
+        "name": "Pez Gobo Solo Añade Agua",
         "description": "seaside_c26_pufferfish desc"
       },
       {
         "code": "seaside_c26_rainbowwater",
-        "name": "seaside_c26_rainbowwater name",
+        "name": "Agua Arcoíris Pastel",
         "description": "seaside_c26_rainbowwater desc"
       },
       {
         "code": "seaside_c26_sand",
-        "name": "seaside_c26_sand name",
+        "name": "Playa de Arena",
         "description": "seaside_c26_sand desc"
       },
       {
         "code": "seaside_c26_sandcastle",
-        "name": "seaside_c26_sandcastle name",
+        "name": "Feliz Castillo de Arena",
         "description": "seaside_c26_sandcastle desc"
       },
       {
         "code": "seaside_c26_seashell",
-        "name": "seaside_c26_seashell name",
+        "name": "Caracola Delicada",
         "description": "seaside_c26_seashell desc"
       },
       {
         "code": "seaside_c26_starfish",
-        "name": "seaside_c26_starfish name",
+        "name": "Estrella de Mar Amigable",
         "description": "seaside_c26_starfish desc"
       },
       {
         "code": "seaside_c26_tentacles",
-        "name": "seaside_c26_tentacles name",
+        "name": "Tentáculos Coloridos",
         "description": "seaside_c26_tentacles desc"
       },
       {
         "code": "seaside_c26_trawler",
-        "name": "seaside_c26_trawler name",
+        "name": "Pequeño Pesquero Feliz",
         "description": "seaside_c26_trawler desc"
       },
       {
         "code": "seaside_ltd26_sanddragon",
-        "name": "seaside_ltd26_sanddragon name",
+        "name": "Dragón Velo de Arena",
         "description": "seaside_ltd26_sanddragon desc"
       },
       {
@@ -108842,8 +108892,13 @@
         "description": ""
       },
       {
+        "code": "seaside_r26_popsicle_bd",
+        "name": "Inflable Paleta Arcoíris",
+        "description": ""
+      },
+      {
         "code": "seaside_r26_popsiclefloat",
-        "name": "seaside_r26_popsiclefloat name",
+        "name": "Inflable Paleta Arcoíris",
         "description": "seaside_r26_popsiclefloat desc"
       },
       {

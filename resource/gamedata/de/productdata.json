@@ -32097,6 +32097,11 @@
         "description": ""
       },
       {
+        "code": "cl_dia_cropshirt",
+        "name": "Bequemes kurzes Hemd",
+        "description": ""
+      },
+      {
         "code": "cl_dia_duckethoneyshirt",
         "name": "Honigfleckenhemd",
         "description": ""
@@ -32287,6 +32292,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_jellyfishcut_bd",
+        "name": "Quallen-Haarschnitt",
+        "description": ""
+      },
+      {
         "code": "cl_r26_lasersword_bd",
         "name": "Laser-Schwert",
         "description": ""
@@ -32297,8 +32307,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_mantabag_bd",
+        "name": "Mantarochen-Rucksack",
+        "description": ""
+      },
+      {
         "code": "cl_r26_minielephant_bd",
         "name": "Grauer Mini-Elefant",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_moodoctopus_bd",
+        "name": "Stimmungs-Tintenfisch",
         "description": ""
       },
       {
@@ -33418,7 +33438,7 @@
       },
       {
         "code": "clothing_adorablepetshark",
-        "name": "clothing_adorablepetshark name",
+        "name": "Niedlicher Haustierhai",
         "description": "clothing_adorablepetshark desc"
       },
       {
@@ -33658,7 +33678,7 @@
       },
       {
         "code": "clothing_beachvisor",
-        "name": "clothing_beachvisor name",
+        "name": "Strandkäppi",
         "description": "clothing_beachvisor desc"
       },
       {
@@ -34633,12 +34653,12 @@
       },
       {
         "code": "clothing_cozysailorhat",
-        "name": "clothing_cozysailorhat name",
+        "name": "Bequeme Matrosenmütze",
         "description": "clothing_cozysailorhat desc"
       },
       {
         "code": "clothing_cozysailoruniform",
-        "name": "clothing_cozysailoruniform name",
+        "name": "Bequemer Matrosenanzug",
         "description": "clothing_cozysailoruniform desc"
       },
       {
@@ -35223,7 +35243,7 @@
       },
       {
         "code": "clothing_ducketcropshirt",
-        "name": "clothing_ducketcropshirt name",
+        "name": "Bequemes kurzes Hemd",
         "description": "clothing_ducketcropshirt desc"
       },
       {
@@ -36683,7 +36703,7 @@
       },
       {
         "code": "clothing_letitgrow",
-        "name": "clothing_letitgrow name",
+        "name": "Let It Grow",
         "description": "clothing_letitgrow desc"
       },
       {
@@ -37503,7 +37523,7 @@
       },
       {
         "code": "clothing_nftbeachboy",
-        "name": "clothing_nftbeachboy name",
+        "name": "Strandbereite Frisur",
         "description": "clothing_nftbeachboy desc"
       },
       {
@@ -38733,7 +38753,7 @@
       },
       {
         "code": "clothing_nftpalmbraid",
-        "name": "clothing_nftpalmbraid name",
+        "name": "Palmenzopf",
         "description": "clothing_nftpalmbraid desc"
       },
       {
@@ -38773,7 +38793,7 @@
       },
       {
         "code": "clothing_nftpartyshades",
-        "name": "clothing_nftpartyshades name",
+        "name": "Party-Sonnenbrille",
         "description": "clothing_nftpartyshades desc"
       },
       {
@@ -38843,7 +38863,7 @@
       },
       {
         "code": "clothing_nftpinwheel",
-        "name": "clothing_nftpinwheel name",
+        "name": "Buntes Windrädchen",
         "description": "clothing_nftpinwheel desc"
       },
       {
@@ -38923,17 +38943,17 @@
       },
       {
         "code": "clothing_nftrainbowbikini",
-        "name": "clothing_nftrainbowbikini name",
+        "name": "Regenbogen-Bikini",
         "description": "clothing_nftrainbowbikini desc"
       },
       {
         "code": "clothing_nftrainbowpartyshades",
-        "name": "clothing_nftrainbowpartyshades name",
+        "name": "Regenbogen-Party-Sonnenbrille",
         "description": "clothing_nftrainbowpartyshades desc"
       },
       {
         "code": "clothing_nftrainbowswimshorts",
-        "name": "clothing_nftrainbowswimshorts name",
+        "name": "Regenbogen-Badehose",
         "description": "clothing_nftrainbowswimshorts desc"
       },
       {
@@ -43238,7 +43258,7 @@
       },
       {
         "code": "clothing_r26_jellyfishcut",
-        "name": "clothing_r26_jellyfishcut name",
+        "name": "Quallen-Haarschnitt",
         "description": "clothing_r26_jellyfishcut desc"
       },
       {
@@ -43253,7 +43273,7 @@
       },
       {
         "code": "clothing_r26_mantabag",
-        "name": "clothing_r26_mantabag name",
+        "name": "Mantarochen-Rucksack",
         "description": "clothing_r26_mantabag desc"
       },
       {
@@ -43263,7 +43283,7 @@
       },
       {
         "code": "clothing_r26_moodoctopus",
-        "name": "clothing_r26_moodoctopus name",
+        "name": "Stimmungs-Tintenfisch",
         "description": "clothing_r26_moodoctopus desc"
       },
       {
@@ -43583,7 +43603,7 @@
       },
       {
         "code": "clothing_scallywagseagull",
-        "name": "clothing_scallywagseagull name",
+        "name": "Schlingel-Möwe",
         "description": "clothing_scallywagseagull desc"
       },
       {
@@ -44048,7 +44068,7 @@
       },
       {
         "code": "clothing_sturdylifejacket",
-        "name": "clothing_sturdylifejacket name",
+        "name": "Stabile Rettungsweste",
         "description": "clothing_sturdylifejacket desc"
       },
       {
@@ -44058,12 +44078,12 @@
       },
       {
         "code": "clothing_summerbraid",
-        "name": "clothing_summerbraid name",
+        "name": "Sommerzopf",
         "description": "clothing_summerbraid desc"
       },
       {
         "code": "clothing_sunburntcheeks",
-        "name": "clothing_sunburntcheeks name",
+        "name": "Sonnengerötete Wangen",
         "description": "clothing_sunburntcheeks desc"
       },
       {
@@ -44155,6 +44175,11 @@
         "code": "clothing_tenderheartoutfit",
         "name": "Schmusebärchi-Outfit",
         "description": "clothing_tenderheartoutfit desc"
+      },
+      {
+        "code": "clothing_tentacleddress",
+        "name": "Tentakelkleid",
+        "description": ""
       },
       {
         "code": "clothing_tentacledress",
@@ -44543,7 +44568,7 @@
       },
       {
         "code": "clothing_vintageswimsuit",
-        "name": "clothing_vintageswimsuit name",
+        "name": "Vintage Badeanzug",
         "description": "clothing_vintageswimsuit desc"
       },
       {
@@ -52423,7 +52448,7 @@
       },
       {
         "code": "ducket_c26_minilighthouse",
-        "name": "ducket_c26_minilighthouse name",
+        "name": "Mini-Leuchtturm",
         "description": "ducket_c26_minilighthouse desc"
       },
       {
@@ -52448,12 +52473,12 @@
       },
       {
         "code": "ducket_c26_seasidetable",
-        "name": "ducket_c26_seasidetable name",
+        "name": "Meeres-Beistelltisch",
         "description": "ducket_c26_seasidetable desc"
       },
       {
         "code": "ducket_c26_shipbed",
-        "name": "ducket_c26_shipbed name",
+        "name": "Schiffbett",
         "description": "ducket_c26_shipbed desc"
       },
       {
@@ -52527,6 +52552,11 @@
         "description": ""
       },
       {
+        "code": "ducket_dia_minilighthouse",
+        "name": "Mini-Leuchtturm",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_nauticalpillow",
         "name": "Zierkissen mit Steuerrad",
         "description": ""
@@ -52534,6 +52564,16 @@
       {
         "code": "ducket_dia_seachair",
         "name": "Strand-Sessel",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_seasidetable",
+        "name": "Meeres-Beistelltisch",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_shipbed",
+        "name": "Schiffbett",
         "description": ""
       },
       {
@@ -73527,6 +73567,11 @@
         "description": ""
       },
       {
+        "code": "ltd26_sanddragon_bd",
+        "name": "Sandschleierdrachen",
+        "description": ""
+      },
+      {
         "code": "ltd_habberge1",
         "name": "Lapislazuli Ei",
         "description": "Im Hause Habberge hergestellt"
@@ -77543,12 +77588,12 @@
       },
       {
         "code": "newbie_cat_package",
-        "name": "newbie_cat_package name",
+        "name": "Deine erste Habbo-Katze",
         "description": "newbie_cat_package desc"
       },
       {
         "code": "newbie_crocodile_package",
-        "name": "newbie_crocodile_package name",
+        "name": "Dein erstes Habbo-Krokodil",
         "description": "newbie_crocodile_package desc"
       },
       {
@@ -83568,27 +83613,27 @@
       },
       {
         "code": "nft_h26_pineapple_bronze",
-        "name": "nft_h26_pineapple_bronze name",
+        "name": "Bronze-Ananas",
         "description": "nft_h26_pineapple_bronze desc"
       },
       {
         "code": "nft_h26_pineapple_gold",
-        "name": "nft_h26_pineapple_gold name",
+        "name": "Gold-Ananas",
         "description": "nft_h26_pineapple_gold desc"
       },
       {
         "code": "nft_h26_pineapple_silver",
-        "name": "nft_h26_pineapple_silver name",
+        "name": "Silber-Ananas",
         "description": "nft_h26_pineapple_silver desc"
       },
       {
         "code": "nft_h26_pineapple_trippy",
-        "name": "nft_h26_pineapple_trippy name",
+        "name": "Trippy Ananas",
         "description": "nft_h26_pineapple_trippy desc"
       },
       {
         "code": "nft_h26_pineapplefridge",
-        "name": "nft_h26_pineapplefridge name",
+        "name": "Ananas-Kühlschrank",
         "description": "nft_h26_pineapplefridge desc"
       },
       {
@@ -95913,12 +95958,12 @@
       },
       {
         "code": "rewardtrack_duckformer",
-        "name": "rewardtrack_duckformer name",
+        "name": "Klassischer Duckformer",
         "description": "rewardtrack_duckformer desc"
       },
       {
         "code": "rewardtrack_lovelock",
-        "name": "rewardtrack_lovelock name",
+        "name": "Erstes Liebesschloss",
         "description": "rewardtrack_lovelock desc"
       },
       {
@@ -108073,157 +108118,162 @@
       },
       {
         "code": "seaside_c26_beachbag",
-        "name": "seaside_c26_beachbag name",
+        "name": "Randvolle Strandtasche",
         "description": "seaside_c26_beachbag desc"
       },
       {
         "code": "seaside_c26_beachbagb",
-        "name": "seaside_c26_beachbagb name",
+        "name": "Randvolle Strandtasche",
         "description": "seaside_c26_beachbagb desc"
       },
       {
         "code": "seaside_c26_bubblepop",
-        "name": "seaside_c26_bubblepop name",
+        "name": "Platzende Blase",
         "description": "seaside_c26_bubblepop desc"
       },
       {
         "code": "seaside_c26_bubbles",
-        "name": "seaside_c26_bubbles name",
+        "name": "Weiche Blasen",
         "description": "seaside_c26_bubbles desc"
       },
       {
         "code": "seaside_c26_chest",
-        "name": "seaside_c26_chest name",
+        "name": "Versperrte Meerestruhe",
         "description": "seaside_c26_chest desc"
       },
       {
         "code": "seaside_c26_chestb",
-        "name": "seaside_c26_chestb name",
+        "name": "Versperrte Meerestruhe",
         "description": "seaside_c26_chestb desc"
       },
       {
         "code": "seaside_c26_conch",
-        "name": "seaside_c26_conch name",
+        "name": "Meeresschneckenmuschel",
         "description": "seaside_c26_conch desc"
       },
       {
         "code": "seaside_c26_conch_rainbow",
-        "name": "seaside_c26_conch_rainbow name",
+        "name": "Regenbogen-Schneckenmuschel",
         "description": "seaside_c26_conch_rainbow desc"
       },
       {
         "code": "seaside_c26_conchshell",
-        "name": "seaside_c26_conchshell name",
+        "name": "Stachelige Muschelschale",
         "description": "seaside_c26_conchshell desc"
       },
       {
         "code": "seaside_c26_dock",
-        "name": "seaside_c26_dock name",
+        "name": "Regenbogenbootssteg",
         "description": "seaside_c26_dock desc"
       },
       {
         "code": "seaside_c26_fishchair",
-        "name": "seaside_c26_fishchair name",
+        "name": "Fischiger Strandstuhl",
         "description": "seaside_c26_fishchair desc"
       },
       {
         "code": "seaside_c26_fishchair_rainbow",
-        "name": "seaside_c26_fishchair_rainbow name",
+        "name": "Regenbogen-Strandstuhl",
         "description": "seaside_c26_fishchair_rainbow desc"
       },
       {
         "code": "seaside_c26_flag",
-        "name": "seaside_c26_flag name",
+        "name": "Winzige Regenbogenflagge",
         "description": "seaside_c26_flag desc"
       },
       {
         "code": "seaside_c26_jellyfish",
-        "name": "seaside_c26_jellyfish name",
+        "name": "Qualle zum Aufgiessen",
         "description": "seaside_c26_jellyfish desc"
       },
       {
         "code": "seaside_c26_kite",
-        "name": "seaside_c26_kite name",
+        "name": "Fröhlicher Drachen",
         "description": "seaside_c26_kite desc"
       },
       {
         "code": "seaside_c26_kite_rainbow",
-        "name": "seaside_c26_kite_rainbow name",
+        "name": "Regenbogendrachen",
         "description": "seaside_c26_kite_rainbow desc"
       },
       {
         "code": "seaside_c26_lighthouse",
-        "name": "seaside_c26_lighthouse name",
+        "name": "Proud-Leuchtturm",
         "description": "seaside_c26_lighthouse desc"
       },
       {
         "code": "seaside_c26_octopus",
-        "name": "seaside_c26_octopus name",
+        "name": "Tintenfisch zum Aufgiessen",
         "description": "seaside_c26_octopus desc"
       },
       {
         "code": "seaside_c26_paintbucket",
-        "name": "seaside_c26_paintbucket name",
+        "name": "Regenbogen-Farbeimer",
         "description": "seaside_c26_paintbucket desc"
       },
       {
         "code": "seaside_c26_paperplanes",
-        "name": "seaside_c26_paperplanes name",
+        "name": "Fröhliche Papierflugzeuge",
         "description": "seaside_c26_paperplanes desc"
       },
       {
+        "code": "seaside_c26_pasteleasel_bd",
+        "name": "Pastellfarbene Regenbogenstaffelei",
+        "description": ""
+      },
+      {
         "code": "seaside_c26_pasteleasel",
-        "name": "seaside_c26_pasteleasel name",
+        "name": "Pastellfarbene Regenbogenstaffelei",
         "description": "seaside_c26_pasteleasel desc"
       },
       {
         "code": "seaside_c26_pearl",
-        "name": "seaside_c26_pearl name",
+        "name": "Strahlende Perle",
         "description": "seaside_c26_pearl desc"
       },
       {
         "code": "seaside_c26_pufferfish",
-        "name": "seaside_c26_pufferfish name",
+        "name": "Kugelfisch zum Aufgiessen",
         "description": "seaside_c26_pufferfish desc"
       },
       {
         "code": "seaside_c26_rainbowwater",
-        "name": "seaside_c26_rainbowwater name",
+        "name": "Pastellfarben-Regenbogenwasser",
         "description": "seaside_c26_rainbowwater desc"
       },
       {
         "code": "seaside_c26_sand",
-        "name": "seaside_c26_sand name",
+        "name": "Sandstrand",
         "description": "seaside_c26_sand desc"
       },
       {
         "code": "seaside_c26_sandcastle",
-        "name": "seaside_c26_sandcastle name",
+        "name": "Glückliches Sandschloss",
         "description": "seaside_c26_sandcastle desc"
       },
       {
         "code": "seaside_c26_seashell",
-        "name": "seaside_c26_seashell name",
+        "name": "Delikate Meeresmuschel",
         "description": "seaside_c26_seashell desc"
       },
       {
         "code": "seaside_c26_starfish",
-        "name": "seaside_c26_starfish name",
+        "name": "Freundförmiger Seestern",
         "description": "seaside_c26_starfish desc"
       },
       {
         "code": "seaside_c26_tentacles",
-        "name": "seaside_c26_tentacles name",
+        "name": "Bunte Tentakel",
         "description": "seaside_c26_tentacles desc"
       },
       {
         "code": "seaside_c26_trawler",
-        "name": "seaside_c26_trawler name",
+        "name": "Kleiner glücklicher Kutter",
         "description": "seaside_c26_trawler desc"
       },
       {
         "code": "seaside_ltd26_sanddragon",
-        "name": "seaside_ltd26_sanddragon name",
+        "name": "Sandschleierdrachen",
         "description": "seaside_ltd26_sanddragon desc"
       },
       {
@@ -108267,8 +108317,13 @@
         "description": ""
       },
       {
+        "code": "seaside_r26_popsicle_bd",
+        "name": "Eis-am-Stiel-Luftmatratze in Regenbogenfarben",
+        "description": ""
+      },
+      {
         "code": "seaside_r26_popsiclefloat",
-        "name": "seaside_r26_popsiclefloat name",
+        "name": "Eis-am-Stiel-Luftmatratze in Regenbogenfarben",
         "description": "seaside_r26_popsiclefloat desc"
       },
       {

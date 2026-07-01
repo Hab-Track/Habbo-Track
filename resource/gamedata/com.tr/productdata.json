@@ -33697,6 +33697,11 @@
         "description": ""
       },
       {
+        "code": "cl_dia_cropshirt",
+        "name": "Rahat Kısa Tişört",
+        "description": ""
+      },
+      {
         "code": "cl_dia_duckethoneyshirt",
         "name": "Bal Lekeli Tişört",
         "description": ""
@@ -33887,6 +33892,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_jellyfishcut_bd",
+        "name": "Denizanası Saç Kesimi",
+        "description": ""
+      },
+      {
         "code": "cl_r26_lasersword_bd",
         "name": "Lazer Kılıç",
         "description": ""
@@ -33897,8 +33907,18 @@
         "description": ""
       },
       {
+        "code": "cl_r26_mantabag_bd",
+        "name": "Manta Vatoz Sırt Çantası",
+        "description": ""
+      },
+      {
         "code": "cl_r26_minielephant_bd",
         "name": "Mini Gri Fil",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_moodoctopus_bd",
+        "name": "Mood Ahtapotu",
         "description": ""
       },
       {
@@ -35023,7 +35043,7 @@
       },
       {
         "code": "clothing_adorablepetshark",
-        "name": "clothing_adorablepetshark name",
+        "name": "Sevimli Evcil Köpekbalığı",
         "description": "clothing_adorablepetshark desc"
       },
       {
@@ -35263,7 +35283,7 @@
       },
       {
         "code": "clothing_beachvisor",
-        "name": "clothing_beachvisor name",
+        "name": "Plaj Siperliği",
         "description": "clothing_beachvisor desc"
       },
       {
@@ -36238,12 +36258,12 @@
       },
       {
         "code": "clothing_cozysailorhat",
-        "name": "clothing_cozysailorhat name",
+        "name": "Rahat Denizci Şapkası",
         "description": "clothing_cozysailorhat desc"
       },
       {
         "code": "clothing_cozysailoruniform",
-        "name": "clothing_cozysailoruniform name",
+        "name": "Rahat Denizci Üniforması",
         "description": "clothing_cozysailoruniform desc"
       },
       {
@@ -36828,7 +36848,7 @@
       },
       {
         "code": "clothing_ducketcropshirt",
-        "name": "clothing_ducketcropshirt name",
+        "name": "Rahat Kısa Tişört",
         "description": "clothing_ducketcropshirt desc"
       },
       {
@@ -38288,7 +38308,7 @@
       },
       {
         "code": "clothing_letitgrow",
-        "name": "clothing_letitgrow name",
+        "name": "Uzamasına İzin ver",
         "description": "clothing_letitgrow desc"
       },
       {
@@ -39108,7 +39128,7 @@
       },
       {
         "code": "clothing_nftbeachboy",
-        "name": "clothing_nftbeachboy name",
+        "name": "Plaja Hazır Saçlar",
         "description": "clothing_nftbeachboy desc"
       },
       {
@@ -40338,7 +40358,7 @@
       },
       {
         "code": "clothing_nftpalmbraid",
-        "name": "clothing_nftpalmbraid name",
+        "name": "Palmiye Örgü",
         "description": "clothing_nftpalmbraid desc"
       },
       {
@@ -40378,7 +40398,7 @@
       },
       {
         "code": "clothing_nftpartyshades",
-        "name": "clothing_nftpartyshades name",
+        "name": "Parti Gözlüğü",
         "description": "clothing_nftpartyshades desc"
       },
       {
@@ -40448,7 +40468,7 @@
       },
       {
         "code": "clothing_nftpinwheel",
-        "name": "clothing_nftpinwheel name",
+        "name": "Renkli Değirmen",
         "description": "clothing_nftpinwheel desc"
       },
       {
@@ -40528,17 +40548,17 @@
       },
       {
         "code": "clothing_nftrainbowbikini",
-        "name": "clothing_nftrainbowbikini name",
+        "name": "Gökkuşağı Bikini",
         "description": "clothing_nftrainbowbikini desc"
       },
       {
         "code": "clothing_nftrainbowpartyshades",
-        "name": "clothing_nftrainbowpartyshades name",
+        "name": "Gökkuşağı Parti Gözlüğü",
         "description": "clothing_nftrainbowpartyshades desc"
       },
       {
         "code": "clothing_nftrainbowswimshorts",
-        "name": "clothing_nftrainbowswimshorts name",
+        "name": "Gökkuşağı Yüzme Şortu",
         "description": "clothing_nftrainbowswimshorts desc"
       },
       {
@@ -44843,7 +44863,7 @@
       },
       {
         "code": "clothing_r26_jellyfishcut",
-        "name": "clothing_r26_jellyfishcut name",
+        "name": "Denizanası Saç Kesimi",
         "description": "clothing_r26_jellyfishcut desc"
       },
       {
@@ -44858,7 +44878,7 @@
       },
       {
         "code": "clothing_r26_mantabag",
-        "name": "clothing_r26_mantabag name",
+        "name": "Manta Vatoz Sırt Çantası",
         "description": "clothing_r26_mantabag desc"
       },
       {
@@ -44868,7 +44888,7 @@
       },
       {
         "code": "clothing_r26_moodoctopus",
-        "name": "clothing_r26_moodoctopus name",
+        "name": "Mood Ahtapotu",
         "description": "clothing_r26_moodoctopus desc"
       },
       {
@@ -45188,7 +45208,7 @@
       },
       {
         "code": "clothing_scallywagseagull",
-        "name": "clothing_scallywagseagull name",
+        "name": "Serseri Martı",
         "description": "clothing_scallywagseagull desc"
       },
       {
@@ -45653,7 +45673,7 @@
       },
       {
         "code": "clothing_sturdylifejacket",
-        "name": "clothing_sturdylifejacket name",
+        "name": "Sağlam Can Yeleği",
         "description": "clothing_sturdylifejacket desc"
       },
       {
@@ -45663,12 +45683,12 @@
       },
       {
         "code": "clothing_summerbraid",
-        "name": "clothing_summerbraid name",
+        "name": "Yaz Örgüsü",
         "description": "clothing_summerbraid desc"
       },
       {
         "code": "clothing_sunburntcheeks",
-        "name": "clothing_sunburntcheeks name",
+        "name": "Güneş Yanığı Yanaklar",
         "description": "clothing_sunburntcheeks desc"
       },
       {
@@ -45760,6 +45780,11 @@
         "code": "clothing_tenderheartoutfit",
         "name": "Tenderheart Bear Kıyafeti",
         "description": "clothing_tenderheartoutfit desc"
+      },
+      {
+        "code": "clothing_tentacleddress",
+        "name": "Ahtapot Kollu Elbise",
+        "description": ""
       },
       {
         "code": "clothing_tentacledress",
@@ -46148,7 +46173,7 @@
       },
       {
         "code": "clothing_vintageswimsuit",
-        "name": "clothing_vintageswimsuit name",
+        "name": "Vintage Mayo",
         "description": "clothing_vintageswimsuit desc"
       },
       {
@@ -62123,7 +62148,7 @@
       },
       {
         "code": "ducket_c26_minilighthouse",
-        "name": "ducket_c26_minilighthouse name",
+        "name": "Minyatür Deniz Feneri",
         "description": "ducket_c26_minilighthouse desc"
       },
       {
@@ -62148,12 +62173,12 @@
       },
       {
         "code": "ducket_c26_seasidetable",
-        "name": "ducket_c26_seasidetable name",
+        "name": "Deniz Kenarı Yan Sehpası",
         "description": "ducket_c26_seasidetable desc"
       },
       {
         "code": "ducket_c26_shipbed",
-        "name": "ducket_c26_shipbed name",
+        "name": "Gemi Şeklinde Yatak",
         "description": "ducket_c26_shipbed desc"
       },
       {
@@ -62227,6 +62252,11 @@
         "description": ""
       },
       {
+        "code": "ducket_dia_minilighthouse",
+        "name": "Minyatür Deniz Feneri",
+        "description": ""
+      },
+      {
         "code": "ducket_dia_nauticalpillow",
         "name": "Yastık",
         "description": ""
@@ -62234,6 +62264,16 @@
       {
         "code": "ducket_dia_seachair",
         "name": "Sahil Sandalyesi",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_seasidetable",
+        "name": "Deniz Kenarı Yan Sehpası",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_shipbed",
+        "name": "Gemi Şeklinde Yatak",
         "description": ""
       },
       {
@@ -83627,6 +83667,11 @@
         "description": ""
       },
       {
+        "code": "ltd26_sanddragon_bd",
+        "name": "Kum Ejderhası",
+        "description": ""
+      },
+      {
         "code": "ltd_habberge2",
         "name": "Maw-Sit-Sit Yumurtası",
         "description": "Habberge evi tarafından tasarlanmıştır"
@@ -87888,12 +87933,12 @@
       },
       {
         "code": "newbie_cat_package",
-        "name": "newbie_cat_package name",
+        "name": "İlk Habbo Kedin",
         "description": "newbie_cat_package desc"
       },
       {
         "code": "newbie_crocodile_package",
-        "name": "newbie_crocodile_package name",
+        "name": "İlk Habbo Timsahın",
         "description": "newbie_crocodile_package desc"
       },
       {
@@ -93928,27 +93973,27 @@
       },
       {
         "code": "nft_h26_pineapple_bronze",
-        "name": "nft_h26_pineapple_bronze name",
+        "name": "Bronz Ananas",
         "description": "nft_h26_pineapple_bronze desc"
       },
       {
         "code": "nft_h26_pineapple_gold",
-        "name": "nft_h26_pineapple_gold name",
+        "name": "Altın Ananas",
         "description": "nft_h26_pineapple_gold desc"
       },
       {
         "code": "nft_h26_pineapple_silver",
-        "name": "nft_h26_pineapple_silver name",
+        "name": "Gümüş Ananas",
         "description": "nft_h26_pineapple_silver desc"
       },
       {
         "code": "nft_h26_pineapple_trippy",
-        "name": "nft_h26_pineapple_trippy name",
+        "name": "Trippy Ananas",
         "description": "nft_h26_pineapple_trippy desc"
       },
       {
         "code": "nft_h26_pineapplefridge",
-        "name": "nft_h26_pineapplefridge name",
+        "name": "Ananas Buzdolabı",
         "description": "nft_h26_pineapplefridge desc"
       },
       {
@@ -106408,12 +106453,12 @@
       },
       {
         "code": "rewardtrack_duckformer",
-        "name": "rewardtrack_duckformer name",
+        "name": "Klasik Kalp Ördeği",
         "description": "rewardtrack_duckformer desc"
       },
       {
         "code": "rewardtrack_lovelock",
-        "name": "rewardtrack_lovelock name",
+        "name": "İlk Aşk Kilidi",
         "description": "rewardtrack_lovelock desc"
       },
       {
@@ -118598,157 +118643,162 @@
       },
       {
         "code": "seaside_c26_beachbag",
-        "name": "seaside_c26_beachbag name",
+        "name": "Taşmış Plaj Çantası",
         "description": "seaside_c26_beachbag desc"
       },
       {
         "code": "seaside_c26_beachbagb",
-        "name": "seaside_c26_beachbagb name",
+        "name": "Taşmış Plaj Çantası",
         "description": "seaside_c26_beachbagb desc"
       },
       {
         "code": "seaside_c26_bubblepop",
-        "name": "seaside_c26_bubblepop name",
+        "name": "Patlayan Baloncuk",
         "description": "seaside_c26_bubblepop desc"
       },
       {
         "code": "seaside_c26_bubbles",
-        "name": "seaside_c26_bubbles name",
+        "name": "Nazik Kabarcıklar",
         "description": "seaside_c26_bubbles desc"
       },
       {
         "code": "seaside_c26_chest",
-        "name": "seaside_c26_chest name",
+        "name": "Kilitli Deniz Sandığı",
         "description": "seaside_c26_chest desc"
       },
       {
         "code": "seaside_c26_chestb",
-        "name": "seaside_c26_chestb name",
+        "name": "Kilitli Deniz Sandığı",
         "description": "seaside_c26_chestb desc"
       },
       {
         "code": "seaside_c26_conch",
-        "name": "seaside_c26_conch name",
+        "name": "Okyanus Salyangozu",
         "description": "seaside_c26_conch desc"
       },
       {
         "code": "seaside_c26_conch_rainbow",
-        "name": "seaside_c26_conch_rainbow name",
+        "name": "Gökkuşağı Kabuğu",
         "description": "seaside_c26_conch_rainbow desc"
       },
       {
         "code": "seaside_c26_conchshell",
-        "name": "seaside_c26_conchshell name",
+        "name": "Dikenli Deniz Kabuğu",
         "description": "seaside_c26_conchshell desc"
       },
       {
         "code": "seaside_c26_dock",
-        "name": "seaside_c26_dock name",
+        "name": "Gökkuşağı Süslemeli İskele",
         "description": "seaside_c26_dock desc"
       },
       {
         "code": "seaside_c26_fishchair",
-        "name": "seaside_c26_fishchair name",
+        "name": "Balıklı Plaj Sandalyesi",
         "description": "seaside_c26_fishchair desc"
       },
       {
         "code": "seaside_c26_fishchair_rainbow",
-        "name": "seaside_c26_fishchair_rainbow name",
+        "name": "Gökkuşağı Plaj Sandalyesi",
         "description": "seaside_c26_fishchair_rainbow desc"
       },
       {
         "code": "seaside_c26_flag",
-        "name": "seaside_c26_flag name",
+        "name": "Minik Gökkuşağı Bayrağı",
         "description": "seaside_c26_flag desc"
       },
       {
         "code": "seaside_c26_jellyfish",
-        "name": "seaside_c26_jellyfish name",
+        "name": "Sadece Su Ekle Denizanası",
         "description": "seaside_c26_jellyfish desc"
       },
       {
         "code": "seaside_c26_kite",
-        "name": "seaside_c26_kite name",
+        "name": "Neşeli Uçurtma",
         "description": "seaside_c26_kite desc"
       },
       {
         "code": "seaside_c26_kite_rainbow",
-        "name": "seaside_c26_kite_rainbow name",
+        "name": "Gökkuşağı Uçurtması",
         "description": "seaside_c26_kite_rainbow desc"
       },
       {
         "code": "seaside_c26_lighthouse",
-        "name": "seaside_c26_lighthouse name",
+        "name": "Gururlu Deniz Feneri",
         "description": "seaside_c26_lighthouse desc"
       },
       {
         "code": "seaside_c26_octopus",
-        "name": "seaside_c26_octopus name",
+        "name": "Sadece Su Ekle Ahtapotu",
         "description": "seaside_c26_octopus desc"
       },
       {
         "code": "seaside_c26_paintbucket",
-        "name": "seaside_c26_paintbucket name",
+        "name": "Gökkuşağı Boya Kovası",
         "description": "seaside_c26_paintbucket desc"
       },
       {
         "code": "seaside_c26_paperplanes",
-        "name": "seaside_c26_paperplanes name",
+        "name": "Neşeli Kağıt Uçaklar",
         "description": "seaside_c26_paperplanes desc"
       },
       {
+        "code": "seaside_c26_pasteleasel_bd",
+        "name": "Pastel Gökkuşağı Şövalesi",
+        "description": ""
+      },
+      {
         "code": "seaside_c26_pasteleasel",
-        "name": "seaside_c26_pasteleasel name",
+        "name": "Pastel Gökkuşağı Şövalesi",
         "description": "seaside_c26_pasteleasel desc"
       },
       {
         "code": "seaside_c26_pearl",
-        "name": "seaside_c26_pearl name",
+        "name": "Parlak İnci",
         "description": "seaside_c26_pearl desc"
       },
       {
         "code": "seaside_c26_pufferfish",
-        "name": "seaside_c26_pufferfish name",
+        "name": "Sadece Su Ekle Balon Balığı",
         "description": "seaside_c26_pufferfish desc"
       },
       {
         "code": "seaside_c26_rainbowwater",
-        "name": "seaside_c26_rainbowwater name",
+        "name": "Pastel Gökkuşağı Su",
         "description": "seaside_c26_rainbowwater desc"
       },
       {
         "code": "seaside_c26_sand",
-        "name": "seaside_c26_sand name",
+        "name": "Kumlu Plaj",
         "description": "seaside_c26_sand desc"
       },
       {
         "code": "seaside_c26_sandcastle",
-        "name": "seaside_c26_sandcastle name",
+        "name": "Mutlu Kumdan Kale",
         "description": "seaside_c26_sandcastle desc"
       },
       {
         "code": "seaside_c26_seashell",
-        "name": "seaside_c26_seashell name",
+        "name": "Narin Deniz Kabuğu",
         "description": "seaside_c26_seashell desc"
       },
       {
         "code": "seaside_c26_starfish",
-        "name": "seaside_c26_starfish name",
+        "name": "Dost Şeklinde Deniz Yıldızı",
         "description": "seaside_c26_starfish desc"
       },
       {
         "code": "seaside_c26_tentacles",
-        "name": "seaside_c26_tentacles name",
+        "name": "Renkli Ahtapot Kolları",
         "description": "seaside_c26_tentacles desc"
       },
       {
         "code": "seaside_c26_trawler",
-        "name": "seaside_c26_trawler name",
+        "name": "Mutlu Küçük Balıkçı",
         "description": "seaside_c26_trawler desc"
       },
       {
         "code": "seaside_ltd26_sanddragon",
-        "name": "seaside_ltd26_sanddragon name",
+        "name": "Kum Ejderhası",
         "description": "seaside_ltd26_sanddragon desc"
       },
       {
@@ -118792,8 +118842,13 @@
         "description": ""
       },
       {
+        "code": "seaside_r26_popsicle_bd",
+        "name": "Gökkuşağı Dondurma Şamandırası",
+        "description": ""
+      },
+      {
         "code": "seaside_r26_popsiclefloat",
-        "name": "seaside_r26_popsiclefloat name",
+        "name": "Gökkuşağı Dondurma Şamandırası",
         "description": "seaside_r26_popsiclefloat desc"
       },
       {
