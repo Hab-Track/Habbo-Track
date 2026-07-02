@@ -71662,6 +71662,11 @@
         "description": ""
       },
       {
+        "code": "july26_crafting",
+        "name": "Crafting Prize",
+        "description": ""
+      },
+      {
         "code": "jun14_hipad_internal",
         "name": "",
         "description": ""
@@ -108833,7 +108838,7 @@
       },
       {
         "code": "seaside_c26_beachbagb",
-        "name": "Overvolle Strandtas",
+        "name": "Overvolle Strandtas (Niet ruilbaar)",
         "description": "seaside_c26_beachbagb desc"
       },
       {
@@ -108853,7 +108858,7 @@
       },
       {
         "code": "seaside_c26_chestb",
-        "name": "Gesloten Schatkist",
+        "name": "Gesloten Schatkist (Niet ruilbaar)",
         "description": "seaside_c26_chestb desc"
       },
       {
