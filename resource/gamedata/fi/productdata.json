@@ -80037,6 +80037,16 @@
         "description": "nft_birds_r18_spoonbill desc"
       },
       {
+        "code": "nft_bonusrare16_1_1",
+        "name": "Minttu maljakko",
+        "description": "Kurpitsaa, kurpitsaa"
+      },
+      {
+        "code": "nft_bonusrare16_2_2",
+        "name": "Kvartsinen vesililjaruukku",
+        "description": "Kvartsi on niin huolella kiillotettu, että se jättää vesililjat kauneutensa varjoon."
+      },
+      {
         "code": "nft_book_rare_0",
         "name": "Tietokirja (punainen)",
         "description": "Kaikki muodista, muotihirmuille."
@@ -80717,6 +80727,11 @@
         "description": "nft_diamond_painting38 desc"
       },
       {
+        "code": "nft_diamond_painting39",
+        "name": "Facepalm",
+        "description": "diamond_painting39 desc"
+      },
+      {
         "code": "nft_diamond_painting40",
         "name": "Bonnie",
         "description": "Bonnie"
@@ -80725,6 +80740,11 @@
         "code": "nft_diamond_painting41",
         "name": "Ankkajainen",
         "description": "Ankkajainen"
+      },
+      {
+        "code": "nft_diamond_painting42",
+        "name": "Habbo Matisse",
+        "description": "diamond_painting42 desc"
       },
       {
         "code": "nft_diamond_painting43",
@@ -80737,6 +80757,16 @@
         "description": "diamond_painting44 desc"
       },
       {
+        "code": "nft_diamond_painting45",
+        "name": "Tanssivat Habbot",
+        "description": "diamond_painting45 desc"
+      },
+      {
+        "code": "nft_diamond_painting47",
+        "name": "Ankka Koons",
+        "description": "diamond_painting47 desc"
+      },
+      {
         "code": "nft_diamond_painting48",
         "name": "Formaldehydiin säilötty sukeltaja",
         "description": "diamond_painting48 desc"
@@ -80745,6 +80775,11 @@
         "code": "nft_diamond_painting49",
         "name": "Makaava Habbo",
         "description": "diamond_painting49 desc"
+      },
+      {
+        "code": "nft_diamond_painting50",
+        "name": "Laskeva Habbo",
+        "description": "diamond_painting50 desc"
       },
       {
         "code": "nft_diamond_painting53",
@@ -81112,6 +81147,16 @@
         "description": "$product_eco_lamp3_name$"
       },
       {
+        "code": "nft_eco_light1",
+        "name": "$product_eco_light1_name$",
+        "description": "$product_eco_light1_desc$"
+      },
+      {
+        "code": "nft_eco_light2",
+        "name": "$product_eco_light2_name$",
+        "description": "$product_eco_light2_desc$"
+      },
+      {
         "code": "nft_eco_mush1",
         "name": "Valkokärpässieni",
         "description": "Valkokärpässieni"
@@ -81140,6 +81185,16 @@
         "code": "nft_eco_table1",
         "name": "$product_eco_table1_name$",
         "description": "$product_eco_table1_desc$"
+      },
+      {
+        "code": "nft_eco_table2",
+        "name": "$product_eco_table2_name$",
+        "description": "$product_eco_table2_desc$"
+      },
+      {
+        "code": "nft_eco_table3",
+        "name": "$product_eco_table3_name$",
+        "description": "$product_eco_table3_desc$"
       },
       {
         "code": "nft_eco_tree1",
@@ -84769,7 +84824,7 @@
       {
         "code": "nft_habbo15_fan",
         "name": "Tuuletin",
-        "description": "Tuuletin"
+        "description": "Nauti viileästä tuulesta"
       },
       {
         "code": "nft_habbo15_fountain_5",
@@ -85062,9 +85117,29 @@
         "description": "$product_marquee_9_name$"
       },
       {
+        "code": "nft_matic_cont_alien",
+        "name": "Avaruusolio",
+        "description": "Toisessa todellisuudessa sitä voitaisiin kutsua Borrikseksi"
+      },
+      {
+        "code": "nft_matic_cont_duck",
+        "name": "Avaruusankka",
+        "description": "Kvaak kvaak kvaak"
+      },
+      {
+        "code": "nft_matic_cont_frank",
+        "name": "Frank",
+        "description": "Se on täynnä jotain, muttei tähtiä..."
+      },
+      {
         "code": "nft_matic_dispenser",
         "name": "Musta aukko",
         "description": "nft_matic_dispenser desc"
+      },
+      {
+        "code": "nft_matic_mech",
+        "name": "Taistelutekniikka",
+        "description": "Sopii kuin valettu tuikkivien säteiden ihailuun Tannhäuserin Porteilla"
       },
       {
         "code": "nft_matic_probe",
@@ -85210,6 +85285,11 @@
         "code": "nft_paris15_cake",
         "name": "Frankin hedelmäkakku",
         "description": "Frank hyväksyi reseptin."
+      },
+      {
+        "code": "nft_paris15_poodle",
+        "name": "Puudelisöpöläinen",
+        "description": "Päitä kääntävä hiustyyli."
       },
       {
         "code": "nft_pillar_2",
@@ -85434,7 +85514,7 @@
       {
         "code": "nft_rare_colourable_dragonlamp_3",
         "name": "Sinivihreä lohikäärmelamppu",
-        "description": "Sinivihreä lohikäärmelamppu"
+        "description": "rare_colourable_dragonlamp_3 desc"
       },
       {
         "code": "nft_rare_colourable_dragonlamp_4",
@@ -85453,8 +85533,8 @@
       },
       {
         "code": "nft_rare_colourable_elephant_statue_2",
-        "name": "nft_rare_colourable_elephant_statue_2 name",
-        "description": "nft_rare_colourable_elephant_statue_2 desc"
+        "name": "Smaragdinvihreä norsu",
+        "description": "rare_colourable_elephant_statue_2 desc"
       },
       {
         "code": "nft_rare_colourable_elephant_statue_3",
@@ -85795,6 +85875,11 @@
         "code": "nft_rare_r23_djesko_turntable_2",
         "name": "nft_rare_r23_djesko_turntable_2 name",
         "description": "nft_rare_r23_djesko_turntable_2 desc"
+      },
+      {
+        "code": "nft_rare_r24_htuberchair",
+        "name": "H-Tubettajan tuoli",
+        "description": "rare_r24_htuberchair desc"
       },
       {
         "code": "nft_rare_r24_whippet",

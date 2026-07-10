@@ -80017,6 +80017,16 @@
         "description": "nft_birds_r18_spoonbill desc"
       },
       {
+        "code": "nft_bonusrare16_1_1",
+        "name": "Vaso Verde Menta",
+        "description": "Questi disegni di zucca ti faranno girare gli occhi."
+      },
+      {
+        "code": "nft_bonusrare16_2_2",
+        "name": "Vaso per Ninfee di Quarzo",
+        "description": "Il quarzo è così lucente che mette in imbarazzo le Ninfee."
+      },
+      {
         "code": "nft_book_rare_0",
         "name": "Libro della Conoscenza (Rosso)",
         "description": "Ho contribuito a rendere magnifico questo San Valentino 2014"
@@ -80697,6 +80707,11 @@
         "description": "nft_diamond_painting38 desc"
       },
       {
+        "code": "nft_diamond_painting39",
+        "name": "Facepalm",
+        "description": "diamond_painting39 desc"
+      },
+      {
         "code": "nft_diamond_painting40",
         "name": "Dipinto: Bonnie",
         "description": "Dipinto: Bonnie"
@@ -80705,6 +80720,11 @@
         "code": "nft_diamond_painting41",
         "name": "Dipinto: Duckmare",
         "description": "Dipinto: Duckmare"
+      },
+      {
+        "code": "nft_diamond_painting42",
+        "name": "Dipinto: Habbo Matisse",
+        "description": "diamond_painting42 desc"
       },
       {
         "code": "nft_diamond_painting43",
@@ -80717,6 +80737,16 @@
         "description": "diamond_painting44 desc"
       },
       {
+        "code": "nft_diamond_painting45",
+        "name": "Dipinto: Habbos Go Dancing",
+        "description": "diamond_painting45 desc"
+      },
+      {
+        "code": "nft_diamond_painting47",
+        "name": "Anatra Koons",
+        "description": "diamond_painting47 desc"
+      },
+      {
         "code": "nft_diamond_painting48",
         "name": "Formaldeide Sommozzatore",
         "description": "diamond_painting48 desc"
@@ -80725,6 +80755,11 @@
         "code": "nft_diamond_painting49",
         "name": "Habbo Sdraiato",
         "description": "diamond_painting49 desc"
+      },
+      {
+        "code": "nft_diamond_painting50",
+        "name": "Habbo Descendent",
+        "description": "diamond_painting50 desc"
       },
       {
         "code": "nft_diamond_painting53",
@@ -81092,6 +81127,16 @@
         "description": "$product_eco_lamp3_name$"
       },
       {
+        "code": "nft_eco_light1",
+        "name": "$product_eco_light1_name$",
+        "description": "$product_eco_light1_desc$"
+      },
+      {
+        "code": "nft_eco_light2",
+        "name": "$product_eco_light2_name$",
+        "description": "$product_eco_light2_desc$"
+      },
+      {
         "code": "nft_eco_mush1",
         "name": "Sedia Porcina",
         "description": "Sedia Porcina"
@@ -81120,6 +81165,16 @@
         "code": "nft_eco_table1",
         "name": "$product_eco_table1_name$",
         "description": "$product_eco_table1_desc$"
+      },
+      {
+        "code": "nft_eco_table2",
+        "name": "$product_eco_table2_name$",
+        "description": "$product_eco_table2_desc$"
+      },
+      {
+        "code": "nft_eco_table3",
+        "name": "$product_eco_table3_name$",
+        "description": "$product_eco_table3_desc$"
       },
       {
         "code": "nft_eco_tree1",
@@ -84749,7 +84804,7 @@
       {
         "code": "nft_habbo15_fan",
         "name": "Ventilatore Marrone",
-        "description": "Ventilatore Marrone"
+        "description": "Accendilo e goditi l'arietta gelida."
       },
       {
         "code": "nft_habbo15_fountain_5",
@@ -85042,9 +85097,29 @@
         "description": "$product_marquee_9_name$"
       },
       {
+        "code": "nft_matic_cont_alien",
+        "name": "Alieno",
+        "description": "In una dimensione parallela, avremmo potuto chiamarlo Borris"
+      },
+      {
+        "code": "nft_matic_cont_duck",
+        "name": "Papero spaziale",
+        "description": "Qua qua qua"
+      },
+      {
+        "code": "nft_matic_cont_frank",
+        "name": "Frank",
+        "description": "È pieno di qualcosa, ma di certo non di stelle..."
+      },
+      {
         "code": "nft_matic_dispenser",
         "name": "Buco nero",
         "description": "nft_matic_dispenser desc"
+      },
+      {
+        "code": "nft_matic_mech",
+        "name": "Robot da battaglia",
+        "description": "Perfetta per osservare i raggi C balenare nel buio vicino alle porte di Tannhäuser"
       },
       {
         "code": "nft_matic_probe",
@@ -85190,6 +85265,11 @@
         "code": "nft_paris15_cake",
         "name": "Torta Fruttosa di Frank",
         "description": "Frank adora questa torta."
+      },
+      {
+        "code": "nft_paris15_poodle",
+        "name": "Barboncino Carino",
+        "description": "È tempo di un nuovo taglio di capelli."
       },
       {
         "code": "nft_pillar_2",
@@ -85414,7 +85494,7 @@
       {
         "code": "nft_rare_colourable_dragonlamp_3",
         "name": "Lampada Dragone Foglia di tè",
-        "description": "Lampada Dragone Foglia di tè"
+        "description": "rare_colourable_dragonlamp_3 desc"
       },
       {
         "code": "nft_rare_colourable_dragonlamp_4",
@@ -85433,8 +85513,8 @@
       },
       {
         "code": "nft_rare_colourable_elephant_statue_2",
-        "name": "nft_rare_colourable_elephant_statue_2 name",
-        "description": "nft_rare_colourable_elephant_statue_2 desc"
+        "name": "Elefantino Smeraldo",
+        "description": "rare_colourable_elephant_statue_2 desc"
       },
       {
         "code": "nft_rare_colourable_elephant_statue_3",
@@ -85775,6 +85855,11 @@
         "code": "nft_rare_r23_djesko_turntable_2",
         "name": "nft_rare_r23_djesko_turntable_2 name",
         "description": "nft_rare_r23_djesko_turntable_2 desc"
+      },
+      {
+        "code": "nft_rare_r24_htuberchair",
+        "name": "Poltrona H-Tuber",
+        "description": "rare_r24_htuberchair desc"
       },
       {
         "code": "nft_rare_r24_whippet",
