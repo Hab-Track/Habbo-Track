@@ -32332,6 +32332,11 @@
         "description": ""
       },
       {
+        "code": "chatstyle_money",
+        "name": "Rahapuhekupla",
+        "description": ""
+      },
+      {
         "code": "chess_b_bishop",
         "name": "Musta lähetti",
         "description": "chess_b_bishop desc"
@@ -33317,8 +33322,18 @@
         "description": ""
       },
       {
+        "code": "cl_dia_ducketcollar",
+        "name": "Merimieskaulus",
+        "description": ""
+      },
+      {
         "code": "cl_dia_duckethoneyshirt",
         "name": "Hunajainen t-paita",
+        "description": ""
+      },
+      {
+        "code": "cl_dia_ducketsailorcap",
+        "name": "Tyylikäs merimieslakki",
         "description": ""
       },
       {
@@ -33502,6 +33517,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_goldwatch_bd",
+        "name": "24 karaatin kultakello",
+        "description": ""
+      },
+      {
         "code": "cl_r26_iridescentcoat_bd",
         "name": "Kimalteleva sadetakki",
         "description": ""
@@ -33554,6 +33574,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robottikaveri",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_scarface_bd",
+        "name": "Arpinaama",
         "description": ""
       },
       {
@@ -36498,12 +36523,12 @@
       },
       {
         "code": "clothing_ducketsailorcap",
-        "name": "clothing_ducketsailorcap name",
+        "name": "Tyylikäs merimieslakki",
         "description": "clothing_ducketsailorcap desc"
       },
       {
         "code": "clothing_ducketsailorcollar",
-        "name": "clothing_ducketsailorcollar name",
+        "name": "Merimieskaulus",
         "description": "clothing_ducketsailorcollar desc"
       },
       {
@@ -36768,12 +36793,12 @@
       },
       {
         "code": "clothing_femmefataledress",
-        "name": "clothing_femmefataledress name",
+        "name": "Viehättävä mekko",
         "description": "clothing_femmefataledress desc"
       },
       {
         "code": "clothing_femmefatalehair",
-        "name": "clothing_femmefatalehair name",
+        "name": "Viehättävät laineikkaat hiukset",
         "description": "clothing_femmefatalehair desc"
       },
       {
@@ -38158,22 +38183,22 @@
       },
       {
         "code": "clothing_mafiacane",
-        "name": "clothing_mafiacane name",
+        "name": "Ankkapäinen kävelykeppi",
         "description": "clothing_mafiacane desc"
       },
       {
         "code": "clothing_mafiarose",
-        "name": "clothing_mafiarose name",
+        "name": "Ruusuviehe",
         "description": "clothing_mafiarose desc"
       },
       {
         "code": "clothing_mafiascarf",
-        "name": "clothing_mafiascarf name",
+        "name": "Tyylikäs huivi",
         "description": "clothing_mafiascarf desc"
       },
       {
         "code": "clothing_mafiasuit",
-        "name": "clothing_mafiasuit name",
+        "name": "Ylellinen puku",
         "description": "clothing_mafiasuit desc"
       },
       {
@@ -39443,7 +39468,7 @@
       },
       {
         "code": "clothing_nftgoldgrills",
-        "name": "clothing_nftgoldgrills name",
+        "name": "Kultaiset grillit",
         "description": "clothing_nftgoldgrills desc"
       },
       {
@@ -39883,7 +39908,7 @@
       },
       {
         "code": "clothing_nftmouthtape",
-        "name": "clothing_nftmouthtape name",
+        "name": "Teipattu suu",
         "description": "clothing_nftmouthtape desc"
       },
       {
@@ -39928,7 +39953,7 @@
       },
       {
         "code": "clothing_nftnewsboycap",
-        "name": "clothing_nftnewsboycap name",
+        "name": "Klassinen lehdenjakajalippis",
         "description": "clothing_nftnewsboycap desc"
       },
       {
@@ -40728,7 +40753,7 @@
       },
       {
         "code": "clothing_nftsuspenders",
-        "name": "clothing_nftsuspenders name",
+        "name": "Tyylikkäät henkselit",
         "description": "clothing_nftsuspenders desc"
       },
       {
@@ -44468,7 +44493,7 @@
       },
       {
         "code": "clothing_r26_goldwatch",
-        "name": "clothing_r26_goldwatch name",
+        "name": "24 karaatin kultakello",
         "description": "clothing_r26_goldwatch desc"
       },
       {
@@ -44528,7 +44553,7 @@
       },
       {
         "code": "clothing_r26_scarface",
-        "name": "clothing_r26_scarface name",
+        "name": "Arpinaama",
         "description": "clothing_r26_scarface desc"
       },
       {
@@ -45333,7 +45358,7 @@
       },
       {
         "code": "clothing_susglasses",
-        "name": "clothing_susglasses name",
+        "name": "Pimentävät aurinkolasit",
         "description": "clothing_susglasses desc"
       },
       {
@@ -45353,8 +45378,13 @@
       },
       {
         "code": "clothing_tattoobody2",
-        "name": "clothing_tattoobody2 name",
+        "name": "Tatuoitu vartalo",
         "description": "clothing_tattoobody2 desc"
+      },
+      {
+        "code": "clothing_tattoobody_bd",
+        "name": "Tatuoitu vartalo",
+        "description": ""
       },
       {
         "code": "clothing_tattoobody",
@@ -45363,7 +45393,7 @@
       },
       {
         "code": "clothing_tattoohead",
-        "name": "clothing_tattoohead name",
+        "name": "Tatuoitu päänahka",
         "description": "clothing_tattoohead desc"
       },
       {
@@ -45498,7 +45528,7 @@
       },
       {
         "code": "clothing_toastfriend",
-        "name": "clothing_toastfriend name",
+        "name": "Pikku paahtoleipäkaveri",
         "description": "clothing_toastfriend desc"
       },
       {
@@ -53443,12 +53473,12 @@
       },
       {
         "code": "ducket_c26_puffin",
-        "name": "ducket_c26_puffin name",
+        "name": "Lunnipehmolelu",
         "description": "ducket_c26_puffin desc"
       },
       {
         "code": "ducket_c26_sailboat",
-        "name": "ducket_c26_sailboat name",
+        "name": "Leikkipurjevene",
         "description": "ducket_c26_sailboat desc"
       },
       {
@@ -53544,6 +53574,16 @@
       {
         "code": "ducket_dia_nauticalpillow",
         "name": "Ruori-koristetyyny",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_puffin",
+        "name": "Lunnipehmolelu",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_sailboat",
+        "name": "Leikkipurjevene",
         "description": ""
       },
       {
@@ -60408,7 +60448,7 @@
       },
       {
         "code": "giftbox_c25_crackable6",
-        "name": "giftbox_c25_crackable6 name",
+        "name": "Elokuun 2026 lahjapakkaus",
         "description": "giftbox_c25_crackable6 desc"
       },
       {
@@ -74603,262 +74643,272 @@
       },
       {
         "code": "mafia_c26_armchair_dark",
-        "name": "mafia_c26_armchair_dark name",
+        "name": "Synkän kartanon nojatuoli",
         "description": "mafia_c26_armchair_dark desc"
       },
       {
         "code": "mafia_c26_armchair_white",
-        "name": "mafia_c26_armchair_white name",
+        "name": "Vaalean kartanon nojatuoli",
         "description": "mafia_c26_armchair_white desc"
       },
       {
         "code": "mafia_c26_bed_dark",
-        "name": "mafia_c26_bed_dark name",
+        "name": "Synkän kartanon sänky",
         "description": "mafia_c26_bed_dark desc"
       },
       {
         "code": "mafia_c26_bed_white",
-        "name": "mafia_c26_bed_white name",
+        "name": "Vaalean kartanon parisänky",
         "description": "mafia_c26_bed_white desc"
       },
       {
         "code": "mafia_c26_car",
-        "name": "mafia_c26_car name",
+        "name": "Klassinen pakoauto",
         "description": "mafia_c26_car desc"
       },
       {
         "code": "mafia_c26_cash",
-        "name": "mafia_c26_cash name",
+        "name": "Setelinippu",
         "description": "mafia_c26_cash desc"
       },
       {
         "code": "mafia_c26_coffeetable_dark",
-        "name": "mafia_c26_coffeetable_dark name",
+        "name": "Synkän kartanon kahvipöytä",
         "description": "mafia_c26_coffeetable_dark desc"
       },
       {
         "code": "mafia_c26_coffeetable_white",
-        "name": "mafia_c26_coffeetable_white name",
+        "name": "Vaalean kartanon kahvipöytä",
         "description": "mafia_c26_coffeetable_white desc"
       },
       {
         "code": "mafia_c26_designer",
-        "name": "mafia_c26_designer name",
+        "name": "Sisustustehtailupöytä",
         "description": "mafia_c26_designer desc"
       },
       {
         "code": "mafia_c26_divider_dark",
-        "name": "mafia_c26_divider_dark name",
+        "name": "Synkän kartanon tilanjakaja",
         "description": "mafia_c26_divider_dark desc"
       },
       {
         "code": "mafia_c26_divider_white",
-        "name": "mafia_c26_divider_white name",
+        "name": "Vaalean kartanon tilanjakaja",
         "description": "mafia_c26_divider_white desc"
       },
       {
         "code": "mafia_c26_drinkcabinet",
-        "name": "mafia_c26_drinkcabinet name",
+        "name": "Kartanon drinkkikaappi",
         "description": "mafia_c26_drinkcabinet desc"
       },
       {
         "code": "mafia_c26_drinktray",
-        "name": "mafia_c26_drinktray name",
+        "name": "Klassinen drinkkitarjotin",
         "description": "mafia_c26_drinktray desc"
       },
       {
         "code": "mafia_c26_firepit_dark",
-        "name": "mafia_c26_firepit_dark name",
+        "name": "Synkän kartanon tulisija",
         "description": "mafia_c26_firepit_dark desc"
       },
       {
         "code": "mafia_c26_firepit_white",
-        "name": "mafia_c26_firepit_white name",
+        "name": "Vaalean kartanon tulisija",
         "description": "mafia_c26_firepit_white desc"
       },
       {
         "code": "mafia_c26_fish",
-        "name": "mafia_c26_fish name",
+        "name": "Nukkumassa kalojen kanssa",
         "description": "mafia_c26_fish desc"
       },
       {
         "code": "mafia_c26_goldleaf",
-        "name": "mafia_c26_goldleaf name",
+        "name": "Lehtikulta",
         "description": "mafia_c26_goldleaf desc"
       },
       {
         "code": "mafia_c26_guarddog",
-        "name": "mafia_c26_guarddog name",
+        "name": "Valpas vahtikoira",
         "description": "mafia_c26_guarddog desc"
       },
       {
         "code": "mafia_c26_gunrack",
-        "name": "mafia_c26_gunrack name",
+        "name": "Kätevä pistooliteline",
         "description": "mafia_c26_gunrack desc"
       },
       {
         "code": "mafia_c26_jacuzzi_dark",
-        "name": "mafia_c26_jacuzzi_dark name",
+        "name": "Synkän kartanon poreallas",
         "description": "mafia_c26_jacuzzi_dark desc"
       },
       {
         "code": "mafia_c26_jacuzzi_white",
-        "name": "mafia_c26_jacuzzi_white name",
+        "name": "Vaalean kartanon poreallas",
         "description": "mafia_c26_jacuzzi_white desc"
       },
       {
         "code": "mafia_c26_kit",
-        "name": "mafia_c26_kit name",
+        "name": "Verhoilusetti",
         "description": "mafia_c26_kit desc"
       },
       {
         "code": "mafia_c26_ledger",
-        "name": "mafia_c26_ledger name",
+        "name": "Tärkeät tilikirjat",
         "description": "mafia_c26_ledger desc"
       },
       {
         "code": "mafia_c26_magazines",
-        "name": "mafia_c26_magazines name",
+        "name": "Sisustuslehdet",
         "description": "mafia_c26_magazines desc"
       },
       {
         "code": "mafia_c26_magazinesb",
-        "name": "mafia_c26_magazinesb name",
+        "name": "Sisustuslehdet",
         "description": "mafia_c26_magazinesb desc"
       },
       {
         "code": "mafia_c26_paint",
-        "name": "mafia_c26_paint name",
+        "name": "Huonekalumaali",
         "description": "mafia_c26_paint desc"
       },
       {
         "code": "mafia_c26_pasta",
-        "name": "mafia_c26_pasta name",
+        "name": "Spagettia ja lihapullia",
         "description": "mafia_c26_pasta desc"
       },
       {
         "code": "mafia_c26_planter_dark",
-        "name": "mafia_c26_planter_dark name",
+        "name": "Synkän kartanon istutusruukku",
         "description": "mafia_c26_planter_dark desc"
       },
       {
         "code": "mafia_c26_planter_white",
-        "name": "mafia_c26_planter_white name",
+        "name": "Vaalean kartanon istutusruukku",
         "description": "mafia_c26_planter_white desc"
       },
       {
         "code": "mafia_c26_polish",
-        "name": "mafia_c26_polish name",
+        "name": "Huonekaluvaha",
         "description": "mafia_c26_polish desc"
       },
       {
         "code": "mafia_c26_safe",
-        "name": "mafia_c26_safe name",
+        "name": "Minikassakaappi",
         "description": "mafia_c26_safe desc"
       },
       {
         "code": "mafia_c26_sidetable_dark",
-        "name": "mafia_c26_sidetable_dark name",
+        "name": "Synkän kartanon sivupöytä",
         "description": "mafia_c26_sidetable_dark desc"
       },
       {
         "code": "mafia_c26_sidetable_white",
-        "name": "mafia_c26_sidetable_white name",
+        "name": "Vaalean kartanon sivupöytä",
         "description": "mafia_c26_sidetable_white desc"
       },
       {
         "code": "mafia_c26_sofa_dark",
-        "name": "mafia_c26_sofa_dark name",
+        "name": "Synkän kartanon sohva",
         "description": "mafia_c26_sofa_dark desc"
       },
       {
         "code": "mafia_c26_sofa_white",
-        "name": "mafia_c26_sofa_white name",
+        "name": "Vaalean kartanon sohva",
         "description": "mafia_c26_sofa_white desc"
       },
       {
         "code": "mafia_c26_tallwall_dark",
-        "name": "mafia_c26_tallwall_dark name",
+        "name": "Synkän kartanon korkea seinäelementti",
         "description": "mafia_c26_tallwall_dark desc"
       },
       {
         "code": "mafia_c26_tallwall_white",
-        "name": "mafia_c26_tallwall_white name",
+        "name": "Vaalean kartanon korkea seinäelementti",
         "description": "mafia_c26_tallwall_white desc"
       },
       {
         "code": "mafia_c26_teleport_dark",
-        "name": "mafia_c26_teleport_dark name",
+        "name": "Synkän kartanon teleportti",
         "description": "mafia_c26_teleport_dark desc"
       },
       {
         "code": "mafia_c26_teleport_white",
-        "name": "mafia_c26_teleport_white name",
+        "name": "Vaalean kartanon teleportti",
         "description": "mafia_c26_teleport_white desc"
       },
       {
         "code": "mafia_c26_vase_dark",
-        "name": "mafia_c26_vase_dark name",
+        "name": "Synkän kartanon maljakko",
         "description": "mafia_c26_vase_dark desc"
       },
       {
         "code": "mafia_c26_vase_white",
-        "name": "mafia_c26_vase_white name",
+        "name": "Vaalean kartanon maljakko",
         "description": "mafia_c26_vase_white desc"
       },
       {
         "code": "mafia_c26_vintagechair",
-        "name": "mafia_c26_vintagechair name",
+        "name": "Upea vintage-tuoli",
         "description": "mafia_c26_vintagechair desc"
       },
       {
         "code": "mafia_c26_vintagedesk",
-        "name": "mafia_c26_vintagedesk name",
+        "name": "Upea vintage-pöytä",
         "description": "mafia_c26_vintagedesk desc"
       },
       {
         "code": "mafia_c26_wall_dark",
-        "name": "mafia_c26_wall_dark name",
+        "name": "Synkän kartanon seinäelementti",
         "description": "mafia_c26_wall_dark desc"
       },
       {
         "code": "mafia_c26_wall_white",
-        "name": "mafia_c26_wall_white name",
+        "name": "Vaalean kartanon seinäelementti",
         "description": "mafia_c26_wall_white desc"
       },
       {
         "code": "mafia_c26_walllamp_dark",
-        "name": "mafia_c26_walllamp_dark name",
+        "name": "Synkän kartanon seinälamppu",
         "description": "mafia_c26_walllamp_dark desc"
       },
       {
         "code": "mafia_c26_walllamp_white",
-        "name": "mafia_c26_walllamp_white name",
+        "name": "Vaalean kartanon seinälamppu",
         "description": "mafia_c26_walllamp_white desc"
       },
       {
         "code": "mafia_c26_wallsafe",
-        "name": "mafia_c26_wallsafe name",
+        "name": "Turvallinen kassakaappi",
         "description": "mafia_c26_wallsafe desc"
       },
       {
         "code": "mafia_c26_window_dark",
-        "name": "mafia_c26_window_dark name",
+        "name": "Synkän kartanon ikkuna",
         "description": "mafia_c26_window_dark desc"
       },
       {
         "code": "mafia_c26_window_white",
-        "name": "mafia_c26_window_white name",
+        "name": "Vaalean kartanon ikkuna",
         "description": "mafia_c26_window_white desc"
       },
       {
+        "code": "mafia_r26_globe_bd",
+        "name": "Kullattu karttapallo",
+        "description": ""
+      },
+      {
         "code": "mafia_r26_globe",
-        "name": "mafia_r26_globe name",
+        "name": "Kullattu karttapallo",
         "description": "mafia_r26_globe desc"
       },
       {
+        "code": "mafia_r26_moneytile_bd",
+        "name": "Rahasadelaatta",
+        "description": ""
+      },
+      {
         "code": "mafia_r26_moneytile",
-        "name": "mafia_r26_moneytile name",
+        "name": "Rahasadelaatta",
         "description": "mafia_r26_moneytile desc"
       },
       {
@@ -84588,22 +84638,22 @@
       },
       {
         "code": "nft_h26_cardchair",
-        "name": "nft_h26_cardchair name",
+        "name": "Pelituoli",
         "description": "nft_h26_cardchair desc"
       },
       {
         "code": "nft_h26_cardtable",
-        "name": "nft_h26_cardtable name",
+        "name": "Pelipöytä",
         "description": "nft_h26_cardtable desc"
       },
       {
         "code": "nft_h26_contraband",
-        "name": "nft_h26_contraband name",
+        "name": "Salakuljetussalkku",
         "description": "nft_h26_contraband desc"
       },
       {
         "code": "nft_h26_crates",
-        "name": "nft_h26_crates name",
+        "name": "Epäilyttävät kuljetuslaatikot",
         "description": "nft_h26_crates desc"
       },
       {
@@ -84783,22 +84833,22 @@
       },
       {
         "code": "nft_h26_rifle_bronze",
-        "name": "nft_h26_rifle_bronze name",
+        "name": "Pronssinen koristekivääri",
         "description": "nft_h26_rifle_bronze desc"
       },
       {
         "code": "nft_h26_rifle_gold",
-        "name": "nft_h26_rifle_gold name",
+        "name": "Kultainen koristekivääri",
         "description": "nft_h26_rifle_gold desc"
       },
       {
         "code": "nft_h26_rifle_silver",
-        "name": "nft_h26_rifle_silver name",
+        "name": "Hopea koristekivääri",
         "description": "nft_h26_rifle_silver desc"
       },
       {
         "code": "nft_h26_rifle_trippy",
-        "name": "nft_h26_rifle_trippy name",
+        "name": "Spykedeelinen koristekivääri",
         "description": "nft_h26_rifle_trippy desc"
       },
       {
@@ -86198,7 +86248,7 @@
       },
       {
         "code": "nft_sc_bodybag",
-        "name": "nft_sc_bodybag name",
+        "name": "Epäilyttävän Habbo-muotoinen laukku",
         "description": "nft_sc_bodybag desc"
       },
       {
@@ -86228,22 +86278,22 @@
       },
       {
         "code": "nft_sc_habbfather",
-        "name": "nft_sc_habbfather name",
+        "name": "Habbosedän muotokuva",
         "description": "nft_sc_habbfather desc"
       },
       {
         "code": "nft_sc_horsehead",
-        "name": "nft_sc_horsehead name",
+        "name": "Hevosenpäätyyny",
         "description": "nft_sc_horsehead desc"
       },
       {
         "code": "nft_sc_knife",
-        "name": "nft_sc_knife name",
+        "name": "Tökkimisveitsi",
         "description": "nft_sc_knife desc"
       },
       {
         "code": "nft_sc_moneybag",
-        "name": "nft_sc_moneybag name",
+        "name": "Leikkisä rahasäkki",
         "description": "nft_sc_moneybag desc"
       },
       {
@@ -108498,7 +108548,7 @@
       },
       {
         "code": "sc_bodybag",
-        "name": "sc_bodybag name",
+        "name": "Epäilyttävän Habbo-muotoinen laukku",
         "description": "sc_bodybag desc"
       },
       {
@@ -108523,17 +108573,17 @@
       },
       {
         "code": "sc_horsehead",
-        "name": "sc_horsehead name",
+        "name": "Hevosenpäätyyny",
         "description": "sc_horsehead desc"
       },
       {
         "code": "sc_knife",
-        "name": "sc_knife name",
+        "name": "Tökkimisveitsi",
         "description": "sc_knife desc"
       },
       {
         "code": "sc_moneybag",
-        "name": "sc_moneybag name",
+        "name": "Leikkisä rahasäkki",
         "description": "sc_moneybag desc"
       },
       {

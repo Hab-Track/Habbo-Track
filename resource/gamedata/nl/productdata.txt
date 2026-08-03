@@ -47592,6 +47592,12 @@
         </name>
         <description></description>
     </product>
+    <product code="chatstyle_money">
+        <name>
+            Bankbiljet Chat Bubbel
+        </name>
+        <description></description>
+    </product>
     <product code="chess_b_bishop">
         <name>
             Zwarte Loper
@@ -49144,9 +49150,21 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_dia_ducketcollar">
+        <name>
+            Matrozensjaaltje
+        </name>
+        <description></description>
+    </product>
     <product code="cl_dia_duckethoneyshirt">
         <name>
             T-Shirt met Honingvlek
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_dia_ducketsailorcap">
+        <name>
+            Stijlvolle Matrozenpet
         </name>
         <description></description>
     </product>
@@ -49366,6 +49384,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_r26_goldwatch_bd">
+        <name>
+            24K Gouden Horloge
+        </name>
+        <description></description>
+    </product>
     <product code="cl_r26_iridescentcoat_bd">
         <name>
             Parelmoerkleurige Regenjas
@@ -49429,6 +49453,12 @@
     <product code="cl_r26_robotcompanion_bd">
         <name>
             Robot Vriendje
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_scarface_bd">
+        <name>
+            Verminkt Gezicht
         </name>
         <description></description>
     </product>
@@ -54064,7 +54094,7 @@
     </product>
     <product code="clothing_ducketsailorcap">
         <name>
-            clothing_ducketsailorcap name
+            Stijlvolle Matrozenpet
         </name>
         <description>
             clothing_ducketsailorcap desc
@@ -54072,7 +54102,7 @@
     </product>
     <product code="clothing_ducketsailorcollar">
         <name>
-            clothing_ducketsailorcollar name
+            Matrozensjaaltje
         </name>
         <description>
             clothing_ducketsailorcollar desc
@@ -54492,7 +54522,7 @@
     </product>
     <product code="clothing_femmefataledress">
         <name>
-            clothing_femmefataledress name
+            Verleidelijke Jurk
         </name>
         <description>
             clothing_femmefataledress desc
@@ -54500,7 +54530,7 @@
     </product>
     <product code="clothing_femmefatalehair">
         <name>
-            clothing_femmefatalehair name
+            Verleidelijke Lokken
         </name>
         <description>
             clothing_femmefatalehair desc
@@ -56680,7 +56710,7 @@
     </product>
     <product code="clothing_mafiacane">
         <name>
-            clothing_mafiacane name
+            Wandelstok met Eendenkop
         </name>
         <description>
             clothing_mafiacane desc
@@ -56688,7 +56718,7 @@
     </product>
     <product code="clothing_mafiarose">
         <name>
-            clothing_mafiarose name
+            Rozen Corsage
         </name>
         <description>
             clothing_mafiarose desc
@@ -56696,7 +56726,7 @@
     </product>
     <product code="clothing_mafiascarf">
         <name>
-            clothing_mafiascarf name
+            Stijlvolle Sjaal
         </name>
         <description>
             clothing_mafiascarf desc
@@ -56704,7 +56734,7 @@
     </product>
     <product code="clothing_mafiasuit">
         <name>
-            clothing_mafiasuit name
+            Duur Maatpak
         </name>
         <description>
             clothing_mafiasuit desc
@@ -58724,7 +58754,7 @@
     </product>
     <product code="clothing_nftgoldgrills">
         <name>
-            clothing_nftgoldgrills name
+            Gouden Grill
         </name>
         <description>
             clothing_nftgoldgrills desc
@@ -59420,7 +59450,7 @@
     </product>
     <product code="clothing_nftmouthtape">
         <name>
-            clothing_nftmouthtape name
+            Afgeplakte Mond
         </name>
         <description>
             clothing_nftmouthtape desc
@@ -59492,7 +59522,7 @@
     </product>
     <product code="clothing_nftnewsboycap">
         <name>
-            clothing_nftnewsboycap name
+            Klassieke Krantenjongen Pet
         </name>
         <description>
             clothing_nftnewsboycap desc
@@ -60770,7 +60800,7 @@
     </product>
     <product code="clothing_nftsuspenders">
         <name>
-            clothing_nftsuspenders name
+            Stijlvolle Bretels
         </name>
         <description>
             clothing_nftsuspenders desc
@@ -66358,7 +66388,7 @@
     </product>
     <product code="clothing_r26_goldwatch">
         <name>
-            clothing_r26_goldwatch name
+            24K Gouden Horloge
         </name>
         <description>
             clothing_r26_goldwatch desc
@@ -66454,7 +66484,7 @@
     </product>
     <product code="clothing_r26_scarface">
         <name>
-            clothing_r26_scarface name
+            Verminkt Gezicht
         </name>
         <description>
             clothing_r26_scarface desc
@@ -67724,7 +67754,7 @@
     </product>
     <product code="clothing_susglasses">
         <name>
-            clothing_susglasses name
+            Zwarte Zonnebril
         </name>
         <description>
             clothing_susglasses desc
@@ -67756,11 +67786,17 @@
     </product>
     <product code="clothing_tattoobody2">
         <name>
-            clothing_tattoobody2 name
+            Getatoeëerd Lichaam
         </name>
         <description>
             clothing_tattoobody2 desc
         </description>
+    </product>
+    <product code="clothing_tattoobody_bd">
+        <name>
+            Getatoeëerd Lichaam
+        </name>
+        <description></description>
     </product>
     <product code="clothing_tattoobody">
         <name>
@@ -67772,7 +67808,7 @@
     </product>
     <product code="clothing_tattoohead">
         <name>
-            clothing_tattoohead name
+            Getatoeëerd Hoofd
         </name>
         <description>
             clothing_tattoohead desc
@@ -67984,7 +68020,7 @@
     </product>
     <product code="clothing_toastfriend">
         <name>
-            clothing_toastfriend name
+            Klein Toast Vriendje
         </name>
         <description>
             clothing_toastfriend desc
@@ -81918,7 +81954,7 @@
     </product>
     <product code="ducket_c26_puffin">
         <name>
-            ducket_c26_puffin name
+            Pluche Papegaaiduiker
         </name>
         <description>
             ducket_c26_puffin desc
@@ -81926,7 +81962,7 @@
     </product>
     <product code="ducket_c26_sailboat">
         <name>
-            ducket_c26_sailboat name
+            Speelgoed Zeilboot
         </name>
         <description>
             ducket_c26_sailboat desc
@@ -82053,6 +82089,18 @@
     <product code="ducket_dia_nauticalpillow">
         <name>
             Sierkussen Stuurwiel
+        </name>
+        <description></description>
+    </product>
+    <product code="ducket_dia_puffin">
+        <name>
+            Pluche Papegaaiduiker
+        </name>
+        <description></description>
+    </product>
+    <product code="ducket_dia_sailboat">
+        <name>
+            Speelgoed Zeilboot
         </name>
         <description></description>
     </product>
@@ -92698,7 +92746,7 @@
     </product>
     <product code="giftbox_c25_crackable6">
         <name>
-            giftbox_c25_crackable6 name
+            Augustus 2026 Cadeaudoos
         </name>
         <description>
             giftbox_c25_crackable6 desc
@@ -114848,7 +114896,7 @@
     </product>
     <product code="mafia_c26_armchair_dark">
         <name>
-            mafia_c26_armchair_dark name
+            Donker Landhuis Leunstoel
         </name>
         <description>
             mafia_c26_armchair_dark desc
@@ -114856,7 +114904,7 @@
     </product>
     <product code="mafia_c26_armchair_white">
         <name>
-            mafia_c26_armchair_white name
+            Lichte Landhuis Leunstoel
         </name>
         <description>
             mafia_c26_armchair_white desc
@@ -114864,7 +114912,7 @@
     </product>
     <product code="mafia_c26_bed_dark">
         <name>
-            mafia_c26_bed_dark name
+            Donker Landhuis Bed
         </name>
         <description>
             mafia_c26_bed_dark desc
@@ -114872,7 +114920,7 @@
     </product>
     <product code="mafia_c26_bed_white">
         <name>
-            mafia_c26_bed_white name
+            Lichte Landhuis Tweepersoonsbed
         </name>
         <description>
             mafia_c26_bed_white desc
@@ -114880,7 +114928,7 @@
     </product>
     <product code="mafia_c26_car">
         <name>
-            mafia_c26_car name
+            Klassieke Auto
         </name>
         <description>
             mafia_c26_car desc
@@ -114888,7 +114936,7 @@
     </product>
     <product code="mafia_c26_cash">
         <name>
-            mafia_c26_cash name
+            Stapel Contant Geld
         </name>
         <description>
             mafia_c26_cash desc
@@ -114896,7 +114944,7 @@
     </product>
     <product code="mafia_c26_coffeetable_dark">
         <name>
-            mafia_c26_coffeetable_dark name
+            Donker Landhuis Koffietafel
         </name>
         <description>
             mafia_c26_coffeetable_dark desc
@@ -114904,7 +114952,7 @@
     </product>
     <product code="mafia_c26_coffeetable_white">
         <name>
-            mafia_c26_coffeetable_white name
+            Lichte Landhuis Koffietafel
         </name>
         <description>
             mafia_c26_coffeetable_white desc
@@ -114912,7 +114960,7 @@
     </product>
     <product code="mafia_c26_designer">
         <name>
-            mafia_c26_designer name
+            Interieur Designer Craft tafel
         </name>
         <description>
             mafia_c26_designer desc
@@ -114920,7 +114968,7 @@
     </product>
     <product code="mafia_c26_divider_dark">
         <name>
-            mafia_c26_divider_dark name
+            Donker Landhuis Afscheiding
         </name>
         <description>
             mafia_c26_divider_dark desc
@@ -114928,7 +114976,7 @@
     </product>
     <product code="mafia_c26_divider_white">
         <name>
-            mafia_c26_divider_white name
+            Lichte Landhuis Afscheiding
         </name>
         <description>
             mafia_c26_divider_white desc
@@ -114936,7 +114984,7 @@
     </product>
     <product code="mafia_c26_drinkcabinet">
         <name>
-            mafia_c26_drinkcabinet name
+            Landhuis Drankjeskast
         </name>
         <description>
             mafia_c26_drinkcabinet desc
@@ -114944,7 +114992,7 @@
     </product>
     <product code="mafia_c26_drinktray">
         <name>
-            mafia_c26_drinktray name
+            Stijlvol Dienblad voor Drankjes
         </name>
         <description>
             mafia_c26_drinktray desc
@@ -114952,7 +115000,7 @@
     </product>
     <product code="mafia_c26_firepit_dark">
         <name>
-            mafia_c26_firepit_dark name
+            Donker Landhuis Vuurkorf
         </name>
         <description>
             mafia_c26_firepit_dark desc
@@ -114960,7 +115008,7 @@
     </product>
     <product code="mafia_c26_firepit_white">
         <name>
-            mafia_c26_firepit_white name
+            Lichte Landhuis Vuurkorf
         </name>
         <description>
             mafia_c26_firepit_white desc
@@ -114968,7 +115016,7 @@
     </product>
     <product code="mafia_c26_fish">
         <name>
-            mafia_c26_fish name
+            Slapende Vis
         </name>
         <description>
             mafia_c26_fish desc
@@ -114976,7 +115024,7 @@
     </product>
     <product code="mafia_c26_goldleaf">
         <name>
-            mafia_c26_goldleaf name
+            Gouden Bladverf
         </name>
         <description>
             mafia_c26_goldleaf desc
@@ -114984,7 +115032,7 @@
     </product>
     <product code="mafia_c26_guarddog">
         <name>
-            mafia_c26_guarddog name
+            Waakzame Wraakhond
         </name>
         <description>
             mafia_c26_guarddog desc
@@ -114992,7 +115040,7 @@
     </product>
     <product code="mafia_c26_gunrack">
         <name>
-            mafia_c26_gunrack name
+            Handig Pistoolrek
         </name>
         <description>
             mafia_c26_gunrack desc
@@ -115000,7 +115048,7 @@
     </product>
     <product code="mafia_c26_jacuzzi_dark">
         <name>
-            mafia_c26_jacuzzi_dark name
+            Donker Landhuis Jacuzzi
         </name>
         <description>
             mafia_c26_jacuzzi_dark desc
@@ -115008,7 +115056,7 @@
     </product>
     <product code="mafia_c26_jacuzzi_white">
         <name>
-            mafia_c26_jacuzzi_white name
+            Lichte Landhuis Jacuzzi
         </name>
         <description>
             mafia_c26_jacuzzi_white desc
@@ -115016,7 +115064,7 @@
     </product>
     <product code="mafia_c26_kit">
         <name>
-            mafia_c26_kit name
+            Meubelstoffering Set
         </name>
         <description>
             mafia_c26_kit desc
@@ -115024,7 +115072,7 @@
     </product>
     <product code="mafia_c26_ledger">
         <name>
-            mafia_c26_ledger name
+            Belangrijke Bewijsstukken
         </name>
         <description>
             mafia_c26_ledger desc
@@ -115032,7 +115080,7 @@
     </product>
     <product code="mafia_c26_magazines">
         <name>
-            mafia_c26_magazines name
+            Interieurtijdschriften
         </name>
         <description>
             mafia_c26_magazines desc
@@ -115040,7 +115088,7 @@
     </product>
     <product code="mafia_c26_magazinesb">
         <name>
-            mafia_c26_magazinesb name
+            Interieurtijdschriften
         </name>
         <description>
             mafia_c26_magazinesb desc
@@ -115048,7 +115096,7 @@
     </product>
     <product code="mafia_c26_paint">
         <name>
-            mafia_c26_paint name
+            Meubelverf
         </name>
         <description>
             mafia_c26_paint desc
@@ -115056,7 +115104,7 @@
     </product>
     <product code="mafia_c26_pasta">
         <name>
-            mafia_c26_pasta name
+            Spaghetti met Gehaktballen
         </name>
         <description>
             mafia_c26_pasta desc
@@ -115064,7 +115112,7 @@
     </product>
     <product code="mafia_c26_planter_dark">
         <name>
-            mafia_c26_planter_dark name
+            Donker Landhuis Plantenbak
         </name>
         <description>
             mafia_c26_planter_dark desc
@@ -115072,7 +115120,7 @@
     </product>
     <product code="mafia_c26_planter_white">
         <name>
-            mafia_c26_planter_white name
+            Lichte Landhuis Plantenbak
         </name>
         <description>
             mafia_c26_planter_white desc
@@ -115080,7 +115128,7 @@
     </product>
     <product code="mafia_c26_polish">
         <name>
-            mafia_c26_polish name
+            Meubelpoets
         </name>
         <description>
             mafia_c26_polish desc
@@ -115088,7 +115136,7 @@
     </product>
     <product code="mafia_c26_safe">
         <name>
-            mafia_c26_safe name
+            Kleine Kluis
         </name>
         <description>
             mafia_c26_safe desc
@@ -115096,7 +115144,7 @@
     </product>
     <product code="mafia_c26_sidetable_dark">
         <name>
-            mafia_c26_sidetable_dark name
+            Donker Landhuis Bijzettafel
         </name>
         <description>
             mafia_c26_sidetable_dark desc
@@ -115104,7 +115152,7 @@
     </product>
     <product code="mafia_c26_sidetable_white">
         <name>
-            mafia_c26_sidetable_white name
+            Lichte Landhuis Bijzettafel
         </name>
         <description>
             mafia_c26_sidetable_white desc
@@ -115112,7 +115160,7 @@
     </product>
     <product code="mafia_c26_sofa_dark">
         <name>
-            mafia_c26_sofa_dark name
+            Donker Landhuis Bank
         </name>
         <description>
             mafia_c26_sofa_dark desc
@@ -115120,7 +115168,7 @@
     </product>
     <product code="mafia_c26_sofa_white">
         <name>
-            mafia_c26_sofa_white name
+            Lichte Landhuis Bank
         </name>
         <description>
             mafia_c26_sofa_white desc
@@ -115128,7 +115176,7 @@
     </product>
     <product code="mafia_c26_tallwall_dark">
         <name>
-            mafia_c26_tallwall_dark name
+            Hoog Donker Landhuis Muuritem
         </name>
         <description>
             mafia_c26_tallwall_dark desc
@@ -115136,7 +115184,7 @@
     </product>
     <product code="mafia_c26_tallwall_white">
         <name>
-            mafia_c26_tallwall_white name
+            Lichte Landhuis Hoog Muuritem
         </name>
         <description>
             mafia_c26_tallwall_white desc
@@ -115144,7 +115192,7 @@
     </product>
     <product code="mafia_c26_teleport_dark">
         <name>
-            mafia_c26_teleport_dark name
+            Donker Landhuis Telepoort
         </name>
         <description>
             mafia_c26_teleport_dark desc
@@ -115152,7 +115200,7 @@
     </product>
     <product code="mafia_c26_teleport_white">
         <name>
-            mafia_c26_teleport_white name
+            Lichte Landhuis Telepoort
         </name>
         <description>
             mafia_c26_teleport_white desc
@@ -115160,7 +115208,7 @@
     </product>
     <product code="mafia_c26_vase_dark">
         <name>
-            mafia_c26_vase_dark name
+            Donker Landhuis Vaas
         </name>
         <description>
             mafia_c26_vase_dark desc
@@ -115168,7 +115216,7 @@
     </product>
     <product code="mafia_c26_vase_white">
         <name>
-            mafia_c26_vase_white name
+            Lichte Landhuis Vaas
         </name>
         <description>
             mafia_c26_vase_white desc
@@ -115176,7 +115224,7 @@
     </product>
     <product code="mafia_c26_vintagechair">
         <name>
-            mafia_c26_vintagechair name
+            Grote Vintage Stoel
         </name>
         <description>
             mafia_c26_vintagechair desc
@@ -115184,7 +115232,7 @@
     </product>
     <product code="mafia_c26_vintagedesk">
         <name>
-            mafia_c26_vintagedesk name
+            Grote Vintage Bureau
         </name>
         <description>
             mafia_c26_vintagedesk desc
@@ -115192,7 +115240,7 @@
     </product>
     <product code="mafia_c26_wall_dark">
         <name>
-            mafia_c26_wall_dark name
+            Donker Landhuis Muuritem
         </name>
         <description>
             mafia_c26_wall_dark desc
@@ -115200,7 +115248,7 @@
     </product>
     <product code="mafia_c26_wall_white">
         <name>
-            mafia_c26_wall_white name
+            Lichte Landhuis Muuritem
         </name>
         <description>
             mafia_c26_wall_white desc
@@ -115208,7 +115256,7 @@
     </product>
     <product code="mafia_c26_walllamp_dark">
         <name>
-            mafia_c26_walllamp_dark name
+            Donker Landhuis Wandlamp
         </name>
         <description>
             mafia_c26_walllamp_dark desc
@@ -115216,7 +115264,7 @@
     </product>
     <product code="mafia_c26_walllamp_white">
         <name>
-            mafia_c26_walllamp_white name
+            Lichte Landhuis Wandlamp
         </name>
         <description>
             mafia_c26_walllamp_white desc
@@ -115224,7 +115272,7 @@
     </product>
     <product code="mafia_c26_wallsafe">
         <name>
-            mafia_c26_wallsafe name
+            Zwaar beveiligde Kluis
         </name>
         <description>
             mafia_c26_wallsafe desc
@@ -115232,7 +115280,7 @@
     </product>
     <product code="mafia_c26_window_dark">
         <name>
-            mafia_c26_window_dark name
+            Donker Landhuis Raam
         </name>
         <description>
             mafia_c26_window_dark desc
@@ -115240,23 +115288,35 @@
     </product>
     <product code="mafia_c26_window_white">
         <name>
-            mafia_c26_window_white name
+            Lichte Landhuis Raam
         </name>
         <description>
             mafia_c26_window_white desc
         </description>
     </product>
+    <product code="mafia_r26_globe_bd">
+        <name>
+            Vergulde Wereldbol
+        </name>
+        <description></description>
+    </product>
     <product code="mafia_r26_globe">
         <name>
-            mafia_r26_globe name
+            Vergulde Wereldbol
         </name>
         <description>
             mafia_r26_globe desc
         </description>
     </product>
+    <product code="mafia_r26_moneytile_bd">
+        <name>
+            Het Regent Bankbiljetten
+        </name>
+        <description></description>
+    </product>
     <product code="mafia_r26_moneytile">
         <name>
-            mafia_r26_moneytile name
+            Het Regent Bankbiljetten
         </name>
         <description>
             mafia_r26_moneytile desc
@@ -130354,7 +130414,7 @@
     </product>
     <product code="nft_h26_cardchair">
         <name>
-            nft_h26_cardchair name
+            Game Stoel
         </name>
         <description>
             nft_h26_cardchair desc
@@ -130362,7 +130422,7 @@
     </product>
     <product code="nft_h26_cardtable">
         <name>
-            nft_h26_cardtable name
+            Speeltafel
         </name>
         <description>
             nft_h26_cardtable desc
@@ -130370,7 +130430,7 @@
     </product>
     <product code="nft_h26_contraband">
         <name>
-            nft_h26_contraband name
+            Koffer met Smokkelwaar
         </name>
         <description>
             nft_h26_contraband desc
@@ -130378,7 +130438,7 @@
     </product>
     <product code="nft_h26_crates">
         <name>
-            nft_h26_crates name
+            Verdachte Kratten
         </name>
         <description>
             nft_h26_crates desc
@@ -130666,7 +130726,7 @@
     </product>
     <product code="nft_h26_rifle_bronze">
         <name>
-            nft_h26_rifle_bronze name
+            Bronzen Snipergeweer
         </name>
         <description>
             nft_h26_rifle_bronze desc
@@ -130674,7 +130734,7 @@
     </product>
     <product code="nft_h26_rifle_gold">
         <name>
-            nft_h26_rifle_gold name
+            Gouden Snipergeweer
         </name>
         <description>
             nft_h26_rifle_gold desc
@@ -130682,7 +130742,7 @@
     </product>
     <product code="nft_h26_rifle_silver">
         <name>
-            nft_h26_rifle_silver name
+            Zilveren Snipergeweer
         </name>
         <description>
             nft_h26_rifle_silver desc
@@ -130690,7 +130750,7 @@
     </product>
     <product code="nft_h26_rifle_trippy">
         <name>
-            nft_h26_rifle_trippy name
+            Trippy Snipergeweer
         </name>
         <description>
             nft_h26_rifle_trippy desc
@@ -132896,7 +132956,7 @@
     </product>
     <product code="nft_sc_bodybag">
         <name>
-            nft_sc_bodybag name
+            Een verdachte tas in Habbo Vorm
         </name>
         <description>
             nft_sc_bodybag desc
@@ -132944,7 +133004,7 @@
     </product>
     <product code="nft_sc_habbfather">
         <name>
-            nft_sc_habbfather name
+            Portret van de Habbfather
         </name>
         <description>
             nft_sc_habbfather desc
@@ -132952,7 +133012,7 @@
     </product>
     <product code="nft_sc_horsehead">
         <name>
-            nft_sc_horsehead name
+            Paardenhoofd Kussen
         </name>
         <description>
             nft_sc_horsehead desc
@@ -132960,7 +133020,7 @@
     </product>
     <product code="nft_sc_knife">
         <name>
-            nft_sc_knife name
+            Steekmes
         </name>
         <description>
             nft_sc_knife desc
@@ -132968,7 +133028,7 @@
     </product>
     <product code="nft_sc_moneybag">
         <name>
-            nft_sc_moneybag name
+            Juten Zak met Geld
         </name>
         <description>
             nft_sc_moneybag desc
@@ -167184,7 +167244,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="sc_bodybag">
         <name>
-            sc_bodybag name
+            Een verdachte tas in Habbo Vorm
         </name>
         <description>
             sc_bodybag desc
@@ -167224,7 +167284,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="sc_horsehead">
         <name>
-            sc_horsehead name
+            Paardenhoofd Kussen
         </name>
         <description>
             sc_horsehead desc
@@ -167232,7 +167292,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="sc_knife">
         <name>
-            sc_knife name
+            Steekmes
         </name>
         <description>
             sc_knife desc
@@ -167240,7 +167300,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="sc_moneybag">
         <name>
-            sc_moneybag name
+            Juten Zak met Geld
         </name>
         <description>
             sc_moneybag desc

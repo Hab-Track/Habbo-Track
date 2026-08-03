@@ -48186,6 +48186,12 @@
         </name>
         <description></description>
     </product>
+    <product code="chatstyle_money">
+        <name>
+            Bargeld-Sprechblase
+        </name>
+        <description></description>
+    </product>
     <product code="chess_b_bishop">
         <name>
             Schwarzer Läufer
@@ -49700,9 +49706,21 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_dia_ducketcollar">
+        <name>
+            Matrosenkragen
+        </name>
+        <description></description>
+    </product>
     <product code="cl_dia_duckethoneyshirt">
         <name>
             Honigfleckenhemd
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_dia_ducketsailorcap">
+        <name>
+            Schlanke Matrosenmütze
         </name>
         <description></description>
     </product>
@@ -49922,6 +49940,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_r26_goldwatch_bd">
+        <name>
+            24k Gold-Uhr
+        </name>
+        <description></description>
+    </product>
     <product code="cl_r26_iridescentcoat_bd">
         <name>
             Schillernder Regenmantel
@@ -49985,6 +50009,12 @@
     <product code="cl_r26_robotcompanion_bd">
         <name>
             Robotbegleiter
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_scarface_bd">
+        <name>
+            Vernarbtes Gesicht
         </name>
         <description></description>
     </product>
@@ -54615,7 +54645,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_ducketsailorcap">
         <name>
-            clothing_ducketsailorcap name
+            Schlanke Matrosenmütze
         </name>
         <description>
             clothing_ducketsailorcap desc
@@ -54623,7 +54653,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_ducketsailorcollar">
         <name>
-            clothing_ducketsailorcollar name
+            Matrosenkragen
         </name>
         <description>
             clothing_ducketsailorcollar desc
@@ -55043,7 +55073,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_femmefataledress">
         <name>
-            clothing_femmefataledress name
+            Femme Fatale-Kleid
         </name>
         <description>
             clothing_femmefataledress desc
@@ -55051,7 +55081,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_femmefatalehair">
         <name>
-            clothing_femmefatalehair name
+            Femme Fatale-Wellen
         </name>
         <description>
             clothing_femmefatalehair desc
@@ -57225,7 +57255,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_mafiacane">
         <name>
-            clothing_mafiacane name
+            Gehstock mit Entengriff
         </name>
         <description>
             clothing_mafiacane desc
@@ -57233,7 +57263,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_mafiarose">
         <name>
-            clothing_mafiarose name
+            Knopflochrose
         </name>
         <description>
             clothing_mafiarose desc
@@ -57241,7 +57271,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_mafiascarf">
         <name>
-            clothing_mafiascarf name
+            Stylischer Schal
         </name>
         <description>
             clothing_mafiascarf desc
@@ -57249,7 +57279,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_mafiasuit">
         <name>
-            clothing_mafiasuit name
+            Üppiger Anzug
         </name>
         <description>
             clothing_mafiasuit desc
@@ -59269,7 +59299,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nftgoldgrills">
         <name>
-            clothing_nftgoldgrills name
+            Goldzähne
         </name>
         <description>
             clothing_nftgoldgrills desc
@@ -59965,7 +59995,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nftmouthtape">
         <name>
-            clothing_nftmouthtape name
+            Zugeschnürter Mund
         </name>
         <description>
             clothing_nftmouthtape desc
@@ -60037,7 +60067,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nftnewsboycap">
         <name>
-            clothing_nftnewsboycap name
+            Klassische Zeitungsjungen-Mütze
         </name>
         <description>
             clothing_nftnewsboycap desc
@@ -61315,7 +61345,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nftsuspenders">
         <name>
-            clothing_nftsuspenders name
+            Schnieke Hosenträger
         </name>
         <description>
             clothing_nftsuspenders desc
@@ -66903,7 +66933,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_r26_goldwatch">
         <name>
-            clothing_r26_goldwatch name
+            24k Gold-Uhr
         </name>
         <description>
             clothing_r26_goldwatch desc
@@ -66999,7 +67029,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_r26_scarface">
         <name>
-            clothing_r26_scarface name
+            Vernarbtes Gesicht
         </name>
         <description>
             clothing_r26_scarface desc
@@ -68269,7 +68299,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_susglasses">
         <name>
-            clothing_susglasses name
+            Blackout-Sonnenbrille
         </name>
         <description>
             clothing_susglasses desc
@@ -68301,11 +68331,17 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_tattoobody2">
         <name>
-            clothing_tattoobody2 name
+            Tättowierter Körper
         </name>
         <description>
             clothing_tattoobody2 desc
         </description>
+    </product>
+    <product code="clothing_tattoobody_bd">
+        <name>
+            Tättowierter Körper
+        </name>
+        <description></description>
     </product>
     <product code="clothing_tattoobody">
         <name>
@@ -68317,7 +68353,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_tattoohead">
         <name>
-            clothing_tattoohead name
+            Tättowierte Glatze
         </name>
         <description>
             clothing_tattoohead desc
@@ -68529,7 +68565,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_toastfriend">
         <name>
-            clothing_toastfriend name
+            Kleiner Toast-Freund
         </name>
         <description>
             clothing_toastfriend desc
@@ -81133,7 +81169,7 @@ Kunstfertigkeit.
     </product>
     <product code="ducket_c26_puffin">
         <name>
-            ducket_c26_puffin name
+            Papageientaucher-Plüschtier
         </name>
         <description>
             ducket_c26_puffin desc
@@ -81141,7 +81177,7 @@ Kunstfertigkeit.
     </product>
     <product code="ducket_c26_sailboat">
         <name>
-            ducket_c26_sailboat name
+            Spielzeugsegelboot
         </name>
         <description>
             ducket_c26_sailboat desc
@@ -81268,6 +81304,18 @@ Kunstfertigkeit.
     <product code="ducket_dia_nauticalpillow">
         <name>
             Zierkissen mit Steuerrad
+        </name>
+        <description></description>
+    </product>
+    <product code="ducket_dia_puffin">
+        <name>
+            Papageientaucher-Plüschtier
+        </name>
+        <description></description>
+    </product>
+    <product code="ducket_dia_sailboat">
+        <name>
+            Spielzeugsegelboot
         </name>
         <description></description>
     </product>
@@ -91873,7 +91921,7 @@ Kunstfertigkeit.
     </product>
     <product code="giftbox_c25_crackable6">
         <name>
-            giftbox_c25_crackable6 name
+            August 2026 Geschenkbox
         </name>
         <description>
             giftbox_c25_crackable6 desc
@@ -113941,7 +113989,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_armchair_dark">
         <name>
-            mafia_c26_armchair_dark name
+            Dunkle Villa-Sessel
         </name>
         <description>
             mafia_c26_armchair_dark desc
@@ -113949,7 +113997,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_armchair_white">
         <name>
-            mafia_c26_armchair_white name
+            Helle Villa-Sessel
         </name>
         <description>
             mafia_c26_armchair_white desc
@@ -113957,7 +114005,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_bed_dark">
         <name>
-            mafia_c26_bed_dark name
+            Dunkle Villa-Bett
         </name>
         <description>
             mafia_c26_bed_dark desc
@@ -113965,7 +114013,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_bed_white">
         <name>
-            mafia_c26_bed_white name
+            Helle Villa-Doppelbett
         </name>
         <description>
             mafia_c26_bed_white desc
@@ -113973,7 +114021,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_car">
         <name>
-            mafia_c26_car name
+            Klassisches Fluchtauto
         </name>
         <description>
             mafia_c26_car desc
@@ -113981,7 +114029,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_cash">
         <name>
-            mafia_c26_cash name
+            Bargeldstapel
         </name>
         <description>
             mafia_c26_cash desc
@@ -113989,7 +114037,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_coffeetable_dark">
         <name>
-            mafia_c26_coffeetable_dark name
+            Dunkle Villa-Kaffeetisch
         </name>
         <description>
             mafia_c26_coffeetable_dark desc
@@ -113997,7 +114045,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_coffeetable_white">
         <name>
-            mafia_c26_coffeetable_white name
+            Helle Villa-Kaffeetisch
         </name>
         <description>
             mafia_c26_coffeetable_white desc
@@ -114005,7 +114053,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_designer">
         <name>
-            mafia_c26_designer name
+            Innenausstatter Handwerkstisch
         </name>
         <description>
             mafia_c26_designer desc
@@ -114013,7 +114061,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_divider_dark">
         <name>
-            mafia_c26_divider_dark name
+            Dunkle Villa-Trennwand
         </name>
         <description>
             mafia_c26_divider_dark desc
@@ -114021,7 +114069,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_divider_white">
         <name>
-            mafia_c26_divider_white name
+            Helle Villa-Trennwand
         </name>
         <description>
             mafia_c26_divider_white desc
@@ -114029,7 +114077,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_drinkcabinet">
         <name>
-            mafia_c26_drinkcabinet name
+            Villa-Getränkeschrank
         </name>
         <description>
             mafia_c26_drinkcabinet desc
@@ -114037,7 +114085,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_drinktray">
         <name>
-            mafia_c26_drinktray name
+            Klassisches Getränketablett
         </name>
         <description>
             mafia_c26_drinktray desc
@@ -114045,7 +114093,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_firepit_dark">
         <name>
-            mafia_c26_firepit_dark name
+            Dunkle Villa-Feuerstelle
         </name>
         <description>
             mafia_c26_firepit_dark desc
@@ -114053,7 +114101,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_firepit_white">
         <name>
-            mafia_c26_firepit_white name
+            Hello Villa-Feuerstelle
         </name>
         <description>
             mafia_c26_firepit_white desc
@@ -114061,7 +114109,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_fish">
         <name>
-            mafia_c26_fish name
+            Mit Fischen schlafen
         </name>
         <description>
             mafia_c26_fish desc
@@ -114069,7 +114117,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_goldleaf">
         <name>
-            mafia_c26_goldleaf name
+            Blattgold
         </name>
         <description>
             mafia_c26_goldleaf desc
@@ -114077,7 +114125,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_guarddog">
         <name>
-            mafia_c26_guarddog name
+            Aufmerksamer Wachhund
         </name>
         <description>
             mafia_c26_guarddog desc
@@ -114085,7 +114133,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_gunrack">
         <name>
-            mafia_c26_gunrack name
+            Praktischer Handwaffenständer
         </name>
         <description>
             mafia_c26_gunrack desc
@@ -114093,7 +114141,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_jacuzzi_dark">
         <name>
-            mafia_c26_jacuzzi_dark name
+            Dunkle VIlla-Jacuzzi
         </name>
         <description>
             mafia_c26_jacuzzi_dark desc
@@ -114101,7 +114149,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_jacuzzi_white">
         <name>
-            mafia_c26_jacuzzi_white name
+            Helles VIlla-Jacuzzi
         </name>
         <description>
             mafia_c26_jacuzzi_white desc
@@ -114109,7 +114157,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_kit">
         <name>
-            mafia_c26_kit name
+            Polsterungs-Kit
         </name>
         <description>
             mafia_c26_kit desc
@@ -114117,7 +114165,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_ledger">
         <name>
-            mafia_c26_ledger name
+            Wichtige Hauptbücher
         </name>
         <description>
             mafia_c26_ledger desc
@@ -114125,7 +114173,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_magazines">
         <name>
-            mafia_c26_magazines name
+            Einrichtungszeitschriften
         </name>
         <description>
             mafia_c26_magazines desc
@@ -114133,7 +114181,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_magazinesb">
         <name>
-            mafia_c26_magazinesb name
+            Einrichtungszeitschriften
         </name>
         <description>
             mafia_c26_magazinesb desc
@@ -114141,7 +114189,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_paint">
         <name>
-            mafia_c26_paint name
+            Möbelfarbe
         </name>
         <description>
             mafia_c26_paint desc
@@ -114149,7 +114197,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_pasta">
         <name>
-            mafia_c26_pasta name
+            Spaghetti mit Fleischbällchen
         </name>
         <description>
             mafia_c26_pasta desc
@@ -114157,7 +114205,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_planter_dark">
         <name>
-            mafia_c26_planter_dark name
+            Dunkle Villa-Übertopf
         </name>
         <description>
             mafia_c26_planter_dark desc
@@ -114165,7 +114213,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_planter_white">
         <name>
-            mafia_c26_planter_white name
+            Helle Villa-Übertopf
         </name>
         <description>
             mafia_c26_planter_white desc
@@ -114173,7 +114221,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_polish">
         <name>
-            mafia_c26_polish name
+            Möbelpolitur
         </name>
         <description>
             mafia_c26_polish desc
@@ -114181,7 +114229,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_safe">
         <name>
-            mafia_c26_safe name
+            Mini-Tresor
         </name>
         <description>
             mafia_c26_safe desc
@@ -114189,7 +114237,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_sidetable_dark">
         <name>
-            mafia_c26_sidetable_dark name
+            Dunkle Villa-Beistelltisch
         </name>
         <description>
             mafia_c26_sidetable_dark desc
@@ -114197,7 +114245,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_sidetable_white">
         <name>
-            mafia_c26_sidetable_white name
+            Helle Villa-Beistelltisch
         </name>
         <description>
             mafia_c26_sidetable_white desc
@@ -114205,7 +114253,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_sofa_dark">
         <name>
-            mafia_c26_sofa_dark name
+            Dunkle Villa-Sofa
         </name>
         <description>
             mafia_c26_sofa_dark desc
@@ -114213,7 +114261,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_sofa_white">
         <name>
-            mafia_c26_sofa_white name
+            Helle Villa-Sofa
         </name>
         <description>
             mafia_c26_sofa_white desc
@@ -114221,7 +114269,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_tallwall_dark">
         <name>
-            mafia_c26_tallwall_dark name
+            Hohes Dunkle Villa-Wandstück
         </name>
         <description>
             mafia_c26_tallwall_dark desc
@@ -114229,7 +114277,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_tallwall_white">
         <name>
-            mafia_c26_tallwall_white name
+            Hohes Helle Villa-Wandstück
         </name>
         <description>
             mafia_c26_tallwall_white desc
@@ -114237,7 +114285,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_teleport_dark">
         <name>
-            mafia_c26_teleport_dark name
+            Dunkle Villa-Teleport
         </name>
         <description>
             mafia_c26_teleport_dark desc
@@ -114245,7 +114293,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_teleport_white">
         <name>
-            mafia_c26_teleport_white name
+            Helle Villa-Teleport
         </name>
         <description>
             mafia_c26_teleport_white desc
@@ -114253,7 +114301,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_vase_dark">
         <name>
-            mafia_c26_vase_dark name
+            Dunkle Villa-Vase
         </name>
         <description>
             mafia_c26_vase_dark desc
@@ -114261,7 +114309,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_vase_white">
         <name>
-            mafia_c26_vase_white name
+            Helle Villa-Vase
         </name>
         <description>
             mafia_c26_vase_white desc
@@ -114269,7 +114317,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_vintagechair">
         <name>
-            mafia_c26_vintagechair name
+            Pompöser Vintagesessel
         </name>
         <description>
             mafia_c26_vintagechair desc
@@ -114277,7 +114325,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_vintagedesk">
         <name>
-            mafia_c26_vintagedesk name
+            Pompöser Vintage-Schreibtisch
         </name>
         <description>
             mafia_c26_vintagedesk desc
@@ -114285,7 +114333,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_wall_dark">
         <name>
-            mafia_c26_wall_dark name
+            Dunkle Villa-Wandstück
         </name>
         <description>
             mafia_c26_wall_dark desc
@@ -114293,7 +114341,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_wall_white">
         <name>
-            mafia_c26_wall_white name
+            Helle Villa-Wandstück
         </name>
         <description>
             mafia_c26_wall_white desc
@@ -114301,7 +114349,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_walllamp_dark">
         <name>
-            mafia_c26_walllamp_dark name
+            Dunkle Villa-Wandlampe
         </name>
         <description>
             mafia_c26_walllamp_dark desc
@@ -114309,7 +114357,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_walllamp_white">
         <name>
-            mafia_c26_walllamp_white name
+            Helle Villa-Wandlampe
         </name>
         <description>
             mafia_c26_walllamp_white desc
@@ -114317,7 +114365,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_wallsafe">
         <name>
-            mafia_c26_wallsafe name
+            Sicherheitstresor
         </name>
         <description>
             mafia_c26_wallsafe desc
@@ -114325,7 +114373,7 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_window_dark">
         <name>
-            mafia_c26_window_dark name
+            Dunkle Villa-Fenster
         </name>
         <description>
             mafia_c26_window_dark desc
@@ -114333,23 +114381,35 @@ Kunstfertigkeit.
     </product>
     <product code="mafia_c26_window_white">
         <name>
-            mafia_c26_window_white name
+            Helle Villa-Fenster
         </name>
         <description>
             mafia_c26_window_white desc
         </description>
     </product>
+    <product code="mafia_r26_globe_bd">
+        <name>
+            Vergoldeter Globus
+        </name>
+        <description></description>
+    </product>
     <product code="mafia_r26_globe">
         <name>
-            mafia_r26_globe name
+            Vergoldeter Globus
         </name>
         <description>
             mafia_r26_globe desc
         </description>
     </product>
+    <product code="mafia_r26_moneytile_bd">
+        <name>
+            Geldregen-Fliese
+        </name>
+        <description></description>
+    </product>
     <product code="mafia_r26_moneytile">
         <name>
-            mafia_r26_moneytile name
+            Geldregen-Fliese
         </name>
         <description>
             mafia_r26_moneytile desc
@@ -129497,7 +129557,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_cardchair">
         <name>
-            nft_h26_cardchair name
+            Spielstuhl
         </name>
         <description>
             nft_h26_cardchair desc
@@ -129505,7 +129565,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_cardtable">
         <name>
-            nft_h26_cardtable name
+            Spieltisch
         </name>
         <description>
             nft_h26_cardtable desc
@@ -129513,7 +129573,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_contraband">
         <name>
-            nft_h26_contraband name
+            Schmuggelware-Koffer
         </name>
         <description>
             nft_h26_contraband desc
@@ -129521,7 +129581,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_crates">
         <name>
-            nft_h26_crates name
+            Verdächtige Kisten
         </name>
         <description>
             nft_h26_crates desc
@@ -129809,7 +129869,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_rifle_bronze">
         <name>
-            nft_h26_rifle_bronze name
+            Dekoratives Bronze-Gewehr
         </name>
         <description>
             nft_h26_rifle_bronze desc
@@ -129817,7 +129877,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_rifle_gold">
         <name>
-            nft_h26_rifle_gold name
+            Dekoratives Gold-Gewehr
         </name>
         <description>
             nft_h26_rifle_gold desc
@@ -129825,7 +129885,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_rifle_silver">
         <name>
-            nft_h26_rifle_silver name
+            Dekoratives Silber-Gewehr
         </name>
         <description>
             nft_h26_rifle_silver desc
@@ -129833,7 +129893,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_rifle_trippy">
         <name>
-            nft_h26_rifle_trippy name
+            Trippy Dekoratives Gewehr
         </name>
         <description>
             nft_h26_rifle_trippy desc
@@ -132039,7 +132099,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_sc_bodybag">
         <name>
-            nft_sc_bodybag name
+            Verdächtig Habbo-förmige Tasche
         </name>
         <description>
             nft_sc_bodybag desc
@@ -132087,7 +132147,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_sc_habbfather">
         <name>
-            nft_sc_habbfather name
+            Porträt des Habbpaten
         </name>
         <description>
             nft_sc_habbfather desc
@@ -132095,7 +132155,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_sc_horsehead">
         <name>
-            nft_sc_horsehead name
+            Pferdekopfkissen
         </name>
         <description>
             nft_sc_horsehead desc
@@ -132103,7 +132163,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_sc_knife">
         <name>
-            nft_sc_knife name
+            Stech-Messer
         </name>
         <description>
             nft_sc_knife desc
@@ -132111,7 +132171,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_sc_moneybag">
         <name>
-            nft_sc_moneybag name
+            Neuer Geldsack
         </name>
         <description>
             nft_sc_moneybag desc
@@ -166360,7 +166420,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="sc_bodybag">
         <name>
-            sc_bodybag name
+            Verdächtig Habbo-förmige Tasche
         </name>
         <description>
             sc_bodybag desc
@@ -166400,7 +166460,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="sc_horsehead">
         <name>
-            sc_horsehead name
+            Pferdekopfkissen
         </name>
         <description>
             sc_horsehead desc
@@ -166408,7 +166468,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="sc_knife">
         <name>
-            sc_knife name
+            Stech-Messer
         </name>
         <description>
             sc_knife desc
@@ -166416,7 +166476,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="sc_moneybag">
         <name>
-            sc_moneybag name
+            Neuer Geldsack
         </name>
         <description>
             sc_moneybag desc

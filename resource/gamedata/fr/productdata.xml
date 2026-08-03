@@ -47886,6 +47886,12 @@
         </name>
         <description></description>
     </product>
+    <product code="chatstyle_money">
+        <name>
+            Bulle de chat monnaie cash
+        </name>
+        <description></description>
+    </product>
     <product code="chess_b_bishop">
         <name>
             Fou Noir
@@ -49438,9 +49444,21 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_dia_ducketcollar">
+        <name>
+            Col marin
+        </name>
+        <description></description>
+    </product>
     <product code="cl_dia_duckethoneyshirt">
         <name>
             T-shirt éclaboussures miel
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_dia_ducketsailorcap">
+        <name>
+            Casquette de marin
         </name>
         <description></description>
     </product>
@@ -49660,6 +49678,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_r26_goldwatch_bd">
+        <name>
+            Montre en or 24 carats
+        </name>
+        <description></description>
+    </product>
     <product code="cl_r26_iridescentcoat_bd">
         <name>
             Imperméable irisé
@@ -49723,6 +49747,12 @@
     <product code="cl_r26_robotcompanion_bd">
         <name>
             Compagnon robot
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_scarface_bd">
+        <name>
+            Visage balafré
         </name>
         <description></description>
     </product>
@@ -54350,7 +54380,7 @@
     </product>
     <product code="clothing_ducketsailorcap">
         <name>
-            clothing_ducketsailorcap name
+            Casquette de marin
         </name>
         <description>
             clothing_ducketsailorcap desc
@@ -54358,7 +54388,7 @@
     </product>
     <product code="clothing_ducketsailorcollar">
         <name>
-            clothing_ducketsailorcollar name
+            Col marin
         </name>
         <description>
             clothing_ducketsailorcollar desc
@@ -54778,7 +54808,7 @@
     </product>
     <product code="clothing_femmefataledress">
         <name>
-            clothing_femmefataledress name
+            Robe femme fatale
         </name>
         <description>
             clothing_femmefataledress desc
@@ -54786,7 +54816,7 @@
     </product>
     <product code="clothing_femmefatalehair">
         <name>
-            clothing_femmefatalehair name
+            Vagues femme fatale
         </name>
         <description>
             clothing_femmefatalehair desc
@@ -56950,7 +56980,7 @@
     </product>
     <product code="clothing_mafiacane">
         <name>
-            clothing_mafiacane name
+            Canne ornée canard
         </name>
         <description>
             clothing_mafiacane desc
@@ -56958,7 +56988,7 @@
     </product>
     <product code="clothing_mafiarose">
         <name>
-            clothing_mafiarose name
+            Boutonnière Rose
         </name>
         <description>
             clothing_mafiarose desc
@@ -56966,7 +56996,7 @@
     </product>
     <product code="clothing_mafiascarf">
         <name>
-            clothing_mafiascarf name
+            Écharpe stylée
         </name>
         <description>
             clothing_mafiascarf desc
@@ -56974,7 +57004,7 @@
     </product>
     <product code="clothing_mafiasuit">
         <name>
-            clothing_mafiasuit name
+            Costume chic
         </name>
         <description>
             clothing_mafiasuit desc
@@ -58994,7 +59024,7 @@
     </product>
     <product code="clothing_nftgoldgrills">
         <name>
-            clothing_nftgoldgrills name
+            Grilles dorées
         </name>
         <description>
             clothing_nftgoldgrills desc
@@ -59690,7 +59720,7 @@
     </product>
     <product code="clothing_nftmouthtape">
         <name>
-            clothing_nftmouthtape name
+            Bouche scellée
         </name>
         <description>
             clothing_nftmouthtape desc
@@ -59762,7 +59792,7 @@
     </product>
     <product code="clothing_nftnewsboycap">
         <name>
-            clothing_nftnewsboycap name
+            Casquette de livreur classique
         </name>
         <description>
             clothing_nftnewsboycap desc
@@ -61040,7 +61070,7 @@
     </product>
     <product code="clothing_nftsuspenders">
         <name>
-            clothing_nftsuspenders name
+            Bretelles stylées
         </name>
         <description>
             clothing_nftsuspenders desc
@@ -66628,7 +66658,7 @@
     </product>
     <product code="clothing_r26_goldwatch">
         <name>
-            clothing_r26_goldwatch name
+            Montre en or 24 carats
         </name>
         <description>
             clothing_r26_goldwatch desc
@@ -66724,7 +66754,7 @@
     </product>
     <product code="clothing_r26_scarface">
         <name>
-            clothing_r26_scarface name
+            Visage balafré
         </name>
         <description>
             clothing_r26_scarface desc
@@ -67994,7 +68024,7 @@
     </product>
     <product code="clothing_susglasses">
         <name>
-            clothing_susglasses name
+            Lunette de soleil Blackout
         </name>
         <description>
             clothing_susglasses desc
@@ -68026,11 +68056,17 @@
     </product>
     <product code="clothing_tattoobody2">
         <name>
-            clothing_tattoobody2 name
+            Corps tatoué
         </name>
         <description>
             clothing_tattoobody2 desc
         </description>
+    </product>
+    <product code="clothing_tattoobody_bd">
+        <name>
+            Corps tatoué
+        </name>
+        <description></description>
     </product>
     <product code="clothing_tattoobody">
         <name>
@@ -68042,7 +68078,7 @@
     </product>
     <product code="clothing_tattoohead">
         <name>
-            clothing_tattoohead name
+            Cuir chevelu tatoué
         </name>
         <description>
             clothing_tattoohead desc
@@ -68254,7 +68290,7 @@
     </product>
     <product code="clothing_toastfriend">
         <name>
-            clothing_toastfriend name
+            Compagnon de Lil' Toast
         </name>
         <description>
             clothing_toastfriend desc
@@ -79710,7 +79746,7 @@
     </product>
     <product code="ducket_c26_puffin">
         <name>
-            ducket_c26_puffin name
+            Peluche Macareux
         </name>
         <description>
             ducket_c26_puffin desc
@@ -79718,7 +79754,7 @@
     </product>
     <product code="ducket_c26_sailboat">
         <name>
-            ducket_c26_sailboat name
+            Jouet Voilier
         </name>
         <description>
             ducket_c26_sailboat desc
@@ -79845,6 +79881,18 @@
     <product code="ducket_dia_nauticalpillow">
         <name>
             Coussin
+        </name>
+        <description></description>
+    </product>
+    <product code="ducket_dia_puffin">
+        <name>
+            Peluche Macareux
+        </name>
+        <description></description>
+    </product>
+    <product code="ducket_dia_sailboat">
+        <name>
+            Jouet Voilier
         </name>
         <description></description>
     </product>
@@ -90528,7 +90576,7 @@
     </product>
     <product code="giftbox_c25_crackable6">
         <name>
-            giftbox_c25_crackable6 name
+            Boîte-cadeau août 2026
         </name>
         <description>
             giftbox_c25_crackable6 desc
@@ -112510,7 +112558,7 @@
     </product>
     <product code="mafia_c26_armchair_dark">
         <name>
-            mafia_c26_armchair_dark name
+            Fauteuil du Manoir sombre
         </name>
         <description>
             mafia_c26_armchair_dark desc
@@ -112518,7 +112566,7 @@
     </product>
     <product code="mafia_c26_armchair_white">
         <name>
-            mafia_c26_armchair_white name
+            Fauteuil du manoir de lumière
         </name>
         <description>
             mafia_c26_armchair_white desc
@@ -112526,7 +112574,7 @@
     </product>
     <product code="mafia_c26_bed_dark">
         <name>
-            mafia_c26_bed_dark name
+            Lit du Manoir sombre
         </name>
         <description>
             mafia_c26_bed_dark desc
@@ -112534,7 +112582,7 @@
     </product>
     <product code="mafia_c26_bed_white">
         <name>
-            mafia_c26_bed_white name
+            Lit double du manoir de lumière
         </name>
         <description>
             mafia_c26_bed_white desc
@@ -112542,7 +112590,7 @@
     </product>
     <product code="mafia_c26_car">
         <name>
-            mafia_c26_car name
+            Voiture de fuite classique
         </name>
         <description>
             mafia_c26_car desc
@@ -112550,7 +112598,7 @@
     </product>
     <product code="mafia_c26_cash">
         <name>
-            mafia_c26_cash name
+            Pile de billets
         </name>
         <description>
             mafia_c26_cash desc
@@ -112558,7 +112606,7 @@
     </product>
     <product code="mafia_c26_coffeetable_dark">
         <name>
-            mafia_c26_coffeetable_dark name
+            Table basse du Manoir sombre
         </name>
         <description>
             mafia_c26_coffeetable_dark desc
@@ -112566,7 +112614,7 @@
     </product>
     <product code="mafia_c26_coffeetable_white">
         <name>
-            mafia_c26_coffeetable_white name
+            Table basse du manoir de lumière
         </name>
         <description>
             mafia_c26_coffeetable_white desc
@@ -112574,7 +112622,7 @@
     </product>
     <product code="mafia_c26_designer">
         <name>
-            mafia_c26_designer name
+            Table de craft architecte d'intérieur
         </name>
         <description>
             mafia_c26_designer desc
@@ -112582,7 +112630,7 @@
     </product>
     <product code="mafia_c26_divider_dark">
         <name>
-            mafia_c26_divider_dark name
+            Cloison du Manoir sombre
         </name>
         <description>
             mafia_c26_divider_dark desc
@@ -112590,7 +112638,7 @@
     </product>
     <product code="mafia_c26_divider_white">
         <name>
-            mafia_c26_divider_white name
+            Cloison du manoir de lumière
         </name>
         <description>
             mafia_c26_divider_white desc
@@ -112598,7 +112646,7 @@
     </product>
     <product code="mafia_c26_drinkcabinet">
         <name>
-            mafia_c26_drinkcabinet name
+            Armoire à boissons manoir
         </name>
         <description>
             mafia_c26_drinkcabinet desc
@@ -112606,7 +112654,7 @@
     </product>
     <product code="mafia_c26_drinktray">
         <name>
-            mafia_c26_drinktray name
+            Plateau à boissons classe
         </name>
         <description>
             mafia_c26_drinktray desc
@@ -112614,7 +112662,7 @@
     </product>
     <product code="mafia_c26_firepit_dark">
         <name>
-            mafia_c26_firepit_dark name
+            Fosse à feu du Manoir sombre
         </name>
         <description>
             mafia_c26_firepit_dark desc
@@ -112622,7 +112670,7 @@
     </product>
     <product code="mafia_c26_firepit_white">
         <name>
-            mafia_c26_firepit_white name
+            Fosse à feu du manoir de lumière
         </name>
         <description>
             mafia_c26_firepit_white desc
@@ -112630,7 +112678,7 @@
     </product>
     <product code="mafia_c26_fish">
         <name>
-            mafia_c26_fish name
+            Dormir avec les poissons
         </name>
         <description>
             mafia_c26_fish desc
@@ -112638,7 +112686,7 @@
     </product>
     <product code="mafia_c26_goldleaf">
         <name>
-            mafia_c26_goldleaf name
+            Feuille d'or
         </name>
         <description>
             mafia_c26_goldleaf desc
@@ -112646,7 +112694,7 @@
     </product>
     <product code="mafia_c26_guarddog">
         <name>
-            mafia_c26_guarddog name
+            Chien de garde vigilant
         </name>
         <description>
             mafia_c26_guarddog desc
@@ -112654,7 +112702,7 @@
     </product>
     <product code="mafia_c26_gunrack">
         <name>
-            mafia_c26_gunrack name
+            Support pour armes
         </name>
         <description>
             mafia_c26_gunrack desc
@@ -112662,7 +112710,7 @@
     </product>
     <product code="mafia_c26_jacuzzi_dark">
         <name>
-            mafia_c26_jacuzzi_dark name
+            Jacuzzi du Manoir sombre
         </name>
         <description>
             mafia_c26_jacuzzi_dark desc
@@ -112670,7 +112718,7 @@
     </product>
     <product code="mafia_c26_jacuzzi_white">
         <name>
-            mafia_c26_jacuzzi_white name
+            Jacuzzi du manoir de lumière
         </name>
         <description>
             mafia_c26_jacuzzi_white desc
@@ -112678,7 +112726,7 @@
     </product>
     <product code="mafia_c26_kit">
         <name>
-            mafia_c26_kit name
+            Kit de sellerie
         </name>
         <description>
             mafia_c26_kit desc
@@ -112686,7 +112734,7 @@
     </product>
     <product code="mafia_c26_ledger">
         <name>
-            mafia_c26_ledger name
+            Registres importants
         </name>
         <description>
             mafia_c26_ledger desc
@@ -112694,7 +112742,7 @@
     </product>
     <product code="mafia_c26_magazines">
         <name>
-            mafia_c26_magazines name
+            Magasines Design d'intérieur
         </name>
         <description>
             mafia_c26_magazines desc
@@ -112702,7 +112750,7 @@
     </product>
     <product code="mafia_c26_magazinesb">
         <name>
-            mafia_c26_magazinesb name
+            Magasines Design d'intérieur
         </name>
         <description>
             mafia_c26_magazinesb desc
@@ -112710,7 +112758,7 @@
     </product>
     <product code="mafia_c26_paint">
         <name>
-            mafia_c26_paint name
+            Peinture pour meubles
         </name>
         <description>
             mafia_c26_paint desc
@@ -112718,7 +112766,7 @@
     </product>
     <product code="mafia_c26_pasta">
         <name>
-            mafia_c26_pasta name
+            Spaghettis et boulettes de viande
         </name>
         <description>
             mafia_c26_pasta desc
@@ -112726,7 +112774,7 @@
     </product>
     <product code="mafia_c26_planter_dark">
         <name>
-            mafia_c26_planter_dark name
+            Plante du Manoir sombre
         </name>
         <description>
             mafia_c26_planter_dark desc
@@ -112734,7 +112782,7 @@
     </product>
     <product code="mafia_c26_planter_white">
         <name>
-            mafia_c26_planter_white name
+            Plante du manoir de lumière
         </name>
         <description>
             mafia_c26_planter_white desc
@@ -112742,7 +112790,7 @@
     </product>
     <product code="mafia_c26_polish">
         <name>
-            mafia_c26_polish name
+            Cire pour meubles
         </name>
         <description>
             mafia_c26_polish desc
@@ -112750,7 +112798,7 @@
     </product>
     <product code="mafia_c26_safe">
         <name>
-            mafia_c26_safe name
+            Mini-coffre-fort
         </name>
         <description>
             mafia_c26_safe desc
@@ -112758,7 +112806,7 @@
     </product>
     <product code="mafia_c26_sidetable_dark">
         <name>
-            mafia_c26_sidetable_dark name
+            Table d'appoint du Manoir sombre
         </name>
         <description>
             mafia_c26_sidetable_dark desc
@@ -112766,7 +112814,7 @@
     </product>
     <product code="mafia_c26_sidetable_white">
         <name>
-            mafia_c26_sidetable_white name
+            Table d'appoint du manoir de lumière
         </name>
         <description>
             mafia_c26_sidetable_white desc
@@ -112774,7 +112822,7 @@
     </product>
     <product code="mafia_c26_sofa_dark">
         <name>
-            mafia_c26_sofa_dark name
+            Canapé du Manoir sombre
         </name>
         <description>
             mafia_c26_sofa_dark desc
@@ -112782,7 +112830,7 @@
     </product>
     <product code="mafia_c26_sofa_white">
         <name>
-            mafia_c26_sofa_white name
+            Canapé du manoir de lumière
         </name>
         <description>
             mafia_c26_sofa_white desc
@@ -112790,7 +112838,7 @@
     </product>
     <product code="mafia_c26_tallwall_dark">
         <name>
-            mafia_c26_tallwall_dark name
+            Haute pièce murale du Manoir sombre
         </name>
         <description>
             mafia_c26_tallwall_dark desc
@@ -112798,7 +112846,7 @@
     </product>
     <product code="mafia_c26_tallwall_white">
         <name>
-            mafia_c26_tallwall_white name
+            Haute pièce murale du manoir de lumière
         </name>
         <description>
             mafia_c26_tallwall_white desc
@@ -112806,7 +112854,7 @@
     </product>
     <product code="mafia_c26_teleport_dark">
         <name>
-            mafia_c26_teleport_dark name
+            Téléporteur du Manoir sombre
         </name>
         <description>
             mafia_c26_teleport_dark desc
@@ -112814,7 +112862,7 @@
     </product>
     <product code="mafia_c26_teleport_white">
         <name>
-            mafia_c26_teleport_white name
+            Téléporteur du manoir de lumière
         </name>
         <description>
             mafia_c26_teleport_white desc
@@ -112822,7 +112870,7 @@
     </product>
     <product code="mafia_c26_vase_dark">
         <name>
-            mafia_c26_vase_dark name
+            Vase du Manoir sombre
         </name>
         <description>
             mafia_c26_vase_dark desc
@@ -112830,7 +112878,7 @@
     </product>
     <product code="mafia_c26_vase_white">
         <name>
-            mafia_c26_vase_white name
+            Vase du manoir de lumière
         </name>
         <description>
             mafia_c26_vase_white desc
@@ -112838,7 +112886,7 @@
     </product>
     <product code="mafia_c26_vintagechair">
         <name>
-            mafia_c26_vintagechair name
+            Grand fauteuil Vintage
         </name>
         <description>
             mafia_c26_vintagechair desc
@@ -112846,7 +112894,7 @@
     </product>
     <product code="mafia_c26_vintagedesk">
         <name>
-            mafia_c26_vintagedesk name
+            Grand bureau Vintage
         </name>
         <description>
             mafia_c26_vintagedesk desc
@@ -112854,7 +112902,7 @@
     </product>
     <product code="mafia_c26_wall_dark">
         <name>
-            mafia_c26_wall_dark name
+            Pièce murale du Manoir sombre
         </name>
         <description>
             mafia_c26_wall_dark desc
@@ -112862,7 +112910,7 @@
     </product>
     <product code="mafia_c26_wall_white">
         <name>
-            mafia_c26_wall_white name
+            Pièce murale du manoir de lumière
         </name>
         <description>
             mafia_c26_wall_white desc
@@ -112870,7 +112918,7 @@
     </product>
     <product code="mafia_c26_walllamp_dark">
         <name>
-            mafia_c26_walllamp_dark name
+            Lampe murale du Manoir sombre
         </name>
         <description>
             mafia_c26_walllamp_dark desc
@@ -112878,7 +112926,7 @@
     </product>
     <product code="mafia_c26_walllamp_white">
         <name>
-            mafia_c26_walllamp_white name
+            Lampe murale du manoir de lumière
         </name>
         <description>
             mafia_c26_walllamp_white desc
@@ -112886,7 +112934,7 @@
     </product>
     <product code="mafia_c26_wallsafe">
         <name>
-            mafia_c26_wallsafe name
+            Coffre-fort sécurisé
         </name>
         <description>
             mafia_c26_wallsafe desc
@@ -112894,7 +112942,7 @@
     </product>
     <product code="mafia_c26_window_dark">
         <name>
-            mafia_c26_window_dark name
+            Fenêtre du Manoir sombre
         </name>
         <description>
             mafia_c26_window_dark desc
@@ -112902,23 +112950,35 @@
     </product>
     <product code="mafia_c26_window_white">
         <name>
-            mafia_c26_window_white name
+            Fenêtre du manoir de lumière
         </name>
         <description>
             mafia_c26_window_white desc
         </description>
     </product>
+    <product code="mafia_r26_globe_bd">
+        <name>
+            Globe doré
+        </name>
+        <description></description>
+    </product>
     <product code="mafia_r26_globe">
         <name>
-            mafia_r26_globe name
+            Globe doré
         </name>
         <description>
             mafia_r26_globe desc
         </description>
     </product>
+    <product code="mafia_r26_moneytile_bd">
+        <name>
+            Dalle Pluie d'argent
+        </name>
+        <description></description>
+    </product>
     <product code="mafia_r26_moneytile">
         <name>
-            mafia_r26_moneytile name
+            Dalle Pluie d'argent
         </name>
         <description>
             mafia_r26_moneytile desc
@@ -127992,7 +128052,7 @@
     </product>
     <product code="nft_h26_cardchair">
         <name>
-            nft_h26_cardchair name
+            Fauteuil de jeux
         </name>
         <description>
             nft_h26_cardchair desc
@@ -128000,7 +128060,7 @@
     </product>
     <product code="nft_h26_cardtable">
         <name>
-            nft_h26_cardtable name
+            Table de jeux
         </name>
         <description>
             nft_h26_cardtable desc
@@ -128008,7 +128068,7 @@
     </product>
     <product code="nft_h26_contraband">
         <name>
-            nft_h26_contraband name
+            Valise de contrebande
         </name>
         <description>
             nft_h26_contraband desc
@@ -128016,7 +128076,7 @@
     </product>
     <product code="nft_h26_crates">
         <name>
-            nft_h26_crates name
+            Caisses suspectes
         </name>
         <description>
             nft_h26_crates desc
@@ -128304,7 +128364,7 @@
     </product>
     <product code="nft_h26_rifle_bronze">
         <name>
-            nft_h26_rifle_bronze name
+            Carabine décorative bronze
         </name>
         <description>
             nft_h26_rifle_bronze desc
@@ -128312,7 +128372,7 @@
     </product>
     <product code="nft_h26_rifle_gold">
         <name>
-            nft_h26_rifle_gold name
+            Carabine décorative or
         </name>
         <description>
             nft_h26_rifle_gold desc
@@ -128320,7 +128380,7 @@
     </product>
     <product code="nft_h26_rifle_silver">
         <name>
-            nft_h26_rifle_silver name
+            Carabine décorative argent
         </name>
         <description>
             nft_h26_rifle_silver desc
@@ -128328,7 +128388,7 @@
     </product>
     <product code="nft_h26_rifle_trippy">
         <name>
-            nft_h26_rifle_trippy name
+            Carabine décorative trippy
         </name>
         <description>
             nft_h26_rifle_trippy desc
@@ -130534,7 +130594,7 @@
     </product>
     <product code="nft_sc_bodybag">
         <name>
-            nft_sc_bodybag name
+            Sac qui a étrangement la forme d'un Habbo
         </name>
         <description>
             nft_sc_bodybag desc
@@ -130582,7 +130642,7 @@
     </product>
     <product code="nft_sc_habbfather">
         <name>
-            nft_sc_habbfather name
+            Portrait du Habbfather
         </name>
         <description>
             nft_sc_habbfather desc
@@ -130590,7 +130650,7 @@
     </product>
     <product code="nft_sc_horsehead">
         <name>
-            nft_sc_horsehead name
+            Oreiller tête de cheval
         </name>
         <description>
             nft_sc_horsehead desc
@@ -130598,7 +130658,7 @@
     </product>
     <product code="nft_sc_knife">
         <name>
-            nft_sc_knife name
+            Poignard
         </name>
         <description>
             nft_sc_knife desc
@@ -130606,7 +130666,7 @@
     </product>
     <product code="nft_sc_moneybag">
         <name>
-            nft_sc_moneybag name
+            Sac à argent fantaisiste
         </name>
         <description>
             nft_sc_moneybag desc
@@ -164653,7 +164713,7 @@ Badge exclusif inclus
     </product>
     <product code="sc_bodybag">
         <name>
-            sc_bodybag name
+            Sac qui a étrangement la forme d'un Habbo
         </name>
         <description>
             sc_bodybag desc
@@ -164693,7 +164753,7 @@ Badge exclusif inclus
     </product>
     <product code="sc_horsehead">
         <name>
-            sc_horsehead name
+            Oreiller tête de cheval
         </name>
         <description>
             sc_horsehead desc
@@ -164701,7 +164761,7 @@ Badge exclusif inclus
     </product>
     <product code="sc_knife">
         <name>
-            sc_knife name
+            Poignard
         </name>
         <description>
             sc_knife desc
@@ -164709,7 +164769,7 @@ Badge exclusif inclus
     </product>
     <product code="sc_moneybag">
         <name>
-            sc_moneybag name
+            Sac à argent fantaisiste
         </name>
         <description>
             sc_moneybag desc

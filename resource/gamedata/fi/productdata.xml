@@ -49997,6 +49997,12 @@
         </name>
         <description></description>
     </product>
+    <product code="chatstyle_money">
+        <name>
+            Rahapuhekupla
+        </name>
+        <description></description>
+    </product>
     <product code="chess_b_bishop">
         <name>
             Musta lähetti
@@ -51495,9 +51501,21 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_dia_ducketcollar">
+        <name>
+            Merimieskaulus
+        </name>
+        <description></description>
+    </product>
     <product code="cl_dia_duckethoneyshirt">
         <name>
             Hunajainen t-paita
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_dia_ducketsailorcap">
+        <name>
+            Tyylikäs merimieslakki
         </name>
         <description></description>
     </product>
@@ -51717,6 +51735,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_r26_goldwatch_bd">
+        <name>
+            24 karaatin kultakello
+        </name>
+        <description></description>
+    </product>
     <product code="cl_r26_iridescentcoat_bd">
         <name>
             Kimalteleva sadetakki
@@ -51780,6 +51804,12 @@
     <product code="cl_r26_robotcompanion_bd">
         <name>
             Robottikaveri
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_scarface_bd">
+        <name>
+            Arpinaama
         </name>
         <description></description>
     </product>
@@ -56407,7 +56437,7 @@
     </product>
     <product code="clothing_ducketsailorcap">
         <name>
-            clothing_ducketsailorcap name
+            Tyylikäs merimieslakki
         </name>
         <description>
             clothing_ducketsailorcap desc
@@ -56415,7 +56445,7 @@
     </product>
     <product code="clothing_ducketsailorcollar">
         <name>
-            clothing_ducketsailorcollar name
+            Merimieskaulus
         </name>
         <description>
             clothing_ducketsailorcollar desc
@@ -56835,7 +56865,7 @@
     </product>
     <product code="clothing_femmefataledress">
         <name>
-            clothing_femmefataledress name
+            Viehättävä mekko
         </name>
         <description>
             clothing_femmefataledress desc
@@ -56843,7 +56873,7 @@
     </product>
     <product code="clothing_femmefatalehair">
         <name>
-            clothing_femmefatalehair name
+            Viehättävät laineikkaat hiukset
         </name>
         <description>
             clothing_femmefatalehair desc
@@ -59017,7 +59047,7 @@
     </product>
     <product code="clothing_mafiacane">
         <name>
-            clothing_mafiacane name
+            Ankkapäinen kävelykeppi
         </name>
         <description>
             clothing_mafiacane desc
@@ -59025,7 +59055,7 @@
     </product>
     <product code="clothing_mafiarose">
         <name>
-            clothing_mafiarose name
+            Ruusuviehe
         </name>
         <description>
             clothing_mafiarose desc
@@ -59033,7 +59063,7 @@
     </product>
     <product code="clothing_mafiascarf">
         <name>
-            clothing_mafiascarf name
+            Tyylikäs huivi
         </name>
         <description>
             clothing_mafiascarf desc
@@ -59041,7 +59071,7 @@
     </product>
     <product code="clothing_mafiasuit">
         <name>
-            clothing_mafiasuit name
+            Ylellinen puku
         </name>
         <description>
             clothing_mafiasuit desc
@@ -61061,7 +61091,7 @@
     </product>
     <product code="clothing_nftgoldgrills">
         <name>
-            clothing_nftgoldgrills name
+            Kultaiset grillit
         </name>
         <description>
             clothing_nftgoldgrills desc
@@ -61757,7 +61787,7 @@
     </product>
     <product code="clothing_nftmouthtape">
         <name>
-            clothing_nftmouthtape name
+            Teipattu suu
         </name>
         <description>
             clothing_nftmouthtape desc
@@ -61829,7 +61859,7 @@
     </product>
     <product code="clothing_nftnewsboycap">
         <name>
-            clothing_nftnewsboycap name
+            Klassinen lehdenjakajalippis
         </name>
         <description>
             clothing_nftnewsboycap desc
@@ -63107,7 +63137,7 @@
     </product>
     <product code="clothing_nftsuspenders">
         <name>
-            clothing_nftsuspenders name
+            Tyylikkäät henkselit
         </name>
         <description>
             clothing_nftsuspenders desc
@@ -68695,7 +68725,7 @@
     </product>
     <product code="clothing_r26_goldwatch">
         <name>
-            clothing_r26_goldwatch name
+            24 karaatin kultakello
         </name>
         <description>
             clothing_r26_goldwatch desc
@@ -68791,7 +68821,7 @@
     </product>
     <product code="clothing_r26_scarface">
         <name>
-            clothing_r26_scarface name
+            Arpinaama
         </name>
         <description>
             clothing_r26_scarface desc
@@ -70061,7 +70091,7 @@
     </product>
     <product code="clothing_susglasses">
         <name>
-            clothing_susglasses name
+            Pimentävät aurinkolasit
         </name>
         <description>
             clothing_susglasses desc
@@ -70093,11 +70123,17 @@
     </product>
     <product code="clothing_tattoobody2">
         <name>
-            clothing_tattoobody2 name
+            Tatuoitu vartalo
         </name>
         <description>
             clothing_tattoobody2 desc
         </description>
+    </product>
+    <product code="clothing_tattoobody_bd">
+        <name>
+            Tatuoitu vartalo
+        </name>
+        <description></description>
     </product>
     <product code="clothing_tattoobody">
         <name>
@@ -70109,7 +70145,7 @@
     </product>
     <product code="clothing_tattoohead">
         <name>
-            clothing_tattoohead name
+            Tatuoitu päänahka
         </name>
         <description>
             clothing_tattoohead desc
@@ -70321,7 +70357,7 @@
     </product>
     <product code="clothing_toastfriend">
         <name>
-            clothing_toastfriend name
+            Pikku paahtoleipäkaveri
         </name>
         <description>
             clothing_toastfriend desc
@@ -82567,7 +82603,7 @@
     </product>
     <product code="ducket_c26_puffin">
         <name>
-            ducket_c26_puffin name
+            Lunnipehmolelu
         </name>
         <description>
             ducket_c26_puffin desc
@@ -82575,7 +82611,7 @@
     </product>
     <product code="ducket_c26_sailboat">
         <name>
-            ducket_c26_sailboat name
+            Leikkipurjevene
         </name>
         <description>
             ducket_c26_sailboat desc
@@ -82702,6 +82738,18 @@
     <product code="ducket_dia_nauticalpillow">
         <name>
             Ruori-koristetyyny
+        </name>
+        <description></description>
+    </product>
+    <product code="ducket_dia_puffin">
+        <name>
+            Lunnipehmolelu
+        </name>
+        <description></description>
+    </product>
+    <product code="ducket_dia_sailboat">
+        <name>
+            Leikkipurjevene
         </name>
         <description></description>
     </product>
@@ -93257,7 +93305,7 @@
     </product>
     <product code="giftbox_c25_crackable6">
         <name>
-            giftbox_c25_crackable6 name
+            Elokuun 2026 lahjapakkaus
         </name>
         <description>
             giftbox_c25_crackable6 desc
@@ -115331,7 +115379,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_armchair_dark">
         <name>
-            mafia_c26_armchair_dark name
+            Synkän kartanon nojatuoli
         </name>
         <description>
             mafia_c26_armchair_dark desc
@@ -115339,7 +115387,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_armchair_white">
         <name>
-            mafia_c26_armchair_white name
+            Vaalean kartanon nojatuoli
         </name>
         <description>
             mafia_c26_armchair_white desc
@@ -115347,7 +115395,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_bed_dark">
         <name>
-            mafia_c26_bed_dark name
+            Synkän kartanon sänky
         </name>
         <description>
             mafia_c26_bed_dark desc
@@ -115355,7 +115403,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_bed_white">
         <name>
-            mafia_c26_bed_white name
+            Vaalean kartanon parisänky
         </name>
         <description>
             mafia_c26_bed_white desc
@@ -115363,7 +115411,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_car">
         <name>
-            mafia_c26_car name
+            Klassinen pakoauto
         </name>
         <description>
             mafia_c26_car desc
@@ -115371,7 +115419,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_cash">
         <name>
-            mafia_c26_cash name
+            Setelinippu
         </name>
         <description>
             mafia_c26_cash desc
@@ -115379,7 +115427,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_coffeetable_dark">
         <name>
-            mafia_c26_coffeetable_dark name
+            Synkän kartanon kahvipöytä
         </name>
         <description>
             mafia_c26_coffeetable_dark desc
@@ -115387,7 +115435,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_coffeetable_white">
         <name>
-            mafia_c26_coffeetable_white name
+            Vaalean kartanon kahvipöytä
         </name>
         <description>
             mafia_c26_coffeetable_white desc
@@ -115395,7 +115443,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_designer">
         <name>
-            mafia_c26_designer name
+            Sisustustehtailupöytä
         </name>
         <description>
             mafia_c26_designer desc
@@ -115403,7 +115451,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_divider_dark">
         <name>
-            mafia_c26_divider_dark name
+            Synkän kartanon tilanjakaja
         </name>
         <description>
             mafia_c26_divider_dark desc
@@ -115411,7 +115459,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_divider_white">
         <name>
-            mafia_c26_divider_white name
+            Vaalean kartanon tilanjakaja
         </name>
         <description>
             mafia_c26_divider_white desc
@@ -115419,7 +115467,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_drinkcabinet">
         <name>
-            mafia_c26_drinkcabinet name
+            Kartanon drinkkikaappi
         </name>
         <description>
             mafia_c26_drinkcabinet desc
@@ -115427,7 +115475,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_drinktray">
         <name>
-            mafia_c26_drinktray name
+            Klassinen drinkkitarjotin
         </name>
         <description>
             mafia_c26_drinktray desc
@@ -115435,7 +115483,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_firepit_dark">
         <name>
-            mafia_c26_firepit_dark name
+            Synkän kartanon tulisija
         </name>
         <description>
             mafia_c26_firepit_dark desc
@@ -115443,7 +115491,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_firepit_white">
         <name>
-            mafia_c26_firepit_white name
+            Vaalean kartanon tulisija
         </name>
         <description>
             mafia_c26_firepit_white desc
@@ -115451,7 +115499,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_fish">
         <name>
-            mafia_c26_fish name
+            Nukkumassa kalojen kanssa
         </name>
         <description>
             mafia_c26_fish desc
@@ -115459,7 +115507,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_goldleaf">
         <name>
-            mafia_c26_goldleaf name
+            Lehtikulta
         </name>
         <description>
             mafia_c26_goldleaf desc
@@ -115467,7 +115515,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_guarddog">
         <name>
-            mafia_c26_guarddog name
+            Valpas vahtikoira
         </name>
         <description>
             mafia_c26_guarddog desc
@@ -115475,7 +115523,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_gunrack">
         <name>
-            mafia_c26_gunrack name
+            Kätevä pistooliteline
         </name>
         <description>
             mafia_c26_gunrack desc
@@ -115483,7 +115531,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_jacuzzi_dark">
         <name>
-            mafia_c26_jacuzzi_dark name
+            Synkän kartanon poreallas
         </name>
         <description>
             mafia_c26_jacuzzi_dark desc
@@ -115491,7 +115539,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_jacuzzi_white">
         <name>
-            mafia_c26_jacuzzi_white name
+            Vaalean kartanon poreallas
         </name>
         <description>
             mafia_c26_jacuzzi_white desc
@@ -115499,7 +115547,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_kit">
         <name>
-            mafia_c26_kit name
+            Verhoilusetti
         </name>
         <description>
             mafia_c26_kit desc
@@ -115507,7 +115555,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_ledger">
         <name>
-            mafia_c26_ledger name
+            Tärkeät tilikirjat
         </name>
         <description>
             mafia_c26_ledger desc
@@ -115515,7 +115563,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_magazines">
         <name>
-            mafia_c26_magazines name
+            Sisustuslehdet
         </name>
         <description>
             mafia_c26_magazines desc
@@ -115523,7 +115571,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_magazinesb">
         <name>
-            mafia_c26_magazinesb name
+            Sisustuslehdet
         </name>
         <description>
             mafia_c26_magazinesb desc
@@ -115531,7 +115579,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_paint">
         <name>
-            mafia_c26_paint name
+            Huonekalumaali
         </name>
         <description>
             mafia_c26_paint desc
@@ -115539,7 +115587,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_pasta">
         <name>
-            mafia_c26_pasta name
+            Spagettia ja lihapullia
         </name>
         <description>
             mafia_c26_pasta desc
@@ -115547,7 +115595,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_planter_dark">
         <name>
-            mafia_c26_planter_dark name
+            Synkän kartanon istutusruukku
         </name>
         <description>
             mafia_c26_planter_dark desc
@@ -115555,7 +115603,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_planter_white">
         <name>
-            mafia_c26_planter_white name
+            Vaalean kartanon istutusruukku
         </name>
         <description>
             mafia_c26_planter_white desc
@@ -115563,7 +115611,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_polish">
         <name>
-            mafia_c26_polish name
+            Huonekaluvaha
         </name>
         <description>
             mafia_c26_polish desc
@@ -115571,7 +115619,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_safe">
         <name>
-            mafia_c26_safe name
+            Minikassakaappi
         </name>
         <description>
             mafia_c26_safe desc
@@ -115579,7 +115627,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_sidetable_dark">
         <name>
-            mafia_c26_sidetable_dark name
+            Synkän kartanon sivupöytä
         </name>
         <description>
             mafia_c26_sidetable_dark desc
@@ -115587,7 +115635,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_sidetable_white">
         <name>
-            mafia_c26_sidetable_white name
+            Vaalean kartanon sivupöytä
         </name>
         <description>
             mafia_c26_sidetable_white desc
@@ -115595,7 +115643,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_sofa_dark">
         <name>
-            mafia_c26_sofa_dark name
+            Synkän kartanon sohva
         </name>
         <description>
             mafia_c26_sofa_dark desc
@@ -115603,7 +115651,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_sofa_white">
         <name>
-            mafia_c26_sofa_white name
+            Vaalean kartanon sohva
         </name>
         <description>
             mafia_c26_sofa_white desc
@@ -115611,7 +115659,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_tallwall_dark">
         <name>
-            mafia_c26_tallwall_dark name
+            Synkän kartanon korkea seinäelementti
         </name>
         <description>
             mafia_c26_tallwall_dark desc
@@ -115619,7 +115667,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_tallwall_white">
         <name>
-            mafia_c26_tallwall_white name
+            Vaalean kartanon korkea seinäelementti
         </name>
         <description>
             mafia_c26_tallwall_white desc
@@ -115627,7 +115675,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_teleport_dark">
         <name>
-            mafia_c26_teleport_dark name
+            Synkän kartanon teleportti
         </name>
         <description>
             mafia_c26_teleport_dark desc
@@ -115635,7 +115683,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_teleport_white">
         <name>
-            mafia_c26_teleport_white name
+            Vaalean kartanon teleportti
         </name>
         <description>
             mafia_c26_teleport_white desc
@@ -115643,7 +115691,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_vase_dark">
         <name>
-            mafia_c26_vase_dark name
+            Synkän kartanon maljakko
         </name>
         <description>
             mafia_c26_vase_dark desc
@@ -115651,7 +115699,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_vase_white">
         <name>
-            mafia_c26_vase_white name
+            Vaalean kartanon maljakko
         </name>
         <description>
             mafia_c26_vase_white desc
@@ -115659,7 +115707,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_vintagechair">
         <name>
-            mafia_c26_vintagechair name
+            Upea vintage-tuoli
         </name>
         <description>
             mafia_c26_vintagechair desc
@@ -115667,7 +115715,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_vintagedesk">
         <name>
-            mafia_c26_vintagedesk name
+            Upea vintage-pöytä
         </name>
         <description>
             mafia_c26_vintagedesk desc
@@ -115675,7 +115723,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_wall_dark">
         <name>
-            mafia_c26_wall_dark name
+            Synkän kartanon seinäelementti
         </name>
         <description>
             mafia_c26_wall_dark desc
@@ -115683,7 +115731,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_wall_white">
         <name>
-            mafia_c26_wall_white name
+            Vaalean kartanon seinäelementti
         </name>
         <description>
             mafia_c26_wall_white desc
@@ -115691,7 +115739,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_walllamp_dark">
         <name>
-            mafia_c26_walllamp_dark name
+            Synkän kartanon seinälamppu
         </name>
         <description>
             mafia_c26_walllamp_dark desc
@@ -115699,7 +115747,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_walllamp_white">
         <name>
-            mafia_c26_walllamp_white name
+            Vaalean kartanon seinälamppu
         </name>
         <description>
             mafia_c26_walllamp_white desc
@@ -115707,7 +115755,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_wallsafe">
         <name>
-            mafia_c26_wallsafe name
+            Turvallinen kassakaappi
         </name>
         <description>
             mafia_c26_wallsafe desc
@@ -115715,7 +115763,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_window_dark">
         <name>
-            mafia_c26_window_dark name
+            Synkän kartanon ikkuna
         </name>
         <description>
             mafia_c26_window_dark desc
@@ -115723,23 +115771,35 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="mafia_c26_window_white">
         <name>
-            mafia_c26_window_white name
+            Vaalean kartanon ikkuna
         </name>
         <description>
             mafia_c26_window_white desc
         </description>
     </product>
+    <product code="mafia_r26_globe_bd">
+        <name>
+            Kullattu karttapallo
+        </name>
+        <description></description>
+    </product>
     <product code="mafia_r26_globe">
         <name>
-            mafia_r26_globe name
+            Kullattu karttapallo
         </name>
         <description>
             mafia_r26_globe desc
         </description>
     </product>
+    <product code="mafia_r26_moneytile_bd">
+        <name>
+            Rahasadelaatta
+        </name>
+        <description></description>
+    </product>
     <product code="mafia_r26_moneytile">
         <name>
-            mafia_r26_moneytile name
+            Rahasadelaatta
         </name>
         <description>
             mafia_r26_moneytile desc
@@ -130963,7 +131023,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_cardchair">
         <name>
-            nft_h26_cardchair name
+            Pelituoli
         </name>
         <description>
             nft_h26_cardchair desc
@@ -130971,7 +131031,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_cardtable">
         <name>
-            nft_h26_cardtable name
+            Pelipöytä
         </name>
         <description>
             nft_h26_cardtable desc
@@ -130979,7 +131039,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_contraband">
         <name>
-            nft_h26_contraband name
+            Salakuljetussalkku
         </name>
         <description>
             nft_h26_contraband desc
@@ -130987,7 +131047,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_crates">
         <name>
-            nft_h26_crates name
+            Epäilyttävät kuljetuslaatikot
         </name>
         <description>
             nft_h26_crates desc
@@ -131275,7 +131335,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_rifle_bronze">
         <name>
-            nft_h26_rifle_bronze name
+            Pronssinen koristekivääri
         </name>
         <description>
             nft_h26_rifle_bronze desc
@@ -131283,7 +131343,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_rifle_gold">
         <name>
-            nft_h26_rifle_gold name
+            Kultainen koristekivääri
         </name>
         <description>
             nft_h26_rifle_gold desc
@@ -131291,7 +131351,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_rifle_silver">
         <name>
-            nft_h26_rifle_silver name
+            Hopea koristekivääri
         </name>
         <description>
             nft_h26_rifle_silver desc
@@ -131299,7 +131359,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_rifle_trippy">
         <name>
-            nft_h26_rifle_trippy name
+            Spykedeelinen koristekivääri
         </name>
         <description>
             nft_h26_rifle_trippy desc
@@ -133505,7 +133565,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_sc_bodybag">
         <name>
-            nft_sc_bodybag name
+            Epäilyttävän Habbo-muotoinen laukku
         </name>
         <description>
             nft_sc_bodybag desc
@@ -133553,7 +133613,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_sc_habbfather">
         <name>
-            nft_sc_habbfather name
+            Habbosedän muotokuva
         </name>
         <description>
             nft_sc_habbfather desc
@@ -133561,7 +133621,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_sc_horsehead">
         <name>
-            nft_sc_horsehead name
+            Hevosenpäätyyny
         </name>
         <description>
             nft_sc_horsehead desc
@@ -133569,7 +133629,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_sc_knife">
         <name>
-            nft_sc_knife name
+            Tökkimisveitsi
         </name>
         <description>
             nft_sc_knife desc
@@ -133577,7 +133637,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_sc_moneybag">
         <name>
-            nft_sc_moneybag name
+            Leikkisä rahasäkki
         </name>
         <description>
             nft_sc_moneybag desc
@@ -167685,7 +167745,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="sc_bodybag">
         <name>
-            sc_bodybag name
+            Epäilyttävän Habbo-muotoinen laukku
         </name>
         <description>
             sc_bodybag desc
@@ -167725,7 +167785,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="sc_horsehead">
         <name>
-            sc_horsehead name
+            Hevosenpäätyyny
         </name>
         <description>
             sc_horsehead desc
@@ -167733,7 +167793,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="sc_knife">
         <name>
-            sc_knife name
+            Tökkimisveitsi
         </name>
         <description>
             sc_knife desc
@@ -167741,7 +167801,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="sc_moneybag">
         <name>
-            sc_moneybag name
+            Leikkisä rahasäkki
         </name>
         <description>
             sc_moneybag desc

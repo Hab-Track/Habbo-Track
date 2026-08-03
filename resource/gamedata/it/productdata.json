@@ -31672,6 +31672,11 @@
         "description": ""
       },
       {
+        "code": "chatstyle_money",
+        "name": "Fumetto Chat Denaro Contante",
+        "description": ""
+      },
+      {
         "code": "chess_b_bishop",
         "name": "Alfiere Nero",
         "description": "chess_b_bishop desc"
@@ -32657,8 +32662,18 @@
         "description": ""
       },
       {
+        "code": "cl_dia_ducketcollar",
+        "name": "Colletto alla Marinara",
+        "description": ""
+      },
+      {
         "code": "cl_dia_duckethoneyshirt",
         "name": "Maglietta con Macchie di Miele",
+        "description": ""
+      },
+      {
+        "code": "cl_dia_ducketsailorcap",
+        "name": "Berretto Marinaio Elegante",
         "description": ""
       },
       {
@@ -32842,6 +32857,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_goldwatch_bd",
+        "name": "Orologio in Oro 24k",
+        "description": ""
+      },
+      {
         "code": "cl_r26_iridescentcoat_bd",
         "name": "Impermeabile Iridescente",
         "description": ""
@@ -32894,6 +32914,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Compagno Robot",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_scarface_bd",
+        "name": "Volto Sfregiato",
         "description": ""
       },
       {
@@ -35838,12 +35863,12 @@
       },
       {
         "code": "clothing_ducketsailorcap",
-        "name": "clothing_ducketsailorcap name",
+        "name": "Berretto Marinaio Elegante",
         "description": "clothing_ducketsailorcap desc"
       },
       {
         "code": "clothing_ducketsailorcollar",
-        "name": "clothing_ducketsailorcollar name",
+        "name": "Colletto alla Marinara",
         "description": "clothing_ducketsailorcollar desc"
       },
       {
@@ -36108,12 +36133,12 @@
       },
       {
         "code": "clothing_femmefataledress",
-        "name": "clothing_femmefataledress name",
+        "name": "Vestito Femme Fatale",
         "description": "clothing_femmefataledress desc"
       },
       {
         "code": "clothing_femmefatalehair",
-        "name": "clothing_femmefatalehair name",
+        "name": "Onde Femme Fatale",
         "description": "clothing_femmefatalehair desc"
       },
       {
@@ -37488,22 +37513,22 @@
       },
       {
         "code": "clothing_mafiacane",
-        "name": "clothing_mafiacane name",
+        "name": "Bastone con Pomolo Anatraccolo",
         "description": "clothing_mafiacane desc"
       },
       {
         "code": "clothing_mafiarose",
-        "name": "clothing_mafiarose name",
+        "name": "Rosa all'Occhiello",
         "description": "clothing_mafiarose desc"
       },
       {
         "code": "clothing_mafiascarf",
-        "name": "clothing_mafiascarf name",
+        "name": "Sciarpa di Stile",
         "description": "clothing_mafiascarf desc"
       },
       {
         "code": "clothing_mafiasuit",
-        "name": "clothing_mafiasuit name",
+        "name": "Abito Abbiente",
         "description": "clothing_mafiasuit desc"
       },
       {
@@ -38773,7 +38798,7 @@
       },
       {
         "code": "clothing_nftgoldgrills",
-        "name": "clothing_nftgoldgrills name",
+        "name": "Denti Dorati",
         "description": "clothing_nftgoldgrills desc"
       },
       {
@@ -39213,7 +39238,7 @@
       },
       {
         "code": "clothing_nftmouthtape",
-        "name": "clothing_nftmouthtape name",
+        "name": "Bocca Tappata",
         "description": "clothing_nftmouthtape desc"
       },
       {
@@ -39258,7 +39283,7 @@
       },
       {
         "code": "clothing_nftnewsboycap",
-        "name": "clothing_nftnewsboycap name",
+        "name": "Coppola da Giornalaio Classica",
         "description": "clothing_nftnewsboycap desc"
       },
       {
@@ -40058,7 +40083,7 @@
       },
       {
         "code": "clothing_nftsuspenders",
-        "name": "clothing_nftsuspenders name",
+        "name": "Bretelle Stilose",
         "description": "clothing_nftsuspenders desc"
       },
       {
@@ -43798,7 +43823,7 @@
       },
       {
         "code": "clothing_r26_goldwatch",
-        "name": "clothing_r26_goldwatch name",
+        "name": "Orologio in Oro 24k",
         "description": "clothing_r26_goldwatch desc"
       },
       {
@@ -43858,7 +43883,7 @@
       },
       {
         "code": "clothing_r26_scarface",
-        "name": "clothing_r26_scarface name",
+        "name": "Volto Sfregiato",
         "description": "clothing_r26_scarface desc"
       },
       {
@@ -44663,7 +44688,7 @@
       },
       {
         "code": "clothing_susglasses",
-        "name": "clothing_susglasses name",
+        "name": "Occhiali da Sole Blackout",
         "description": "clothing_susglasses desc"
       },
       {
@@ -44683,8 +44708,13 @@
       },
       {
         "code": "clothing_tattoobody2",
-        "name": "clothing_tattoobody2 name",
+        "name": "Corpo Tatuato",
         "description": "clothing_tattoobody2 desc"
+      },
+      {
+        "code": "clothing_tattoobody_bd",
+        "name": "Corpo Tatuato",
+        "description": ""
       },
       {
         "code": "clothing_tattoobody",
@@ -44693,7 +44723,7 @@
       },
       {
         "code": "clothing_tattoohead",
-        "name": "clothing_tattoohead name",
+        "name": "Capo Tatuato",
         "description": "clothing_tattoohead desc"
       },
       {
@@ -44828,7 +44858,7 @@
       },
       {
         "code": "clothing_toastfriend",
-        "name": "clothing_toastfriend name",
+        "name": "Compagno Piccolo Toast",
         "description": "clothing_toastfriend desc"
       },
       {
@@ -53423,12 +53453,12 @@
       },
       {
         "code": "ducket_c26_puffin",
-        "name": "ducket_c26_puffin name",
+        "name": "Puffin Peluche",
         "description": "ducket_c26_puffin desc"
       },
       {
         "code": "ducket_c26_sailboat",
-        "name": "ducket_c26_sailboat name",
+        "name": "Barca a Vela Giocattolo",
         "description": "ducket_c26_sailboat desc"
       },
       {
@@ -53524,6 +53554,16 @@
       {
         "code": "ducket_dia_nauticalpillow",
         "name": "Cuscino",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_puffin",
+        "name": "Puffin Peluche",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_sailboat",
+        "name": "Barca a Vela Giocattolo",
         "description": ""
       },
       {
@@ -60383,7 +60423,7 @@
       },
       {
         "code": "giftbox_c25_crackable6",
-        "name": "giftbox_c25_crackable6 name",
+        "name": "Scatola Regalo Agosto 2026",
         "description": "giftbox_c25_crackable6 desc"
       },
       {
@@ -74678,262 +74718,272 @@
       },
       {
         "code": "mafia_c26_armchair_dark",
-        "name": "mafia_c26_armchair_dark name",
+        "name": "Poltrona Villa Oscura",
         "description": "mafia_c26_armchair_dark desc"
       },
       {
         "code": "mafia_c26_armchair_white",
-        "name": "mafia_c26_armchair_white name",
+        "name": "Poltrona Villa Chiara",
         "description": "mafia_c26_armchair_white desc"
       },
       {
         "code": "mafia_c26_bed_dark",
-        "name": "mafia_c26_bed_dark name",
+        "name": "Letto Villa Oscura",
         "description": "mafia_c26_bed_dark desc"
       },
       {
         "code": "mafia_c26_bed_white",
-        "name": "mafia_c26_bed_white name",
+        "name": "Letto Matrimoniale Villa Chiara",
         "description": "mafia_c26_bed_white desc"
       },
       {
         "code": "mafia_c26_car",
-        "name": "mafia_c26_car name",
+        "name": "Macchina da Fuga Classica",
         "description": "mafia_c26_car desc"
       },
       {
         "code": "mafia_c26_cash",
-        "name": "mafia_c26_cash name",
+        "name": "Mazzo di Contanti",
         "description": "mafia_c26_cash desc"
       },
       {
         "code": "mafia_c26_coffeetable_dark",
-        "name": "mafia_c26_coffeetable_dark name",
+        "name": "Tavolino da Caffè Villa Oscura",
         "description": "mafia_c26_coffeetable_dark desc"
       },
       {
         "code": "mafia_c26_coffeetable_white",
-        "name": "mafia_c26_coffeetable_white name",
+        "name": "Tavolino da Caffè Villa Chiara",
         "description": "mafia_c26_coffeetable_white desc"
       },
       {
         "code": "mafia_c26_designer",
-        "name": "mafia_c26_designer name",
+        "name": "Tavolo del Crafting Interior Designer",
         "description": "mafia_c26_designer desc"
       },
       {
         "code": "mafia_c26_divider_dark",
-        "name": "mafia_c26_divider_dark name",
+        "name": "Divisore Villa Oscura",
         "description": "mafia_c26_divider_dark desc"
       },
       {
         "code": "mafia_c26_divider_white",
-        "name": "mafia_c26_divider_white name",
+        "name": "Divisore Villa Chiara",
         "description": "mafia_c26_divider_white desc"
       },
       {
         "code": "mafia_c26_drinkcabinet",
-        "name": "mafia_c26_drinkcabinet name",
+        "name": "Mobile Bar della Villa",
         "description": "mafia_c26_drinkcabinet desc"
       },
       {
         "code": "mafia_c26_drinktray",
-        "name": "mafia_c26_drinktray name",
+        "name": "Vassoio per Bevande Elegante",
         "description": "mafia_c26_drinktray desc"
       },
       {
         "code": "mafia_c26_firepit_dark",
-        "name": "mafia_c26_firepit_dark name",
+        "name": "Bracere Villa Oscura",
         "description": "mafia_c26_firepit_dark desc"
       },
       {
         "code": "mafia_c26_firepit_white",
-        "name": "mafia_c26_firepit_white name",
+        "name": "Bracere Villa Chiara",
         "description": "mafia_c26_firepit_white desc"
       },
       {
         "code": "mafia_c26_fish",
-        "name": "mafia_c26_fish name",
+        "name": "Dormire con i Pesci",
         "description": "mafia_c26_fish desc"
       },
       {
         "code": "mafia_c26_goldleaf",
-        "name": "mafia_c26_goldleaf name",
+        "name": "Foglia d'Oro",
         "description": "mafia_c26_goldleaf desc"
       },
       {
         "code": "mafia_c26_guarddog",
-        "name": "mafia_c26_guarddog name",
+        "name": "Cane da Guardia Vigilante",
         "description": "mafia_c26_guarddog desc"
       },
       {
         "code": "mafia_c26_gunrack",
-        "name": "mafia_c26_gunrack name",
+        "name": "Rastrelliera per Pistole Pratica",
         "description": "mafia_c26_gunrack desc"
       },
       {
         "code": "mafia_c26_jacuzzi_dark",
-        "name": "mafia_c26_jacuzzi_dark name",
+        "name": "Jacuzzi Villa Oscura",
         "description": "mafia_c26_jacuzzi_dark desc"
       },
       {
         "code": "mafia_c26_jacuzzi_white",
-        "name": "mafia_c26_jacuzzi_white name",
+        "name": "Jacuzzi Villa Chiara",
         "description": "mafia_c26_jacuzzi_white desc"
       },
       {
         "code": "mafia_c26_kit",
-        "name": "mafia_c26_kit name",
+        "name": "Kit da Tappezzeria",
         "description": "mafia_c26_kit desc"
       },
       {
         "code": "mafia_c26_ledger",
-        "name": "mafia_c26_ledger name",
+        "name": "Registri Contabili Importanti",
         "description": "mafia_c26_ledger desc"
       },
       {
         "code": "mafia_c26_magazines",
-        "name": "mafia_c26_magazines name",
+        "name": "Riviste di Interior Design",
         "description": "mafia_c26_magazines desc"
       },
       {
         "code": "mafia_c26_magazinesb",
-        "name": "mafia_c26_magazinesb name",
+        "name": "Riviste di Interior Design",
         "description": "mafia_c26_magazinesb desc"
       },
       {
         "code": "mafia_c26_paint",
-        "name": "mafia_c26_paint name",
+        "name": "Colore per Mobili",
         "description": "mafia_c26_paint desc"
       },
       {
         "code": "mafia_c26_pasta",
-        "name": "mafia_c26_pasta name",
+        "name": "Spaghetti con Polpette",
         "description": "mafia_c26_pasta desc"
       },
       {
         "code": "mafia_c26_planter_dark",
-        "name": "mafia_c26_planter_dark name",
+        "name": "Fioriera Villa Oscura",
         "description": "mafia_c26_planter_dark desc"
       },
       {
         "code": "mafia_c26_planter_white",
-        "name": "mafia_c26_planter_white name",
+        "name": "Fioriera Villa Chiara",
         "description": "mafia_c26_planter_white desc"
       },
       {
         "code": "mafia_c26_polish",
-        "name": "mafia_c26_polish name",
+        "name": "Lucido per Mobili",
         "description": "mafia_c26_polish desc"
       },
       {
         "code": "mafia_c26_safe",
-        "name": "mafia_c26_safe name",
+        "name": "Mini Cassaforte",
         "description": "mafia_c26_safe desc"
       },
       {
         "code": "mafia_c26_sidetable_dark",
-        "name": "mafia_c26_sidetable_dark name",
+        "name": "Tavolino Villa Oscura",
         "description": "mafia_c26_sidetable_dark desc"
       },
       {
         "code": "mafia_c26_sidetable_white",
-        "name": "mafia_c26_sidetable_white name",
+        "name": "Tavolino Villa Chiara",
         "description": "mafia_c26_sidetable_white desc"
       },
       {
         "code": "mafia_c26_sofa_dark",
-        "name": "mafia_c26_sofa_dark name",
+        "name": "Divano Villa Oscura",
         "description": "mafia_c26_sofa_dark desc"
       },
       {
         "code": "mafia_c26_sofa_white",
-        "name": "mafia_c26_sofa_white name",
+        "name": "Divano Villa Chiara",
         "description": "mafia_c26_sofa_white desc"
       },
       {
         "code": "mafia_c26_tallwall_dark",
-        "name": "mafia_c26_tallwall_dark name",
+        "name": "Pezzo di Muro Alto Villa Oscura",
         "description": "mafia_c26_tallwall_dark desc"
       },
       {
         "code": "mafia_c26_tallwall_white",
-        "name": "mafia_c26_tallwall_white name",
+        "name": "Pezzo di Muro Alto Villa Chiara",
         "description": "mafia_c26_tallwall_white desc"
       },
       {
         "code": "mafia_c26_teleport_dark",
-        "name": "mafia_c26_teleport_dark name",
+        "name": "Teletrasporto Villa Oscura",
         "description": "mafia_c26_teleport_dark desc"
       },
       {
         "code": "mafia_c26_teleport_white",
-        "name": "mafia_c26_teleport_white name",
+        "name": "Teletrasporto Villa Chiara",
         "description": "mafia_c26_teleport_white desc"
       },
       {
         "code": "mafia_c26_vase_dark",
-        "name": "mafia_c26_vase_dark name",
+        "name": "Vaso Villa Oscura",
         "description": "mafia_c26_vase_dark desc"
       },
       {
         "code": "mafia_c26_vase_white",
-        "name": "mafia_c26_vase_white name",
+        "name": "Vaso Villa Chiara",
         "description": "mafia_c26_vase_white desc"
       },
       {
         "code": "mafia_c26_vintagechair",
-        "name": "mafia_c26_vintagechair name",
+        "name": "Sedia Vintage Imponente",
         "description": "mafia_c26_vintagechair desc"
       },
       {
         "code": "mafia_c26_vintagedesk",
-        "name": "mafia_c26_vintagedesk name",
+        "name": "Scrivania Vintage Imponente",
         "description": "mafia_c26_vintagedesk desc"
       },
       {
         "code": "mafia_c26_wall_dark",
-        "name": "mafia_c26_wall_dark name",
+        "name": "Pezzo di Muro Villa Oscura",
         "description": "mafia_c26_wall_dark desc"
       },
       {
         "code": "mafia_c26_wall_white",
-        "name": "mafia_c26_wall_white name",
+        "name": "Pezzo di Muro Villa Chiara",
         "description": "mafia_c26_wall_white desc"
       },
       {
         "code": "mafia_c26_walllamp_dark",
-        "name": "mafia_c26_walllamp_dark name",
+        "name": "Lampada da parete Villa Oscura",
         "description": "mafia_c26_walllamp_dark desc"
       },
       {
         "code": "mafia_c26_walllamp_white",
-        "name": "mafia_c26_walllamp_white name",
+        "name": "Lampada da Parete Villa Chiara",
         "description": "mafia_c26_walllamp_white desc"
       },
       {
         "code": "mafia_c26_wallsafe",
-        "name": "mafia_c26_wallsafe name",
+        "name": "Cassaforte Sicura",
         "description": "mafia_c26_wallsafe desc"
       },
       {
         "code": "mafia_c26_window_dark",
-        "name": "mafia_c26_window_dark name",
+        "name": "Finestra Villa Oscura",
         "description": "mafia_c26_window_dark desc"
       },
       {
         "code": "mafia_c26_window_white",
-        "name": "mafia_c26_window_white name",
+        "name": "Finestra Villa Chiara",
         "description": "mafia_c26_window_white desc"
       },
       {
+        "code": "mafia_r26_globe_bd",
+        "name": "Mappamondo Dorato",
+        "description": ""
+      },
+      {
         "code": "mafia_r26_globe",
-        "name": "mafia_r26_globe name",
+        "name": "Mappamondo Dorato",
         "description": "mafia_r26_globe desc"
       },
       {
+        "code": "mafia_r26_moneytile_bd",
+        "name": "Casella Pioggia di Soldi",
+        "description": ""
+      },
+      {
         "code": "mafia_r26_moneytile",
-        "name": "mafia_r26_moneytile name",
+        "name": "Casella Pioggia di Soldi",
         "description": "mafia_r26_moneytile desc"
       },
       {
@@ -84568,22 +84618,22 @@
       },
       {
         "code": "nft_h26_cardchair",
-        "name": "nft_h26_cardchair name",
+        "name": "Sedia Gaming",
         "description": "nft_h26_cardchair desc"
       },
       {
         "code": "nft_h26_cardtable",
-        "name": "nft_h26_cardtable name",
+        "name": "Giochi da Tavolo",
         "description": "nft_h26_cardtable desc"
       },
       {
         "code": "nft_h26_contraband",
-        "name": "nft_h26_contraband name",
+        "name": "Valigia di Contrabbando",
         "description": "nft_h26_contraband desc"
       },
       {
         "code": "nft_h26_crates",
-        "name": "nft_h26_crates name",
+        "name": "Casse Sospette",
         "description": "nft_h26_crates desc"
       },
       {
@@ -84763,22 +84813,22 @@
       },
       {
         "code": "nft_h26_rifle_bronze",
-        "name": "nft_h26_rifle_bronze name",
+        "name": "Fucile Ornamentale Bronzo",
         "description": "nft_h26_rifle_bronze desc"
       },
       {
         "code": "nft_h26_rifle_gold",
-        "name": "nft_h26_rifle_gold name",
+        "name": "Fucile Ornamentale Oro",
         "description": "nft_h26_rifle_gold desc"
       },
       {
         "code": "nft_h26_rifle_silver",
-        "name": "nft_h26_rifle_silver name",
+        "name": "Fucile Ornamentale Argento",
         "description": "nft_h26_rifle_silver desc"
       },
       {
         "code": "nft_h26_rifle_trippy",
-        "name": "nft_h26_rifle_trippy name",
+        "name": "Fucile Ornamentale Psichedelico",
         "description": "nft_h26_rifle_trippy desc"
       },
       {
@@ -86178,7 +86228,7 @@
       },
       {
         "code": "nft_sc_bodybag",
-        "name": "nft_sc_bodybag name",
+        "name": "Borsa Sospettosamente da Habbo",
         "description": "nft_sc_bodybag desc"
       },
       {
@@ -86208,22 +86258,22 @@
       },
       {
         "code": "nft_sc_habbfather",
-        "name": "nft_sc_habbfather name",
+        "name": "Ritratto di Habbpadrino",
         "description": "nft_sc_habbfather desc"
       },
       {
         "code": "nft_sc_horsehead",
-        "name": "nft_sc_horsehead name",
+        "name": "Cuscino Testa di Cavallo",
         "description": "nft_sc_horsehead desc"
       },
       {
         "code": "nft_sc_knife",
-        "name": "nft_sc_knife name",
+        "name": "Coltello Affilato",
         "description": "nft_sc_knife desc"
       },
       {
         "code": "nft_sc_moneybag",
-        "name": "nft_sc_moneybag name",
+        "name": "Sacco di Soldi Decorativo",
         "description": "nft_sc_moneybag desc"
       },
       {
@@ -108573,7 +108623,7 @@
       },
       {
         "code": "sc_bodybag",
-        "name": "sc_bodybag name",
+        "name": "Borsa Sospettosamente da Habbo",
         "description": "sc_bodybag desc"
       },
       {
@@ -108598,17 +108648,17 @@
       },
       {
         "code": "sc_horsehead",
-        "name": "sc_horsehead name",
+        "name": "Cuscino Testa di Cavallo",
         "description": "sc_horsehead desc"
       },
       {
         "code": "sc_knife",
-        "name": "sc_knife name",
+        "name": "Coltello Affilato",
         "description": "sc_knife desc"
       },
       {
         "code": "sc_moneybag",
-        "name": "sc_moneybag name",
+        "name": "Sacco di Soldi Decorativo",
         "description": "sc_moneybag desc"
       },
       {

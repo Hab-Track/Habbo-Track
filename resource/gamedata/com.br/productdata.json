@@ -32717,8 +32717,18 @@
         "description": ""
       },
       {
+        "code": "cl_dia_ducketcollar",
+        "name": "Colar de Marinheiro",
+        "description": ""
+      },
+      {
         "code": "cl_dia_duckethoneyshirt",
         "name": "Camiseta Respingo de Mel",
+        "description": ""
+      },
+      {
+        "code": "cl_dia_ducketsailorcap",
+        "name": "Boné de Marinheiro Elegante",
         "description": ""
       },
       {
@@ -32902,6 +32912,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_goldwatch_bd",
+        "name": "Relógio Ouro 24k",
+        "description": ""
+      },
+      {
         "code": "cl_r26_iridescentcoat_bd",
         "name": "Capa de Chuva Iridescente",
         "description": ""
@@ -32954,6 +32969,11 @@
       {
         "code": "cl_r26_robotcompanion_bd",
         "name": "Robô Companheiro",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_scarface_bd",
+        "name": "Rosto Cicatrizado",
         "description": ""
       },
       {
@@ -35908,12 +35928,12 @@
       },
       {
         "code": "clothing_ducketsailorcap",
-        "name": "clothing_ducketsailorcap name",
+        "name": "Boné de Marinheiro Elegante",
         "description": "clothing_ducketsailorcap desc"
       },
       {
         "code": "clothing_ducketsailorcollar",
-        "name": "clothing_ducketsailorcollar name",
+        "name": "Colar de Marinheiro",
         "description": "clothing_ducketsailorcollar desc"
       },
       {
@@ -36178,12 +36198,12 @@
       },
       {
         "code": "clothing_femmefataledress",
-        "name": "clothing_femmefataledress name",
+        "name": "Vestido Femme Fatale",
         "description": "clothing_femmefataledress desc"
       },
       {
         "code": "clothing_femmefatalehair",
-        "name": "clothing_femmefatalehair name",
+        "name": "Ondulado Femme Fatale",
         "description": "clothing_femmefatalehair desc"
       },
       {
@@ -37578,22 +37598,22 @@
       },
       {
         "code": "clothing_mafiacane",
-        "name": "clothing_mafiacane name",
+        "name": "Bengala com Pato",
         "description": "clothing_mafiacane desc"
       },
       {
         "code": "clothing_mafiarose",
-        "name": "clothing_mafiarose name",
+        "name": "Boutonnière de Rosa",
         "description": "clothing_mafiarose desc"
       },
       {
         "code": "clothing_mafiascarf",
-        "name": "clothing_mafiascarf name",
+        "name": "Cachecol Estiloso",
         "description": "clothing_mafiascarf desc"
       },
       {
         "code": "clothing_mafiasuit",
-        "name": "clothing_mafiasuit name",
+        "name": "Traje Afluente",
         "description": "clothing_mafiasuit desc"
       },
       {
@@ -43888,7 +43908,7 @@
       },
       {
         "code": "clothing_r26_goldwatch",
-        "name": "clothing_r26_goldwatch name",
+        "name": "Relógio Ouro 24k",
         "description": "clothing_r26_goldwatch desc"
       },
       {
@@ -43948,7 +43968,7 @@
       },
       {
         "code": "clothing_r26_scarface",
-        "name": "clothing_r26_scarface name",
+        "name": "Rosto Cicatrizado",
         "description": "clothing_r26_scarface desc"
       },
       {
@@ -44753,7 +44773,7 @@
       },
       {
         "code": "clothing_susglasses",
-        "name": "clothing_susglasses name",
+        "name": "Óculos de Sol Blackout",
         "description": "clothing_susglasses desc"
       },
       {
@@ -44773,8 +44793,13 @@
       },
       {
         "code": "clothing_tattoobody2",
-        "name": "clothing_tattoobody2 name",
+        "name": "Corpo Tatuado",
         "description": "clothing_tattoobody2 desc"
+      },
+      {
+        "code": "clothing_tattoobody_bd",
+        "name": "Corpo Tatuado",
+        "description": ""
       },
       {
         "code": "clothing_tattoobody",
@@ -44783,7 +44808,7 @@
       },
       {
         "code": "clothing_tattoohead",
-        "name": "clothing_tattoohead name",
+        "name": "Couro Cabeludo Tatuado",
         "description": "clothing_tattoohead desc"
       },
       {
@@ -44918,7 +44943,7 @@
       },
       {
         "code": "clothing_toastfriend",
-        "name": "clothing_toastfriend name",
+        "name": "Companheiro Torradinha",
         "description": "clothing_toastfriend desc"
       },
       {
@@ -53368,12 +53393,12 @@
       },
       {
         "code": "ducket_c26_puffin",
-        "name": "ducket_c26_puffin name",
+        "name": "Puffin de Pelúcia",
         "description": "ducket_c26_puffin desc"
       },
       {
         "code": "ducket_c26_sailboat",
-        "name": "ducket_c26_sailboat name",
+        "name": "Barquinho de Brinquedo",
         "description": "ducket_c26_sailboat desc"
       },
       {
@@ -53469,6 +53494,16 @@
       {
         "code": "ducket_dia_nauticalpillow",
         "name": "Almofada",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_puffin",
+        "name": "Puffin de Pelúcia",
+        "description": ""
+      },
+      {
+        "code": "ducket_dia_sailboat",
+        "name": "Barquinho de Brinquedo",
         "description": ""
       },
       {
@@ -60338,7 +60373,7 @@
       },
       {
         "code": "giftbox_c25_crackable6",
-        "name": "giftbox_c25_crackable6 name",
+        "name": "Caixa-presente Agosto 2026",
         "description": "giftbox_c25_crackable6 desc"
       },
       {
@@ -74518,262 +74553,272 @@
       },
       {
         "code": "mafia_c26_armchair_dark",
-        "name": "mafia_c26_armchair_dark name",
+        "name": "Poltrona da Mansão Sombria",
         "description": "mafia_c26_armchair_dark desc"
       },
       {
         "code": "mafia_c26_armchair_white",
-        "name": "mafia_c26_armchair_white name",
+        "name": "Poltrona da Mansão Iluminada",
         "description": "mafia_c26_armchair_white desc"
       },
       {
         "code": "mafia_c26_bed_dark",
-        "name": "mafia_c26_bed_dark name",
+        "name": "Cama da Mansão Sombria",
         "description": "mafia_c26_bed_dark desc"
       },
       {
         "code": "mafia_c26_bed_white",
-        "name": "mafia_c26_bed_white name",
+        "name": "Cama de Casal da Mansão Iluminada",
         "description": "mafia_c26_bed_white desc"
       },
       {
         "code": "mafia_c26_car",
-        "name": "mafia_c26_car name",
+        "name": "Carro Clássico de Escapada",
         "description": "mafia_c26_car desc"
       },
       {
         "code": "mafia_c26_cash",
-        "name": "mafia_c26_cash name",
+        "name": "Pilha de Dinheiro",
         "description": "mafia_c26_cash desc"
       },
       {
         "code": "mafia_c26_coffeetable_dark",
-        "name": "mafia_c26_coffeetable_dark name",
+        "name": "Mesa de Café da Mansão Sombria",
         "description": "mafia_c26_coffeetable_dark desc"
       },
       {
         "code": "mafia_c26_coffeetable_white",
-        "name": "mafia_c26_coffeetable_white name",
+        "name": "Mesa de Café da Mansão Iluminada",
         "description": "mafia_c26_coffeetable_white desc"
       },
       {
         "code": "mafia_c26_designer",
-        "name": "mafia_c26_designer name",
+        "name": "Mesa de Criações Design de Interiores",
         "description": "mafia_c26_designer desc"
       },
       {
         "code": "mafia_c26_divider_dark",
-        "name": "mafia_c26_divider_dark name",
+        "name": "Divisória da Mansão Sombria",
         "description": "mafia_c26_divider_dark desc"
       },
       {
         "code": "mafia_c26_divider_white",
-        "name": "mafia_c26_divider_white name",
+        "name": "Divisória da Mansão Iluminada",
         "description": "mafia_c26_divider_white desc"
       },
       {
         "code": "mafia_c26_drinkcabinet",
-        "name": "mafia_c26_drinkcabinet name",
+        "name": "Bar de Mansão",
         "description": "mafia_c26_drinkcabinet desc"
       },
       {
         "code": "mafia_c26_drinktray",
-        "name": "mafia_c26_drinktray name",
+        "name": "Bandeja de Drinks Chique",
         "description": "mafia_c26_drinktray desc"
       },
       {
         "code": "mafia_c26_firepit_dark",
-        "name": "mafia_c26_firepit_dark name",
+        "name": "Fogueira da Mansão Sombria",
         "description": "mafia_c26_firepit_dark desc"
       },
       {
         "code": "mafia_c26_firepit_white",
-        "name": "mafia_c26_firepit_white name",
+        "name": "Fogueira da Mansão Iluminada",
         "description": "mafia_c26_firepit_white desc"
       },
       {
         "code": "mafia_c26_fish",
-        "name": "mafia_c26_fish name",
+        "name": "Dormindo Com O Peixe",
         "description": "mafia_c26_fish desc"
       },
       {
         "code": "mafia_c26_goldleaf",
-        "name": "mafia_c26_goldleaf name",
+        "name": "Folha de Ouro",
         "description": "mafia_c26_goldleaf desc"
       },
       {
         "code": "mafia_c26_guarddog",
-        "name": "mafia_c26_guarddog name",
+        "name": "Cão Guarda Vigilante",
         "description": "mafia_c26_guarddog desc"
       },
       {
         "code": "mafia_c26_gunrack",
-        "name": "mafia_c26_gunrack name",
+        "name": "Suporte Prático para Pistola",
         "description": "mafia_c26_gunrack desc"
       },
       {
         "code": "mafia_c26_jacuzzi_dark",
-        "name": "mafia_c26_jacuzzi_dark name",
+        "name": "Jacuzzi da Mansão Sombria",
         "description": "mafia_c26_jacuzzi_dark desc"
       },
       {
         "code": "mafia_c26_jacuzzi_white",
-        "name": "mafia_c26_jacuzzi_white name",
+        "name": "Jacuzzi da Mansao Iluminada",
         "description": "mafia_c26_jacuzzi_white desc"
       },
       {
         "code": "mafia_c26_kit",
-        "name": "mafia_c26_kit name",
+        "name": "Kit de Estofamento",
         "description": "mafia_c26_kit desc"
       },
       {
         "code": "mafia_c26_ledger",
-        "name": "mafia_c26_ledger name",
+        "name": "Registros Importantes",
         "description": "mafia_c26_ledger desc"
       },
       {
         "code": "mafia_c26_magazines",
-        "name": "mafia_c26_magazines name",
+        "name": "Revistas de Design de Interiores",
         "description": "mafia_c26_magazines desc"
       },
       {
         "code": "mafia_c26_magazinesb",
-        "name": "mafia_c26_magazinesb name",
+        "name": "Revistas de Design de Interiores",
         "description": "mafia_c26_magazinesb desc"
       },
       {
         "code": "mafia_c26_paint",
-        "name": "mafia_c26_paint name",
+        "name": "Pintura de Móveis",
         "description": "mafia_c26_paint desc"
       },
       {
         "code": "mafia_c26_pasta",
-        "name": "mafia_c26_pasta name",
+        "name": "Espaguete e Almondegas",
         "description": "mafia_c26_pasta desc"
       },
       {
         "code": "mafia_c26_planter_dark",
-        "name": "mafia_c26_planter_dark name",
+        "name": "Jardineira da Mansão Sombria",
         "description": "mafia_c26_planter_dark desc"
       },
       {
         "code": "mafia_c26_planter_white",
-        "name": "mafia_c26_planter_white name",
+        "name": "Jardineira da Mansão Iluminada",
         "description": "mafia_c26_planter_white desc"
       },
       {
         "code": "mafia_c26_polish",
-        "name": "mafia_c26_polish name",
+        "name": "Polimento de Móveis",
         "description": "mafia_c26_polish desc"
       },
       {
         "code": "mafia_c26_safe",
-        "name": "mafia_c26_safe name",
+        "name": "Mini Cofre",
         "description": "mafia_c26_safe desc"
       },
       {
         "code": "mafia_c26_sidetable_dark",
-        "name": "mafia_c26_sidetable_dark name",
+        "name": "Mesa Lateral da Mansão Sombria",
         "description": "mafia_c26_sidetable_dark desc"
       },
       {
         "code": "mafia_c26_sidetable_white",
-        "name": "mafia_c26_sidetable_white name",
+        "name": "Mesa Lateral da Mansão Iluminada",
         "description": "mafia_c26_sidetable_white desc"
       },
       {
         "code": "mafia_c26_sofa_dark",
-        "name": "mafia_c26_sofa_dark name",
+        "name": "Sofá da Mansão Sombria",
         "description": "mafia_c26_sofa_dark desc"
       },
       {
         "code": "mafia_c26_sofa_white",
-        "name": "mafia_c26_sofa_white name",
+        "name": "Sofá da Mansão Iluminada",
         "description": "mafia_c26_sofa_white desc"
       },
       {
         "code": "mafia_c26_tallwall_dark",
-        "name": "mafia_c26_tallwall_dark name",
+        "name": "Parede Alta da Mansão Sombria",
         "description": "mafia_c26_tallwall_dark desc"
       },
       {
         "code": "mafia_c26_tallwall_white",
-        "name": "mafia_c26_tallwall_white name",
+        "name": "Parede Alta da Mansão Iluminada",
         "description": "mafia_c26_tallwall_white desc"
       },
       {
         "code": "mafia_c26_teleport_dark",
-        "name": "mafia_c26_teleport_dark name",
+        "name": "Teleporte da Mansão Sombria",
         "description": "mafia_c26_teleport_dark desc"
       },
       {
         "code": "mafia_c26_teleport_white",
-        "name": "mafia_c26_teleport_white name",
+        "name": "Teleporte da Mansão Iluminada",
         "description": "mafia_c26_teleport_white desc"
       },
       {
         "code": "mafia_c26_vase_dark",
-        "name": "mafia_c26_vase_dark name",
+        "name": "Vaso da Mansão Sombria",
         "description": "mafia_c26_vase_dark desc"
       },
       {
         "code": "mafia_c26_vase_white",
-        "name": "mafia_c26_vase_white name",
+        "name": "Vaso da Mansão Iluminada",
         "description": "mafia_c26_vase_white desc"
       },
       {
         "code": "mafia_c26_vintagechair",
-        "name": "mafia_c26_vintagechair name",
+        "name": "Cadeira Vintage Grandiosa",
         "description": "mafia_c26_vintagechair desc"
       },
       {
         "code": "mafia_c26_vintagedesk",
-        "name": "mafia_c26_vintagedesk name",
+        "name": "Mesa Vintage Grandiosa",
         "description": "mafia_c26_vintagedesk desc"
       },
       {
         "code": "mafia_c26_wall_dark",
-        "name": "mafia_c26_wall_dark name",
+        "name": "Parede da Mansão Sombria",
         "description": "mafia_c26_wall_dark desc"
       },
       {
         "code": "mafia_c26_wall_white",
-        "name": "mafia_c26_wall_white name",
+        "name": "Parede da Mansão Iluminada",
         "description": "mafia_c26_wall_white desc"
       },
       {
         "code": "mafia_c26_walllamp_dark",
-        "name": "mafia_c26_walllamp_dark name",
+        "name": "Arandela da Mansão Sombria",
         "description": "mafia_c26_walllamp_dark desc"
       },
       {
         "code": "mafia_c26_walllamp_white",
-        "name": "mafia_c26_walllamp_white name",
+        "name": "Arandela da Mansão Iluminada",
         "description": "mafia_c26_walllamp_white desc"
       },
       {
         "code": "mafia_c26_wallsafe",
-        "name": "mafia_c26_wallsafe name",
+        "name": "Cofre Seguro",
         "description": "mafia_c26_wallsafe desc"
       },
       {
         "code": "mafia_c26_window_dark",
-        "name": "mafia_c26_window_dark name",
+        "name": "Janela da Mansão Sombria",
         "description": "mafia_c26_window_dark desc"
       },
       {
         "code": "mafia_c26_window_white",
-        "name": "mafia_c26_window_white name",
+        "name": "Janela da Mansão Iluminada",
         "description": "mafia_c26_window_white desc"
       },
       {
+        "code": "mafia_r26_globe_bd",
+        "name": "Globo Dourado",
+        "description": ""
+      },
+      {
         "code": "mafia_r26_globe",
-        "name": "mafia_r26_globe name",
+        "name": "Globo Dourado",
         "description": "mafia_r26_globe desc"
       },
       {
+        "code": "mafia_r26_moneytile_bd",
+        "name": "Piso Chuva de Dinheiro",
+        "description": ""
+      },
+      {
         "code": "mafia_r26_moneytile",
-        "name": "mafia_r26_moneytile name",
+        "name": "Piso Chuva de Dinheiro",
         "description": "mafia_r26_moneytile desc"
       },
       {

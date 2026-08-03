@@ -50070,9 +50070,21 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_dia_ducketcollar">
+        <name>
+            Denizci Yakası
+        </name>
+        <description></description>
+    </product>
     <product code="cl_dia_duckethoneyshirt">
         <name>
             Bal Lekeli Tişört
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_dia_ducketsailorcap">
+        <name>
+            Şık Denizci Şapkası
         </name>
         <description></description>
     </product>
@@ -50292,6 +50304,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_r26_goldwatch_bd">
+        <name>
+            24 ayar Altın Saat
+        </name>
+        <description></description>
+    </product>
     <product code="cl_r26_iridescentcoat_bd">
         <name>
             Yanardöner Yağmurluk
@@ -50355,6 +50373,12 @@
     <product code="cl_r26_robotcompanion_bd">
         <name>
             Robot Arkadaş
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_scarface_bd">
+        <name>
+            Yaralı Yüz
         </name>
         <description></description>
     </product>
@@ -54988,7 +55012,7 @@
     </product>
     <product code="clothing_ducketsailorcap">
         <name>
-            clothing_ducketsailorcap name
+            Şık Denizci Şapkası
         </name>
         <description>
             clothing_ducketsailorcap desc
@@ -54996,7 +55020,7 @@
     </product>
     <product code="clothing_ducketsailorcollar">
         <name>
-            clothing_ducketsailorcollar name
+            Denizci Yakası
         </name>
         <description>
             clothing_ducketsailorcollar desc
@@ -55416,7 +55440,7 @@
     </product>
     <product code="clothing_femmefataledress">
         <name>
-            clothing_femmefataledress name
+            Femme Fatale Elbisesi
         </name>
         <description>
             clothing_femmefataledress desc
@@ -55424,7 +55448,7 @@
     </product>
     <product code="clothing_femmefatalehair">
         <name>
-            clothing_femmefatalehair name
+            Femme Fatale Dalgaları
         </name>
         <description>
             clothing_femmefatalehair desc
@@ -57594,7 +57618,7 @@
     </product>
     <product code="clothing_mafiacane">
         <name>
-            clothing_mafiacane name
+            Ördek Başlı Baston
         </name>
         <description>
             clothing_mafiacane desc
@@ -57602,7 +57626,7 @@
     </product>
     <product code="clothing_mafiarose">
         <name>
-            clothing_mafiarose name
+            Gül Yaka Çiçeği
         </name>
         <description>
             clothing_mafiarose desc
@@ -57610,7 +57634,7 @@
     </product>
     <product code="clothing_mafiascarf">
         <name>
-            clothing_mafiascarf name
+            Şık Eşarp
         </name>
         <description>
             clothing_mafiascarf desc
@@ -57618,7 +57642,7 @@
     </product>
     <product code="clothing_mafiasuit">
         <name>
-            clothing_mafiasuit name
+            Varlıklı Takım Elbisesi
         </name>
         <description>
             clothing_mafiasuit desc
@@ -67270,7 +67294,7 @@
     </product>
     <product code="clothing_r26_goldwatch">
         <name>
-            clothing_r26_goldwatch name
+            24 ayar Altın Saat
         </name>
         <description>
             clothing_r26_goldwatch desc
@@ -67366,7 +67390,7 @@
     </product>
     <product code="clothing_r26_scarface">
         <name>
-            clothing_r26_scarface name
+            Yaralı Yüz
         </name>
         <description>
             clothing_r26_scarface desc
@@ -68636,7 +68660,7 @@
     </product>
     <product code="clothing_susglasses">
         <name>
-            clothing_susglasses name
+            Karartma Güneş Gözlüğü
         </name>
         <description>
             clothing_susglasses desc
@@ -68668,11 +68692,17 @@
     </product>
     <product code="clothing_tattoobody2">
         <name>
-            clothing_tattoobody2 name
+            Dövmeli Vücut
         </name>
         <description>
             clothing_tattoobody2 desc
         </description>
+    </product>
+    <product code="clothing_tattoobody_bd">
+        <name>
+            Dövmeli Vücut
+        </name>
+        <description></description>
     </product>
     <product code="clothing_tattoobody">
         <name>
@@ -68684,7 +68714,7 @@
     </product>
     <product code="clothing_tattoohead">
         <name>
-            clothing_tattoohead name
+            Dövmeli Kafa
         </name>
         <description>
             clothing_tattoohead desc
@@ -68896,7 +68926,7 @@
     </product>
     <product code="clothing_toastfriend">
         <name>
-            clothing_toastfriend name
+            Mini Tost Yoldaş
         </name>
         <description>
             clothing_toastfriend desc
@@ -87204,7 +87234,7 @@
     </product>
     <product code="ducket_c26_puffin">
         <name>
-            ducket_c26_puffin name
+            Puffin Pelüş Oyuncak
         </name>
         <description>
             ducket_c26_puffin desc
@@ -87212,7 +87242,7 @@
     </product>
     <product code="ducket_c26_sailboat">
         <name>
-            ducket_c26_sailboat name
+            Oyuncak Yelkenli
         </name>
         <description>
             ducket_c26_sailboat desc
@@ -87339,6 +87369,18 @@
     <product code="ducket_dia_nauticalpillow">
         <name>
             Yastık
+        </name>
+        <description></description>
+    </product>
+    <product code="ducket_dia_puffin">
+        <name>
+            Puffin Pelüş Oyuncak
+        </name>
+        <description></description>
+    </product>
+    <product code="ducket_dia_sailboat">
+        <name>
+            Oyuncak Yelkenli
         </name>
         <description></description>
     </product>
@@ -98230,7 +98272,7 @@
     </product>
     <product code="giftbox_c25_crackable6">
         <name>
-            giftbox_c25_crackable6 name
+            2026 Ağustos Hediye Kutusu
         </name>
         <description>
             giftbox_c25_crackable6 desc
@@ -120376,7 +120418,7 @@
     </product>
     <product code="mafia_c26_armchair_dark">
         <name>
-            mafia_c26_armchair_dark name
+            Karanlık Malikane Koltuğu
         </name>
         <description>
             mafia_c26_armchair_dark desc
@@ -120384,7 +120426,7 @@
     </product>
     <product code="mafia_c26_armchair_white">
         <name>
-            mafia_c26_armchair_white name
+            Aydınlık Malikane Koltuğu
         </name>
         <description>
             mafia_c26_armchair_white desc
@@ -120392,7 +120434,7 @@
     </product>
     <product code="mafia_c26_bed_dark">
         <name>
-            mafia_c26_bed_dark name
+            Karanlık Malikane Yatağı
         </name>
         <description>
             mafia_c26_bed_dark desc
@@ -120400,7 +120442,7 @@
     </product>
     <product code="mafia_c26_bed_white">
         <name>
-            mafia_c26_bed_white name
+            Aydınlık Malikane Çift Yatak
         </name>
         <description>
             mafia_c26_bed_white desc
@@ -120408,7 +120450,7 @@
     </product>
     <product code="mafia_c26_car">
         <name>
-            mafia_c26_car name
+            Klasik Firar Arabası
         </name>
         <description>
             mafia_c26_car desc
@@ -120416,7 +120458,7 @@
     </product>
     <product code="mafia_c26_cash">
         <name>
-            mafia_c26_cash name
+            Nakit Yığını
         </name>
         <description>
             mafia_c26_cash desc
@@ -120424,7 +120466,7 @@
     </product>
     <product code="mafia_c26_coffeetable_dark">
         <name>
-            mafia_c26_coffeetable_dark name
+            Karanlık Malikane Kahve Sehpası
         </name>
         <description>
             mafia_c26_coffeetable_dark desc
@@ -120432,7 +120474,7 @@
     </product>
     <product code="mafia_c26_coffeetable_white">
         <name>
-            mafia_c26_coffeetable_white name
+            Aydınlık Malikane Kahve Sehpası
         </name>
         <description>
             mafia_c26_coffeetable_white desc
@@ -120440,7 +120482,7 @@
     </product>
     <product code="mafia_c26_designer">
         <name>
-            mafia_c26_designer name
+            İç Mimar Üretim Masası
         </name>
         <description>
             mafia_c26_designer desc
@@ -120448,7 +120490,7 @@
     </product>
     <product code="mafia_c26_divider_dark">
         <name>
-            mafia_c26_divider_dark name
+            Karanlık Malikane Bölücü
         </name>
         <description>
             mafia_c26_divider_dark desc
@@ -120456,7 +120498,7 @@
     </product>
     <product code="mafia_c26_divider_white">
         <name>
-            mafia_c26_divider_white name
+            Aydınlık Malikane Bölücü
         </name>
         <description>
             mafia_c26_divider_white desc
@@ -120464,7 +120506,7 @@
     </product>
     <product code="mafia_c26_drinkcabinet">
         <name>
-            mafia_c26_drinkcabinet name
+            Malikane İçecek Dolabı
         </name>
         <description>
             mafia_c26_drinkcabinet desc
@@ -120472,7 +120514,7 @@
     </product>
     <product code="mafia_c26_drinktray">
         <name>
-            mafia_c26_drinktray name
+            Şık İçecek Tepsisi
         </name>
         <description>
             mafia_c26_drinktray desc
@@ -120480,7 +120522,7 @@
     </product>
     <product code="mafia_c26_firepit_dark">
         <name>
-            mafia_c26_firepit_dark name
+            Karanlık Malikane Ateş Çukuru
         </name>
         <description>
             mafia_c26_firepit_dark desc
@@ -120488,7 +120530,7 @@
     </product>
     <product code="mafia_c26_firepit_white">
         <name>
-            mafia_c26_firepit_white name
+            Aydınlık Malikane Ateş Çukuru
         </name>
         <description>
             mafia_c26_firepit_white desc
@@ -120496,7 +120538,7 @@
     </product>
     <product code="mafia_c26_fish">
         <name>
-            mafia_c26_fish name
+            Balıklarla Uyumak
         </name>
         <description>
             mafia_c26_fish desc
@@ -120504,7 +120546,7 @@
     </product>
     <product code="mafia_c26_goldleaf">
         <name>
-            mafia_c26_goldleaf name
+            Altın Yaprak
         </name>
         <description>
             mafia_c26_goldleaf desc
@@ -120512,7 +120554,7 @@
     </product>
     <product code="mafia_c26_guarddog">
         <name>
-            mafia_c26_guarddog name
+            Tetikte Bekçi Köpeği
         </name>
         <description>
             mafia_c26_guarddog desc
@@ -120520,7 +120562,7 @@
     </product>
     <product code="mafia_c26_gunrack">
         <name>
-            mafia_c26_gunrack name
+            Kullanışlı Tabanca Rafı
         </name>
         <description>
             mafia_c26_gunrack desc
@@ -120528,7 +120570,7 @@
     </product>
     <product code="mafia_c26_jacuzzi_dark">
         <name>
-            mafia_c26_jacuzzi_dark name
+            Karanlık Malikane Jakuzisi
         </name>
         <description>
             mafia_c26_jacuzzi_dark desc
@@ -120536,7 +120578,7 @@
     </product>
     <product code="mafia_c26_jacuzzi_white">
         <name>
-            mafia_c26_jacuzzi_white name
+            Aydınlık Malikane Jakuzisi
         </name>
         <description>
             mafia_c26_jacuzzi_white desc
@@ -120544,7 +120586,7 @@
     </product>
     <product code="mafia_c26_kit">
         <name>
-            mafia_c26_kit name
+            Döşeme Kiti
         </name>
         <description>
             mafia_c26_kit desc
@@ -120552,7 +120594,7 @@
     </product>
     <product code="mafia_c26_ledger">
         <name>
-            mafia_c26_ledger name
+            Önemli Defterler
         </name>
         <description>
             mafia_c26_ledger desc
@@ -120560,7 +120602,7 @@
     </product>
     <product code="mafia_c26_magazines">
         <name>
-            mafia_c26_magazines name
+            İç Mimarlık Dergileri
         </name>
         <description>
             mafia_c26_magazines desc
@@ -120568,7 +120610,7 @@
     </product>
     <product code="mafia_c26_magazinesb">
         <name>
-            mafia_c26_magazinesb name
+            İç Mimarlık Dergileri
         </name>
         <description>
             mafia_c26_magazinesb desc
@@ -120576,7 +120618,7 @@
     </product>
     <product code="mafia_c26_paint">
         <name>
-            mafia_c26_paint name
+            Mobilya Boyası
         </name>
         <description>
             mafia_c26_paint desc
@@ -120584,7 +120626,7 @@
     </product>
     <product code="mafia_c26_pasta">
         <name>
-            mafia_c26_pasta name
+            Spagetti ve Köfte
         </name>
         <description>
             mafia_c26_pasta desc
@@ -120592,7 +120634,7 @@
     </product>
     <product code="mafia_c26_planter_dark">
         <name>
-            mafia_c26_planter_dark name
+            Karanlık Malikane Saksısı
         </name>
         <description>
             mafia_c26_planter_dark desc
@@ -120600,7 +120642,7 @@
     </product>
     <product code="mafia_c26_planter_white">
         <name>
-            mafia_c26_planter_white name
+            Aydınlık Malikane Saksısı
         </name>
         <description>
             mafia_c26_planter_white desc
@@ -120608,7 +120650,7 @@
     </product>
     <product code="mafia_c26_polish">
         <name>
-            mafia_c26_polish name
+            Mobilya Cilası
         </name>
         <description>
             mafia_c26_polish desc
@@ -120616,7 +120658,7 @@
     </product>
     <product code="mafia_c26_safe">
         <name>
-            mafia_c26_safe name
+            Mini Kasa
         </name>
         <description>
             mafia_c26_safe desc
@@ -120624,7 +120666,7 @@
     </product>
     <product code="mafia_c26_sidetable_dark">
         <name>
-            mafia_c26_sidetable_dark name
+            Karanlık Malikane Yan Sehpa
         </name>
         <description>
             mafia_c26_sidetable_dark desc
@@ -120632,7 +120674,7 @@
     </product>
     <product code="mafia_c26_sidetable_white">
         <name>
-            mafia_c26_sidetable_white name
+            Aydınlık Malikane Yan Sehpa
         </name>
         <description>
             mafia_c26_sidetable_white desc
@@ -120640,7 +120682,7 @@
     </product>
     <product code="mafia_c26_sofa_dark">
         <name>
-            mafia_c26_sofa_dark name
+            Karanlık Malikane Kanepesi
         </name>
         <description>
             mafia_c26_sofa_dark desc
@@ -120648,7 +120690,7 @@
     </product>
     <product code="mafia_c26_sofa_white">
         <name>
-            mafia_c26_sofa_white name
+            Aydınlık Malikane Kanepesi
         </name>
         <description>
             mafia_c26_sofa_white desc
@@ -120656,7 +120698,7 @@
     </product>
     <product code="mafia_c26_tallwall_dark">
         <name>
-            mafia_c26_tallwall_dark name
+            Yüksek Karanlık Malikane Duvar Parçası
         </name>
         <description>
             mafia_c26_tallwall_dark desc
@@ -120664,7 +120706,7 @@
     </product>
     <product code="mafia_c26_tallwall_white">
         <name>
-            mafia_c26_tallwall_white name
+            Yüksek Aydınlık Malikane Duvar Parçası
         </name>
         <description>
             mafia_c26_tallwall_white desc
@@ -120672,7 +120714,7 @@
     </product>
     <product code="mafia_c26_teleport_dark">
         <name>
-            mafia_c26_teleport_dark name
+            Karanlık Malikane Işınlayıcısı
         </name>
         <description>
             mafia_c26_teleport_dark desc
@@ -120680,7 +120722,7 @@
     </product>
     <product code="mafia_c26_teleport_white">
         <name>
-            mafia_c26_teleport_white name
+            Aydınlık Malikane Işınlayıcısı
         </name>
         <description>
             mafia_c26_teleport_white desc
@@ -120688,7 +120730,7 @@
     </product>
     <product code="mafia_c26_vase_dark">
         <name>
-            mafia_c26_vase_dark name
+            Karanlık Malikane Vazosu
         </name>
         <description>
             mafia_c26_vase_dark desc
@@ -120696,7 +120738,7 @@
     </product>
     <product code="mafia_c26_vase_white">
         <name>
-            mafia_c26_vase_white name
+            Aydınlık Malikane Vazosu
         </name>
         <description>
             mafia_c26_vase_white desc
@@ -120704,7 +120746,7 @@
     </product>
     <product code="mafia_c26_vintagechair">
         <name>
-            mafia_c26_vintagechair name
+            Büyük Vintage Sandalye
         </name>
         <description>
             mafia_c26_vintagechair desc
@@ -120712,7 +120754,7 @@
     </product>
     <product code="mafia_c26_vintagedesk">
         <name>
-            mafia_c26_vintagedesk name
+            Büyük Vintage Masa
         </name>
         <description>
             mafia_c26_vintagedesk desc
@@ -120720,7 +120762,7 @@
     </product>
     <product code="mafia_c26_wall_dark">
         <name>
-            mafia_c26_wall_dark name
+            Karanlık Malikane Duvar Parçası
         </name>
         <description>
             mafia_c26_wall_dark desc
@@ -120728,7 +120770,7 @@
     </product>
     <product code="mafia_c26_wall_white">
         <name>
-            mafia_c26_wall_white name
+            Aydınlık Malikane Duvar Parçası
         </name>
         <description>
             mafia_c26_wall_white desc
@@ -120736,7 +120778,7 @@
     </product>
     <product code="mafia_c26_walllamp_dark">
         <name>
-            mafia_c26_walllamp_dark name
+            Karanlık Malikane Duvar Lambası
         </name>
         <description>
             mafia_c26_walllamp_dark desc
@@ -120744,7 +120786,7 @@
     </product>
     <product code="mafia_c26_walllamp_white">
         <name>
-            mafia_c26_walllamp_white name
+            Aydınlık Malikane Duvar Lambası
         </name>
         <description>
             mafia_c26_walllamp_white desc
@@ -120752,7 +120794,7 @@
     </product>
     <product code="mafia_c26_wallsafe">
         <name>
-            mafia_c26_wallsafe name
+            Güvenli Kasa
         </name>
         <description>
             mafia_c26_wallsafe desc
@@ -120760,7 +120802,7 @@
     </product>
     <product code="mafia_c26_window_dark">
         <name>
-            mafia_c26_window_dark name
+            Karanlık Malikane Penceresi
         </name>
         <description>
             mafia_c26_window_dark desc
@@ -120768,23 +120810,35 @@
     </product>
     <product code="mafia_c26_window_white">
         <name>
-            mafia_c26_window_white name
+            Aydınlık Malikane Penceresi
         </name>
         <description>
             mafia_c26_window_white desc
         </description>
     </product>
+    <product code="mafia_r26_globe_bd">
+        <name>
+            Altın Küre
+        </name>
+        <description></description>
+    </product>
     <product code="mafia_r26_globe">
         <name>
-            mafia_r26_globe name
+            Altın Küre
         </name>
         <description>
             mafia_r26_globe desc
         </description>
     </product>
+    <product code="mafia_r26_moneytile_bd">
+        <name>
+            Para Yağdıran Karo
+        </name>
+        <description></description>
+    </product>
     <product code="mafia_r26_moneytile">
         <name>
-            mafia_r26_moneytile name
+            Para Yağdıran Karo
         </name>
         <description>
             mafia_r26_moneytile desc
