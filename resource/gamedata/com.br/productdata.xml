@@ -19464,6 +19464,12 @@
         </name>
         <description></description>
     </product>
+    <product code="aug26_special1_internal">
+        <name>
+            Social Club Bundle
+        </name>
+        <description></description>
+    </product>
     <product code="aug_prize1">
         <name>
             Crafting Prize
@@ -48774,6 +48780,12 @@
         </name>
         <description></description>
     </product>
+    <product code="chatstyle_money">
+        <name>
+            Balão de Fala Dinheiro Vivo
+        </name>
+        <description></description>
+    </product>
     <product code="chess_b_bishop">
         <name>
             Bispo Ônix
@@ -59894,7 +59906,7 @@
     </product>
     <product code="clothing_nftgoldgrills">
         <name>
-            clothing_nftgoldgrills name
+            Grelhas Douradas
         </name>
         <description>
             clothing_nftgoldgrills desc
@@ -60590,7 +60602,7 @@
     </product>
     <product code="clothing_nftmouthtape">
         <name>
-            clothing_nftmouthtape name
+            Boca Enfaixada com Fita
         </name>
         <description>
             clothing_nftmouthtape desc
@@ -60662,7 +60674,7 @@
     </product>
     <product code="clothing_nftnewsboycap">
         <name>
-            clothing_nftnewsboycap name
+            Boina Clássica de Jornaleiro
         </name>
         <description>
             clothing_nftnewsboycap desc
@@ -61940,7 +61952,7 @@
     </product>
     <product code="clothing_nftsuspenders">
         <name>
-            clothing_nftsuspenders name
+            Suspensórios Estilosos
         </name>
         <description>
             clothing_nftsuspenders desc
@@ -108928,6 +108940,12 @@
         </name>
         <description></description>
     </product>
+    <product code="in_app_bundle_458">
+        <name>
+            Social Club Bundle
+        </name>
+        <description></description>
+    </product>
     <product code="in_app_bundle_47">
         <name>
             Frosty Winter Castle
@@ -123450,12 +123468,60 @@ por 20 créditos e diamantes!
             Essa estampa abóbora faz você ficar zonzo.
         </description>
     </product>
+    <product code="nft_bonusrare16_1_2">
+        <name>
+            nft_bonusrare16_1_2 name
+        </name>
+        <description>
+            nft_bonusrare16_1_2 desc
+        </description>
+    </product>
+    <product code="nft_bonusrare16_1_3">
+        <name>
+            nft_bonusrare16_1_3 name
+        </name>
+        <description>
+            nft_bonusrare16_1_3 desc
+        </description>
+    </product>
+    <product code="nft_bonusrare16_1_4">
+        <name>
+            nft_bonusrare16_1_4 name
+        </name>
+        <description>
+            nft_bonusrare16_1_4 desc
+        </description>
+    </product>
+    <product code="nft_bonusrare16_2_1">
+        <name>
+            nft_bonusrare16_2_1 name
+        </name>
+        <description>
+            nft_bonusrare16_2_1 desc
+        </description>
+    </product>
     <product code="nft_bonusrare16_2_2">
         <name>
             Pote Quartzo de Flor de Lótus
         </name>
         <description>
             O quartzo é tão brilhante, que ofusca a Flor de Lótus.
+        </description>
+    </product>
+    <product code="nft_bonusrare16_2_3">
+        <name>
+            nft_bonusrare16_2_3 name
+        </name>
+        <description>
+            nft_bonusrare16_2_3 desc
+        </description>
+    </product>
+    <product code="nft_bonusrare16_2_4">
+        <name>
+            nft_bonusrare16_2_4 name
+        </name>
+        <description>
+            nft_bonusrare16_2_4 desc
         </description>
     </product>
     <product code="nft_book_rare_0">
@@ -130514,7 +130580,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_cardchair">
         <name>
-            nft_h26_cardchair name
+            Cadeira de Jogos
         </name>
         <description>
             nft_h26_cardchair desc
@@ -130522,7 +130588,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_cardtable">
         <name>
-            nft_h26_cardtable name
+            Mesa de Jogos
         </name>
         <description>
             nft_h26_cardtable desc
@@ -130530,7 +130596,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_contraband">
         <name>
-            nft_h26_contraband name
+            Maleta de Contrabando
         </name>
         <description>
             nft_h26_contraband desc
@@ -130538,7 +130604,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_crates">
         <name>
-            nft_h26_crates name
+            Caixotes Suspeitos
         </name>
         <description>
             nft_h26_crates desc
@@ -130826,7 +130892,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_rifle_bronze">
         <name>
-            nft_h26_rifle_bronze name
+            Rifle Ornamental de Bronze
         </name>
         <description>
             nft_h26_rifle_bronze desc
@@ -130834,7 +130900,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_rifle_gold">
         <name>
-            nft_h26_rifle_gold name
+            Rifle Ornamental de Ouro
         </name>
         <description>
             nft_h26_rifle_gold desc
@@ -130842,7 +130908,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_rifle_silver">
         <name>
-            nft_h26_rifle_silver name
+            Rifle Ornamental de Prata
         </name>
         <description>
             nft_h26_rifle_silver desc
@@ -130850,7 +130916,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_rifle_trippy">
         <name>
-            nft_h26_rifle_trippy name
+            Rifle Ornamental Trippy
         </name>
         <description>
             nft_h26_rifle_trippy desc
@@ -133056,7 +133122,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_sc_bodybag">
         <name>
-            nft_sc_bodybag name
+            Bolsa Suspeitosamente forma Habbo
         </name>
         <description>
             nft_sc_bodybag desc
@@ -133104,7 +133170,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_sc_habbfather">
         <name>
-            nft_sc_habbfather name
+            Retrato do Habbopai
         </name>
         <description>
             nft_sc_habbfather desc
@@ -133112,7 +133178,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_sc_horsehead">
         <name>
-            nft_sc_horsehead name
+            Travesseiro Cabeça de Cavalo
         </name>
         <description>
             nft_sc_horsehead desc
@@ -133120,7 +133186,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_sc_knife">
         <name>
-            nft_sc_knife name
+            Faca Espetadora
         </name>
         <description>
             nft_sc_knife desc
@@ -133128,7 +133194,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_sc_moneybag">
         <name>
-            nft_sc_moneybag name
+            Bolsa de Dinheiro Temática
         </name>
         <description>
             nft_sc_moneybag desc
@@ -164628,6 +164694,18 @@ por 20 créditos e diamantes!
             Se jogue na selva com o novíssimo Pack Corrida na Selva. Mobis novinhos, vibes exuberantes - garanta o seu antes que as plantas tomem conta de tudo. Construído por Albertsoler.
         </description>
     </product>
+    <product code="rotating_roomdeal458_d">
+        <name>
+            Social Club Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal458">
+        <name>
+            Social Club Bundle
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal45_10c">
         <name>
             Pack Ártico
@@ -167323,7 +167401,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="sc_bodybag">
         <name>
-            sc_bodybag name
+            Bolsa Suspeitosamente forma Habbo
         </name>
         <description>
             sc_bodybag desc
@@ -167363,7 +167441,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="sc_horsehead">
         <name>
-            sc_horsehead name
+            Travesseiro Cabeça de Cavalo
         </name>
         <description>
             sc_horsehead desc
@@ -167371,7 +167449,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="sc_knife">
         <name>
-            sc_knife name
+            Faca Espetadora
         </name>
         <description>
             sc_knife desc
@@ -167379,7 +167457,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="sc_moneybag">
         <name>
-            sc_moneybag name
+            Bolsa de Dinheiro Temática
         </name>
         <description>
             sc_moneybag desc

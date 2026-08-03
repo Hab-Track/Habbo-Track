@@ -12972,6 +12972,11 @@
         "description": ""
       },
       {
+        "code": "aug26_special1_internal",
+        "name": "Social Club Bundle",
+        "description": ""
+      },
+      {
         "code": "aug_prize1",
         "name": "Crafting Prize",
         "description": ""
@@ -31732,6 +31737,11 @@
         "description": ""
       },
       {
+        "code": "chatstyle_money",
+        "name": "Balão de Fala Dinheiro Vivo",
+        "description": ""
+      },
+      {
         "code": "chess_b_bishop",
         "name": "Bispo Ônix",
         "description": "chess_b_bishop desc"
@@ -38883,7 +38893,7 @@
       },
       {
         "code": "clothing_nftgoldgrills",
-        "name": "clothing_nftgoldgrills name",
+        "name": "Grelhas Douradas",
         "description": "clothing_nftgoldgrills desc"
       },
       {
@@ -39323,7 +39333,7 @@
       },
       {
         "code": "clothing_nftmouthtape",
-        "name": "clothing_nftmouthtape name",
+        "name": "Boca Enfaixada com Fita",
         "description": "clothing_nftmouthtape desc"
       },
       {
@@ -39368,7 +39378,7 @@
       },
       {
         "code": "clothing_nftnewsboycap",
-        "name": "clothing_nftnewsboycap name",
+        "name": "Boina Clássica de Jornaleiro",
         "description": "clothing_nftnewsboycap desc"
       },
       {
@@ -40168,7 +40178,7 @@
       },
       {
         "code": "clothing_nftsuspenders",
-        "name": "clothing_nftsuspenders name",
+        "name": "Suspensórios Estilosos",
         "description": "clothing_nftsuspenders desc"
       },
       {
@@ -70652,6 +70662,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_458",
+        "name": "Social Club Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -80082,9 +80097,39 @@
         "description": "Essa estampa abóbora faz você ficar zonzo."
       },
       {
+        "code": "nft_bonusrare16_1_2",
+        "name": "nft_bonusrare16_1_2 name",
+        "description": "nft_bonusrare16_1_2 desc"
+      },
+      {
+        "code": "nft_bonusrare16_1_3",
+        "name": "nft_bonusrare16_1_3 name",
+        "description": "nft_bonusrare16_1_3 desc"
+      },
+      {
+        "code": "nft_bonusrare16_1_4",
+        "name": "nft_bonusrare16_1_4 name",
+        "description": "nft_bonusrare16_1_4 desc"
+      },
+      {
+        "code": "nft_bonusrare16_2_1",
+        "name": "nft_bonusrare16_2_1 name",
+        "description": "nft_bonusrare16_2_1 desc"
+      },
+      {
         "code": "nft_bonusrare16_2_2",
         "name": "Pote Quartzo de Flor de Lótus",
         "description": "O quartzo é tão brilhante, que ofusca a Flor de Lótus."
+      },
+      {
+        "code": "nft_bonusrare16_2_3",
+        "name": "nft_bonusrare16_2_3 name",
+        "description": "nft_bonusrare16_2_3 desc"
+      },
+      {
+        "code": "nft_bonusrare16_2_4",
+        "name": "nft_bonusrare16_2_4 name",
+        "description": "nft_bonusrare16_2_4 desc"
       },
       {
         "code": "nft_book_rare_0",
@@ -84573,22 +84618,22 @@
       },
       {
         "code": "nft_h26_cardchair",
-        "name": "nft_h26_cardchair name",
+        "name": "Cadeira de Jogos",
         "description": "nft_h26_cardchair desc"
       },
       {
         "code": "nft_h26_cardtable",
-        "name": "nft_h26_cardtable name",
+        "name": "Mesa de Jogos",
         "description": "nft_h26_cardtable desc"
       },
       {
         "code": "nft_h26_contraband",
-        "name": "nft_h26_contraband name",
+        "name": "Maleta de Contrabando",
         "description": "nft_h26_contraband desc"
       },
       {
         "code": "nft_h26_crates",
-        "name": "nft_h26_crates name",
+        "name": "Caixotes Suspeitos",
         "description": "nft_h26_crates desc"
       },
       {
@@ -84768,22 +84813,22 @@
       },
       {
         "code": "nft_h26_rifle_bronze",
-        "name": "nft_h26_rifle_bronze name",
+        "name": "Rifle Ornamental de Bronze",
         "description": "nft_h26_rifle_bronze desc"
       },
       {
         "code": "nft_h26_rifle_gold",
-        "name": "nft_h26_rifle_gold name",
+        "name": "Rifle Ornamental de Ouro",
         "description": "nft_h26_rifle_gold desc"
       },
       {
         "code": "nft_h26_rifle_silver",
-        "name": "nft_h26_rifle_silver name",
+        "name": "Rifle Ornamental de Prata",
         "description": "nft_h26_rifle_silver desc"
       },
       {
         "code": "nft_h26_rifle_trippy",
-        "name": "nft_h26_rifle_trippy name",
+        "name": "Rifle Ornamental Trippy",
         "description": "nft_h26_rifle_trippy desc"
       },
       {
@@ -86183,7 +86228,7 @@
       },
       {
         "code": "nft_sc_bodybag",
-        "name": "nft_sc_bodybag name",
+        "name": "Bolsa Suspeitosamente forma Habbo",
         "description": "nft_sc_bodybag desc"
       },
       {
@@ -86213,22 +86258,22 @@
       },
       {
         "code": "nft_sc_habbfather",
-        "name": "nft_sc_habbfather name",
+        "name": "Retrato do Habbopai",
         "description": "nft_sc_habbfather desc"
       },
       {
         "code": "nft_sc_horsehead",
-        "name": "nft_sc_horsehead name",
+        "name": "Travesseiro Cabeça de Cavalo",
         "description": "nft_sc_horsehead desc"
       },
       {
         "code": "nft_sc_knife",
-        "name": "nft_sc_knife name",
+        "name": "Faca Espetadora",
         "description": "nft_sc_knife desc"
       },
       {
         "code": "nft_sc_moneybag",
-        "name": "nft_sc_moneybag name",
+        "name": "Bolsa de Dinheiro Temática",
         "description": "nft_sc_moneybag desc"
       },
       {
@@ -106847,6 +106892,16 @@
         "description": "Se jogue na selva com o novíssimo Pack Corrida na Selva. Mobis novinhos, vibes exuberantes - garanta o seu antes que as plantas tomem conta de tudo. Construído por Albertsoler."
       },
       {
+        "code": "rotating_roomdeal458_d",
+        "name": "Social Club Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal458",
+        "name": "Social Club Bundle",
+        "description": ""
+      },
+      {
         "code": "rotating_roomdeal45_10c",
         "name": "Pack Ártico",
         "description": "Pegue as suas luvas e fique bem quentinho - este pack vem REPLETO de frio polar e guloseimas festivas! NOVA EXCLUSIVA Topiaria de Urso incluída. Inclui 10 Créditos."
@@ -108553,7 +108608,7 @@
       },
       {
         "code": "sc_bodybag",
-        "name": "sc_bodybag name",
+        "name": "Bolsa Suspeitosamente forma Habbo",
         "description": "sc_bodybag desc"
       },
       {
@@ -108578,17 +108633,17 @@
       },
       {
         "code": "sc_horsehead",
-        "name": "sc_horsehead name",
+        "name": "Travesseiro Cabeça de Cavalo",
         "description": "sc_horsehead desc"
       },
       {
         "code": "sc_knife",
-        "name": "sc_knife name",
+        "name": "Faca Espetadora",
         "description": "sc_knife desc"
       },
       {
         "code": "sc_moneybag",
-        "name": "sc_moneybag name",
+        "name": "Bolsa de Dinheiro Temática",
         "description": "sc_moneybag desc"
       },
       {
