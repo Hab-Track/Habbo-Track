@@ -53408,6 +53408,14 @@
             clothing_couturetracksuit desc
         </description>
     </product>
+    <product code="clothing_cowonesie">
+        <name>
+            clothing_cowonesie name
+        </name>
+        <description>
+            clothing_cowonesie desc
+        </description>
+    </product>
     <product code="clothing_cozysailorhat">
         <name>
             Casquette de marin douillette
@@ -55240,6 +55248,14 @@
             clothing_gardenapron desc
         </description>
     </product>
+    <product code="clothing_gardencardigan">
+        <name>
+            clothing_gardencardigan name
+        </name>
+        <description>
+            clothing_gardencardigan desc
+        </description>
+    </product>
     <product code="clothing_gatsby">
         <name>
             Coupe des années 20
@@ -55342,6 +55358,14 @@
         </name>
         <description>
             clothing_glitzypurse desc
+        </description>
+    </product>
+    <product code="clothing_glowingfireflies">
+        <name>
+            clothing_glowingfireflies name
+        </name>
+        <description>
+            clothing_glowingfireflies desc
         </description>
     </product>
     <product code="clothing_goddesseyes_bd">
@@ -56956,6 +56980,14 @@
         </name>
         <description>
             clothing_ltd26_iridescentskin desc
+        </description>
+    </product>
+    <product code="clothing_ltd26_scarecrow">
+        <name>
+            clothing_ltd26_scarecrow name
+        </name>
+        <description>
+            clothing_ltd26_scarecrow desc
         </description>
     </product>
     <product code="clothing_ltd26_vinewings">
@@ -60800,6 +60832,22 @@
             clothing_nftstrawberryshoes desc
         </description>
     </product>
+    <product code="clothing_nftstrawhat">
+        <name>
+            clothing_nftstrawhat name
+        </name>
+        <description>
+            clothing_nftstrawhat desc
+        </description>
+    </product>
+    <product code="clothing_nftstrawmouth">
+        <name>
+            clothing_nftstrawmouth name
+        </name>
+        <description>
+            clothing_nftstrawmouth desc
+        </description>
+    </product>
     <product code="clothing_nftstreetboy">
         <name>
             Chevelure E-boy
@@ -61278,6 +61326,30 @@
         </name>
         <description>
             clothing_nftwatermelonhelmet desc
+        </description>
+    </product>
+    <product code="clothing_nftwesternhat">
+        <name>
+            clothing_nftwesternhat name
+        </name>
+        <description>
+            clothing_nftwesternhat desc
+        </description>
+    </product>
+    <product code="clothing_nftwesternshirt">
+        <name>
+            clothing_nftwesternshirt name
+        </name>
+        <description>
+            clothing_nftwesternshirt desc
+        </description>
+    </product>
+    <product code="clothing_nftwesternvest">
+        <name>
+            clothing_nftwesternvest name
+        </name>
+        <description>
+            clothing_nftwesternvest desc
         </description>
     </product>
     <product code="clothing_nftwhitebeanie">
@@ -62882,6 +62954,14 @@
         </name>
         <description>
             clothing_puffyvest desc
+        </description>
+    </product>
+    <product code="clothing_pumpkinbag2">
+        <name>
+            clothing_pumpkinbag2 name
+        </name>
+        <description>
+            clothing_pumpkinbag2 desc
         </description>
     </product>
     <product code="clothing_pumpkinbag">
@@ -66692,6 +66772,14 @@
             clothing_r26_jellyfishcut desc
         </description>
     </product>
+    <product code="clothing_r26_lambplush">
+        <name>
+            clothing_r26_lambplush name
+        </name>
+        <description>
+            clothing_r26_lambplush desc
+        </description>
+    </product>
     <product code="clothing_r26_lasersword">
         <name>
             Épée laser
@@ -68306,6 +68394,14 @@
         </name>
         <description>
             clothing_toastfriend desc
+        </description>
+    </product>
+    <product code="clothing_tomatoberet">
+        <name>
+            clothing_tomatoberet name
+        </name>
+        <description>
+            clothing_tomatoberet desc
         </description>
     </product>
     <product code="clothing_topbuttonshirt">
@@ -79612,6 +79708,22 @@
             ducket_c26_beeplushie desc
         </description>
     </product>
+    <product code="ducket_c26_charcuterie">
+        <name>
+            ducket_c26_charcuterie name
+        </name>
+        <description>
+            ducket_c26_charcuterie desc
+        </description>
+    </product>
+    <product code="ducket_c26_cosyblanket">
+        <name>
+            ducket_c26_cosyblanket name
+        </name>
+        <description>
+            ducket_c26_cosyblanket desc
+        </description>
+    </product>
     <product code="ducket_c26_cottagebed">
         <name>
             Lit chalet fonctionnel
@@ -79756,12 +79868,28 @@
             ducket_c26_nauticalpillow desc
         </description>
     </product>
+    <product code="ducket_c26_picnicbasket">
+        <name>
+            ducket_c26_picnicbasket name
+        </name>
+        <description>
+            ducket_c26_picnicbasket desc
+        </description>
+    </product>
     <product code="ducket_c26_puffin">
         <name>
             Peluche Macareux
         </name>
         <description>
             ducket_c26_puffin desc
+        </description>
+    </product>
+    <product code="ducket_c26_pumpkinspice">
+        <name>
+            ducket_c26_pumpkinspice name
+        </name>
+        <description>
+            ducket_c26_pumpkinspice desc
         </description>
     </product>
     <product code="ducket_c26_sailboat">
@@ -128084,6 +128212,14 @@
             nft_h26_bigtv desc
         </description>
     </product>
+    <product code="nft_h26_brewingkit">
+        <name>
+            nft_h26_brewingkit name
+        </name>
+        <description>
+            nft_h26_brewingkit desc
+        </description>
+    </product>
     <product code="nft_h26_bronzeboombox">
         <name>
             Boombox bronze
@@ -128138,6 +128274,38 @@
         </name>
         <description>
             nft_h26_contraband desc
+        </description>
+    </product>
+    <product code="nft_h26_cornucopia_bronze">
+        <name>
+            nft_h26_cornucopia_bronze name
+        </name>
+        <description>
+            nft_h26_cornucopia_bronze desc
+        </description>
+    </product>
+    <product code="nft_h26_cornucopia_gold">
+        <name>
+            nft_h26_cornucopia_gold name
+        </name>
+        <description>
+            nft_h26_cornucopia_gold desc
+        </description>
+    </product>
+    <product code="nft_h26_cornucopia_silver">
+        <name>
+            nft_h26_cornucopia_silver name
+        </name>
+        <description>
+            nft_h26_cornucopia_silver desc
+        </description>
+    </product>
+    <product code="nft_h26_cornucopia_trippy">
+        <name>
+            nft_h26_cornucopia_trippy name
+        </name>
+        <description>
+            nft_h26_cornucopia_trippy desc
         </description>
     </product>
     <product code="nft_h26_crates">
@@ -128210,6 +128378,14 @@
         </name>
         <description>
             nft_h26_drpgamingchair desc
+        </description>
+    </product>
+    <product code="nft_h26_farmtruck">
+        <name>
+            nft_h26_farmtruck name
+        </name>
+        <description>
+            nft_h26_farmtruck desc
         </description>
     </product>
     <product code="nft_h26_figu1">
@@ -128426,6 +128602,14 @@
         </name>
         <description>
             nft_h26_receptionistposter desc
+        </description>
+    </product>
+    <product code="nft_h26_retrofuturetv">
+        <name>
+            nft_h26_retrofuturetv name
+        </name>
+        <description>
+            nft_h26_retrofuturetv desc
         </description>
     </product>
     <product code="nft_h26_rifle_bronze">
@@ -143220,6 +143404,526 @@
         </name>
         <description>
             rainyday_r19_rainbear desc
+        </description>
+    </product>
+    <product code="ranch_c26_aspen">
+        <name>
+            ranch_c26_aspen name
+        </name>
+        <description>
+            ranch_c26_aspen desc
+        </description>
+    </product>
+    <product code="ranch_c26_basket_corn">
+        <name>
+            ranch_c26_basket_corn name
+        </name>
+        <description>
+            ranch_c26_basket_corn desc
+        </description>
+    </product>
+    <product code="ranch_c26_basket_grapes">
+        <name>
+            ranch_c26_basket_grapes name
+        </name>
+        <description>
+            ranch_c26_basket_grapes desc
+        </description>
+    </product>
+    <product code="ranch_c26_basket">
+        <name>
+            ranch_c26_basket name
+        </name>
+        <description>
+            ranch_c26_basket desc
+        </description>
+    </product>
+    <product code="ranch_c26_basket_pumpkins">
+        <name>
+            ranch_c26_basket_pumpkins name
+        </name>
+        <description>
+            ranch_c26_basket_pumpkins desc
+        </description>
+    </product>
+    <product code="ranch_c26_basket_tomatoes">
+        <name>
+            ranch_c26_basket_tomatoes name
+        </name>
+        <description>
+            ranch_c26_basket_tomatoes desc
+        </description>
+    </product>
+    <product code="ranch_c26_big_corn">
+        <name>
+            ranch_c26_big_corn name
+        </name>
+        <description>
+            ranch_c26_big_corn desc
+        </description>
+    </product>
+    <product code="ranch_c26_big_duckbergine">
+        <name>
+            ranch_c26_big_duckbergine name
+        </name>
+        <description>
+            ranch_c26_big_duckbergine desc
+        </description>
+    </product>
+    <product code="ranch_c26_big_grape">
+        <name>
+            ranch_c26_big_grape name
+        </name>
+        <description>
+            ranch_c26_big_grape desc
+        </description>
+    </product>
+    <product code="ranch_c26_big_pumpkin">
+        <name>
+            ranch_c26_big_pumpkin name
+        </name>
+        <description>
+            ranch_c26_big_pumpkin desc
+        </description>
+    </product>
+    <product code="ranch_c26_big_tomato">
+        <name>
+            ranch_c26_big_tomato name
+        </name>
+        <description>
+            ranch_c26_big_tomato desc
+        </description>
+    </product>
+    <product code="ranch_c26_carrotsack">
+        <name>
+            ranch_c26_carrotsack name
+        </name>
+        <description>
+            ranch_c26_carrotsack desc
+        </description>
+    </product>
+    <product code="ranch_c26_cow">
+        <name>
+            ranch_c26_cow name
+        </name>
+        <description>
+            ranch_c26_cow desc
+        </description>
+    </product>
+    <product code="ranch_c26_darkearth">
+        <name>
+            ranch_c26_darkearth name
+        </name>
+        <description>
+            ranch_c26_darkearth desc
+        </description>
+    </product>
+    <product code="ranch_c26_darkfence">
+        <name>
+            ranch_c26_darkfence name
+        </name>
+        <description>
+            ranch_c26_darkfence desc
+        </description>
+    </product>
+    <product code="ranch_c26_darkgate">
+        <name>
+            ranch_c26_darkgate name
+        </name>
+        <description>
+            ranch_c26_darkgate desc
+        </description>
+    </product>
+    <product code="ranch_c26_dustpath">
+        <name>
+            ranch_c26_dustpath name
+        </name>
+        <description>
+            ranch_c26_dustpath desc
+        </description>
+    </product>
+    <product code="ranch_c26_earth">
+        <name>
+            ranch_c26_earth name
+        </name>
+        <description>
+            ranch_c26_earth desc
+        </description>
+    </product>
+    <product code="ranch_c26_farmtools">
+        <name>
+            ranch_c26_farmtools name
+        </name>
+        <description>
+            ranch_c26_farmtools desc
+        </description>
+    </product>
+    <product code="ranch_c26_farmtoolsb">
+        <name>
+            ranch_c26_farmtoolsb name
+        </name>
+        <description>
+            ranch_c26_farmtoolsb desc
+        </description>
+    </product>
+    <product code="ranch_c26_freshgrass">
+        <name>
+            ranch_c26_freshgrass name
+        </name>
+        <description>
+            ranch_c26_freshgrass desc
+        </description>
+    </product>
+    <product code="ranch_c26_giantpumpkin">
+        <name>
+            ranch_c26_giantpumpkin name
+        </name>
+        <description>
+            ranch_c26_giantpumpkin desc
+        </description>
+    </product>
+    <product code="ranch_c26_grapebarrel">
+        <name>
+            ranch_c26_grapebarrel name
+        </name>
+        <description>
+            ranch_c26_grapebarrel desc
+        </description>
+    </product>
+    <product code="ranch_c26_grass">
+        <name>
+            ranch_c26_grass name
+        </name>
+        <description>
+            ranch_c26_grass desc
+        </description>
+    </product>
+    <product code="ranch_c26_hammer">
+        <name>
+            ranch_c26_hammer name
+        </name>
+        <description>
+            ranch_c26_hammer desc
+        </description>
+    </product>
+    <product code="ranch_c26_lightearth">
+        <name>
+            ranch_c26_lightearth name
+        </name>
+        <description>
+            ranch_c26_lightearth desc
+        </description>
+    </product>
+    <product code="ranch_c26_lightfence">
+        <name>
+            ranch_c26_lightfence name
+        </name>
+        <description>
+            ranch_c26_lightfence desc
+        </description>
+    </product>
+    <product code="ranch_c26_lightgate">
+        <name>
+            ranch_c26_lightgate name
+        </name>
+        <description>
+            ranch_c26_lightgate desc
+        </description>
+    </product>
+    <product code="ranch_c26_lumber">
+        <name>
+            ranch_c26_lumber name
+        </name>
+        <description>
+            ranch_c26_lumber desc
+        </description>
+    </product>
+    <product code="ranch_c26_molehill">
+        <name>
+            ranch_c26_molehill name
+        </name>
+        <description>
+            ranch_c26_molehill desc
+        </description>
+    </product>
+    <product code="ranch_c26_nails">
+        <name>
+            ranch_c26_nails name
+        </name>
+        <description>
+            ranch_c26_nails desc
+        </description>
+    </product>
+    <product code="ranch_c26_piglet">
+        <name>
+            ranch_c26_piglet name
+        </name>
+        <description>
+            ranch_c26_piglet desc
+        </description>
+    </product>
+    <product code="ranch_c26_plot">
+        <name>
+            ranch_c26_plot name
+        </name>
+        <description>
+            ranch_c26_plot desc
+        </description>
+    </product>
+    <product code="ranch_c26_plotsmall">
+        <name>
+            ranch_c26_plotsmall name
+        </name>
+        <description>
+            ranch_c26_plotsmall desc
+        </description>
+    </product>
+    <product code="ranch_c26_saplings">
+        <name>
+            ranch_c26_saplings name
+        </name>
+        <description>
+            ranch_c26_saplings desc
+        </description>
+    </product>
+    <product code="ranch_c26_saplingsb">
+        <name>
+            ranch_c26_saplingsb name
+        </name>
+        <description>
+            ranch_c26_saplingsb desc
+        </description>
+    </product>
+    <product code="ranch_c26_scarecrow">
+        <name>
+            ranch_c26_scarecrow name
+        </name>
+        <description>
+            ranch_c26_scarecrow desc
+        </description>
+    </product>
+    <product code="ranch_c26_seedpackets">
+        <name>
+            ranch_c26_seedpackets name
+        </name>
+        <description>
+            ranch_c26_seedpackets desc
+        </description>
+    </product>
+    <product code="ranch_c26_seedpacketsb">
+        <name>
+            ranch_c26_seedpacketsb name
+        </name>
+        <description>
+            ranch_c26_seedpacketsb desc
+        </description>
+    </product>
+    <product code="ranch_c26_seeds">
+        <name>
+            ranch_c26_seeds name
+        </name>
+        <description>
+            ranch_c26_seeds desc
+        </description>
+    </product>
+    <product code="ranch_c26_seedsb">
+        <name>
+            ranch_c26_seedsb name
+        </name>
+        <description>
+            ranch_c26_seedsb desc
+        </description>
+    </product>
+    <product code="ranch_c26_shed">
+        <name>
+            ranch_c26_shed name
+        </name>
+        <description>
+            ranch_c26_shed desc
+        </description>
+    </product>
+    <product code="ranch_c26_shelf">
+        <name>
+            ranch_c26_shelf name
+        </name>
+        <description>
+            ranch_c26_shelf desc
+        </description>
+    </product>
+    <product code="ranch_c26_shelter">
+        <name>
+            ranch_c26_shelter name
+        </name>
+        <description>
+            ranch_c26_shelter desc
+        </description>
+    </product>
+    <product code="ranch_c26_sign">
+        <name>
+            ranch_c26_sign name
+        </name>
+        <description>
+            ranch_c26_sign desc
+        </description>
+    </product>
+    <product code="ranch_c26_small_corn">
+        <name>
+            ranch_c26_small_corn name
+        </name>
+        <description>
+            ranch_c26_small_corn desc
+        </description>
+    </product>
+    <product code="ranch_c26_small_cornb">
+        <name>
+            ranch_c26_small_cornb name
+        </name>
+        <description>
+            ranch_c26_small_cornb desc
+        </description>
+    </product>
+    <product code="ranch_c26_small_duckbergine">
+        <name>
+            ranch_c26_small_duckbergine name
+        </name>
+        <description>
+            ranch_c26_small_duckbergine desc
+        </description>
+    </product>
+    <product code="ranch_c26_small_duckbergineb">
+        <name>
+            ranch_c26_small_duckbergineb name
+        </name>
+        <description>
+            ranch_c26_small_duckbergineb desc
+        </description>
+    </product>
+    <product code="ranch_c26_small_grape">
+        <name>
+            ranch_c26_small_grape name
+        </name>
+        <description>
+            ranch_c26_small_grape desc
+        </description>
+    </product>
+    <product code="ranch_c26_small_grapeb">
+        <name>
+            ranch_c26_small_grapeb name
+        </name>
+        <description>
+            ranch_c26_small_grapeb desc
+        </description>
+    </product>
+    <product code="ranch_c26_small_pumpkin">
+        <name>
+            ranch_c26_small_pumpkin name
+        </name>
+        <description>
+            ranch_c26_small_pumpkin desc
+        </description>
+    </product>
+    <product code="ranch_c26_small_pumpkinb">
+        <name>
+            ranch_c26_small_pumpkinb name
+        </name>
+        <description>
+            ranch_c26_small_pumpkinb desc
+        </description>
+    </product>
+    <product code="ranch_c26_small_tomato">
+        <name>
+            ranch_c26_small_tomato name
+        </name>
+        <description>
+            ranch_c26_small_tomato desc
+        </description>
+    </product>
+    <product code="ranch_c26_small_tomatob">
+        <name>
+            ranch_c26_small_tomatob name
+        </name>
+        <description>
+            ranch_c26_small_tomatob desc
+        </description>
+    </product>
+    <product code="ranch_c26_soil">
+        <name>
+            ranch_c26_soil name
+        </name>
+        <description>
+            ranch_c26_soil desc
+        </description>
+    </product>
+    <product code="ranch_c26_sunray">
+        <name>
+            ranch_c26_sunray name
+        </name>
+        <description>
+            ranch_c26_sunray desc
+        </description>
+    </product>
+    <product code="ranch_c26_sunset">
+        <name>
+            ranch_c26_sunset name
+        </name>
+        <description>
+            ranch_c26_sunset desc
+        </description>
+    </product>
+    <product code="ranch_c26_tomatosack">
+        <name>
+            ranch_c26_tomatosack name
+        </name>
+        <description>
+            ranch_c26_tomatosack desc
+        </description>
+    </product>
+    <product code="ranch_c26_weathervane">
+        <name>
+            ranch_c26_weathervane name
+        </name>
+        <description>
+            ranch_c26_weathervane desc
+        </description>
+    </product>
+    <product code="ranch_c26_wheelbarrow">
+        <name>
+            ranch_c26_wheelbarrow name
+        </name>
+        <description>
+            ranch_c26_wheelbarrow desc
+        </description>
+    </product>
+    <product code="ranch_c26_workbench">
+        <name>
+            ranch_c26_workbench name
+        </name>
+        <description>
+            ranch_c26_workbench desc
+        </description>
+    </product>
+    <product code="ranch_r26_pumpkinthrone">
+        <name>
+            ranch_r26_pumpkinthrone name
+        </name>
+        <description>
+            ranch_r26_pumpkinthrone desc
+        </description>
+    </product>
+    <product code="ranch_r26_spottedgoat">
+        <name>
+            ranch_r26_spottedgoat name
+        </name>
+        <description>
+            ranch_r26_spottedgoat desc
+        </description>
+    </product>
+    <product code="ranch_r26_statue">
+        <name>
+            ranch_r26_statue name
+        </name>
+        <description>
+            ranch_r26_statue desc
         </description>
     </product>
     <product code="random_tele_1">

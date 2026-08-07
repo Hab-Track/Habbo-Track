@@ -35242,6 +35242,11 @@
         "description": "clothing_couturetracksuit desc"
       },
       {
+        "code": "clothing_cowonesie",
+        "name": "clothing_cowonesie name",
+        "description": "clothing_cowonesie desc"
+      },
+      {
         "code": "clothing_cozysailorhat",
         "name": "Cappellino da Marinaio Confortevole",
         "description": "clothing_cozysailorhat desc"
@@ -36407,6 +36412,11 @@
         "description": "clothing_gardenapron desc"
       },
       {
+        "code": "clothing_gardencardigan",
+        "name": "clothing_gardencardigan name",
+        "description": "clothing_gardencardigan desc"
+      },
+      {
         "code": "clothing_gatsby",
         "name": "Fascino anni '20",
         "description": "Pronto ad essere indossato"
@@ -36470,6 +36480,11 @@
         "code": "clothing_glitzypurse",
         "name": "Borsetta da Sala da Ballo di Bonnie",
         "description": "clothing_glitzypurse desc"
+      },
+      {
+        "code": "clothing_glowingfireflies",
+        "name": "clothing_glowingfireflies name",
+        "description": "clothing_glowingfireflies desc"
       },
       {
         "code": "clothing_goddesseyes_bd",
@@ -37500,6 +37515,11 @@
         "code": "clothing_ltd26_iridescentskin",
         "name": "Pelle Iridescente",
         "description": "clothing_ltd26_iridescentskin desc"
+      },
+      {
+        "code": "clothing_ltd26_scarecrow",
+        "name": "clothing_ltd26_scarecrow name",
+        "description": "clothing_ltd26_scarecrow desc"
       },
       {
         "code": "clothing_ltd26_vinewings",
@@ -39917,6 +39937,16 @@
         "description": "clothing_nftstrawberryshoes desc"
       },
       {
+        "code": "clothing_nftstrawhat",
+        "name": "clothing_nftstrawhat name",
+        "description": "clothing_nftstrawhat desc"
+      },
+      {
+        "code": "clothing_nftstrawmouth",
+        "name": "clothing_nftstrawmouth name",
+        "description": "clothing_nftstrawmouth desc"
+      },
+      {
         "code": "clothing_nftstreetboy",
         "name": "Acconciatura Eboy",
         "description": "clothing_nftstreetboy desc"
@@ -40215,6 +40245,21 @@
         "code": "clothing_nftwatermelonhelmet",
         "name": "Casco Anguria",
         "description": "clothing_nftwatermelonhelmet desc"
+      },
+      {
+        "code": "clothing_nftwesternhat",
+        "name": "clothing_nftwesternhat name",
+        "description": "clothing_nftwesternhat desc"
+      },
+      {
+        "code": "clothing_nftwesternshirt",
+        "name": "clothing_nftwesternshirt name",
+        "description": "clothing_nftwesternshirt desc"
+      },
+      {
+        "code": "clothing_nftwesternvest",
+        "name": "clothing_nftwesternvest name",
+        "description": "clothing_nftwesternvest desc"
       },
       {
         "code": "clothing_nftwhitebeanie",
@@ -41225,6 +41270,11 @@
         "code": "clothing_puffyvest",
         "name": "Giubbotto di Salvataggio",
         "description": "clothing_puffyvest desc"
+      },
+      {
+        "code": "clothing_pumpkinbag2",
+        "name": "clothing_pumpkinbag2 name",
+        "description": "clothing_pumpkinbag2 desc"
       },
       {
         "code": "clothing_pumpkinbag",
@@ -43847,6 +43897,11 @@
         "description": "clothing_r26_jellyfishcut desc"
       },
       {
+        "code": "clothing_r26_lambplush",
+        "name": "clothing_r26_lambplush name",
+        "description": "clothing_r26_lambplush desc"
+      },
+      {
         "code": "clothing_r26_lasersword",
         "name": "Spada Laser",
         "description": "clothing_r26_lasersword desc"
@@ -44870,6 +44925,11 @@
         "code": "clothing_toastfriend",
         "name": "Compagno Piccolo Toast",
         "description": "clothing_toastfriend desc"
+      },
+      {
+        "code": "clothing_tomatoberet",
+        "name": "clothing_tomatoberet name",
+        "description": "clothing_tomatoberet desc"
       },
       {
         "code": "clothing_topbuttonshirt",
@@ -53372,6 +53432,16 @@
         "description": "ducket_c26_beeplushie desc"
       },
       {
+        "code": "ducket_c26_charcuterie",
+        "name": "ducket_c26_charcuterie name",
+        "description": "ducket_c26_charcuterie desc"
+      },
+      {
+        "code": "ducket_c26_cosyblanket",
+        "name": "ducket_c26_cosyblanket name",
+        "description": "ducket_c26_cosyblanket desc"
+      },
+      {
         "code": "ducket_c26_cottagebed",
         "name": "Letto del Cottage Funzionale",
         "description": "ducket_c26_cottagebed desc"
@@ -53462,9 +53532,19 @@
         "description": "ducket_c26_nauticalpillow desc"
       },
       {
+        "code": "ducket_c26_picnicbasket",
+        "name": "ducket_c26_picnicbasket name",
+        "description": "ducket_c26_picnicbasket desc"
+      },
+      {
         "code": "ducket_c26_puffin",
         "name": "Puffin Peluche",
         "description": "ducket_c26_puffin desc"
+      },
+      {
+        "code": "ducket_c26_pumpkinspice",
+        "name": "ducket_c26_pumpkinspice name",
+        "description": "ducket_c26_pumpkinspice desc"
       },
       {
         "code": "ducket_c26_sailboat",
@@ -84642,6 +84722,11 @@
         "description": "nft_h26_bigtv desc"
       },
       {
+        "code": "nft_h26_brewingkit",
+        "name": "nft_h26_brewingkit name",
+        "description": "nft_h26_brewingkit desc"
+      },
+      {
         "code": "nft_h26_bronzeboombox",
         "name": "Stereo Portatile Bronzo",
         "description": "nft_h26_bronzeboombox desc"
@@ -84675,6 +84760,26 @@
         "code": "nft_h26_contraband",
         "name": "Valigia di Contrabbando",
         "description": "nft_h26_contraband desc"
+      },
+      {
+        "code": "nft_h26_cornucopia_bronze",
+        "name": "nft_h26_cornucopia_bronze name",
+        "description": "nft_h26_cornucopia_bronze desc"
+      },
+      {
+        "code": "nft_h26_cornucopia_gold",
+        "name": "nft_h26_cornucopia_gold name",
+        "description": "nft_h26_cornucopia_gold desc"
+      },
+      {
+        "code": "nft_h26_cornucopia_silver",
+        "name": "nft_h26_cornucopia_silver name",
+        "description": "nft_h26_cornucopia_silver desc"
+      },
+      {
+        "code": "nft_h26_cornucopia_trippy",
+        "name": "nft_h26_cornucopia_trippy name",
+        "description": "nft_h26_cornucopia_trippy desc"
       },
       {
         "code": "nft_h26_crates",
@@ -84720,6 +84825,11 @@
         "code": "nft_h26_drpgamingchair",
         "name": "Sedia da Gaming in Polyfon Retrò",
         "description": "nft_h26_drpgamingchair desc"
+      },
+      {
+        "code": "nft_h26_farmtruck",
+        "name": "nft_h26_farmtruck name",
+        "description": "nft_h26_farmtruck desc"
       },
       {
         "code": "nft_h26_figu1",
@@ -84855,6 +84965,11 @@
         "code": "nft_h26_receptionistposter",
         "name": "Poster The Receptionist",
         "description": "nft_h26_receptionistposter desc"
+      },
+      {
+        "code": "nft_h26_retrofuturetv",
+        "name": "nft_h26_retrofuturetv name",
+        "description": "nft_h26_retrofuturetv desc"
       },
       {
         "code": "nft_h26_rifle_bronze",
@@ -94390,6 +94505,331 @@
         "code": "rainyday_r19_rainbear",
         "name": "Piccolo Procione",
         "description": "rainyday_r19_rainbear desc"
+      },
+      {
+        "code": "ranch_c26_aspen",
+        "name": "ranch_c26_aspen name",
+        "description": "ranch_c26_aspen desc"
+      },
+      {
+        "code": "ranch_c26_basket_corn",
+        "name": "ranch_c26_basket_corn name",
+        "description": "ranch_c26_basket_corn desc"
+      },
+      {
+        "code": "ranch_c26_basket_grapes",
+        "name": "ranch_c26_basket_grapes name",
+        "description": "ranch_c26_basket_grapes desc"
+      },
+      {
+        "code": "ranch_c26_basket",
+        "name": "ranch_c26_basket name",
+        "description": "ranch_c26_basket desc"
+      },
+      {
+        "code": "ranch_c26_basket_pumpkins",
+        "name": "ranch_c26_basket_pumpkins name",
+        "description": "ranch_c26_basket_pumpkins desc"
+      },
+      {
+        "code": "ranch_c26_basket_tomatoes",
+        "name": "ranch_c26_basket_tomatoes name",
+        "description": "ranch_c26_basket_tomatoes desc"
+      },
+      {
+        "code": "ranch_c26_big_corn",
+        "name": "ranch_c26_big_corn name",
+        "description": "ranch_c26_big_corn desc"
+      },
+      {
+        "code": "ranch_c26_big_duckbergine",
+        "name": "ranch_c26_big_duckbergine name",
+        "description": "ranch_c26_big_duckbergine desc"
+      },
+      {
+        "code": "ranch_c26_big_grape",
+        "name": "ranch_c26_big_grape name",
+        "description": "ranch_c26_big_grape desc"
+      },
+      {
+        "code": "ranch_c26_big_pumpkin",
+        "name": "ranch_c26_big_pumpkin name",
+        "description": "ranch_c26_big_pumpkin desc"
+      },
+      {
+        "code": "ranch_c26_big_tomato",
+        "name": "ranch_c26_big_tomato name",
+        "description": "ranch_c26_big_tomato desc"
+      },
+      {
+        "code": "ranch_c26_carrotsack",
+        "name": "ranch_c26_carrotsack name",
+        "description": "ranch_c26_carrotsack desc"
+      },
+      {
+        "code": "ranch_c26_cow",
+        "name": "ranch_c26_cow name",
+        "description": "ranch_c26_cow desc"
+      },
+      {
+        "code": "ranch_c26_darkearth",
+        "name": "ranch_c26_darkearth name",
+        "description": "ranch_c26_darkearth desc"
+      },
+      {
+        "code": "ranch_c26_darkfence",
+        "name": "ranch_c26_darkfence name",
+        "description": "ranch_c26_darkfence desc"
+      },
+      {
+        "code": "ranch_c26_darkgate",
+        "name": "ranch_c26_darkgate name",
+        "description": "ranch_c26_darkgate desc"
+      },
+      {
+        "code": "ranch_c26_dustpath",
+        "name": "ranch_c26_dustpath name",
+        "description": "ranch_c26_dustpath desc"
+      },
+      {
+        "code": "ranch_c26_earth",
+        "name": "ranch_c26_earth name",
+        "description": "ranch_c26_earth desc"
+      },
+      {
+        "code": "ranch_c26_farmtools",
+        "name": "ranch_c26_farmtools name",
+        "description": "ranch_c26_farmtools desc"
+      },
+      {
+        "code": "ranch_c26_farmtoolsb",
+        "name": "ranch_c26_farmtoolsb name",
+        "description": "ranch_c26_farmtoolsb desc"
+      },
+      {
+        "code": "ranch_c26_freshgrass",
+        "name": "ranch_c26_freshgrass name",
+        "description": "ranch_c26_freshgrass desc"
+      },
+      {
+        "code": "ranch_c26_giantpumpkin",
+        "name": "ranch_c26_giantpumpkin name",
+        "description": "ranch_c26_giantpumpkin desc"
+      },
+      {
+        "code": "ranch_c26_grapebarrel",
+        "name": "ranch_c26_grapebarrel name",
+        "description": "ranch_c26_grapebarrel desc"
+      },
+      {
+        "code": "ranch_c26_grass",
+        "name": "ranch_c26_grass name",
+        "description": "ranch_c26_grass desc"
+      },
+      {
+        "code": "ranch_c26_hammer",
+        "name": "ranch_c26_hammer name",
+        "description": "ranch_c26_hammer desc"
+      },
+      {
+        "code": "ranch_c26_lightearth",
+        "name": "ranch_c26_lightearth name",
+        "description": "ranch_c26_lightearth desc"
+      },
+      {
+        "code": "ranch_c26_lightfence",
+        "name": "ranch_c26_lightfence name",
+        "description": "ranch_c26_lightfence desc"
+      },
+      {
+        "code": "ranch_c26_lightgate",
+        "name": "ranch_c26_lightgate name",
+        "description": "ranch_c26_lightgate desc"
+      },
+      {
+        "code": "ranch_c26_lumber",
+        "name": "ranch_c26_lumber name",
+        "description": "ranch_c26_lumber desc"
+      },
+      {
+        "code": "ranch_c26_molehill",
+        "name": "ranch_c26_molehill name",
+        "description": "ranch_c26_molehill desc"
+      },
+      {
+        "code": "ranch_c26_nails",
+        "name": "ranch_c26_nails name",
+        "description": "ranch_c26_nails desc"
+      },
+      {
+        "code": "ranch_c26_piglet",
+        "name": "ranch_c26_piglet name",
+        "description": "ranch_c26_piglet desc"
+      },
+      {
+        "code": "ranch_c26_plot",
+        "name": "ranch_c26_plot name",
+        "description": "ranch_c26_plot desc"
+      },
+      {
+        "code": "ranch_c26_plotsmall",
+        "name": "ranch_c26_plotsmall name",
+        "description": "ranch_c26_plotsmall desc"
+      },
+      {
+        "code": "ranch_c26_saplings",
+        "name": "ranch_c26_saplings name",
+        "description": "ranch_c26_saplings desc"
+      },
+      {
+        "code": "ranch_c26_saplingsb",
+        "name": "ranch_c26_saplingsb name",
+        "description": "ranch_c26_saplingsb desc"
+      },
+      {
+        "code": "ranch_c26_scarecrow",
+        "name": "ranch_c26_scarecrow name",
+        "description": "ranch_c26_scarecrow desc"
+      },
+      {
+        "code": "ranch_c26_seedpackets",
+        "name": "ranch_c26_seedpackets name",
+        "description": "ranch_c26_seedpackets desc"
+      },
+      {
+        "code": "ranch_c26_seedpacketsb",
+        "name": "ranch_c26_seedpacketsb name",
+        "description": "ranch_c26_seedpacketsb desc"
+      },
+      {
+        "code": "ranch_c26_seeds",
+        "name": "ranch_c26_seeds name",
+        "description": "ranch_c26_seeds desc"
+      },
+      {
+        "code": "ranch_c26_seedsb",
+        "name": "ranch_c26_seedsb name",
+        "description": "ranch_c26_seedsb desc"
+      },
+      {
+        "code": "ranch_c26_shed",
+        "name": "ranch_c26_shed name",
+        "description": "ranch_c26_shed desc"
+      },
+      {
+        "code": "ranch_c26_shelf",
+        "name": "ranch_c26_shelf name",
+        "description": "ranch_c26_shelf desc"
+      },
+      {
+        "code": "ranch_c26_shelter",
+        "name": "ranch_c26_shelter name",
+        "description": "ranch_c26_shelter desc"
+      },
+      {
+        "code": "ranch_c26_sign",
+        "name": "ranch_c26_sign name",
+        "description": "ranch_c26_sign desc"
+      },
+      {
+        "code": "ranch_c26_small_corn",
+        "name": "ranch_c26_small_corn name",
+        "description": "ranch_c26_small_corn desc"
+      },
+      {
+        "code": "ranch_c26_small_cornb",
+        "name": "ranch_c26_small_cornb name",
+        "description": "ranch_c26_small_cornb desc"
+      },
+      {
+        "code": "ranch_c26_small_duckbergine",
+        "name": "ranch_c26_small_duckbergine name",
+        "description": "ranch_c26_small_duckbergine desc"
+      },
+      {
+        "code": "ranch_c26_small_duckbergineb",
+        "name": "ranch_c26_small_duckbergineb name",
+        "description": "ranch_c26_small_duckbergineb desc"
+      },
+      {
+        "code": "ranch_c26_small_grape",
+        "name": "ranch_c26_small_grape name",
+        "description": "ranch_c26_small_grape desc"
+      },
+      {
+        "code": "ranch_c26_small_grapeb",
+        "name": "ranch_c26_small_grapeb name",
+        "description": "ranch_c26_small_grapeb desc"
+      },
+      {
+        "code": "ranch_c26_small_pumpkin",
+        "name": "ranch_c26_small_pumpkin name",
+        "description": "ranch_c26_small_pumpkin desc"
+      },
+      {
+        "code": "ranch_c26_small_pumpkinb",
+        "name": "ranch_c26_small_pumpkinb name",
+        "description": "ranch_c26_small_pumpkinb desc"
+      },
+      {
+        "code": "ranch_c26_small_tomato",
+        "name": "ranch_c26_small_tomato name",
+        "description": "ranch_c26_small_tomato desc"
+      },
+      {
+        "code": "ranch_c26_small_tomatob",
+        "name": "ranch_c26_small_tomatob name",
+        "description": "ranch_c26_small_tomatob desc"
+      },
+      {
+        "code": "ranch_c26_soil",
+        "name": "ranch_c26_soil name",
+        "description": "ranch_c26_soil desc"
+      },
+      {
+        "code": "ranch_c26_sunray",
+        "name": "ranch_c26_sunray name",
+        "description": "ranch_c26_sunray desc"
+      },
+      {
+        "code": "ranch_c26_sunset",
+        "name": "ranch_c26_sunset name",
+        "description": "ranch_c26_sunset desc"
+      },
+      {
+        "code": "ranch_c26_tomatosack",
+        "name": "ranch_c26_tomatosack name",
+        "description": "ranch_c26_tomatosack desc"
+      },
+      {
+        "code": "ranch_c26_weathervane",
+        "name": "ranch_c26_weathervane name",
+        "description": "ranch_c26_weathervane desc"
+      },
+      {
+        "code": "ranch_c26_wheelbarrow",
+        "name": "ranch_c26_wheelbarrow name",
+        "description": "ranch_c26_wheelbarrow desc"
+      },
+      {
+        "code": "ranch_c26_workbench",
+        "name": "ranch_c26_workbench name",
+        "description": "ranch_c26_workbench desc"
+      },
+      {
+        "code": "ranch_r26_pumpkinthrone",
+        "name": "ranch_r26_pumpkinthrone name",
+        "description": "ranch_r26_pumpkinthrone desc"
+      },
+      {
+        "code": "ranch_r26_spottedgoat",
+        "name": "ranch_r26_spottedgoat name",
+        "description": "ranch_r26_spottedgoat desc"
+      },
+      {
+        "code": "ranch_r26_statue",
+        "name": "ranch_r26_statue name",
+        "description": "ranch_r26_statue desc"
       },
       {
         "code": "random_tele_1",
