@@ -13822,6 +13822,9 @@
             <set id="6474" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="7400" type="ha" colorable="0" index="0" colorindex="0"/>
                 <part id="7513" type="ha" colorable="1" index="1" colorindex="1"/>
+                <hiddenlayers>
+                    <layer parttype="hrb"/>
+                </hiddenlayers>
             </set>
             <set id="6479" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="7409" type="ha" colorable="1" index="0" colorindex="1"/>
