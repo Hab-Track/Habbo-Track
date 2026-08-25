@@ -55052,6 +55052,14 @@
             clothing_duckethoneyshirt desc
         </description>
     </product>
+    <product code="clothing_ducketleafcrown">
+        <name>
+            clothing_ducketleafcrown name
+        </name>
+        <description>
+            clothing_ducketleafcrown desc
+        </description>
+    </product>
     <product code="clothing_ducketoutfit">
         <name>
             Ducket Avcı Kıyafeti
@@ -87230,6 +87238,22 @@
             ducket_c26_anchorpillow desc
         </description>
     </product>
+    <product code="ducket_c26_appletree">
+        <name>
+            ducket_c26_appletree name
+        </name>
+        <description>
+            ducket_c26_appletree desc
+        </description>
+    </product>
+    <product code="ducket_c26_autumncandle">
+        <name>
+            ducket_c26_autumncandle name
+        </name>
+        <description>
+            ducket_c26_autumncandle desc
+        </description>
+    </product>
     <product code="ducket_c26_beeplushie">
         <name>
             Arı Pelüşü
@@ -87380,6 +87404,14 @@
         </name>
         <description>
             ducket_c26_largecottageshelf desc
+        </description>
+    </product>
+    <product code="ducket_c26_leafpile">
+        <name>
+            ducket_c26_leafpile name
+        </name>
+        <description>
+            ducket_c26_leafpile desc
         </description>
     </product>
     <product code="ducket_c26_minilighthouse">
@@ -98466,6 +98498,14 @@
         </name>
         <description>
             giftbox_c25_crackable7 desc
+        </description>
+    </product>
+    <product code="giftbox_c26_crackable_hween">
+        <name>
+            giftbox_c26_crackable_hween name
+        </name>
+        <description>
+            giftbox_c26_crackable_hween desc
         </description>
     </product>
     <product code="gld_badgewall_tall">
@@ -112102,6 +112142,326 @@
             hween_c25_weed3 desc
         </description>
     </product>
+    <product code="hween_c26_batpillow">
+        <name>
+            hween_c26_batpillow name
+        </name>
+        <description>
+            hween_c26_batpillow desc
+        </description>
+    </product>
+    <product code="hween_c26_bookshelf">
+        <name>
+            hween_c26_bookshelf name
+        </name>
+        <description>
+            hween_c26_bookshelf desc
+        </description>
+    </product>
+    <product code="hween_c26_cage">
+        <name>
+            hween_c26_cage name
+        </name>
+        <description>
+            hween_c26_cage desc
+        </description>
+    </product>
+    <product code="hween_c26_circle">
+        <name>
+            hween_c26_circle name
+        </name>
+        <description>
+            hween_c26_circle desc
+        </description>
+    </product>
+    <product code="hween_c26_darkfiend">
+        <name>
+            hween_c26_darkfiend name
+        </name>
+        <description>
+            hween_c26_darkfiend desc
+        </description>
+    </product>
+    <product code="hween_c26_darkfiendb">
+        <name>
+            hween_c26_darkfiendb name
+        </name>
+        <description>
+            hween_c26_darkfiendb desc
+        </description>
+    </product>
+    <product code="hween_c26_dresser">
+        <name>
+            hween_c26_dresser name
+        </name>
+        <description>
+            hween_c26_dresser desc
+        </description>
+    </product>
+    <product code="hween_c26_dresserb">
+        <name>
+            hween_c26_dresserb name
+        </name>
+        <description>
+            hween_c26_dresserb desc
+        </description>
+    </product>
+    <product code="hween_c26_gallerywall">
+        <name>
+            hween_c26_gallerywall name
+        </name>
+        <description>
+            hween_c26_gallerywall desc
+        </description>
+    </product>
+    <product code="hween_c26_glassdisplay">
+        <name>
+            hween_c26_glassdisplay name
+        </name>
+        <description>
+            hween_c26_glassdisplay desc
+        </description>
+    </product>
+    <product code="hween_c26_gothcandle">
+        <name>
+            hween_c26_gothcandle name
+        </name>
+        <description>
+            hween_c26_gothcandle desc
+        </description>
+    </product>
+    <product code="hween_c26_hatchteleport">
+        <name>
+            hween_c26_hatchteleport name
+        </name>
+        <description>
+            hween_c26_hatchteleport desc
+        </description>
+    </product>
+    <product code="hween_c26_hauntedmirror">
+        <name>
+            hween_c26_hauntedmirror name
+        </name>
+        <description>
+            hween_c26_hauntedmirror desc
+        </description>
+    </product>
+    <product code="hween_c26_ivycandle">
+        <name>
+            hween_c26_ivycandle name
+        </name>
+        <description>
+            hween_c26_ivycandle desc
+        </description>
+    </product>
+    <product code="hween_c26_ivystatue">
+        <name>
+            hween_c26_ivystatue name
+        </name>
+        <description>
+            hween_c26_ivystatue desc
+        </description>
+    </product>
+    <product code="hween_c26_letteropener">
+        <name>
+            hween_c26_letteropener name
+        </name>
+        <description>
+            hween_c26_letteropener desc
+        </description>
+    </product>
+    <product code="hween_c26_letters">
+        <name>
+            hween_c26_letters name
+        </name>
+        <description>
+            hween_c26_letters desc
+        </description>
+    </product>
+    <product code="hween_c26_readingchair">
+        <name>
+            hween_c26_readingchair name
+        </name>
+        <description>
+            hween_c26_readingchair desc
+        </description>
+    </product>
+    <product code="hween_c26_readingcouch">
+        <name>
+            hween_c26_readingcouch name
+        </name>
+        <description>
+            hween_c26_readingcouch desc
+        </description>
+    </product>
+    <product code="hween_c26_secretdoor">
+        <name>
+            hween_c26_secretdoor name
+        </name>
+        <description>
+            hween_c26_secretdoor desc
+        </description>
+    </product>
+    <product code="hween_c26_skullvase">
+        <name>
+            hween_c26_skullvase name
+        </name>
+        <description>
+            hween_c26_skullvase desc
+        </description>
+    </product>
+    <product code="hween_c26_window">
+        <name>
+            hween_c26_window name
+        </name>
+        <description>
+            hween_c26_window desc
+        </description>
+    </product>
+    <product code="hween_c26_wornfloorboards">
+        <name>
+            hween_c26_wornfloorboards name
+        </name>
+        <description>
+            hween_c26_wornfloorboards desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_batfriend">
+        <name>
+            hween_cloth_c26_batfriend name
+        </name>
+        <description>
+            hween_cloth_c26_batfriend desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_batonesie">
+        <name>
+            hween_cloth_c26_batonesie name
+        </name>
+        <description>
+            hween_cloth_c26_batonesie desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_cat">
+        <name>
+            hween_cloth_c26_cat name
+        </name>
+        <description>
+            hween_cloth_c26_cat desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_dollhairdo">
+        <name>
+            hween_cloth_c26_dollhairdo name
+        </name>
+        <description>
+            hween_cloth_c26_dollhairdo desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_gothicmakeup">
+        <name>
+            hween_cloth_c26_gothicmakeup name
+        </name>
+        <description>
+            hween_cloth_c26_gothicmakeup desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_hauntedpuppet">
+        <name>
+            hween_cloth_c26_hauntedpuppet name
+        </name>
+        <description>
+            hween_cloth_c26_hauntedpuppet desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_loosesocks">
+        <name>
+            hween_cloth_c26_loosesocks name
+        </name>
+        <description>
+            hween_cloth_c26_loosesocks desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_raven">
+        <name>
+            hween_cloth_c26_raven name
+        </name>
+        <description>
+            hween_cloth_c26_raven desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_ruffledcuffs">
+        <name>
+            hween_cloth_c26_ruffledcuffs name
+        </name>
+        <description>
+            hween_cloth_c26_ruffledcuffs desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_skeletalheadband">
+        <name>
+            hween_cloth_c26_skeletalheadband name
+        </name>
+        <description>
+            hween_cloth_c26_skeletalheadband desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_studentcardigan">
+        <name>
+            hween_cloth_c26_studentcardigan name
+        </name>
+        <description>
+            hween_cloth_c26_studentcardigan desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_tinyowl">
+        <name>
+            hween_cloth_c26_tinyowl name
+        </name>
+        <description>
+            hween_cloth_c26_tinyowl desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_vintagebag">
+        <name>
+            hween_cloth_c26_vintagebag name
+        </name>
+        <description>
+            hween_cloth_c26_vintagebag desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_wizardcurls">
+        <name>
+            hween_cloth_c26_wizardcurls name
+        </name>
+        <description>
+            hween_cloth_c26_wizardcurls desc
+        </description>
+    </product>
+    <product code="hween_cloth_r26_darkaura">
+        <name>
+            hween_cloth_r26_darkaura name
+        </name>
+        <description>
+            hween_cloth_r26_darkaura desc
+        </description>
+    </product>
+    <product code="hween_cloth_r26_possessedpumpkin">
+        <name>
+            hween_cloth_r26_possessedpumpkin name
+        </name>
+        <description>
+            hween_cloth_r26_possessedpumpkin desc
+        </description>
+    </product>
+    <product code="hween_cloth_r26_wizardgarb">
+        <name>
+            hween_cloth_r26_wizardgarb name
+        </name>
+        <description>
+            hween_cloth_r26_wizardgarb desc
+        </description>
+    </product>
     <product code="hween_daily1">
         <name>
             Daily Quest Prize 1
@@ -112248,6 +112608,14 @@
         </name>
         <description>
             hween_ltd23_oasis desc
+        </description>
+    </product>
+    <product code="hween_ltd26_curseddragonlamp">
+        <name>
+            hween_ltd26_curseddragonlamp name
+        </name>
+        <description>
+            hween_ltd26_curseddragonlamp desc
         </description>
     </product>
     <product code="hween_r16_chandelier2">
@@ -112600,6 +112968,22 @@
         </name>
         <description>
             hween_r25_specimen desc
+        </description>
+    </product>
+    <product code="hween_r26_cursedcauldron">
+        <name>
+            hween_r26_cursedcauldron name
+        </name>
+        <description>
+            hween_r26_cursedcauldron desc
+        </description>
+    </product>
+    <product code="hween_r26_gargoylefountain">
+        <name>
+            hween_r26_gargoylefountain name
+        </name>
+        <description>
+            hween_r26_gargoylefountain desc
         </description>
     </product>
     <product code="hwn_deal_1">
@@ -136469,6 +136853,14 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
             nft_h26_bronzeelf desc
         </description>
     </product>
+    <product code="nft_h26_broomstickrack">
+        <name>
+            nft_h26_broomstickrack name
+        </name>
+        <description>
+            nft_h26_broomstickrack desc
+        </description>
+    </product>
     <product code="nft_h26_cardchair">
         <name>
             Oyun Sandalyesi
@@ -136483,6 +136875,38 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
         </name>
         <description>
             nft_h26_cardtable desc
+        </description>
+    </product>
+    <product code="nft_h26_cauldron_bronze">
+        <name>
+            nft_h26_cauldron_bronze name
+        </name>
+        <description>
+            nft_h26_cauldron_bronze desc
+        </description>
+    </product>
+    <product code="nft_h26_cauldron_gold">
+        <name>
+            nft_h26_cauldron_gold name
+        </name>
+        <description>
+            nft_h26_cauldron_gold desc
+        </description>
+    </product>
+    <product code="nft_h26_cauldron_silver">
+        <name>
+            nft_h26_cauldron_silver name
+        </name>
+        <description>
+            nft_h26_cauldron_silver desc
+        </description>
+    </product>
+    <product code="nft_h26_cauldron_trippy">
+        <name>
+            nft_h26_cauldron_trippy name
+        </name>
+        <description>
+            nft_h26_cauldron_trippy desc
         </description>
     </product>
     <product code="nft_h26_contraband">
@@ -136701,6 +137125,14 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
             nft_h26_hafbox desc
         </description>
     </product>
+    <product code="nft_h26_ingredientshelf">
+        <name>
+            nft_h26_ingredientshelf name
+        </name>
+        <description>
+            nft_h26_ingredientshelf desc
+        </description>
+    </product>
     <product code="nft_h26_joystick">
         <name>
             Büyük Joystick Dekorasyonu
@@ -136869,6 +137301,14 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
             nft_h26_sandmangnome desc
         </description>
     </product>
+    <product code="nft_h26_scarywitch">
+        <name>
+            nft_h26_scarywitch name
+        </name>
+        <description>
+            nft_h26_scarywitch desc
+        </description>
+    </product>
     <product code="nft_h26_silverboombox">
         <name>
             Gümüş Boombox
@@ -136899,6 +137339,14 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
         </name>
         <description>
             nft_h26_silverelf desc
+        </description>
+    </product>
+    <product code="nft_h26_spellingredients">
+        <name>
+            nft_h26_spellingredients name
+        </name>
+        <description>
+            nft_h26_spellingredients desc
         </description>
     </product>
     <product code="nft_h26_sunlounger">
@@ -136947,6 +137395,30 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
         </name>
         <description>
             nft_h26_trippyelf desc
+        </description>
+    </product>
+    <product code="nft_h26_witchchair">
+        <name>
+            nft_h26_witchchair name
+        </name>
+        <description>
+            nft_h26_witchchair desc
+        </description>
+    </product>
+    <product code="nft_h26_witchfigure">
+        <name>
+            nft_h26_witchfigure name
+        </name>
+        <description>
+            nft_h26_witchfigure desc
+        </description>
+    </product>
+    <product code="nft_h26_witchworkstation">
+        <name>
+            nft_h26_witchworkstation name
+        </name>
+        <description>
+            nft_h26_witchworkstation desc
         </description>
     </product>
     <product code="nft_habbo15_beehive">
@@ -139041,6 +139513,22 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
             nft_sc25_warningsign desc
         </description>
     </product>
+    <product code="nft_sc26_alchemykit">
+        <name>
+            nft_sc26_alchemykit name
+        </name>
+        <description>
+            nft_sc26_alchemykit desc
+        </description>
+    </product>
+    <product code="nft_sc26_flyingbook">
+        <name>
+            nft_sc26_flyingbook name
+        </name>
+        <description>
+            nft_sc26_flyingbook desc
+        </description>
+    </product>
     <product code="nft_sc_bodybag">
         <name>
             Şüpheli Habbo Şeklinde Çanta
@@ -139159,6 +139647,30 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
         </name>
         <description>
             nft_sc_summer26penguin desc
+        </description>
+    </product>
+    <product code="nft_sc_towernook">
+        <name>
+            nft_sc_towernook name
+        </name>
+        <description>
+            nft_sc_towernook desc
+        </description>
+    </product>
+    <product code="nft_sc_transmogrification">
+        <name>
+            nft_sc_transmogrification name
+        </name>
+        <description>
+            nft_sc_transmogrification desc
+        </description>
+    </product>
+    <product code="nft_sc_wanddisplay">
+        <name>
+            nft_sc_wanddisplay name
+        </name>
+        <description>
+            nft_sc_wanddisplay desc
         </description>
     </product>
     <product code="nft_school_chairgold">
@@ -173733,6 +174245,38 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
         </name>
         <description>
             sc25_warningsign desc
+        </description>
+    </product>
+    <product code="sc26_alchemykit">
+        <name>
+            sc26_alchemykit name
+        </name>
+        <description>
+            sc26_alchemykit desc
+        </description>
+    </product>
+    <product code="sc26_flyingbook">
+        <name>
+            sc26_flyingbook name
+        </name>
+        <description>
+            sc26_flyingbook desc
+        </description>
+    </product>
+    <product code="sc26_transmogrification">
+        <name>
+            sc26_transmogrification name
+        </name>
+        <description>
+            sc26_transmogrification desc
+        </description>
+    </product>
+    <product code="sc26_wanddisplay">
+        <name>
+            sc26_wanddisplay name
+        </name>
+        <description>
+            sc26_wanddisplay desc
         </description>
     </product>
     <product code="sc_bodybag">
