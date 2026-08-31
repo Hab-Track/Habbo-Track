@@ -123569,6 +123569,14 @@ Caja + Wired
             Limpia el polvo y podrás ver el futuro...
         </description>
     </product>
+    <product code="nft_attic15_telescope">
+        <name>
+            nft_attic15_telescope name
+        </name>
+        <description>
+            nft_attic15_telescope desc
+        </description>
+    </product>
     <product code="nft_autumn_r20_pond">
         <name>
             Estanque de los deseos Otoñal
@@ -123717,6 +123725,38 @@ Caja + Wired
         </name>
         <description>
             nft_bonusrare16_2_4 desc
+        </description>
+    </product>
+    <product code="nft_bonusrare16_3_1">
+        <name>
+            nft_bonusrare16_3_1 name
+        </name>
+        <description>
+            nft_bonusrare16_3_1 desc
+        </description>
+    </product>
+    <product code="nft_bonusrare16_3_2">
+        <name>
+            nft_bonusrare16_3_2 name
+        </name>
+        <description>
+            nft_bonusrare16_3_2 desc
+        </description>
+    </product>
+    <product code="nft_bonusrare16_3_3">
+        <name>
+            nft_bonusrare16_3_3 name
+        </name>
+        <description>
+            nft_bonusrare16_3_3 desc
+        </description>
+    </product>
+    <product code="nft_bonusrare16_3_4">
+        <name>
+            nft_bonusrare16_3_4 name
+        </name>
+        <description>
+            nft_bonusrare16_3_4 desc
         </description>
     </product>
     <product code="nft_book_rare_0">
@@ -124135,6 +124175,14 @@ Caja + Wired
         </name>
         <description>
             Cañón
+        </description>
+    </product>
+    <product code="nft_carnival15_hotair_brazil">
+        <name>
+            nft_carnival15_hotair_brazil name
+        </name>
+        <description>
+            nft_carnival15_hotair_brazil desc
         </description>
     </product>
     <product code="nft_catcafe_c23_cattree">
@@ -125739,6 +125787,14 @@ Caja + Wired
         </name>
         <description>
             Autóctono de los bosques de Cuba
+        </description>
+    </product>
+    <product code="nft_fest_r19_gemowl">
+        <name>
+            nft_fest_r19_gemowl name
+        </name>
+        <description>
+            nft_fest_r19_gemowl desc
         </description>
     </product>
     <product code="nft_ff23_commonbox">
@@ -131789,12 +131845,28 @@ Caja + Wired
             ¡Pura potencia!
         </description>
     </product>
+    <product code="nft_js_r16_heli">
+        <name>
+            nft_js_r16_heli name
+        </name>
+        <description>
+            nft_js_r16_heli desc
+        </description>
+    </product>
     <product code="nft_js_r16_jelly">
         <name>
             Lámpara Medusa
         </name>
         <description>
             Emite un resplandor azul cálido.
+        </description>
+    </product>
+    <product code="nft_js_r16_shark">
+        <name>
+            nft_js_r16_shark name
+        </name>
+        <description>
+            nft_js_r16_shark desc
         </description>
     </product>
     <product code="nft_jungle_r16_basket">
@@ -132281,6 +132353,22 @@ Caja + Wired
             ¡Siente la ira del Dios del Mar!
         </description>
     </product>
+    <product code="nft_plushie_r20_hammock">
+        <name>
+            nft_plushie_r20_hammock name
+        </name>
+        <description>
+            nft_plushie_r20_hammock desc
+        </description>
+    </product>
+    <product code="nft_plushie_r20_picnictree">
+        <name>
+            nft_plushie_r20_picnictree name
+        </name>
+        <description>
+            nft_plushie_r20_picnictree desc
+        </description>
+    </product>
     <product code="nft_qt_sum11_dragon">
         <name>
             Dragón de Arena
@@ -132351,6 +132439,22 @@ Caja + Wired
         </name>
         <description>
             nft_qt_xm10_trex desc
+        </description>
+    </product>
+    <product code="nft_rainyday_r19_fluffbun">
+        <name>
+            nft_rainyday_r19_fluffbun name
+        </name>
+        <description>
+            nft_rainyday_r19_fluffbun desc
+        </description>
+    </product>
+    <product code="nft_rainyday_r19_rainbear">
+        <name>
+            nft_rainyday_r19_rainbear name
+        </name>
+        <description>
+            nft_rainyday_r19_rainbear desc
         </description>
     </product>
     <product code="nft_rare_beehive_bulb*1">
@@ -132459,6 +132563,14 @@ Caja + Wired
         </name>
         <description>
             nft_rare_blackrosegold_scifidoor desc
+        </description>
+    </product>
+    <product code="nft_rare_blackrosegold_scifiport">
+        <name>
+            nft_rare_blackrosegold_scifiport name
+        </name>
+        <description>
+            nft_rare_blackrosegold_scifiport desc
         </description>
     </product>
     <product code="nft_rare_blackrosegold_scifirocket">
@@ -133109,6 +133221,22 @@ Caja + Wired
             nft_rare_r19_car1 desc
         </description>
     </product>
+    <product code="nft_rare_r20_balloonchair">
+        <name>
+            nft_rare_r20_balloonchair name
+        </name>
+        <description>
+            nft_rare_r20_balloonchair desc
+        </description>
+    </product>
+    <product code="nft_rare_r20_wardrobe">
+        <name>
+            nft_rare_r20_wardrobe name
+        </name>
+        <description>
+            nft_rare_r20_wardrobe desc
+        </description>
+    </product>
     <product code="nft_rare_r23_djesko_turntable_2">
         <name>
             RARO Tocadiscos DJ Verde
@@ -133709,6 +133837,14 @@ Caja + Wired
             ¡Sé el mejor de la clase!
         </description>
     </product>
+    <product code="nft_school_gate">
+        <name>
+            nft_school_gate name
+        </name>
+        <description>
+            nft_school_gate desc
+        </description>
+    </product>
     <product code="nft_scifidoor_1">
         <name>
             $product_scifidoor_1_name$
@@ -133881,6 +134017,14 @@ Caja + Wired
         </name>
         <description>
             Un viaje a la cuarta dimensión
+        </description>
+    </product>
+    <product code="nft_suncity_r19_glassfountain">
+        <name>
+            nft_suncity_r19_glassfountain name
+        </name>
+        <description>
+            nft_suncity_r19_glassfountain desc
         </description>
     </product>
     <product code="nft_super_c16_pstrlove">
@@ -186179,7 +186323,9 @@ Caja + Wired
         <name>
             Complemento de Variable Global: Web API
         </name>
-        <description></description>
+        <description>
+            wf_xtra_var_web_api desc
+        </description>
     </product>
     <product code="white diner_bardesk_corner">
         <name>
