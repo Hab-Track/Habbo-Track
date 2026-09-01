@@ -78490,6 +78490,30 @@
         </name>
         <description></description>
     </product>
+    <product code="dia_c26_charcuterie">
+        <name>
+            Charcuterie Board
+        </name>
+        <description></description>
+    </product>
+    <product code="dia_c26_cosyblanket">
+        <name>
+            Cozy Picnic Blanket
+        </name>
+        <description></description>
+    </product>
+    <product code="dia_c26_picnicbasket">
+        <name>
+            Precious Picnic Basket
+        </name>
+        <description></description>
+    </product>
+    <product code="dia_c26_pumpkinspice">
+        <name>
+            Pumpkin Spice Drink
+        </name>
+        <description></description>
+    </product>
     <product code="dia_podium">
         <name>
             Podio di Diamante
@@ -80908,19 +80932,19 @@
     </product>
     <product code="dlc_world1">
         <name>
-            DLC World 1 Pass - Inside a Painting
+            Pass DLC 1 - Dentro un Dipinto
         </name>
         <description></description>
     </product>
     <product code="dlc_world2">
         <name>
-            DLC World 2 Pass - Mechatronic Zone
+            Pass DLC 2 - Zona Meccatronica
         </name>
         <description></description>
     </product>
     <product code="dlc_world3">
         <name>
-            DLC World 3 Pass - Quacktopia
+            Pass DLC 3 - Quacktopia
         </name>
         <description></description>
     </product>
@@ -81976,7 +82000,7 @@
     </product>
     <product code="ducket_c26_charcuterie">
         <name>
-            ducket_c26_charcuterie name
+            Charcuterie Board
         </name>
         <description>
             ducket_c26_charcuterie desc
@@ -81984,7 +82008,7 @@
     </product>
     <product code="ducket_c26_cosyblanket">
         <name>
-            ducket_c26_cosyblanket name
+            Cozy Picnic Blanket
         </name>
         <description>
             ducket_c26_cosyblanket desc
@@ -82144,7 +82168,7 @@
     </product>
     <product code="ducket_c26_picnicbasket">
         <name>
-            ducket_c26_picnicbasket name
+            Precious Picnic Basket
         </name>
         <description>
             ducket_c26_picnicbasket desc
@@ -82160,7 +82184,7 @@
     </product>
     <product code="ducket_c26_pumpkinspice">
         <name>
-            ducket_c26_pumpkinspice name
+            Pumpkin Spice Drink
         </name>
         <description>
             ducket_c26_pumpkinspice desc
@@ -89305,6 +89329,36 @@
         <description>
             farm_c21_pizzaoven desc
         </description>
+    </product>
+    <product code="farmtoold_pack1">
+        <name>
+            Toolbox Pack 1
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack2">
+        <name>
+            Toolbox Pack 2
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack3">
+        <name>
+            Toolbox Pack 3
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack4">
+        <name>
+            Toolbox Pack 4
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack5">
+        <name>
+            Toolbox Pack 5
+        </name>
+        <description></description>
     </product>
     <product code="fball_audbench2">
         <name>
@@ -146574,7 +146628,7 @@
     </product>
     <product code="ranch_c26_aspen">
         <name>
-            ranch_c26_aspen name
+            Autumn Aspen
         </name>
         <description>
             ranch_c26_aspen desc
@@ -146662,7 +146716,7 @@
     </product>
     <product code="ranch_c26_carrotsack">
         <name>
-            ranch_c26_carrotsack name
+            Sack of Carrots
         </name>
         <description>
             ranch_c26_carrotsack desc
@@ -146678,7 +146732,7 @@
     </product>
     <product code="ranch_c26_darkearth">
         <name>
-            ranch_c26_darkearth name
+            Scorched Earth
         </name>
         <description>
             ranch_c26_darkearth desc
@@ -146686,7 +146740,7 @@
     </product>
     <product code="ranch_c26_darkfence">
         <name>
-            ranch_c26_darkfence name
+            Dark Rustic Fence
         </name>
         <description>
             ranch_c26_darkfence desc
@@ -146694,7 +146748,7 @@
     </product>
     <product code="ranch_c26_darkgate">
         <name>
-            ranch_c26_darkgate name
+            Dark Rustic Gate
         </name>
         <description>
             ranch_c26_darkgate desc
@@ -146702,7 +146756,7 @@
     </product>
     <product code="ranch_c26_dustpath">
         <name>
-            ranch_c26_dustpath name
+            Dusty Dirt Path
         </name>
         <description>
             ranch_c26_dustpath desc
@@ -146710,7 +146764,7 @@
     </product>
     <product code="ranch_c26_earth">
         <name>
-            ranch_c26_earth name
+            Dry Earth
         </name>
         <description>
             ranch_c26_earth desc
@@ -146734,7 +146788,7 @@
     </product>
     <product code="ranch_c26_freshgrass">
         <name>
-            ranch_c26_freshgrass name
+            Freshly Cut Grass
         </name>
         <description>
             ranch_c26_freshgrass desc
@@ -146758,7 +146812,7 @@
     </product>
     <product code="ranch_c26_grass">
         <name>
-            ranch_c26_grass name
+            Sun-Kissed Grass
         </name>
         <description>
             ranch_c26_grass desc
@@ -146774,7 +146828,7 @@
     </product>
     <product code="ranch_c26_lightearth">
         <name>
-            ranch_c26_lightearth name
+            Parched Earth
         </name>
         <description>
             ranch_c26_lightearth desc
@@ -146782,7 +146836,7 @@
     </product>
     <product code="ranch_c26_lightfence">
         <name>
-            ranch_c26_lightfence name
+            Light Rustic Fence
         </name>
         <description>
             ranch_c26_lightfence desc
@@ -146790,7 +146844,7 @@
     </product>
     <product code="ranch_c26_lightgate">
         <name>
-            ranch_c26_lightgate name
+            Light Rustic Gate
         </name>
         <description>
             ranch_c26_lightgate desc
@@ -147022,7 +147076,7 @@
     </product>
     <product code="ranch_c26_sunray">
         <name>
-            ranch_c26_sunray name
+            Ray of Sunset
         </name>
         <description>
             ranch_c26_sunray desc
@@ -147030,7 +147084,7 @@
     </product>
     <product code="ranch_c26_sunset">
         <name>
-            ranch_c26_sunset name
+            Scenic Sunset
         </name>
         <description>
             ranch_c26_sunset desc
@@ -147038,7 +147092,7 @@
     </product>
     <product code="ranch_c26_tomatosack">
         <name>
-            ranch_c26_tomatosack name
+            Sack of Tomatoes
         </name>
         <description>
             ranch_c26_tomatosack desc
@@ -170332,6 +170386,102 @@ Include un ESCLUSIVO Distintivo.
     <product code="sept25craft">
         <name>
             Crafting Prize
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize10">
+        <name>
+            20 Duckets + Non-tradeable Monster Plant Seed
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize11">
+        <name>
+            40 Duckets + Non-tradeable Monster Plant Seed
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize12">
+        <name>
+            50 Duckets + 1 Non-tradeable Revitalizer + 1 Non-tradeable Monster Plant Seed
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize13">
+        <name>
+            45 Duckets + Non-tradeable Monster Plant Seed
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize14">
+        <name>
+            60 Duckets + Non-tradeable Monster Revitalizer + Non-tradeable Fertilizer
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize15">
+        <name>
+            20 Duckets + Non-tradeable Monster Plant Seed
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize16">
+        <name>
+            Final Prize
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize1">
+        <name>
+            Duckets + Non tradeable fertilizer
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize2">
+        <name>
+            50 Duckets + Non tradeable fertilizer
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize3">
+        <name>
+            35 Duckets + Non-tradeable Monster Plant Seed
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize4">
+        <name>
+            35 Duckets + Non-tradeable Revitalizer
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize5">
+        <name>
+            25 Duckets + Non-tradeable Monster Plant Seed
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize6">
+        <name>
+            45 Duckets + Non-tradeable Fertilizer
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize7">
+        <name>
+            45 Duckets + Non-tradeable Revitalizer
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize8">
+        <name>
+            35 Duckets + Non-tradeable Monster Plant Seed
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_prize9">
+        <name>
+            30 Duckets + Non-tradeable Revitalizer
         </name>
         <description></description>
     </product>

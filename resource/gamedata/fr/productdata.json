@@ -49482,6 +49482,26 @@
         "description": ""
       },
       {
+        "code": "dia_c26_charcuterie",
+        "name": "Charcuterie Board",
+        "description": ""
+      },
+      {
+        "code": "dia_c26_cosyblanket",
+        "name": "Cozy Picnic Blanket",
+        "description": ""
+      },
+      {
+        "code": "dia_c26_picnicbasket",
+        "name": "Precious Picnic Basket",
+        "description": ""
+      },
+      {
+        "code": "dia_c26_pumpkinspice",
+        "name": "Pumpkin Spice Drink",
+        "description": ""
+      },
+      {
         "code": "dia_podium",
         "name": "Podium Diamant",
         "description": "La manière classe de faire un discours."
@@ -50948,17 +50968,17 @@
       },
       {
         "code": "dlc_world1",
-        "name": "DLC World 1 Pass - Inside a Painting",
+        "name": "Pass DLC 1 - À l'intérieur d'une peinture",
         "description": ""
       },
       {
         "code": "dlc_world2",
-        "name": "DLC World 2 Pass - Mechatronic Zone",
+        "name": "Pass DLC 2 - Zone Mécatronique",
         "description": ""
       },
       {
         "code": "dlc_world3",
-        "name": "DLC World 3 Pass - Quacktopia",
+        "name": "Pass DLC 3 - Quacktopia",
         "description": ""
       },
       {
@@ -51678,12 +51698,12 @@
       },
       {
         "code": "ducket_c26_charcuterie",
-        "name": "ducket_c26_charcuterie name",
+        "name": "Charcuterie Board",
         "description": "ducket_c26_charcuterie desc"
       },
       {
         "code": "ducket_c26_cosyblanket",
-        "name": "ducket_c26_cosyblanket name",
+        "name": "Cozy Picnic Blanket",
         "description": "ducket_c26_cosyblanket desc"
       },
       {
@@ -51783,7 +51803,7 @@
       },
       {
         "code": "ducket_c26_picnicbasket",
-        "name": "ducket_c26_picnicbasket name",
+        "name": "Precious Picnic Basket",
         "description": "ducket_c26_picnicbasket desc"
       },
       {
@@ -51793,7 +51813,7 @@
       },
       {
         "code": "ducket_c26_pumpkinspice",
-        "name": "ducket_c26_pumpkinspice name",
+        "name": "Pumpkin Spice Drink",
         "description": "ducket_c26_pumpkinspice desc"
       },
       {
@@ -92988,7 +93008,7 @@
       },
       {
         "code": "ranch_c26_aspen",
-        "name": "ranch_c26_aspen name",
+        "name": "Autumn Aspen",
         "description": "ranch_c26_aspen desc"
       },
       {
@@ -93043,7 +93063,7 @@
       },
       {
         "code": "ranch_c26_carrotsack",
-        "name": "ranch_c26_carrotsack name",
+        "name": "Sack of Carrots",
         "description": "ranch_c26_carrotsack desc"
       },
       {
@@ -93053,27 +93073,27 @@
       },
       {
         "code": "ranch_c26_darkearth",
-        "name": "ranch_c26_darkearth name",
+        "name": "Scorched Earth",
         "description": "ranch_c26_darkearth desc"
       },
       {
         "code": "ranch_c26_darkfence",
-        "name": "ranch_c26_darkfence name",
+        "name": "Dark Rustic Fence",
         "description": "ranch_c26_darkfence desc"
       },
       {
         "code": "ranch_c26_darkgate",
-        "name": "ranch_c26_darkgate name",
+        "name": "Dark Rustic Gate",
         "description": "ranch_c26_darkgate desc"
       },
       {
         "code": "ranch_c26_dustpath",
-        "name": "ranch_c26_dustpath name",
+        "name": "Dusty Dirt Path",
         "description": "ranch_c26_dustpath desc"
       },
       {
         "code": "ranch_c26_earth",
-        "name": "ranch_c26_earth name",
+        "name": "Dry Earth",
         "description": "ranch_c26_earth desc"
       },
       {
@@ -93088,7 +93108,7 @@
       },
       {
         "code": "ranch_c26_freshgrass",
-        "name": "ranch_c26_freshgrass name",
+        "name": "Freshly Cut Grass",
         "description": "ranch_c26_freshgrass desc"
       },
       {
@@ -93103,7 +93123,7 @@
       },
       {
         "code": "ranch_c26_grass",
-        "name": "ranch_c26_grass name",
+        "name": "Sun-Kissed Grass",
         "description": "ranch_c26_grass desc"
       },
       {
@@ -93113,17 +93133,17 @@
       },
       {
         "code": "ranch_c26_lightearth",
-        "name": "ranch_c26_lightearth name",
+        "name": "Parched Earth",
         "description": "ranch_c26_lightearth desc"
       },
       {
         "code": "ranch_c26_lightfence",
-        "name": "ranch_c26_lightfence name",
+        "name": "Light Rustic Fence",
         "description": "ranch_c26_lightfence desc"
       },
       {
         "code": "ranch_c26_lightgate",
-        "name": "ranch_c26_lightgate name",
+        "name": "Light Rustic Gate",
         "description": "ranch_c26_lightgate desc"
       },
       {
@@ -93268,17 +93288,17 @@
       },
       {
         "code": "ranch_c26_sunray",
-        "name": "ranch_c26_sunray name",
+        "name": "Ray of Sunset",
         "description": "ranch_c26_sunray desc"
       },
       {
         "code": "ranch_c26_sunset",
-        "name": "ranch_c26_sunset name",
+        "name": "Scenic Sunset",
         "description": "ranch_c26_sunset desc"
       },
       {
         "code": "ranch_c26_tomatosack",
-        "name": "ranch_c26_tomatosack name",
+        "name": "Sack of Tomatoes",
         "description": "ranch_c26_tomatosack desc"
       },
       {
@@ -108674,6 +108694,86 @@
       {
         "code": "sept25craft",
         "name": "Crafting Prize",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize10",
+        "name": "20 Duckets + Non-tradeable Monster Plant Seed",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize11",
+        "name": "40 Duckets + Non-tradeable Monster Plant Seed",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize12",
+        "name": "50 Duckets + 1 Non-tradeable Revitalizer + 1 Non-tradeable Monster Plant Seed",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize13",
+        "name": "45 Duckets + Non-tradeable Monster Plant Seed",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize14",
+        "name": "60 Duckets + Non-tradeable Monster Revitalizer + Non-tradeable Fertilizer",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize15",
+        "name": "20 Duckets + Non-tradeable Monster Plant Seed",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize16",
+        "name": "Final Prize",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize1",
+        "name": "Duckets + Non tradeable fertilizer",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize2",
+        "name": "50 Duckets + Non tradeable fertilizer",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize3",
+        "name": "35 Duckets + Non-tradeable Monster Plant Seed",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize4",
+        "name": "35 Duckets + Non-tradeable Revitalizer",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize5",
+        "name": "25 Duckets + Non-tradeable Monster Plant Seed",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize6",
+        "name": "45 Duckets + Non-tradeable Fertilizer",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize7",
+        "name": "45 Duckets + Non-tradeable Revitalizer",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize8",
+        "name": "35 Duckets + Non-tradeable Monster Plant Seed",
+        "description": ""
+      },
+      {
+        "code": "sept26_prize9",
+        "name": "30 Duckets + Non-tradeable Revitalizer",
         "description": ""
       },
       {
