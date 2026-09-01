@@ -50362,6 +50362,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_glowingfireflies_bd">
+        <name>
+            Vaga-lumes Luminescentes
+        </name>
+        <description></description>
+    </product>
     <product code="cl_goodluckbearoutfit_bd">
         <name>
             Ursinhos Carinhosos Boa Sorte
@@ -50389,6 +50395,12 @@
     <product code="cl_ltd26_iridescentskin_bd">
         <name>
             Pele Iridescente
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_ltd26_scarecrow_bd">
+        <name>
+            Espantalho Assustador
         </name>
         <description></description>
     </product>
@@ -50575,6 +50587,12 @@
     <product code="cl_r26_jellyfishcut_bd">
         <name>
             Penteado Água-Viva
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_lambplush_bd">
+        <name>
+            Pelucinha de Cordeiro
         </name>
         <description></description>
     </product>
@@ -54296,7 +54314,7 @@
     </product>
     <product code="clothing_cowonesie">
         <name>
-            clothing_cowonesie name
+            Macacão de Vaquinha
         </name>
         <description>
             clothing_cowonesie desc
@@ -56256,7 +56274,7 @@
     </product>
     <product code="clothing_glowingfireflies">
         <name>
-            clothing_glowingfireflies name
+            Vaga-lumes Luminescentes
         </name>
         <description>
             clothing_glowingfireflies desc
@@ -57888,7 +57906,7 @@
     </product>
     <product code="clothing_ltd26_scarecrow">
         <name>
-            clothing_ltd26_scarecrow name
+            Espantalho Assustador
         </name>
         <description>
             clothing_ltd26_scarecrow desc
@@ -61754,7 +61772,7 @@
     </product>
     <product code="clothing_nftstrawhat">
         <name>
-            clothing_nftstrawhat name
+            Chapéu de Palha de Aba Larga
         </name>
         <description>
             clothing_nftstrawhat desc
@@ -61762,7 +61780,7 @@
     </product>
     <product code="clothing_nftstrawmouth">
         <name>
-            clothing_nftstrawmouth name
+            Palha na Boca
         </name>
         <description>
             clothing_nftstrawmouth desc
@@ -62250,7 +62268,7 @@
     </product>
     <product code="clothing_nftwesternhat">
         <name>
-            clothing_nftwesternhat name
+            Chapéu Cowboy Clássica
         </name>
         <description>
             clothing_nftwesternhat desc
@@ -62258,7 +62276,7 @@
     </product>
     <product code="clothing_nftwesternshirt">
         <name>
-            clothing_nftwesternshirt name
+            Camisa Cowboy Clássica
         </name>
         <description>
             clothing_nftwesternshirt desc
@@ -62266,7 +62284,7 @@
     </product>
     <product code="clothing_nftwesternvest">
         <name>
-            clothing_nftwesternvest name
+            Colete Cowboy Clássico
         </name>
         <description>
             clothing_nftwesternvest desc
@@ -63878,7 +63896,7 @@
     </product>
     <product code="clothing_pumpkinbag2">
         <name>
-            clothing_pumpkinbag2 name
+            Bolsa de Abóbora Pequena
         </name>
         <description>
             clothing_pumpkinbag2 desc
@@ -67694,7 +67712,7 @@
     </product>
     <product code="clothing_r26_lambplush">
         <name>
-            clothing_r26_lambplush name
+            Pelucinha de Cordeiro
         </name>
         <description>
             clothing_r26_lambplush desc
@@ -69324,7 +69342,7 @@
     </product>
     <product code="clothing_tomatoberet">
         <name>
-            clothing_tomatoberet name
+            Boina Tomate
         </name>
         <description>
             clothing_tomatoberet desc
@@ -131164,7 +131182,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_brewingkit">
         <name>
-            nft_h26_brewingkit name
+            Kit de Fermentação DIY
         </name>
         <description>
             nft_h26_brewingkit desc
@@ -131268,7 +131286,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_cornucopia_bronze">
         <name>
-            nft_h26_cornucopia_bronze name
+            Cornucópia de Bronze
         </name>
         <description>
             nft_h26_cornucopia_bronze desc
@@ -131276,7 +131294,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_cornucopia_gold">
         <name>
-            nft_h26_cornucopia_gold name
+            Cornucópia de Ouro
         </name>
         <description>
             nft_h26_cornucopia_gold desc
@@ -131284,7 +131302,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_cornucopia_silver">
         <name>
-            nft_h26_cornucopia_silver name
+            Cornucópia de Prata
         </name>
         <description>
             nft_h26_cornucopia_silver desc
@@ -131292,7 +131310,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_cornucopia_trippy">
         <name>
-            nft_h26_cornucopia_trippy name
+            Cornucópia Trippy
         </name>
         <description>
             nft_h26_cornucopia_trippy desc
@@ -131372,7 +131390,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_farmtruck">
         <name>
-            nft_h26_farmtruck name
+            Caminhão de Fazenda Retro
         </name>
         <description>
             nft_h26_farmtruck desc
@@ -146612,7 +146630,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_basket_corn">
         <name>
-            ranch_c26_basket_corn name
+            Cesto de Milho
         </name>
         <description>
             ranch_c26_basket_corn desc
@@ -146620,7 +146638,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_basket_grapes">
         <name>
-            ranch_c26_basket_grapes name
+            Cesto de Uvas
         </name>
         <description>
             ranch_c26_basket_grapes desc
@@ -146636,7 +146654,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_basket_pumpkins">
         <name>
-            ranch_c26_basket_pumpkins name
+            Cesto de Abóboras
         </name>
         <description>
             ranch_c26_basket_pumpkins desc
@@ -146644,7 +146662,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_basket_tomatoes">
         <name>
-            ranch_c26_basket_tomatoes name
+            Cesto de Tomates
         </name>
         <description>
             ranch_c26_basket_tomatoes desc
@@ -146700,7 +146718,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_cow">
         <name>
-            ranch_c26_cow name
+            Vaca Leiteira Leal
         </name>
         <description>
             ranch_c26_cow desc
@@ -146772,7 +146790,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_giantpumpkin">
         <name>
-            ranch_c26_giantpumpkin name
+            Abóbora Gigante
         </name>
         <description>
             ranch_c26_giantpumpkin desc
@@ -146780,7 +146798,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_grapebarrel">
         <name>
-            ranch_c26_grapebarrel name
+            Barril de Suco de Uva
         </name>
         <description>
             ranch_c26_grapebarrel desc
@@ -146836,7 +146854,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_molehill">
         <name>
-            ranch_c26_molehill name
+            Montinho de Toupeira
         </name>
         <description>
             ranch_c26_molehill desc
@@ -146852,7 +146870,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_piglet">
         <name>
-            ranch_c26_piglet name
+            Leitão Precioso
         </name>
         <description>
             ranch_c26_piglet desc
@@ -146860,7 +146878,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_plot">
         <name>
-            ranch_c26_plot name
+            Canteiro de Jardim
         </name>
         <description>
             ranch_c26_plot desc
@@ -146868,7 +146886,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_plotsmall">
         <name>
-            ranch_c26_plotsmall name
+            Canteirinho de Jardim
         </name>
         <description>
             ranch_c26_plotsmall desc
@@ -146892,7 +146910,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_scarecrow">
         <name>
-            ranch_c26_scarecrow name
+            Espantalho de Cabeça de Abóbora
         </name>
         <description>
             ranch_c26_scarecrow desc
@@ -146932,7 +146950,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_shed">
         <name>
-            ranch_c26_shed name
+            Refúgio de Animal
         </name>
         <description>
             ranch_c26_shed desc
@@ -146940,7 +146958,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_shelf">
         <name>
-            ranch_c26_shelf name
+            Prateleira de Jardim
         </name>
         <description>
             ranch_c26_shelf desc
@@ -146948,7 +146966,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_shelter">
         <name>
-            ranch_c26_shelter name
+            Refúgio da Fazenda
         </name>
         <description>
             ranch_c26_shelter desc
@@ -146956,7 +146974,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_sign">
         <name>
-            ranch_c26_sign name
+            Placa da Planta
         </name>
         <description>
             ranch_c26_sign desc
@@ -147076,7 +147094,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_weathervane">
         <name>
-            ranch_c26_weathervane name
+            Cata-vento de Patinho
         </name>
         <description>
             ranch_c26_weathervane desc
@@ -147084,7 +147102,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_c26_wheelbarrow">
         <name>
-            ranch_c26_wheelbarrow name
+            Carrinho de Mão de Madeira
         </name>
         <description>
             ranch_c26_wheelbarrow desc
@@ -147098,9 +147116,15 @@ por 20 créditos e diamantes!
             ranch_c26_workbench desc
         </description>
     </product>
+    <product code="ranch_r26_goat_bd">
+        <name>
+            Cabra Malhada
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_pumpkinthrone">
         <name>
-            ranch_r26_pumpkinthrone name
+            Trono de Abóbora
         </name>
         <description>
             ranch_r26_pumpkinthrone desc
@@ -147108,19 +147132,31 @@ por 20 créditos e diamantes!
     </product>
     <product code="ranch_r26_spottedgoat">
         <name>
-            ranch_r26_spottedgoat name
+            Cabra Malhada
         </name>
         <description>
             ranch_r26_spottedgoat desc
         </description>
     </product>
+    <product code="ranch_r26_statue_bd">
+        <name>
+            Estátua de Fazendeiro
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_statue">
         <name>
-            ranch_r26_statue name
+            Estátua de Fazendeiro
         </name>
         <description>
             ranch_r26_statue desc
         </description>
+    </product>
+    <product code="ranch_r26_throne_bd">
+        <name>
+            Trono de Abóbora
+        </name>
+        <description></description>
     </product>
     <product code="random_tele_1">
         <name>
@@ -166111,6 +166147,18 @@ por 20 créditos e diamantes!
     <product code="rotating_roomdeal458">
         <name>
             Social Club Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459_d">
+        <name>
+            Pack Vida de Sítio
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459">
+        <name>
+            Pack Vida de Sítio
         </name>
         <description></description>
     </product>

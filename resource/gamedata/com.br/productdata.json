@@ -32792,6 +32792,11 @@
         "description": ""
       },
       {
+        "code": "cl_glowingfireflies_bd",
+        "name": "Vaga-lumes Luminescentes",
+        "description": ""
+      },
+      {
         "code": "cl_goodluckbearoutfit_bd",
         "name": "Ursinhos Carinhosos Boa Sorte",
         "description": ""
@@ -32814,6 +32819,11 @@
       {
         "code": "cl_ltd26_iridescentskin_bd",
         "name": "Pele Iridescente",
+        "description": ""
+      },
+      {
+        "code": "cl_ltd26_scarecrow_bd",
+        "name": "Espantalho Assustador",
         "description": ""
       },
       {
@@ -32969,6 +32979,11 @@
       {
         "code": "cl_r26_jellyfishcut_bd",
         "name": "Penteado Água-Viva",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_lambplush_bd",
+        "name": "Pelucinha de Cordeiro",
         "description": ""
       },
       {
@@ -35343,7 +35358,7 @@
       },
       {
         "code": "clothing_cowonesie",
-        "name": "clothing_cowonesie name",
+        "name": "Macacão de Vaquinha",
         "description": "clothing_cowonesie desc"
       },
       {
@@ -36588,7 +36603,7 @@
       },
       {
         "code": "clothing_glowingfireflies",
-        "name": "clothing_glowingfireflies name",
+        "name": "Vaga-lumes Luminescentes",
         "description": "clothing_glowingfireflies desc"
       },
       {
@@ -37633,7 +37648,7 @@
       },
       {
         "code": "clothing_ltd26_scarecrow",
-        "name": "clothing_ltd26_scarecrow name",
+        "name": "Espantalho Assustador",
         "description": "clothing_ltd26_scarecrow desc"
       },
       {
@@ -40063,12 +40078,12 @@
       },
       {
         "code": "clothing_nftstrawhat",
-        "name": "clothing_nftstrawhat name",
+        "name": "Chapéu de Palha de Aba Larga",
         "description": "clothing_nftstrawhat desc"
       },
       {
         "code": "clothing_nftstrawmouth",
-        "name": "clothing_nftstrawmouth name",
+        "name": "Palha na Boca",
         "description": "clothing_nftstrawmouth desc"
       },
       {
@@ -40373,17 +40388,17 @@
       },
       {
         "code": "clothing_nftwesternhat",
-        "name": "clothing_nftwesternhat name",
+        "name": "Chapéu Cowboy Clássica",
         "description": "clothing_nftwesternhat desc"
       },
       {
         "code": "clothing_nftwesternshirt",
-        "name": "clothing_nftwesternshirt name",
+        "name": "Camisa Cowboy Clássica",
         "description": "clothing_nftwesternshirt desc"
       },
       {
         "code": "clothing_nftwesternvest",
-        "name": "clothing_nftwesternvest name",
+        "name": "Colete Cowboy Clássico",
         "description": "clothing_nftwesternvest desc"
       },
       {
@@ -41398,7 +41413,7 @@
       },
       {
         "code": "clothing_pumpkinbag2",
-        "name": "clothing_pumpkinbag2 name",
+        "name": "Bolsa de Abóbora Pequena",
         "description": "clothing_pumpkinbag2 desc"
       },
       {
@@ -44023,7 +44038,7 @@
       },
       {
         "code": "clothing_r26_lambplush",
-        "name": "clothing_r26_lambplush name",
+        "name": "Pelucinha de Cordeiro",
         "description": "clothing_r26_lambplush desc"
       },
       {
@@ -45058,7 +45073,7 @@
       },
       {
         "code": "clothing_tomatoberet",
-        "name": "clothing_tomatoberet name",
+        "name": "Boina Tomate",
         "description": "clothing_tomatoberet desc"
       },
       {
@@ -84993,7 +85008,7 @@
       },
       {
         "code": "nft_h26_brewingkit",
-        "name": "nft_h26_brewingkit name",
+        "name": "Kit de Fermentação DIY",
         "description": "nft_h26_brewingkit desc"
       },
       {
@@ -85058,22 +85073,22 @@
       },
       {
         "code": "nft_h26_cornucopia_bronze",
-        "name": "nft_h26_cornucopia_bronze name",
+        "name": "Cornucópia de Bronze",
         "description": "nft_h26_cornucopia_bronze desc"
       },
       {
         "code": "nft_h26_cornucopia_gold",
-        "name": "nft_h26_cornucopia_gold name",
+        "name": "Cornucópia de Ouro",
         "description": "nft_h26_cornucopia_gold desc"
       },
       {
         "code": "nft_h26_cornucopia_silver",
-        "name": "nft_h26_cornucopia_silver name",
+        "name": "Cornucópia de Prata",
         "description": "nft_h26_cornucopia_silver desc"
       },
       {
         "code": "nft_h26_cornucopia_trippy",
-        "name": "nft_h26_cornucopia_trippy name",
+        "name": "Cornucópia Trippy",
         "description": "nft_h26_cornucopia_trippy desc"
       },
       {
@@ -85123,7 +85138,7 @@
       },
       {
         "code": "nft_h26_farmtruck",
-        "name": "nft_h26_farmtruck name",
+        "name": "Caminhão de Fazenda Retro",
         "description": "nft_h26_farmtruck desc"
       },
       {
@@ -94848,12 +94863,12 @@
       },
       {
         "code": "ranch_c26_basket_corn",
-        "name": "ranch_c26_basket_corn name",
+        "name": "Cesto de Milho",
         "description": "ranch_c26_basket_corn desc"
       },
       {
         "code": "ranch_c26_basket_grapes",
-        "name": "ranch_c26_basket_grapes name",
+        "name": "Cesto de Uvas",
         "description": "ranch_c26_basket_grapes desc"
       },
       {
@@ -94863,12 +94878,12 @@
       },
       {
         "code": "ranch_c26_basket_pumpkins",
-        "name": "ranch_c26_basket_pumpkins name",
+        "name": "Cesto de Abóboras",
         "description": "ranch_c26_basket_pumpkins desc"
       },
       {
         "code": "ranch_c26_basket_tomatoes",
-        "name": "ranch_c26_basket_tomatoes name",
+        "name": "Cesto de Tomates",
         "description": "ranch_c26_basket_tomatoes desc"
       },
       {
@@ -94903,7 +94918,7 @@
       },
       {
         "code": "ranch_c26_cow",
-        "name": "ranch_c26_cow name",
+        "name": "Vaca Leiteira Leal",
         "description": "ranch_c26_cow desc"
       },
       {
@@ -94948,12 +94963,12 @@
       },
       {
         "code": "ranch_c26_giantpumpkin",
-        "name": "ranch_c26_giantpumpkin name",
+        "name": "Abóbora Gigante",
         "description": "ranch_c26_giantpumpkin desc"
       },
       {
         "code": "ranch_c26_grapebarrel",
-        "name": "ranch_c26_grapebarrel name",
+        "name": "Barril de Suco de Uva",
         "description": "ranch_c26_grapebarrel desc"
       },
       {
@@ -94988,7 +95003,7 @@
       },
       {
         "code": "ranch_c26_molehill",
-        "name": "ranch_c26_molehill name",
+        "name": "Montinho de Toupeira",
         "description": "ranch_c26_molehill desc"
       },
       {
@@ -94998,17 +95013,17 @@
       },
       {
         "code": "ranch_c26_piglet",
-        "name": "ranch_c26_piglet name",
+        "name": "Leitão Precioso",
         "description": "ranch_c26_piglet desc"
       },
       {
         "code": "ranch_c26_plot",
-        "name": "ranch_c26_plot name",
+        "name": "Canteiro de Jardim",
         "description": "ranch_c26_plot desc"
       },
       {
         "code": "ranch_c26_plotsmall",
-        "name": "ranch_c26_plotsmall name",
+        "name": "Canteirinho de Jardim",
         "description": "ranch_c26_plotsmall desc"
       },
       {
@@ -95023,7 +95038,7 @@
       },
       {
         "code": "ranch_c26_scarecrow",
-        "name": "ranch_c26_scarecrow name",
+        "name": "Espantalho de Cabeça de Abóbora",
         "description": "ranch_c26_scarecrow desc"
       },
       {
@@ -95048,22 +95063,22 @@
       },
       {
         "code": "ranch_c26_shed",
-        "name": "ranch_c26_shed name",
+        "name": "Refúgio de Animal",
         "description": "ranch_c26_shed desc"
       },
       {
         "code": "ranch_c26_shelf",
-        "name": "ranch_c26_shelf name",
+        "name": "Prateleira de Jardim",
         "description": "ranch_c26_shelf desc"
       },
       {
         "code": "ranch_c26_shelter",
-        "name": "ranch_c26_shelter name",
+        "name": "Refúgio da Fazenda",
         "description": "ranch_c26_shelter desc"
       },
       {
         "code": "ranch_c26_sign",
-        "name": "ranch_c26_sign name",
+        "name": "Placa da Planta",
         "description": "ranch_c26_sign desc"
       },
       {
@@ -95138,12 +95153,12 @@
       },
       {
         "code": "ranch_c26_weathervane",
-        "name": "ranch_c26_weathervane name",
+        "name": "Cata-vento de Patinho",
         "description": "ranch_c26_weathervane desc"
       },
       {
         "code": "ranch_c26_wheelbarrow",
-        "name": "ranch_c26_wheelbarrow name",
+        "name": "Carrinho de Mão de Madeira",
         "description": "ranch_c26_wheelbarrow desc"
       },
       {
@@ -95152,19 +95167,34 @@
         "description": "ranch_c26_workbench desc"
       },
       {
+        "code": "ranch_r26_goat_bd",
+        "name": "Cabra Malhada",
+        "description": ""
+      },
+      {
         "code": "ranch_r26_pumpkinthrone",
-        "name": "ranch_r26_pumpkinthrone name",
+        "name": "Trono de Abóbora",
         "description": "ranch_r26_pumpkinthrone desc"
       },
       {
         "code": "ranch_r26_spottedgoat",
-        "name": "ranch_r26_spottedgoat name",
+        "name": "Cabra Malhada",
         "description": "ranch_r26_spottedgoat desc"
       },
       {
+        "code": "ranch_r26_statue_bd",
+        "name": "Estátua de Fazendeiro",
+        "description": ""
+      },
+      {
         "code": "ranch_r26_statue",
-        "name": "ranch_r26_statue name",
+        "name": "Estátua de Fazendeiro",
         "description": "ranch_r26_statue desc"
+      },
+      {
+        "code": "ranch_r26_throne_bd",
+        "name": "Trono de Abóbora",
+        "description": ""
       },
       {
         "code": "random_tele_1",
@@ -107789,6 +107819,16 @@
       {
         "code": "rotating_roomdeal458",
         "name": "Social Club Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal459_d",
+        "name": "Pack Vida de Sítio",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal459",
+        "name": "Pack Vida de Sítio",
         "description": ""
       },
       {

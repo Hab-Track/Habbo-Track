@@ -51585,6 +51585,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_glowingfireflies_bd">
+        <name>
+            Hohtavat tulikärpäset
+        </name>
+        <description></description>
+    </product>
     <product code="cl_goodluckbearoutfit_bd">
         <name>
             Onninallen asu
@@ -51612,6 +51618,12 @@
     <product code="cl_ltd26_iridescentskin_bd">
         <name>
             Kimalteleva kokovartaloasu
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_ltd26_scarecrow_bd">
+        <name>
+            Pelottava linnunpelätin
         </name>
         <description></description>
     </product>
@@ -51798,6 +51810,12 @@
     <product code="cl_r26_jellyfishcut_bd">
         <name>
             Meduusatukka
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_lambplush_bd">
+        <name>
+            Pieni karitsapehmo
         </name>
         <description></description>
     </product>
@@ -55503,7 +55521,7 @@
     </product>
     <product code="clothing_cowonesie">
         <name>
-            clothing_cowonesie name
+            Lehmähaalari
         </name>
         <description>
             clothing_cowonesie desc
@@ -57463,7 +57481,7 @@
     </product>
     <product code="clothing_glowingfireflies">
         <name>
-            clothing_glowingfireflies name
+            Hohtavat tulikärpäset
         </name>
         <description>
             clothing_glowingfireflies desc
@@ -59095,7 +59113,7 @@
     </product>
     <product code="clothing_ltd26_scarecrow">
         <name>
-            clothing_ltd26_scarecrow name
+            Pelottava linnunpelätin
         </name>
         <description>
             clothing_ltd26_scarecrow desc
@@ -62945,7 +62963,7 @@
     </product>
     <product code="clothing_nftstrawhat">
         <name>
-            clothing_nftstrawhat name
+            Leveälierinen olkihattu
         </name>
         <description>
             clothing_nftstrawhat desc
@@ -62953,7 +62971,7 @@
     </product>
     <product code="clothing_nftstrawmouth">
         <name>
-            clothing_nftstrawmouth name
+            Olkikorsi suussa
         </name>
         <description>
             clothing_nftstrawmouth desc
@@ -63441,7 +63459,7 @@
     </product>
     <product code="clothing_nftwesternhat">
         <name>
-            clothing_nftwesternhat name
+            Klassinen lännenhattu
         </name>
         <description>
             clothing_nftwesternhat desc
@@ -63449,7 +63467,7 @@
     </product>
     <product code="clothing_nftwesternshirt">
         <name>
-            clothing_nftwesternshirt name
+            Klassinen lännenpaita
         </name>
         <description>
             clothing_nftwesternshirt desc
@@ -63457,7 +63475,7 @@
     </product>
     <product code="clothing_nftwesternvest">
         <name>
-            clothing_nftwesternvest name
+            Klassinen lännenliivi
         </name>
         <description>
             clothing_nftwesternvest desc
@@ -65069,7 +65087,7 @@
     </product>
     <product code="clothing_pumpkinbag2">
         <name>
-            clothing_pumpkinbag2 name
+            Pieni kurpitsakassi
         </name>
         <description>
             clothing_pumpkinbag2 desc
@@ -68885,7 +68903,7 @@
     </product>
     <product code="clothing_r26_lambplush">
         <name>
-            clothing_r26_lambplush name
+            Pieni karitsapehmo
         </name>
         <description>
             clothing_r26_lambplush desc
@@ -70515,7 +70533,7 @@
     </product>
     <product code="clothing_tomatoberet">
         <name>
-            clothing_tomatoberet name
+            Tomaattibaretti
         </name>
         <description>
             clothing_tomatoberet desc
@@ -131667,7 +131685,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_brewingkit">
         <name>
-            nft_h26_brewingkit name
+            Kotipanimotarvikesetti
         </name>
         <description>
             nft_h26_brewingkit desc
@@ -131771,7 +131789,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_cornucopia_bronze">
         <name>
-            nft_h26_cornucopia_bronze name
+            Pronssi runsaudensarvi
         </name>
         <description>
             nft_h26_cornucopia_bronze desc
@@ -131779,7 +131797,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_cornucopia_gold">
         <name>
-            nft_h26_cornucopia_gold name
+            Kultainen runsaudensarvi
         </name>
         <description>
             nft_h26_cornucopia_gold desc
@@ -131787,7 +131805,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_cornucopia_silver">
         <name>
-            nft_h26_cornucopia_silver name
+            Hopea runsaudensarvi
         </name>
         <description>
             nft_h26_cornucopia_silver desc
@@ -131795,7 +131813,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_cornucopia_trippy">
         <name>
-            nft_h26_cornucopia_trippy name
+            Psykedeelinen runsaudensarvi
         </name>
         <description>
             nft_h26_cornucopia_trippy desc
@@ -131875,7 +131893,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_farmtruck">
         <name>
-            nft_h26_farmtruck name
+            Retro farmiauto
         </name>
         <description>
             nft_h26_farmtruck desc
@@ -147067,7 +147085,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_basket_corn">
         <name>
-            ranch_c26_basket_corn name
+            Maissikori
         </name>
         <description>
             ranch_c26_basket_corn desc
@@ -147075,7 +147093,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_basket_grapes">
         <name>
-            ranch_c26_basket_grapes name
+            Rypälekori
         </name>
         <description>
             ranch_c26_basket_grapes desc
@@ -147091,7 +147109,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_basket_pumpkins">
         <name>
-            ranch_c26_basket_pumpkins name
+            Kurpitsakori
         </name>
         <description>
             ranch_c26_basket_pumpkins desc
@@ -147099,7 +147117,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_basket_tomatoes">
         <name>
-            ranch_c26_basket_tomatoes name
+            Tomaattikori
         </name>
         <description>
             ranch_c26_basket_tomatoes desc
@@ -147155,7 +147173,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_cow">
         <name>
-            ranch_c26_cow name
+            Uskollinen lypsylehmä
         </name>
         <description>
             ranch_c26_cow desc
@@ -147227,7 +147245,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_giantpumpkin">
         <name>
-            ranch_c26_giantpumpkin name
+            Jättikurpitsa
         </name>
         <description>
             ranch_c26_giantpumpkin desc
@@ -147235,7 +147253,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_grapebarrel">
         <name>
-            ranch_c26_grapebarrel name
+            Rypälemehutynnyri
         </name>
         <description>
             ranch_c26_grapebarrel desc
@@ -147291,7 +147309,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_molehill">
         <name>
-            ranch_c26_molehill name
+            Myyränkeko
         </name>
         <description>
             ranch_c26_molehill desc
@@ -147307,7 +147325,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_piglet">
         <name>
-            ranch_c26_piglet name
+            Suloinen porsas
         </name>
         <description>
             ranch_c26_piglet desc
@@ -147315,7 +147333,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_plot">
         <name>
-            ranch_c26_plot name
+            Viljelypalsta
         </name>
         <description>
             ranch_c26_plot desc
@@ -147323,7 +147341,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_plotsmall">
         <name>
-            ranch_c26_plotsmall name
+            Pikkuinen viljelypalsta
         </name>
         <description>
             ranch_c26_plotsmall desc
@@ -147347,7 +147365,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_scarecrow">
         <name>
-            ranch_c26_scarecrow name
+            Kurpitsapäinen linnunpelätin
         </name>
         <description>
             ranch_c26_scarecrow desc
@@ -147387,7 +147405,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_shed">
         <name>
-            ranch_c26_shed name
+            Eläinsuoja
         </name>
         <description>
             ranch_c26_shed desc
@@ -147395,7 +147413,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_shelf">
         <name>
-            ranch_c26_shelf name
+            Puutarhahylly
         </name>
         <description>
             ranch_c26_shelf desc
@@ -147403,7 +147421,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_shelter">
         <name>
-            ranch_c26_shelter name
+            Laidunkatos
         </name>
         <description>
             ranch_c26_shelter desc
@@ -147411,7 +147429,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_sign">
         <name>
-            ranch_c26_sign name
+            Kasvikyltti
         </name>
         <description>
             ranch_c26_sign desc
@@ -147531,7 +147549,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_weathervane">
         <name>
-            ranch_c26_weathervane name
+            Ankkatuuliviiri
         </name>
         <description>
             ranch_c26_weathervane desc
@@ -147539,7 +147557,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_c26_wheelbarrow">
         <name>
-            ranch_c26_wheelbarrow name
+            Puinen kottikärry
         </name>
         <description>
             ranch_c26_wheelbarrow desc
@@ -147553,9 +147571,15 @@ Minkä niistä saat omaksesi?
             ranch_c26_workbench desc
         </description>
     </product>
+    <product code="ranch_r26_goat_bd">
+        <name>
+            Täplikäs vuohi
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_pumpkinthrone">
         <name>
-            ranch_r26_pumpkinthrone name
+            Kurpitsavaltaistuin
         </name>
         <description>
             ranch_r26_pumpkinthrone desc
@@ -147563,19 +147587,31 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="ranch_r26_spottedgoat">
         <name>
-            ranch_r26_spottedgoat name
+            Täplikäs vuohi
         </name>
         <description>
             ranch_r26_spottedgoat desc
         </description>
     </product>
+    <product code="ranch_r26_statue_bd">
+        <name>
+            Karjatilallisen patsas
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_statue">
         <name>
-            ranch_r26_statue name
+            Karjatilallisen patsas
         </name>
         <description>
             ranch_r26_statue desc
         </description>
+    </product>
+    <product code="ranch_r26_throne_bd">
+        <name>
+            Kurpitsavaltaistuin
+        </name>
+        <description></description>
     </product>
     <product code="random_tele_1">
         <name>
@@ -166594,6 +166630,18 @@ Sisältää merkin.
     <product code="rotating_roomdeal458">
         <name>
             Social Club Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459_d">
+        <name>
+            Ranch-elämää-huonepaketti
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459">
+        <name>
+            Ranch-elämää-huonepaketti
         </name>
         <description></description>
     </product>

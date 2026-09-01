@@ -50332,6 +50332,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_glowingfireflies_bd">
+        <name>
+            Luciérnagas Brillantes
+        </name>
+        <description></description>
+    </product>
     <product code="cl_goodluckbearoutfit_bd">
         <name>
             Traje Suerteosito de Osos Amorosos
@@ -50359,6 +50365,12 @@
     <product code="cl_ltd26_iridescentskin_bd">
         <name>
             Piel Iridiscente
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_ltd26_scarecrow_bd">
+        <name>
+            Espantapájaros Aterrador
         </name>
         <description></description>
     </product>
@@ -50545,6 +50557,12 @@
     <product code="cl_r26_jellyfishcut_bd">
         <name>
             Peinado Medusa
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_lambplush_bd">
+        <name>
+            Peluche Corderito
         </name>
         <description></description>
     </product>
@@ -54266,7 +54284,7 @@
     </product>
     <product code="clothing_cowonesie">
         <name>
-            clothing_cowonesie name
+            Mono Vaca
         </name>
         <description>
             clothing_cowonesie desc
@@ -56234,7 +56252,7 @@
     </product>
     <product code="clothing_glowingfireflies">
         <name>
-            clothing_glowingfireflies name
+            Luciérnagas Brillantes
         </name>
         <description>
             clothing_glowingfireflies desc
@@ -57866,7 +57884,7 @@
     </product>
     <product code="clothing_ltd26_scarecrow">
         <name>
-            clothing_ltd26_scarecrow name
+            Espantapájaros Aterrador
         </name>
         <description>
             clothing_ltd26_scarecrow desc
@@ -61732,7 +61750,7 @@
     </product>
     <product code="clothing_nftstrawhat">
         <name>
-            clothing_nftstrawhat name
+            Sombrero de Paja Ala Ancha
         </name>
         <description>
             clothing_nftstrawhat desc
@@ -61740,7 +61758,7 @@
     </product>
     <product code="clothing_nftstrawmouth">
         <name>
-            clothing_nftstrawmouth name
+            Brizna de paja en la Boca
         </name>
         <description>
             clothing_nftstrawmouth desc
@@ -62228,7 +62246,7 @@
     </product>
     <product code="clothing_nftwesternhat">
         <name>
-            clothing_nftwesternhat name
+            Sombrero Vaquero Clásico
         </name>
         <description>
             clothing_nftwesternhat desc
@@ -62236,7 +62254,7 @@
     </product>
     <product code="clothing_nftwesternshirt">
         <name>
-            clothing_nftwesternshirt name
+            Camisa Vaquera Clásica
         </name>
         <description>
             clothing_nftwesternshirt desc
@@ -62244,7 +62262,7 @@
     </product>
     <product code="clothing_nftwesternvest">
         <name>
-            clothing_nftwesternvest name
+            Vestido Vaquero Clásico
         </name>
         <description>
             clothing_nftwesternvest desc
@@ -63856,7 +63874,7 @@
     </product>
     <product code="clothing_pumpkinbag2">
         <name>
-            clothing_pumpkinbag2 name
+            Bolso Pequeña Calabaza
         </name>
         <description>
             clothing_pumpkinbag2 desc
@@ -67672,7 +67690,7 @@
     </product>
     <product code="clothing_r26_lambplush">
         <name>
-            clothing_r26_lambplush name
+            Peluche Corderito
         </name>
         <description>
             clothing_r26_lambplush desc
@@ -69302,7 +69320,7 @@
     </product>
     <product code="clothing_tomatoberet">
         <name>
-            clothing_tomatoberet name
+            Boina Tomate
         </name>
         <description>
             clothing_tomatoberet desc
@@ -130873,7 +130891,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_brewingkit">
         <name>
-            nft_h26_brewingkit name
+            Kit de Elaboración Artesanal
         </name>
         <description>
             nft_h26_brewingkit desc
@@ -130977,7 +130995,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_cornucopia_bronze">
         <name>
-            nft_h26_cornucopia_bronze name
+            Cornucopia Bronce
         </name>
         <description>
             nft_h26_cornucopia_bronze desc
@@ -130985,7 +131003,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_cornucopia_gold">
         <name>
-            nft_h26_cornucopia_gold name
+            Cornucopia Oro
         </name>
         <description>
             nft_h26_cornucopia_gold desc
@@ -130993,7 +131011,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_cornucopia_silver">
         <name>
-            nft_h26_cornucopia_silver name
+            Cornucopia Plata
         </name>
         <description>
             nft_h26_cornucopia_silver desc
@@ -131001,7 +131019,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_cornucopia_trippy">
         <name>
-            nft_h26_cornucopia_trippy name
+            Cornucopia Psicodélica
         </name>
         <description>
             nft_h26_cornucopia_trippy desc
@@ -131081,7 +131099,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_farmtruck">
         <name>
-            nft_h26_farmtruck name
+            Camioneta Retro de Granja
         </name>
         <description>
             nft_h26_farmtruck desc
@@ -146615,7 +146633,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_basket_corn">
         <name>
-            ranch_c26_basket_corn name
+            Cesta de Maíz
         </name>
         <description>
             ranch_c26_basket_corn desc
@@ -146623,7 +146641,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_basket_grapes">
         <name>
-            ranch_c26_basket_grapes name
+            Cesta de Uvas
         </name>
         <description>
             ranch_c26_basket_grapes desc
@@ -146639,7 +146657,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_basket_pumpkins">
         <name>
-            ranch_c26_basket_pumpkins name
+            Cesta de Calabazas
         </name>
         <description>
             ranch_c26_basket_pumpkins desc
@@ -146647,7 +146665,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_basket_tomatoes">
         <name>
-            ranch_c26_basket_tomatoes name
+            Cesta de Tomates
         </name>
         <description>
             ranch_c26_basket_tomatoes desc
@@ -146703,7 +146721,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_cow">
         <name>
-            ranch_c26_cow name
+            Fiel Vaca Lechera
         </name>
         <description>
             ranch_c26_cow desc
@@ -146775,7 +146793,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_giantpumpkin">
         <name>
-            ranch_c26_giantpumpkin name
+            Calabaza Gigante
         </name>
         <description>
             ranch_c26_giantpumpkin desc
@@ -146783,7 +146801,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_grapebarrel">
         <name>
-            ranch_c26_grapebarrel name
+            Barril de Zumo de Uva
         </name>
         <description>
             ranch_c26_grapebarrel desc
@@ -146839,7 +146857,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_molehill">
         <name>
-            ranch_c26_molehill name
+            Topinera
         </name>
         <description>
             ranch_c26_molehill desc
@@ -146855,7 +146873,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_piglet">
         <name>
-            ranch_c26_piglet name
+            Cerdito Adorable
         </name>
         <description>
             ranch_c26_piglet desc
@@ -146863,7 +146881,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_plot">
         <name>
-            ranch_c26_plot name
+            Parcela de Jardín
         </name>
         <description>
             ranch_c26_plot desc
@@ -146871,7 +146889,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_plotsmall">
         <name>
-            ranch_c26_plotsmall name
+            Parcela Pequeña de Jardín
         </name>
         <description>
             ranch_c26_plotsmall desc
@@ -146895,7 +146913,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_scarecrow">
         <name>
-            ranch_c26_scarecrow name
+            Espantapájaros con Cabeza de Calabaza
         </name>
         <description>
             ranch_c26_scarecrow desc
@@ -146935,7 +146953,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_shed">
         <name>
-            ranch_c26_shed name
+            Cobertizo para Animales
         </name>
         <description>
             ranch_c26_shed desc
@@ -146943,7 +146961,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_shelf">
         <name>
-            ranch_c26_shelf name
+            Estantería de Jardín
         </name>
         <description>
             ranch_c26_shelf desc
@@ -146951,7 +146969,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_shelter">
         <name>
-            ranch_c26_shelter name
+            Cobertizo para Exterior
         </name>
         <description>
             ranch_c26_shelter desc
@@ -146959,7 +146977,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_sign">
         <name>
-            ranch_c26_sign name
+            Cartel para Plantas
         </name>
         <description>
             ranch_c26_sign desc
@@ -147079,7 +147097,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_weathervane">
         <name>
-            ranch_c26_weathervane name
+            Veleta Patito
         </name>
         <description>
             ranch_c26_weathervane desc
@@ -147087,7 +147105,7 @@ Caja + Wired
     </product>
     <product code="ranch_c26_wheelbarrow">
         <name>
-            ranch_c26_wheelbarrow name
+            Carretilla de Madera
         </name>
         <description>
             ranch_c26_wheelbarrow desc
@@ -147101,9 +147119,15 @@ Caja + Wired
             ranch_c26_workbench desc
         </description>
     </product>
+    <product code="ranch_r26_goat_bd">
+        <name>
+            Cabra Moteada
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_pumpkinthrone">
         <name>
-            ranch_r26_pumpkinthrone name
+            Trono Calabaza
         </name>
         <description>
             ranch_r26_pumpkinthrone desc
@@ -147111,19 +147135,31 @@ Caja + Wired
     </product>
     <product code="ranch_r26_spottedgoat">
         <name>
-            ranch_r26_spottedgoat name
+            Cabra Moteada
         </name>
         <description>
             ranch_r26_spottedgoat desc
         </description>
     </product>
+    <product code="ranch_r26_statue_bd">
+        <name>
+            Estatua Rancher@
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_statue">
         <name>
-            ranch_r26_statue name
+            Estatua Rancher@
         </name>
         <description>
             ranch_r26_statue desc
         </description>
+    </product>
+    <product code="ranch_r26_throne_bd">
+        <name>
+            Trono Calabaza
+        </name>
+        <description></description>
     </product>
     <product code="random_tele_1">
         <name>
@@ -166088,6 +166124,18 @@ Caja + Wired
     <product code="rotating_roomdeal458">
         <name>
             Social Club Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459_d">
+        <name>
+            Lote Vida en el Campo
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459">
+        <name>
+            Lote Vida en el Campo
         </name>
         <description></description>
     </product>

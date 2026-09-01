@@ -49234,6 +49234,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_glowingfireflies_bd">
+        <name>
+            Glinsterende Vuurvliegjes
+        </name>
+        <description></description>
+    </product>
     <product code="cl_goodluckbearoutfit_bd">
         <name>
             Geluksbeer Outfit
@@ -49261,6 +49267,12 @@
     <product code="cl_ltd26_iridescentskin_bd">
         <name>
             Parelmoerkleurige Huid
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_ltd26_scarecrow_bd">
+        <name>
+            Enge Vogelverschrikker
         </name>
         <description></description>
     </product>
@@ -49447,6 +49459,12 @@
     <product code="cl_r26_jellyfishcut_bd">
         <name>
             Kwalvormig Kapsel
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_lambplush_bd">
+        <name>
+            Lammetjes Knuffel
         </name>
         <description></description>
     </product>
@@ -53152,7 +53170,7 @@
     </product>
     <product code="clothing_cowonesie">
         <name>
-            clothing_cowonesie name
+            Koe Onesie
         </name>
         <description>
             clothing_cowonesie desc
@@ -55120,7 +55138,7 @@
     </product>
     <product code="clothing_glowingfireflies">
         <name>
-            clothing_glowingfireflies name
+            Glinsterende Vuurvliegjes
         </name>
         <description>
             clothing_glowingfireflies desc
@@ -56758,7 +56776,7 @@
     </product>
     <product code="clothing_ltd26_scarecrow">
         <name>
-            clothing_ltd26_scarecrow name
+            Enge Vogelverschrikker
         </name>
         <description>
             clothing_ltd26_scarecrow desc
@@ -60608,7 +60626,7 @@
     </product>
     <product code="clothing_nftstrawhat">
         <name>
-            clothing_nftstrawhat name
+            Strohoed met Brede Rand
         </name>
         <description>
             clothing_nftstrawhat desc
@@ -60616,7 +60634,7 @@
     </product>
     <product code="clothing_nftstrawmouth">
         <name>
-            clothing_nftstrawmouth name
+            Stro in je mond
         </name>
         <description>
             clothing_nftstrawmouth desc
@@ -61104,7 +61122,7 @@
     </product>
     <product code="clothing_nftwesternhat">
         <name>
-            clothing_nftwesternhat name
+            Klassieke Western Hoed
         </name>
         <description>
             clothing_nftwesternhat desc
@@ -61112,7 +61130,7 @@
     </product>
     <product code="clothing_nftwesternshirt">
         <name>
-            clothing_nftwesternshirt name
+            Klassiek Western Overhemd
         </name>
         <description>
             clothing_nftwesternshirt desc
@@ -61120,7 +61138,7 @@
     </product>
     <product code="clothing_nftwesternvest">
         <name>
-            clothing_nftwesternvest name
+            Klassiek Western Vestje
         </name>
         <description>
             clothing_nftwesternvest desc
@@ -62732,7 +62750,7 @@
     </product>
     <product code="clothing_pumpkinbag2">
         <name>
-            clothing_pumpkinbag2 name
+            Klein Pompoen Tasje
         </name>
         <description>
             clothing_pumpkinbag2 desc
@@ -66548,7 +66566,7 @@
     </product>
     <product code="clothing_r26_lambplush">
         <name>
-            clothing_r26_lambplush name
+            Lammetjes Knuffel
         </name>
         <description>
             clothing_r26_lambplush desc
@@ -68178,7 +68196,7 @@
     </product>
     <product code="clothing_tomatoberet">
         <name>
-            clothing_tomatoberet name
+            Tomaat Baret
         </name>
         <description>
             clothing_tomatoberet desc
@@ -89383,6 +89401,36 @@
         <description>
             farm_c21_pizzaoven desc
         </description>
+    </product>
+    <product code="farmtoold_pack1">
+        <name>
+            Gereedschapskist 1
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack2">
+        <name>
+            Gereedschapskist 2
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack3">
+        <name>
+            Gereedschapskist 3
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack4">
+        <name>
+            Gereedschapskist 4
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack5">
+        <name>
+            Gereedschapskist 5
+        </name>
+        <description></description>
     </product>
     <product code="fball_audbench2">
         <name>
@@ -131058,7 +131106,7 @@
     </product>
     <product code="nft_h26_brewingkit">
         <name>
-            nft_h26_brewingkit name
+            Doe-het-zelf Brouwset
         </name>
         <description>
             nft_h26_brewingkit desc
@@ -131162,7 +131210,7 @@
     </product>
     <product code="nft_h26_cornucopia_bronze">
         <name>
-            nft_h26_cornucopia_bronze name
+            Bronzen Hoorn gevuld met Groenten
         </name>
         <description>
             nft_h26_cornucopia_bronze desc
@@ -131170,7 +131218,7 @@
     </product>
     <product code="nft_h26_cornucopia_gold">
         <name>
-            nft_h26_cornucopia_gold name
+            Gouden Hoorn gevuld met Groenten
         </name>
         <description>
             nft_h26_cornucopia_gold desc
@@ -131178,7 +131226,7 @@
     </product>
     <product code="nft_h26_cornucopia_silver">
         <name>
-            nft_h26_cornucopia_silver name
+            Zilveren Hoorn gevuld met Groenten
         </name>
         <description>
             nft_h26_cornucopia_silver desc
@@ -131186,7 +131234,7 @@
     </product>
     <product code="nft_h26_cornucopia_trippy">
         <name>
-            nft_h26_cornucopia_trippy name
+            Trippy Hoorn gevuld met Groenten
         </name>
         <description>
             nft_h26_cornucopia_trippy desc
@@ -131266,7 +131314,7 @@
     </product>
     <product code="nft_h26_farmtruck">
         <name>
-            nft_h26_farmtruck name
+            Retro Boerderij Truck
         </name>
         <description>
             nft_h26_farmtruck desc
@@ -146620,7 +146668,7 @@
     </product>
     <product code="ranch_c26_basket_corn">
         <name>
-            ranch_c26_basket_corn name
+            Mand met Maïskolven
         </name>
         <description>
             ranch_c26_basket_corn desc
@@ -146628,7 +146676,7 @@
     </product>
     <product code="ranch_c26_basket_grapes">
         <name>
-            ranch_c26_basket_grapes name
+            Mand met Druiven
         </name>
         <description>
             ranch_c26_basket_grapes desc
@@ -146644,7 +146692,7 @@
     </product>
     <product code="ranch_c26_basket_pumpkins">
         <name>
-            ranch_c26_basket_pumpkins name
+            Mand met Pompoenen
         </name>
         <description>
             ranch_c26_basket_pumpkins desc
@@ -146652,7 +146700,7 @@
     </product>
     <product code="ranch_c26_basket_tomatoes">
         <name>
-            ranch_c26_basket_tomatoes name
+            Mand met Tomaten
         </name>
         <description>
             ranch_c26_basket_tomatoes desc
@@ -146708,7 +146756,7 @@
     </product>
     <product code="ranch_c26_cow">
         <name>
-            ranch_c26_cow name
+            Trouwe Melkkoe
         </name>
         <description>
             ranch_c26_cow desc
@@ -146780,7 +146828,7 @@
     </product>
     <product code="ranch_c26_giantpumpkin">
         <name>
-            ranch_c26_giantpumpkin name
+            Gigantische Pompoen
         </name>
         <description>
             ranch_c26_giantpumpkin desc
@@ -146788,7 +146836,7 @@
     </product>
     <product code="ranch_c26_grapebarrel">
         <name>
-            ranch_c26_grapebarrel name
+            Vat met Druivensap
         </name>
         <description>
             ranch_c26_grapebarrel desc
@@ -146844,7 +146892,7 @@
     </product>
     <product code="ranch_c26_molehill">
         <name>
-            ranch_c26_molehill name
+            Molshoop
         </name>
         <description>
             ranch_c26_molehill desc
@@ -146860,7 +146908,7 @@
     </product>
     <product code="ranch_c26_piglet">
         <name>
-            ranch_c26_piglet name
+            Schattig Biggetje
         </name>
         <description>
             ranch_c26_piglet desc
@@ -146868,7 +146916,7 @@
     </product>
     <product code="ranch_c26_plot">
         <name>
-            ranch_c26_plot name
+            Moestuin
         </name>
         <description>
             ranch_c26_plot desc
@@ -146876,7 +146924,7 @@
     </product>
     <product code="ranch_c26_plotsmall">
         <name>
-            ranch_c26_plotsmall name
+            Kleine Moestuin
         </name>
         <description>
             ranch_c26_plotsmall desc
@@ -146900,7 +146948,7 @@
     </product>
     <product code="ranch_c26_scarecrow">
         <name>
-            ranch_c26_scarecrow name
+            Vogelverschrikker met Pompoenhoofd
         </name>
         <description>
             ranch_c26_scarecrow desc
@@ -146940,7 +146988,7 @@
     </product>
     <product code="ranch_c26_shed">
         <name>
-            ranch_c26_shed name
+            Dierenstal
         </name>
         <description>
             ranch_c26_shed desc
@@ -146948,7 +146996,7 @@
     </product>
     <product code="ranch_c26_shelf">
         <name>
-            ranch_c26_shelf name
+            Tuinrek
         </name>
         <description>
             ranch_c26_shelf desc
@@ -146956,7 +147004,7 @@
     </product>
     <product code="ranch_c26_shelter">
         <name>
-            ranch_c26_shelter name
+            Schuilstal
         </name>
         <description>
             ranch_c26_shelter desc
@@ -146964,7 +147012,7 @@
     </product>
     <product code="ranch_c26_sign">
         <name>
-            ranch_c26_sign name
+            Plantenstekker
         </name>
         <description>
             ranch_c26_sign desc
@@ -147084,7 +147132,7 @@
     </product>
     <product code="ranch_c26_weathervane">
         <name>
-            ranch_c26_weathervane name
+            Eend Windwijzer
         </name>
         <description>
             ranch_c26_weathervane desc
@@ -147092,7 +147140,7 @@
     </product>
     <product code="ranch_c26_wheelbarrow">
         <name>
-            ranch_c26_wheelbarrow name
+            Houten Kruiwagen
         </name>
         <description>
             ranch_c26_wheelbarrow desc
@@ -147106,9 +147154,15 @@
             ranch_c26_workbench desc
         </description>
     </product>
+    <product code="ranch_r26_goat_bd">
+        <name>
+            Gevlekte Geit
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_pumpkinthrone">
         <name>
-            ranch_r26_pumpkinthrone name
+            Pompoen Troon
         </name>
         <description>
             ranch_r26_pumpkinthrone desc
@@ -147116,19 +147170,31 @@
     </product>
     <product code="ranch_r26_spottedgoat">
         <name>
-            ranch_r26_spottedgoat name
+            Gevlekte Geit
         </name>
         <description>
             ranch_r26_spottedgoat desc
         </description>
     </product>
+    <product code="ranch_r26_statue_bd">
+        <name>
+            Standbeeld van een Ranch eigenaar
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_statue">
         <name>
-            ranch_r26_statue name
+            Standbeeld van een Ranch eigenaar
         </name>
         <description>
             ranch_r26_statue desc
         </description>
+    </product>
+    <product code="ranch_r26_throne_bd">
+        <name>
+            Pompoen Troon
+        </name>
+        <description></description>
     </product>
     <product code="random_tele_1">
         <name>
@@ -166123,6 +166189,18 @@ Inclusief 10 Credits
     <product code="rotating_roomdeal458">
         <name>
             Social Club Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459_d">
+        <name>
+            Leven op de Ranch Bundel
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459">
+        <name>
+            Leven op de Ranch Bundel
         </name>
         <description></description>
     </product>

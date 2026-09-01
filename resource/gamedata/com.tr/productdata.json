@@ -33797,6 +33797,11 @@
         "description": ""
       },
       {
+        "code": "cl_glowingfireflies_bd",
+        "name": "Parlayan Ateş böcekleri",
+        "description": ""
+      },
+      {
         "code": "cl_goodluckbearoutfit_bd",
         "name": "Good Luck Bear Kıyafeti",
         "description": ""
@@ -33819,6 +33824,11 @@
       {
         "code": "cl_ltd26_iridescentskin_bd",
         "name": "Yanardöner Görünüm",
+        "description": ""
+      },
+      {
+        "code": "cl_ltd26_scarecrow_bd",
+        "name": "Korkunç Korkuluk",
         "description": ""
       },
       {
@@ -33974,6 +33984,11 @@
       {
         "code": "cl_r26_jellyfishcut_bd",
         "name": "Denizanası Saç Kesimi",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_lambplush_bd",
+        "name": "Küçük Kuzu Pelüşü",
         "description": ""
       },
       {
@@ -36343,7 +36358,7 @@
       },
       {
         "code": "clothing_cowonesie",
-        "name": "clothing_cowonesie name",
+        "name": "İnek Tulumu",
         "description": "clothing_cowonesie desc"
       },
       {
@@ -37588,7 +37603,7 @@
       },
       {
         "code": "clothing_glowingfireflies",
-        "name": "clothing_glowingfireflies name",
+        "name": "Parlayan Ateş böcekleri",
         "description": "clothing_glowingfireflies desc"
       },
       {
@@ -38633,7 +38648,7 @@
       },
       {
         "code": "clothing_ltd26_scarecrow",
-        "name": "clothing_ltd26_scarecrow name",
+        "name": "Korkunç Korkuluk",
         "description": "clothing_ltd26_scarecrow desc"
       },
       {
@@ -41053,12 +41068,12 @@
       },
       {
         "code": "clothing_nftstrawhat",
-        "name": "clothing_nftstrawhat name",
+        "name": "Geniş Kenarlı Hasır Şapka",
         "description": "clothing_nftstrawhat desc"
       },
       {
         "code": "clothing_nftstrawmouth",
-        "name": "clothing_nftstrawmouth name",
+        "name": "Ağzında Saman",
         "description": "clothing_nftstrawmouth desc"
       },
       {
@@ -41363,17 +41378,17 @@
       },
       {
         "code": "clothing_nftwesternhat",
-        "name": "clothing_nftwesternhat name",
+        "name": "Klasik Kovboy Şapkası",
         "description": "clothing_nftwesternhat desc"
       },
       {
         "code": "clothing_nftwesternshirt",
-        "name": "clothing_nftwesternshirt name",
+        "name": "Klasik Kovboy Gömleği",
         "description": "clothing_nftwesternshirt desc"
       },
       {
         "code": "clothing_nftwesternvest",
-        "name": "clothing_nftwesternvest name",
+        "name": "Klasik Kovboy Yeleği",
         "description": "clothing_nftwesternvest desc"
       },
       {
@@ -42388,7 +42403,7 @@
       },
       {
         "code": "clothing_pumpkinbag2",
-        "name": "clothing_pumpkinbag2 name",
+        "name": "Küçük Bal kabağı Çantası",
         "description": "clothing_pumpkinbag2 desc"
       },
       {
@@ -45013,7 +45028,7 @@
       },
       {
         "code": "clothing_r26_lambplush",
-        "name": "clothing_r26_lambplush name",
+        "name": "Küçük Kuzu Pelüşü",
         "description": "clothing_r26_lambplush desc"
       },
       {
@@ -46048,7 +46063,7 @@
       },
       {
         "code": "clothing_tomatoberet",
-        "name": "clothing_tomatoberet name",
+        "name": "Domates Beresi",
         "description": "clothing_tomatoberet desc"
       },
       {
@@ -94393,7 +94408,7 @@
       },
       {
         "code": "nft_h26_brewingkit",
-        "name": "nft_h26_brewingkit name",
+        "name": "Kendin Yap Bira Demleme Kiti",
         "description": "nft_h26_brewingkit desc"
       },
       {
@@ -94458,22 +94473,22 @@
       },
       {
         "code": "nft_h26_cornucopia_bronze",
-        "name": "nft_h26_cornucopia_bronze name",
+        "name": "Bronz Bereket Boynuzu",
         "description": "nft_h26_cornucopia_bronze desc"
       },
       {
         "code": "nft_h26_cornucopia_gold",
-        "name": "nft_h26_cornucopia_gold name",
+        "name": "Altın Bereket Boynuzu",
         "description": "nft_h26_cornucopia_gold desc"
       },
       {
         "code": "nft_h26_cornucopia_silver",
-        "name": "nft_h26_cornucopia_silver name",
+        "name": "Gümüş Bereket Boynuzu",
         "description": "nft_h26_cornucopia_silver desc"
       },
       {
         "code": "nft_h26_cornucopia_trippy",
-        "name": "nft_h26_cornucopia_trippy name",
+        "name": "Trip Bereket Boynuzu",
         "description": "nft_h26_cornucopia_trippy desc"
       },
       {
@@ -94523,7 +94538,7 @@
       },
       {
         "code": "nft_h26_farmtruck",
-        "name": "nft_h26_farmtruck name",
+        "name": "Retro Çiftlik Kamyonu",
         "description": "nft_h26_farmtruck desc"
       },
       {
@@ -104453,12 +104468,12 @@
       },
       {
         "code": "ranch_c26_basket_corn",
-        "name": "ranch_c26_basket_corn name",
+        "name": "Mısır Sepeti",
         "description": "ranch_c26_basket_corn desc"
       },
       {
         "code": "ranch_c26_basket_grapes",
-        "name": "ranch_c26_basket_grapes name",
+        "name": "Üzüm Sepeti",
         "description": "ranch_c26_basket_grapes desc"
       },
       {
@@ -104468,12 +104483,12 @@
       },
       {
         "code": "ranch_c26_basket_pumpkins",
-        "name": "ranch_c26_basket_pumpkins name",
+        "name": "Bal kabağı Sepeti",
         "description": "ranch_c26_basket_pumpkins desc"
       },
       {
         "code": "ranch_c26_basket_tomatoes",
-        "name": "ranch_c26_basket_tomatoes name",
+        "name": "Domates Sepeti",
         "description": "ranch_c26_basket_tomatoes desc"
       },
       {
@@ -104508,7 +104523,7 @@
       },
       {
         "code": "ranch_c26_cow",
-        "name": "ranch_c26_cow name",
+        "name": "Sadık Sütçü İnek",
         "description": "ranch_c26_cow desc"
       },
       {
@@ -104553,12 +104568,12 @@
       },
       {
         "code": "ranch_c26_giantpumpkin",
-        "name": "ranch_c26_giantpumpkin name",
+        "name": "Dev Bal kabağı",
         "description": "ranch_c26_giantpumpkin desc"
       },
       {
         "code": "ranch_c26_grapebarrel",
-        "name": "ranch_c26_grapebarrel name",
+        "name": "Üzüm Suyu Fıçısı",
         "description": "ranch_c26_grapebarrel desc"
       },
       {
@@ -104593,7 +104608,7 @@
       },
       {
         "code": "ranch_c26_molehill",
-        "name": "ranch_c26_molehill name",
+        "name": "Köstebek yuvası",
         "description": "ranch_c26_molehill desc"
       },
       {
@@ -104603,17 +104618,17 @@
       },
       {
         "code": "ranch_c26_piglet",
-        "name": "ranch_c26_piglet name",
+        "name": "Şirin Domuz Yavrusu",
         "description": "ranch_c26_piglet desc"
       },
       {
         "code": "ranch_c26_plot",
-        "name": "ranch_c26_plot name",
+        "name": "Bahçe Parseli",
         "description": "ranch_c26_plot desc"
       },
       {
         "code": "ranch_c26_plotsmall",
-        "name": "ranch_c26_plotsmall name",
+        "name": "Küçük Bahçe Parseli",
         "description": "ranch_c26_plotsmall desc"
       },
       {
@@ -104628,7 +104643,7 @@
       },
       {
         "code": "ranch_c26_scarecrow",
-        "name": "ranch_c26_scarecrow name",
+        "name": "Bal kabağı Kafalı Korkuluk",
         "description": "ranch_c26_scarecrow desc"
       },
       {
@@ -104653,22 +104668,22 @@
       },
       {
         "code": "ranch_c26_shed",
-        "name": "ranch_c26_shed name",
+        "name": "Hayvan Barınağı",
         "description": "ranch_c26_shed desc"
       },
       {
         "code": "ranch_c26_shelf",
-        "name": "ranch_c26_shelf name",
+        "name": "Bahçe Rafı",
         "description": "ranch_c26_shelf desc"
       },
       {
         "code": "ranch_c26_shelter",
-        "name": "ranch_c26_shelter name",
+        "name": "Padok Barınağı",
         "description": "ranch_c26_shelter desc"
       },
       {
         "code": "ranch_c26_sign",
-        "name": "ranch_c26_sign name",
+        "name": "Bitki Tabelası",
         "description": "ranch_c26_sign desc"
       },
       {
@@ -104743,12 +104758,12 @@
       },
       {
         "code": "ranch_c26_weathervane",
-        "name": "ranch_c26_weathervane name",
+        "name": "Ördek Rüzgar Gülü",
         "description": "ranch_c26_weathervane desc"
       },
       {
         "code": "ranch_c26_wheelbarrow",
-        "name": "ranch_c26_wheelbarrow name",
+        "name": "Ahşap El Arabası",
         "description": "ranch_c26_wheelbarrow desc"
       },
       {
@@ -104757,19 +104772,34 @@
         "description": "ranch_c26_workbench desc"
       },
       {
+        "code": "ranch_r26_goat_bd",
+        "name": "Benekli Keçi",
+        "description": ""
+      },
+      {
         "code": "ranch_r26_pumpkinthrone",
-        "name": "ranch_r26_pumpkinthrone name",
+        "name": "Bal kabağı Tahtı",
         "description": "ranch_r26_pumpkinthrone desc"
       },
       {
         "code": "ranch_r26_spottedgoat",
-        "name": "ranch_r26_spottedgoat name",
+        "name": "Benekli Keçi",
         "description": "ranch_r26_spottedgoat desc"
       },
       {
+        "code": "ranch_r26_statue_bd",
+        "name": "Çiftçi Heykeli",
+        "description": ""
+      },
+      {
         "code": "ranch_r26_statue",
-        "name": "ranch_r26_statue name",
+        "name": "Çiftçi Heykeli",
         "description": "ranch_r26_statue desc"
+      },
+      {
+        "code": "ranch_r26_throne_bd",
+        "name": "Bal kabağı Tahtı",
+        "description": ""
       },
       {
         "code": "rare mosterplant",
@@ -117404,6 +117434,16 @@
       {
         "code": "rotating_roomdeal458",
         "name": "Social Club Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal459_d",
+        "name": "Çiftlik Hayatı Oda Paketi",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal459",
+        "name": "Çiftlik Hayatı Oda Paketi",
         "description": ""
       },
       {

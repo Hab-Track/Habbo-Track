@@ -49528,6 +49528,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_glowingfireflies_bd">
+        <name>
+            Lucioles brillantes
+        </name>
+        <description></description>
+    </product>
     <product code="cl_goodluckbearoutfit_bd">
         <name>
             Tenue de l'Ours Good Luck
@@ -49555,6 +49561,12 @@
     <product code="cl_ltd26_iridescentskin_bd">
         <name>
             Skin irisée
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_ltd26_scarecrow_bd">
+        <name>
+            Épouvantail effrayant
         </name>
         <description></description>
     </product>
@@ -49741,6 +49753,12 @@
     <product code="cl_r26_jellyfishcut_bd">
         <name>
             Coiffure Méduse
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_lambplush_bd">
+        <name>
+            Peluche petit agneau
         </name>
         <description></description>
     </product>
@@ -53446,7 +53464,7 @@
     </product>
     <product code="clothing_cowonesie">
         <name>
-            clothing_cowonesie name
+            Onesie vache
         </name>
         <description>
             clothing_cowonesie desc
@@ -55406,7 +55424,7 @@
     </product>
     <product code="clothing_glowingfireflies">
         <name>
-            clothing_glowingfireflies name
+            Lucioles brillantes
         </name>
         <description>
             clothing_glowingfireflies desc
@@ -57028,7 +57046,7 @@
     </product>
     <product code="clothing_ltd26_scarecrow">
         <name>
-            clothing_ltd26_scarecrow name
+            Épouvantail effrayant
         </name>
         <description>
             clothing_ltd26_scarecrow desc
@@ -60878,7 +60896,7 @@
     </product>
     <product code="clothing_nftstrawhat">
         <name>
-            clothing_nftstrawhat name
+            Chapeau de paille bord large
         </name>
         <description>
             clothing_nftstrawhat desc
@@ -60886,7 +60904,7 @@
     </product>
     <product code="clothing_nftstrawmouth">
         <name>
-            clothing_nftstrawmouth name
+            Paille dans la bouche
         </name>
         <description>
             clothing_nftstrawmouth desc
@@ -61374,7 +61392,7 @@
     </product>
     <product code="clothing_nftwesternhat">
         <name>
-            clothing_nftwesternhat name
+            Chapeau western classique
         </name>
         <description>
             clothing_nftwesternhat desc
@@ -61382,7 +61400,7 @@
     </product>
     <product code="clothing_nftwesternshirt">
         <name>
-            clothing_nftwesternshirt name
+            Chemise western classique
         </name>
         <description>
             clothing_nftwesternshirt desc
@@ -61390,7 +61408,7 @@
     </product>
     <product code="clothing_nftwesternvest">
         <name>
-            clothing_nftwesternvest name
+            Veste western classique
         </name>
         <description>
             clothing_nftwesternvest desc
@@ -63002,7 +63020,7 @@
     </product>
     <product code="clothing_pumpkinbag2">
         <name>
-            clothing_pumpkinbag2 name
+            Petit sac citrouille
         </name>
         <description>
             clothing_pumpkinbag2 desc
@@ -66818,7 +66836,7 @@
     </product>
     <product code="clothing_r26_lambplush">
         <name>
-            clothing_r26_lambplush name
+            Peluche petit agneau
         </name>
         <description>
             clothing_r26_lambplush desc
@@ -68448,7 +68466,7 @@
     </product>
     <product code="clothing_tomatoberet">
         <name>
-            clothing_tomatoberet name
+            Béret tomate
         </name>
         <description>
             clothing_tomatoberet desc
@@ -87145,6 +87163,36 @@
         <description>
             farm_c21_pizzaoven desc
         </description>
+    </product>
+    <product code="farmtoold_pack1">
+        <name>
+            Pack Boîte à outils 1
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack2">
+        <name>
+            Pack Boîte à outils 2
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack3">
+        <name>
+            Pack Boîte à outils 3
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack4">
+        <name>
+            Pack Boîte à outils 4
+        </name>
+        <description></description>
+    </product>
+    <product code="farmtoold_pack5">
+        <name>
+            Pack Boîte à outils 5
+        </name>
+        <description></description>
     </product>
     <product code="fball_audbench2">
         <name>
@@ -128696,7 +128744,7 @@
     </product>
     <product code="nft_h26_brewingkit">
         <name>
-            nft_h26_brewingkit name
+            Kit de brassage DIY
         </name>
         <description>
             nft_h26_brewingkit desc
@@ -128800,7 +128848,7 @@
     </product>
     <product code="nft_h26_cornucopia_bronze">
         <name>
-            nft_h26_cornucopia_bronze name
+            Corne d'abondance bronze
         </name>
         <description>
             nft_h26_cornucopia_bronze desc
@@ -128808,7 +128856,7 @@
     </product>
     <product code="nft_h26_cornucopia_gold">
         <name>
-            nft_h26_cornucopia_gold name
+            Corne d'abondance or
         </name>
         <description>
             nft_h26_cornucopia_gold desc
@@ -128816,7 +128864,7 @@
     </product>
     <product code="nft_h26_cornucopia_silver">
         <name>
-            nft_h26_cornucopia_silver name
+            Corne d'abondance argent
         </name>
         <description>
             nft_h26_cornucopia_silver desc
@@ -128824,7 +128872,7 @@
     </product>
     <product code="nft_h26_cornucopia_trippy">
         <name>
-            nft_h26_cornucopia_trippy name
+            Corne d'abondance trippy
         </name>
         <description>
             nft_h26_cornucopia_trippy desc
@@ -128904,7 +128952,7 @@
     </product>
     <product code="nft_h26_farmtruck">
         <name>
-            nft_h26_farmtruck name
+            Camion agricole rétro
         </name>
         <description>
             nft_h26_farmtruck desc
@@ -144114,7 +144162,7 @@
     </product>
     <product code="ranch_c26_basket_corn">
         <name>
-            ranch_c26_basket_corn name
+            Panier de maïs
         </name>
         <description>
             ranch_c26_basket_corn desc
@@ -144122,7 +144170,7 @@
     </product>
     <product code="ranch_c26_basket_grapes">
         <name>
-            ranch_c26_basket_grapes name
+            Panier de raisins
         </name>
         <description>
             ranch_c26_basket_grapes desc
@@ -144138,7 +144186,7 @@
     </product>
     <product code="ranch_c26_basket_pumpkins">
         <name>
-            ranch_c26_basket_pumpkins name
+            Panier de citrouilles
         </name>
         <description>
             ranch_c26_basket_pumpkins desc
@@ -144146,7 +144194,7 @@
     </product>
     <product code="ranch_c26_basket_tomatoes">
         <name>
-            ranch_c26_basket_tomatoes name
+            Panier de tomates
         </name>
         <description>
             ranch_c26_basket_tomatoes desc
@@ -144202,7 +144250,7 @@
     </product>
     <product code="ranch_c26_cow">
         <name>
-            ranch_c26_cow name
+            Fidèle Vache laitière
         </name>
         <description>
             ranch_c26_cow desc
@@ -144274,7 +144322,7 @@
     </product>
     <product code="ranch_c26_giantpumpkin">
         <name>
-            ranch_c26_giantpumpkin name
+            Citrouille géante
         </name>
         <description>
             ranch_c26_giantpumpkin desc
@@ -144282,7 +144330,7 @@
     </product>
     <product code="ranch_c26_grapebarrel">
         <name>
-            ranch_c26_grapebarrel name
+            Tonneau jus de raisin
         </name>
         <description>
             ranch_c26_grapebarrel desc
@@ -144338,7 +144386,7 @@
     </product>
     <product code="ranch_c26_molehill">
         <name>
-            ranch_c26_molehill name
+            Taupinière
         </name>
         <description>
             ranch_c26_molehill desc
@@ -144354,7 +144402,7 @@
     </product>
     <product code="ranch_c26_piglet">
         <name>
-            ranch_c26_piglet name
+            Précieux porcelet
         </name>
         <description>
             ranch_c26_piglet desc
@@ -144362,7 +144410,7 @@
     </product>
     <product code="ranch_c26_plot">
         <name>
-            ranch_c26_plot name
+            Parcelle de jardin
         </name>
         <description>
             ranch_c26_plot desc
@@ -144370,7 +144418,7 @@
     </product>
     <product code="ranch_c26_plotsmall">
         <name>
-            ranch_c26_plotsmall name
+            Petite Parcelle de jardin
         </name>
         <description>
             ranch_c26_plotsmall desc
@@ -144394,7 +144442,7 @@
     </product>
     <product code="ranch_c26_scarecrow">
         <name>
-            ranch_c26_scarecrow name
+            Épouvantail tête de citrouille
         </name>
         <description>
             ranch_c26_scarecrow desc
@@ -144434,7 +144482,7 @@
     </product>
     <product code="ranch_c26_shed">
         <name>
-            ranch_c26_shed name
+            Refuge animaux
         </name>
         <description>
             ranch_c26_shed desc
@@ -144442,7 +144490,7 @@
     </product>
     <product code="ranch_c26_shelf">
         <name>
-            ranch_c26_shelf name
+            Étagère de jardin
         </name>
         <description>
             ranch_c26_shelf desc
@@ -144450,7 +144498,7 @@
     </product>
     <product code="ranch_c26_shelter">
         <name>
-            ranch_c26_shelter name
+            Abris enclos
         </name>
         <description>
             ranch_c26_shelter desc
@@ -144458,7 +144506,7 @@
     </product>
     <product code="ranch_c26_sign">
         <name>
-            ranch_c26_sign name
+            Signe plante
         </name>
         <description>
             ranch_c26_sign desc
@@ -144578,7 +144626,7 @@
     </product>
     <product code="ranch_c26_weathervane">
         <name>
-            ranch_c26_weathervane name
+            Girouette Canard
         </name>
         <description>
             ranch_c26_weathervane desc
@@ -144586,7 +144634,7 @@
     </product>
     <product code="ranch_c26_wheelbarrow">
         <name>
-            ranch_c26_wheelbarrow name
+            Brouette en bois
         </name>
         <description>
             ranch_c26_wheelbarrow desc
@@ -144600,9 +144648,15 @@
             ranch_c26_workbench desc
         </description>
     </product>
+    <product code="ranch_r26_goat_bd">
+        <name>
+            Chèvre tachetée
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_pumpkinthrone">
         <name>
-            ranch_r26_pumpkinthrone name
+            Trône citrouille
         </name>
         <description>
             ranch_r26_pumpkinthrone desc
@@ -144610,19 +144664,31 @@
     </product>
     <product code="ranch_r26_spottedgoat">
         <name>
-            ranch_r26_spottedgoat name
+            Chèvre tachetée
         </name>
         <description>
             ranch_r26_spottedgoat desc
         </description>
     </product>
+    <product code="ranch_r26_statue_bd">
+        <name>
+            Statue éleveur
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_statue">
         <name>
-            ranch_r26_statue name
+            Statue éleveur
         </name>
         <description>
             ranch_r26_statue desc
         </description>
+    </product>
+    <product code="ranch_r26_throne_bd">
+        <name>
+            Trône citrouille
+        </name>
+        <description></description>
     </product>
     <product code="random_tele_1">
         <name>
@@ -163585,6 +163651,18 @@ Par BIBI983
     <product code="rotating_roomdeal458">
         <name>
             Social Club Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459_d">
+        <name>
+            Pack Vie au ranch
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459">
+        <name>
+            Pack Vie au ranch
         </name>
         <description></description>
     </product>

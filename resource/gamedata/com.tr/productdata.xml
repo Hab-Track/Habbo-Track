@@ -50160,6 +50160,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_glowingfireflies_bd">
+        <name>
+            Parlayan Ateş böcekleri
+        </name>
+        <description></description>
+    </product>
     <product code="cl_goodluckbearoutfit_bd">
         <name>
             Good Luck Bear Kıyafeti
@@ -50187,6 +50193,12 @@
     <product code="cl_ltd26_iridescentskin_bd">
         <name>
             Yanardöner Görünüm
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_ltd26_scarecrow_bd">
+        <name>
+            Korkunç Korkuluk
         </name>
         <description></description>
     </product>
@@ -50373,6 +50385,12 @@
     <product code="cl_r26_jellyfishcut_bd">
         <name>
             Denizanası Saç Kesimi
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_lambplush_bd">
+        <name>
+            Küçük Kuzu Pelüşü
         </name>
         <description></description>
     </product>
@@ -54084,7 +54102,7 @@
     </product>
     <product code="clothing_cowonesie">
         <name>
-            clothing_cowonesie name
+            İnek Tulumu
         </name>
         <description>
             clothing_cowonesie desc
@@ -56044,7 +56062,7 @@
     </product>
     <product code="clothing_glowingfireflies">
         <name>
-            clothing_glowingfireflies name
+            Parlayan Ateş böcekleri
         </name>
         <description>
             clothing_glowingfireflies desc
@@ -57672,7 +57690,7 @@
     </product>
     <product code="clothing_ltd26_scarecrow">
         <name>
-            clothing_ltd26_scarecrow name
+            Korkunç Korkuluk
         </name>
         <description>
             clothing_ltd26_scarecrow desc
@@ -61522,7 +61540,7 @@
     </product>
     <product code="clothing_nftstrawhat">
         <name>
-            clothing_nftstrawhat name
+            Geniş Kenarlı Hasır Şapka
         </name>
         <description>
             clothing_nftstrawhat desc
@@ -61530,7 +61548,7 @@
     </product>
     <product code="clothing_nftstrawmouth">
         <name>
-            clothing_nftstrawmouth name
+            Ağzında Saman
         </name>
         <description>
             clothing_nftstrawmouth desc
@@ -62018,7 +62036,7 @@
     </product>
     <product code="clothing_nftwesternhat">
         <name>
-            clothing_nftwesternhat name
+            Klasik Kovboy Şapkası
         </name>
         <description>
             clothing_nftwesternhat desc
@@ -62026,7 +62044,7 @@
     </product>
     <product code="clothing_nftwesternshirt">
         <name>
-            clothing_nftwesternshirt name
+            Klasik Kovboy Gömleği
         </name>
         <description>
             clothing_nftwesternshirt desc
@@ -62034,7 +62052,7 @@
     </product>
     <product code="clothing_nftwesternvest">
         <name>
-            clothing_nftwesternvest name
+            Klasik Kovboy Yeleği
         </name>
         <description>
             clothing_nftwesternvest desc
@@ -63644,7 +63662,7 @@
     </product>
     <product code="clothing_pumpkinbag2">
         <name>
-            clothing_pumpkinbag2 name
+            Küçük Bal kabağı Çantası
         </name>
         <description>
             clothing_pumpkinbag2 desc
@@ -67460,7 +67478,7 @@
     </product>
     <product code="clothing_r26_lambplush">
         <name>
-            clothing_r26_lambplush name
+            Küçük Kuzu Pelüşü
         </name>
         <description>
             clothing_r26_lambplush desc
@@ -69090,7 +69108,7 @@
     </product>
     <product code="clothing_tomatoberet">
         <name>
-            clothing_tomatoberet name
+            Domates Beresi
         </name>
         <description>
             clothing_tomatoberet desc
@@ -136877,7 +136895,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_brewingkit">
         <name>
-            nft_h26_brewingkit name
+            Kendin Yap Bira Demleme Kiti
         </name>
         <description>
             nft_h26_brewingkit desc
@@ -136981,7 +136999,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_cornucopia_bronze">
         <name>
-            nft_h26_cornucopia_bronze name
+            Bronz Bereket Boynuzu
         </name>
         <description>
             nft_h26_cornucopia_bronze desc
@@ -136989,7 +137007,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_cornucopia_gold">
         <name>
-            nft_h26_cornucopia_gold name
+            Altın Bereket Boynuzu
         </name>
         <description>
             nft_h26_cornucopia_gold desc
@@ -136997,7 +137015,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_cornucopia_silver">
         <name>
-            nft_h26_cornucopia_silver name
+            Gümüş Bereket Boynuzu
         </name>
         <description>
             nft_h26_cornucopia_silver desc
@@ -137005,7 +137023,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_cornucopia_trippy">
         <name>
-            nft_h26_cornucopia_trippy name
+            Trip Bereket Boynuzu
         </name>
         <description>
             nft_h26_cornucopia_trippy desc
@@ -137085,7 +137103,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_farmtruck">
         <name>
-            nft_h26_farmtruck name
+            Retro Çiftlik Kamyonu
         </name>
         <description>
             nft_h26_farmtruck desc
@@ -152263,7 +152281,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_basket_corn">
         <name>
-            ranch_c26_basket_corn name
+            Mısır Sepeti
         </name>
         <description>
             ranch_c26_basket_corn desc
@@ -152271,7 +152289,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_basket_grapes">
         <name>
-            ranch_c26_basket_grapes name
+            Üzüm Sepeti
         </name>
         <description>
             ranch_c26_basket_grapes desc
@@ -152287,7 +152305,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_basket_pumpkins">
         <name>
-            ranch_c26_basket_pumpkins name
+            Bal kabağı Sepeti
         </name>
         <description>
             ranch_c26_basket_pumpkins desc
@@ -152295,7 +152313,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_basket_tomatoes">
         <name>
-            ranch_c26_basket_tomatoes name
+            Domates Sepeti
         </name>
         <description>
             ranch_c26_basket_tomatoes desc
@@ -152351,7 +152369,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_cow">
         <name>
-            ranch_c26_cow name
+            Sadık Sütçü İnek
         </name>
         <description>
             ranch_c26_cow desc
@@ -152423,7 +152441,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_giantpumpkin">
         <name>
-            ranch_c26_giantpumpkin name
+            Dev Bal kabağı
         </name>
         <description>
             ranch_c26_giantpumpkin desc
@@ -152431,7 +152449,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_grapebarrel">
         <name>
-            ranch_c26_grapebarrel name
+            Üzüm Suyu Fıçısı
         </name>
         <description>
             ranch_c26_grapebarrel desc
@@ -152487,7 +152505,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_molehill">
         <name>
-            ranch_c26_molehill name
+            Köstebek yuvası
         </name>
         <description>
             ranch_c26_molehill desc
@@ -152503,7 +152521,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_piglet">
         <name>
-            ranch_c26_piglet name
+            Şirin Domuz Yavrusu
         </name>
         <description>
             ranch_c26_piglet desc
@@ -152511,7 +152529,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_plot">
         <name>
-            ranch_c26_plot name
+            Bahçe Parseli
         </name>
         <description>
             ranch_c26_plot desc
@@ -152519,7 +152537,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_plotsmall">
         <name>
-            ranch_c26_plotsmall name
+            Küçük Bahçe Parseli
         </name>
         <description>
             ranch_c26_plotsmall desc
@@ -152543,7 +152561,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_scarecrow">
         <name>
-            ranch_c26_scarecrow name
+            Bal kabağı Kafalı Korkuluk
         </name>
         <description>
             ranch_c26_scarecrow desc
@@ -152583,7 +152601,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_shed">
         <name>
-            ranch_c26_shed name
+            Hayvan Barınağı
         </name>
         <description>
             ranch_c26_shed desc
@@ -152591,7 +152609,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_shelf">
         <name>
-            ranch_c26_shelf name
+            Bahçe Rafı
         </name>
         <description>
             ranch_c26_shelf desc
@@ -152599,7 +152617,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_shelter">
         <name>
-            ranch_c26_shelter name
+            Padok Barınağı
         </name>
         <description>
             ranch_c26_shelter desc
@@ -152607,7 +152625,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_sign">
         <name>
-            ranch_c26_sign name
+            Bitki Tabelası
         </name>
         <description>
             ranch_c26_sign desc
@@ -152727,7 +152745,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_weathervane">
         <name>
-            ranch_c26_weathervane name
+            Ördek Rüzgar Gülü
         </name>
         <description>
             ranch_c26_weathervane desc
@@ -152735,7 +152753,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_wheelbarrow">
         <name>
-            ranch_c26_wheelbarrow name
+            Ahşap El Arabası
         </name>
         <description>
             ranch_c26_wheelbarrow desc
@@ -152749,9 +152767,15 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
             ranch_c26_workbench desc
         </description>
     </product>
+    <product code="ranch_r26_goat_bd">
+        <name>
+            Benekli Keçi
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_pumpkinthrone">
         <name>
-            ranch_r26_pumpkinthrone name
+            Bal kabağı Tahtı
         </name>
         <description>
             ranch_r26_pumpkinthrone desc
@@ -152759,19 +152783,31 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_r26_spottedgoat">
         <name>
-            ranch_r26_spottedgoat name
+            Benekli Keçi
         </name>
         <description>
             ranch_r26_spottedgoat desc
         </description>
     </product>
+    <product code="ranch_r26_statue_bd">
+        <name>
+            Çiftçi Heykeli
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_statue">
         <name>
-            ranch_r26_statue name
+            Çiftçi Heykeli
         </name>
         <description>
             ranch_r26_statue desc
         </description>
+    </product>
+    <product code="ranch_r26_throne_bd">
+        <name>
+            Bal kabağı Tahtı
+        </name>
+        <description></description>
     </product>
     <product code="rare mosterplant">
         <name>
@@ -171754,6 +171790,18 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     <product code="rotating_roomdeal458">
         <name>
             Social Club Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459_d">
+        <name>
+            Çiftlik Hayatı Oda Paketi
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459">
+        <name>
+            Çiftlik Hayatı Oda Paketi
         </name>
         <description></description>
     </product>

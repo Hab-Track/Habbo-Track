@@ -33392,6 +33392,11 @@
         "description": ""
       },
       {
+        "code": "cl_glowingfireflies_bd",
+        "name": "Hohtavat tulikärpäset",
+        "description": ""
+      },
+      {
         "code": "cl_goodluckbearoutfit_bd",
         "name": "Onninallen asu",
         "description": ""
@@ -33414,6 +33419,11 @@
       {
         "code": "cl_ltd26_iridescentskin_bd",
         "name": "Kimalteleva kokovartaloasu",
+        "description": ""
+      },
+      {
+        "code": "cl_ltd26_scarecrow_bd",
+        "name": "Pelottava linnunpelätin",
         "description": ""
       },
       {
@@ -33569,6 +33579,11 @@
       {
         "code": "cl_r26_jellyfishcut_bd",
         "name": "Meduusatukka",
+        "description": ""
+      },
+      {
+        "code": "cl_r26_lambplush_bd",
+        "name": "Pieni karitsapehmo",
         "description": ""
       },
       {
@@ -35933,7 +35948,7 @@
       },
       {
         "code": "clothing_cowonesie",
-        "name": "clothing_cowonesie name",
+        "name": "Lehmähaalari",
         "description": "clothing_cowonesie desc"
       },
       {
@@ -37178,7 +37193,7 @@
       },
       {
         "code": "clothing_glowingfireflies",
-        "name": "clothing_glowingfireflies name",
+        "name": "Hohtavat tulikärpäset",
         "description": "clothing_glowingfireflies desc"
       },
       {
@@ -38223,7 +38238,7 @@
       },
       {
         "code": "clothing_ltd26_scarecrow",
-        "name": "clothing_ltd26_scarecrow name",
+        "name": "Pelottava linnunpelätin",
         "description": "clothing_ltd26_scarecrow desc"
       },
       {
@@ -40643,12 +40658,12 @@
       },
       {
         "code": "clothing_nftstrawhat",
-        "name": "clothing_nftstrawhat name",
+        "name": "Leveälierinen olkihattu",
         "description": "clothing_nftstrawhat desc"
       },
       {
         "code": "clothing_nftstrawmouth",
-        "name": "clothing_nftstrawmouth name",
+        "name": "Olkikorsi suussa",
         "description": "clothing_nftstrawmouth desc"
       },
       {
@@ -40953,17 +40968,17 @@
       },
       {
         "code": "clothing_nftwesternhat",
-        "name": "clothing_nftwesternhat name",
+        "name": "Klassinen lännenhattu",
         "description": "clothing_nftwesternhat desc"
       },
       {
         "code": "clothing_nftwesternshirt",
-        "name": "clothing_nftwesternshirt name",
+        "name": "Klassinen lännenpaita",
         "description": "clothing_nftwesternshirt desc"
       },
       {
         "code": "clothing_nftwesternvest",
-        "name": "clothing_nftwesternvest name",
+        "name": "Klassinen lännenliivi",
         "description": "clothing_nftwesternvest desc"
       },
       {
@@ -41978,7 +41993,7 @@
       },
       {
         "code": "clothing_pumpkinbag2",
-        "name": "clothing_pumpkinbag2 name",
+        "name": "Pieni kurpitsakassi",
         "description": "clothing_pumpkinbag2 desc"
       },
       {
@@ -44603,7 +44618,7 @@
       },
       {
         "code": "clothing_r26_lambplush",
-        "name": "clothing_r26_lambplush name",
+        "name": "Pieni karitsapehmo",
         "description": "clothing_r26_lambplush desc"
       },
       {
@@ -45638,7 +45653,7 @@
       },
       {
         "code": "clothing_tomatoberet",
-        "name": "clothing_tomatoberet name",
+        "name": "Tomaattibaretti",
         "description": "clothing_tomatoberet desc"
       },
       {
@@ -85053,7 +85068,7 @@
       },
       {
         "code": "nft_h26_brewingkit",
-        "name": "nft_h26_brewingkit name",
+        "name": "Kotipanimotarvikesetti",
         "description": "nft_h26_brewingkit desc"
       },
       {
@@ -85118,22 +85133,22 @@
       },
       {
         "code": "nft_h26_cornucopia_bronze",
-        "name": "nft_h26_cornucopia_bronze name",
+        "name": "Pronssi runsaudensarvi",
         "description": "nft_h26_cornucopia_bronze desc"
       },
       {
         "code": "nft_h26_cornucopia_gold",
-        "name": "nft_h26_cornucopia_gold name",
+        "name": "Kultainen runsaudensarvi",
         "description": "nft_h26_cornucopia_gold desc"
       },
       {
         "code": "nft_h26_cornucopia_silver",
-        "name": "nft_h26_cornucopia_silver name",
+        "name": "Hopea runsaudensarvi",
         "description": "nft_h26_cornucopia_silver desc"
       },
       {
         "code": "nft_h26_cornucopia_trippy",
-        "name": "nft_h26_cornucopia_trippy name",
+        "name": "Psykedeelinen runsaudensarvi",
         "description": "nft_h26_cornucopia_trippy desc"
       },
       {
@@ -85183,7 +85198,7 @@
       },
       {
         "code": "nft_h26_farmtruck",
-        "name": "nft_h26_farmtruck name",
+        "name": "Retro farmiauto",
         "description": "nft_h26_farmtruck desc"
       },
       {
@@ -94873,12 +94888,12 @@
       },
       {
         "code": "ranch_c26_basket_corn",
-        "name": "ranch_c26_basket_corn name",
+        "name": "Maissikori",
         "description": "ranch_c26_basket_corn desc"
       },
       {
         "code": "ranch_c26_basket_grapes",
-        "name": "ranch_c26_basket_grapes name",
+        "name": "Rypälekori",
         "description": "ranch_c26_basket_grapes desc"
       },
       {
@@ -94888,12 +94903,12 @@
       },
       {
         "code": "ranch_c26_basket_pumpkins",
-        "name": "ranch_c26_basket_pumpkins name",
+        "name": "Kurpitsakori",
         "description": "ranch_c26_basket_pumpkins desc"
       },
       {
         "code": "ranch_c26_basket_tomatoes",
-        "name": "ranch_c26_basket_tomatoes name",
+        "name": "Tomaattikori",
         "description": "ranch_c26_basket_tomatoes desc"
       },
       {
@@ -94928,7 +94943,7 @@
       },
       {
         "code": "ranch_c26_cow",
-        "name": "ranch_c26_cow name",
+        "name": "Uskollinen lypsylehmä",
         "description": "ranch_c26_cow desc"
       },
       {
@@ -94973,12 +94988,12 @@
       },
       {
         "code": "ranch_c26_giantpumpkin",
-        "name": "ranch_c26_giantpumpkin name",
+        "name": "Jättikurpitsa",
         "description": "ranch_c26_giantpumpkin desc"
       },
       {
         "code": "ranch_c26_grapebarrel",
-        "name": "ranch_c26_grapebarrel name",
+        "name": "Rypälemehutynnyri",
         "description": "ranch_c26_grapebarrel desc"
       },
       {
@@ -95013,7 +95028,7 @@
       },
       {
         "code": "ranch_c26_molehill",
-        "name": "ranch_c26_molehill name",
+        "name": "Myyränkeko",
         "description": "ranch_c26_molehill desc"
       },
       {
@@ -95023,17 +95038,17 @@
       },
       {
         "code": "ranch_c26_piglet",
-        "name": "ranch_c26_piglet name",
+        "name": "Suloinen porsas",
         "description": "ranch_c26_piglet desc"
       },
       {
         "code": "ranch_c26_plot",
-        "name": "ranch_c26_plot name",
+        "name": "Viljelypalsta",
         "description": "ranch_c26_plot desc"
       },
       {
         "code": "ranch_c26_plotsmall",
-        "name": "ranch_c26_plotsmall name",
+        "name": "Pikkuinen viljelypalsta",
         "description": "ranch_c26_plotsmall desc"
       },
       {
@@ -95048,7 +95063,7 @@
       },
       {
         "code": "ranch_c26_scarecrow",
-        "name": "ranch_c26_scarecrow name",
+        "name": "Kurpitsapäinen linnunpelätin",
         "description": "ranch_c26_scarecrow desc"
       },
       {
@@ -95073,22 +95088,22 @@
       },
       {
         "code": "ranch_c26_shed",
-        "name": "ranch_c26_shed name",
+        "name": "Eläinsuoja",
         "description": "ranch_c26_shed desc"
       },
       {
         "code": "ranch_c26_shelf",
-        "name": "ranch_c26_shelf name",
+        "name": "Puutarhahylly",
         "description": "ranch_c26_shelf desc"
       },
       {
         "code": "ranch_c26_shelter",
-        "name": "ranch_c26_shelter name",
+        "name": "Laidunkatos",
         "description": "ranch_c26_shelter desc"
       },
       {
         "code": "ranch_c26_sign",
-        "name": "ranch_c26_sign name",
+        "name": "Kasvikyltti",
         "description": "ranch_c26_sign desc"
       },
       {
@@ -95163,12 +95178,12 @@
       },
       {
         "code": "ranch_c26_weathervane",
-        "name": "ranch_c26_weathervane name",
+        "name": "Ankkatuuliviiri",
         "description": "ranch_c26_weathervane desc"
       },
       {
         "code": "ranch_c26_wheelbarrow",
-        "name": "ranch_c26_wheelbarrow name",
+        "name": "Puinen kottikärry",
         "description": "ranch_c26_wheelbarrow desc"
       },
       {
@@ -95177,19 +95192,34 @@
         "description": "ranch_c26_workbench desc"
       },
       {
+        "code": "ranch_r26_goat_bd",
+        "name": "Täplikäs vuohi",
+        "description": ""
+      },
+      {
         "code": "ranch_r26_pumpkinthrone",
-        "name": "ranch_r26_pumpkinthrone name",
+        "name": "Kurpitsavaltaistuin",
         "description": "ranch_r26_pumpkinthrone desc"
       },
       {
         "code": "ranch_r26_spottedgoat",
-        "name": "ranch_r26_spottedgoat name",
+        "name": "Täplikäs vuohi",
         "description": "ranch_r26_spottedgoat desc"
       },
       {
+        "code": "ranch_r26_statue_bd",
+        "name": "Karjatilallisen patsas",
+        "description": ""
+      },
+      {
         "code": "ranch_r26_statue",
-        "name": "ranch_r26_statue name",
+        "name": "Karjatilallisen patsas",
         "description": "ranch_r26_statue desc"
+      },
+      {
+        "code": "ranch_r26_throne_bd",
+        "name": "Kurpitsavaltaistuin",
+        "description": ""
       },
       {
         "code": "random_tele_1",
@@ -107829,6 +107859,16 @@
       {
         "code": "rotating_roomdeal458",
         "name": "Social Club Bundle",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal459_d",
+        "name": "Ranch-elämää-huonepaketti",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal459",
+        "name": "Ranch-elämää-huonepaketti",
         "description": ""
       },
       {

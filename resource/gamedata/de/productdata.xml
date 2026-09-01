@@ -49790,6 +49790,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_glowingfireflies_bd">
+        <name>
+            Leuchtende Glühwürmchen
+        </name>
+        <description></description>
+    </product>
     <product code="cl_goodluckbearoutfit_bd">
         <name>
             Glücksbärchi-Outfit
@@ -49817,6 +49823,12 @@
     <product code="cl_ltd26_iridescentskin_bd">
         <name>
             Schillernde Haut
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_ltd26_scarecrow_bd">
+        <name>
+            Furchteinflössende Vogelscheuche
         </name>
         <description></description>
     </product>
@@ -50003,6 +50015,12 @@
     <product code="cl_r26_jellyfishcut_bd">
         <name>
             Quallen-Haarschnitt
+        </name>
+        <description></description>
+    </product>
+    <product code="cl_r26_lambplush_bd">
+        <name>
+            Kleines Plüschlamm
         </name>
         <description></description>
     </product>
@@ -53711,7 +53729,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_cowonesie">
         <name>
-            clothing_cowonesie name
+            Kuh-Einteiler
         </name>
         <description>
             clothing_cowonesie desc
@@ -55671,7 +55689,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_glowingfireflies">
         <name>
-            clothing_glowingfireflies name
+            Leuchtende Glühwürmchen
         </name>
         <description>
             clothing_glowingfireflies desc
@@ -57303,7 +57321,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_ltd26_scarecrow">
         <name>
-            clothing_ltd26_scarecrow name
+            Furchteinflössende Vogelscheuche
         </name>
         <description>
             clothing_ltd26_scarecrow desc
@@ -61153,7 +61171,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nftstrawhat">
         <name>
-            clothing_nftstrawhat name
+            Breitkrempiger Strohhut
         </name>
         <description>
             clothing_nftstrawhat desc
@@ -61161,7 +61179,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nftstrawmouth">
         <name>
-            clothing_nftstrawmouth name
+            Strohhalm im Mund
         </name>
         <description>
             clothing_nftstrawmouth desc
@@ -61649,7 +61667,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nftwesternhat">
         <name>
-            clothing_nftwesternhat name
+            Klassischer Westernhut
         </name>
         <description>
             clothing_nftwesternhat desc
@@ -61657,7 +61675,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nftwesternshirt">
         <name>
-            clothing_nftwesternshirt name
+            Klassisches Westernhemd
         </name>
         <description>
             clothing_nftwesternshirt desc
@@ -61665,7 +61683,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nftwesternvest">
         <name>
-            clothing_nftwesternvest name
+            Klassische Westernweste
         </name>
         <description>
             clothing_nftwesternvest desc
@@ -63277,7 +63295,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_pumpkinbag2">
         <name>
-            clothing_pumpkinbag2 name
+            Kleine Kürbistasche
         </name>
         <description>
             clothing_pumpkinbag2 desc
@@ -67093,7 +67111,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_r26_lambplush">
         <name>
-            clothing_r26_lambplush name
+            Kleines Plüschlamm
         </name>
         <description>
             clothing_r26_lambplush desc
@@ -68723,7 +68741,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_tomatoberet">
         <name>
-            clothing_tomatoberet name
+            Tomatenmütze
         </name>
         <description>
             clothing_tomatoberet desc
@@ -130201,7 +130219,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_brewingkit">
         <name>
-            nft_h26_brewingkit name
+            DIY-Brauereikit
         </name>
         <description>
             nft_h26_brewingkit desc
@@ -130305,7 +130323,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_cornucopia_bronze">
         <name>
-            nft_h26_cornucopia_bronze name
+            Bronze-Füllhorn
         </name>
         <description>
             nft_h26_cornucopia_bronze desc
@@ -130313,7 +130331,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_cornucopia_gold">
         <name>
-            nft_h26_cornucopia_gold name
+            Gold-Füllhorn
         </name>
         <description>
             nft_h26_cornucopia_gold desc
@@ -130321,7 +130339,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_cornucopia_silver">
         <name>
-            nft_h26_cornucopia_silver name
+            Silber-Füllhorn
         </name>
         <description>
             nft_h26_cornucopia_silver desc
@@ -130329,7 +130347,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_cornucopia_trippy">
         <name>
-            nft_h26_cornucopia_trippy name
+            Trippy-Füllhorn
         </name>
         <description>
             nft_h26_cornucopia_trippy desc
@@ -130409,7 +130427,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_farmtruck">
         <name>
-            nft_h26_farmtruck name
+            Retro Farm Truck
         </name>
         <description>
             nft_h26_farmtruck desc
@@ -145789,7 +145807,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_basket_corn">
         <name>
-            ranch_c26_basket_corn name
+            Korb mit Mais
         </name>
         <description>
             ranch_c26_basket_corn desc
@@ -145797,7 +145815,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_basket_grapes">
         <name>
-            ranch_c26_basket_grapes name
+            Korb mit Weintrauben
         </name>
         <description>
             ranch_c26_basket_grapes desc
@@ -145813,7 +145831,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_basket_pumpkins">
         <name>
-            ranch_c26_basket_pumpkins name
+            Korb mit Kürbissen
         </name>
         <description>
             ranch_c26_basket_pumpkins desc
@@ -145821,7 +145839,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_basket_tomatoes">
         <name>
-            ranch_c26_basket_tomatoes name
+            Korb mit Tomaten
         </name>
         <description>
             ranch_c26_basket_tomatoes desc
@@ -145877,7 +145895,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_cow">
         <name>
-            ranch_c26_cow name
+            Treue Milchkuh
         </name>
         <description>
             ranch_c26_cow desc
@@ -145949,7 +145967,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_giantpumpkin">
         <name>
-            ranch_c26_giantpumpkin name
+            Riesen-Kürbis
         </name>
         <description>
             ranch_c26_giantpumpkin desc
@@ -145957,7 +145975,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_grapebarrel">
         <name>
-            ranch_c26_grapebarrel name
+            Fass mit Traubensaft
         </name>
         <description>
             ranch_c26_grapebarrel desc
@@ -146013,7 +146031,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_molehill">
         <name>
-            ranch_c26_molehill name
+            Maulwurfshügel
         </name>
         <description>
             ranch_c26_molehill desc
@@ -146029,7 +146047,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_piglet">
         <name>
-            ranch_c26_piglet name
+            Süsses Ferkel
         </name>
         <description>
             ranch_c26_piglet desc
@@ -146037,7 +146055,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_plot">
         <name>
-            ranch_c26_plot name
+            Garten-Parzelle
         </name>
         <description>
             ranch_c26_plot desc
@@ -146045,7 +146063,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_plotsmall">
         <name>
-            ranch_c26_plotsmall name
+            Winzige Garten-Parzelle
         </name>
         <description>
             ranch_c26_plotsmall desc
@@ -146069,7 +146087,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_scarecrow">
         <name>
-            ranch_c26_scarecrow name
+            Vogelscheuche mit Kürbiskopf
         </name>
         <description>
             ranch_c26_scarecrow desc
@@ -146109,7 +146127,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_shed">
         <name>
-            ranch_c26_shed name
+            Tierunterstand
         </name>
         <description>
             ranch_c26_shed desc
@@ -146117,7 +146135,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_shelf">
         <name>
-            ranch_c26_shelf name
+            Gartenregal
         </name>
         <description>
             ranch_c26_shelf desc
@@ -146125,7 +146143,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_shelter">
         <name>
-            ranch_c26_shelter name
+            Weideunterstand
         </name>
         <description>
             ranch_c26_shelter desc
@@ -146133,7 +146151,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_sign">
         <name>
-            ranch_c26_sign name
+            Pflanzenschild
         </name>
         <description>
             ranch_c26_sign desc
@@ -146253,7 +146271,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_weathervane">
         <name>
-            ranch_c26_weathervane name
+            Enten-Wetterhahn
         </name>
         <description>
             ranch_c26_weathervane desc
@@ -146261,7 +146279,7 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_c26_wheelbarrow">
         <name>
-            ranch_c26_wheelbarrow name
+            Holzschubkarre
         </name>
         <description>
             ranch_c26_wheelbarrow desc
@@ -146275,9 +146293,15 @@ Kunstfertigkeit.
             ranch_c26_workbench desc
         </description>
     </product>
+    <product code="ranch_r26_goat_bd">
+        <name>
+            Gefleckte Ziege
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_pumpkinthrone">
         <name>
-            ranch_r26_pumpkinthrone name
+            Kürbisthron
         </name>
         <description>
             ranch_r26_pumpkinthrone desc
@@ -146285,19 +146309,31 @@ Kunstfertigkeit.
     </product>
     <product code="ranch_r26_spottedgoat">
         <name>
-            ranch_r26_spottedgoat name
+            Gefleckte Ziege
         </name>
         <description>
             ranch_r26_spottedgoat desc
         </description>
     </product>
+    <product code="ranch_r26_statue_bd">
+        <name>
+            Rancher-Statue
+        </name>
+        <description></description>
+    </product>
     <product code="ranch_r26_statue">
         <name>
-            ranch_r26_statue name
+            Rancher-Statue
         </name>
         <description>
             ranch_r26_statue desc
         </description>
+    </product>
+    <product code="ranch_r26_throne_bd">
+        <name>
+            Kürbisthron
+        </name>
+        <description></description>
     </product>
     <product code="random_tele_1">
         <name>
@@ -165275,6 +165311,18 @@ Enthält 3 Taler
     <product code="rotating_roomdeal458">
         <name>
             Social Club Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459_d">
+        <name>
+            Leben auf der Ranch-Bündel
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal459">
+        <name>
+            Leben auf der Ranch-Bündel
         </name>
         <description></description>
     </product>
