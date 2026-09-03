@@ -10608,6 +10608,11 @@
             <set id="6526" gender="U" club="0" colorable="0" selectable="1" preselectable="0" sellable="1">
                 <part id="7500" type="lg" colorable="0" index="0" colorindex="0"/>
             </set>
+            <set id="6561" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="7576" type="lg" colorable="1" index="0" colorindex="1"/>
+                <part id="7577" type="lg" colorable="1" index="1" colorindex="2"/>
+                <part id="7578" type="lg" colorable="0" index="2" colorindex="0"/>
+            </set>
             <set id="696" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
                 <part id="201" type="lg" colorable="1" index="0" colorindex="1"/>
             </set>
@@ -20045,6 +20050,38 @@
                 <part id="7609" type="cc" colorable="0" index="2" colorindex="0"/>
                 <part id="7606" type="lc" colorable="0" index="2" colorindex="0"/>
                 <part id="7606" type="rc" colorable="0" index="2" colorindex="0"/>
+            </set>
+            <set id="6581" gender="M" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="7627" type="cc" colorable="1" index="0" colorindex="1"/>
+                <part id="7627" type="lc" colorable="1" index="0" colorindex="1"/>
+                <part id="7627" type="rc" colorable="1" index="0" colorindex="1"/>
+                <part id="7628" type="cc" colorable="1" index="1" colorindex="2"/>
+                <part id="7628" type="lc" colorable="1" index="1" colorindex="2"/>
+                <part id="7628" type="rc" colorable="1" index="1" colorindex="2"/>
+                <part id="7629" type="cc" colorable="0" index="2" colorindex="0"/>
+                <part id="7629" type="lc" colorable="0" index="2" colorindex="0"/>
+                <part id="7629" type="rc" colorable="0" index="2" colorindex="0"/>
+                <hiddenlayers>
+                    <layer parttype="rs"/>
+                    <layer parttype="ch"/>
+                    <layer parttype="ls"/>
+                </hiddenlayers>
+            </set>
+            <set id="6582" gender="F" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="7630" type="cc" colorable="1" index="0" colorindex="1"/>
+                <part id="7630" type="lc" colorable="1" index="0" colorindex="1"/>
+                <part id="7630" type="rc" colorable="1" index="0" colorindex="1"/>
+                <part id="7631" type="cc" colorable="1" index="1" colorindex="2"/>
+                <part id="7631" type="lc" colorable="1" index="1" colorindex="2"/>
+                <part id="7631" type="rc" colorable="1" index="1" colorindex="2"/>
+                <part id="7632" type="cc" colorable="0" index="2" colorindex="0"/>
+                <part id="7632" type="lc" colorable="0" index="2" colorindex="0"/>
+                <part id="7632" type="rc" colorable="0" index="2" colorindex="0"/>
+                <hiddenlayers>
+                    <layer parttype="rs"/>
+                    <layer parttype="ch"/>
+                    <layer parttype="ls"/>
+                </hiddenlayers>
             </set>
             <set id="9563" gender="F" club="2" colorable="1" selectable="1" preselectable="0">
                 <part id="2233" type="cc" colorable="1" index="0" colorindex="1"/>

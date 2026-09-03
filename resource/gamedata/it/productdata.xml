@@ -58766,6 +58766,14 @@
             clothing_nft25earrings3 desc
         </description>
     </product>
+    <product code="clothing_nft26_nftwitchcape">
+        <name>
+            clothing_nft26_nftwitchcape name
+        </name>
+        <description>
+            clothing_nft26_nftwitchcape desc
+        </description>
+    </product>
     <product code="clothing_nft_bloody">
         <name>
             Occhi Insanguinati
@@ -102472,6 +102480,14 @@
         </name>
         <description></description>
     </product>
+    <product code="hween26_nt_curseddragonlamp">
+        <name>
+            hween26_nt_curseddragonlamp name
+        </name>
+        <description>
+            hween26_nt_curseddragonlamp desc
+        </description>
+    </product>
     <product code="hween_c15_altar">
         <name>
             Tavolo del Crafting dell'Habbocalisse
@@ -106746,6 +106762,14 @@
         </name>
         <description>
             hween_cloth_c26_cat desc
+        </description>
+    </product>
+    <product code="hween_cloth_c26_checkerskirt">
+        <name>
+            hween_cloth_c26_checkerskirt name
+        </name>
+        <description>
+            hween_cloth_c26_checkerskirt desc
         </description>
     </product>
     <product code="hween_cloth_c26_dollhairdo">
@@ -185355,6 +185379,14 @@ Include un ESCLUSIVO Distintivo.
             L'interruttore ha 4 stati. Puoi farlo funzionare solo da una casella adiacente.
         </description>
     </product>
+    <product code="wf_fx_firegate">
+        <name>
+            wf_fx_firegate name
+        </name>
+        <description>
+            wf_fx_firegate desc
+        </description>
+    </product>
     <product code="wf_game_upcounter1">
         <name>
             Contatore di Gioco Wired
@@ -186511,6 +186543,54 @@ Include un ESCLUSIVO Distintivo.
         </name>
         <description>
             wf_xtra_var_web_api desc
+        </description>
+    </product>
+    <product code="wf_xtra_varfx_boss">
+        <name>
+            wf_xtra_varfx_boss name
+        </name>
+        <description>
+            wf_xtra_varfx_boss desc
+        </description>
+    </product>
+    <product code="wf_xtra_varfx_hp">
+        <name>
+            wf_xtra_varfx_hp name
+        </name>
+        <description>
+            wf_xtra_varfx_hp desc
+        </description>
+    </product>
+    <product code="wf_xtra_varfx_levelling">
+        <name>
+            wf_xtra_varfx_levelling name
+        </name>
+        <description>
+            wf_xtra_varfx_levelling desc
+        </description>
+    </product>
+    <product code="wf_xtra_varfx_number">
+        <name>
+            wf_xtra_varfx_number name
+        </name>
+        <description>
+            wf_xtra_varfx_number desc
+        </description>
+    </product>
+    <product code="wf_xtra_varfx_prog">
+        <name>
+            wf_xtra_varfx_prog name
+        </name>
+        <description>
+            wf_xtra_varfx_prog desc
+        </description>
+    </product>
+    <product code="wf_xtra_varfx_status">
+        <name>
+            wf_xtra_varfx_status name
+        </name>
+        <description>
+            wf_xtra_varfx_status desc
         </description>
     </product>
     <product code="wheel_deal1">

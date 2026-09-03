@@ -39172,6 +39172,11 @@
         "description": "clothing_nft25earrings3 desc"
       },
       {
+        "code": "clothing_nft26_nftwitchcape",
+        "name": "clothing_nft26_nftwitchcape name",
+        "description": "clothing_nft26_nftwitchcape desc"
+      },
+      {
         "code": "clothing_nft_bloody",
         "name": "Kanlı Gözler",
         "description": ""
@@ -75777,6 +75782,11 @@
         "description": ""
       },
       {
+        "code": "hween26_nt_curseddragonlamp",
+        "name": "hween26_nt_curseddragonlamp name",
+        "description": "hween26_nt_curseddragonlamp desc"
+      },
+      {
         "code": "hween_c15_altar",
         "name": "Habbocalypse Üretim Sunağı",
         "description": "2015 Ekim'den bu yana Habbocalypse başlık yapıyor."
@@ -78460,6 +78470,11 @@
         "code": "hween_cloth_c26_cat",
         "name": "hween_cloth_c26_cat name",
         "description": "hween_cloth_c26_cat desc"
+      },
+      {
+        "code": "hween_cloth_c26_checkerskirt",
+        "name": "hween_cloth_c26_checkerskirt name",
+        "description": "hween_cloth_c26_checkerskirt desc"
       },
       {
         "code": "hween_cloth_c26_dollhairdo",
@@ -130357,6 +130372,11 @@
         "description": "Anahtarın dört durumu vardır. Yalnızca bitişiğindeki bir karodan çalıştırılabilir."
       },
       {
+        "code": "wf_fx_firegate",
+        "name": "wf_fx_firegate name",
+        "description": "wf_fx_firegate desc"
+      },
+      {
         "code": "wf_game_upcounter1",
         "name": "Düzenekli Oyun Sayacı",
         "description": "wf_game_upcounter1 desc"
@@ -131085,6 +131105,36 @@
         "code": "wf_xtra_var_web_api",
         "name": "Değişken Global Eklenti: Web API",
         "description": "wf_xtra_var_web_api desc"
+      },
+      {
+        "code": "wf_xtra_varfx_boss",
+        "name": "wf_xtra_varfx_boss name",
+        "description": "wf_xtra_varfx_boss desc"
+      },
+      {
+        "code": "wf_xtra_varfx_hp",
+        "name": "wf_xtra_varfx_hp name",
+        "description": "wf_xtra_varfx_hp desc"
+      },
+      {
+        "code": "wf_xtra_varfx_levelling",
+        "name": "wf_xtra_varfx_levelling name",
+        "description": "wf_xtra_varfx_levelling desc"
+      },
+      {
+        "code": "wf_xtra_varfx_number",
+        "name": "wf_xtra_varfx_number name",
+        "description": "wf_xtra_varfx_number desc"
+      },
+      {
+        "code": "wf_xtra_varfx_prog",
+        "name": "wf_xtra_varfx_prog name",
+        "description": "wf_xtra_varfx_prog desc"
+      },
+      {
+        "code": "wf_xtra_varfx_status",
+        "name": "wf_xtra_varfx_status name",
+        "description": "wf_xtra_varfx_status desc"
       },
       {
         "code": "white diner_bardesk_corner",
