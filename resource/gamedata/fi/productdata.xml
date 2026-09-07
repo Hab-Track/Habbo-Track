@@ -186655,7 +186655,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_trg_transaction_complete">
         <name>
-            Wired-laukaisin: Tapahtuma suoritettu
+            Wired-laukaisin: Transaktio suoritettu
         </name>
         <description>
             wf_trg_transaction_complete desc
@@ -186663,7 +186663,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_trg_transaction_fail">
         <name>
-            Wired-laukaisin: Tapahtuma epäonnistui
+            Wired-laukaisin: Transaktio epäonnistui
         </name>
         <description>
             wf_trg_transaction_fail desc
@@ -187015,7 +187015,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_xtra_var_web_api">
         <name>
-            Globaali muuttuja-lisäosa: Web API
+            Globaali Wired-muuttujalisä: Verkkorajapinta
         </name>
         <description>
             wf_xtra_var_web_api desc

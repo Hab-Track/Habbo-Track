@@ -120743,12 +120743,12 @@
       },
       {
         "code": "wf_trg_transaction_complete",
-        "name": "Wired-laukaisin: Tapahtuma suoritettu",
+        "name": "Wired-laukaisin: Transaktio suoritettu",
         "description": "wf_trg_transaction_complete desc"
       },
       {
         "code": "wf_trg_transaction_fail",
-        "name": "Wired-laukaisin: Tapahtuma epäonnistui",
+        "name": "Wired-laukaisin: Transaktio epäonnistui",
         "description": "wf_trg_transaction_fail desc"
       },
       {
@@ -120968,7 +120968,7 @@
       },
       {
         "code": "wf_xtra_var_web_api",
-        "name": "Globaali muuttuja-lisäosa: Web API",
+        "name": "Globaali Wired-muuttujalisä: Verkkorajapinta",
         "description": "wf_xtra_var_web_api desc"
       },
       {
