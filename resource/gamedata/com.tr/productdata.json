@@ -15702,6 +15702,11 @@
         "description": "DuckGod_desc"
       },
       {
+        "code": "avatar_effect247",
+        "name": "EnchantedBroomstick_name",
+        "description": "EnchantedBroomstick_desc"
+      },
+      {
         "code": "avatar_effect24",
         "name": "Yağmur etkisi",
         "description": "Yağmur etkisi"
@@ -37533,7 +37538,7 @@
       },
       {
         "code": "clothing_gardencardigan",
-        "name": "Garden Cardigan",
+        "name": "Bahçe Hırkası",
         "description": "clothing_gardencardigan desc"
       },
       {
@@ -60033,22 +60038,22 @@
       },
       {
         "code": "dia_c26_charcuterie",
-        "name": "Charcuterie Board",
+        "name": "Şarküteri Tepsisi",
         "description": ""
       },
       {
         "code": "dia_c26_cosyblanket",
-        "name": "Cozy Picnic Blanket",
+        "name": "Rahat Piknik Örtüsü",
         "description": ""
       },
       {
         "code": "dia_c26_picnicbasket",
-        "name": "Precious Picnic Basket",
+        "name": "Değerli Piknik Sepeti",
         "description": ""
       },
       {
         "code": "dia_c26_pumpkinspice",
-        "name": "Pumpkin Spice Drink",
+        "name": "Pumpkin Spice İçeçek",
         "description": ""
       },
       {
@@ -62283,12 +62288,12 @@
       },
       {
         "code": "ducket_c26_charcuterie",
-        "name": "Charcuterie Board",
+        "name": "Şarküteri Tepsisi",
         "description": "ducket_c26_charcuterie desc"
       },
       {
         "code": "ducket_c26_cosyblanket",
-        "name": "Cozy Picnic Blanket",
+        "name": "Rahat Piknik Örtüsü",
         "description": "ducket_c26_cosyblanket desc"
       },
       {
@@ -62388,7 +62393,7 @@
       },
       {
         "code": "ducket_c26_picnicbasket",
-        "name": "Precious Picnic Basket",
+        "name": "Değerli Piknik Sepeti",
         "description": "ducket_c26_picnicbasket desc"
       },
       {
@@ -62398,7 +62403,7 @@
       },
       {
         "code": "ducket_c26_pumpkinspice",
-        "name": "Pumpkin Spice Drink",
+        "name": "Pumpkin Spice İçeçek",
         "description": "ducket_c26_pumpkinspice desc"
       },
       {
@@ -104523,7 +104528,7 @@
       },
       {
         "code": "ranch_c26_aspen",
-        "name": "Autumn Aspen",
+        "name": "Sonbahar Kavak Ağacı",
         "description": "ranch_c26_aspen desc"
       },
       {
@@ -104538,7 +104543,7 @@
       },
       {
         "code": "ranch_c26_basket",
-        "name": "Wicker Basket",
+        "name": "Hasır Sepet",
         "description": "ranch_c26_basket desc"
       },
       {
@@ -104553,32 +104558,32 @@
       },
       {
         "code": "ranch_c26_big_corn",
-        "name": "Corn Stalks",
+        "name": "Mısır Sapları",
         "description": "ranch_c26_big_corn desc"
       },
       {
         "code": "ranch_c26_big_duckbergine",
-        "name": "Duckbergines",
+        "name": "Ördekcanlar",
         "description": "ranch_c26_big_duckbergine desc"
       },
       {
         "code": "ranch_c26_big_grape",
-        "name": "Grape Vines",
+        "name": "Üzüm Asmaları",
         "description": "ranch_c26_big_grape desc"
       },
       {
         "code": "ranch_c26_big_pumpkin",
-        "name": "Pumpkin Vines",
+        "name": "Kabak Asmaları",
         "description": "ranch_c26_big_pumpkin desc"
       },
       {
         "code": "ranch_c26_big_tomato",
-        "name": "Tomato Plants",
+        "name": "Domates Bitkileri",
         "description": "ranch_c26_big_tomato desc"
       },
       {
         "code": "ranch_c26_carrotsack",
-        "name": "Sack of Carrots",
+        "name": "Havuç Çuvalı",
         "description": "ranch_c26_carrotsack desc"
       },
       {
@@ -104588,42 +104593,42 @@
       },
       {
         "code": "ranch_c26_darkearth",
-        "name": "Scorched Earth",
+        "name": "Yanmış Toprak",
         "description": "ranch_c26_darkearth desc"
       },
       {
         "code": "ranch_c26_darkfence",
-        "name": "Dark Rustic Fence",
+        "name": "Koyu Rustik Çit",
         "description": "ranch_c26_darkfence desc"
       },
       {
         "code": "ranch_c26_darkgate",
-        "name": "Dark Rustic Gate",
+        "name": "Koyu Rustik Kapı",
         "description": "ranch_c26_darkgate desc"
       },
       {
         "code": "ranch_c26_dustpath",
-        "name": "Dusty Dirt Path",
+        "name": "Tozlu Toprak Yol",
         "description": "ranch_c26_dustpath desc"
       },
       {
         "code": "ranch_c26_earth",
-        "name": "Dry Earth",
+        "name": "Kuru Toprak",
         "description": "ranch_c26_earth desc"
       },
       {
         "code": "ranch_c26_farmtools",
-        "name": "Beginner Farming Tools",
+        "name": "Başlangıç Seviyesi Çiftlik Aletleri",
         "description": "ranch_c26_farmtools desc"
       },
       {
         "code": "ranch_c26_farmtoolsb",
-        "name": "Beginner Farming Tools",
+        "name": "Başlangıç Seviyesi Çiftlik Aletleri (kırılamaz)",
         "description": "ranch_c26_farmtoolsb desc"
       },
       {
         "code": "ranch_c26_freshgrass",
-        "name": "Freshly Cut Grass",
+        "name": "Taze Biçilmiş Çimen",
         "description": "ranch_c26_freshgrass desc"
       },
       {
@@ -104638,32 +104643,32 @@
       },
       {
         "code": "ranch_c26_grass",
-        "name": "Sun-Kissed Grass",
+        "name": "Güneşte Yanmış Çimen",
         "description": "ranch_c26_grass desc"
       },
       {
         "code": "ranch_c26_hammer",
-        "name": "Trusty Hammer",
+        "name": "Güvenilir Çekiç",
         "description": "ranch_c26_hammer desc"
       },
       {
         "code": "ranch_c26_lightearth",
-        "name": "Parched Earth",
+        "name": "Kupkuru Toprak",
         "description": "ranch_c26_lightearth desc"
       },
       {
         "code": "ranch_c26_lightfence",
-        "name": "Light Rustic Fence",
+        "name": "Açık Rustik Çit",
         "description": "ranch_c26_lightfence desc"
       },
       {
         "code": "ranch_c26_lightgate",
-        "name": "Light Rustic Gate",
+        "name": "Açık Rustik Kapı",
         "description": "ranch_c26_lightgate desc"
       },
       {
         "code": "ranch_c26_lumber",
-        "name": "Sturdy Lumber",
+        "name": "Sağlam Kereste",
         "description": "ranch_c26_lumber desc"
       },
       {
@@ -104673,7 +104678,7 @@
       },
       {
         "code": "ranch_c26_nails",
-        "name": "Box of Nails",
+        "name": "Çivi Kutusu",
         "description": "ranch_c26_nails desc"
       },
       {
@@ -104693,12 +104698,12 @@
       },
       {
         "code": "ranch_c26_saplings",
-        "name": "Small Saplings",
+        "name": "Küçük Fidanlar",
         "description": "ranch_c26_saplings desc"
       },
       {
         "code": "ranch_c26_saplingsb",
-        "name": "Small Saplings",
+        "name": "Küçük Fidanlar (kırılamaz)",
         "description": "ranch_c26_saplingsb desc"
       },
       {
@@ -104708,22 +104713,22 @@
       },
       {
         "code": "ranch_c26_seedpackets",
-        "name": "Seed Packets",
+        "name": "Tohum Paketleri",
         "description": "ranch_c26_seedpackets desc"
       },
       {
         "code": "ranch_c26_seedpacketsb",
-        "name": "Seed Packets",
+        "name": "Tohum Paketleri (kırılamaz)",
         "description": "ranch_c26_seedpacketsb desc"
       },
       {
         "code": "ranch_c26_seeds",
-        "name": "Scattered Seeds",
+        "name": "Saçılmış Tohumlar",
         "description": "ranch_c26_seeds desc"
       },
       {
         "code": "ranch_c26_seedsb",
-        "name": "Scattered Seeds",
+        "name": "Saçılmış Tohumlar (kırılamaz)",
         "description": "ranch_c26_seedsb desc"
       },
       {
@@ -104748,72 +104753,72 @@
       },
       {
         "code": "ranch_c26_small_corn",
-        "name": "Growing Corn Stalks",
+        "name": "Büyüyen Mısır Sapları",
         "description": "ranch_c26_small_corn desc"
       },
       {
         "code": "ranch_c26_small_cornb",
-        "name": "Growing Corn Stalks",
+        "name": "Büyüyen Mısır Sapları (kırılamaz)",
         "description": "ranch_c26_small_cornb desc"
       },
       {
         "code": "ranch_c26_small_duckbergine",
-        "name": "ranch_c26_small_duckbergine name",
+        "name": "Gizemli Bitki",
         "description": "ranch_c26_small_duckbergine desc"
       },
       {
         "code": "ranch_c26_small_duckbergineb",
-        "name": "ranch_c26_small_duckbergineb name",
+        "name": "Gizemli Bitki (kırılamaz)",
         "description": "ranch_c26_small_duckbergineb desc"
       },
       {
         "code": "ranch_c26_small_grape",
-        "name": "Growing Grape Vines",
+        "name": "Büyüyen Üzüm Asmaları",
         "description": "ranch_c26_small_grape desc"
       },
       {
         "code": "ranch_c26_small_grapeb",
-        "name": "Growing Grape Vines",
+        "name": "Büyüyen Üzüm Asmaları (kırılamaz)",
         "description": "ranch_c26_small_grapeb desc"
       },
       {
         "code": "ranch_c26_small_pumpkin",
-        "name": "Growing Pumpkin Vines",
+        "name": "Büyüyen Kabak Asmaları",
         "description": "ranch_c26_small_pumpkin desc"
       },
       {
         "code": "ranch_c26_small_pumpkinb",
-        "name": "Growing Pumpkin Vines",
+        "name": "Büyüyen Kabak Asmaları (kırılamaz)",
         "description": "ranch_c26_small_pumpkinb desc"
       },
       {
         "code": "ranch_c26_small_tomato",
-        "name": "Growing Tomato Plants",
+        "name": "Büyüyen Domates Bitkileri",
         "description": "ranch_c26_small_tomato desc"
       },
       {
         "code": "ranch_c26_small_tomatob",
-        "name": "Growing Tomato Plants",
+        "name": "Büyüyen Domates Bitkileri (kırılamaz)",
         "description": "ranch_c26_small_tomatob desc"
       },
       {
         "code": "ranch_c26_soil",
-        "name": "Fertile Soil",
+        "name": "Bereketli Toprak",
         "description": "ranch_c26_soil desc"
       },
       {
         "code": "ranch_c26_sunray",
-        "name": "Ray of Sunset",
+        "name": "Güneş Işını",
         "description": "ranch_c26_sunray desc"
       },
       {
         "code": "ranch_c26_sunset",
-        "name": "Scenic Sunset",
+        "name": "Manzaralı Gün Batımı",
         "description": "ranch_c26_sunset desc"
       },
       {
         "code": "ranch_c26_tomatosack",
-        "name": "Sack of Tomatoes",
+        "name": "Domates Çuvalı",
         "description": "ranch_c26_tomatosack desc"
       },
       {
@@ -104828,7 +104833,7 @@
       },
       {
         "code": "ranch_c26_workbench",
-        "name": "Farmer's Workbench Crafting Table",
+        "name": "Çiftçi Tezgâhı Üretim Masası",
         "description": "ranch_c26_workbench desc"
       },
       {

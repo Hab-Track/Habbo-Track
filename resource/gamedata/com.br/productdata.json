@@ -14222,6 +14222,11 @@
         "description": "DuckGod_desc"
       },
       {
+        "code": "avatar_effect247",
+        "name": "EnchantedBroomstick_name",
+        "description": "EnchantedBroomstick_desc"
+      },
+      {
         "code": "avatar_effect24",
         "name": "Efeito chuva",
         "description": "Efeito chuva"
@@ -36533,7 +36538,7 @@
       },
       {
         "code": "clothing_gardencardigan",
-        "name": "Garden Cardigan",
+        "name": "Cardigã de Jardim",
         "description": "clothing_gardencardigan desc"
       },
       {
@@ -51243,22 +51248,22 @@
       },
       {
         "code": "dia_c26_charcuterie",
-        "name": "Charcuterie Board",
+        "name": "Tábua de Charcutaria",
         "description": ""
       },
       {
         "code": "dia_c26_cosyblanket",
-        "name": "Cozy Picnic Blanket",
+        "name": "Manta de Piquenique Aconchegante",
         "description": ""
       },
       {
         "code": "dia_c26_picnicbasket",
-        "name": "Precious Picnic Basket",
+        "name": "Cesta de Piquenique Preciosa",
         "description": ""
       },
       {
         "code": "dia_c26_pumpkinspice",
-        "name": "Pumpkin Spice Drink",
+        "name": "Drink de Abóbora com Especiarias",
         "description": ""
       },
       {
@@ -53468,12 +53473,12 @@
       },
       {
         "code": "ducket_c26_charcuterie",
-        "name": "Charcuterie Board",
+        "name": "Tábua de Charcutaria",
         "description": "ducket_c26_charcuterie desc"
       },
       {
         "code": "ducket_c26_cosyblanket",
-        "name": "Cozy Picnic Blanket",
+        "name": "Manta de Piquenique Aconchegante",
         "description": "ducket_c26_cosyblanket desc"
       },
       {
@@ -53573,7 +53578,7 @@
       },
       {
         "code": "ducket_c26_picnicbasket",
-        "name": "Precious Picnic Basket",
+        "name": "Cesta de Piquenique Preciosa",
         "description": "ducket_c26_picnicbasket desc"
       },
       {
@@ -53583,7 +53588,7 @@
       },
       {
         "code": "ducket_c26_pumpkinspice",
-        "name": "Pumpkin Spice Drink",
+        "name": "Drink de Abóbora com Especiarias",
         "description": "ducket_c26_pumpkinspice desc"
       },
       {
@@ -94918,7 +94923,7 @@
       },
       {
         "code": "ranch_c26_aspen",
-        "name": "Autumn Aspen",
+        "name": "Álamo de Outono",
         "description": "ranch_c26_aspen desc"
       },
       {
@@ -94933,7 +94938,7 @@
       },
       {
         "code": "ranch_c26_basket",
-        "name": "Wicker Basket",
+        "name": "Cesta de Vime",
         "description": "ranch_c26_basket desc"
       },
       {
@@ -94948,32 +94953,32 @@
       },
       {
         "code": "ranch_c26_big_corn",
-        "name": "Corn Stalks",
+        "name": "Talos de Milho",
         "description": "ranch_c26_big_corn desc"
       },
       {
         "code": "ranch_c26_big_duckbergine",
-        "name": "Duckbergines",
+        "name": "Patoberinjelas",
         "description": "ranch_c26_big_duckbergine desc"
       },
       {
         "code": "ranch_c26_big_grape",
-        "name": "Grape Vines",
+        "name": "Videiras",
         "description": "ranch_c26_big_grape desc"
       },
       {
         "code": "ranch_c26_big_pumpkin",
-        "name": "Pumpkin Vines",
+        "name": "Videiras de Abóbora",
         "description": "ranch_c26_big_pumpkin desc"
       },
       {
         "code": "ranch_c26_big_tomato",
-        "name": "Tomato Plants",
+        "name": "Tomateiro",
         "description": "ranch_c26_big_tomato desc"
       },
       {
         "code": "ranch_c26_carrotsack",
-        "name": "Sack of Carrots",
+        "name": "Saco de Cenouras",
         "description": "ranch_c26_carrotsack desc"
       },
       {
@@ -94983,42 +94988,42 @@
       },
       {
         "code": "ranch_c26_darkearth",
-        "name": "Scorched Earth",
+        "name": "Terra Queimada",
         "description": "ranch_c26_darkearth desc"
       },
       {
         "code": "ranch_c26_darkfence",
-        "name": "Dark Rustic Fence",
+        "name": "Cerca Rústica Escura",
         "description": "ranch_c26_darkfence desc"
       },
       {
         "code": "ranch_c26_darkgate",
-        "name": "Dark Rustic Gate",
+        "name": "Portão Rústico Escuro",
         "description": "ranch_c26_darkgate desc"
       },
       {
         "code": "ranch_c26_dustpath",
-        "name": "Dusty Dirt Path",
+        "name": "Caminho de Terra empoeirado",
         "description": "ranch_c26_dustpath desc"
       },
       {
         "code": "ranch_c26_earth",
-        "name": "Dry Earth",
+        "name": "Terra Seca",
         "description": "ranch_c26_earth desc"
       },
       {
         "code": "ranch_c26_farmtools",
-        "name": "Beginner Farming Tools",
+        "name": "Ferramentas de Fazendeiro Iniciante",
         "description": "ranch_c26_farmtools desc"
       },
       {
         "code": "ranch_c26_farmtoolsb",
-        "name": "Beginner Farming Tools",
+        "name": "Ferramentas de Fazendeiro Iniciante (não negociável)",
         "description": "ranch_c26_farmtoolsb desc"
       },
       {
         "code": "ranch_c26_freshgrass",
-        "name": "Freshly Cut Grass",
+        "name": "Grama Recém-Cortada",
         "description": "ranch_c26_freshgrass desc"
       },
       {
@@ -95033,32 +95038,32 @@
       },
       {
         "code": "ranch_c26_grass",
-        "name": "Sun-Kissed Grass",
+        "name": "Grama Beijada pelo Sol",
         "description": "ranch_c26_grass desc"
       },
       {
         "code": "ranch_c26_hammer",
-        "name": "Trusty Hammer",
+        "name": "Martelo Confiável",
         "description": "ranch_c26_hammer desc"
       },
       {
         "code": "ranch_c26_lightearth",
-        "name": "Parched Earth",
+        "name": "Terra Ressecada",
         "description": "ranch_c26_lightearth desc"
       },
       {
         "code": "ranch_c26_lightfence",
-        "name": "Light Rustic Fence",
+        "name": "Cerca Rústica Leve",
         "description": "ranch_c26_lightfence desc"
       },
       {
         "code": "ranch_c26_lightgate",
-        "name": "Light Rustic Gate",
+        "name": "Cerca Rústica Clara",
         "description": "ranch_c26_lightgate desc"
       },
       {
         "code": "ranch_c26_lumber",
-        "name": "Sturdy Lumber",
+        "name": "Madeira Robusta",
         "description": "ranch_c26_lumber desc"
       },
       {
@@ -95068,7 +95073,7 @@
       },
       {
         "code": "ranch_c26_nails",
-        "name": "Box of Nails",
+        "name": "Caixa de Pregos",
         "description": "ranch_c26_nails desc"
       },
       {
@@ -95088,12 +95093,12 @@
       },
       {
         "code": "ranch_c26_saplings",
-        "name": "Small Saplings",
+        "name": "Pequenas Mudas",
         "description": "ranch_c26_saplings desc"
       },
       {
         "code": "ranch_c26_saplingsb",
-        "name": "Small Saplings",
+        "name": "Pequenas Mudas (não negociável)",
         "description": "ranch_c26_saplingsb desc"
       },
       {
@@ -95103,22 +95108,22 @@
       },
       {
         "code": "ranch_c26_seedpackets",
-        "name": "Seed Packets",
+        "name": "Pacotes de Semente",
         "description": "ranch_c26_seedpackets desc"
       },
       {
         "code": "ranch_c26_seedpacketsb",
-        "name": "Seed Packets",
+        "name": "Pacotes de Semente (não negociável)",
         "description": "ranch_c26_seedpacketsb desc"
       },
       {
         "code": "ranch_c26_seeds",
-        "name": "Scattered Seeds",
+        "name": "Sementes Espalhadas",
         "description": "ranch_c26_seeds desc"
       },
       {
         "code": "ranch_c26_seedsb",
-        "name": "Scattered Seeds",
+        "name": "Sementes Espalhadas (não negociável)",
         "description": "ranch_c26_seedsb desc"
       },
       {
@@ -95143,72 +95148,72 @@
       },
       {
         "code": "ranch_c26_small_corn",
-        "name": "Growing Corn Stalks",
+        "name": "Talos de Milho em Crescimento",
         "description": "ranch_c26_small_corn desc"
       },
       {
         "code": "ranch_c26_small_cornb",
-        "name": "Growing Corn Stalks",
+        "name": "Talos de Milho em Crescimento (não negociável)",
         "description": "ranch_c26_small_cornb desc"
       },
       {
         "code": "ranch_c26_small_duckbergine",
-        "name": "ranch_c26_small_duckbergine name",
+        "name": "Plantas Suspeitas",
         "description": "ranch_c26_small_duckbergine desc"
       },
       {
         "code": "ranch_c26_small_duckbergineb",
-        "name": "ranch_c26_small_duckbergineb name",
+        "name": "Plantas Suspeitas (não negociável)",
         "description": "ranch_c26_small_duckbergineb desc"
       },
       {
         "code": "ranch_c26_small_grape",
-        "name": "Growing Grape Vines",
+        "name": "Videiras em Crescimento",
         "description": "ranch_c26_small_grape desc"
       },
       {
         "code": "ranch_c26_small_grapeb",
-        "name": "Growing Grape Vines",
+        "name": "Videiras em Crescimento (não negociável)",
         "description": "ranch_c26_small_grapeb desc"
       },
       {
         "code": "ranch_c26_small_pumpkin",
-        "name": "Growing Pumpkin Vines",
+        "name": "Videiras de Abóbora em Crescimento",
         "description": "ranch_c26_small_pumpkin desc"
       },
       {
         "code": "ranch_c26_small_pumpkinb",
-        "name": "Growing Pumpkin Vines",
+        "name": "Videiras de Abóbora em Crescimento (não negociável)",
         "description": "ranch_c26_small_pumpkinb desc"
       },
       {
         "code": "ranch_c26_small_tomato",
-        "name": "Growing Tomato Plants",
+        "name": "Tomateiros em Crescimento",
         "description": "ranch_c26_small_tomato desc"
       },
       {
         "code": "ranch_c26_small_tomatob",
-        "name": "Growing Tomato Plants",
+        "name": "Tomateiros em Crescimento (não negociável)",
         "description": "ranch_c26_small_tomatob desc"
       },
       {
         "code": "ranch_c26_soil",
-        "name": "Fertile Soil",
+        "name": "Solo Fértil",
         "description": "ranch_c26_soil desc"
       },
       {
         "code": "ranch_c26_sunray",
-        "name": "Ray of Sunset",
+        "name": "Raio do Pôr do Sol",
         "description": "ranch_c26_sunray desc"
       },
       {
         "code": "ranch_c26_sunset",
-        "name": "Scenic Sunset",
+        "name": "Pôr do Sol Pintoresco",
         "description": "ranch_c26_sunset desc"
       },
       {
         "code": "ranch_c26_tomatosack",
-        "name": "Sack of Tomatoes",
+        "name": "Saco de Tomates",
         "description": "ranch_c26_tomatosack desc"
       },
       {
@@ -95223,7 +95228,7 @@
       },
       {
         "code": "ranch_c26_workbench",
-        "name": "Farmer's Workbench Crafting Table",
+        "name": "Mesa de Criações do Fazendeiro",
         "description": "ranch_c26_workbench desc"
       },
       {

@@ -13922,6 +13922,11 @@
         "description": "DuckGod_desc"
       },
       {
+        "code": "avatar_effect247",
+        "name": "EnchantedBroomstick_name",
+        "description": "EnchantedBroomstick_desc"
+      },
+      {
         "code": "avatar_effect24",
         "name": "Regen Reactie",
         "description": "Regen Reactie"
@@ -35643,7 +35648,7 @@
       },
       {
         "code": "clothing_gardencardigan",
-        "name": "Garden Cardigan",
+        "name": "Tuinvestje",
         "description": "clothing_gardencardigan desc"
       },
       {
@@ -51028,22 +51033,22 @@
       },
       {
         "code": "dia_c26_charcuterie",
-        "name": "Charcuterie Board",
+        "name": "Vlees- en Kaasplankje",
         "description": ""
       },
       {
         "code": "dia_c26_cosyblanket",
-        "name": "Cozy Picnic Blanket",
+        "name": "Knus Picknickkleed",
         "description": ""
       },
       {
         "code": "dia_c26_picnicbasket",
-        "name": "Precious Picnic Basket",
+        "name": "Kostbare Picknickmand",
         "description": ""
       },
       {
         "code": "dia_c26_pumpkinspice",
-        "name": "Pumpkin Spice Drink",
+        "name": "Kruidig Pompoendrankje",
         "description": ""
       },
       {
@@ -53248,12 +53253,12 @@
       },
       {
         "code": "ducket_c26_charcuterie",
-        "name": "Charcuterie Board",
+        "name": "Vlees- en Kaasplankje",
         "description": "ducket_c26_charcuterie desc"
       },
       {
         "code": "ducket_c26_cosyblanket",
-        "name": "Cozy Picnic Blanket",
+        "name": "Knus Picknickkleed",
         "description": "ducket_c26_cosyblanket desc"
       },
       {
@@ -53353,7 +53358,7 @@
       },
       {
         "code": "ducket_c26_picnicbasket",
-        "name": "Precious Picnic Basket",
+        "name": "Kostbare Picknickmand",
         "description": "ducket_c26_picnicbasket desc"
       },
       {
@@ -53363,7 +53368,7 @@
       },
       {
         "code": "ducket_c26_pumpkinspice",
-        "name": "Pumpkin Spice Drink",
+        "name": "Kruidig Pompoendrankje",
         "description": "ducket_c26_pumpkinspice desc"
       },
       {
@@ -94753,7 +94758,7 @@
       },
       {
         "code": "ranch_c26_aspen",
-        "name": "Autumn Aspen",
+        "name": "Herfstesdoorn",
         "description": "ranch_c26_aspen desc"
       },
       {
@@ -94768,7 +94773,7 @@
       },
       {
         "code": "ranch_c26_basket",
-        "name": "Wicker Basket",
+        "name": "Rieten Mand",
         "description": "ranch_c26_basket desc"
       },
       {
@@ -94783,32 +94788,32 @@
       },
       {
         "code": "ranch_c26_big_corn",
-        "name": "Corn Stalks",
+        "name": "Maïsstengels",
         "description": "ranch_c26_big_corn desc"
       },
       {
         "code": "ranch_c26_big_duckbergine",
-        "name": "Duckbergines",
+        "name": "Eendbergines",
         "description": "ranch_c26_big_duckbergine desc"
       },
       {
         "code": "ranch_c26_big_grape",
-        "name": "Grape Vines",
+        "name": "Druivenranken",
         "description": "ranch_c26_big_grape desc"
       },
       {
         "code": "ranch_c26_big_pumpkin",
-        "name": "Pumpkin Vines",
+        "name": "Pompoenveld",
         "description": "ranch_c26_big_pumpkin desc"
       },
       {
         "code": "ranch_c26_big_tomato",
-        "name": "Tomato Plants",
+        "name": "Tomatenplant",
         "description": "ranch_c26_big_tomato desc"
       },
       {
         "code": "ranch_c26_carrotsack",
-        "name": "Sack of Carrots",
+        "name": "Zak met Wortelen",
         "description": "ranch_c26_carrotsack desc"
       },
       {
@@ -94818,42 +94823,42 @@
       },
       {
         "code": "ranch_c26_darkearth",
-        "name": "Scorched Earth",
+        "name": "Verschroeide Aarde",
         "description": "ranch_c26_darkearth desc"
       },
       {
         "code": "ranch_c26_darkfence",
-        "name": "Dark Rustic Fence",
+        "name": "Donkere Landelijke Schutting",
         "description": "ranch_c26_darkfence desc"
       },
       {
         "code": "ranch_c26_darkgate",
-        "name": "Dark Rustic Gate",
+        "name": "Donkere Landelijke Tuinpoort",
         "description": "ranch_c26_darkgate desc"
       },
       {
         "code": "ranch_c26_dustpath",
-        "name": "Dusty Dirt Path",
+        "name": "Stoffig Voetpad",
         "description": "ranch_c26_dustpath desc"
       },
       {
         "code": "ranch_c26_earth",
-        "name": "Dry Earth",
+        "name": "Droge Aarde",
         "description": "ranch_c26_earth desc"
       },
       {
         "code": "ranch_c26_farmtools",
-        "name": "Beginner Farming Tools",
+        "name": "Landbouwgereedschap voor beginners",
         "description": "ranch_c26_farmtools desc"
       },
       {
         "code": "ranch_c26_farmtoolsb",
-        "name": "Beginner Farming Tools",
+        "name": "Landbouwgereedschap voor beginners (Geen Crackable)",
         "description": "ranch_c26_farmtoolsb desc"
       },
       {
         "code": "ranch_c26_freshgrass",
-        "name": "Freshly Cut Grass",
+        "name": "Vers Gemaaid Gras",
         "description": "ranch_c26_freshgrass desc"
       },
       {
@@ -94868,32 +94873,32 @@
       },
       {
         "code": "ranch_c26_grass",
-        "name": "Sun-Kissed Grass",
+        "name": "Goudkleurig Gras",
         "description": "ranch_c26_grass desc"
       },
       {
         "code": "ranch_c26_hammer",
-        "name": "Trusty Hammer",
+        "name": "Betrouwbare Hamer",
         "description": "ranch_c26_hammer desc"
       },
       {
         "code": "ranch_c26_lightearth",
-        "name": "Parched Earth",
+        "name": "Kurkdroge Aarde",
         "description": "ranch_c26_lightearth desc"
       },
       {
         "code": "ranch_c26_lightfence",
-        "name": "Light Rustic Fence",
+        "name": "Lichte Landelijke Schutting",
         "description": "ranch_c26_lightfence desc"
       },
       {
         "code": "ranch_c26_lightgate",
-        "name": "Light Rustic Gate",
+        "name": "Lichte Landelijke Tuinpoort",
         "description": "ranch_c26_lightgate desc"
       },
       {
         "code": "ranch_c26_lumber",
-        "name": "Sturdy Lumber",
+        "name": "Stevige Houten Planken",
         "description": "ranch_c26_lumber desc"
       },
       {
@@ -94903,7 +94908,7 @@
       },
       {
         "code": "ranch_c26_nails",
-        "name": "Box of Nails",
+        "name": "Box met Spijkers",
         "description": "ranch_c26_nails desc"
       },
       {
@@ -94923,12 +94928,12 @@
       },
       {
         "code": "ranch_c26_saplings",
-        "name": "Small Saplings",
+        "name": "Kiemplantjes",
         "description": "ranch_c26_saplings desc"
       },
       {
         "code": "ranch_c26_saplingsb",
-        "name": "Small Saplings",
+        "name": "Kiemplantjes (Geen Crackable)",
         "description": "ranch_c26_saplingsb desc"
       },
       {
@@ -94938,22 +94943,22 @@
       },
       {
         "code": "ranch_c26_seedpackets",
-        "name": "Seed Packets",
+        "name": "Zakjes met Plantenzaadjes",
         "description": "ranch_c26_seedpackets desc"
       },
       {
         "code": "ranch_c26_seedpacketsb",
-        "name": "Seed Packets",
+        "name": "Zakje met Plantenzaadjes (Geen Crackable)",
         "description": "ranch_c26_seedpacketsb desc"
       },
       {
         "code": "ranch_c26_seeds",
-        "name": "Scattered Seeds",
+        "name": "Verspreide Zaadjes",
         "description": "ranch_c26_seeds desc"
       },
       {
         "code": "ranch_c26_seedsb",
-        "name": "Scattered Seeds",
+        "name": "Verspreide Zaadjes (Geen Crackable)",
         "description": "ranch_c26_seedsb desc"
       },
       {
@@ -94978,72 +94983,72 @@
       },
       {
         "code": "ranch_c26_small_corn",
-        "name": "Growing Corn Stalks",
+        "name": "Groeiende Maïskolven",
         "description": "ranch_c26_small_corn desc"
       },
       {
         "code": "ranch_c26_small_cornb",
-        "name": "Growing Corn Stalks",
+        "name": "Groeiende Maïskolven (Geen Crackable)",
         "description": "ranch_c26_small_cornb desc"
       },
       {
         "code": "ranch_c26_small_duckbergine",
-        "name": "ranch_c26_small_duckbergine name",
+        "name": "Verdacht Plantje",
         "description": "ranch_c26_small_duckbergine desc"
       },
       {
         "code": "ranch_c26_small_duckbergineb",
-        "name": "ranch_c26_small_duckbergineb name",
+        "name": "Verdacht Plantje (Geen Crackable)",
         "description": "ranch_c26_small_duckbergineb desc"
       },
       {
         "code": "ranch_c26_small_grape",
-        "name": "Growing Grape Vines",
+        "name": "Groeiende Druivenranken",
         "description": "ranch_c26_small_grape desc"
       },
       {
         "code": "ranch_c26_small_grapeb",
-        "name": "Growing Grape Vines",
+        "name": "Groeiende Druivenranken (Geen Crackable)",
         "description": "ranch_c26_small_grapeb desc"
       },
       {
         "code": "ranch_c26_small_pumpkin",
-        "name": "Growing Pumpkin Vines",
+        "name": "Groeiende Pompoenen",
         "description": "ranch_c26_small_pumpkin desc"
       },
       {
         "code": "ranch_c26_small_pumpkinb",
-        "name": "Growing Pumpkin Vines",
+        "name": "Groeiende Pompoenen (Geen Crackable)",
         "description": "ranch_c26_small_pumpkinb desc"
       },
       {
         "code": "ranch_c26_small_tomato",
-        "name": "Growing Tomato Plants",
+        "name": "Groeiende Tomatenplanten",
         "description": "ranch_c26_small_tomato desc"
       },
       {
         "code": "ranch_c26_small_tomatob",
-        "name": "Growing Tomato Plants",
+        "name": "Groeiende Tomatenplanten (Geen Crackable)",
         "description": "ranch_c26_small_tomatob desc"
       },
       {
         "code": "ranch_c26_soil",
-        "name": "Fertile Soil",
+        "name": "Potgrond",
         "description": "ranch_c26_soil desc"
       },
       {
         "code": "ranch_c26_sunray",
-        "name": "Ray of Sunset",
+        "name": "Straaltje Zonlicht",
         "description": "ranch_c26_sunray desc"
       },
       {
         "code": "ranch_c26_sunset",
-        "name": "Scenic Sunset",
+        "name": "Schilderachtige Zonsondergang",
         "description": "ranch_c26_sunset desc"
       },
       {
         "code": "ranch_c26_tomatosack",
-        "name": "Sack of Tomatoes",
+        "name": "Zak met Tomaten",
         "description": "ranch_c26_tomatosack desc"
       },
       {
@@ -95058,7 +95063,7 @@
       },
       {
         "code": "ranch_c26_workbench",
-        "name": "Farmer's Workbench Crafting Table",
+        "name": "Werkbank van de Boer Craft Tafel",
         "description": "ranch_c26_workbench desc"
       },
       {

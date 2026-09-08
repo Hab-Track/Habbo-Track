@@ -21716,6 +21716,14 @@
             DuckGod_desc
         </description>
     </product>
+    <product code="avatar_effect247">
+        <name>
+            EnchantedBroomstick_name
+        </name>
+        <description>
+            EnchantedBroomstick_desc
+        </description>
+    </product>
     <product code="avatar_effect24">
         <name>
             Yağmur etkisi
@@ -55950,7 +55958,7 @@
     </product>
     <product code="clothing_gardencardigan">
         <name>
-            Garden Cardigan
+            Bahçe Hırkası
         </name>
         <description>
             clothing_gardencardigan desc
@@ -83898,25 +83906,25 @@
     </product>
     <product code="dia_c26_charcuterie">
         <name>
-            Charcuterie Board
+            Şarküteri Tepsisi
         </name>
         <description></description>
     </product>
     <product code="dia_c26_cosyblanket">
         <name>
-            Cozy Picnic Blanket
+            Rahat Piknik Örtüsü
         </name>
         <description></description>
     </product>
     <product code="dia_c26_picnicbasket">
         <name>
-            Precious Picnic Basket
+            Değerli Piknik Sepeti
         </name>
         <description></description>
     </product>
     <product code="dia_c26_pumpkinspice">
         <name>
-            Pumpkin Spice Drink
+            Pumpkin Spice İçeçek
         </name>
         <description></description>
     </product>
@@ -87320,7 +87328,7 @@
     </product>
     <product code="ducket_c26_charcuterie">
         <name>
-            Charcuterie Board
+            Şarküteri Tepsisi
         </name>
         <description>
             ducket_c26_charcuterie desc
@@ -87328,7 +87336,7 @@
     </product>
     <product code="ducket_c26_cosyblanket">
         <name>
-            Cozy Picnic Blanket
+            Rahat Piknik Örtüsü
         </name>
         <description>
             ducket_c26_cosyblanket desc
@@ -87488,7 +87496,7 @@
     </product>
     <product code="ducket_c26_picnicbasket">
         <name>
-            Precious Picnic Basket
+            Değerli Piknik Sepeti
         </name>
         <description>
             ducket_c26_picnicbasket desc
@@ -87504,7 +87512,7 @@
     </product>
     <product code="ducket_c26_pumpkinspice">
         <name>
-            Pumpkin Spice Drink
+            Pumpkin Spice İçeçek
         </name>
         <description>
             ducket_c26_pumpkinspice desc
@@ -152351,7 +152359,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_aspen">
         <name>
-            Autumn Aspen
+            Sonbahar Kavak Ağacı
         </name>
         <description>
             ranch_c26_aspen desc
@@ -152375,7 +152383,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_basket">
         <name>
-            Wicker Basket
+            Hasır Sepet
         </name>
         <description>
             ranch_c26_basket desc
@@ -152399,7 +152407,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_big_corn">
         <name>
-            Corn Stalks
+            Mısır Sapları
         </name>
         <description>
             ranch_c26_big_corn desc
@@ -152407,7 +152415,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_big_duckbergine">
         <name>
-            Duckbergines
+            Ördekcanlar
         </name>
         <description>
             ranch_c26_big_duckbergine desc
@@ -152415,7 +152423,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_big_grape">
         <name>
-            Grape Vines
+            Üzüm Asmaları
         </name>
         <description>
             ranch_c26_big_grape desc
@@ -152423,7 +152431,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_big_pumpkin">
         <name>
-            Pumpkin Vines
+            Kabak Asmaları
         </name>
         <description>
             ranch_c26_big_pumpkin desc
@@ -152431,7 +152439,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_big_tomato">
         <name>
-            Tomato Plants
+            Domates Bitkileri
         </name>
         <description>
             ranch_c26_big_tomato desc
@@ -152439,7 +152447,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_carrotsack">
         <name>
-            Sack of Carrots
+            Havuç Çuvalı
         </name>
         <description>
             ranch_c26_carrotsack desc
@@ -152455,7 +152463,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_darkearth">
         <name>
-            Scorched Earth
+            Yanmış Toprak
         </name>
         <description>
             ranch_c26_darkearth desc
@@ -152463,7 +152471,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_darkfence">
         <name>
-            Dark Rustic Fence
+            Koyu Rustik Çit
         </name>
         <description>
             ranch_c26_darkfence desc
@@ -152471,7 +152479,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_darkgate">
         <name>
-            Dark Rustic Gate
+            Koyu Rustik Kapı
         </name>
         <description>
             ranch_c26_darkgate desc
@@ -152479,7 +152487,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_dustpath">
         <name>
-            Dusty Dirt Path
+            Tozlu Toprak Yol
         </name>
         <description>
             ranch_c26_dustpath desc
@@ -152487,7 +152495,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_earth">
         <name>
-            Dry Earth
+            Kuru Toprak
         </name>
         <description>
             ranch_c26_earth desc
@@ -152495,7 +152503,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_farmtools">
         <name>
-            Beginner Farming Tools
+            Başlangıç Seviyesi Çiftlik Aletleri
         </name>
         <description>
             ranch_c26_farmtools desc
@@ -152503,7 +152511,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_farmtoolsb">
         <name>
-            Beginner Farming Tools
+            Başlangıç Seviyesi Çiftlik Aletleri (kırılamaz)
         </name>
         <description>
             ranch_c26_farmtoolsb desc
@@ -152511,7 +152519,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_freshgrass">
         <name>
-            Freshly Cut Grass
+            Taze Biçilmiş Çimen
         </name>
         <description>
             ranch_c26_freshgrass desc
@@ -152535,7 +152543,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_grass">
         <name>
-            Sun-Kissed Grass
+            Güneşte Yanmış Çimen
         </name>
         <description>
             ranch_c26_grass desc
@@ -152543,7 +152551,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_hammer">
         <name>
-            Trusty Hammer
+            Güvenilir Çekiç
         </name>
         <description>
             ranch_c26_hammer desc
@@ -152551,7 +152559,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_lightearth">
         <name>
-            Parched Earth
+            Kupkuru Toprak
         </name>
         <description>
             ranch_c26_lightearth desc
@@ -152559,7 +152567,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_lightfence">
         <name>
-            Light Rustic Fence
+            Açık Rustik Çit
         </name>
         <description>
             ranch_c26_lightfence desc
@@ -152567,7 +152575,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_lightgate">
         <name>
-            Light Rustic Gate
+            Açık Rustik Kapı
         </name>
         <description>
             ranch_c26_lightgate desc
@@ -152575,7 +152583,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_lumber">
         <name>
-            Sturdy Lumber
+            Sağlam Kereste
         </name>
         <description>
             ranch_c26_lumber desc
@@ -152591,7 +152599,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_nails">
         <name>
-            Box of Nails
+            Çivi Kutusu
         </name>
         <description>
             ranch_c26_nails desc
@@ -152623,7 +152631,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_saplings">
         <name>
-            Small Saplings
+            Küçük Fidanlar
         </name>
         <description>
             ranch_c26_saplings desc
@@ -152631,7 +152639,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_saplingsb">
         <name>
-            Small Saplings
+            Küçük Fidanlar (kırılamaz)
         </name>
         <description>
             ranch_c26_saplingsb desc
@@ -152647,7 +152655,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_seedpackets">
         <name>
-            Seed Packets
+            Tohum Paketleri
         </name>
         <description>
             ranch_c26_seedpackets desc
@@ -152655,7 +152663,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_seedpacketsb">
         <name>
-            Seed Packets
+            Tohum Paketleri (kırılamaz)
         </name>
         <description>
             ranch_c26_seedpacketsb desc
@@ -152663,7 +152671,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_seeds">
         <name>
-            Scattered Seeds
+            Saçılmış Tohumlar
         </name>
         <description>
             ranch_c26_seeds desc
@@ -152671,7 +152679,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_seedsb">
         <name>
-            Scattered Seeds
+            Saçılmış Tohumlar (kırılamaz)
         </name>
         <description>
             ranch_c26_seedsb desc
@@ -152711,7 +152719,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_small_corn">
         <name>
-            Growing Corn Stalks
+            Büyüyen Mısır Sapları
         </name>
         <description>
             ranch_c26_small_corn desc
@@ -152719,7 +152727,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_small_cornb">
         <name>
-            Growing Corn Stalks
+            Büyüyen Mısır Sapları (kırılamaz)
         </name>
         <description>
             ranch_c26_small_cornb desc
@@ -152727,7 +152735,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_small_duckbergine">
         <name>
-            ranch_c26_small_duckbergine name
+            Gizemli Bitki
         </name>
         <description>
             ranch_c26_small_duckbergine desc
@@ -152735,7 +152743,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_small_duckbergineb">
         <name>
-            ranch_c26_small_duckbergineb name
+            Gizemli Bitki (kırılamaz)
         </name>
         <description>
             ranch_c26_small_duckbergineb desc
@@ -152743,7 +152751,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_small_grape">
         <name>
-            Growing Grape Vines
+            Büyüyen Üzüm Asmaları
         </name>
         <description>
             ranch_c26_small_grape desc
@@ -152751,7 +152759,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_small_grapeb">
         <name>
-            Growing Grape Vines
+            Büyüyen Üzüm Asmaları (kırılamaz)
         </name>
         <description>
             ranch_c26_small_grapeb desc
@@ -152759,7 +152767,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_small_pumpkin">
         <name>
-            Growing Pumpkin Vines
+            Büyüyen Kabak Asmaları
         </name>
         <description>
             ranch_c26_small_pumpkin desc
@@ -152767,7 +152775,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_small_pumpkinb">
         <name>
-            Growing Pumpkin Vines
+            Büyüyen Kabak Asmaları (kırılamaz)
         </name>
         <description>
             ranch_c26_small_pumpkinb desc
@@ -152775,7 +152783,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_small_tomato">
         <name>
-            Growing Tomato Plants
+            Büyüyen Domates Bitkileri
         </name>
         <description>
             ranch_c26_small_tomato desc
@@ -152783,7 +152791,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_small_tomatob">
         <name>
-            Growing Tomato Plants
+            Büyüyen Domates Bitkileri (kırılamaz)
         </name>
         <description>
             ranch_c26_small_tomatob desc
@@ -152791,7 +152799,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_soil">
         <name>
-            Fertile Soil
+            Bereketli Toprak
         </name>
         <description>
             ranch_c26_soil desc
@@ -152799,7 +152807,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_sunray">
         <name>
-            Ray of Sunset
+            Güneş Işını
         </name>
         <description>
             ranch_c26_sunray desc
@@ -152807,7 +152815,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_sunset">
         <name>
-            Scenic Sunset
+            Manzaralı Gün Batımı
         </name>
         <description>
             ranch_c26_sunset desc
@@ -152815,7 +152823,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_tomatosack">
         <name>
-            Sack of Tomatoes
+            Domates Çuvalı
         </name>
         <description>
             ranch_c26_tomatosack desc
@@ -152839,7 +152847,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="ranch_c26_workbench">
         <name>
-            Farmer's Workbench Crafting Table
+            Çiftçi Tezgâhı Üretim Masası
         </name>
         <description>
             ranch_c26_workbench desc

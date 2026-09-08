@@ -20890,6 +20890,14 @@
             DuckGod_desc
         </description>
     </product>
+    <product code="avatar_effect247">
+        <name>
+            EnchantedBroomstick_name
+        </name>
+        <description>
+            EnchantedBroomstick_desc
+        </description>
+    </product>
     <product code="avatar_effect24">
         <name>
             Regen Reactie
@@ -55026,7 +55034,7 @@
     </product>
     <product code="clothing_gardencardigan">
         <name>
-            Garden Cardigan
+            Tuinvestje
         </name>
         <description>
             clothing_gardencardigan desc
@@ -78654,25 +78662,25 @@
     </product>
     <product code="dia_c26_charcuterie">
         <name>
-            Charcuterie Board
+            Vlees- en Kaasplankje
         </name>
         <description></description>
     </product>
     <product code="dia_c26_cosyblanket">
         <name>
-            Cozy Picnic Blanket
+            Knus Picknickkleed
         </name>
         <description></description>
     </product>
     <product code="dia_c26_picnicbasket">
         <name>
-            Precious Picnic Basket
+            Kostbare Picknickmand
         </name>
         <description></description>
     </product>
     <product code="dia_c26_pumpkinspice">
         <name>
-            Pumpkin Spice Drink
+            Kruidig Pompoendrankje
         </name>
         <description></description>
     </product>
@@ -82034,7 +82042,7 @@
     </product>
     <product code="ducket_c26_charcuterie">
         <name>
-            Charcuterie Board
+            Vlees- en Kaasplankje
         </name>
         <description>
             ducket_c26_charcuterie desc
@@ -82042,7 +82050,7 @@
     </product>
     <product code="ducket_c26_cosyblanket">
         <name>
-            Cozy Picnic Blanket
+            Knus Picknickkleed
         </name>
         <description>
             ducket_c26_cosyblanket desc
@@ -82202,7 +82210,7 @@
     </product>
     <product code="ducket_c26_picnicbasket">
         <name>
-            Precious Picnic Basket
+            Kostbare Picknickmand
         </name>
         <description>
             ducket_c26_picnicbasket desc
@@ -82218,7 +82226,7 @@
     </product>
     <product code="ducket_c26_pumpkinspice">
         <name>
-            Pumpkin Spice Drink
+            Kruidig Pompoendrankje
         </name>
         <description>
             ducket_c26_pumpkinspice desc
@@ -146708,7 +146716,7 @@
     </product>
     <product code="ranch_c26_aspen">
         <name>
-            Autumn Aspen
+            Herfstesdoorn
         </name>
         <description>
             ranch_c26_aspen desc
@@ -146732,7 +146740,7 @@
     </product>
     <product code="ranch_c26_basket">
         <name>
-            Wicker Basket
+            Rieten Mand
         </name>
         <description>
             ranch_c26_basket desc
@@ -146756,7 +146764,7 @@
     </product>
     <product code="ranch_c26_big_corn">
         <name>
-            Corn Stalks
+            Maïsstengels
         </name>
         <description>
             ranch_c26_big_corn desc
@@ -146764,7 +146772,7 @@
     </product>
     <product code="ranch_c26_big_duckbergine">
         <name>
-            Duckbergines
+            Eendbergines
         </name>
         <description>
             ranch_c26_big_duckbergine desc
@@ -146772,7 +146780,7 @@
     </product>
     <product code="ranch_c26_big_grape">
         <name>
-            Grape Vines
+            Druivenranken
         </name>
         <description>
             ranch_c26_big_grape desc
@@ -146780,7 +146788,7 @@
     </product>
     <product code="ranch_c26_big_pumpkin">
         <name>
-            Pumpkin Vines
+            Pompoenveld
         </name>
         <description>
             ranch_c26_big_pumpkin desc
@@ -146788,7 +146796,7 @@
     </product>
     <product code="ranch_c26_big_tomato">
         <name>
-            Tomato Plants
+            Tomatenplant
         </name>
         <description>
             ranch_c26_big_tomato desc
@@ -146796,7 +146804,7 @@
     </product>
     <product code="ranch_c26_carrotsack">
         <name>
-            Sack of Carrots
+            Zak met Wortelen
         </name>
         <description>
             ranch_c26_carrotsack desc
@@ -146812,7 +146820,7 @@
     </product>
     <product code="ranch_c26_darkearth">
         <name>
-            Scorched Earth
+            Verschroeide Aarde
         </name>
         <description>
             ranch_c26_darkearth desc
@@ -146820,7 +146828,7 @@
     </product>
     <product code="ranch_c26_darkfence">
         <name>
-            Dark Rustic Fence
+            Donkere Landelijke Schutting
         </name>
         <description>
             ranch_c26_darkfence desc
@@ -146828,7 +146836,7 @@
     </product>
     <product code="ranch_c26_darkgate">
         <name>
-            Dark Rustic Gate
+            Donkere Landelijke Tuinpoort
         </name>
         <description>
             ranch_c26_darkgate desc
@@ -146836,7 +146844,7 @@
     </product>
     <product code="ranch_c26_dustpath">
         <name>
-            Dusty Dirt Path
+            Stoffig Voetpad
         </name>
         <description>
             ranch_c26_dustpath desc
@@ -146844,7 +146852,7 @@
     </product>
     <product code="ranch_c26_earth">
         <name>
-            Dry Earth
+            Droge Aarde
         </name>
         <description>
             ranch_c26_earth desc
@@ -146852,7 +146860,7 @@
     </product>
     <product code="ranch_c26_farmtools">
         <name>
-            Beginner Farming Tools
+            Landbouwgereedschap voor beginners
         </name>
         <description>
             ranch_c26_farmtools desc
@@ -146860,7 +146868,7 @@
     </product>
     <product code="ranch_c26_farmtoolsb">
         <name>
-            Beginner Farming Tools
+            Landbouwgereedschap voor beginners (Geen Crackable)
         </name>
         <description>
             ranch_c26_farmtoolsb desc
@@ -146868,7 +146876,7 @@
     </product>
     <product code="ranch_c26_freshgrass">
         <name>
-            Freshly Cut Grass
+            Vers Gemaaid Gras
         </name>
         <description>
             ranch_c26_freshgrass desc
@@ -146892,7 +146900,7 @@
     </product>
     <product code="ranch_c26_grass">
         <name>
-            Sun-Kissed Grass
+            Goudkleurig Gras
         </name>
         <description>
             ranch_c26_grass desc
@@ -146900,7 +146908,7 @@
     </product>
     <product code="ranch_c26_hammer">
         <name>
-            Trusty Hammer
+            Betrouwbare Hamer
         </name>
         <description>
             ranch_c26_hammer desc
@@ -146908,7 +146916,7 @@
     </product>
     <product code="ranch_c26_lightearth">
         <name>
-            Parched Earth
+            Kurkdroge Aarde
         </name>
         <description>
             ranch_c26_lightearth desc
@@ -146916,7 +146924,7 @@
     </product>
     <product code="ranch_c26_lightfence">
         <name>
-            Light Rustic Fence
+            Lichte Landelijke Schutting
         </name>
         <description>
             ranch_c26_lightfence desc
@@ -146924,7 +146932,7 @@
     </product>
     <product code="ranch_c26_lightgate">
         <name>
-            Light Rustic Gate
+            Lichte Landelijke Tuinpoort
         </name>
         <description>
             ranch_c26_lightgate desc
@@ -146932,7 +146940,7 @@
     </product>
     <product code="ranch_c26_lumber">
         <name>
-            Sturdy Lumber
+            Stevige Houten Planken
         </name>
         <description>
             ranch_c26_lumber desc
@@ -146948,7 +146956,7 @@
     </product>
     <product code="ranch_c26_nails">
         <name>
-            Box of Nails
+            Box met Spijkers
         </name>
         <description>
             ranch_c26_nails desc
@@ -146980,7 +146988,7 @@
     </product>
     <product code="ranch_c26_saplings">
         <name>
-            Small Saplings
+            Kiemplantjes
         </name>
         <description>
             ranch_c26_saplings desc
@@ -146988,7 +146996,7 @@
     </product>
     <product code="ranch_c26_saplingsb">
         <name>
-            Small Saplings
+            Kiemplantjes (Geen Crackable)
         </name>
         <description>
             ranch_c26_saplingsb desc
@@ -147004,7 +147012,7 @@
     </product>
     <product code="ranch_c26_seedpackets">
         <name>
-            Seed Packets
+            Zakjes met Plantenzaadjes
         </name>
         <description>
             ranch_c26_seedpackets desc
@@ -147012,7 +147020,7 @@
     </product>
     <product code="ranch_c26_seedpacketsb">
         <name>
-            Seed Packets
+            Zakje met Plantenzaadjes (Geen Crackable)
         </name>
         <description>
             ranch_c26_seedpacketsb desc
@@ -147020,7 +147028,7 @@
     </product>
     <product code="ranch_c26_seeds">
         <name>
-            Scattered Seeds
+            Verspreide Zaadjes
         </name>
         <description>
             ranch_c26_seeds desc
@@ -147028,7 +147036,7 @@
     </product>
     <product code="ranch_c26_seedsb">
         <name>
-            Scattered Seeds
+            Verspreide Zaadjes (Geen Crackable)
         </name>
         <description>
             ranch_c26_seedsb desc
@@ -147068,7 +147076,7 @@
     </product>
     <product code="ranch_c26_small_corn">
         <name>
-            Growing Corn Stalks
+            Groeiende Maïskolven
         </name>
         <description>
             ranch_c26_small_corn desc
@@ -147076,7 +147084,7 @@
     </product>
     <product code="ranch_c26_small_cornb">
         <name>
-            Growing Corn Stalks
+            Groeiende Maïskolven (Geen Crackable)
         </name>
         <description>
             ranch_c26_small_cornb desc
@@ -147084,7 +147092,7 @@
     </product>
     <product code="ranch_c26_small_duckbergine">
         <name>
-            ranch_c26_small_duckbergine name
+            Verdacht Plantje
         </name>
         <description>
             ranch_c26_small_duckbergine desc
@@ -147092,7 +147100,7 @@
     </product>
     <product code="ranch_c26_small_duckbergineb">
         <name>
-            ranch_c26_small_duckbergineb name
+            Verdacht Plantje (Geen Crackable)
         </name>
         <description>
             ranch_c26_small_duckbergineb desc
@@ -147100,7 +147108,7 @@
     </product>
     <product code="ranch_c26_small_grape">
         <name>
-            Growing Grape Vines
+            Groeiende Druivenranken
         </name>
         <description>
             ranch_c26_small_grape desc
@@ -147108,7 +147116,7 @@
     </product>
     <product code="ranch_c26_small_grapeb">
         <name>
-            Growing Grape Vines
+            Groeiende Druivenranken (Geen Crackable)
         </name>
         <description>
             ranch_c26_small_grapeb desc
@@ -147116,7 +147124,7 @@
     </product>
     <product code="ranch_c26_small_pumpkin">
         <name>
-            Growing Pumpkin Vines
+            Groeiende Pompoenen
         </name>
         <description>
             ranch_c26_small_pumpkin desc
@@ -147124,7 +147132,7 @@
     </product>
     <product code="ranch_c26_small_pumpkinb">
         <name>
-            Growing Pumpkin Vines
+            Groeiende Pompoenen (Geen Crackable)
         </name>
         <description>
             ranch_c26_small_pumpkinb desc
@@ -147132,7 +147140,7 @@
     </product>
     <product code="ranch_c26_small_tomato">
         <name>
-            Growing Tomato Plants
+            Groeiende Tomatenplanten
         </name>
         <description>
             ranch_c26_small_tomato desc
@@ -147140,7 +147148,7 @@
     </product>
     <product code="ranch_c26_small_tomatob">
         <name>
-            Growing Tomato Plants
+            Groeiende Tomatenplanten (Geen Crackable)
         </name>
         <description>
             ranch_c26_small_tomatob desc
@@ -147148,7 +147156,7 @@
     </product>
     <product code="ranch_c26_soil">
         <name>
-            Fertile Soil
+            Potgrond
         </name>
         <description>
             ranch_c26_soil desc
@@ -147156,7 +147164,7 @@
     </product>
     <product code="ranch_c26_sunray">
         <name>
-            Ray of Sunset
+            Straaltje Zonlicht
         </name>
         <description>
             ranch_c26_sunray desc
@@ -147164,7 +147172,7 @@
     </product>
     <product code="ranch_c26_sunset">
         <name>
-            Scenic Sunset
+            Schilderachtige Zonsondergang
         </name>
         <description>
             ranch_c26_sunset desc
@@ -147172,7 +147180,7 @@
     </product>
     <product code="ranch_c26_tomatosack">
         <name>
-            Sack of Tomatoes
+            Zak met Tomaten
         </name>
         <description>
             ranch_c26_tomatosack desc
@@ -147196,7 +147204,7 @@
     </product>
     <product code="ranch_c26_workbench">
         <name>
-            Farmer's Workbench Crafting Table
+            Werkbank van de Boer Craft Tafel
         </name>
         <description>
             ranch_c26_workbench desc
