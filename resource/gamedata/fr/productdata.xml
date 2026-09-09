@@ -163760,6 +163760,18 @@ Par BIBI983
             Prends te mitaines et couvre-toi bien - Cet appart congelé est conçu pour les festivités avec tout ce que tu pourrais avoir besoin. Comprend une Sculpture Ours EXCLUSIVE.
         </description>
     </product>
+    <product code="rotating_roomdeal460_d">
+        <name>
+            Pack Éteignez le feu !
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal460">
+        <name>
+            Pack Éteignez le feu !
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Appart Habbo House Party
@@ -168040,6 +168052,12 @@ Badge exclusif inclus
     <product code="sept26_special1_internal">
         <name>
             Ranch Life Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_special2_internal">
+        <name>
+            Fire Spirit Bundle
         </name>
         <description></description>
     </product>
@@ -184003,7 +184021,7 @@ Badge exclusif inclus
     </product>
     <product code="wf_xtra_varfx_boss">
         <name>
-            wf_xtra_varfx_boss name
+            Variable FX : barre de santé du boss
         </name>
         <description>
             wf_xtra_varfx_boss desc
@@ -184011,7 +184029,7 @@ Badge exclusif inclus
     </product>
     <product code="wf_xtra_varfx_hp">
         <name>
-            wf_xtra_varfx_hp name
+            Variable FX : Points de santé
         </name>
         <description>
             wf_xtra_varfx_hp desc
@@ -184019,7 +184037,7 @@ Badge exclusif inclus
     </product>
     <product code="wf_xtra_varfx_levelling">
         <name>
-            wf_xtra_varfx_levelling name
+            Variable FX : progression par niveau
         </name>
         <description>
             wf_xtra_varfx_levelling desc
@@ -184027,7 +184045,7 @@ Badge exclusif inclus
     </product>
     <product code="wf_xtra_varfx_number">
         <name>
-            wf_xtra_varfx_number name
+            Variable FX : affichage des nombres
         </name>
         <description>
             wf_xtra_varfx_number desc
@@ -184035,7 +184053,7 @@ Badge exclusif inclus
     </product>
     <product code="wf_xtra_varfx_prog">
         <name>
-            wf_xtra_varfx_prog name
+            Variable FX : Barre de progression
         </name>
         <description>
             wf_xtra_varfx_prog desc
@@ -184043,7 +184061,7 @@ Badge exclusif inclus
     </product>
     <product code="wf_xtra_varfx_status">
         <name>
-            wf_xtra_varfx_status name
+            Variable FX : Barre d'état
         </name>
         <description>
             wf_xtra_varfx_status desc

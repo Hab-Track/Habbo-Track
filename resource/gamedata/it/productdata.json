@@ -95128,7 +95128,7 @@
       },
       {
         "code": "ranch_c26_farmtoolsb",
-        "name": "Attrezzi da Fattore per Principianti (non-crackable)",
+        "name": "Attrezzi da Agricoltore per Principianti (non-crackable)",
         "description": "ranch_c26_farmtoolsb desc"
       },
       {
@@ -95338,7 +95338,7 @@
       },
       {
         "code": "ranch_c26_workbench",
-        "name": "Tavolo del Crafting Tavolo da Lavoro del Fattore",
+        "name": "Tavolo del Crafting Banco da Lavoro dell'Agricoltore",
         "description": "ranch_c26_workbench desc"
       },
       {
@@ -108022,6 +108022,16 @@
         "description": "Prendi i tuoi guanti e copriti bene. Questo Affare Stanza è PIENO zeppo di ghiacciate chicche festive! NUOVO Esclusivo CESPUGLIO ORSO incuso."
       },
       {
+        "code": "rotating_roomdeal460_d",
+        "name": "Affare Stanza spegni il fuoco!",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal460",
+        "name": "Affare Stanza spegni il fuoco!",
+        "description": ""
+      },
+      {
         "code": "rotating_roomdeal46_10c",
         "name": "Habbo House Party Bundle",
         "description": "With all the gear you'll need to party, plus an EXCLUSIVE New Years Eve 2016 Balloon! Now you can enter 2016 in style"
@@ -110864,6 +110874,11 @@
       {
         "code": "sept26_special1_internal",
         "name": "Ranch Life Bundle",
+        "description": ""
+      },
+      {
+        "code": "sept26_special2_internal",
+        "name": "Fire Spirit Bundle",
         "description": ""
       },
       {
@@ -121103,32 +121118,32 @@
       },
       {
         "code": "wf_xtra_varfx_boss",
-        "name": "wf_xtra_varfx_boss name",
+        "name": "FX Variabile: Barra della Vita del Boss",
         "description": "wf_xtra_varfx_boss desc"
       },
       {
         "code": "wf_xtra_varfx_hp",
-        "name": "wf_xtra_varfx_hp name",
+        "name": "FX Variabile: Punti Vita",
         "description": "wf_xtra_varfx_hp desc"
       },
       {
         "code": "wf_xtra_varfx_levelling",
-        "name": "wf_xtra_varfx_levelling name",
+        "name": "FX Variabile: Progresso Livello",
         "description": "wf_xtra_varfx_levelling desc"
       },
       {
         "code": "wf_xtra_varfx_number",
-        "name": "wf_xtra_varfx_number name",
+        "name": "FX Variabile: Display Numerico",
         "description": "wf_xtra_varfx_number desc"
       },
       {
         "code": "wf_xtra_varfx_prog",
-        "name": "wf_xtra_varfx_prog name",
+        "name": "FX Variabile: Barra di Progresso",
         "description": "wf_xtra_varfx_prog desc"
       },
       {
         "code": "wf_xtra_varfx_status",
-        "name": "wf_xtra_varfx_status name",
+        "name": "FX Variabile: Barra di Stato",
         "description": "wf_xtra_varfx_status desc"
       },
       {

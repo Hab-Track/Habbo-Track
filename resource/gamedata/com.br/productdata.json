@@ -107922,6 +107922,16 @@
         "description": "Pegue as suas luvas e fique bem quentinho - este pack vem REPLETO de frio polar e guloseimas festivas! NOVA EXCLUSIVA Topiaria de Urso incluída."
       },
       {
+        "code": "rotating_roomdeal460_d",
+        "name": "Pack Apague o fogo!",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal460",
+        "name": "Pack Apague o fogo!",
+        "description": ""
+      },
+      {
         "code": "rotating_roomdeal46_10c",
         "name": "Habbo House Party Bundle",
         "description": "With all the gear you'll need to party, plus an EXCLUSIVE New Years Eve 2016 Balloon! Now you can enter 2016 in style"
@@ -110784,6 +110794,11 @@
       {
         "code": "sept26_special1_internal",
         "name": "Ranch Life Bundle",
+        "description": ""
+      },
+      {
+        "code": "sept26_special2_internal",
+        "name": "Fire Spirit Bundle",
         "description": ""
       },
       {
@@ -120958,32 +120973,32 @@
       },
       {
         "code": "wf_xtra_varfx_boss",
-        "name": "wf_xtra_varfx_boss name",
+        "name": "Variável FX: Barra de saúde do chefe",
         "description": "wf_xtra_varfx_boss desc"
       },
       {
         "code": "wf_xtra_varfx_hp",
-        "name": "wf_xtra_varfx_hp name",
+        "name": "Variável FX: Pontos de Saúde",
         "description": "wf_xtra_varfx_hp desc"
       },
       {
         "code": "wf_xtra_varfx_levelling",
-        "name": "wf_xtra_varfx_levelling name",
+        "name": "Variável FX: Progresso de Nível",
         "description": "wf_xtra_varfx_levelling desc"
       },
       {
         "code": "wf_xtra_varfx_number",
-        "name": "wf_xtra_varfx_number name",
+        "name": "Variável FX: Exibição de Números",
         "description": "wf_xtra_varfx_number desc"
       },
       {
         "code": "wf_xtra_varfx_prog",
-        "name": "wf_xtra_varfx_prog name",
+        "name": "Variável FX: Barra de Progresso",
         "description": "wf_xtra_varfx_prog desc"
       },
       {
         "code": "wf_xtra_varfx_status",
-        "name": "wf_xtra_varfx_status name",
+        "name": "Variável FX: Barra de Status",
         "description": "wf_xtra_varfx_status desc"
       },
       {

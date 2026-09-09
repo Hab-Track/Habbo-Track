@@ -107962,6 +107962,16 @@
         "description": "Laita lapaset ja lämmintä päälle, koska tämä paketti on äyräitä myöten täynnä jäisiä, talvisia ihanuuksia! Mukana ainutlaatuinen Karhun pensaspatsas."
       },
       {
+        "code": "rotating_roomdeal460_d",
+        "name": "Sammuta tuli -huonepaketti!",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal460",
+        "name": "Sammuta tuli -huonepaketti!",
+        "description": ""
+      },
+      {
         "code": "rotating_roomdeal46_10c",
         "name": "Kotibileet-huonepaketti",
         "description": "Vuosi lähenee loppuaan ja sehän tarkoittaa tietysti BILEITÄ! Laita tanssikengät jalkaan, ota purtavaa mukaan ja valmistaudu elämäsi bileisiin! Mukana merkki. Saatavilla 29.12-6.1."
@@ -110769,6 +110779,11 @@
       {
         "code": "sept26_special1_internal",
         "name": "Ranch Life Bundle",
+        "description": ""
+      },
+      {
+        "code": "sept26_special2_internal",
+        "name": "Fire Spirit Bundle",
         "description": ""
       },
       {
@@ -120978,32 +120993,32 @@
       },
       {
         "code": "wf_xtra_varfx_boss",
-        "name": "wf_xtra_varfx_boss name",
+        "name": "Muuttujaefekti: Pomon terveyspalkki",
         "description": "wf_xtra_varfx_boss desc"
       },
       {
         "code": "wf_xtra_varfx_hp",
-        "name": "wf_xtra_varfx_hp name",
+        "name": "Muuttujaefekti: Terveyspisteet",
         "description": "wf_xtra_varfx_hp desc"
       },
       {
         "code": "wf_xtra_varfx_levelling",
-        "name": "wf_xtra_varfx_levelling name",
+        "name": "Muuttujaefekti: Tasoeteneminen",
         "description": "wf_xtra_varfx_levelling desc"
       },
       {
         "code": "wf_xtra_varfx_number",
-        "name": "wf_xtra_varfx_number name",
+        "name": "Muuttujaefekti: Numeronäyttö",
         "description": "wf_xtra_varfx_number desc"
       },
       {
         "code": "wf_xtra_varfx_prog",
-        "name": "wf_xtra_varfx_prog name",
+        "name": "Muuttujaefekti: Edistymispalkki",
         "description": "wf_xtra_varfx_prog desc"
       },
       {
         "code": "wf_xtra_varfx_status",
-        "name": "wf_xtra_varfx_status name",
+        "name": "Muuttujaefekti: Tilapalkki",
         "description": "wf_xtra_varfx_status desc"
       },
       {

@@ -166263,6 +166263,18 @@ Caja + Wired
             Coge tus guantes y abrígate. ¡Este lote llega cargado hasta los topes de helados y golosinas! Incluye un EXCLUSIVO arbusto oso.
         </description>
     </product>
+    <product code="rotating_roomdeal460_d">
+        <name>
+            Lote ¡Apaga el fuego!
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal460">
+        <name>
+            Lote ¡Apaga el fuego!
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Habbo House Party Bundle
@@ -170650,6 +170662,12 @@ Caja + Wired
     <product code="sept26_special1_internal">
         <name>
             Ranch Life Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_special2_internal">
+        <name>
+            Fire Spirit Bundle
         </name>
         <description></description>
     </product>
@@ -186585,7 +186603,7 @@ Caja + Wired
     </product>
     <product code="wf_xtra_varfx_boss">
         <name>
-            wf_xtra_varfx_boss name
+            Variable FX: Barra de Vida Superior
         </name>
         <description>
             wf_xtra_varfx_boss desc
@@ -186593,7 +186611,7 @@ Caja + Wired
     </product>
     <product code="wf_xtra_varfx_hp">
         <name>
-            wf_xtra_varfx_hp name
+            Variable FX: Puntos de Vida
         </name>
         <description>
             wf_xtra_varfx_hp desc
@@ -186601,7 +186619,7 @@ Caja + Wired
     </product>
     <product code="wf_xtra_varfx_levelling">
         <name>
-            wf_xtra_varfx_levelling name
+            Variable FX: Progreso de Nivel
         </name>
         <description>
             wf_xtra_varfx_levelling desc
@@ -186609,7 +186627,7 @@ Caja + Wired
     </product>
     <product code="wf_xtra_varfx_number">
         <name>
-            wf_xtra_varfx_number name
+            Variable FX: Visualizador Numérico
         </name>
         <description>
             wf_xtra_varfx_number desc
@@ -186617,7 +186635,7 @@ Caja + Wired
     </product>
     <product code="wf_xtra_varfx_prog">
         <name>
-            wf_xtra_varfx_prog name
+            Variable FX: Barra de Progreso
         </name>
         <description>
             wf_xtra_varfx_prog desc
@@ -186625,7 +186643,7 @@ Caja + Wired
     </product>
     <product code="wf_xtra_varfx_status">
         <name>
-            wf_xtra_varfx_status name
+            Variable FX: Barra de Estado
         </name>
         <description>
             wf_xtra_varfx_status desc

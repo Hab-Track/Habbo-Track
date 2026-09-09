@@ -171929,6 +171929,18 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
             Eldivenlerini tak ve sımsıkı giyin - bu oda paketi ağzına kadar buzlu şölen eşyalarıyla DOLU! YENİ ÖZEL AYI ÇALI HEYKELİ dahil.
         </description>
     </product>
+    <product code="rotating_roomdeal460_d">
+        <name>
+            Yangın söndürme oda paketi!
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal460">
+        <name>
+            Yangın söndürme oda paketi!
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Habbo House Party Bundle
@@ -176262,6 +176274,12 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     <product code="sept26_special1_internal">
         <name>
             Ranch Life Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_special2_internal">
+        <name>
+            Fire Spirit Bundle
         </name>
         <description></description>
     </product>
@@ -192723,7 +192741,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="wf_xtra_varfx_boss">
         <name>
-            wf_xtra_varfx_boss name
+            Değişken FX: Boss Can Çubuğu
         </name>
         <description>
             wf_xtra_varfx_boss desc
@@ -192731,7 +192749,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="wf_xtra_varfx_hp">
         <name>
-            wf_xtra_varfx_hp name
+            Değişken FX: Sağlık Puanları
         </name>
         <description>
             wf_xtra_varfx_hp desc
@@ -192739,7 +192757,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="wf_xtra_varfx_levelling">
         <name>
-            wf_xtra_varfx_levelling name
+            Değişken FX: Seviye İlerlemesi
         </name>
         <description>
             wf_xtra_varfx_levelling desc
@@ -192747,7 +192765,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="wf_xtra_varfx_number">
         <name>
-            wf_xtra_varfx_number name
+            Değişken FX: Sayı Gösterimi
         </name>
         <description>
             wf_xtra_varfx_number desc
@@ -192755,7 +192773,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="wf_xtra_varfx_prog">
         <name>
-            wf_xtra_varfx_prog name
+            Değişken FX: İlerleme Çubuğu
         </name>
         <description>
             wf_xtra_varfx_prog desc
@@ -192763,7 +192781,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="wf_xtra_varfx_status">
         <name>
-            wf_xtra_varfx_status name
+            Değişken FX: Durum Çubuğu
         </name>
         <description>
             wf_xtra_varfx_status desc

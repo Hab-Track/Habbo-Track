@@ -106002,6 +106002,16 @@
         "description": "Prends te mitaines et couvre-toi bien - Cet appart congelé est conçu pour les festivités avec tout ce que tu pourrais avoir besoin. Comprend une Sculpture Ours EXCLUSIVE."
       },
       {
+        "code": "rotating_roomdeal460_d",
+        "name": "Pack Éteignez le feu !",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal460",
+        "name": "Pack Éteignez le feu !",
+        "description": ""
+      },
+      {
         "code": "rotating_roomdeal46_10c",
         "name": "Appart Habbo House Party",
         "description": "C'est presque la fin de cette année, et cela signifie... GROSSE FÊTE ! Cette année nous avons une House Party très spéciale !Apporte ton snack, chausse tes chaussures de danse et tiens-toi prêt pour la F-Ê-T-E ! Comprend un badge exclusif. Disponible du 29 décembre au 6 janvier."
@@ -108809,6 +108819,11 @@
       {
         "code": "sept26_special1_internal",
         "name": "Ranch Life Bundle",
+        "description": ""
+      },
+      {
+        "code": "sept26_special2_internal",
+        "name": "Fire Spirit Bundle",
         "description": ""
       },
       {
@@ -119003,32 +119018,32 @@
       },
       {
         "code": "wf_xtra_varfx_boss",
-        "name": "wf_xtra_varfx_boss name",
+        "name": "Variable FX : barre de santé du boss",
         "description": "wf_xtra_varfx_boss desc"
       },
       {
         "code": "wf_xtra_varfx_hp",
-        "name": "wf_xtra_varfx_hp name",
+        "name": "Variable FX : Points de santé",
         "description": "wf_xtra_varfx_hp desc"
       },
       {
         "code": "wf_xtra_varfx_levelling",
-        "name": "wf_xtra_varfx_levelling name",
+        "name": "Variable FX : progression par niveau",
         "description": "wf_xtra_varfx_levelling desc"
       },
       {
         "code": "wf_xtra_varfx_number",
-        "name": "wf_xtra_varfx_number name",
+        "name": "Variable FX : affichage des nombres",
         "description": "wf_xtra_varfx_number desc"
       },
       {
         "code": "wf_xtra_varfx_prog",
-        "name": "wf_xtra_varfx_prog name",
+        "name": "Variable FX : Barre de progression",
         "description": "wf_xtra_varfx_prog desc"
       },
       {
         "code": "wf_xtra_varfx_status",
-        "name": "wf_xtra_varfx_status name",
+        "name": "Variable FX : Barre d'état",
         "description": "wf_xtra_varfx_status desc"
       },
       {

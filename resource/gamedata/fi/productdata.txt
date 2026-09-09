@@ -166769,6 +166769,18 @@ Sisältää merkin.
             Laita lapaset ja lämmintä päälle, koska tämä paketti on äyräitä myöten täynnä jäisiä, talvisia ihanuuksia! Mukana ainutlaatuinen Karhun pensaspatsas.
         </description>
     </product>
+    <product code="rotating_roomdeal460_d">
+        <name>
+            Sammuta tuli -huonepaketti!
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal460">
+        <name>
+            Sammuta tuli -huonepaketti!
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Kotibileet-huonepaketti
@@ -171066,6 +171078,12 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     <product code="sept26_special1_internal">
         <name>
             Ranch Life Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_special2_internal">
+        <name>
+            Fire Spirit Bundle
         </name>
         <description></description>
     </product>
@@ -187031,7 +187049,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_xtra_varfx_boss">
         <name>
-            wf_xtra_varfx_boss name
+            Muuttujaefekti: Pomon terveyspalkki
         </name>
         <description>
             wf_xtra_varfx_boss desc
@@ -187039,7 +187057,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_xtra_varfx_hp">
         <name>
-            wf_xtra_varfx_hp name
+            Muuttujaefekti: Terveyspisteet
         </name>
         <description>
             wf_xtra_varfx_hp desc
@@ -187047,7 +187065,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_xtra_varfx_levelling">
         <name>
-            wf_xtra_varfx_levelling name
+            Muuttujaefekti: Tasoeteneminen
         </name>
         <description>
             wf_xtra_varfx_levelling desc
@@ -187055,7 +187073,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_xtra_varfx_number">
         <name>
-            wf_xtra_varfx_number name
+            Muuttujaefekti: Numeronäyttö
         </name>
         <description>
             wf_xtra_varfx_number desc
@@ -187063,7 +187081,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_xtra_varfx_prog">
         <name>
-            wf_xtra_varfx_prog name
+            Muuttujaefekti: Edistymispalkki
         </name>
         <description>
             wf_xtra_varfx_prog desc
@@ -187071,7 +187089,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_xtra_varfx_status">
         <name>
-            wf_xtra_varfx_status name
+            Muuttujaefekti: Tilapalkki
         </name>
         <description>
             wf_xtra_varfx_status desc

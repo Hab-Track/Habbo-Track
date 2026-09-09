@@ -146812,7 +146812,7 @@
     </product>
     <product code="ranch_c26_farmtoolsb">
         <name>
-            Attrezzi da Fattore per Principianti (non-crackable)
+            Attrezzi da Agricoltore per Principianti (non-crackable)
         </name>
         <description>
             ranch_c26_farmtoolsb desc
@@ -147148,7 +147148,7 @@
     </product>
     <product code="ranch_c26_workbench">
         <name>
-            Tavolo del Crafting Tavolo da Lavoro del Fattore
+            Tavolo del Crafting Banco da Lavoro dell'Agricoltore
         </name>
         <description>
             ranch_c26_workbench desc
@@ -166226,6 +166226,18 @@ Nota: questo Affare è stato creato con Furni zen 100% esclusivi!
             Prendi i tuoi guanti e copriti bene. Questo Affare Stanza è PIENO zeppo di ghiacciate chicche festive! NUOVO Esclusivo CESPUGLIO ORSO incuso.
         </description>
     </product>
+    <product code="rotating_roomdeal460_d">
+        <name>
+            Affare Stanza spegni il fuoco!
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal460">
+        <name>
+            Affare Stanza spegni il fuoco!
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Habbo House Party Bundle
@@ -170532,6 +170544,12 @@ Include un ESCLUSIVO Distintivo.
     <product code="sept26_special1_internal">
         <name>
             Ranch Life Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_special2_internal">
+        <name>
+            Fire Spirit Bundle
         </name>
         <description></description>
     </product>
@@ -186573,7 +186591,7 @@ Include un ESCLUSIVO Distintivo.
     </product>
     <product code="wf_xtra_varfx_boss">
         <name>
-            wf_xtra_varfx_boss name
+            FX Variabile: Barra della Vita del Boss
         </name>
         <description>
             wf_xtra_varfx_boss desc
@@ -186581,7 +186599,7 @@ Include un ESCLUSIVO Distintivo.
     </product>
     <product code="wf_xtra_varfx_hp">
         <name>
-            wf_xtra_varfx_hp name
+            FX Variabile: Punti Vita
         </name>
         <description>
             wf_xtra_varfx_hp desc
@@ -186589,7 +186607,7 @@ Include un ESCLUSIVO Distintivo.
     </product>
     <product code="wf_xtra_varfx_levelling">
         <name>
-            wf_xtra_varfx_levelling name
+            FX Variabile: Progresso Livello
         </name>
         <description>
             wf_xtra_varfx_levelling desc
@@ -186597,7 +186615,7 @@ Include un ESCLUSIVO Distintivo.
     </product>
     <product code="wf_xtra_varfx_number">
         <name>
-            wf_xtra_varfx_number name
+            FX Variabile: Display Numerico
         </name>
         <description>
             wf_xtra_varfx_number desc
@@ -186605,7 +186623,7 @@ Include un ESCLUSIVO Distintivo.
     </product>
     <product code="wf_xtra_varfx_prog">
         <name>
-            wf_xtra_varfx_prog name
+            FX Variabile: Barra di Progresso
         </name>
         <description>
             wf_xtra_varfx_prog desc
@@ -186613,7 +186631,7 @@ Include un ESCLUSIVO Distintivo.
     </product>
     <product code="wf_xtra_varfx_status">
         <name>
-            wf_xtra_varfx_status name
+            FX Variabile: Barra di Stato
         </name>
         <description>
             wf_xtra_varfx_status desc

@@ -165450,6 +165450,18 @@ Enthält 3 Taler
             Schnapp dir deine Handschuhe und zieh dich warm an - dieses Bündel ist randvoll mit eisig, festlichen Leckereien! Beinhaltet einen NEUEN EXKLUSIVEN BÄREN Formschnitt.
         </description>
     </product>
+    <product code="rotating_roomdeal460_d">
+        <name>
+            Lösche das Feuer!-Bündel
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal460">
+        <name>
+            Lösche das Feuer!-Bündel
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Habbo House Party Bundle
@@ -169763,6 +169775,12 @@ Beinhaltet ein exklusives Badge!
     <product code="sept26_special1_internal">
         <name>
             Ranch Life Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="sept26_special2_internal">
+        <name>
+            Fire Spirit Bundle
         </name>
         <description></description>
     </product>
@@ -185686,7 +185704,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="wf_xtra_varfx_boss">
         <name>
-            wf_xtra_varfx_boss name
+            Variable FX: Boss Gesundheitsleiste
         </name>
         <description>
             wf_xtra_varfx_boss desc
@@ -185694,7 +185712,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="wf_xtra_varfx_hp">
         <name>
-            wf_xtra_varfx_hp name
+            Variable FX: Gesundheitspunkte
         </name>
         <description>
             wf_xtra_varfx_hp desc
@@ -185702,7 +185720,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="wf_xtra_varfx_levelling">
         <name>
-            wf_xtra_varfx_levelling name
+            Variable FX: Levelling-Fortschritt
         </name>
         <description>
             wf_xtra_varfx_levelling desc
@@ -185710,7 +185728,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="wf_xtra_varfx_number">
         <name>
-            wf_xtra_varfx_number name
+            Variable FX: Nummern-Anzeige
         </name>
         <description>
             wf_xtra_varfx_number desc
@@ -185718,7 +185736,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="wf_xtra_varfx_prog">
         <name>
-            wf_xtra_varfx_prog name
+            Variable FX: Fortschrittsbalken
         </name>
         <description>
             wf_xtra_varfx_prog desc
@@ -185726,7 +185744,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="wf_xtra_varfx_status">
         <name>
-            wf_xtra_varfx_status name
+            Variable FX: Status-Balken
         </name>
         <description>
             wf_xtra_varfx_status desc
