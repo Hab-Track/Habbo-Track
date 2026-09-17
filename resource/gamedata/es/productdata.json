@@ -33922,6 +33922,16 @@
         "description": ""
       },
       {
+        "code": "clothing_acornbackpack",
+        "name": "clothing_acornbackpack name",
+        "description": "clothing_acornbackpack desc"
+      },
+      {
+        "code": "clothing_acornkeyring",
+        "name": "clothing_acornkeyring name",
+        "description": "clothing_acornkeyring desc"
+      },
+      {
         "code": "clothing_acousticguitar",
         "name": "Guitarra Acústica",
         "description": "clothing_acousticguitar desc"
@@ -34040,6 +34050,11 @@
         "code": "clothing_astralnecklace",
         "name": "Collar Astral",
         "description": "clothing_astralnecklace desc"
+      },
+      {
+        "code": "clothing_autumnberet2",
+        "name": "clothing_autumnberet2 name",
+        "description": "clothing_autumnberet2 desc"
       },
       {
         "code": "clothing_autumnberet_dia",
@@ -37982,9 +37997,24 @@
         "description": "clothing_nft25earrings3 desc"
       },
       {
+        "code": "clothing_nft26_camopaint",
+        "name": "clothing_nft26_camopaint name",
+        "description": "clothing_nft26_camopaint desc"
+      },
+      {
         "code": "clothing_nft26_nftwitchcape",
         "name": "clothing_nft26_nftwitchcape name",
         "description": "clothing_nft26_nftwitchcape desc"
+      },
+      {
+        "code": "clothing_nft26_nightgoggles",
+        "name": "clothing_nft26_nightgoggles name",
+        "description": "clothing_nft26_nightgoggles desc"
+      },
+      {
+        "code": "clothing_nft26_tacticalvest",
+        "name": "clothing_nft26_tacticalvest name",
+        "description": "clothing_nft26_tacticalvest desc"
       },
       {
         "code": "clothing_nft_bloody",
@@ -52897,6 +52927,11 @@
         "description": "ducket_c25_wovenhammock desc"
       },
       {
+        "code": "ducket_c26_acorndecor",
+        "name": "ducket_c26_acorndecor name",
+        "description": "ducket_c26_acorndecor desc"
+      },
+      {
         "code": "ducket_c26_anchorpillow",
         "name": "Cojín con Ancla",
         "description": "ducket_c26_anchorpillow desc"
@@ -64845,6 +64880,16 @@
         "code": "hotel_c18_tree",
         "name": "Árbol redondo",
         "description": "hotel_c18_tree desc"
+      },
+      {
+        "code": "house_c26_mokapot",
+        "name": "house_c26_mokapot name",
+        "description": "house_c26_mokapot desc"
+      },
+      {
+        "code": "house_c26_pastamaker",
+        "name": "house_c26_pastamaker name",
+        "description": "house_c26_pastamaker desc"
       },
       {
         "code": "house_sofa",
@@ -84507,6 +84552,26 @@
         "description": "nft_h26_aprilshrimp desc"
       },
       {
+        "code": "nft_h26_axe_bronze",
+        "name": "nft_h26_axe_bronze name",
+        "description": "nft_h26_axe_bronze desc"
+      },
+      {
+        "code": "nft_h26_axe_gold",
+        "name": "nft_h26_axe_gold name",
+        "description": "nft_h26_axe_gold desc"
+      },
+      {
+        "code": "nft_h26_axe_silver",
+        "name": "nft_h26_axe_silver name",
+        "description": "nft_h26_axe_silver desc"
+      },
+      {
+        "code": "nft_h26_axe_trippy",
+        "name": "nft_h26_axe_trippy name",
+        "description": "nft_h26_axe_trippy desc"
+      },
+      {
         "code": "nft_h26_bamboochair",
         "name": "Silla de la Jungla",
         "description": "nft_h26_bamboochair desc"
@@ -84560,6 +84625,11 @@
         "code": "nft_h26_broomstickrack",
         "name": "nft_h26_broomstickrack name",
         "description": "nft_h26_broomstickrack desc"
+      },
+      {
+        "code": "nft_h26_campfire",
+        "name": "nft_h26_campfire name",
+        "description": "nft_h26_campfire desc"
       },
       {
         "code": "nft_h26_cardchair",
@@ -84660,6 +84730,11 @@
         "code": "nft_h26_drpgamingchair",
         "name": "Silla Gamer Retro Polyfon",
         "description": "nft_h26_drpgamingchair desc"
+      },
+      {
+        "code": "nft_h26_emplacement",
+        "name": "nft_h26_emplacement name",
+        "description": "nft_h26_emplacement desc"
       },
       {
         "code": "nft_h26_farmtruck",
@@ -84872,6 +84947,11 @@
         "description": "nft_h26_sunlounger desc"
       },
       {
+        "code": "nft_h26_survivalgear",
+        "name": "nft_h26_survivalgear name",
+        "description": "nft_h26_survivalgear desc"
+      },
+      {
         "code": "nft_h26_treasuremap1",
         "name": "Mapa A del Tesoro de la Jungla",
         "description": "nft_h26_treasuremap1 desc"
@@ -84880,6 +84960,11 @@
         "code": "nft_h26_treasuremap2",
         "name": "Mapa B del Tesoro de la Jungla",
         "description": "nft_h26_treasuremap2 desc"
+      },
+      {
+        "code": "nft_h26_treehouseshelter",
+        "name": "nft_h26_treehouseshelter name",
+        "description": "nft_h26_treehouseshelter desc"
       },
       {
         "code": "nft_h26_trippycontroller",
@@ -113230,6 +113315,226 @@
         "code": "super_r16_herodisplay",
         "name": "Armadura de Cromo",
         "description": "Nivel de resistencia: locura total."
+      },
+      {
+        "code": "survival_c26_burntgrass",
+        "name": "survival_c26_burntgrass name",
+        "description": "survival_c26_burntgrass desc"
+      },
+      {
+        "code": "survival_c26_cave",
+        "name": "survival_c26_cave name",
+        "description": "survival_c26_cave desc"
+      },
+      {
+        "code": "survival_c26_craftingtable",
+        "name": "survival_c26_craftingtable name",
+        "description": "survival_c26_craftingtable desc"
+      },
+      {
+        "code": "survival_c26_dystopiabg",
+        "name": "survival_c26_dystopiabg name",
+        "description": "survival_c26_dystopiabg desc"
+      },
+      {
+        "code": "survival_c26_dystopiafence",
+        "name": "survival_c26_dystopiafence name",
+        "description": "survival_c26_dystopiafence desc"
+      },
+      {
+        "code": "survival_c26_dystopiagate",
+        "name": "survival_c26_dystopiagate name",
+        "description": "survival_c26_dystopiagate desc"
+      },
+      {
+        "code": "survival_c26_dystopiawall",
+        "name": "survival_c26_dystopiawall name",
+        "description": "survival_c26_dystopiawall desc"
+      },
+      {
+        "code": "survival_c26_factionsymbols",
+        "name": "survival_c26_factionsymbols name",
+        "description": "survival_c26_factionsymbols desc"
+      },
+      {
+        "code": "survival_c26_firekit",
+        "name": "survival_c26_firekit name",
+        "description": "survival_c26_firekit desc"
+      },
+      {
+        "code": "survival_c26_flare",
+        "name": "survival_c26_flare name",
+        "description": "survival_c26_flare desc"
+      },
+      {
+        "code": "survival_c26_floortarget",
+        "name": "survival_c26_floortarget name",
+        "description": "survival_c26_floortarget desc"
+      },
+      {
+        "code": "survival_c26_foliage",
+        "name": "survival_c26_foliage name",
+        "description": "survival_c26_foliage desc"
+      },
+      {
+        "code": "survival_c26_foliagefloor",
+        "name": "survival_c26_foliagefloor name",
+        "description": "survival_c26_foliagefloor desc"
+      },
+      {
+        "code": "survival_c26_foodsupplies",
+        "name": "survival_c26_foodsupplies name",
+        "description": "survival_c26_foodsupplies desc"
+      },
+      {
+        "code": "survival_c26_hammock",
+        "name": "survival_c26_hammock name",
+        "description": "survival_c26_hammock desc"
+      },
+      {
+        "code": "survival_c26_knife",
+        "name": "survival_c26_knife name",
+        "description": "survival_c26_knife desc"
+      },
+      {
+        "code": "survival_c26_medpack",
+        "name": "survival_c26_medpack name",
+        "description": "survival_c26_medpack desc"
+      },
+      {
+        "code": "survival_c26_podium",
+        "name": "survival_c26_podium name",
+        "description": "survival_c26_podium desc"
+      },
+      {
+        "code": "survival_c26_rope",
+        "name": "survival_c26_rope name",
+        "description": "survival_c26_rope desc"
+      },
+      {
+        "code": "survival_c26_sleepingbag",
+        "name": "survival_c26_sleepingbag name",
+        "description": "survival_c26_sleepingbag desc"
+      },
+      {
+        "code": "survival_c26_stonesymbol",
+        "name": "survival_c26_stonesymbol name",
+        "description": "survival_c26_stonesymbol desc"
+      },
+      {
+        "code": "survival_c26_stream",
+        "name": "survival_c26_stream name",
+        "description": "survival_c26_stream desc"
+      },
+      {
+        "code": "survival_c26_supplycrate",
+        "name": "survival_c26_supplycrate name",
+        "description": "survival_c26_supplycrate desc"
+      },
+      {
+        "code": "survival_c26_supplycrateb",
+        "name": "survival_c26_supplycrateb name",
+        "description": "survival_c26_supplycrateb desc"
+      },
+      {
+        "code": "survival_c26_surveillancetree",
+        "name": "survival_c26_surveillancetree name",
+        "description": "survival_c26_surveillancetree desc"
+      },
+      {
+        "code": "survival_c26_trap",
+        "name": "survival_c26_trap name",
+        "description": "survival_c26_trap desc"
+      },
+      {
+        "code": "survival_c26_treebridge",
+        "name": "survival_c26_treebridge name",
+        "description": "survival_c26_treebridge desc"
+      },
+      {
+        "code": "survival_c26_walltarget",
+        "name": "survival_c26_walltarget name",
+        "description": "survival_c26_walltarget desc"
+      },
+      {
+        "code": "survival_c26_weaponcase",
+        "name": "survival_c26_weaponcase name",
+        "description": "survival_c26_weaponcase desc"
+      },
+      {
+        "code": "survival_c26_weaponcaseb",
+        "name": "survival_c26_weaponcaseb name",
+        "description": "survival_c26_weaponcaseb desc"
+      },
+      {
+        "code": "survival_cloth_c26_bow",
+        "name": "survival_cloth_c26_bow name",
+        "description": "survival_cloth_c26_bow desc"
+      },
+      {
+        "code": "survival_cloth_c26_braid",
+        "name": "survival_cloth_c26_braid name",
+        "description": "survival_cloth_c26_braid desc"
+      },
+      {
+        "code": "survival_cloth_c26_cyberlimbs",
+        "name": "survival_cloth_c26_cyberlimbs name",
+        "description": "survival_cloth_c26_cyberlimbs desc"
+      },
+      {
+        "code": "survival_cloth_c26_drone",
+        "name": "survival_cloth_c26_drone name",
+        "description": "survival_cloth_c26_drone desc"
+      },
+      {
+        "code": "survival_cloth_c26_grenade",
+        "name": "survival_cloth_c26_grenade name",
+        "description": "survival_cloth_c26_grenade desc"
+      },
+      {
+        "code": "survival_cloth_c26_survivaljumpsuit",
+        "name": "survival_cloth_c26_survivaljumpsuit name",
+        "description": "survival_cloth_c26_survivaljumpsuit desc"
+      },
+      {
+        "code": "survival_cloth_c26_survivalmask",
+        "name": "survival_cloth_c26_survivalmask name",
+        "description": "survival_cloth_c26_survivalmask desc"
+      },
+      {
+        "code": "survival_cloth_c26_sword",
+        "name": "survival_cloth_c26_sword name",
+        "description": "survival_cloth_c26_sword desc"
+      },
+      {
+        "code": "survival_cloth_c26_tomahawk",
+        "name": "survival_cloth_c26_tomahawk name",
+        "description": "survival_cloth_c26_tomahawk desc"
+      },
+      {
+        "code": "survival_cloth_c26_weapon",
+        "name": "survival_cloth_c26_weapon name",
+        "description": "survival_cloth_c26_weapon desc"
+      },
+      {
+        "code": "survival_cloth_r26_bloodbath",
+        "name": "survival_cloth_r26_bloodbath name",
+        "description": "survival_cloth_r26_bloodbath desc"
+      },
+      {
+        "code": "survival_r26_coffin",
+        "name": "survival_r26_coffin name",
+        "description": "survival_r26_coffin desc"
+      },
+      {
+        "code": "survival_r26_prizemoney",
+        "name": "survival_r26_prizemoney name",
+        "description": "survival_r26_prizemoney desc"
+      },
+      {
+        "code": "survival_r26_scifispeakercorner",
+        "name": "survival_r26_scifispeakercorner name",
+        "description": "survival_r26_scifispeakercorner desc"
       },
       {
         "code": "svnr_aus",
