@@ -370,6 +370,12 @@
         </name>
         <description></description>
     </product>
+    <product code="100diamonds_3">
+        <name>
+            100 Diamonds
+        </name>
+        <description></description>
+    </product>
     <product code="100diamonds">
         <name>
             100 Diamonds
@@ -424,6 +430,12 @@
         </name>
         <description></description>
     </product>
+    <product code="150diamonds_3">
+        <name>
+            150 Diamonds
+        </name>
+        <description></description>
+    </product>
     <product code="150diamonds">
         <name>
             150 Diamonds
@@ -437,6 +449,12 @@
         <description></description>
     </product>
     <product code="198_credits_2">
+        <name>
+            Hanki 198 kolea ja timanttia 110:n hinnalla!
+        </name>
+        <description></description>
+    </product>
+    <product code="198_credits_3">
         <name>
             Hanki 198 kolea ja timanttia 110:n hinnalla!
         </name>
@@ -467,6 +485,12 @@
         <description></description>
     </product>
     <product code="220_credits_2">
+        <name>
+            Hanki 220 kolea ja timanttia 110:n hinnalla!
+        </name>
+        <description></description>
+    </product>
+    <product code="220_credits_3">
         <name>
             Hanki 220 kolea ja timanttia 110:n hinnalla!
         </name>
@@ -51597,7 +51621,9 @@
         <name>
             Hohtavat tulikärpäset
         </name>
-        <description></description>
+        <description>
+            cl_glowingfireflies_bd desc
+        </description>
     </product>
     <product code="cl_goodluckbearoutfit_bd">
         <name>
@@ -83148,6 +83174,12 @@
         <description></description>
     </product>
     <product code="duckets_200_2">
+        <name>
+            200 duckettia
+        </name>
+        <description></description>
+    </product>
+    <product code="duckets_200_3">
         <name>
             200 duckettia
         </name>
