@@ -422,6 +422,11 @@
         "description": ""
       },
       {
+        "code": "100diamonds_3",
+        "name": "100 diamonds",
+        "description": ""
+      },
+      {
         "code": "100diamonds",
         "name": "100 Diamonds",
         "description": ""
@@ -602,6 +607,11 @@
         "description": ""
       },
       {
+        "code": "150diamonds_3",
+        "name": "150 diamonds",
+        "description": ""
+      },
+      {
         "code": "150diamonds",
         "name": "150 Diamonds",
         "description": ""
@@ -614,6 +624,11 @@
       {
         "code": "198_credits_2",
         "name": "110 Kredi fiyatına 198 Kredi ve elmas sahibi olun",
+        "description": ""
+      },
+      {
+        "code": "198_credits_3",
+        "name": "Get 198 credits for the price of 110 credits!",
         "description": ""
       },
       {
@@ -644,6 +659,11 @@
       {
         "code": "220_credits_2",
         "name": "110 Kredi fiyatına 220 Kredi ve elmas sahibi olun",
+        "description": ""
+      },
+      {
+        "code": "220_credits_3",
+        "name": "Get 220 credits for the price of 110 credits!",
         "description": ""
       },
       {
@@ -33804,7 +33824,7 @@
       {
         "code": "cl_glowingfireflies_bd",
         "name": "Parlayan Ateş böcekleri",
-        "description": ""
+        "description": "cl_glowingfireflies_bd desc"
       },
       {
         "code": "cl_goodluckbearoutfit_bd",
@@ -62604,6 +62624,11 @@
       {
         "code": "duckets_200_2",
         "name": "200 Ördek Kredisi",
+        "description": ""
+      },
+      {
+        "code": "duckets_200_3",
+        "name": "200 Duckets",
         "description": ""
       },
       {

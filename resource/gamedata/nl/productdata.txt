@@ -374,6 +374,12 @@
         </name>
         <description></description>
     </product>
+    <product code="100diamonds_3">
+        <name>
+            100 diamonds
+        </name>
+        <description></description>
+    </product>
     <product code="100diamonds">
         <name>
             100 Diamanten
@@ -428,6 +434,12 @@
         </name>
         <description></description>
     </product>
+    <product code="150diamonds_3">
+        <name>
+            150 diamonds
+        </name>
+        <description></description>
+    </product>
     <product code="150diamonds">
         <name>
             150 Diamanten
@@ -443,6 +455,12 @@
     <product code="198_credits_2">
         <name>
             198 credits en diamanten voor de prijs van 110!
+        </name>
+        <description></description>
+    </product>
+    <product code="198_credits_3">
+        <name>
+            Get 198 credits for the price of 110 credits!
         </name>
         <description></description>
     </product>
@@ -479,6 +497,12 @@
     <product code="220_credits_2">
         <name>
             220 credits en diamanten voor de prijs van 110!
+        </name>
+        <description></description>
+    </product>
+    <product code="220_credits_3">
+        <name>
+            Get 220 credits for the price of 110 credits!
         </name>
         <description></description>
     </product>
@@ -49246,7 +49270,9 @@
         <name>
             Glinsterende Vuurvliegjes
         </name>
-        <description></description>
+        <description>
+            cl_glowingfireflies_bd desc
+        </description>
     </product>
     <product code="cl_goodluckbearoutfit_bd">
         <name>
@@ -82499,6 +82525,12 @@
         <description></description>
     </product>
     <product code="duckets_200_2">
+        <name>
+            200 Duckets
+        </name>
+        <description></description>
+    </product>
+    <product code="duckets_200_3">
         <name>
             200 Duckets
         </name>

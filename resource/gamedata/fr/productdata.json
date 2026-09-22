@@ -397,6 +397,11 @@
         "description": ""
       },
       {
+        "code": "100diamonds_3",
+        "name": "100 diamonds",
+        "description": ""
+      },
+      {
         "code": "100diamonds",
         "name": "100 Diamants",
         "description": ""
@@ -442,6 +447,11 @@
         "description": ""
       },
       {
+        "code": "150diamonds_3",
+        "name": "150 diamonds",
+        "description": ""
+      },
+      {
         "code": "150diamonds",
         "name": "150 Diamants",
         "description": ""
@@ -454,6 +464,11 @@
       {
         "code": "198_credits_2",
         "name": "Obtiens 198 crédits et diamants pour le prix de 110!",
+        "description": ""
+      },
+      {
+        "code": "198_credits_3",
+        "name": "Get 198 credits for the price of 110 credits!",
         "description": ""
       },
       {
@@ -479,6 +494,11 @@
       {
         "code": "220_credits_2",
         "name": "Obtiens 220 crédits et diamants pour le prix de 110!",
+        "description": ""
+      },
+      {
+        "code": "220_credits_3",
+        "name": "Get 220 credits for the price of 110 credits!",
         "description": ""
       },
       {
@@ -32109,7 +32129,7 @@
       {
         "code": "cl_glowingfireflies_bd",
         "name": "Lucioles brillantes",
-        "description": ""
+        "description": "cl_glowingfireflies_bd desc"
       },
       {
         "code": "cl_goodluckbearoutfit_bd",
@@ -52023,6 +52043,11 @@
       },
       {
         "code": "duckets_200_2",
+        "name": "200 Duckets",
+        "description": ""
+      },
+      {
+        "code": "duckets_200_3",
         "name": "200 Duckets",
         "description": ""
       },
