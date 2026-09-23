@@ -38802,9 +38802,44 @@
         "description": "clothing_nft25earrings3 desc"
       },
       {
+        "code": "clothing_nft26_bananahelmet",
+        "name": "clothing_nft26_bananahelmet name",
+        "description": "clothing_nft26_bananahelmet desc"
+      },
+      {
+        "code": "clothing_nft26_birdnest",
+        "name": "clothing_nft26_birdnest name",
+        "description": "clothing_nft26_birdnest desc"
+      },
+      {
         "code": "clothing_nft26_camopaint",
         "name": "clothing_nft26_camopaint name",
         "description": "clothing_nft26_camopaint desc"
+      },
+      {
+        "code": "clothing_nft26_cottoncandy",
+        "name": "clothing_nft26_cottoncandy name",
+        "description": "clothing_nft26_cottoncandy desc"
+      },
+      {
+        "code": "clothing_nft26_cutlery",
+        "name": "clothing_nft26_cutlery name",
+        "description": "clothing_nft26_cutlery desc"
+      },
+      {
+        "code": "clothing_nft26_determinedface",
+        "name": "clothing_nft26_determinedface name",
+        "description": "clothing_nft26_determinedface desc"
+      },
+      {
+        "code": "clothing_nft26_haircomb",
+        "name": "clothing_nft26_haircomb name",
+        "description": "clothing_nft26_haircomb desc"
+      },
+      {
+        "code": "clothing_nft26_hopefulface",
+        "name": "clothing_nft26_hopefulface name",
+        "description": "clothing_nft26_hopefulface desc"
       },
       {
         "code": "clothing_nft26_nftwitchcape",
@@ -38820,6 +38855,16 @@
         "code": "clothing_nft26_tacticalvest",
         "name": "clothing_nft26_tacticalvest name",
         "description": "clothing_nft26_tacticalvest desc"
+      },
+      {
+        "code": "clothing_nft26_trashcan",
+        "name": "clothing_nft26_trashcan name",
+        "description": "clothing_nft26_trashcan desc"
+      },
+      {
+        "code": "clothing_nft26_zigzagmustache",
+        "name": "clothing_nft26_zigzagmustache name",
+        "description": "clothing_nft26_zigzagmustache desc"
       },
       {
         "code": "clothing_nft_bloody",
@@ -85192,6 +85237,11 @@
         "description": "nft_h26_annivfrosty desc"
       },
       {
+        "code": "nft_h26_antiquewidescreen",
+        "name": "nft_h26_antiquewidescreen name",
+        "description": "nft_h26_antiquewidescreen desc"
+      },
+      {
         "code": "nft_h26_aprilshrimp",
         "name": "nft_h26_aprilshrimp name",
         "description": "nft_h26_aprilshrimp desc"
@@ -85270,6 +85320,11 @@
         "code": "nft_h26_broomstickrack",
         "name": "nft_h26_broomstickrack name",
         "description": "nft_h26_broomstickrack desc"
+      },
+      {
+        "code": "nft_h26_cactussofa",
+        "name": "nft_h26_cactussofa name",
+        "description": "nft_h26_cactussofa desc"
       },
       {
         "code": "nft_h26_campfire",
@@ -85487,6 +85542,11 @@
         "description": "nft_h26_movienightchair desc"
       },
       {
+        "code": "nft_h26_overgrownplant",
+        "name": "nft_h26_overgrownplant name",
+        "description": "nft_h26_overgrownplant desc"
+      },
+      {
         "code": "nft_h26_pillowssofa",
         "name": "Tyynysohva",
         "description": "nft_h26_pillowssofa desc"
@@ -85527,6 +85587,11 @@
         "description": "nft_h26_receptionistposter desc"
       },
       {
+        "code": "nft_h26_recyccooncarpet",
+        "name": "nft_h26_recyccooncarpet name",
+        "description": "nft_h26_recyccooncarpet desc"
+      },
+      {
         "code": "nft_h26_retrofuturetv",
         "name": "nft_h26_retrofuturetv name",
         "description": "nft_h26_retrofuturetv desc"
@@ -85550,6 +85615,11 @@
         "code": "nft_h26_rifle_trippy",
         "name": "Spykedeelinen koristekivääri",
         "description": "nft_h26_rifle_trippy desc"
+      },
+      {
+        "code": "nft_h26_royalfootrest",
+        "name": "nft_h26_royalfootrest name",
+        "description": "nft_h26_royalfootrest desc"
       },
       {
         "code": "nft_h26_sandmangnome",
@@ -85585,6 +85655,11 @@
         "code": "nft_h26_spellingredients",
         "name": "nft_h26_spellingredients name",
         "description": "nft_h26_spellingredients desc"
+      },
+      {
+        "code": "nft_h26_springchair",
+        "name": "nft_h26_springchair name",
+        "description": "nft_h26_springchair desc"
       },
       {
         "code": "nft_h26_sunlounger",
@@ -97735,6 +97810,81 @@
         "code": "rb_r25_dragon_bd",
         "name": "Majesteettinen musta lohikäärmeen munapatsas",
         "description": ""
+      },
+      {
+        "code": "rec26_artsupplies",
+        "name": "rec26_artsupplies name",
+        "description": "rec26_artsupplies desc"
+      },
+      {
+        "code": "rec26_cloth_painthat",
+        "name": "rec26_cloth_painthat name",
+        "description": "rec26_cloth_painthat desc"
+      },
+      {
+        "code": "rec26_cloth_paintoutfit",
+        "name": "rec26_cloth_paintoutfit name",
+        "description": "rec26_cloth_paintoutfit desc"
+      },
+      {
+        "code": "rec26_paintbust",
+        "name": "rec26_paintbust name",
+        "description": "rec26_paintbust desc"
+      },
+      {
+        "code": "rec26_paintcans",
+        "name": "rec26_paintcans name",
+        "description": "rec26_paintcans desc"
+      },
+      {
+        "code": "rec26_paintchair",
+        "name": "rec26_paintchair name",
+        "description": "rec26_paintchair desc"
+      },
+      {
+        "code": "rec26_paintcolumn",
+        "name": "rec26_paintcolumn name",
+        "description": "rec26_paintcolumn desc"
+      },
+      {
+        "code": "rec26_paintcouch",
+        "name": "rec26_paintcouch name",
+        "description": "rec26_paintcouch desc"
+      },
+      {
+        "code": "rec26_paintcupboard",
+        "name": "rec26_paintcupboard name",
+        "description": "rec26_paintcupboard desc"
+      },
+      {
+        "code": "rec26_painteasel",
+        "name": "rec26_painteasel name",
+        "description": "rec26_painteasel desc"
+      },
+      {
+        "code": "rec26_paintlamp",
+        "name": "rec26_paintlamp name",
+        "description": "rec26_paintlamp desc"
+      },
+      {
+        "code": "rec26_paintshelf",
+        "name": "rec26_paintshelf name",
+        "description": "rec26_paintshelf desc"
+      },
+      {
+        "code": "rec26_paintsplatter",
+        "name": "rec26_paintsplatter name",
+        "description": "rec26_paintsplatter desc"
+      },
+      {
+        "code": "rec26_painttable",
+        "name": "rec26_painttable name",
+        "description": "rec26_painttable desc"
+      },
+      {
+        "code": "rec26_paintwallart",
+        "name": "rec26_paintwallart name",
+        "description": "rec26_paintwallart desc"
       },
       {
         "code": "recycler_basketplant",

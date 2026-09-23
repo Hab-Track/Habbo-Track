@@ -31701,6 +31701,7 @@ notification.invisible.room=Deze kamer is verborgen voor andere Habbo's. Wil je 
 notification.kicked_from_room=Onee, je bent uit de kamer gekickt.
 notification.moderation.alert.message=Je hebt een waarschuwing gehad voor {reason}. Dit was gedetecteerd door {sanctionSource}. De beslissing om je een waarschuwing te geven is genomen door {decidedBy}. Je kunt binnen 6 maanden na de datum bezwaar maken via {link}.
 notification.moderation.ambassador.mute.message=Je hebt een typverbod gekregen door een Ambassadeur {expiryDate} Je kunt binnen 6 maanden na de datum bezwaar maken via {link}.
+notification.moderation.cfh_lock.message=Je kunt tijdelijk geen nieuwe meldingen indienen voor {reason} tot {expiryDate}. Dit was gedetecteerd door {sanctionSource}. Deze beslissing is genomen door {decidedBy}. Je kunt binnen 6 maanden na de datum bezwaar maken via {link}.
 notification.moderation.decided.automatically=door een automatisch systeem
 notification.moderation.decided.manually=door een menselijke moderator
 notification.moderation.dsa.disclaimer=Je verliest hierbij niet jouw rechten om gebruik te maken van buitengerechtelijke geschillenbeslechting of om gerechtelijke stappen te ondernemen, volgens de toegepaste wetgeving.

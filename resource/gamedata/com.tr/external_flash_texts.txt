@@ -40650,6 +40650,7 @@ notification.invisible.room=Bu oda diğer Habbo oyuncularından gizlidir. Otelin
 notification.kicked_from_room=Whee, you were kicked from the room.
 notification.moderation.alert.message=Uyarı sebebi: {reason}. Bu durum {sanctionSource} tarafından tespit edildi ve uyarı {decidedBy}tarafından kararlaştırıldı. 6 ay içinde {link}üzerinden itiraz edebilirsin.
 notification.moderation.ambassador.mute.message=Hesabın Büyükelçiler tarafından {expiryDate} tarihine kadar sessize alındı. {link} üzerinden 6 ay içerisinde itiraz edebilirsiniz. 
+notification.moderation.cfh_lock.message={expiryDate}Tarihine kadar{reason} sebebiyle rapor göndermeniz geçici olarak kısıtlanmıştır. {sanctionSource} tarafından tesbit edilmiştir ve ceza uygulanmasına karar verilmiştir {decidedBy} 6 ay içinde itiraz edebilir veya acil durumları bize buradan bildirebilirsiniz {link}.
 notification.moderation.decided.automatically=otomatik sistem tarafından
 notification.moderation.decided.manually=insan moderatör tarafından
 notification.moderation.dsa.disclaimer=Bu durum, yürürlükteki yasalara uygun olarak yargı dışı uyuşmazlık çözüm yollarına başvurma veya yargı yoluna başvurma haklarınıza halel getirmez.

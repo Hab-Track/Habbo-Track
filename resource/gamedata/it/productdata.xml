@@ -58824,12 +58824,68 @@
             clothing_nft25earrings3 desc
         </description>
     </product>
+    <product code="clothing_nft26_bananahelmet">
+        <name>
+            clothing_nft26_bananahelmet name
+        </name>
+        <description>
+            clothing_nft26_bananahelmet desc
+        </description>
+    </product>
+    <product code="clothing_nft26_birdnest">
+        <name>
+            clothing_nft26_birdnest name
+        </name>
+        <description>
+            clothing_nft26_birdnest desc
+        </description>
+    </product>
     <product code="clothing_nft26_camopaint">
         <name>
             clothing_nft26_camopaint name
         </name>
         <description>
             clothing_nft26_camopaint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_cottoncandy">
+        <name>
+            clothing_nft26_cottoncandy name
+        </name>
+        <description>
+            clothing_nft26_cottoncandy desc
+        </description>
+    </product>
+    <product code="clothing_nft26_cutlery">
+        <name>
+            clothing_nft26_cutlery name
+        </name>
+        <description>
+            clothing_nft26_cutlery desc
+        </description>
+    </product>
+    <product code="clothing_nft26_determinedface">
+        <name>
+            clothing_nft26_determinedface name
+        </name>
+        <description>
+            clothing_nft26_determinedface desc
+        </description>
+    </product>
+    <product code="clothing_nft26_haircomb">
+        <name>
+            clothing_nft26_haircomb name
+        </name>
+        <description>
+            clothing_nft26_haircomb desc
+        </description>
+    </product>
+    <product code="clothing_nft26_hopefulface">
+        <name>
+            clothing_nft26_hopefulface name
+        </name>
+        <description>
+            clothing_nft26_hopefulface desc
         </description>
     </product>
     <product code="clothing_nft26_nftwitchcape">
@@ -58854,6 +58910,22 @@
         </name>
         <description>
             clothing_nft26_tacticalvest desc
+        </description>
+    </product>
+    <product code="clothing_nft26_trashcan">
+        <name>
+            clothing_nft26_trashcan name
+        </name>
+        <description>
+            clothing_nft26_trashcan desc
+        </description>
+    </product>
+    <product code="clothing_nft26_zigzagmustache">
+        <name>
+            clothing_nft26_zigzagmustache name
+        </name>
+        <description>
+            clothing_nft26_zigzagmustache desc
         </description>
     </product>
     <product code="clothing_nft_bloody">
@@ -131220,6 +131292,14 @@
             nft_h26_annivfrosty desc
         </description>
     </product>
+    <product code="nft_h26_antiquewidescreen">
+        <name>
+            nft_h26_antiquewidescreen name
+        </name>
+        <description>
+            nft_h26_antiquewidescreen desc
+        </description>
+    </product>
     <product code="nft_h26_aprilshrimp">
         <name>
             nft_h26_aprilshrimp name
@@ -131344,6 +131424,14 @@
         </name>
         <description>
             nft_h26_broomstickrack desc
+        </description>
+    </product>
+    <product code="nft_h26_cactussofa">
+        <name>
+            nft_h26_cactussofa name
+        </name>
+        <description>
+            nft_h26_cactussofa desc
         </description>
     </product>
     <product code="nft_h26_campfire">
@@ -131690,6 +131778,14 @@
             nft_h26_movienightchair desc
         </description>
     </product>
+    <product code="nft_h26_overgrownplant">
+        <name>
+            nft_h26_overgrownplant name
+        </name>
+        <description>
+            nft_h26_overgrownplant desc
+        </description>
+    </product>
     <product code="nft_h26_pillowssofa">
         <name>
             Cuscino del Divano
@@ -131754,6 +131850,14 @@
             nft_h26_receptionistposter desc
         </description>
     </product>
+    <product code="nft_h26_recyccooncarpet">
+        <name>
+            nft_h26_recyccooncarpet name
+        </name>
+        <description>
+            nft_h26_recyccooncarpet desc
+        </description>
+    </product>
     <product code="nft_h26_retrofuturetv">
         <name>
             nft_h26_retrofuturetv name
@@ -131792,6 +131896,14 @@
         </name>
         <description>
             nft_h26_rifle_trippy desc
+        </description>
+    </product>
+    <product code="nft_h26_royalfootrest">
+        <name>
+            nft_h26_royalfootrest name
+        </name>
+        <description>
+            nft_h26_royalfootrest desc
         </description>
     </product>
     <product code="nft_h26_sandmangnome">
@@ -131848,6 +131960,14 @@
         </name>
         <description>
             nft_h26_spellingredients desc
+        </description>
+    </product>
+    <product code="nft_h26_springchair">
+        <name>
+            nft_h26_springchair name
+        </name>
+        <description>
+            nft_h26_springchair desc
         </description>
     </product>
     <product code="nft_h26_sunlounger">
@@ -150881,6 +151001,126 @@
             Statua Uovo Dragone Nero Regale
         </name>
         <description></description>
+    </product>
+    <product code="rec26_artsupplies">
+        <name>
+            rec26_artsupplies name
+        </name>
+        <description>
+            rec26_artsupplies desc
+        </description>
+    </product>
+    <product code="rec26_cloth_painthat">
+        <name>
+            rec26_cloth_painthat name
+        </name>
+        <description>
+            rec26_cloth_painthat desc
+        </description>
+    </product>
+    <product code="rec26_cloth_paintoutfit">
+        <name>
+            rec26_cloth_paintoutfit name
+        </name>
+        <description>
+            rec26_cloth_paintoutfit desc
+        </description>
+    </product>
+    <product code="rec26_paintbust">
+        <name>
+            rec26_paintbust name
+        </name>
+        <description>
+            rec26_paintbust desc
+        </description>
+    </product>
+    <product code="rec26_paintcans">
+        <name>
+            rec26_paintcans name
+        </name>
+        <description>
+            rec26_paintcans desc
+        </description>
+    </product>
+    <product code="rec26_paintchair">
+        <name>
+            rec26_paintchair name
+        </name>
+        <description>
+            rec26_paintchair desc
+        </description>
+    </product>
+    <product code="rec26_paintcolumn">
+        <name>
+            rec26_paintcolumn name
+        </name>
+        <description>
+            rec26_paintcolumn desc
+        </description>
+    </product>
+    <product code="rec26_paintcouch">
+        <name>
+            rec26_paintcouch name
+        </name>
+        <description>
+            rec26_paintcouch desc
+        </description>
+    </product>
+    <product code="rec26_paintcupboard">
+        <name>
+            rec26_paintcupboard name
+        </name>
+        <description>
+            rec26_paintcupboard desc
+        </description>
+    </product>
+    <product code="rec26_painteasel">
+        <name>
+            rec26_painteasel name
+        </name>
+        <description>
+            rec26_painteasel desc
+        </description>
+    </product>
+    <product code="rec26_paintlamp">
+        <name>
+            rec26_paintlamp name
+        </name>
+        <description>
+            rec26_paintlamp desc
+        </description>
+    </product>
+    <product code="rec26_paintshelf">
+        <name>
+            rec26_paintshelf name
+        </name>
+        <description>
+            rec26_paintshelf desc
+        </description>
+    </product>
+    <product code="rec26_paintsplatter">
+        <name>
+            rec26_paintsplatter name
+        </name>
+        <description>
+            rec26_paintsplatter desc
+        </description>
+    </product>
+    <product code="rec26_painttable">
+        <name>
+            rec26_painttable name
+        </name>
+        <description>
+            rec26_painttable desc
+        </description>
+    </product>
+    <product code="rec26_paintwallart">
+        <name>
+            rec26_paintwallart name
+        </name>
+        <description>
+            rec26_paintwallart desc
+        </description>
     </product>
     <product code="recycler_basketplant">
         <name>

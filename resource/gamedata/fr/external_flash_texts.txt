@@ -37306,6 +37306,7 @@ notification.invisible.room=Cet appart est invisible pour les autres joueurs. Vo
 notification.kicked_from_room=Expulsé de l'appart
 notification.moderation.alert.message=Tu as été alerté pour {reason}. Ceci a été détecté par {sanctionSource} et l'alerte a été décidée par {decidedBy}. Tu peux faire appel dans un délai de 6 mois via {link}.
 notification.moderation.ambassador.mute.message=Tu as été mis en sourdine par un Ambassadeur jusqu’au {expiryDate}.  Tu peux faire appel dans un délai de 6 mois via {link}.
+notification.moderation.cfh_lock.message=Vous ne pouvez temporairement plus envoyer de rapports pour {reason} jusqu'au {expiryDate}. Cela a été détecté par {sanctionSource}, et la sanction a été décidée.{decidedBy} Vous pouvez faire appel dans un délai de 6 mois ou signaler toute urgence à : {link}.
 notification.moderation.decided.automatically=par un système automatisé
 notification.moderation.decided.manually=par un modérateur humain
 notification.moderation.dsa.disclaimer=Cela ne porte pas atteinte aux droits dont vous disposez pour recourir à des mécanismes extrajudiciaires de règlement des litiges ou pour demander réparation devant les tribunaux, conformément à la législation applicable.

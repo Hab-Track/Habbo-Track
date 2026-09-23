@@ -41701,6 +41701,7 @@ notification.invisible.room=Dieser Raum ist für andere Habbos nicht sichtbar. W
 notification.kicked_from_room=Buuuh! Du wurdest während des Spiels gekickt.
 notification.moderation.alert.message=Du hast eine Verwarnung erhalten wegen {reason}. Es wurde entdeckt {sanctionSource} und die Verwarnung beschlossen {decidedBy}. Du kannst innerhalb von 6 Monaten hier Einspruch einlegen: {link}.
 notification.moderation.ambassador.mute.message=Du wurdest von einem Botschafter bis {expiryDate} stummgeschaltet. Du kannst innerhalb von 6 Monaten hier Einspruch einlegen: {link}.
+notification.moderation.cfh_lock.message=Du bist vorübergehend vom Einreichen von Meldungen gesperrt wegen {reason}bis {expiryDate}. Es wurde entdeckt von{sanctionSource}und die Sanktion beschlossen von {decidedBy}. Du kannst innerhalb von 6 Monaten Einspruch einlegen oder Dringendes melden bei {link}.
 notification.moderation.decided.automatically=von einem automatischen System
 notification.moderation.decided.manually=von einem menschlichen Moderator
 notification.moderation.dsa.disclaimer=Dies berührt nicht deine etwaigen Rechte, gemäß geltendem Recht außergerichtliche Streitbeilegungsmechanismen in Anspruch zu nehmen oder gerichtlichen Rechtsschutz zu suchen.

@@ -40771,6 +40771,7 @@ notification.invisible.room=La sala está oculta para el resto de Habbos. ¿Te g
 notification.kicked_from_room=Has sido echado de la sala
 notification.moderation.alert.message=Has recibido una alerta por {reason}. Esta acción fue detectada por {sanctionSource} y la alerta fue decidida por {decidedBy}. Puedes presentar alegaciones durante los seis meses siguientes a través de {link}.
 notification.moderation.ambassador.mute.message=Tu cuenta ha sido muteada por un Embajador hasta {expiryDate}. Puedes presentar alegaciones durante los seis meses siguientes a través de {link}.
+notification.moderation.cfh_lock.message=Se te ha restringido temporalmente la posibilidad de enviar denuncias por {reason} hasta{expiryDate}. Esto fue detectado por {sanctionSource} y la sanción fue decidida por {decidedBy}. Puedes realizar una reclamación en el plazo de 6 meses o comunicar cualquier problema urgente a {link}.
 notification.moderation.decided.automatically=un sistema automático
 notification.moderation.decided.manually=un moderador humano
 notification.moderation.dsa.disclaimer=Lo anterior se entiende sin perjuicio de cualquier derecho que te asista para recurrir a mecanismos de resolución extrajudicial de conflictos o para buscar reparación judicial, de conformidad con la legislación aplicable.

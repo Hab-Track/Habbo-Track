@@ -33591,6 +33591,7 @@ notification.invisible.room=Questa Stanza è nascosta agli altri Habbo. Vuoi mos
 notification.kicked_from_room=Sei stato cacciato dalla Stanza.
 notification.moderation.alert.message=Hai ricevuto un'allerta per{reason} Questo è stato rilevato da {sanctionSource} e l'allerta è stata decisa da {decidedBy}. Puoi fare ricorso entro 6 mesi su {link}.
 notification.moderation.ambassador.mute.message=Sei stato mutato da un Ambasciatore fino a {expiryDate}. Puoi fare ricorso entro 6 mesi su {link}.
+notification.moderation.cfh_lock.message=Ti è stato temporaneamente vietato l'invio di segnalazioni {reason}fino al {expiryDate}. Questo è stato rilevato da {sanctionSource}, e la sanzione è stata decisa {decidedBy}. Puoi fare ricorso entro 6 mesi o segnalare casi urgenti a {link}.
 notification.moderation.decided.automatically=da un sistema automatizzato
 notification.moderation.decided.manually=da un moderatore umano
 notification.moderation.dsa.disclaimer=Ciò avviene fatto salvo qualsiasi diritto tu possa avere di ricorrere a meccanismi di risoluzione extragiudiziale delle controversie o di adire le vie giudiziarie, in conformità alla legge applicabile.
