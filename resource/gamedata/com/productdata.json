@@ -87882,6 +87882,11 @@
         "description": "By Pete Modernon"
       },
       {
+        "code": "nft_diamond_painting18",
+        "name": "nft_diamond_painting18 name",
+        "description": "nft_diamond_painting18 desc"
+      },
+      {
         "code": "nft_diamond_painting20",
         "name": "Lunch atop the Hotel",
         "description": "diamond_painting20 desc"
@@ -88235,6 +88240,11 @@
         "code": "nft_door_test",
         "name": "nft_door_test",
         "description": ""
+      },
+      {
+        "code": "nft_duck_zombie",
+        "name": "nft_duck_zombie name",
+        "description": "nft_duck_zombie desc"
       },
       {
         "code": "nft_easel_buildcomp",
@@ -92392,6 +92402,16 @@
         "description": "$product_hologram_name$"
       },
       {
+        "code": "nft_hween09_organ",
+        "name": "nft_hween09_organ",
+        "description": "nft_hween09_organ"
+      },
+      {
+        "code": "nft_hween11_fountain",
+        "name": "nft_hween11_fountain name",
+        "description": "nft_hween11_fountain desc"
+      },
+      {
         "code": "nft_hween12_duck",
         "name": "Duck Ride",
         "description": "nft_hween12_duck desc"
@@ -92400,6 +92420,11 @@
         "code": "nft_hween12_mirror",
         "name": "Magic Mirror",
         "description": "Magic Mirror"
+      },
+      {
+        "code": "nft_hween12_moon",
+        "name": "nft_hween12_moon name",
+        "description": "nft_hween12_moon desc"
       },
       {
         "code": "nft_hween12_wolf",
@@ -92417,14 +92442,119 @@
         "description": "All's wool, that ends wool"
       },
       {
+        "code": "nft_hween13_throne",
+        "name": "nft_hween13_throne name",
+        "description": "nft_hween13_throne desc"
+      },
+      {
+        "code": "nft_hween14_doll10",
+        "name": "nft_hween14_doll10 name",
+        "description": "nft_hween14_doll10 desc"
+      },
+      {
+        "code": "nft_hween14_doll1",
+        "name": "nft_hween14_doll1 name",
+        "description": "nft_hween14_doll1 desc"
+      },
+      {
+        "code": "nft_hween14_doll2",
+        "name": "nft_hween14_doll2 name",
+        "description": "nft_hween14_doll2 desc"
+      },
+      {
+        "code": "nft_hween14_doll3",
+        "name": "nft_hween14_doll3 name",
+        "description": "nft_hween14_doll3 desc"
+      },
+      {
+        "code": "nft_hween14_doll4",
+        "name": "nft_hween14_doll4 name",
+        "description": "nft_hween14_doll4 desc"
+      },
+      {
+        "code": "nft_hween14_doll5",
+        "name": "nft_hween14_doll5 name",
+        "description": "nft_hween14_doll5 desc"
+      },
+      {
+        "code": "nft_hween14_doll6",
+        "name": "nft_hween14_doll6 name",
+        "description": "nft_hween14_doll6 desc"
+      },
+      {
+        "code": "nft_hween14_doll7",
+        "name": "nft_hween14_doll7 name",
+        "description": "nft_hween14_doll7 desc"
+      },
+      {
+        "code": "nft_hween14_doll8",
+        "name": "nft_hween14_doll8 name",
+        "description": "nft_hween14_doll8 desc"
+      },
+      {
+        "code": "nft_hween14_doll9",
+        "name": "nft_hween14_doll9 name",
+        "description": "nft_hween14_doll9 desc"
+      },
+      {
         "code": "nft_hween14_rare1",
         "name": "Skull Fountain",
         "description": "nft_hween14_rare1 desc"
       },
       {
+        "code": "nft_hween15_evilfrank",
+        "name": "nft_hween15_evilfrank name",
+        "description": "nft_hween15_evilfrank desc"
+      },
+      {
+        "code": "nft_hween15_evilraider",
+        "name": "nft_hween15_evilraider name",
+        "description": "nft_hween15_evilraider desc"
+      },
+      {
+        "code": "nft_hween15_horseman5",
+        "name": "nft_hween15_horseman5 name",
+        "description": "nft_hween15_horseman5 desc"
+      },
+      {
+        "code": "nft_hween15_saintini",
+        "name": "nft_hween15_saintini name",
+        "description": "nft_hween15_saintini desc"
+      },
+      {
+        "code": "nft_hween15_saintta",
+        "name": "nft_hween15_saintta name",
+        "description": "nft_hween15_saintta desc"
+      },
+      {
+        "code": "nft_hween_c16_cabinet2",
+        "name": "nft_hween_c16_cabinet2 name",
+        "description": "nft_hween_c16_cabinet2 desc"
+      },
+      {
+        "code": "nft_hween_c16_cabinet",
+        "name": "nft_hween_c16_cabinet name",
+        "description": "nft_hween_c16_cabinet desc"
+      },
+      {
+        "code": "nft_hween_c17_mimic",
+        "name": "nft_hween_c17_mimic name",
+        "description": "nft_hween_c17_mimic desc"
+      },
+      {
         "code": "nft_hween_r18_antiquechemset",
         "name": "Antique Chemistry Set",
         "description": "nft_hween_r18_antiquechemset desc"
+      },
+      {
+        "code": "nft_hween_r19_weepingwillow",
+        "name": "nft_hween_r19_weepingwillow name",
+        "description": "nft_hween_r19_weepingwillow desc"
+      },
+      {
+        "code": "nft_hween_r19_witchfamiliar",
+        "name": "nft_hween_r19_witchfamiliar name",
+        "description": "nft_hween_r19_witchfamiliar desc"
       },
       {
         "code": "nft_industrialfan",
@@ -128200,6 +128330,16 @@
         "code": "wf_teammeter4",
         "name": "Green Team Meter",
         "description": "wf_teammeter4 desc"
+      },
+      {
+        "code": "wf_test_26secret1",
+        "name": "wf_test_26secret1 name",
+        "description": "wf_test_26secret1 desc"
+      },
+      {
+        "code": "wf_test_26secret2",
+        "name": "wf_test_26secret2 name",
+        "description": "wf_test_26secret2 desc"
       },
       {
         "code": "wf_test_act",
