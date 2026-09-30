@@ -21488,7 +21488,7 @@
     </product>
     <product code="avatar_effect247">
         <name>
-            EnchantedBroomstick_name
+            Verzauberter Besenstiel
         </name>
         <description>
             EnchantedBroomstick_desc
@@ -54787,7 +54787,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_ducketleafcrown">
         <name>
-            clothing_ducketleafcrown name
+            Autumn Leaf Crown
         </name>
         <description>
             clothing_ducketleafcrown desc
@@ -58301,7 +58301,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nft26_nftwitchcape">
         <name>
-            clothing_nft26_nftwitchcape name
+            Moderner Hexenumhang
         </name>
         <description>
             clothing_nft26_nftwitchcape desc
@@ -78061,6 +78061,18 @@ Kunstfertigkeit.
         </name>
         <description></description>
     </product>
+    <product code="dia_c26_appletree">
+        <name>
+            Autumn Apple Tree
+        </name>
+        <description></description>
+    </product>
+    <product code="dia_c26_autumncandle">
+        <name>
+            Autumn Candle
+        </name>
+        <description></description>
+    </product>
     <product code="dia_c26_charcuterie">
         <name>
             Aufschnittplatte
@@ -78070,6 +78082,18 @@ Kunstfertigkeit.
     <product code="dia_c26_cosyblanket">
         <name>
             Gemütliche Picknickdecke
+        </name>
+        <description></description>
+    </product>
+    <product code="dia_c26_ducketleafcrown">
+        <name>
+            Autumn Leaf Crown
+        </name>
+        <description></description>
+    </product>
+    <product code="dia_c26_leafpile">
+        <name>
+            Lively Leaf Pile
         </name>
         <description></description>
     </product>
@@ -81435,7 +81459,7 @@ Kunstfertigkeit.
     </product>
     <product code="ducket_c26_appletree">
         <name>
-            ducket_c26_appletree name
+            Autumn Apple Tree
         </name>
         <description>
             ducket_c26_appletree desc
@@ -81443,7 +81467,7 @@ Kunstfertigkeit.
     </product>
     <product code="ducket_c26_autumncandle">
         <name>
-            ducket_c26_autumncandle name
+            Autumn Candle
         </name>
         <description>
             ducket_c26_autumncandle desc
@@ -81603,7 +81627,7 @@ Kunstfertigkeit.
     </product>
     <product code="ducket_c26_leafpile">
         <name>
-            ducket_c26_leafpile name
+            Lively Leaf Pile
         </name>
         <description>
             ducket_c26_leafpile desc
@@ -92453,7 +92477,7 @@ Kunstfertigkeit.
     </product>
     <product code="giftbox_c26_crackable_hween">
         <name>
-            giftbox_c26_crackable_hween name
+            2026 Habboween Geschenkbox
         </name>
         <description>
             giftbox_c26_crackable_hween desc
@@ -106035,7 +106059,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_batpillow">
         <name>
-            hween_c26_batpillow name
+            Fledermauskissen
         </name>
         <description>
             hween_c26_batpillow desc
@@ -106043,7 +106067,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_bookshelf">
         <name>
-            hween_c26_bookshelf name
+            Deckenhohes Bücherregal
         </name>
         <description>
             hween_c26_bookshelf desc
@@ -106051,7 +106075,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_cage">
         <name>
-            hween_c26_cage name
+            Dekorativer Käfig
         </name>
         <description>
             hween_c26_cage desc
@@ -106059,7 +106083,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_circle">
         <name>
-            hween_c26_circle name
+            Zauberkreis
         </name>
         <description>
             hween_c26_circle desc
@@ -106067,7 +106091,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_darkfiend">
         <name>
-            hween_c26_darkfiend name
+            Dunkler Geist
         </name>
         <description>
             hween_c26_darkfiend desc
@@ -106075,7 +106099,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_darkfiendb">
         <name>
-            hween_c26_darkfiendb name
+            Dunkler Geist
         </name>
         <description>
             hween_c26_darkfiendb desc
@@ -106083,7 +106107,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_dresser">
         <name>
-            hween_c26_dresser name
+            Antike Kommode
         </name>
         <description>
             hween_c26_dresser desc
@@ -106091,7 +106115,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_dresserb">
         <name>
-            hween_c26_dresserb name
+            Antike Kommode
         </name>
         <description>
             hween_c26_dresserb desc
@@ -106099,7 +106123,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_gallerywall">
         <name>
-            hween_c26_gallerywall name
+            Stimmungsvolle Galleriewand
         </name>
         <description>
             hween_c26_gallerywall desc
@@ -106107,7 +106131,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_glassdisplay">
         <name>
-            hween_c26_glassdisplay name
+            Morbide Glas-Vitrine
         </name>
         <description>
             hween_c26_glassdisplay desc
@@ -106115,7 +106139,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_gothcandle">
         <name>
-            hween_c26_gothcandle name
+            Gotische Kerze
         </name>
         <description>
             hween_c26_gothcandle desc
@@ -106123,7 +106147,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_hatchteleport">
         <name>
-            hween_c26_hatchteleport name
+            Bodenklappen-Teleport
         </name>
         <description>
             hween_c26_hatchteleport desc
@@ -106131,7 +106155,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_hauntedmirror">
         <name>
-            hween_c26_hauntedmirror name
+            Verhexter Spiegel
         </name>
         <description>
             hween_c26_hauntedmirror desc
@@ -106139,7 +106163,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_ivycandle">
         <name>
-            hween_c26_ivycandle name
+            Mit Efeu bedeckte Kerze
         </name>
         <description>
             hween_c26_ivycandle desc
@@ -106147,7 +106171,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_ivystatue">
         <name>
-            hween_c26_ivystatue name
+            Mit Efeu bedeckte Statue
         </name>
         <description>
             hween_c26_ivystatue desc
@@ -106155,7 +106179,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_letteropener">
         <name>
-            hween_c26_letteropener name
+            Eleganter Brieföffner
         </name>
         <description>
             hween_c26_letteropener desc
@@ -106163,7 +106187,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_letters">
         <name>
-            hween_c26_letters name
+            Vergessene Briefe
         </name>
         <description>
             hween_c26_letters desc
@@ -106171,7 +106195,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_readingchair">
         <name>
-            hween_c26_readingchair name
+            Vintage-Lesesessel
         </name>
         <description>
             hween_c26_readingchair desc
@@ -106179,7 +106203,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_readingcouch">
         <name>
-            hween_c26_readingcouch name
+            Vintage-Lesecouch
         </name>
         <description>
             hween_c26_readingcouch desc
@@ -106187,7 +106211,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_secretdoor">
         <name>
-            hween_c26_secretdoor name
+            Bücherregal-Geheimtür
         </name>
         <description>
             hween_c26_secretdoor desc
@@ -106195,7 +106219,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_skullvase">
         <name>
-            hween_c26_skullvase name
+            Totenkopf-Vase
         </name>
         <description>
             hween_c26_skullvase desc
@@ -106203,7 +106227,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_window">
         <name>
-            hween_c26_window name
+            Bibliothek-Fenster
         </name>
         <description>
             hween_c26_window desc
@@ -106211,15 +106235,33 @@ Kunstfertigkeit.
     </product>
     <product code="hween_c26_wornfloorboards">
         <name>
-            hween_c26_wornfloorboards name
+            Abgenutzte Diele
         </name>
         <description>
             hween_c26_wornfloorboards desc
         </description>
     </product>
+    <product code="hween_cl_r26_darkaura_bd">
+        <name>
+            Aura der Dunkelheit
+        </name>
+        <description></description>
+    </product>
+    <product code="hween_cl_r26_pumpkin_bd">
+        <name>
+            Besessener Kürbis
+        </name>
+        <description></description>
+    </product>
+    <product code="hween_cl_r26_wizard_bd">
+        <name>
+            Zauberergewand
+        </name>
+        <description></description>
+    </product>
     <product code="hween_cloth_c26_batfriend">
         <name>
-            hween_cloth_c26_batfriend name
+            Freundliche Fledermaus
         </name>
         <description>
             hween_cloth_c26_batfriend desc
@@ -106227,7 +106269,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_batonesie">
         <name>
-            hween_cloth_c26_batonesie name
+            Fledermaus-Einteiler
         </name>
         <description>
             hween_cloth_c26_batonesie desc
@@ -106235,7 +106277,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_cat">
         <name>
-            hween_cloth_c26_cat name
+            Perserkatzengeist
         </name>
         <description>
             hween_cloth_c26_cat desc
@@ -106243,7 +106285,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_checkerskirt">
         <name>
-            hween_cloth_c26_checkerskirt name
+            Karierter Rock
         </name>
         <description>
             hween_cloth_c26_checkerskirt desc
@@ -106251,7 +106293,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_dollhairdo">
         <name>
-            hween_cloth_c26_dollhairdo name
+            Puppenhafte Frisur
         </name>
         <description>
             hween_cloth_c26_dollhairdo desc
@@ -106259,7 +106301,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_gothicmakeup">
         <name>
-            hween_cloth_c26_gothicmakeup name
+            Gotisches Make-Up
         </name>
         <description>
             hween_cloth_c26_gothicmakeup desc
@@ -106267,7 +106309,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_hauntedpuppet">
         <name>
-            hween_cloth_c26_hauntedpuppet name
+            Spukende Marionette
         </name>
         <description>
             hween_cloth_c26_hauntedpuppet desc
@@ -106275,7 +106317,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_loosesocks">
         <name>
-            hween_cloth_c26_loosesocks name
+            Lockere Stulpen
         </name>
         <description>
             hween_cloth_c26_loosesocks desc
@@ -106283,7 +106325,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_raven">
         <name>
-            hween_cloth_c26_raven name
+            Der Rabe
         </name>
         <description>
             hween_cloth_c26_raven desc
@@ -106291,7 +106333,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_ruffledcuffs">
         <name>
-            hween_cloth_c26_ruffledcuffs name
+            Rüschenmanschetten
         </name>
         <description>
             hween_cloth_c26_ruffledcuffs desc
@@ -106299,7 +106341,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_skeletalheadband">
         <name>
-            hween_cloth_c26_skeletalheadband name
+            Skelett-Stirnband
         </name>
         <description>
             hween_cloth_c26_skeletalheadband desc
@@ -106307,7 +106349,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_studentcardigan">
         <name>
-            hween_cloth_c26_studentcardigan name
+            Fleissiger Schüler-Strickjacke
         </name>
         <description>
             hween_cloth_c26_studentcardigan desc
@@ -106315,7 +106357,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_tinyowl">
         <name>
-            hween_cloth_c26_tinyowl name
+            Winzige Eule
         </name>
         <description>
             hween_cloth_c26_tinyowl desc
@@ -106323,7 +106365,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_vintagebag">
         <name>
-            hween_cloth_c26_vintagebag name
+            Vintage-Büchertasche
         </name>
         <description>
             hween_cloth_c26_vintagebag desc
@@ -106331,7 +106373,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_c26_wizardcurls">
         <name>
-            hween_cloth_c26_wizardcurls name
+            Zauberer-Locken
         </name>
         <description>
             hween_cloth_c26_wizardcurls desc
@@ -106339,7 +106381,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_r26_darkaura">
         <name>
-            hween_cloth_r26_darkaura name
+            Aura der Dunkelheit
         </name>
         <description>
             hween_cloth_r26_darkaura desc
@@ -106347,7 +106389,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_r26_possessedpumpkin">
         <name>
-            hween_cloth_r26_possessedpumpkin name
+            Besessener Kürbis
         </name>
         <description>
             hween_cloth_r26_possessedpumpkin desc
@@ -106355,7 +106397,7 @@ Kunstfertigkeit.
     </product>
     <product code="hween_cloth_r26_wizardgarb">
         <name>
-            hween_cloth_r26_wizardgarb name
+            Zauberergewand
         </name>
         <description>
             hween_cloth_r26_wizardgarb desc
@@ -106511,11 +106553,17 @@ Kunstfertigkeit.
     </product>
     <product code="hween_ltd26_curseddragonlamp">
         <name>
-            hween_ltd26_curseddragonlamp name
+            Verfluchte Drachenlampe
         </name>
         <description>
             hween_ltd26_curseddragonlamp desc
         </description>
+    </product>
+    <product code="hween_ltd26_curselamp_bd">
+        <name>
+            Verfluchte Drachenlampe
+        </name>
+        <description></description>
     </product>
     <product code="hween_r16_chandelier2">
         <name>
@@ -106869,17 +106917,29 @@ Kunstfertigkeit.
             hween_r25_specimen desc
         </description>
     </product>
+    <product code="hween_r26_cauldron_bd">
+        <name>
+            Verfluchter Kessel
+        </name>
+        <description></description>
+    </product>
     <product code="hween_r26_cursedcauldron">
         <name>
-            hween_r26_cursedcauldron name
+            Verfluchter Kessel
         </name>
         <description>
             hween_r26_cursedcauldron desc
         </description>
     </product>
+    <product code="hween_r26_gargoyle_bd">
+        <name>
+            Wasserspeier-Brunnen
+        </name>
+        <description></description>
+    </product>
     <product code="hween_r26_gargoylefountain">
         <name>
-            hween_r26_gargoylefountain name
+            Wasserspeier-Brunnen
         </name>
         <description>
             hween_r26_gargoylefountain desc
@@ -130639,7 +130699,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_broomstickrack">
         <name>
-            nft_h26_broomstickrack name
+            Besenhalterung
         </name>
         <description>
             nft_h26_broomstickrack desc
@@ -130679,7 +130739,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_cauldron_bronze">
         <name>
-            nft_h26_cauldron_bronze name
+            Bronze-Kessel
         </name>
         <description>
             nft_h26_cauldron_bronze desc
@@ -130687,7 +130747,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_cauldron_gold">
         <name>
-            nft_h26_cauldron_gold name
+            Gold-Kessel
         </name>
         <description>
             nft_h26_cauldron_gold desc
@@ -130695,7 +130755,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_cauldron_silver">
         <name>
-            nft_h26_cauldron_silver name
+            Silber-Kessel
         </name>
         <description>
             nft_h26_cauldron_silver desc
@@ -130703,7 +130763,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_cauldron_trippy">
         <name>
-            nft_h26_cauldron_trippy name
+            Trippy-Kessel
         </name>
         <description>
             nft_h26_cauldron_trippy desc
@@ -130821,6 +130881,12 @@ Kunstfertigkeit.
             nft_h26_drpgamingchair desc
         </description>
     </product>
+    <product code="nft_h26_emeraldtome">
+        <name>
+            Smaragdgrüner Schmöker
+        </name>
+        <description></description>
+    </product>
     <product code="nft_h26_emplacement">
         <name>
             nft_h26_emplacement name
@@ -130935,7 +131001,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_ingredientshelf">
         <name>
-            nft_h26_ingredientshelf name
+            Zauberzutatenregal
         </name>
         <description>
             nft_h26_ingredientshelf desc
@@ -131135,7 +131201,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_scarywitch">
         <name>
-            nft_h26_scarywitch name
+            Furchteinflössende Hexe
         </name>
         <description>
             nft_h26_scarywitch desc
@@ -131175,7 +131241,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_spellingredients">
         <name>
-            nft_h26_spellingredients name
+            Zauberzutaten
         </name>
         <description>
             nft_h26_spellingredients desc
@@ -131263,7 +131329,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_witchchair">
         <name>
-            nft_h26_witchchair name
+            Hexenstuhl
         </name>
         <description>
             nft_h26_witchchair desc
@@ -131271,7 +131337,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_witchfigure">
         <name>
-            nft_h26_witchfigure name
+            Hexen Actionfigur
         </name>
         <description>
             nft_h26_witchfigure desc
@@ -131279,7 +131345,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_witchworkstation">
         <name>
-            nft_h26_witchworkstation name
+            Hexen Workstation
         </name>
         <description>
             nft_h26_witchworkstation desc
@@ -133661,7 +133727,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_sc26_alchemykit">
         <name>
-            nft_sc26_alchemykit name
+            Alchemie-Kit
         </name>
         <description>
             nft_sc26_alchemykit desc
@@ -133669,7 +133735,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_sc26_flyingbook">
         <name>
-            nft_sc26_flyingbook name
+            Fliegendes Buch
         </name>
         <description>
             nft_sc26_flyingbook desc
@@ -133797,7 +133863,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_sc_towernook">
         <name>
-            nft_sc_towernook name
+            Zauberturmecke
         </name>
         <description>
             nft_sc_towernook desc
@@ -133805,7 +133871,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_sc_transmogrification">
         <name>
-            nft_sc_transmogrification name
+            Wundersame Wandlung
         </name>
         <description>
             nft_sc_transmogrification desc
@@ -133813,7 +133879,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_sc_wanddisplay">
         <name>
-            nft_sc_wanddisplay name
+            Zauberstabvitrine
         </name>
         <description>
             nft_sc_wanddisplay desc
@@ -166154,6 +166220,18 @@ Enthält 3 Taler
         </name>
         <description></description>
     </product>
+    <product code="rotating_roomdeal461_d">
+        <name>
+            Dunkle Akademie-Bündel
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal461">
+        <name>
+            Dunkle Akademie-Bündel
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Habbo House Party Bundle
@@ -168744,7 +168822,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="sc26_alchemykit">
         <name>
-            sc26_alchemykit name
+            Alchemie-Kit
         </name>
         <description>
             sc26_alchemykit desc
@@ -168752,7 +168830,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="sc26_flyingbook">
         <name>
-            sc26_flyingbook name
+            Fliegendes Buch
         </name>
         <description>
             sc26_flyingbook desc
@@ -168760,7 +168838,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="sc26_transmogrification">
         <name>
-            sc26_transmogrification name
+            Wundersame Wandlung
         </name>
         <description>
             sc26_transmogrification desc
@@ -168768,7 +168846,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="sc26_wanddisplay">
         <name>
-            sc26_wanddisplay name
+            Zauberstabvitrine
         </name>
         <description>
             sc26_wanddisplay desc

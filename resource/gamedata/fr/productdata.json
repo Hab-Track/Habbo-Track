@@ -14163,7 +14163,7 @@
       },
       {
         "code": "avatar_effect247",
-        "name": "EnchantedBroomstick_name",
+        "name": "Balai enchanté",
         "description": "EnchantedBroomstick_desc"
       },
       {
@@ -35343,7 +35343,7 @@
       },
       {
         "code": "clothing_ducketleafcrown",
-        "name": "clothing_ducketleafcrown name",
+        "name": "Autumn Leaf Crown",
         "description": "clothing_ducketleafcrown desc"
       },
       {
@@ -37568,7 +37568,7 @@
       },
       {
         "code": "clothing_nft26_nftwitchcape",
-        "name": "clothing_nft26_nftwitchcape name",
+        "name": "Cape de sorcière moderne",
         "description": "clothing_nft26_nftwitchcape desc"
       },
       {
@@ -49622,6 +49622,16 @@
         "description": ""
       },
       {
+        "code": "dia_c26_appletree",
+        "name": "Autumn Apple Tree",
+        "description": ""
+      },
+      {
+        "code": "dia_c26_autumncandle",
+        "name": "Autumn Candle",
+        "description": ""
+      },
+      {
         "code": "dia_c26_charcuterie",
         "name": "Plateau de charcuterie",
         "description": ""
@@ -49629,6 +49639,16 @@
       {
         "code": "dia_c26_cosyblanket",
         "name": "Couverture de pique-nique confortable",
+        "description": ""
+      },
+      {
+        "code": "dia_c26_ducketleafcrown",
+        "name": "Autumn Leaf Crown",
+        "description": ""
+      },
+      {
+        "code": "dia_c26_leafpile",
+        "name": "Lively Leaf Pile",
         "description": ""
       },
       {
@@ -51828,12 +51848,12 @@
       },
       {
         "code": "ducket_c26_appletree",
-        "name": "ducket_c26_appletree name",
+        "name": "Autumn Apple Tree",
         "description": "ducket_c26_appletree desc"
       },
       {
         "code": "ducket_c26_autumncandle",
-        "name": "ducket_c26_autumncandle name",
+        "name": "Autumn Candle",
         "description": "ducket_c26_autumncandle desc"
       },
       {
@@ -51933,7 +51953,7 @@
       },
       {
         "code": "ducket_c26_leafpile",
-        "name": "ducket_c26_leafpile name",
+        "name": "Lively Leaf Pile",
         "description": "ducket_c26_leafpile desc"
       },
       {
@@ -59048,7 +59068,7 @@
       },
       {
         "code": "giftbox_c26_crackable_hween",
-        "name": "giftbox_c26_crackable_hween name",
+        "name": "Boîte-cadeau Habboween 2026",
         "description": "giftbox_c26_crackable_hween desc"
       },
       {
@@ -67648,207 +67668,222 @@
       },
       {
         "code": "hween_c26_batpillow",
-        "name": "hween_c26_batpillow name",
+        "name": "Oreiller chauve-souris",
         "description": "hween_c26_batpillow desc"
       },
       {
         "code": "hween_c26_bookshelf",
-        "name": "hween_c26_bookshelf name",
+        "name": "Bibliothèque du sol au plafond",
         "description": "hween_c26_bookshelf desc"
       },
       {
         "code": "hween_c26_cage",
-        "name": "hween_c26_cage name",
+        "name": "Cage décorative",
         "description": "hween_c26_cage desc"
       },
       {
         "code": "hween_c26_circle",
-        "name": "hween_c26_circle name",
+        "name": "Cercle d'invocation",
         "description": "hween_c26_circle desc"
       },
       {
         "code": "hween_c26_darkfiend",
-        "name": "hween_c26_darkfiend name",
+        "name": "Démon des ténèbres",
         "description": "hween_c26_darkfiend desc"
       },
       {
         "code": "hween_c26_darkfiendb",
-        "name": "hween_c26_darkfiendb name",
+        "name": "Démon des ténèbres",
         "description": "hween_c26_darkfiendb desc"
       },
       {
         "code": "hween_c26_dresser",
-        "name": "hween_c26_dresser name",
+        "name": "Commode antique",
         "description": "hween_c26_dresser desc"
       },
       {
         "code": "hween_c26_dresserb",
-        "name": "hween_c26_dresserb name",
+        "name": "Commode antique",
         "description": "hween_c26_dresserb desc"
       },
       {
         "code": "hween_c26_gallerywall",
-        "name": "hween_c26_gallerywall name",
+        "name": "Mur galerie Moody",
         "description": "hween_c26_gallerywall desc"
       },
       {
         "code": "hween_c26_glassdisplay",
-        "name": "hween_c26_glassdisplay name",
+        "name": "Vitrine Verre morbide",
         "description": "hween_c26_glassdisplay desc"
       },
       {
         "code": "hween_c26_gothcandle",
-        "name": "hween_c26_gothcandle name",
+        "name": "Bougie gothique",
         "description": "hween_c26_gothcandle desc"
       },
       {
         "code": "hween_c26_hatchteleport",
-        "name": "hween_c26_hatchteleport name",
+        "name": "Téléportation trappe au sol",
         "description": "hween_c26_hatchteleport desc"
       },
       {
         "code": "hween_c26_hauntedmirror",
-        "name": "hween_c26_hauntedmirror name",
+        "name": "Miroir hanté",
         "description": "hween_c26_hauntedmirror desc"
       },
       {
         "code": "hween_c26_ivycandle",
-        "name": "hween_c26_ivycandle name",
+        "name": "Bougie recouverte lierre",
         "description": "hween_c26_ivycandle desc"
       },
       {
         "code": "hween_c26_ivystatue",
-        "name": "hween_c26_ivystatue name",
+        "name": "Statue recouverte lierre",
         "description": "hween_c26_ivystatue desc"
       },
       {
         "code": "hween_c26_letteropener",
-        "name": "hween_c26_letteropener name",
+        "name": "Ouvre-lettres élégant",
         "description": "hween_c26_letteropener desc"
       },
       {
         "code": "hween_c26_letters",
-        "name": "hween_c26_letters name",
+        "name": "Lettres oubliées",
         "description": "hween_c26_letters desc"
       },
       {
         "code": "hween_c26_readingchair",
-        "name": "hween_c26_readingchair name",
+        "name": "Fauteuil lecture vintage",
         "description": "hween_c26_readingchair desc"
       },
       {
         "code": "hween_c26_readingcouch",
-        "name": "hween_c26_readingcouch name",
+        "name": "Canapé lecture vintage",
         "description": "hween_c26_readingcouch desc"
       },
       {
         "code": "hween_c26_secretdoor",
-        "name": "hween_c26_secretdoor name",
+        "name": "Porte secrète bibliothèque",
         "description": "hween_c26_secretdoor desc"
       },
       {
         "code": "hween_c26_skullvase",
-        "name": "hween_c26_skullvase name",
+        "name": "Vase crâne",
         "description": "hween_c26_skullvase desc"
       },
       {
         "code": "hween_c26_window",
-        "name": "hween_c26_window name",
+        "name": "Fenêtre bibliothèque",
         "description": "hween_c26_window desc"
       },
       {
         "code": "hween_c26_wornfloorboards",
-        "name": "hween_c26_wornfloorboards name",
+        "name": "Planches d'étage usées",
         "description": "hween_c26_wornfloorboards desc"
       },
       {
+        "code": "hween_cl_r26_darkaura_bd",
+        "name": "Aura de l'Ombre",
+        "description": ""
+      },
+      {
+        "code": "hween_cl_r26_pumpkin_bd",
+        "name": "Citrouille possédée",
+        "description": ""
+      },
+      {
+        "code": "hween_cl_r26_wizard_bd",
+        "name": "Tenue de sorcier",
+        "description": ""
+      },
+      {
         "code": "hween_cloth_c26_batfriend",
-        "name": "hween_cloth_c26_batfriend name",
+        "name": "Chauve-souris amicale",
         "description": "hween_cloth_c26_batfriend desc"
       },
       {
         "code": "hween_cloth_c26_batonesie",
-        "name": "hween_cloth_c26_batonesie name",
+        "name": "Onesie chauve-souris",
         "description": "hween_cloth_c26_batonesie desc"
       },
       {
         "code": "hween_cloth_c26_cat",
-        "name": "hween_cloth_c26_cat name",
+        "name": "Familier chat persan",
         "description": "hween_cloth_c26_cat desc"
       },
       {
         "code": "hween_cloth_c26_checkerskirt",
-        "name": "hween_cloth_c26_checkerskirt name",
+        "name": "Jupe à carreaux",
         "description": "hween_cloth_c26_checkerskirt desc"
       },
       {
         "code": "hween_cloth_c26_dollhairdo",
-        "name": "hween_cloth_c26_dollhairdo name",
+        "name": "Coiffure de poupée",
         "description": "hween_cloth_c26_dollhairdo desc"
       },
       {
         "code": "hween_cloth_c26_gothicmakeup",
-        "name": "hween_cloth_c26_gothicmakeup name",
+        "name": "Maquillage gothique",
         "description": "hween_cloth_c26_gothicmakeup desc"
       },
       {
         "code": "hween_cloth_c26_hauntedpuppet",
-        "name": "hween_cloth_c26_hauntedpuppet name",
+        "name": "Marionnette hantée",
         "description": "hween_cloth_c26_hauntedpuppet desc"
       },
       {
         "code": "hween_cloth_c26_loosesocks",
-        "name": "hween_cloth_c26_loosesocks name",
+        "name": "Chaussettes courtes",
         "description": "hween_cloth_c26_loosesocks desc"
       },
       {
         "code": "hween_cloth_c26_raven",
-        "name": "hween_cloth_c26_raven name",
+        "name": "Le Corbeau",
         "description": "hween_cloth_c26_raven desc"
       },
       {
         "code": "hween_cloth_c26_ruffledcuffs",
-        "name": "hween_cloth_c26_ruffledcuffs name",
+        "name": "Poignets à volants",
         "description": "hween_cloth_c26_ruffledcuffs desc"
       },
       {
         "code": "hween_cloth_c26_skeletalheadband",
-        "name": "hween_cloth_c26_skeletalheadband name",
+        "name": "Bandeau squelettique",
         "description": "hween_cloth_c26_skeletalheadband desc"
       },
       {
         "code": "hween_cloth_c26_studentcardigan",
-        "name": "hween_cloth_c26_studentcardigan name",
+        "name": "Cardigan étudiant assidu",
         "description": "hween_cloth_c26_studentcardigan desc"
       },
       {
         "code": "hween_cloth_c26_tinyowl",
-        "name": "hween_cloth_c26_tinyowl name",
+        "name": "Petit hibou",
         "description": "hween_cloth_c26_tinyowl desc"
       },
       {
         "code": "hween_cloth_c26_vintagebag",
-        "name": "hween_cloth_c26_vintagebag name",
+        "name": "Sac à livres vintage",
         "description": "hween_cloth_c26_vintagebag desc"
       },
       {
         "code": "hween_cloth_c26_wizardcurls",
-        "name": "hween_cloth_c26_wizardcurls name",
+        "name": "Boucles magiques",
         "description": "hween_cloth_c26_wizardcurls desc"
       },
       {
         "code": "hween_cloth_r26_darkaura",
-        "name": "hween_cloth_r26_darkaura name",
+        "name": "Aura de l'Ombre",
         "description": "hween_cloth_r26_darkaura desc"
       },
       {
         "code": "hween_cloth_r26_possessedpumpkin",
-        "name": "hween_cloth_r26_possessedpumpkin name",
+        "name": "Citrouille possédée",
         "description": "hween_cloth_r26_possessedpumpkin desc"
       },
       {
         "code": "hween_cloth_r26_wizardgarb",
-        "name": "hween_cloth_r26_wizardgarb name",
+        "name": "Tenue de sorcier",
         "description": "hween_cloth_r26_wizardgarb desc"
       },
       {
@@ -67958,8 +67993,13 @@
       },
       {
         "code": "hween_ltd26_curseddragonlamp",
-        "name": "hween_ltd26_curseddragonlamp name",
+        "name": "Lampe dragon maudit",
         "description": "hween_ltd26_curseddragonlamp desc"
+      },
+      {
+        "code": "hween_ltd26_curselamp_bd",
+        "name": "Lampe dragon maudit",
+        "description": ""
       },
       {
         "code": "hween_r16_chandelier2",
@@ -68202,13 +68242,23 @@
         "description": "hween_r25_specimen desc"
       },
       {
+        "code": "hween_r26_cauldron_bd",
+        "name": "Chaudron maudit",
+        "description": ""
+      },
+      {
         "code": "hween_r26_cursedcauldron",
-        "name": "hween_r26_cursedcauldron name",
+        "name": "Chaudron maudit",
         "description": "hween_r26_cursedcauldron desc"
       },
       {
+        "code": "hween_r26_gargoyle_bd",
+        "name": "Fontaine gargouilles",
+        "description": ""
+      },
+      {
         "code": "hween_r26_gargoylefountain",
-        "name": "hween_r26_gargoylefountain name",
+        "name": "Fontaine gargouilles",
         "description": "hween_r26_gargoylefountain desc"
       },
       {
@@ -83403,7 +83453,7 @@
       },
       {
         "code": "nft_h26_broomstickrack",
-        "name": "nft_h26_broomstickrack name",
+        "name": "Porte-balais",
         "description": "nft_h26_broomstickrack desc"
       },
       {
@@ -83428,22 +83478,22 @@
       },
       {
         "code": "nft_h26_cauldron_bronze",
-        "name": "nft_h26_cauldron_bronze name",
+        "name": "Chaudron bronze",
         "description": "nft_h26_cauldron_bronze desc"
       },
       {
         "code": "nft_h26_cauldron_gold",
-        "name": "nft_h26_cauldron_gold name",
+        "name": "Chaudron Or",
         "description": "nft_h26_cauldron_gold desc"
       },
       {
         "code": "nft_h26_cauldron_silver",
-        "name": "nft_h26_cauldron_silver name",
+        "name": "Chaudron argent",
         "description": "nft_h26_cauldron_silver desc"
       },
       {
         "code": "nft_h26_cauldron_trippy",
-        "name": "nft_h26_cauldron_trippy name",
+        "name": "Chaudron trippy",
         "description": "nft_h26_cauldron_trippy desc"
       },
       {
@@ -83517,6 +83567,11 @@
         "description": "nft_h26_drpgamingchair desc"
       },
       {
+        "code": "nft_h26_emeraldtome",
+        "name": "Tome Emerald",
+        "description": ""
+      },
+      {
         "code": "nft_h26_emplacement",
         "name": "nft_h26_emplacement name",
         "description": "nft_h26_emplacement desc"
@@ -83588,7 +83643,7 @@
       },
       {
         "code": "nft_h26_ingredientshelf",
-        "name": "nft_h26_ingredientshelf name",
+        "name": "Étagère ingrédients sortilèges",
         "description": "nft_h26_ingredientshelf desc"
       },
       {
@@ -83713,7 +83768,7 @@
       },
       {
         "code": "nft_h26_scarywitch",
-        "name": "nft_h26_scarywitch name",
+        "name": "Sorcière terrifiante",
         "description": "nft_h26_scarywitch desc"
       },
       {
@@ -83738,7 +83793,7 @@
       },
       {
         "code": "nft_h26_spellingredients",
-        "name": "nft_h26_spellingredients name",
+        "name": "Ingrédients sortilèges",
         "description": "nft_h26_spellingredients desc"
       },
       {
@@ -83793,17 +83848,17 @@
       },
       {
         "code": "nft_h26_witchchair",
-        "name": "nft_h26_witchchair name",
+        "name": "Chaise sorcière",
         "description": "nft_h26_witchchair desc"
       },
       {
         "code": "nft_h26_witchfigure",
-        "name": "nft_h26_witchfigure name",
+        "name": "Figurine sorcière",
         "description": "nft_h26_witchfigure desc"
       },
       {
         "code": "nft_h26_witchworkstation",
-        "name": "nft_h26_witchworkstation name",
+        "name": "Poste de travail sorcière",
         "description": "nft_h26_witchworkstation desc"
       },
       {
@@ -85313,12 +85368,12 @@
       },
       {
         "code": "nft_sc26_alchemykit",
-        "name": "nft_sc26_alchemykit name",
+        "name": "Kit alchimie",
         "description": "nft_sc26_alchemykit desc"
       },
       {
         "code": "nft_sc26_flyingbook",
-        "name": "nft_sc26_flyingbook name",
+        "name": "Livre volant",
         "description": "nft_sc26_flyingbook desc"
       },
       {
@@ -85398,17 +85453,17 @@
       },
       {
         "code": "nft_sc_towernook",
-        "name": "nft_sc_towernook name",
+        "name": "Recoin tour sorcier",
         "description": "nft_sc_towernook desc"
       },
       {
         "code": "nft_sc_transmogrification",
-        "name": "nft_sc_transmogrification name",
+        "name": "Entraînement transmogrification",
         "description": "nft_sc_transmogrification desc"
       },
       {
         "code": "nft_sc_wanddisplay",
-        "name": "nft_sc_wanddisplay name",
+        "name": "Présentoir Baguette magique",
         "description": "nft_sc_wanddisplay desc"
       },
       {
@@ -106457,6 +106512,16 @@
         "description": ""
       },
       {
+        "code": "rotating_roomdeal461_d",
+        "name": "Pack Académie de l'Ombre",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal461",
+        "name": "Pack Académie de l'Ombre",
+        "description": ""
+      },
+      {
         "code": "rotating_roomdeal46_10c",
         "name": "Appart Habbo House Party",
         "description": "C'est presque la fin de cette année, et cela signifie... GROSSE FÊTE ! Cette année nous avons une House Party très spéciale !Apporte ton snack, chausse tes chaussures de danse et tiens-toi prêt pour la F-Ê-T-E ! Comprend un badge exclusif. Disponible du 29 décembre au 6 janvier."
@@ -108088,22 +108153,22 @@
       },
       {
         "code": "sc26_alchemykit",
-        "name": "sc26_alchemykit name",
+        "name": "Kit alchimie",
         "description": "sc26_alchemykit desc"
       },
       {
         "code": "sc26_flyingbook",
-        "name": "sc26_flyingbook name",
+        "name": "Livre volant",
         "description": "sc26_flyingbook desc"
       },
       {
         "code": "sc26_transmogrification",
-        "name": "sc26_transmogrification name",
+        "name": "Entraînement transmogrification",
         "description": "sc26_transmogrification desc"
       },
       {
         "code": "sc26_wanddisplay",
-        "name": "sc26_wanddisplay name",
+        "name": "Présentoir Baguette magique",
         "description": "sc26_wanddisplay desc"
       },
       {

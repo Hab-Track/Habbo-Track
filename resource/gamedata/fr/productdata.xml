@@ -21222,7 +21222,7 @@
     </product>
     <product code="avatar_effect247">
         <name>
-            EnchantedBroomstick_name
+            Balai enchanté
         </name>
         <description>
             EnchantedBroomstick_desc
@@ -54522,7 +54522,7 @@
     </product>
     <product code="clothing_ducketleafcrown">
         <name>
-            clothing_ducketleafcrown name
+            Autumn Leaf Crown
         </name>
         <description>
             clothing_ducketleafcrown desc
@@ -58026,7 +58026,7 @@
     </product>
     <product code="clothing_nft26_nftwitchcape">
         <name>
-            clothing_nft26_nftwitchcape name
+            Cape de sorcière moderne
         </name>
         <description>
             clothing_nft26_nftwitchcape desc
@@ -76642,6 +76642,18 @@
         </name>
         <description></description>
     </product>
+    <product code="dia_c26_appletree">
+        <name>
+            Autumn Apple Tree
+        </name>
+        <description></description>
+    </product>
+    <product code="dia_c26_autumncandle">
+        <name>
+            Autumn Candle
+        </name>
+        <description></description>
+    </product>
     <product code="dia_c26_charcuterie">
         <name>
             Plateau de charcuterie
@@ -76651,6 +76663,18 @@
     <product code="dia_c26_cosyblanket">
         <name>
             Couverture de pique-nique confortable
+        </name>
+        <description></description>
+    </product>
+    <product code="dia_c26_ducketleafcrown">
+        <name>
+            Autumn Leaf Crown
+        </name>
+        <description></description>
+    </product>
+    <product code="dia_c26_leafpile">
+        <name>
+            Lively Leaf Pile
         </name>
         <description></description>
     </product>
@@ -80012,7 +80036,7 @@
     </product>
     <product code="ducket_c26_appletree">
         <name>
-            ducket_c26_appletree name
+            Autumn Apple Tree
         </name>
         <description>
             ducket_c26_appletree desc
@@ -80020,7 +80044,7 @@
     </product>
     <product code="ducket_c26_autumncandle">
         <name>
-            ducket_c26_autumncandle name
+            Autumn Candle
         </name>
         <description>
             ducket_c26_autumncandle desc
@@ -80180,7 +80204,7 @@
     </product>
     <product code="ducket_c26_leafpile">
         <name>
-            ducket_c26_leafpile name
+            Lively Leaf Pile
         </name>
         <description>
             ducket_c26_leafpile desc
@@ -91108,7 +91132,7 @@
     </product>
     <product code="giftbox_c26_crackable_hween">
         <name>
-            giftbox_c26_crackable_hween name
+            Boîte-cadeau Habboween 2026
         </name>
         <description>
             giftbox_c26_crackable_hween desc
@@ -104646,7 +104670,7 @@
     </product>
     <product code="hween_c26_batpillow">
         <name>
-            hween_c26_batpillow name
+            Oreiller chauve-souris
         </name>
         <description>
             hween_c26_batpillow desc
@@ -104654,7 +104678,7 @@
     </product>
     <product code="hween_c26_bookshelf">
         <name>
-            hween_c26_bookshelf name
+            Bibliothèque du sol au plafond
         </name>
         <description>
             hween_c26_bookshelf desc
@@ -104662,7 +104686,7 @@
     </product>
     <product code="hween_c26_cage">
         <name>
-            hween_c26_cage name
+            Cage décorative
         </name>
         <description>
             hween_c26_cage desc
@@ -104670,7 +104694,7 @@
     </product>
     <product code="hween_c26_circle">
         <name>
-            hween_c26_circle name
+            Cercle d'invocation
         </name>
         <description>
             hween_c26_circle desc
@@ -104678,7 +104702,7 @@
     </product>
     <product code="hween_c26_darkfiend">
         <name>
-            hween_c26_darkfiend name
+            Démon des ténèbres
         </name>
         <description>
             hween_c26_darkfiend desc
@@ -104686,7 +104710,7 @@
     </product>
     <product code="hween_c26_darkfiendb">
         <name>
-            hween_c26_darkfiendb name
+            Démon des ténèbres
         </name>
         <description>
             hween_c26_darkfiendb desc
@@ -104694,7 +104718,7 @@
     </product>
     <product code="hween_c26_dresser">
         <name>
-            hween_c26_dresser name
+            Commode antique
         </name>
         <description>
             hween_c26_dresser desc
@@ -104702,7 +104726,7 @@
     </product>
     <product code="hween_c26_dresserb">
         <name>
-            hween_c26_dresserb name
+            Commode antique
         </name>
         <description>
             hween_c26_dresserb desc
@@ -104710,7 +104734,7 @@
     </product>
     <product code="hween_c26_gallerywall">
         <name>
-            hween_c26_gallerywall name
+            Mur galerie Moody
         </name>
         <description>
             hween_c26_gallerywall desc
@@ -104718,7 +104742,7 @@
     </product>
     <product code="hween_c26_glassdisplay">
         <name>
-            hween_c26_glassdisplay name
+            Vitrine Verre morbide
         </name>
         <description>
             hween_c26_glassdisplay desc
@@ -104726,7 +104750,7 @@
     </product>
     <product code="hween_c26_gothcandle">
         <name>
-            hween_c26_gothcandle name
+            Bougie gothique
         </name>
         <description>
             hween_c26_gothcandle desc
@@ -104734,7 +104758,7 @@
     </product>
     <product code="hween_c26_hatchteleport">
         <name>
-            hween_c26_hatchteleport name
+            Téléportation trappe au sol
         </name>
         <description>
             hween_c26_hatchteleport desc
@@ -104742,7 +104766,7 @@
     </product>
     <product code="hween_c26_hauntedmirror">
         <name>
-            hween_c26_hauntedmirror name
+            Miroir hanté
         </name>
         <description>
             hween_c26_hauntedmirror desc
@@ -104750,7 +104774,7 @@
     </product>
     <product code="hween_c26_ivycandle">
         <name>
-            hween_c26_ivycandle name
+            Bougie recouverte lierre
         </name>
         <description>
             hween_c26_ivycandle desc
@@ -104758,7 +104782,7 @@
     </product>
     <product code="hween_c26_ivystatue">
         <name>
-            hween_c26_ivystatue name
+            Statue recouverte lierre
         </name>
         <description>
             hween_c26_ivystatue desc
@@ -104766,7 +104790,7 @@
     </product>
     <product code="hween_c26_letteropener">
         <name>
-            hween_c26_letteropener name
+            Ouvre-lettres élégant
         </name>
         <description>
             hween_c26_letteropener desc
@@ -104774,7 +104798,7 @@
     </product>
     <product code="hween_c26_letters">
         <name>
-            hween_c26_letters name
+            Lettres oubliées
         </name>
         <description>
             hween_c26_letters desc
@@ -104782,7 +104806,7 @@
     </product>
     <product code="hween_c26_readingchair">
         <name>
-            hween_c26_readingchair name
+            Fauteuil lecture vintage
         </name>
         <description>
             hween_c26_readingchair desc
@@ -104790,7 +104814,7 @@
     </product>
     <product code="hween_c26_readingcouch">
         <name>
-            hween_c26_readingcouch name
+            Canapé lecture vintage
         </name>
         <description>
             hween_c26_readingcouch desc
@@ -104798,7 +104822,7 @@
     </product>
     <product code="hween_c26_secretdoor">
         <name>
-            hween_c26_secretdoor name
+            Porte secrète bibliothèque
         </name>
         <description>
             hween_c26_secretdoor desc
@@ -104806,7 +104830,7 @@
     </product>
     <product code="hween_c26_skullvase">
         <name>
-            hween_c26_skullvase name
+            Vase crâne
         </name>
         <description>
             hween_c26_skullvase desc
@@ -104814,7 +104838,7 @@
     </product>
     <product code="hween_c26_window">
         <name>
-            hween_c26_window name
+            Fenêtre bibliothèque
         </name>
         <description>
             hween_c26_window desc
@@ -104822,15 +104846,33 @@
     </product>
     <product code="hween_c26_wornfloorboards">
         <name>
-            hween_c26_wornfloorboards name
+            Planches d'étage usées
         </name>
         <description>
             hween_c26_wornfloorboards desc
         </description>
     </product>
+    <product code="hween_cl_r26_darkaura_bd">
+        <name>
+            Aura de l'Ombre
+        </name>
+        <description></description>
+    </product>
+    <product code="hween_cl_r26_pumpkin_bd">
+        <name>
+            Citrouille possédée
+        </name>
+        <description></description>
+    </product>
+    <product code="hween_cl_r26_wizard_bd">
+        <name>
+            Tenue de sorcier
+        </name>
+        <description></description>
+    </product>
     <product code="hween_cloth_c26_batfriend">
         <name>
-            hween_cloth_c26_batfriend name
+            Chauve-souris amicale
         </name>
         <description>
             hween_cloth_c26_batfriend desc
@@ -104838,7 +104880,7 @@
     </product>
     <product code="hween_cloth_c26_batonesie">
         <name>
-            hween_cloth_c26_batonesie name
+            Onesie chauve-souris
         </name>
         <description>
             hween_cloth_c26_batonesie desc
@@ -104846,7 +104888,7 @@
     </product>
     <product code="hween_cloth_c26_cat">
         <name>
-            hween_cloth_c26_cat name
+            Familier chat persan
         </name>
         <description>
             hween_cloth_c26_cat desc
@@ -104854,7 +104896,7 @@
     </product>
     <product code="hween_cloth_c26_checkerskirt">
         <name>
-            hween_cloth_c26_checkerskirt name
+            Jupe à carreaux
         </name>
         <description>
             hween_cloth_c26_checkerskirt desc
@@ -104862,7 +104904,7 @@
     </product>
     <product code="hween_cloth_c26_dollhairdo">
         <name>
-            hween_cloth_c26_dollhairdo name
+            Coiffure de poupée
         </name>
         <description>
             hween_cloth_c26_dollhairdo desc
@@ -104870,7 +104912,7 @@
     </product>
     <product code="hween_cloth_c26_gothicmakeup">
         <name>
-            hween_cloth_c26_gothicmakeup name
+            Maquillage gothique
         </name>
         <description>
             hween_cloth_c26_gothicmakeup desc
@@ -104878,7 +104920,7 @@
     </product>
     <product code="hween_cloth_c26_hauntedpuppet">
         <name>
-            hween_cloth_c26_hauntedpuppet name
+            Marionnette hantée
         </name>
         <description>
             hween_cloth_c26_hauntedpuppet desc
@@ -104886,7 +104928,7 @@
     </product>
     <product code="hween_cloth_c26_loosesocks">
         <name>
-            hween_cloth_c26_loosesocks name
+            Chaussettes courtes
         </name>
         <description>
             hween_cloth_c26_loosesocks desc
@@ -104894,7 +104936,7 @@
     </product>
     <product code="hween_cloth_c26_raven">
         <name>
-            hween_cloth_c26_raven name
+            Le Corbeau
         </name>
         <description>
             hween_cloth_c26_raven desc
@@ -104902,7 +104944,7 @@
     </product>
     <product code="hween_cloth_c26_ruffledcuffs">
         <name>
-            hween_cloth_c26_ruffledcuffs name
+            Poignets à volants
         </name>
         <description>
             hween_cloth_c26_ruffledcuffs desc
@@ -104910,7 +104952,7 @@
     </product>
     <product code="hween_cloth_c26_skeletalheadband">
         <name>
-            hween_cloth_c26_skeletalheadband name
+            Bandeau squelettique
         </name>
         <description>
             hween_cloth_c26_skeletalheadband desc
@@ -104918,7 +104960,7 @@
     </product>
     <product code="hween_cloth_c26_studentcardigan">
         <name>
-            hween_cloth_c26_studentcardigan name
+            Cardigan étudiant assidu
         </name>
         <description>
             hween_cloth_c26_studentcardigan desc
@@ -104926,7 +104968,7 @@
     </product>
     <product code="hween_cloth_c26_tinyowl">
         <name>
-            hween_cloth_c26_tinyowl name
+            Petit hibou
         </name>
         <description>
             hween_cloth_c26_tinyowl desc
@@ -104934,7 +104976,7 @@
     </product>
     <product code="hween_cloth_c26_vintagebag">
         <name>
-            hween_cloth_c26_vintagebag name
+            Sac à livres vintage
         </name>
         <description>
             hween_cloth_c26_vintagebag desc
@@ -104942,7 +104984,7 @@
     </product>
     <product code="hween_cloth_c26_wizardcurls">
         <name>
-            hween_cloth_c26_wizardcurls name
+            Boucles magiques
         </name>
         <description>
             hween_cloth_c26_wizardcurls desc
@@ -104950,7 +104992,7 @@
     </product>
     <product code="hween_cloth_r26_darkaura">
         <name>
-            hween_cloth_r26_darkaura name
+            Aura de l'Ombre
         </name>
         <description>
             hween_cloth_r26_darkaura desc
@@ -104958,7 +105000,7 @@
     </product>
     <product code="hween_cloth_r26_possessedpumpkin">
         <name>
-            hween_cloth_r26_possessedpumpkin name
+            Citrouille possédée
         </name>
         <description>
             hween_cloth_r26_possessedpumpkin desc
@@ -104966,7 +105008,7 @@
     </product>
     <product code="hween_cloth_r26_wizardgarb">
         <name>
-            hween_cloth_r26_wizardgarb name
+            Tenue de sorcier
         </name>
         <description>
             hween_cloth_r26_wizardgarb desc
@@ -105122,11 +105164,17 @@
     </product>
     <product code="hween_ltd26_curseddragonlamp">
         <name>
-            hween_ltd26_curseddragonlamp name
+            Lampe dragon maudit
         </name>
         <description>
             hween_ltd26_curseddragonlamp desc
         </description>
+    </product>
+    <product code="hween_ltd26_curselamp_bd">
+        <name>
+            Lampe dragon maudit
+        </name>
+        <description></description>
     </product>
     <product code="hween_r16_chandelier2">
         <name>
@@ -105480,17 +105528,29 @@
             hween_r25_specimen desc
         </description>
     </product>
+    <product code="hween_r26_cauldron_bd">
+        <name>
+            Chaudron maudit
+        </name>
+        <description></description>
+    </product>
     <product code="hween_r26_cursedcauldron">
         <name>
-            hween_r26_cursedcauldron name
+            Chaudron maudit
         </name>
         <description>
             hween_r26_cursedcauldron desc
         </description>
     </product>
+    <product code="hween_r26_gargoyle_bd">
+        <name>
+            Fontaine gargouilles
+        </name>
+        <description></description>
+    </product>
     <product code="hween_r26_gargoylefountain">
         <name>
-            hween_r26_gargoylefountain name
+            Fontaine gargouilles
         </name>
         <description>
             hween_r26_gargoylefountain desc
@@ -129134,7 +129194,7 @@
     </product>
     <product code="nft_h26_broomstickrack">
         <name>
-            nft_h26_broomstickrack name
+            Porte-balais
         </name>
         <description>
             nft_h26_broomstickrack desc
@@ -129174,7 +129234,7 @@
     </product>
     <product code="nft_h26_cauldron_bronze">
         <name>
-            nft_h26_cauldron_bronze name
+            Chaudron bronze
         </name>
         <description>
             nft_h26_cauldron_bronze desc
@@ -129182,7 +129242,7 @@
     </product>
     <product code="nft_h26_cauldron_gold">
         <name>
-            nft_h26_cauldron_gold name
+            Chaudron Or
         </name>
         <description>
             nft_h26_cauldron_gold desc
@@ -129190,7 +129250,7 @@
     </product>
     <product code="nft_h26_cauldron_silver">
         <name>
-            nft_h26_cauldron_silver name
+            Chaudron argent
         </name>
         <description>
             nft_h26_cauldron_silver desc
@@ -129198,7 +129258,7 @@
     </product>
     <product code="nft_h26_cauldron_trippy">
         <name>
-            nft_h26_cauldron_trippy name
+            Chaudron trippy
         </name>
         <description>
             nft_h26_cauldron_trippy desc
@@ -129316,6 +129376,12 @@
             nft_h26_drpgamingchair desc
         </description>
     </product>
+    <product code="nft_h26_emeraldtome">
+        <name>
+            Tome Emerald
+        </name>
+        <description></description>
+    </product>
     <product code="nft_h26_emplacement">
         <name>
             nft_h26_emplacement name
@@ -129430,7 +129496,7 @@
     </product>
     <product code="nft_h26_ingredientshelf">
         <name>
-            nft_h26_ingredientshelf name
+            Étagère ingrédients sortilèges
         </name>
         <description>
             nft_h26_ingredientshelf desc
@@ -129630,7 +129696,7 @@
     </product>
     <product code="nft_h26_scarywitch">
         <name>
-            nft_h26_scarywitch name
+            Sorcière terrifiante
         </name>
         <description>
             nft_h26_scarywitch desc
@@ -129670,7 +129736,7 @@
     </product>
     <product code="nft_h26_spellingredients">
         <name>
-            nft_h26_spellingredients name
+            Ingrédients sortilèges
         </name>
         <description>
             nft_h26_spellingredients desc
@@ -129758,7 +129824,7 @@
     </product>
     <product code="nft_h26_witchchair">
         <name>
-            nft_h26_witchchair name
+            Chaise sorcière
         </name>
         <description>
             nft_h26_witchchair desc
@@ -129766,7 +129832,7 @@
     </product>
     <product code="nft_h26_witchfigure">
         <name>
-            nft_h26_witchfigure name
+            Figurine sorcière
         </name>
         <description>
             nft_h26_witchfigure desc
@@ -129774,7 +129840,7 @@
     </product>
     <product code="nft_h26_witchworkstation">
         <name>
-            nft_h26_witchworkstation name
+            Poste de travail sorcière
         </name>
         <description>
             nft_h26_witchworkstation desc
@@ -132156,7 +132222,7 @@
     </product>
     <product code="nft_sc26_alchemykit">
         <name>
-            nft_sc26_alchemykit name
+            Kit alchimie
         </name>
         <description>
             nft_sc26_alchemykit desc
@@ -132164,7 +132230,7 @@
     </product>
     <product code="nft_sc26_flyingbook">
         <name>
-            nft_sc26_flyingbook name
+            Livre volant
         </name>
         <description>
             nft_sc26_flyingbook desc
@@ -132292,7 +132358,7 @@
     </product>
     <product code="nft_sc_towernook">
         <name>
-            nft_sc_towernook name
+            Recoin tour sorcier
         </name>
         <description>
             nft_sc_towernook desc
@@ -132300,7 +132366,7 @@
     </product>
     <product code="nft_sc_transmogrification">
         <name>
-            nft_sc_transmogrification name
+            Entraînement transmogrification
         </name>
         <description>
             nft_sc_transmogrification desc
@@ -132308,7 +132374,7 @@
     </product>
     <product code="nft_sc_wanddisplay">
         <name>
-            nft_sc_wanddisplay name
+            Présentoir Baguette magique
         </name>
         <description>
             nft_sc_wanddisplay desc
@@ -164464,6 +164530,18 @@ Par BIBI983
         </name>
         <description></description>
     </product>
+    <product code="rotating_roomdeal461_d">
+        <name>
+            Pack Académie de l'Ombre
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal461">
+        <name>
+            Pack Académie de l'Ombre
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Appart Habbo House Party
@@ -167037,7 +167115,7 @@ Badge exclusif inclus
     </product>
     <product code="sc26_alchemykit">
         <name>
-            sc26_alchemykit name
+            Kit alchimie
         </name>
         <description>
             sc26_alchemykit desc
@@ -167045,7 +167123,7 @@ Badge exclusif inclus
     </product>
     <product code="sc26_flyingbook">
         <name>
-            sc26_flyingbook name
+            Livre volant
         </name>
         <description>
             sc26_flyingbook desc
@@ -167053,7 +167131,7 @@ Badge exclusif inclus
     </product>
     <product code="sc26_transmogrification">
         <name>
-            sc26_transmogrification name
+            Entraînement transmogrification
         </name>
         <description>
             sc26_transmogrification desc
@@ -167061,7 +167139,7 @@ Badge exclusif inclus
     </product>
     <product code="sc26_wanddisplay">
         <name>
-            sc26_wanddisplay name
+            Présentoir Baguette magique
         </name>
         <description>
             sc26_wanddisplay desc
