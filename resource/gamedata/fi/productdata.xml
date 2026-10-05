@@ -188133,7 +188133,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_xtra_text_output_furni_name">
         <name>
-            Wired-tekstilisä: Tavaran nimi paikkamerkki
+            Wired-tekstilisä: Tavaran nimen paikka
         </name>
         <description>
             wf_xtra_text_output_furni_name desc
@@ -188141,7 +188141,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_xtra_text_output_username">
         <name>
-            Wired-tekstilisä: Nimen paikka
+            Wired-tekstilisä: Hahmon nimen paikka
         </name>
         <description>
             wf_xtra_text_output_username desc
@@ -188197,7 +188197,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_xtra_varfx_boss">
         <name>
-            Muuttujaefekti: Pomon terveyspalkki
+            Muuttujaefekti: Päävihollisen elämäpalkki
         </name>
         <description>
             wf_xtra_varfx_boss desc
@@ -188205,7 +188205,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="wf_xtra_varfx_hp">
         <name>
-            Muuttujaefekti: Terveyspisteet
+            Muuttujaefekti: Elämäpisteet
         </name>
         <description>
             wf_xtra_varfx_hp desc

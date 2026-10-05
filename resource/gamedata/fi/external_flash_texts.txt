@@ -44527,7 +44527,7 @@ wiredfurni.params.pickamount=Toimintojen määrä: %picks%
 wiredfurni.params.picktriggerer=Valitse laukaisijan nimi:
 wiredfurni.params.place_furni.offsets.altitude=Korkeus =
 wiredfurni.params.place_furni.offsets.x=X =
-wiredfurni.params.place_furni.offsets.y=X =
+wiredfurni.params.place_furni.offsets.y=Y =
 wiredfurni.params.place_furni.offsets=Siirrä:
 wiredfurni.params.place_furni.spawn_with_value=Anna muuttujalle arvo:
 wiredfurni.params.place_furni.spawn_with_variable=Anna tavaralle muuttuja:
@@ -44587,7 +44587,7 @@ wiredfurni.params.projectile.new_direction_enabled=Käännä ammusta liikkeen su
 wiredfurni.params.projectile.override_animation_time=Skaalaa animaation kesto etäisyyden mukaan
 wiredfurni.params.projectile.projectile.variables=Ammuksen sisäiset muuttujat:
 wiredfurni.params.projectile.rotation_offset=Pidennä käännöstä %offset% ruutua
-wiredfurni.params.projectile.time_per_tile=Siirtymän kesto per ruutu (ms):
+wiredfurni.params.projectile.time_per_tile=Animaation kesto per ruutu (ms):
 wiredfurni.params.projectile.usage_info=Tämä Wired on suunniteltu erityisesti ammustavaroita varten. Käytä sitä antamaan lisätoimintoja Wiredillä liikutettavaan ammukseen!
 wiredfurni.params.projectile.variable.0.extra=Seurattava, iso vaikutus Wired Usage -lukemaan, käytä törmäyksiin liikeradan keskellä
 wiredfurni.params.projectile.variable.0=Kuljetut ruudut
@@ -45045,7 +45045,7 @@ wiredfurni.params.variablefx.value_range.info=Esimerkki: Minimi=10, Maksimi=20, 
 wiredfurni.params.variablefx.value_range.max=Maksimi
 wiredfurni.params.variablefx.value_range.min=Minimi
 wiredfurni.params.variablefx.value_range=Arvon raja-alue
-wiredfurni.params.variablefx.visibility.audience=Näkyy:
+wiredfurni.params.variablefx.visibility.audience=Laukaisu:
 wiredfurni.params.variablefx.visibility.everyone=Kaikille
 wiredfurni.params.variablefx.visibility.game_team=Samassa tiimissä oleville
 wiredfurni.params.variablefx.visibility.has_variable.named=Käyttäjät, joilla on muuttuja: %variable%
@@ -45145,7 +45145,7 @@ wiredfurni.params.variables.trigger_origin.0=Tästä huoneesta
 wiredfurni.params.variables.trigger_origin.1=Toisesta huoneesta
 wiredfurni.params.variables.trigger_origin.2.info=Tarkastelunäkymästä (:inspect)
 wiredfurni.params.variables.trigger_origin.2=Tarkastelusta
-wiredfurni.params.variables.trigger_origin.3.info=wiredfurni.params.variables.trigger_origin.3.info=Muuttujien hallinnasta (:variables) tai muuttuja-verkkorajapinnasta
+wiredfurni.params.variables.trigger_origin.3.info=Muuttujien hallinnasta (:variables) tai muuttuja-verkkorajapinnasta
 wiredfurni.params.variables.trigger_origin.3=Ulkoisesta lähteestä
 wiredfurni.params.variables.trigger_origin=Salli laukaisu:
 wiredfurni.params.variables.value_settings.initial_value=Alkuarvo:
