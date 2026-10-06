@@ -569552,7 +569552,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "habboween_2026",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -569572,9 +569572,9 @@
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
-        "bc": true,
+        "bc": false,
         "excludeddynamic": false,
-        "bcofferid": 28987,
+        "bcofferid": -1,
         "customparams": null,
         "specialtype": 1,
         "canstandon": false,
@@ -569583,7 +569583,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "habboween_2026",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -569614,7 +569614,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "habboween_2026",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -569645,7 +569645,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "habboween_2026",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
