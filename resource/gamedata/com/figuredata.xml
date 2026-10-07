@@ -21354,6 +21354,10 @@
                 <part id="7553" type="mcl" colorable="1" index="1" colorindex="2"/>
                 <part id="7553" type="mcr" colorable="1" index="1" colorindex="2"/>
             </set>
+            <set id="6562" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="7579" type="mco" colorable="1" index="0" colorindex="1"/>
+                <part id="7580" type="mco" colorable="0" index="1" colorindex="0"/>
+            </set>
             <set id="6571" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="7601" type="mc" colorable="1" index="0" colorindex="1"/>
                 <part id="7601" type="mcl" colorable="1" index="0" colorindex="1"/>
