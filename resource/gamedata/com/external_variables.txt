@@ -735,7 +735,7 @@ landing.view.doublecredits231.conf=caption,landing.view.doublecredits23.header;b
 landing.view.doublecredits231.layout=
 landing.view.doublecredits231.widget=generic
 landing.view.dynamic.slot.1.widget=bonusrare
-landing.view.dynamic.slot.2.conf=2026-10-06 11:00,hween26crack;2026-10-07 11:00,hween26clothcrack
+landing.view.dynamic.slot.2.conf=2026-10-07 11:00,hween26clothcrack;2026-10-08 11:00,doublecredits23
 landing.view.dynamic.slot.2.layout=
 landing.view.dynamic.slot.2.widget=widgetcontainer
 landing.view.dynamic.slot.3.conf=2026-10-01 11:00,hween26ducket1;2026-10-07 11:00,hween26broom1
@@ -3092,7 +3092,7 @@ xmas2012.calendar.startdate=2012-12-02 00:00
 zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
-flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202610071452-366853410/
+flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202610072352-130844215/
 new.user.flow.roomTypes=10,11,12
 external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/f751103b361f64f87e4796440f432d669c943b24
 external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/7c819edb98b2519b42d3c4278bf766bb681ffbee
