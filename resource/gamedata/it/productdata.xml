@@ -71366,6 +71366,14 @@
             conf_area_hide desc
         </description>
     </product>
+    <product code="conf_chooser_disable">
+        <name>
+            conf_chooser_disable name
+        </name>
+        <description>
+            conf_chooser_disable desc
+        </description>
+    </product>
     <product code="conf_handitem_block">
         <name>
             Blocker Oggetto
@@ -71380,6 +71388,14 @@
         </name>
         <description>
             conf_invis_control desc
+        </description>
+    </product>
+    <product code="conf_kickwars_enable">
+        <name>
+            conf_kickwars_enable name
+        </name>
+        <description>
+            conf_kickwars_enable desc
         </description>
     </product>
     <product code="conf_queue_speed">
@@ -186373,6 +186389,14 @@ Include un ESCLUSIVO Distintivo.
             wf_act_place_furni desc
         </description>
     </product>
+    <product code="wf_act_progress_ach">
+        <name>
+            wf_act_progress_ach name
+        </name>
+        <description>
+            wf_act_progress_ach desc
+        </description>
+    </product>
     <product code="wf_act_rel_mov">
         <name>
             Effetto: Movimento Relativo del Furni
@@ -186413,6 +186437,22 @@ Include un ESCLUSIVO Distintivo.
             Questo Effetto azzera gli Inneschi che utilizzano un Timer.
         </description>
     </product>
+    <product code="wf_act_send_dataframe">
+        <name>
+            wf_act_send_dataframe name
+        </name>
+        <description>
+            wf_act_send_dataframe desc
+        </description>
+    </product>
+    <product code="wf_act_send_message">
+        <name>
+            wf_act_send_message name
+        </name>
+        <description>
+            wf_act_send_message desc
+        </description>
+    </product>
     <product code="wf_act_send_signal">
         <name>
             Effetto: Invia segnale
@@ -186427,6 +186467,22 @@ Include un ESCLUSIVO Distintivo.
         </name>
         <description>
             wf_act_set_altitude desc
+        </description>
+    </product>
+    <product code="wf_act_set_highlight">
+        <name>
+            wf_act_set_highlight name
+        </name>
+        <description>
+            wf_act_set_highlight desc
+        </description>
+    </product>
+    <product code="wf_act_set_visibility">
+        <name>
+            wf_act_set_visibility name
+        </name>
+        <description>
+            wf_act_set_visibility desc
         </description>
     </product>
     <product code="wf_act_show_message">
@@ -187173,6 +187229,22 @@ Include un ESCLUSIVO Distintivo.
             wf_knob desc
         </description>
     </product>
+    <product code="wf_label">
+        <name>
+            wf_label name
+        </name>
+        <description>
+            wf_label desc
+        </description>
+    </product>
+    <product code="wf_link">
+        <name>
+            wf_link name
+        </name>
+        <description>
+            wf_link desc
+        </description>
+    </product>
     <product code="wf_ltdproto_act_bd">
         <name>
             Effetto WIRED Antico&gt; Attiva/Disattiva Stato Furni
@@ -187875,6 +187947,22 @@ Include un ESCLUSIVO Distintivo.
             Gli Effetti si innescano ogni x secondi.
         </description>
     </product>
+    <product code="wf_trg_receive_dataframe">
+        <name>
+            wf_trg_receive_dataframe name
+        </name>
+        <description>
+            wf_trg_receive_dataframe desc
+        </description>
+    </product>
+    <product code="wf_trg_receive_message">
+        <name>
+            wf_trg_receive_message name
+        </name>
+        <description>
+            wf_trg_receive_message desc
+        </description>
+    </product>
     <product code="wf_trg_recv_signal">
         <name>
             INNESCO: Ricezione Segnale
@@ -187889,6 +187977,14 @@ Include un ESCLUSIVO Distintivo.
         </name>
         <description>
             Gli Effetti si innescano quando un Utente scende da un Furni.
+        </description>
+    </product>
+    <product code="wf_trg_room_initializes">
+        <name>
+            wf_trg_room_initializes name
+        </name>
+        <description>
+            wf_trg_room_initializes desc
         </description>
     </product>
     <product code="wf_trg_says_something">
@@ -188011,6 +188107,14 @@ Include un ESCLUSIVO Distintivo.
             wf_var_context desc
         </description>
     </product>
+    <product code="wf_var_dailytask">
+        <name>
+            wf_var_dailytask name
+        </name>
+        <description>
+            wf_var_dailytask desc
+        </description>
+    </product>
     <product code="wf_var_echo">
         <name>
             Variabile WIRED: Eco
@@ -188025,6 +188129,14 @@ Include un ESCLUSIVO Distintivo.
         </name>
         <description>
             wf_var_furni desc
+        </description>
+    </product>
+    <product code="wf_var_pointer">
+        <name>
+            wf_var_pointer name
+        </name>
+        <description>
+            wf_var_pointer desc
         </description>
     </product>
     <product code="wf_var_quest_chain">
@@ -188107,6 +188219,14 @@ Include un ESCLUSIVO Distintivo.
             Fili che possono essere posati in una Stanza
         </description>
     </product>
+    <product code="wf_xtra_achievement_enabler">
+        <name>
+            wf_xtra_achievement_enabler name
+        </name>
+        <description>
+            wf_xtra_achievement_enabler desc
+        </description>
+    </product>
     <product code="wf_xtra_anim_time">
         <name>
             Accessorio WIRED: Tempo di Animazione
@@ -188169,6 +188289,14 @@ Include un ESCLUSIVO Distintivo.
         </name>
         <description>
             wf_xtra_filter_users desc
+        </description>
+    </product>
+    <product code="wf_xtra_link_speaker">
+        <name>
+            wf_xtra_link_speaker name
+        </name>
+        <description>
+            wf_xtra_link_speaker desc
         </description>
     </product>
     <product code="wf_xtra_mov_carry_users">
@@ -188275,12 +188403,36 @@ Include un ESCLUSIVO Distintivo.
             Nella pila a cui appartiene innesca un Effetto inutilizzato in precedenza.
         </description>
     </product>
+    <product code="wf_xtra_var_import">
+        <name>
+            wf_xtra_var_import name
+        </name>
+        <description>
+            wf_xtra_var_import desc
+        </description>
+    </product>
+    <product code="wf_xtra_var_leaderboard">
+        <name>
+            wf_xtra_var_leaderboard name
+        </name>
+        <description>
+            wf_xtra_var_leaderboard desc
+        </description>
+    </product>
     <product code="wf_xtra_var_lvlup_system">
         <name>
             Accessorio Variabile: Sistema Level-up
         </name>
         <description>
             wf_xtra_var_lvlup_system desc
+        </description>
+    </product>
+    <product code="wf_xtra_var_share">
+        <name>
+            wf_xtra_var_share name
+        </name>
+        <description>
+            wf_xtra_var_share desc
         </description>
     </product>
     <product code="wf_xtra_var_text_connector">

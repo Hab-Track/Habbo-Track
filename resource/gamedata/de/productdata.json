@@ -45752,6 +45752,11 @@
         "description": "conf_area_hide desc"
       },
       {
+        "code": "conf_chooser_disable",
+        "name": "conf_chooser_disable name",
+        "description": "conf_chooser_disable desc"
+      },
+      {
         "code": "conf_handitem_block",
         "name": "Handitem Blocker",
         "description": "conf_handitem_block desc"
@@ -45760,6 +45765,11 @@
         "code": "conf_invis_control",
         "name": "Unsichtbare Möbelsteuerung",
         "description": "conf_invis_control desc"
+      },
+      {
+        "code": "conf_kickwars_enable",
+        "name": "conf_kickwars_enable name",
+        "description": "conf_kickwars_enable desc"
       },
       {
         "code": "conf_queue_speed",
@@ -119962,6 +119972,11 @@
         "description": "wf_act_place_furni desc"
       },
       {
+        "code": "wf_act_progress_ach",
+        "name": "wf_act_progress_ach name",
+        "description": "wf_act_progress_ach desc"
+      },
+      {
         "code": "wf_act_rel_mov",
         "name": "WIRED Effekt: Relative Möbelbewegung",
         "description": "wf_act_rel_mov desc"
@@ -119987,6 +120002,16 @@
         "description": "Dieser Effekt setzt Auslöser zurück, die an Timer gebunden sind."
       },
       {
+        "code": "wf_act_send_dataframe",
+        "name": "wf_act_send_dataframe name",
+        "description": "wf_act_send_dataframe desc"
+      },
+      {
+        "code": "wf_act_send_message",
+        "name": "wf_act_send_message name",
+        "description": "wf_act_send_message desc"
+      },
+      {
         "code": "wf_act_send_signal",
         "name": "WIRED Effekt: Signal senden",
         "description": "wf_act_send_signal desc"
@@ -119995,6 +120020,16 @@
         "code": "wf_act_set_altitude",
         "name": "WIRED Effekt: Möbelhöhe einstellen",
         "description": "wf_act_set_altitude desc"
+      },
+      {
+        "code": "wf_act_set_highlight",
+        "name": "wf_act_set_highlight name",
+        "description": "wf_act_set_highlight desc"
+      },
+      {
+        "code": "wf_act_set_visibility",
+        "name": "wf_act_set_visibility name",
+        "description": "wf_act_set_visibility desc"
       },
       {
         "code": "wf_act_show_message",
@@ -120457,6 +120492,16 @@
         "description": "wf_knob desc"
       },
       {
+        "code": "wf_label",
+        "name": "wf_label name",
+        "description": "wf_label desc"
+      },
+      {
+        "code": "wf_link",
+        "name": "wf_link name",
+        "description": "wf_link desc"
+      },
+      {
         "code": "wf_ltdproto_act_bd",
         "name": "Alter WIRED Effekt: Möbelzustände umschalten",
         "description": ""
@@ -120902,6 +120947,16 @@
         "description": "Effekte werden alle x Sekunden ausgelöst."
       },
       {
+        "code": "wf_trg_receive_dataframe",
+        "name": "wf_trg_receive_dataframe name",
+        "description": "wf_trg_receive_dataframe desc"
+      },
+      {
+        "code": "wf_trg_receive_message",
+        "name": "wf_trg_receive_message name",
+        "description": "wf_trg_receive_message desc"
+      },
+      {
         "code": "wf_trg_recv_signal",
         "name": "WIRED Auslöser: Signal empfangen",
         "description": "wf_trg_recv_signal desc"
@@ -120910,6 +120965,11 @@
         "code": "wf_trg_rent_walks_off_furni",
         "name": "WIRED Auslöser: Habbo tritt von einem Gegenstand herunter",
         "description": "Effekte werden ausgelöst, wenn ein Habbo von einem Gegenstand heruntertritt."
+      },
+      {
+        "code": "wf_trg_room_initializes",
+        "name": "wf_trg_room_initializes name",
+        "description": "wf_trg_room_initializes desc"
       },
       {
         "code": "wf_trg_says_something",
@@ -120977,6 +121037,11 @@
         "description": "wf_var_context desc"
       },
       {
+        "code": "wf_var_dailytask",
+        "name": "wf_var_dailytask name",
+        "description": "wf_var_dailytask desc"
+      },
+      {
         "code": "wf_var_echo",
         "name": "WIRED Variable: Echo",
         "description": "wf_var_echo desc"
@@ -120985,6 +121050,11 @@
         "code": "wf_var_furni",
         "name": "WIRED-Variable: Möbel-Variable",
         "description": "wf_var_furni desc"
+      },
+      {
+        "code": "wf_var_pointer",
+        "name": "wf_var_pointer name",
+        "description": "wf_var_pointer desc"
       },
       {
         "code": "wf_var_quest_chain",
@@ -121037,6 +121107,11 @@
         "description": "Drähte, die am Boden verlegt werden können"
       },
       {
+        "code": "wf_xtra_achievement_enabler",
+        "name": "wf_xtra_achievement_enabler name",
+        "description": "wf_xtra_achievement_enabler desc"
+      },
+      {
         "code": "wf_xtra_anim_time",
         "name": "WIRED Extra: Animationszeit",
         "description": "wf_xtra_anim_time desc"
@@ -121075,6 +121150,11 @@
         "code": "wf_xtra_filter_users",
         "name": "WIRED Filter: Filter auf X User",
         "description": "wf_xtra_filter_users desc"
+      },
+      {
+        "code": "wf_xtra_link_speaker",
+        "name": "wf_xtra_link_speaker name",
+        "description": "wf_xtra_link_speaker desc"
       },
       {
         "code": "wf_xtra_mov_carry_users",
@@ -121142,9 +121222,24 @@
         "description": "Nur ein bisher noch nicht benutzter Effekt aus diesem Stapel wird ausgelöst."
       },
       {
+        "code": "wf_xtra_var_import",
+        "name": "wf_xtra_var_import name",
+        "description": "wf_xtra_var_import desc"
+      },
+      {
+        "code": "wf_xtra_var_leaderboard",
+        "name": "wf_xtra_var_leaderboard name",
+        "description": "wf_xtra_var_leaderboard desc"
+      },
+      {
         "code": "wf_xtra_var_lvlup_system",
         "name": "Variablen Extra: Levelsystem",
         "description": "wf_xtra_var_lvlup_system desc"
+      },
+      {
+        "code": "wf_xtra_var_share",
+        "name": "wf_xtra_var_share name",
+        "description": "wf_xtra_var_share desc"
       },
       {
         "code": "wf_xtra_var_text_connector",

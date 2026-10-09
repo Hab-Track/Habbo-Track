@@ -71878,6 +71878,14 @@
             conf_area_hide desc
         </description>
     </product>
+    <product code="conf_chooser_disable">
+        <name>
+            conf_chooser_disable name
+        </name>
+        <description>
+            conf_chooser_disable desc
+        </description>
+    </product>
     <product code="conf_handitem_block">
         <name>
             Handitem blocker
@@ -71892,6 +71900,14 @@
         </name>
         <description>
             conf_invis_control desc
+        </description>
+    </product>
+    <product code="conf_kickwars_enable">
+        <name>
+            conf_kickwars_enable name
+        </name>
+        <description>
+            conf_kickwars_enable desc
         </description>
     </product>
     <product code="conf_queue_speed">
@@ -197126,6 +197142,14 @@
             wf_act_place_furni desc
         </description>
     </product>
+    <product code="wf_act_progress_ach">
+        <name>
+            wf_act_progress_ach name
+        </name>
+        <description>
+            wf_act_progress_ach desc
+        </description>
+    </product>
     <product code="wf_act_rel_mov">
         <name>
             WIRED Effect: Relative Furni Movement
@@ -197166,6 +197190,22 @@
             This Effect resets triggers that use timers.
         </description>
     </product>
+    <product code="wf_act_send_dataframe">
+        <name>
+            wf_act_send_dataframe name
+        </name>
+        <description>
+            wf_act_send_dataframe desc
+        </description>
+    </product>
+    <product code="wf_act_send_message">
+        <name>
+            wf_act_send_message name
+        </name>
+        <description>
+            wf_act_send_message desc
+        </description>
+    </product>
     <product code="wf_act_send_signal">
         <name>
             WIRED Effect: Send Signal
@@ -197180,6 +197220,22 @@
         </name>
         <description>
             wf_act_set_altitude desc
+        </description>
+    </product>
+    <product code="wf_act_set_highlight">
+        <name>
+            wf_act_set_highlight name
+        </name>
+        <description>
+            wf_act_set_highlight desc
+        </description>
+    </product>
+    <product code="wf_act_set_visibility">
+        <name>
+            wf_act_set_visibility name
+        </name>
+        <description>
+            wf_act_set_visibility desc
         </description>
     </product>
     <product code="wf_act_show_message">
@@ -197918,6 +197974,22 @@
             wf_knob desc
         </description>
     </product>
+    <product code="wf_label">
+        <name>
+            wf_label name
+        </name>
+        <description>
+            wf_label desc
+        </description>
+    </product>
+    <product code="wf_link">
+        <name>
+            wf_link name
+        </name>
+        <description>
+            wf_link desc
+        </description>
+    </product>
     <product code="wf_ltdproto_act_bd">
         <name>
             Ancient WIRED Effect: Toggle Furni State
@@ -198620,6 +198692,22 @@
             Effects are triggered every x seconds.
         </description>
     </product>
+    <product code="wf_trg_receive_dataframe">
+        <name>
+            wf_trg_receive_dataframe name
+        </name>
+        <description>
+            wf_trg_receive_dataframe desc
+        </description>
+    </product>
+    <product code="wf_trg_receive_message">
+        <name>
+            wf_trg_receive_message name
+        </name>
+        <description>
+            wf_trg_receive_message desc
+        </description>
+    </product>
     <product code="wf_trg_recv_signal">
         <name>
             WIRED Trigger: Receive Signal
@@ -198634,6 +198722,14 @@
         </name>
         <description>
             Effects are triggered when an avatar walks off a furni.
+        </description>
+    </product>
+    <product code="wf_trg_room_initializes">
+        <name>
+            wf_trg_room_initializes name
+        </name>
+        <description>
+            wf_trg_room_initializes desc
         </description>
     </product>
     <product code="wf_trg_says_something">
@@ -198756,6 +198852,14 @@
             wf_var_context desc
         </description>
     </product>
+    <product code="wf_var_dailytask">
+        <name>
+            wf_var_dailytask name
+        </name>
+        <description>
+            wf_var_dailytask desc
+        </description>
+    </product>
     <product code="wf_var_echo">
         <name>
             WIRED Variable: Echo
@@ -198770,6 +198874,14 @@
         </name>
         <description>
             wf_var_furni desc
+        </description>
+    </product>
+    <product code="wf_var_pointer">
+        <name>
+            wf_var_pointer name
+        </name>
+        <description>
+            wf_var_pointer desc
         </description>
     </product>
     <product code="wf_var_quest_chain">
@@ -198852,6 +198964,14 @@
             Wires that can be laid down in a room.
         </description>
     </product>
+    <product code="wf_xtra_achievement_enabler">
+        <name>
+            wf_xtra_achievement_enabler name
+        </name>
+        <description>
+            wf_xtra_achievement_enabler desc
+        </description>
+    </product>
     <product code="wf_xtra_anim_time">
         <name>
             WIRED Add-On: Animation Time
@@ -198914,6 +199034,14 @@
         </name>
         <description>
             wf_xtra_filter_users desc
+        </description>
+    </product>
+    <product code="wf_xtra_link_speaker">
+        <name>
+            wf_xtra_link_speaker name
+        </name>
+        <description>
+            wf_xtra_link_speaker desc
         </description>
     </product>
     <product code="wf_xtra_mov_carry_users">
@@ -199020,12 +199148,36 @@
             Only one previously unused Effect in this stack is triggered at a time.
         </description>
     </product>
+    <product code="wf_xtra_var_import">
+        <name>
+            wf_xtra_var_import name
+        </name>
+        <description>
+            wf_xtra_var_import desc
+        </description>
+    </product>
+    <product code="wf_xtra_var_leaderboard">
+        <name>
+            wf_xtra_var_leaderboard name
+        </name>
+        <description>
+            wf_xtra_var_leaderboard desc
+        </description>
+    </product>
     <product code="wf_xtra_var_lvlup_system">
         <name>
             Variable Add-on: Level-up System
         </name>
         <description>
             wf_xtra_var_lvlup_system desc
+        </description>
+    </product>
+    <product code="wf_xtra_var_share">
+        <name>
+            wf_xtra_var_share name
+        </name>
+        <description>
+            wf_xtra_var_share desc
         </description>
     </product>
     <product code="wf_xtra_var_text_connector">

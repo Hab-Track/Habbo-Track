@@ -72553,6 +72553,14 @@
             conf_area_hide desc
         </description>
     </product>
+    <product code="conf_chooser_disable">
+        <name>
+            conf_chooser_disable name
+        </name>
+        <description>
+            conf_chooser_disable desc
+        </description>
+    </product>
     <product code="conf_handitem_block">
         <name>
             Käsitavarasta luopumisen estäjä
@@ -72564,6 +72572,14 @@
             Näkymättömien tavaroiden säädin
         </name>
         <description></description>
+    </product>
+    <product code="conf_kickwars_enable">
+        <name>
+            conf_kickwars_enable name
+        </name>
+        <description>
+            conf_kickwars_enable desc
+        </description>
     </product>
     <product code="conf_queue_speed">
         <name>
@@ -186853,6 +186869,14 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
             wf_act_place_furni desc
         </description>
     </product>
+    <product code="wf_act_progress_ach">
+        <name>
+            wf_act_progress_ach name
+        </name>
+        <description>
+            wf_act_progress_ach desc
+        </description>
+    </product>
     <product code="wf_act_rel_mov">
         <name>
             Wired-toiminto: Suhteellinen tavaran liike
@@ -186893,6 +186917,22 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
             Toiminto nollaa Wired-ajastimet.
         </description>
     </product>
+    <product code="wf_act_send_dataframe">
+        <name>
+            wf_act_send_dataframe name
+        </name>
+        <description>
+            wf_act_send_dataframe desc
+        </description>
+    </product>
+    <product code="wf_act_send_message">
+        <name>
+            wf_act_send_message name
+        </name>
+        <description>
+            wf_act_send_message desc
+        </description>
+    </product>
     <product code="wf_act_send_signal">
         <name>
             Wired-toiminto: Lähetä signaali
@@ -186907,6 +186947,22 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
         </name>
         <description>
             wf_act_set_altitude desc
+        </description>
+    </product>
+    <product code="wf_act_set_highlight">
+        <name>
+            wf_act_set_highlight name
+        </name>
+        <description>
+            wf_act_set_highlight desc
+        </description>
+    </product>
+    <product code="wf_act_set_visibility">
+        <name>
+            wf_act_set_visibility name
+        </name>
+        <description>
+            wf_act_set_visibility desc
         </description>
     </product>
     <product code="wf_act_show_message">
@@ -187645,6 +187701,22 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
             wf_knob desc
         </description>
     </product>
+    <product code="wf_label">
+        <name>
+            wf_label name
+        </name>
+        <description>
+            wf_label desc
+        </description>
+    </product>
+    <product code="wf_link">
+        <name>
+            wf_link name
+        </name>
+        <description>
+            wf_link desc
+        </description>
+    </product>
     <product code="wf_ltdproto_act_bd">
         <name>
             Muinainen Wired-toiminto: Vaihda tavaran tilaa
@@ -188347,6 +188419,22 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
             Toiminnot suoritetaan säännöllisin väliajoin. Ajastin nollautuu, kun huoneeseen tulee ensimmäinen hahmo tai kun Nollaa ajastimet -toiminto suoritetaan.
         </description>
     </product>
+    <product code="wf_trg_receive_dataframe">
+        <name>
+            wf_trg_receive_dataframe name
+        </name>
+        <description>
+            wf_trg_receive_dataframe desc
+        </description>
+    </product>
+    <product code="wf_trg_receive_message">
+        <name>
+            wf_trg_receive_message name
+        </name>
+        <description>
+            wf_trg_receive_message desc
+        </description>
+    </product>
     <product code="wf_trg_recv_signal">
         <name>
             Wired-laukaisin: Vastaanota signaali
@@ -188361,6 +188449,14 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
         </name>
         <description>
             Toiminnot suoritetaan, kun hahmo kävelee pois tavaran päältä.
+        </description>
+    </product>
+    <product code="wf_trg_room_initializes">
+        <name>
+            wf_trg_room_initializes name
+        </name>
+        <description>
+            wf_trg_room_initializes desc
         </description>
     </product>
     <product code="wf_trg_says_something">
@@ -188467,6 +188563,14 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
             wf_var_context desc
         </description>
     </product>
+    <product code="wf_var_dailytask">
+        <name>
+            wf_var_dailytask name
+        </name>
+        <description>
+            wf_var_dailytask desc
+        </description>
+    </product>
     <product code="wf_var_echo">
         <name>
             Wired-muuttuja: Kaiku
@@ -188481,6 +188585,14 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
         </name>
         <description>
             wf_var_furni desc
+        </description>
+    </product>
+    <product code="wf_var_pointer">
+        <name>
+            wf_var_pointer name
+        </name>
+        <description>
+            wf_var_pointer desc
         </description>
     </product>
     <product code="wf_var_quest_chain">
@@ -188563,6 +188675,14 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
             Kaapelin voi vetää huoneen lattialle.
         </description>
     </product>
+    <product code="wf_xtra_achievement_enabler">
+        <name>
+            wf_xtra_achievement_enabler name
+        </name>
+        <description>
+            wf_xtra_achievement_enabler desc
+        </description>
+    </product>
     <product code="wf_xtra_anim_time">
         <name>
             Wired-lisä: Animaation kesto
@@ -188625,6 +188745,14 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
         </name>
         <description>
             wf_xtra_filter_users desc
+        </description>
+    </product>
+    <product code="wf_xtra_link_speaker">
+        <name>
+            wf_xtra_link_speaker name
+        </name>
+        <description>
+            wf_xtra_link_speaker desc
         </description>
     </product>
     <product code="wf_xtra_mov_carry_users">
@@ -188731,12 +188859,36 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
             Pinossa olevista toiminnoista suoritetaan yksi toiminto, jota ei ole vielä suoritettu
         </description>
     </product>
+    <product code="wf_xtra_var_import">
+        <name>
+            wf_xtra_var_import name
+        </name>
+        <description>
+            wf_xtra_var_import desc
+        </description>
+    </product>
+    <product code="wf_xtra_var_leaderboard">
+        <name>
+            wf_xtra_var_leaderboard name
+        </name>
+        <description>
+            wf_xtra_var_leaderboard desc
+        </description>
+    </product>
     <product code="wf_xtra_var_lvlup_system">
         <name>
             Wired-muuttujalisä: Tasoetenemisjärjestelmä
         </name>
         <description>
             wf_xtra_var_lvlup_system desc
+        </description>
+    </product>
+    <product code="wf_xtra_var_share">
+        <name>
+            wf_xtra_var_share name
+        </name>
+        <description>
+            wf_xtra_var_share desc
         </description>
     </product>
     <product code="wf_xtra_var_text_connector">

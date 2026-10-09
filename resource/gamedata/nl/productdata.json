@@ -45467,6 +45467,11 @@
         "description": "conf_area_hide desc"
       },
       {
+        "code": "conf_chooser_disable",
+        "name": "conf_chooser_disable name",
+        "description": "conf_chooser_disable desc"
+      },
+      {
         "code": "conf_handitem_block",
         "name": "Handitem Blokker",
         "description": "conf_handitem_block desc"
@@ -45475,6 +45480,11 @@
         "code": "conf_invis_control",
         "name": "Onzichtbare meubi controller",
         "description": "conf_invis_control desc"
+      },
+      {
+        "code": "conf_kickwars_enable",
+        "name": "conf_kickwars_enable name",
+        "description": "conf_kickwars_enable desc"
       },
       {
         "code": "conf_queue_speed",
@@ -120817,6 +120827,11 @@
         "description": "wf_act_place_furni desc"
       },
       {
+        "code": "wf_act_progress_ach",
+        "name": "wf_act_progress_ach name",
+        "description": "wf_act_progress_ach desc"
+      },
+      {
         "code": "wf_act_rel_mov",
         "name": "WIRED Reactie: Relatieve Meubi Beweging",
         "description": "wf_act_rel_mov desc"
@@ -120842,6 +120857,16 @@
         "description": "Met deze reactie reset je acties waar een timer aan zit."
       },
       {
+        "code": "wf_act_send_dataframe",
+        "name": "wf_act_send_dataframe name",
+        "description": "wf_act_send_dataframe desc"
+      },
+      {
+        "code": "wf_act_send_message",
+        "name": "wf_act_send_message name",
+        "description": "wf_act_send_message desc"
+      },
+      {
         "code": "wf_act_send_signal",
         "name": "WIRED Reactie: Stuur Signaal",
         "description": "wf_act_send_signal desc"
@@ -120850,6 +120875,16 @@
         "code": "wf_act_set_altitude",
         "name": "WIRED Reactie: Stel Meubi Hoogte In",
         "description": "wf_act_set_altitude desc"
+      },
+      {
+        "code": "wf_act_set_highlight",
+        "name": "wf_act_set_highlight name",
+        "description": "wf_act_set_highlight desc"
+      },
+      {
+        "code": "wf_act_set_visibility",
+        "name": "wf_act_set_visibility name",
+        "description": "wf_act_set_visibility desc"
       },
       {
         "code": "wf_act_show_message",
@@ -121312,6 +121347,16 @@
         "description": "wf_knob desc"
       },
       {
+        "code": "wf_label",
+        "name": "wf_label name",
+        "description": "wf_label desc"
+      },
+      {
+        "code": "wf_link",
+        "name": "wf_link name",
+        "description": "wf_link desc"
+      },
+      {
         "code": "wf_ltdproto_act_bd",
         "name": "Oude WIRED Reactie: Meubi wordt geactiveerd",
         "description": ""
@@ -121757,6 +121802,16 @@
         "description": "Reactie wordt elke x seconden geactiveerd."
       },
       {
+        "code": "wf_trg_receive_dataframe",
+        "name": "wf_trg_receive_dataframe name",
+        "description": "wf_trg_receive_dataframe desc"
+      },
+      {
+        "code": "wf_trg_receive_message",
+        "name": "wf_trg_receive_message name",
+        "description": "wf_trg_receive_message desc"
+      },
+      {
         "code": "wf_trg_recv_signal",
         "name": "WIRED Actie: Ontvang Signaal",
         "description": "wf_trg_recv_signal desc"
@@ -121765,6 +121820,11 @@
         "code": "wf_trg_rent_walks_off_furni",
         "name": "WIRED Actie: Habbo stapt van Meubi",
         "description": "Actie wordt gestart als een Habbo van een Meubi afstapt."
+      },
+      {
+        "code": "wf_trg_room_initializes",
+        "name": "wf_trg_room_initializes name",
+        "description": "wf_trg_room_initializes desc"
       },
       {
         "code": "wf_trg_says_something",
@@ -121842,6 +121902,11 @@
         "description": "wf_var_context desc"
       },
       {
+        "code": "wf_var_dailytask",
+        "name": "wf_var_dailytask name",
+        "description": "wf_var_dailytask desc"
+      },
+      {
         "code": "wf_var_echo",
         "name": "Wired Variabelen: Echo",
         "description": "wf_var_echo desc"
@@ -121850,6 +121915,11 @@
         "code": "wf_var_furni",
         "name": "WIRED Variabele: Meubi Variabele",
         "description": "wf_var_furni desc"
+      },
+      {
+        "code": "wf_var_pointer",
+        "name": "wf_var_pointer name",
+        "description": "wf_var_pointer desc"
       },
       {
         "code": "wf_var_quest_chain",
@@ -121902,6 +121972,11 @@
         "description": "Wires die je in een kamer kunt leggen"
       },
       {
+        "code": "wf_xtra_achievement_enabler",
+        "name": "wf_xtra_achievement_enabler name",
+        "description": "wf_xtra_achievement_enabler desc"
+      },
+      {
         "code": "wf_xtra_anim_time",
         "name": "WIRED Add-On: Animatietijd",
         "description": "wf_xtra_anim_time desc"
@@ -121940,6 +122015,11 @@
         "code": "wf_xtra_filter_users",
         "name": "WIRED Filter: Filter naar X Spelers",
         "description": "wf_xtra_filter_users desc"
+      },
+      {
+        "code": "wf_xtra_link_speaker",
+        "name": "wf_xtra_link_speaker name",
+        "description": "wf_xtra_link_speaker desc"
       },
       {
         "code": "wf_xtra_mov_carry_users",
@@ -122007,9 +122087,24 @@
         "description": "Er zal 1 van de nog niet eerder gebruikte reacties uit deze stapel opstarten."
       },
       {
+        "code": "wf_xtra_var_import",
+        "name": "wf_xtra_var_import name",
+        "description": "wf_xtra_var_import desc"
+      },
+      {
+        "code": "wf_xtra_var_leaderboard",
+        "name": "wf_xtra_var_leaderboard name",
+        "description": "wf_xtra_var_leaderboard desc"
+      },
+      {
         "code": "wf_xtra_var_lvlup_system",
         "name": "Variabele Add-on: Level-up Systeem",
         "description": "wf_xtra_var_lvlup_system desc"
+      },
+      {
+        "code": "wf_xtra_var_share",
+        "name": "wf_xtra_var_share name",
+        "description": "wf_xtra_var_share desc"
       },
       {
         "code": "wf_xtra_var_text_connector",
