@@ -2189,7 +2189,7 @@
                 </color>
             </partcolors>
             <name>
-                Polyfon parisänky
+                Polyfon-parisänky
             </name>
             <description>
                 Sänky kahdelle
@@ -54501,7 +54501,7 @@
                 </color>
             </partcolors>
             <name>
-                Polyfon parisänky
+                Polyfon-parisänky
             </name>
             <description>
                 Sänky kahdelle
@@ -119210,7 +119210,7 @@
                 1
             </ydim>
             <name>
-                Verinen defibrilaattori
+                Verinen defibrillaattori
             </name>
             <description>
                 Käynnistä pysähtynyt sydän!
@@ -119441,7 +119441,7 @@
                 1
             </ydim>
             <name>
-                Limainen defibrilaattori
+                Limainen defibrillaattori
             </name>
             <description>
                 Käynnistä pysähtynyt sydän!
@@ -168850,7 +168850,7 @@
                 1
             </ydim>
             <name>
-                Defibrilaattori
+                Defibrillaattori
             </name>
             <description>
                 Käynnistä pysähtynyt sydän!
@@ -202656,7 +202656,7 @@
                 1
             </ydim>
             <name>
-                lehtiä
+                Lehtiä
             </name>
             <description>
                 Terveellinen välipala (Runsaasti energiaa)
@@ -203762,7 +203762,7 @@
                 </color>
             </partcolors>
             <name>
-                prizetrophy_skate_silver name
+                Hopeinen skeittipokaali
             </name>
             <description>
                 prizetrophy_skate_silver desc
@@ -203850,7 +203850,7 @@
                 </color>
             </partcolors>
             <name>
-                prizetrophy_skate_bronze name
+                Pronssinen skeittipokaali
             </name>
             <description>
                 prizetrophy_skate_bronze desc
@@ -204160,7 +204160,7 @@
                 1
             </ydim>
             <name>
-                Spraymaali-kori
+                Spraymaalikori
             </name>
             <description>
                 Väriä urbaaneille seinille
@@ -204391,7 +204391,7 @@
                 1
             </ydim>
             <name>
-                Picasso-kilpikonna
+                Katkarapuja
             </name>
             <description>
                 Harvinainen kilpikonna ja katkarapuja
@@ -207481,7 +207481,7 @@
                 1
             </ydim>
             <name>
-                Monkey Nest
+                Apinan pesä
             </name>
             <description>
                 Kova makuualusta, mutta kelpaa apinalle
@@ -231108,7 +231108,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                18436
+                -1
             </offerid>
             <buyout>
                 0
@@ -231120,13 +231120,13 @@
                 0
             </rentbuyout>
             <bc>
-                1
+                0
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                18436
+                -1
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -235753,7 +235753,7 @@
                 1
             </ydim>
             <name>
-                Cup of Coffee
+                Kahvikuppi
             </name>
             <description>
                 Best way to start the day
@@ -261320,7 +261320,7 @@
                 1
             </ydim>
             <name>
-                Pad 3 SFX
+                Laatta 3 SFX
             </name>
             <description>
                 Klassinen Detroitin ääni
@@ -261474,7 +261474,7 @@
                 1
             </ydim>
             <name>
-                Pad SFX
+                Laatta SFX
             </name>
             <description>
                 Kuulostaa joltain
@@ -262321,7 +262321,7 @@
                 1
             </ydim>
             <name>
-                Pad 2 SFX
+                Laatta 2 SFX
             </name>
             <description>
                 Kuulostaa räppäävältä kilpikonnalta
@@ -262862,7 +262862,7 @@
                 1
             </ydim>
             <name>
-                Square Pad SFX
+                Neliölaatta SFX
             </name>
             <description>
                 Square tai mikä se nyt olikaan.
@@ -285512,7 +285512,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                18436
+                -1
             </offerid>
             <buyout>
                 0
@@ -288329,7 +288329,7 @@
                 3
             </ydim>
             <name>
-                Oranssi pikku-teltta
+                Oranssi pikkuteltta
             </name>
             <description>
                 Laatuaikaa luonnon helmassa
@@ -288868,7 +288868,7 @@
                 3
             </ydim>
             <name>
-                Sininen pikku-teltta
+                Sininen pikkuteltta
             </name>
             <description>
                 Laatuaikaa luonnon helmassa
@@ -289487,7 +289487,7 @@
                 3
             </ydim>
             <name>
-                Camo pikku-teltta
+                Camo pikkuteltta
             </name>
             <description>
                 Laatuaikaa luonnon helmassa
@@ -289564,7 +289564,7 @@
                 3
             </ydim>
             <name>
-                Beige pikku-teltta
+                Beige pikkuteltta
             </name>
             <description>
                 Laatuaikaa luonnon helmassa
@@ -292635,7 +292635,7 @@
                 1
             </ydim>
             <name>
-                Broileri-koju
+                Broilerikoju
             </name>
             <description>
                 Kultainen kaunis Rotisserie-kana
@@ -302631,7 +302631,7 @@
                 1
             </ydim>
             <name>
-                Tee-sarja
+                Teesarja
             </name>
             <description>
                 Teetä se on, katso vaikka!
@@ -304712,7 +304712,7 @@
                 1
             </ydim>
             <name>
-                Iso Popcorni
+                Iso popcorni
             </name>
             <description>
                 Voissa uitettu
@@ -319088,7 +319088,7 @@
                 1
             </ydim>
             <name>
-                HC ylellinen hissi / teleportti
+                Ylellinen HC-hissitele
             </name>
             <description>
                 Kattohuoneistoon sopiva
@@ -320243,7 +320243,7 @@
                 1
             </ydim>
             <name>
-                Munatoti-setti
+                Munatotisetti
             </name>
             <description>
                 Herkullista muskottia
@@ -348154,10 +348154,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                9524
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -348166,13 +348166,13 @@
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                9524
             </bcofferid>
             <customparams>
                 24
@@ -348455,7 +348455,7 @@
                 1
             </ydim>
             <name>
-                Rockabilly -kitarakotelo
+                Rockabilly-kitarakotelo
             </name>
             <description>
                 Keikkabussin kolhima
@@ -348609,7 +348609,7 @@
                 1
             </ydim>
             <name>
-                Taisteluvarjon pöytä.
+                Taisteluvarjon pöytä
             </name>
             <description>
                 Tukeva pöytä riehakkaisiin viikinkijuhliin.
@@ -354912,7 +354912,7 @@
                 2
             </ydim>
             <name>
-                HiStore piste
+                HiStore-piste
             </name>
             <description>
                 Pelaa. Juttele. Luo. Kosketa.
@@ -367678,7 +367678,7 @@
                 2
             </ydim>
             <name>
-                Kissan ryijy
+                Kissamatto
             </name>
             <description>
                 miaaaaaauuuuuuuu
@@ -368452,7 +368452,7 @@
                 1
             </ydim>
             <name>
-                Haba Johnin pizzeria
+                Haba Johnin pizza
             </name>
             <description>
                 Aamiainen, lounas ja illallinen
@@ -374988,7 +374988,7 @@
                 1
             </ydim>
             <name>
-                Musta Adobe-pääkalloportti.
+                Musta Adobe-pääkalloportti
             </name>
             <description>
                 Astu sisään...jos uskallat.
@@ -384867,7 +384867,7 @@
                 1
             </ydim>
             <name>
-                Uuden vuoden ilmapallot
+                Uudenvuoden ilmapallot
             </name>
             <description>
                 Pallot tekevät bileet!
@@ -504816,7 +504816,7 @@
                 1
             </ydim>
             <name>
-                Kävelysillan keskiosa.
+                Kävelysillan keskiosa
             </name>
             <description>
                 Ylitä soliseva puro!
@@ -506591,7 +506591,7 @@
                 1
             </ydim>
             <name>
-                Peitetty pitkä pöytä.
+                Peitetty pitkä pöytä
             </name>
             <description>
                 Kenkkuileva pöydänjalka tekee pöydästä huteran.
@@ -508472,7 +508472,7 @@
                 </color>
             </partcolors>
             <name>
-                Vaalean sininen Hibbo
+                Vaaleansininen Hibbo
             </name>
             <description>
                 Hib-hib-hurraa!
@@ -528392,10 +528392,10 @@
                 1
             </ydim>
             <name>
-                Atlas BC
+                HR-Atlas
             </name>
             <description>
-                by Flee Flaurie
+                Flee Flaurien tekemä
             </description>
             <adurl></adurl>
             <offerid>
@@ -616118,7 +616118,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Klassinen BB-lukko
+                Klassinen BB-palikka
             </name>
             <description>
                 Turvaa tärkeät kamat.
@@ -623843,7 +623843,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Linnakketiili
+                Linnaketiili
             </name>
             <description>
                 Voit käyttää tätä oikeastaan mihin tahansa.
@@ -624232,7 +624232,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Linnakkebanderollit
+                Linnakebanderollit
             </name>
             <description>
                 Edustaa kahta kuulua velhojoukkoa
@@ -626403,7 +626403,7 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                18436
+                -1
             </offerid>
             <buyout>
                 0
@@ -626415,13 +626415,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                1
+                0
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                18436
+                -1
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -636120,7 +636120,7 @@ Minkä niistä saat omaksesi?
                 </color>
             </partcolors>
             <name>
-                Ruiskaunokinsininen ruukku
+                Kaunokkiruukku
             </name>
             <description>
                 Salskea ja ylpeä.
@@ -644082,7 +644082,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Santorini-viheralue
+                Santorini-puska
             </name>
             <description>
                 santorini_c17_pottedplants desc
@@ -666719,7 +666719,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Haudattu Zombie-ansa
+                Haudattu Zombie -ansa
             </name>
             <description>
                 hween_c17_handstrap desc
@@ -672753,7 +672753,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Napitetut housut suunnittelu
+                Napitetut housut -design
             </name>
             <description>
                 xmas_c17_blueprint4 desc
@@ -673061,7 +673061,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Hörhelöpaita suunnittelu
+                Hörhelöpaita-design
             </name>
             <description>
                 xmas_c17_blueprint2 desc
@@ -673292,7 +673292,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Hörhelö paita
+                Hörhelöpaita
             </name>
             <description>
                 clothing_ruffleshirt desc
@@ -673758,7 +673758,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Silinteri suunnittelu
+                Silinteri-design
             </name>
             <description>
                 xmas_c17_blueprint1 desc
@@ -678832,7 +678832,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                HC Lounge vinyyli
+                HC Lounge -vinyyli
             </name>
             <description>
                 classic8_records desc
@@ -681978,7 +681978,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                HC Voima suihku
+                HC-Voimasuihku
             </name>
             <description>
                 hc17_8 desc
@@ -688950,7 +688950,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Vanhassa vaka parempi-ainesosa
+                Vanhassa vara parempi -ainesosa
             </name>
             <description>
                 gift_bff_a desc
@@ -699399,7 +699399,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Tokio ruokien esillepano
+                Tokio-ruokataso
             </name>
             <description>
                 tokyo_c18_snackdisplay desc
@@ -699863,7 +699863,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Tokio ruokakärry
+                Tokio-ruokakärry
             </name>
             <description>
                 tokyo_c18_snackdisplay2 desc
@@ -701032,7 +701032,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Habbo 18 valtaistuin
+                Habbo 18 -valtaistuin
             </name>
             <description>
                 anniversary_r18_throne desc
@@ -710412,7 +710412,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Pahis Furby
+                Pahis-Furby
             </name>
             <description>
                 hween_c18_toy3old desc
@@ -715372,7 +715372,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                borssikeitto
+                Borssikeitto
             </name>
             <description>
                 xmas_c18_borscht desc
@@ -728379,7 +728379,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Bonnie punahilkka
+                Bonnie-punahilkka
             </name>
             <description>
                 easter_c19_lilredbonnie desc
@@ -728766,7 +728766,7 @@ Minkä niistä saat omaksesi?
                 2
             </ydim>
             <name>
-                Niitty laatta
+                Niittylaatta
             </name>
             <description>
                 easter_c19_forrestfloor desc
@@ -740354,7 +740354,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Habboplaneetta
+                Habbo-planeetta
             </name>
             <description>
                 celestial_c19_planet desc
@@ -755352,7 +755352,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Talviden palatsin parveke
+                Talvipalatsin parveke
             </name>
             <description>
                 xmas_c19_balcony desc
@@ -757599,7 +757599,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Talviden palatsin holvikaari
+                Talvipalatsin holvikaari
             </name>
             <description>
                 xmas_c19_archwall desc
@@ -766653,7 +766653,7 @@ Minkä niistä saat omaksesi?
                 </color>
             </partcolors>
             <name>
-                Vaalean punainen pötsilamppu
+                Vaaleanpunainen pötsilamppu
             </name>
             <description>
                 bonusrare20_1a_6 desc
@@ -773820,7 +773820,7 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                18436
+                -1
             </offerid>
             <buyout>
                 0
@@ -773832,13 +773832,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                1
+                0
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                18436
+                -1
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -783220,7 +783220,7 @@ Minkä niistä saat omaksesi?
                 2
             </ydim>
             <name>
-                Sädepäivän tapetti
+                Sadepäivän tapetti
             </name>
             <description>
                 rainyday_c20_raindropwall desc
@@ -794281,7 +794281,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Modernin yksiön mordenit taideteokset
+                Modernin yksiön modernit taideteokset
             </name>
             <description>
                 darkmodern_c20_pictures desc
@@ -807306,7 +807306,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                HARVINAINEN Antiikkinojatuoli
+                Harvinainen Antiikkinojatuoli
             </name>
             <description>
                 rare_royalchair desc
@@ -820835,7 +820835,7 @@ Minkä niistä saat omaksesi?
                 </color>
             </partcolors>
             <name>
-                Kullan keltainen kumppari-istutus
+                Kullankeltainen kumppari-istutus
             </name>
             <description>
                 bonusrare21_3_1 desc
@@ -837586,7 +837586,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Nipistän sinua
+                Mangroverapu
             </name>
             <description>
                 thai_c21_mangrovecrab desc
@@ -838753,7 +838753,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Aranya norsu
+                Aranya-norsu
             </name>
             <description>
                 thai_r21_babyele desc
@@ -846047,7 +846047,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Glitteri keijusiivet
+                Glitterkeijusiivet
             </name>
             <description>
                 clothing_r21_fairywings desc
@@ -925048,7 +925048,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Wilderness Explorer Outfit
+                Eräretkeilijän asu
             </name>
             <description>
                 clothing_explorersoutfit desc
@@ -946357,7 +946357,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Pienet hampaat pääkallo
+                Pienihampainen pääkallo
             </name>
             <description>
                 dino_c22_smallteeth desc
@@ -946667,7 +946667,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Isot hampaat pääkallo
+                Isohampainen pääkallo
             </name>
             <description>
                 dino_c22_bigteeth desc
@@ -946898,7 +946898,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Isojalka luu
+                Isojalan luut
             </name>
             <description>
                 dino_c22_bigfoot desc
@@ -947668,7 +947668,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                easel_buildcomp name
+                Rakentajan maalausteline
             </name>
             <description>
                 easel_buildcomp desc
@@ -950150,7 +950150,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Fantasia riimukivet
+                Fantasiariimukivet
             </name>
             <description>
                 fantasy_c22_rune desc
@@ -951702,7 +951702,7 @@ Minkä niistä saat omaksesi?
                 2
             </ydim>
             <name>
-                Keski-aikainen kaariportti
+                Keskiaikainen kaariportti
             </name>
             <description>
                 fantasy_c22_archway desc
@@ -971819,7 +971819,7 @@ Minkä niistä saat omaksesi?
                 2
             </ydim>
             <name>
-                Pojoismaalainen sauna
+                Pohjoismaalainen sauna
             </name>
             <description>
                 xmas_r22_sauna desc
@@ -986910,7 +986910,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Mars hyökkää-pelikone
+                Mars hyökkää -pelikone
             </name>
             <description>
                 arcade_c23_space desc
@@ -999261,7 +999261,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                NFT-katujen kingit-pokaali
+                NFT-katujen kingit -pokaali
             </name>
             <description>
                 nft_h23_sonft_trophy desc
@@ -1014143,7 +1014143,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Toimintafiguuri Noob
+                Noob-toimintafiguuri
             </name>
             <description>
                 nft_h23_haf_noob desc
@@ -1015312,7 +1015312,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Will-O-Wisp Moon
+                Virvatulen kuu
             </name>
             <description>
                 wisp_c23_moon desc
@@ -1028513,7 +1028513,7 @@ Minkä niistä saat omaksesi?
                 2
             </ydim>
             <name>
-                Pizza rotta
+                Pizzarotta
             </name>
             <description>
                 nyc_c23_pizzarat desc
@@ -1028898,7 +1028898,7 @@ Minkä niistä saat omaksesi?
                 3
             </ydim>
             <name>
-                Pizzan toimitus pyörä
+                Pizzantoimituspyörä
             </name>
             <description>
                 nyc_c23_pizzabike desc
@@ -1170594,7 +1170594,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Neon konfetti
+                Neonkonfetti
             </name>
             <description>
                 hween_c24_neonconfetti desc
@@ -1189712,7 +1189712,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                HARVINAINEN Antiikkinojatuoli
+                Harvinainen Antiikkinojatuoli
             </name>
             <description>
                 nft_rare_royalchair desc
@@ -1217198,7 +1217198,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Super Hold-hiusvaha
+                Super Hold -hiusvaha
             </name>
             <description>
                 easter_c25_hairgel desc
@@ -1238666,7 +1238666,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                2025 Habboween-lahjapaketit
+                2025 Habboween -lahjapaketit
             </name>
             <description>
                 giftbox_c25_crackable7 desc
@@ -1255447,7 +1255447,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Kellosuojus
+                Takanreunuskello
             </name>
             <description>
                 recycler_mantelclock desc
@@ -1260512,7 +1260512,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Synttäreiden ankkamufinssi
+                Synttäreiden ankkamuffinssi
             </name>
             <description>
                 ducket_c25_duckcake desc
@@ -1275704,7 +1275704,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Tammenterho riipputuoli
+                Tammenterhoriipputuoli
             </name>
             <description>
                 ducket_c25_autumnpod desc
@@ -1304272,7 +1304272,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                easel_buildcomp name
+                Rakentajan maalausteline
             </name>
             <description>
                 nft_easel_buildcomp desc
@@ -1331543,7 +1331543,7 @@ Minkä niistä saat omaksesi?
                 2
             </ydim>
             <name>
-                Cottage Floor
+                Mökin lattia
             </name>
             <description>
                 ducket_c26_floor desc
@@ -1345882,7 +1345882,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Vivatulitoveri
+                Virvatulitoveri
             </name>
             <description>
                 clothing_r26_wisp desc
@@ -1350724,7 +1350724,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Sydänklitterit
+                Sydänglitteri
             </name>
             <description>
                 disco_c26_heartglitter desc
@@ -1352572,7 +1352572,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                Pinnki glitteripommi
+                Pinkki glitteripommi
             </name>
             <description>
                 disco_c26_pinkglitterbomb desc
@@ -1393472,7 +1393472,7 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                29263
+                -1
             </offerid>
             <buyout>
                 0
@@ -1406610,7 +1406610,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_a_recolorable name
+                A-palikka
             </name>
             <description>
                 bc_alpha1_a_recolorable desc
@@ -1406629,13 +1406629,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29192
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1406687,7 +1406687,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_alpha_recolorable name
+                Aakkospalikka
             </name>
             <description>
                 bc_alpha1_alpha_recolorable desc
@@ -1406706,13 +1406706,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29193
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1406764,7 +1406764,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_b_recolorable name
+                B-palikka
             </name>
             <description>
                 bc_alpha1_b_recolorable desc
@@ -1406783,13 +1406783,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29194
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1406841,7 +1406841,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_c_recolorable name
+                C-palikka
             </name>
             <description>
                 bc_alpha1_c_recolorable desc
@@ -1406860,13 +1406860,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29195
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1406918,7 +1406918,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_d_recolorable name
+                D-palikka
             </name>
             <description>
                 bc_alpha1_d_recolorable desc
@@ -1406937,13 +1406937,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29196
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1406995,7 +1406995,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_e_recolorable name
+                E-palikka
             </name>
             <description>
                 bc_alpha1_e_recolorable desc
@@ -1407014,13 +1407014,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29197
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407072,7 +1407072,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_f_recolorable name
+                F-palikka
             </name>
             <description>
                 bc_alpha1_f_recolorable desc
@@ -1407091,13 +1407091,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29198
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407149,7 +1407149,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_g_recolorable name
+                G-palikka
             </name>
             <description>
                 bc_alpha1_g_recolorable desc
@@ -1407168,13 +1407168,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29199
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407226,7 +1407226,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_h_recolorable name
+                H-palikka
             </name>
             <description>
                 bc_alpha1_h_recolorable desc
@@ -1407245,13 +1407245,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29200
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407303,7 +1407303,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_i_recolorable name
+                I-palikka
             </name>
             <description>
                 bc_alpha1_i_recolorable desc
@@ -1407322,13 +1407322,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29201
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407380,7 +1407380,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_j_recolorable name
+                J-palikka
             </name>
             <description>
                 bc_alpha1_j_recolorable desc
@@ -1407399,13 +1407399,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29202
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407457,7 +1407457,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_k_recolorable name
+                K-palikka
             </name>
             <description>
                 bc_alpha1_k_recolorable desc
@@ -1407476,13 +1407476,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29203
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407534,7 +1407534,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_l_recolorable name
+                L-palikka
             </name>
             <description>
                 bc_alpha1_l_recolorable desc
@@ -1407553,13 +1407553,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29204
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407611,7 +1407611,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_m_recolorable name
+                M-palikka
             </name>
             <description>
                 bc_alpha1_m_recolorable desc
@@ -1407630,13 +1407630,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29205
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407688,7 +1407688,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_n_recolorable name
+                N-palikka
             </name>
             <description>
                 bc_alpha1_n_recolorable desc
@@ -1407707,13 +1407707,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29206
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407765,7 +1407765,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_num_recolorable name
+                Numeropalikka
             </name>
             <description>
                 bc_alpha1_num_recolorable desc
@@ -1407784,13 +1407784,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29207
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407842,7 +1407842,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_o_recolorable name
+                O-palikka
             </name>
             <description>
                 bc_alpha1_o_recolorable desc
@@ -1407861,13 +1407861,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29208
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407919,7 +1407919,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_p_recolorable name
+                P-palikka
             </name>
             <description>
                 bc_alpha1_p_recolorable desc
@@ -1407938,13 +1407938,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29209
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1407996,7 +1407996,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_q_recolorable name
+                Q-palikka
             </name>
             <description>
                 bc_alpha1_q_recolorable desc
@@ -1408015,13 +1408015,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29210
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1408073,7 +1408073,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_r_recolorable name
+                R-palikka
             </name>
             <description>
                 bc_alpha1_r_recolorable desc
@@ -1408092,13 +1408092,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29211
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1408150,7 +1408150,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_s_recolorable name
+                S-palikka
             </name>
             <description>
                 bc_alpha1_s_recolorable desc
@@ -1408169,13 +1408169,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29212
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1408227,7 +1408227,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_t_recolorable name
+                T-palikka
             </name>
             <description>
                 bc_alpha1_t_recolorable desc
@@ -1408246,13 +1408246,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29213
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1408304,7 +1408304,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_u_recolorable name
+                U-palikka
             </name>
             <description>
                 bc_alpha1_u_recolorable desc
@@ -1408323,13 +1408323,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29214
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1408381,7 +1408381,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_v_recolorable name
+                V-palikka
             </name>
             <description>
                 bc_alpha1_v_recolorable desc
@@ -1408400,13 +1408400,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29215
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1408458,7 +1408458,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_w_recolorable name
+                W-palikka
             </name>
             <description>
                 bc_alpha1_w_recolorable desc
@@ -1408477,13 +1408477,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29216
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1408535,7 +1408535,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_x_recolorable name
+                X-palikka
             </name>
             <description>
                 bc_alpha1_x_recolorable desc
@@ -1408554,13 +1408554,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29217
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1408612,7 +1408612,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_y_recolorable name
+                Y-palikka
             </name>
             <description>
                 bc_alpha1_y_recolorable desc
@@ -1408631,13 +1408631,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29218
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1408689,7 +1408689,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_alpha1_z_recolorable name
+                Z-palikka
             </name>
             <description>
                 bc_alpha1_z_recolorable desc
@@ -1408708,13 +1408708,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29219
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1408766,7 +1408766,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_0_recolorable name
+                Pieni vaakapalikka
             </name>
             <description>
                 bc_block_0_recolorable desc
@@ -1408785,13 +1408785,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29220
             </bcofferid>
             <customparams>
                 -0.25
@@ -1408845,7 +1408845,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_1_recolorable name
+                Iso palikka
             </name>
             <description>
                 bc_block_1_recolorable desc
@@ -1408864,13 +1408864,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29221
             </bcofferid>
             <customparams>
                 -0.25
@@ -1408924,7 +1408924,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_artdeco1_recolorable name
+                Art Deco-palikka
             </name>
             <description>
                 bc_block_artdeco1_recolorable desc
@@ -1408943,13 +1408943,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29222
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1409001,7 +1409001,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_glass_recolorable name
+                Lasipalikka
             </name>
             <description>
                 bc_block_glass_recolorable desc
@@ -1409020,13 +1409020,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29223
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1409078,7 +1409078,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_grass_recolorable name
+                Ruohopalikka
             </name>
             <description>
                 bc_block_grass_recolorable desc
@@ -1409097,13 +1409097,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29224
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1409155,7 +1409155,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_industrial_recolorable name
+                Teollinen palikka
             </name>
             <description>
                 bc_block_industrial_recolorable desc
@@ -1409174,13 +1409174,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29225
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1409232,7 +1409232,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_marble_recolorable name
+                Marmoripalikka
             </name>
             <description>
                 bc_block_marble_recolorable desc
@@ -1409251,13 +1409251,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29226
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1409309,7 +1409309,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_metalgrip_recolorable name
+                Metallipalikka
             </name>
             <description>
                 bc_block_metalgrip_recolorable desc
@@ -1409328,13 +1409328,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29227
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1409386,7 +1409386,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_redbrick_recolorable name
+                Tiilipalikka
             </name>
             <description>
                 bc_block_redbrick_recolorable desc
@@ -1409405,13 +1409405,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29228
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1409463,7 +1409463,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_sand_recolorable name
+                Hiekkapalikka
             </name>
             <description>
                 bc_block_sand_recolorable desc
@@ -1409482,13 +1409482,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29229
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1409540,7 +1409540,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_small_recolorable name
+                Pieni pystypalikka
             </name>
             <description>
                 bc_block_small_recolorable desc
@@ -1409559,13 +1409559,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29230
             </bcofferid>
             <customparams>
                 -0.25
@@ -1409619,7 +1409619,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_water_recolorable name
+                Vesipalikka
             </name>
             <description>
                 bc_block_water_recolorable desc
@@ -1409638,13 +1409638,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29231
             </bcofferid>
             <customparams>
                 30
@@ -1409698,7 +1409698,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_block_wool_recolorable name
+                Villapalikka
             </name>
             <description>
                 bc_block_wool_recolorable desc
@@ -1409717,13 +1409717,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29232
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1409775,7 +1409775,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_cone_recolorable name
+                Tuuttipalikka
             </name>
             <description>
                 bc_cone_recolorable desc
@@ -1409794,13 +1409794,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29233
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1409852,7 +1409852,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_curvedramp_recolorable name
+                Ramppi
             </name>
             <description>
                 bc_curvedramp_recolorable desc
@@ -1409871,13 +1409871,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29234
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1409929,7 +1409929,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_cylinder_recolorable name
+                Tuubi
             </name>
             <description>
                 bc_cylinder_recolorable desc
@@ -1409948,13 +1409948,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29235
             </bcofferid>
             <customparams>
                 -0.25
@@ -1410008,7 +1410008,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_flowerhedge_recolorable name
+                Kukkaisaita
             </name>
             <description>
                 bc_flowerhedge_recolorable desc
@@ -1410027,13 +1410027,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29236
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1410085,7 +1410085,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_glasspanel_recolorable name
+                Lasipaneeli
             </name>
             <description>
                 bc_glasspanel_recolorable desc
@@ -1410104,13 +1410104,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29237
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1410162,7 +1410162,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_halfcylinder_recolorable name
+                Puolituubi
             </name>
             <description>
                 bc_halfcylinder_recolorable desc
@@ -1410181,13 +1410181,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29238
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1410239,7 +1410239,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_hemisphere_recolorable name
+                Puoli palloa
             </name>
             <description>
                 bc_hemisphere_recolorable desc
@@ -1410258,13 +1410258,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29239
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1410316,7 +1410316,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_lavarock_recolorable name
+                Laavapalikka
             </name>
             <description>
                 bc_lavarock_recolorable desc
@@ -1410335,13 +1410335,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29240
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1410393,7 +1410393,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_metalcrate_recolorable name
+                Metalliromupalikka
             </name>
             <description>
                 bc_metalcrate_recolorable desc
@@ -1410412,13 +1410412,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29241
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1410470,7 +1410470,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_panel_recolorable name
+                Paneelipalikka
             </name>
             <description>
                 bc_panel_recolorable desc
@@ -1410489,13 +1410489,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29242
             </bcofferid>
             <customparams>
                 -0.5
@@ -1410549,7 +1410549,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_pyramidtip_recolorable name
+                Pyramidipalikka
             </name>
             <description>
                 bc_pyramidtip_recolorable desc
@@ -1410568,13 +1410568,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29243
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1410626,7 +1410626,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_quartercircle_recolorable name
+                Neljännes ympyrä palikka
             </name>
             <description>
                 bc_quartercircle_recolorable desc
@@ -1410645,13 +1410645,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29244
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1410703,7 +1410703,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_quarterring_recolorable name
+                Rinkeli
             </name>
             <description>
                 bc_quarterring_recolorable desc
@@ -1410722,13 +1410722,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29245
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1410780,7 +1410780,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_ramp_recolorable name
+                Ramppipalikka
             </name>
             <description>
                 bc_ramp_recolorable desc
@@ -1410799,13 +1410799,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29246
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1410857,7 +1410857,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_round_recolorable name
+                Pyöreä palikka
             </name>
             <description>
                 bc_round_recolorable desc
@@ -1410876,13 +1410876,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29247
             </bcofferid>
             <customparams>
                 -0.25
@@ -1410936,7 +1410936,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_sphere_recolorable name
+                Pallopalikka
             </name>
             <description>
                 bc_sphere_recolorable desc
@@ -1410955,13 +1410955,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29248
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1411013,7 +1411013,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_sphere_small_recolorable name
+                Pieni pallo
             </name>
             <description>
                 bc_sphere_small_recolorable desc
@@ -1411032,13 +1411032,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29249
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1411090,7 +1411090,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_stairs_recolorable name
+                Porraspalikka
             </name>
             <description>
                 bc_stairs_recolorable desc
@@ -1411109,13 +1411109,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29250
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1411167,7 +1411167,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_standinghalfcylinder_recolorable name
+                Seisova puolituubi
             </name>
             <description>
                 bc_standinghalfcylinder_recolorable desc
@@ -1411186,13 +1411186,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29251
             </bcofferid>
             <customparams>
                 -0.25
@@ -1411246,7 +1411246,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_standingtriangularprism_recolorable name
+                Kolmikulmainen pystyssä
             </name>
             <description>
                 bc_standingtriangularprism_recolorable desc
@@ -1411265,13 +1411265,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29252
             </bcofferid>
             <customparams>
                 -0.25
@@ -1411325,7 +1411325,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_stick_recolorable name
+                Keppipalikka
             </name>
             <description>
                 bc_stick_recolorable desc
@@ -1411344,13 +1411344,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29253
             </bcofferid>
             <customparams>
                 -1.00
@@ -1411404,7 +1411404,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_stone_recolorable name
+                Kivipalikka
             </name>
             <description>
                 bc_stone_recolorable desc
@@ -1411423,13 +1411423,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29254
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1411481,7 +1411481,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_terra_recolorable name
+                Maapalikka
             </name>
             <description>
                 bc_terra_recolorable desc
@@ -1411500,13 +1411500,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29255
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1411558,7 +1411558,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_tile_recolorable name
+                Tiilipalikka
             </name>
             <description>
                 bc_tile_recolorable desc
@@ -1411577,13 +1411577,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29256
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1411635,7 +1411635,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_triangularprism_recolorable name
+                Kolmikulmainen
             </name>
             <description>
                 bc_triangularprism_recolorable desc
@@ -1411654,13 +1411654,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29257
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1411712,7 +1411712,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_wedge_recolorable name
+                Aitapalikka
             </name>
             <description>
                 bc_wedge_recolorable desc
@@ -1411731,13 +1411731,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29258
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1411789,7 +1411789,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_wedgecrnr_recolorable name
+                Kiilakulma
             </name>
             <description>
                 bc_wedgecrnr_recolorable desc
@@ -1411808,13 +1411808,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29259
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1411866,7 +1411866,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                bc_wood_recolorable name
+                Puupalikka
             </name>
             <description>
                 bc_wood_recolorable desc
@@ -1411885,13 +1411885,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29260
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1412097,7 +1412097,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                conf_chooser_disable name
+                :chooser-komennon estäjä
             </name>
             <description>
                 conf_chooser_disable desc
@@ -1412330,7 +1412330,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_act_send_dataframe name
+                Wired-toiminto: Lähetä datakehys verkkolinkittäjään
             </name>
             <description>
                 wf_act_send_dataframe desc
@@ -1412409,7 +1412409,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_act_send_message name
+                Wired-toiminto: Lähetä viesti verkkolinkittäjään
             </name>
             <description>
                 wf_act_send_message desc
@@ -1412488,7 +1412488,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_act_set_highlight name
+                Wired-toiminto: Aseta tavaran korostus
             </name>
             <description>
                 wf_act_set_highlight desc
@@ -1412567,7 +1412567,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_act_set_visibility name
+                Wired-toiminto: Aseta tavaran läpinäkyvyys
             </name>
             <description>
                 wf_act_set_visibility desc
@@ -1412646,7 +1412646,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_label name
+                Wired-kyltti
             </name>
             <description>
                 wf_label desc
@@ -1412723,7 +1412723,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_link name
+                Wired-verkkolinkittäjä
             </name>
             <description>
                 wf_link desc
@@ -1412800,7 +1412800,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_trg_receive_dataframe name
+                Wired-laukaisin: Vastaanota datakehys verkkolinkittäjästä
             </name>
             <description>
                 wf_trg_receive_dataframe desc
@@ -1412879,7 +1412879,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_trg_receive_message name
+                Wired-laukaisin: Vastaanota viesti verkkolinkittäjästä
             </name>
             <description>
                 wf_trg_receive_message desc
@@ -1412958,7 +1412958,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_trg_room_initializes name
+                Wired-laukaisin: Huone on ladattu
             </name>
             <description>
                 wf_trg_room_initializes desc
@@ -1413116,7 +1413116,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_var_pointer name
+                Wired-muuttuja: Osoitinmuuttuja
             </name>
             <description>
                 wf_var_pointer desc
@@ -1413274,7 +1413274,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_xtra_link_speaker name
+                Wired-verkkolinkittäjän puhuja
             </name>
             <description>
                 wf_xtra_link_speaker desc
@@ -1413353,7 +1413353,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_xtra_var_import name
+                Wired-muuttujalisä: Tuonti
             </name>
             <description>
                 wf_xtra_var_import desc
@@ -1413432,7 +1413432,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_xtra_var_leaderboard name
+                Wired-muuttujalisä: Tulostaulu
             </name>
             <description>
                 wf_xtra_var_leaderboard desc
@@ -1413511,7 +1413511,7 @@ Minkä niistä saat omaksesi?
                 1
             </ydim>
             <name>
-                wf_xtra_var_share name
+                Wired-muuttujalisä: Jakaminen
             </name>
             <description>
                 wf_xtra_var_share desc
@@ -1438693,7 +1438693,7 @@ Minkä niistä saat omaksesi?
                 wall_decoration
             </category>
             <name>
-                Habbon anatomia.
+                Habbon anatomia
             </name>
             <description>
                 Mittasuhteet kunnossa.
@@ -1456075,7 +1456075,7 @@ Minkä niistä saat omaksesi?
                 other
             </category>
             <name>
-                Decorative Fish
+                Koristekalat
             </name>
             <description>
                 ducket_c26_decofish desc
