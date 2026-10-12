@@ -229659,7 +229659,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                18035
+                -1
             </offerid>
             <buyout>
                 0
@@ -229671,13 +229671,13 @@
                 0
             </rentbuyout>
             <bc>
-                1
+                0
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                18035
+                -1
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -283978,7 +283978,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                18035
+                -1
             </offerid>
             <buyout>
                 0
@@ -625639,7 +625639,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                18035
+                -1
             </offerid>
             <buyout>
                 0
@@ -625651,13 +625651,13 @@
                 0
             </rentbuyout>
             <bc>
-                1
+                0
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                18035
+                -1
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -773056,7 +773056,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                18035
+                -1
             </offerid>
             <buyout>
                 0
@@ -773068,13 +773068,13 @@
                 0
             </rentbuyout>
             <bc>
-                1
+                0
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                18035
+                -1
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1392750,7 +1392750,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29873
+                -1
             </offerid>
             <buyout>
                 0
@@ -1405888,7 +1405888,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_a_recolorable name
+                Bloco A
             </name>
             <description>
                 bc_alpha1_a_recolorable desc
@@ -1405965,7 +1405965,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_alpha_recolorable name
+                Bloco Alfabético
             </name>
             <description>
                 bc_alpha1_alpha_recolorable desc
@@ -1406042,7 +1406042,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_b_recolorable name
+                Bloco B
             </name>
             <description>
                 bc_alpha1_b_recolorable desc
@@ -1406119,7 +1406119,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_c_recolorable name
+                Bloco C
             </name>
             <description>
                 bc_alpha1_c_recolorable desc
@@ -1406196,7 +1406196,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_d_recolorable name
+                Bloco D
             </name>
             <description>
                 bc_alpha1_d_recolorable desc
@@ -1406273,7 +1406273,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_e_recolorable name
+                Bloco E
             </name>
             <description>
                 bc_alpha1_e_recolorable desc
@@ -1406350,7 +1406350,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_f_recolorable name
+                Bloco F
             </name>
             <description>
                 bc_alpha1_f_recolorable desc
@@ -1406427,7 +1406427,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_g_recolorable name
+                Bloco G
             </name>
             <description>
                 bc_alpha1_g_recolorable desc
@@ -1406504,7 +1406504,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_h_recolorable name
+                Bloco H
             </name>
             <description>
                 bc_alpha1_h_recolorable desc
@@ -1406581,7 +1406581,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_i_recolorable name
+                Bloco I
             </name>
             <description>
                 bc_alpha1_i_recolorable desc
@@ -1406658,7 +1406658,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_j_recolorable name
+                Bloco J
             </name>
             <description>
                 bc_alpha1_j_recolorable desc
@@ -1406735,7 +1406735,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_k_recolorable name
+                Bloco K
             </name>
             <description>
                 bc_alpha1_k_recolorable desc
@@ -1406812,7 +1406812,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_l_recolorable name
+                Bloco L
             </name>
             <description>
                 bc_alpha1_l_recolorable desc
@@ -1406889,7 +1406889,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_m_recolorable name
+                Bloco M
             </name>
             <description>
                 bc_alpha1_m_recolorable desc
@@ -1406966,7 +1406966,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_n_recolorable name
+                Bloco N
             </name>
             <description>
                 bc_alpha1_n_recolorable desc
@@ -1407043,7 +1407043,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_num_recolorable name
+                Bloco Numérico
             </name>
             <description>
                 bc_alpha1_num_recolorable desc
@@ -1407120,7 +1407120,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_o_recolorable name
+                Bloco O
             </name>
             <description>
                 bc_alpha1_o_recolorable desc
@@ -1407197,7 +1407197,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_p_recolorable name
+                Bloco P
             </name>
             <description>
                 bc_alpha1_p_recolorable desc
@@ -1407274,7 +1407274,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_q_recolorable name
+                Bloco Q
             </name>
             <description>
                 bc_alpha1_q_recolorable desc
@@ -1407351,7 +1407351,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_r_recolorable name
+                Bloco R
             </name>
             <description>
                 bc_alpha1_r_recolorable desc
@@ -1407428,7 +1407428,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_s_recolorable name
+                Bloco S
             </name>
             <description>
                 bc_alpha1_s_recolorable desc
@@ -1407505,7 +1407505,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_t_recolorable name
+                Bloco T
             </name>
             <description>
                 bc_alpha1_t_recolorable desc
@@ -1407582,7 +1407582,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_u_recolorable name
+                Bloco U
             </name>
             <description>
                 bc_alpha1_u_recolorable desc
@@ -1407659,7 +1407659,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_v_recolorable name
+                Bloco V
             </name>
             <description>
                 bc_alpha1_v_recolorable desc
@@ -1407736,7 +1407736,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_w_recolorable name
+                Bloco W
             </name>
             <description>
                 bc_alpha1_w_recolorable desc
@@ -1407813,7 +1407813,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_x_recolorable name
+                Bloco X
             </name>
             <description>
                 bc_alpha1_x_recolorable desc
@@ -1407890,7 +1407890,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_y_recolorable name
+                Bloco Y
             </name>
             <description>
                 bc_alpha1_y_recolorable desc
@@ -1407967,7 +1407967,7 @@
                 1
             </ydim>
             <name>
-                bc_alpha1_z_recolorable name
+                Bloco Z
             </name>
             <description>
                 bc_alpha1_z_recolorable desc
@@ -1408044,7 +1408044,7 @@
                 1
             </ydim>
             <name>
-                bc_block_0_recolorable name
+                Bloquinho
             </name>
             <description>
                 bc_block_0_recolorable desc
@@ -1408123,7 +1408123,7 @@
                 1
             </ydim>
             <name>
-                bc_block_1_recolorable name
+                Blocão
             </name>
             <description>
                 bc_block_1_recolorable desc
@@ -1408202,7 +1408202,7 @@
                 1
             </ydim>
             <name>
-                bc_block_artdeco1_recolorable name
+                Bloco Arte Decor
             </name>
             <description>
                 bc_block_artdeco1_recolorable desc
@@ -1408279,7 +1408279,7 @@
                 1
             </ydim>
             <name>
-                bc_block_glass_recolorable name
+                Bloco de Vidro
             </name>
             <description>
                 bc_block_glass_recolorable desc
@@ -1408356,7 +1408356,7 @@
                 1
             </ydim>
             <name>
-                bc_block_grass_recolorable name
+                Bloco de Grama
             </name>
             <description>
                 bc_block_grass_recolorable desc
@@ -1408433,7 +1408433,7 @@
                 1
             </ydim>
             <name>
-                bc_block_industrial_recolorable name
+                Bloco Industrial
             </name>
             <description>
                 bc_block_industrial_recolorable desc
@@ -1408510,7 +1408510,7 @@
                 1
             </ydim>
             <name>
-                bc_block_marble_recolorable name
+                Bloco de Mármore
             </name>
             <description>
                 bc_block_marble_recolorable desc
@@ -1408587,7 +1408587,7 @@
                 1
             </ydim>
             <name>
-                bc_block_metalgrip_recolorable name
+                Bloco Metálico
             </name>
             <description>
                 bc_block_metalgrip_recolorable desc
@@ -1408664,7 +1408664,7 @@
                 1
             </ydim>
             <name>
-                bc_block_redbrick_recolorable name
+                Tijolão
             </name>
             <description>
                 bc_block_redbrick_recolorable desc
@@ -1408741,7 +1408741,7 @@
                 1
             </ydim>
             <name>
-                bc_block_sand_recolorable name
+                Bloco de Areia
             </name>
             <description>
                 bc_block_sand_recolorable desc
@@ -1408818,7 +1408818,7 @@
                 1
             </ydim>
             <name>
-                bc_block_small_recolorable name
+                Bloco Pequeno
             </name>
             <description>
                 bc_block_small_recolorable desc
@@ -1408897,7 +1408897,7 @@
                 1
             </ydim>
             <name>
-                bc_block_water_recolorable name
+                Bloco água
             </name>
             <description>
                 bc_block_water_recolorable desc
@@ -1408976,7 +1408976,7 @@
                 1
             </ydim>
             <name>
-                bc_block_wool_recolorable name
+                Bloco de Lã
             </name>
             <description>
                 bc_block_wool_recolorable desc
@@ -1409053,7 +1409053,7 @@
                 1
             </ydim>
             <name>
-                bc_cone_recolorable name
+                Bloco cônico
             </name>
             <description>
                 bc_cone_recolorable desc
@@ -1409130,7 +1409130,7 @@
                 1
             </ydim>
             <name>
-                bc_curvedramp_recolorable name
+                Rampa Curva
             </name>
             <description>
                 bc_curvedramp_recolorable desc
@@ -1409207,7 +1409207,7 @@
                 1
             </ydim>
             <name>
-                bc_cylinder_recolorable name
+                Bloco cilíndrico
             </name>
             <description>
                 bc_cylinder_recolorable desc
@@ -1409286,7 +1409286,7 @@
                 1
             </ydim>
             <name>
-                bc_flowerhedge_recolorable name
+                Floridinho
             </name>
             <description>
                 bc_flowerhedge_recolorable desc
@@ -1409363,7 +1409363,7 @@
                 1
             </ydim>
             <name>
-                bc_glasspanel_recolorable name
+                Painel de vidro
             </name>
             <description>
                 bc_glasspanel_recolorable desc
@@ -1409440,7 +1409440,7 @@
                 1
             </ydim>
             <name>
-                bc_halfcylinder_recolorable name
+                Meio cilindro
             </name>
             <description>
                 bc_halfcylinder_recolorable desc
@@ -1409517,7 +1409517,7 @@
                 1
             </ydim>
             <name>
-                bc_hemisphere_recolorable name
+                Bloco hemisférico
             </name>
             <description>
                 bc_hemisphere_recolorable desc
@@ -1409594,7 +1409594,7 @@
                 1
             </ydim>
             <name>
-                bc_lavarock_recolorable name
+                Bloco de Lava
             </name>
             <description>
                 bc_lavarock_recolorable desc
@@ -1409671,7 +1409671,7 @@
                 1
             </ydim>
             <name>
-                bc_metalcrate_recolorable name
+                Bloco Caixa de Metal
             </name>
             <description>
                 bc_metalcrate_recolorable desc
@@ -1409748,7 +1409748,7 @@
                 1
             </ydim>
             <name>
-                bc_panel_recolorable name
+                Bloco Painel
             </name>
             <description>
                 bc_panel_recolorable desc
@@ -1409827,7 +1409827,7 @@
                 1
             </ydim>
             <name>
-                bc_pyramidtip_recolorable name
+                Bloco pirâmide
             </name>
             <description>
                 bc_pyramidtip_recolorable desc
@@ -1409904,7 +1409904,7 @@
                 1
             </ydim>
             <name>
-                bc_quartercircle_recolorable name
+                Bloco 1/4
             </name>
             <description>
                 bc_quartercircle_recolorable desc
@@ -1409981,7 +1409981,7 @@
                 1
             </ydim>
             <name>
-                bc_quarterring_recolorable name
+                Bloco quarto de anel
             </name>
             <description>
                 bc_quarterring_recolorable desc
@@ -1410058,7 +1410058,7 @@
                 1
             </ydim>
             <name>
-                bc_ramp_recolorable name
+                Bloco Rampa
             </name>
             <description>
                 bc_ramp_recolorable desc
@@ -1410135,7 +1410135,7 @@
                 1
             </ydim>
             <name>
-                bc_round_recolorable name
+                Bloco Redondo
             </name>
             <description>
                 bc_round_recolorable desc
@@ -1410214,7 +1410214,7 @@
                 1
             </ydim>
             <name>
-                bc_sphere_recolorable name
+                Bloco esférico
             </name>
             <description>
                 bc_sphere_recolorable desc
@@ -1410291,7 +1410291,7 @@
                 1
             </ydim>
             <name>
-                bc_sphere_small_recolorable name
+                Esfera pequena
             </name>
             <description>
                 bc_sphere_small_recolorable desc
@@ -1410368,7 +1410368,7 @@
                 1
             </ydim>
             <name>
-                bc_stairs_recolorable name
+                Bloco Escada
             </name>
             <description>
                 bc_stairs_recolorable desc
@@ -1410445,7 +1410445,7 @@
                 1
             </ydim>
             <name>
-                bc_standinghalfcylinder_recolorable name
+                Meio cilindro erguido
             </name>
             <description>
                 bc_standinghalfcylinder_recolorable desc
@@ -1410524,7 +1410524,7 @@
                 1
             </ydim>
             <name>
-                bc_standingtriangularprism_recolorable name
+                Prisma triangular erguido
             </name>
             <description>
                 bc_standingtriangularprism_recolorable desc
@@ -1410603,7 +1410603,7 @@
                 1
             </ydim>
             <name>
-                bc_stick_recolorable name
+                Bloco Bastão
             </name>
             <description>
                 bc_stick_recolorable desc
@@ -1410682,7 +1410682,7 @@
                 1
             </ydim>
             <name>
-                bc_stone_recolorable name
+                Bloco de Pedra
             </name>
             <description>
                 bc_stone_recolorable desc
@@ -1410759,7 +1410759,7 @@
                 1
             </ydim>
             <name>
-                bc_terra_recolorable name
+                Bloco terra
             </name>
             <description>
                 bc_terra_recolorable desc
@@ -1410836,7 +1410836,7 @@
                 1
             </ydim>
             <name>
-                bc_tile_recolorable name
+                Bloco pastilhas
             </name>
             <description>
                 bc_tile_recolorable desc
@@ -1410913,7 +1410913,7 @@
                 1
             </ydim>
             <name>
-                bc_triangularprism_recolorable name
+                Prisma triangular
             </name>
             <description>
                 bc_triangularprism_recolorable desc
@@ -1410990,7 +1410990,7 @@
                 1
             </ydim>
             <name>
-                bc_wedge_recolorable name
+                Bloco cunha
             </name>
             <description>
                 bc_wedge_recolorable desc
@@ -1411067,7 +1411067,7 @@
                 1
             </ydim>
             <name>
-                bc_wedgecrnr_recolorable name
+                Canto cunha
             </name>
             <description>
                 bc_wedgecrnr_recolorable desc
@@ -1411144,7 +1411144,7 @@
                 1
             </ydim>
             <name>
-                bc_wood_recolorable name
+                Bloco de madeira simples
             </name>
             <description>
                 bc_wood_recolorable desc
@@ -1411375,7 +1411375,7 @@
                 1
             </ydim>
             <name>
-                conf_chooser_disable name
+                Desativador de :chooser
             </name>
             <description>
                 conf_chooser_disable desc
@@ -1411608,7 +1411608,7 @@
                 1
             </ydim>
             <name>
-                wf_act_send_dataframe name
+                WIRED EFEITO: Enviar Dataframe na Rede
             </name>
             <description>
                 wf_act_send_dataframe desc
@@ -1411687,7 +1411687,7 @@
                 1
             </ydim>
             <name>
-                wf_act_send_message name
+                WIRED EFEITO: Enviar Mensagem na Rede
             </name>
             <description>
                 wf_act_send_message desc
@@ -1411766,7 +1411766,7 @@
                 1
             </ydim>
             <name>
-                wf_act_set_highlight name
+                WIRED EFEITO: Definir Realce do Mobi
             </name>
             <description>
                 wf_act_set_highlight desc
@@ -1411845,7 +1411845,7 @@
                 1
             </ydim>
             <name>
-                wf_act_set_visibility name
+                WIRED EFEITO: Definir Transparência do Mobi
             </name>
             <description>
                 wf_act_set_visibility desc
@@ -1411924,7 +1411924,7 @@
                 1
             </ydim>
             <name>
-                wf_label name
+                Anotação Wired
             </name>
             <description>
                 wf_label desc
@@ -1412001,7 +1412001,7 @@
                 1
             </ydim>
             <name>
-                wf_link name
+                Torre da Rede Wired
             </name>
             <description>
                 wf_link desc
@@ -1412078,7 +1412078,7 @@
                 1
             </ydim>
             <name>
-                wf_trg_receive_dataframe name
+                WIRED ATIVADOR: Receber Dataframe da Rede
             </name>
             <description>
                 wf_trg_receive_dataframe desc
@@ -1412157,7 +1412157,7 @@
                 1
             </ydim>
             <name>
-                wf_trg_receive_message name
+                WIRED ATIVADOR: Receber Mensagem da Rede
             </name>
             <description>
                 wf_trg_receive_message desc
@@ -1412236,7 +1412236,7 @@
                 1
             </ydim>
             <name>
-                wf_trg_room_initializes name
+                WIRED ATIVADOR: Quarto Inicializado
             </name>
             <description>
                 wf_trg_room_initializes desc
@@ -1412394,7 +1412394,7 @@
                 1
             </ydim>
             <name>
-                wf_var_pointer name
+                WIRED VARIÁVEL: Ponteiro de Variável
             </name>
             <description>
                 wf_var_pointer desc
@@ -1412552,7 +1412552,7 @@
                 1
             </ydim>
             <name>
-                wf_xtra_link_speaker name
+                Rádio da Rede Wired
             </name>
             <description>
                 wf_xtra_link_speaker desc
@@ -1412631,7 +1412631,7 @@
                 1
             </ydim>
             <name>
-                wf_xtra_var_import name
+                Extra Variável: Importar
             </name>
             <description>
                 wf_xtra_var_import desc
@@ -1412710,7 +1412710,7 @@
                 1
             </ydim>
             <name>
-                wf_xtra_var_leaderboard name
+                Extra Variável: Placar
             </name>
             <description>
                 wf_xtra_var_leaderboard desc
@@ -1412789,7 +1412789,7 @@
                 1
             </ydim>
             <name>
-                wf_xtra_var_share name
+                Extra Variável: Compartilhar
             </name>
             <description>
                 wf_xtra_var_share desc
