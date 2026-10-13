@@ -372,6 +372,12 @@
         </name>
         <description></description>
     </product>
+    <product code="100diamonds_4">
+        <name>
+            100 Diamonds
+        </name>
+        <description></description>
+    </product>
     <product code="100diamonds">
         <name>
             100 Diamonds
@@ -546,6 +552,12 @@
         </name>
         <description></description>
     </product>
+    <product code="150diamonds_4">
+        <name>
+            150 Diamonds
+        </name>
+        <description></description>
+    </product>
     <product code="150diamonds">
         <name>
             150 Diamonds
@@ -571,6 +583,12 @@
         <description></description>
     </product>
     <product code="198_credits_3">
+        <name>
+            110 Kredi fiyatına 198 Kredi ve elmas sahibi olun
+        </name>
+        <description></description>
+    </product>
+    <product code="198_credits_4">
         <name>
             110 Kredi fiyatına 198 Kredi ve elmas sahibi olun
         </name>
@@ -621,6 +639,12 @@
         <description></description>
     </product>
     <product code="220_credits_3">
+        <name>
+            110 Kredi fiyatına 220 Kredi ve elmas sahibi olun
+        </name>
+        <description></description>
+    </product>
+    <product code="220_credits_4">
         <name>
             110 Kredi fiyatına 220 Kredi ve elmas sahibi olun
         </name>
@@ -49200,6 +49224,12 @@
         </name>
         <description></description>
     </product>
+    <product code="chat_bubble_10001">
+        <name>
+            Boya Sıçramış Konuşma Balonu
+        </name>
+        <description></description>
+    </product>
     <product code="chatstyle_cm2ice">
         <name>
             Buzlu Sohbet Balonu
@@ -49209,6 +49239,12 @@
     <product code="chatstyle_cm2rocky">
         <name>
             Karlı Kaya Sohbet Balonu
+        </name>
+        <description></description>
+    </product>
+    <product code="chatstyle_goldbar">
+        <name>
+            Altın Külçe Konuşma Balonu
         </name>
         <description></description>
     </product>
@@ -59158,7 +59194,7 @@
     </product>
     <product code="clothing_nft26_bananahelmet">
         <name>
-            clothing_nft26_bananahelmet name
+            Muz Kask
         </name>
         <description>
             clothing_nft26_bananahelmet desc
@@ -59166,7 +59202,7 @@
     </product>
     <product code="clothing_nft26_birdnest">
         <name>
-            clothing_nft26_birdnest name
+            Kuş Yuvası Şapka
         </name>
         <description>
             clothing_nft26_birdnest desc
@@ -59182,7 +59218,7 @@
     </product>
     <product code="clothing_nft26_cottoncandy">
         <name>
-            clothing_nft26_cottoncandy name
+            Pamuk Şeker Çubuğu
         </name>
         <description>
             clothing_nft26_cottoncandy desc
@@ -59190,7 +59226,7 @@
     </product>
     <product code="clothing_nft26_cutlery">
         <name>
-            clothing_nft26_cutlery name
+            Çatal-bıçak takımı
         </name>
         <description>
             clothing_nft26_cutlery desc
@@ -59198,7 +59234,7 @@
     </product>
     <product code="clothing_nft26_determinedface">
         <name>
-            clothing_nft26_determinedface name
+            Kararlı Yüz
         </name>
         <description>
             clothing_nft26_determinedface desc
@@ -59206,7 +59242,7 @@
     </product>
     <product code="clothing_nft26_haircomb">
         <name>
-            clothing_nft26_haircomb name
+            Saç Tarağı
         </name>
         <description>
             clothing_nft26_haircomb desc
@@ -59214,7 +59250,7 @@
     </product>
     <product code="clothing_nft26_hopefulface">
         <name>
-            clothing_nft26_hopefulface name
+            Umutlu Yüz
         </name>
         <description>
             clothing_nft26_hopefulface desc
@@ -59246,7 +59282,7 @@
     </product>
     <product code="clothing_nft26_trashcan">
         <name>
-            clothing_nft26_trashcan name
+            Çöp Kutusu Modası
         </name>
         <description>
             clothing_nft26_trashcan desc
@@ -59254,7 +59290,7 @@
     </product>
     <product code="clothing_nft26_zigzagmustache">
         <name>
-            clothing_nft26_zigzagmustache name
+            Zikzak Bıyık
         </name>
         <description>
             clothing_nft26_zigzagmustache desc
@@ -88511,6 +88547,12 @@
         <description></description>
     </product>
     <product code="duckets_200_3">
+        <name>
+            200 Ördek Kredisi
+        </name>
+        <description></description>
+    </product>
+    <product code="duckets_200_4">
         <name>
             200 Ördek Kredisi
         </name>
@@ -137823,7 +137865,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_antiquewidescreen">
         <name>
-            nft_h26_antiquewidescreen name
+            Geniş Ekran Antika Televizyon
         </name>
         <description>
             nft_h26_antiquewidescreen desc
@@ -137957,7 +137999,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_cactussofa">
         <name>
-            nft_h26_cactussofa name
+            Kaktüs Kanepe
         </name>
         <description>
             nft_h26_cactussofa desc
@@ -138315,7 +138357,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_overgrownplant">
         <name>
-            nft_h26_overgrownplant name
+            Aşırı Büyümüş Ananas Bitkisi
         </name>
         <description>
             nft_h26_overgrownplant desc
@@ -138387,7 +138429,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_recyccooncarpet">
         <name>
-            nft_h26_recyccooncarpet name
+            Geri Dönüşümlü Pelüş Oyuncak Halı
         </name>
         <description>
             nft_h26_recyccooncarpet desc
@@ -138435,7 +138477,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_royalfootrest">
         <name>
-            nft_h26_royalfootrest name
+            Asil Ayak Dayama Yeri
         </name>
         <description>
             nft_h26_royalfootrest desc
@@ -138499,7 +138541,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_springchair">
         <name>
-            nft_h26_springchair name
+            Esnek Polyfon Sandalye
         </name>
         <description>
             nft_h26_springchair desc
@@ -157601,15 +157643,21 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_artsupplies">
         <name>
-            rec26_artsupplies name
+            Boya Sıçramış Sanat Malzemeleri
         </name>
         <description>
             rec26_artsupplies desc
         </description>
     </product>
+    <product code="rec26_chatstyle_paint">
+        <name>
+            Boya Sıçramış Konuşma Balonu
+        </name>
+        <description></description>
+    </product>
     <product code="rec26_cloth_painthat">
         <name>
-            rec26_cloth_painthat name
+            Boya Sıçramış Balıkçı Şapka
         </name>
         <description>
             rec26_cloth_painthat desc
@@ -157617,7 +157665,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_cloth_paintoutfit">
         <name>
-            rec26_cloth_paintoutfit name
+            Boya Sıçramış Kıyafet
         </name>
         <description>
             rec26_cloth_paintoutfit desc
@@ -157625,7 +157673,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_paintbust">
         <name>
-            rec26_paintbust name
+            Boya Sıçramış Büst
         </name>
         <description>
             rec26_paintbust desc
@@ -157633,7 +157681,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_paintcans">
         <name>
-            rec26_paintcans name
+            Renkli Boya Kutuları
         </name>
         <description>
             rec26_paintcans desc
@@ -157641,7 +157689,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_paintchair">
         <name>
-            rec26_paintchair name
+            Boya Sıçramış Sandalye
         </name>
         <description>
             rec26_paintchair desc
@@ -157649,7 +157697,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_paintcolumn">
         <name>
-            rec26_paintcolumn name
+            Boya Sıçramış Kolon
         </name>
         <description>
             rec26_paintcolumn desc
@@ -157657,7 +157705,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_paintcouch">
         <name>
-            rec26_paintcouch name
+            Boya Sıçramış Koltuk
         </name>
         <description>
             rec26_paintcouch desc
@@ -157665,7 +157713,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_paintcupboard">
         <name>
-            rec26_paintcupboard name
+            Boya Sıçramış Dolap
         </name>
         <description>
             rec26_paintcupboard desc
@@ -157673,7 +157721,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_painteasel">
         <name>
-            rec26_painteasel name
+            Boya Sıçramış Şövale
         </name>
         <description>
             rec26_painteasel desc
@@ -157681,7 +157729,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_paintlamp">
         <name>
-            rec26_paintlamp name
+            Boya Sıçramış Lamba
         </name>
         <description>
             rec26_paintlamp desc
@@ -157689,7 +157737,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_paintshelf">
         <name>
-            rec26_paintshelf name
+            Boya Sıçramış Raf
         </name>
         <description>
             rec26_paintshelf desc
@@ -157697,7 +157745,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_paintsplatter">
         <name>
-            rec26_paintsplatter name
+            Boya Lekesi
         </name>
         <description>
             rec26_paintsplatter desc
@@ -157705,7 +157753,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_painttable">
         <name>
-            rec26_painttable name
+            Boya Sıçramış Masa
         </name>
         <description>
             rec26_painttable desc
@@ -157713,7 +157761,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="rec26_paintwallart">
         <name>
-            rec26_paintwallart name
+            Boya Sıçramış Duvar Sanatı
         </name>
         <description>
             rec26_paintwallart desc

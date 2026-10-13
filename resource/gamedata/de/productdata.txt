@@ -368,6 +368,12 @@
         </name>
         <description></description>
     </product>
+    <product code="100diamonds_4">
+        <name>
+            100 Diamonds
+        </name>
+        <description></description>
+    </product>
     <product code="100diamonds">
         <name>
             100 Diamonds
@@ -434,6 +440,12 @@
         </name>
         <description></description>
     </product>
+    <product code="150diamonds_4">
+        <name>
+            150 Diamonds
+        </name>
+        <description></description>
+    </product>
     <product code="150diamonds">
         <name>
             150 Diamonds
@@ -459,6 +471,12 @@
         <description></description>
     </product>
     <product code="198_credits_3">
+        <name>
+            Hol dir 198 Taler und Diamanten zum Preis von 110!
+        </name>
+        <description></description>
+    </product>
+    <product code="198_credits_4">
         <name>
             Hol dir 198 Taler und Diamanten zum Preis von 110!
         </name>
@@ -501,6 +519,12 @@
         <description></description>
     </product>
     <product code="220_credits_3">
+        <name>
+            Hol dir 220 Taler und Diamanten zum Preis von 110!
+        </name>
+        <description></description>
+    </product>
+    <product code="220_credits_4">
         <name>
             Hol dir 220 Taler und Diamanten zum Preis von 110!
         </name>
@@ -48830,6 +48854,12 @@
         </name>
         <description></description>
     </product>
+    <product code="chat_bubble_10001">
+        <name>
+            Sprechblase mit Farbspritzern
+        </name>
+        <description></description>
+    </product>
     <product code="chatstyle_cm2ice">
         <name>
             Vereiste Chatblase
@@ -48839,6 +48869,12 @@
     <product code="chatstyle_cm2rocky">
         <name>
             Verschneiter Fels-Chatblase
+        </name>
+        <description></description>
+    </product>
+    <product code="chatstyle_goldbar">
+        <name>
+            Goldbarrensprechblase
         </name>
         <description></description>
     </product>
@@ -58789,7 +58825,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nft26_bananahelmet">
         <name>
-            clothing_nft26_bananahelmet name
+            Bananenhelm
         </name>
         <description>
             clothing_nft26_bananahelmet desc
@@ -58797,7 +58833,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nft26_birdnest">
         <name>
-            clothing_nft26_birdnest name
+            Vogelnesthut
         </name>
         <description>
             clothing_nft26_birdnest desc
@@ -58813,7 +58849,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nft26_cottoncandy">
         <name>
-            clothing_nft26_cottoncandy name
+            Zuckerwattestiel
         </name>
         <description>
             clothing_nft26_cottoncandy desc
@@ -58821,7 +58857,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nft26_cutlery">
         <name>
-            clothing_nft26_cutlery name
+            Besteck
         </name>
         <description>
             clothing_nft26_cutlery desc
@@ -58829,7 +58865,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nft26_determinedface">
         <name>
-            clothing_nft26_determinedface name
+            Entschlossenes Gesicht
         </name>
         <description>
             clothing_nft26_determinedface desc
@@ -58837,7 +58873,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nft26_haircomb">
         <name>
-            clothing_nft26_haircomb name
+            Haarkamm
         </name>
         <description>
             clothing_nft26_haircomb desc
@@ -58845,7 +58881,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nft26_hopefulface">
         <name>
-            clothing_nft26_hopefulface name
+            Hoffnungsvolles Gesicht
         </name>
         <description>
             clothing_nft26_hopefulface desc
@@ -58877,7 +58913,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nft26_trashcan">
         <name>
-            clothing_nft26_trashcan name
+            Mülleimer-Couture
         </name>
         <description>
             clothing_nft26_trashcan desc
@@ -58885,7 +58921,7 @@ Kunstfertigkeit.
     </product>
     <product code="clothing_nft26_zigzagmustache">
         <name>
-            clothing_nft26_zigzagmustache name
+            Zickzack-Schnurrbart
         </name>
         <description>
             clothing_nft26_zigzagmustache desc
@@ -82440,6 +82476,12 @@ Kunstfertigkeit.
         <description></description>
     </product>
     <product code="duckets_200_3">
+        <name>
+            200 Duckets
+        </name>
+        <description></description>
+    </product>
+    <product code="duckets_200_4">
         <name>
             200 Duckets
         </name>
@@ -131147,7 +131189,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_antiquewidescreen">
         <name>
-            nft_h26_antiquewidescreen name
+            Alter Breitbildfernseher
         </name>
         <description>
             nft_h26_antiquewidescreen desc
@@ -131281,7 +131323,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_cactussofa">
         <name>
-            nft_h26_cactussofa name
+            Kaktus-Sofa
         </name>
         <description>
             nft_h26_cactussofa desc
@@ -131639,7 +131681,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_overgrownplant">
         <name>
-            nft_h26_overgrownplant name
+            Übergrosse Ananaspflanze
         </name>
         <description>
             nft_h26_overgrownplant desc
@@ -131711,7 +131753,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_recyccooncarpet">
         <name>
-            nft_h26_recyccooncarpet name
+            Waschbär-Teppich
         </name>
         <description>
             nft_h26_recyccooncarpet desc
@@ -131759,7 +131801,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_royalfootrest">
         <name>
-            nft_h26_royalfootrest name
+            Königliche Fussstütze
         </name>
         <description>
             nft_h26_royalfootrest desc
@@ -131823,7 +131865,7 @@ Kunstfertigkeit.
     </product>
     <product code="nft_h26_springchair">
         <name>
-            nft_h26_springchair name
+            Fedriger Polyfon-Stuhl
         </name>
         <description>
             nft_h26_springchair desc
@@ -151129,15 +151171,21 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_artsupplies">
         <name>
-            rec26_artsupplies name
+            Malerausstattung mit Farbspritzern
         </name>
         <description>
             rec26_artsupplies desc
         </description>
     </product>
+    <product code="rec26_chatstyle_paint">
+        <name>
+            Sprechblase mit Farbspritzern
+        </name>
+        <description></description>
+    </product>
     <product code="rec26_cloth_painthat">
         <name>
-            rec26_cloth_painthat name
+            Kübelhut mit Farbspritzern
         </name>
         <description>
             rec26_cloth_painthat desc
@@ -151145,7 +151193,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_cloth_paintoutfit">
         <name>
-            rec26_cloth_paintoutfit name
+            Outfit mit Farbspritzern
         </name>
         <description>
             rec26_cloth_paintoutfit desc
@@ -151153,7 +151201,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_paintbust">
         <name>
-            rec26_paintbust name
+            Büste mit Farbspritzern
         </name>
         <description>
             rec26_paintbust desc
@@ -151161,7 +151209,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_paintcans">
         <name>
-            rec26_paintcans name
+            Bunte Farbdosen
         </name>
         <description>
             rec26_paintcans desc
@@ -151169,7 +151217,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_paintchair">
         <name>
-            rec26_paintchair name
+            Stuhl mit Farbspritzern
         </name>
         <description>
             rec26_paintchair desc
@@ -151177,7 +151225,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_paintcolumn">
         <name>
-            rec26_paintcolumn name
+            Säule mit Farbspritzern
         </name>
         <description>
             rec26_paintcolumn desc
@@ -151185,7 +151233,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_paintcouch">
         <name>
-            rec26_paintcouch name
+            Couch mit Farbspritzern
         </name>
         <description>
             rec26_paintcouch desc
@@ -151193,7 +151241,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_paintcupboard">
         <name>
-            rec26_paintcupboard name
+            Schrank mit Farbspritzern
         </name>
         <description>
             rec26_paintcupboard desc
@@ -151201,7 +151249,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_painteasel">
         <name>
-            rec26_painteasel name
+            Staffelei mit Farbspritzern
         </name>
         <description>
             rec26_painteasel desc
@@ -151209,7 +151257,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_paintlamp">
         <name>
-            rec26_paintlamp name
+            Lampe mit Farbspritzern
         </name>
         <description>
             rec26_paintlamp desc
@@ -151217,7 +151265,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_paintshelf">
         <name>
-            rec26_paintshelf name
+            Regal mit Farbspritzern
         </name>
         <description>
             rec26_paintshelf desc
@@ -151225,7 +151273,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_paintsplatter">
         <name>
-            rec26_paintsplatter name
+            Farbspritzer
         </name>
         <description>
             rec26_paintsplatter desc
@@ -151233,7 +151281,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_painttable">
         <name>
-            rec26_painttable name
+            Tisch mit Farbspritzern
         </name>
         <description>
             rec26_painttable desc
@@ -151241,7 +151289,7 @@ Kunstfertigkeit.
     </product>
     <product code="rec26_paintwallart">
         <name>
-            rec26_paintwallart name
+            Wall Art mit Farbspritzern
         </name>
         <description>
             rec26_paintwallart desc

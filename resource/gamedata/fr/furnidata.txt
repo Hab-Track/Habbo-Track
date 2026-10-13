@@ -230591,7 +230591,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                17059
             </offerid>
             <buyout>
                 0
@@ -230603,13 +230603,13 @@
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                17059
             </bcofferid>
             <customparams>
                 fireworks_charge_08,10,20,10
@@ -251810,7 +251810,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                17059
             </offerid>
             <buyout>
                 0
@@ -320335,7 +320335,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                17059
             </offerid>
             <buyout>
                 0
@@ -320347,13 +320347,13 @@
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                17059
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -374924,7 +374924,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                17059
             </offerid>
             <buyout>
                 0
@@ -534448,7 +534448,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                17059
             </offerid>
             <buyout>
                 0
@@ -563752,7 +563752,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                17059
             </offerid>
             <buyout>
                 0
@@ -563764,13 +563764,13 @@
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                17059
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1389819,10 +1389819,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                28987
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1389831,13 +1389831,13 @@
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                28987
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1391286,10 +1391286,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29006
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1391523,10 +1391523,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29009
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1391681,10 +1391681,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29011
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1391997,10 +1391997,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29015
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1401429,7 +1401429,7 @@
                 1
             </ydim>
             <name>
-                rec26_artsupplies name
+                Fournitures artistiques éclaboussées de peinture
             </name>
             <description>
                 rec26_artsupplies desc
@@ -1401506,7 +1401506,7 @@
                 1
             </ydim>
             <name>
-                rec26_cloth_painthat name
+                Chapeau larges bords éclaboussé de peinture
             </name>
             <description>
                 rec26_cloth_painthat desc
@@ -1401585,7 +1401585,7 @@
                 1
             </ydim>
             <name>
-                rec26_cloth_paintoutfit name
+                Tenue éclaboussée de peinture
             </name>
             <description>
                 rec26_cloth_paintoutfit desc
@@ -1401664,7 +1401664,7 @@
                 1
             </ydim>
             <name>
-                rec26_paintbust name
+                Buste éclaboussé de peinture
             </name>
             <description>
                 rec26_paintbust desc
@@ -1401741,7 +1401741,7 @@
                 1
             </ydim>
             <name>
-                rec26_paintcans name
+                Boîtes de peinture colorées
             </name>
             <description>
                 rec26_paintcans desc
@@ -1401818,7 +1401818,7 @@
                 1
             </ydim>
             <name>
-                rec26_paintchair name
+                Chaise éclaboussée de peinture
             </name>
             <description>
                 rec26_paintchair desc
@@ -1401895,7 +1401895,7 @@
                 1
             </ydim>
             <name>
-                rec26_paintcolumn name
+                Colonne éclaboussée de peinture
             </name>
             <description>
                 rec26_paintcolumn desc
@@ -1401972,7 +1401972,7 @@
                 1
             </ydim>
             <name>
-                rec26_paintcouch name
+                Canapé éclaboussé de peinture
             </name>
             <description>
                 rec26_paintcouch desc
@@ -1402049,7 +1402049,7 @@
                 1
             </ydim>
             <name>
-                rec26_paintcupboard name
+                Placard éclaboussé de peinture
             </name>
             <description>
                 rec26_paintcupboard desc
@@ -1402126,7 +1402126,7 @@
                 1
             </ydim>
             <name>
-                rec26_painteasel name
+                Chevalet éclaboussé de peinture
             </name>
             <description>
                 rec26_painteasel desc
@@ -1402203,7 +1402203,7 @@
                 1
             </ydim>
             <name>
-                rec26_paintlamp name
+                Lampe éclaboussée de peinture
             </name>
             <description>
                 rec26_paintlamp desc
@@ -1402280,7 +1402280,7 @@
                 1
             </ydim>
             <name>
-                rec26_paintshelf name
+                Étagère éclaboussée de peinture
             </name>
             <description>
                 rec26_paintshelf desc
@@ -1402357,7 +1402357,7 @@
                 1
             </ydim>
             <name>
-                rec26_paintsplatter name
+                Éclaboussures de peinture
             </name>
             <description>
                 rec26_paintsplatter desc
@@ -1402434,7 +1402434,7 @@
                 2
             </ydim>
             <name>
-                rec26_painttable name
+                Table éclaboussée de peinture
             </name>
             <description>
                 rec26_painttable desc
@@ -1402511,7 +1402511,7 @@
                 1
             </ydim>
             <name>
-                clothing_nft26_bananahelmet name
+                Casque banane
             </name>
             <description>
                 clothing_nft26_bananahelmet desc
@@ -1402590,7 +1402590,7 @@
                 1
             </ydim>
             <name>
-                clothing_nft26_birdnest name
+                Chapeau nid d'oiseau
             </name>
             <description>
                 clothing_nft26_birdnest desc
@@ -1402669,7 +1402669,7 @@
                 1
             </ydim>
             <name>
-                clothing_nft26_cottoncandy name
+                Stick barbe à papa
             </name>
             <description>
                 clothing_nft26_cottoncandy desc
@@ -1402748,7 +1402748,7 @@
                 1
             </ydim>
             <name>
-                clothing_nft26_cutlery name
+                Couverts
             </name>
             <description>
                 clothing_nft26_cutlery desc
@@ -1402827,7 +1402827,7 @@
                 1
             </ydim>
             <name>
-                clothing_nft26_determinedface name
+                Visage déterminé
             </name>
             <description>
                 clothing_nft26_determinedface desc
@@ -1402906,7 +1402906,7 @@
                 1
             </ydim>
             <name>
-                clothing_nft26_haircomb name
+                Peigne à cheveux
             </name>
             <description>
                 clothing_nft26_haircomb desc
@@ -1402985,7 +1402985,7 @@
                 1
             </ydim>
             <name>
-                clothing_nft26_hopefulface name
+                Visage d'espoir
             </name>
             <description>
                 clothing_nft26_hopefulface desc
@@ -1403064,7 +1403064,7 @@
                 1
             </ydim>
             <name>
-                clothing_nft26_trashcan name
+                Fashion poubelle
             </name>
             <description>
                 clothing_nft26_trashcan desc
@@ -1403143,7 +1403143,7 @@
                 1
             </ydim>
             <name>
-                clothing_nft26_zigzagmustache name
+                Moustache zigzag
             </name>
             <description>
                 clothing_nft26_zigzagmustache desc
@@ -1403222,7 +1403222,7 @@
                 2
             </ydim>
             <name>
-                nft_h26_antiquewidescreen name
+                Téléviseur ancien écran large
             </name>
             <description>
                 nft_h26_antiquewidescreen desc
@@ -1403299,7 +1403299,7 @@
                 1
             </ydim>
             <name>
-                nft_h26_cactussofa name
+                Sofa Cactus
             </name>
             <description>
                 nft_h26_cactussofa desc
@@ -1403376,7 +1403376,7 @@
                 1
             </ydim>
             <name>
-                nft_h26_overgrownplant name
+                Plante Ananas trop grande
             </name>
             <description>
                 nft_h26_overgrownplant desc
@@ -1403453,7 +1403453,7 @@
                 2
             </ydim>
             <name>
-                nft_h26_recyccooncarpet name
+                Tapis Recyccoon
             </name>
             <description>
                 nft_h26_recyccooncarpet desc
@@ -1403530,7 +1403530,7 @@
                 1
             </ydim>
             <name>
-                nft_h26_royalfootrest name
+                Repose-pieds Royal
             </name>
             <description>
                 nft_h26_royalfootrest desc
@@ -1403607,7 +1403607,7 @@
                 1
             </ydim>
             <name>
-                nft_h26_springchair name
+                Chaise Polyfon à suspension
             </name>
             <description>
                 nft_h26_springchair desc
@@ -1411806,10 +1411806,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29354
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1411818,13 +1411818,13 @@
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29354
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1412592,10 +1412592,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29364
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1412604,13 +1412604,13 @@
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29364
             </bcofferid>
             <customparams>
                 1005

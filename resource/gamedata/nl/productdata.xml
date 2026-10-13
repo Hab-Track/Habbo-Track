@@ -386,6 +386,12 @@
         </name>
         <description></description>
     </product>
+    <product code="100diamonds_4">
+        <name>
+            100 Diamanten
+        </name>
+        <description></description>
+    </product>
     <product code="100diamonds">
         <name>
             100 Diamanten
@@ -452,6 +458,12 @@
         </name>
         <description></description>
     </product>
+    <product code="150diamonds_4">
+        <name>
+            150 Diamanten
+        </name>
+        <description></description>
+    </product>
     <product code="150diamonds">
         <name>
             150 Diamanten
@@ -477,6 +489,12 @@
         <description></description>
     </product>
     <product code="198_credits_3">
+        <name>
+            198 credits en diamanten voor de prijs van 110!
+        </name>
+        <description></description>
+    </product>
+    <product code="198_credits_4">
         <name>
             198 credits en diamanten voor de prijs van 110!
         </name>
@@ -525,6 +543,12 @@
         <description></description>
     </product>
     <product code="220_credits_3">
+        <name>
+            220 credits en diamanten voor de prijs van 110!
+        </name>
+        <description></description>
+    </product>
+    <product code="220_credits_4">
         <name>
             220 credits en diamanten voor de prijs van 110!
         </name>
@@ -48236,6 +48260,12 @@
         </name>
         <description></description>
     </product>
+    <product code="chat_bubble_10001">
+        <name>
+            Chatbubbel met Verfspetters
+        </name>
+        <description></description>
+    </product>
     <product code="chatstyle_cm2ice">
         <name>
             IJskoude Chat Bubbel
@@ -48245,6 +48275,12 @@
     <product code="chatstyle_cm2rocky">
         <name>
             Besneeuwde Chat Bubbel
+        </name>
+        <description></description>
+    </product>
+    <product code="chatstyle_goldbar">
+        <name>
+            Gouden Staaf Chatbubbel
         </name>
         <description></description>
     </product>
@@ -58244,7 +58280,7 @@
     </product>
     <product code="clothing_nft26_bananahelmet">
         <name>
-            clothing_nft26_bananahelmet name
+            Bananenhoed
         </name>
         <description>
             clothing_nft26_bananahelmet desc
@@ -58252,7 +58288,7 @@
     </product>
     <product code="clothing_nft26_birdnest">
         <name>
-            clothing_nft26_birdnest name
+            Vogelnest Hoedje
         </name>
         <description>
             clothing_nft26_birdnest desc
@@ -58268,7 +58304,7 @@
     </product>
     <product code="clothing_nft26_cottoncandy">
         <name>
-            clothing_nft26_cottoncandy name
+            Suikerspin
         </name>
         <description>
             clothing_nft26_cottoncandy desc
@@ -58276,7 +58312,7 @@
     </product>
     <product code="clothing_nft26_cutlery">
         <name>
-            clothing_nft26_cutlery name
+            Mes &amp; Vork
         </name>
         <description>
             clothing_nft26_cutlery desc
@@ -58284,7 +58320,7 @@
     </product>
     <product code="clothing_nft26_determinedface">
         <name>
-            clothing_nft26_determinedface name
+            Vastberaden Blik
         </name>
         <description>
             clothing_nft26_determinedface desc
@@ -58292,7 +58328,7 @@
     </product>
     <product code="clothing_nft26_haircomb">
         <name>
-            clothing_nft26_haircomb name
+            Haarkam
         </name>
         <description>
             clothing_nft26_haircomb desc
@@ -58300,7 +58336,7 @@
     </product>
     <product code="clothing_nft26_hopefulface">
         <name>
-            clothing_nft26_hopefulface name
+            Hoopvolle Blik
         </name>
         <description>
             clothing_nft26_hopefulface desc
@@ -58332,7 +58368,7 @@
     </product>
     <product code="clothing_nft26_trashcan">
         <name>
-            clothing_nft26_trashcan name
+            Vuilnisbak Outfit
         </name>
         <description>
             clothing_nft26_trashcan desc
@@ -58340,7 +58376,7 @@
     </product>
     <product code="clothing_nft26_zigzagmustache">
         <name>
-            clothing_nft26_zigzagmustache name
+            Zigzag Snor
         </name>
         <description>
             clothing_nft26_zigzagmustache desc
@@ -83225,6 +83261,12 @@
         <description></description>
     </product>
     <product code="duckets_200_3">
+        <name>
+            200 Duckets
+        </name>
+        <description></description>
+    </product>
+    <product code="duckets_200_4">
         <name>
             200 Duckets
         </name>
@@ -132004,7 +132046,7 @@
     </product>
     <product code="nft_h26_antiquewidescreen">
         <name>
-            nft_h26_antiquewidescreen name
+            Antieke Breedbeeld TV
         </name>
         <description>
             nft_h26_antiquewidescreen desc
@@ -132138,7 +132180,7 @@
     </product>
     <product code="nft_h26_cactussofa">
         <name>
-            nft_h26_cactussofa name
+            Cactus Bank
         </name>
         <description>
             nft_h26_cactussofa desc
@@ -132496,7 +132538,7 @@
     </product>
     <product code="nft_h26_overgrownplant">
         <name>
-            nft_h26_overgrownplant name
+            Vergroeide Ananasplant
         </name>
         <description>
             nft_h26_overgrownplant desc
@@ -132568,7 +132610,7 @@
     </product>
     <product code="nft_h26_recyccooncarpet">
         <name>
-            nft_h26_recyccooncarpet name
+            Wasbeer Tapijt
         </name>
         <description>
             nft_h26_recyccooncarpet desc
@@ -132616,7 +132658,7 @@
     </product>
     <product code="nft_h26_royalfootrest">
         <name>
-            nft_h26_royalfootrest name
+            Koninklijk Voetenbankje
         </name>
         <description>
             nft_h26_royalfootrest desc
@@ -132680,7 +132722,7 @@
     </product>
     <product code="nft_h26_springchair">
         <name>
-            nft_h26_springchair name
+            Springverende Polyfon Stoel
         </name>
         <description>
             nft_h26_springchair desc
@@ -151960,15 +152002,21 @@
     </product>
     <product code="rec26_artsupplies">
         <name>
-            rec26_artsupplies name
+            Schilderskwasten vol met Verfspetters
         </name>
         <description>
             rec26_artsupplies desc
         </description>
     </product>
+    <product code="rec26_chatstyle_paint">
+        <name>
+            Chatbubbel met Verfspetters
+        </name>
+        <description></description>
+    </product>
     <product code="rec26_cloth_painthat">
         <name>
-            rec26_cloth_painthat name
+            Vissershoedje met Verfspetters
         </name>
         <description>
             rec26_cloth_painthat desc
@@ -151976,7 +152024,7 @@
     </product>
     <product code="rec26_cloth_paintoutfit">
         <name>
-            rec26_cloth_paintoutfit name
+            Outfit met Verfspetters
         </name>
         <description>
             rec26_cloth_paintoutfit desc
@@ -151984,7 +152032,7 @@
     </product>
     <product code="rec26_paintbust">
         <name>
-            rec26_paintbust name
+            Buste vol met Verfspetters
         </name>
         <description>
             rec26_paintbust desc
@@ -151992,7 +152040,7 @@
     </product>
     <product code="rec26_paintcans">
         <name>
-            rec26_paintcans name
+            Kleurrijke Verfblikken
         </name>
         <description>
             rec26_paintcans desc
@@ -152000,7 +152048,7 @@
     </product>
     <product code="rec26_paintchair">
         <name>
-            rec26_paintchair name
+            Stoel vol met Verfspetters
         </name>
         <description>
             rec26_paintchair desc
@@ -152008,7 +152056,7 @@
     </product>
     <product code="rec26_paintcolumn">
         <name>
-            rec26_paintcolumn name
+            Pilaar vol met Verfspetters
         </name>
         <description>
             rec26_paintcolumn desc
@@ -152016,7 +152064,7 @@
     </product>
     <product code="rec26_paintcouch">
         <name>
-            rec26_paintcouch name
+            Bank vol met Verfspetters
         </name>
         <description>
             rec26_paintcouch desc
@@ -152024,7 +152072,7 @@
     </product>
     <product code="rec26_paintcupboard">
         <name>
-            rec26_paintcupboard name
+            Opbergkast vol met Verfspetters
         </name>
         <description>
             rec26_paintcupboard desc
@@ -152032,7 +152080,7 @@
     </product>
     <product code="rec26_painteasel">
         <name>
-            rec26_painteasel name
+            Schildersezel vol met Verfspetters
         </name>
         <description>
             rec26_painteasel desc
@@ -152040,7 +152088,7 @@
     </product>
     <product code="rec26_paintlamp">
         <name>
-            rec26_paintlamp name
+            Lamp vol met Verfspetters
         </name>
         <description>
             rec26_paintlamp desc
@@ -152048,7 +152096,7 @@
     </product>
     <product code="rec26_paintshelf">
         <name>
-            rec26_paintshelf name
+            Boekenplank vol met Verfspetters
         </name>
         <description>
             rec26_paintshelf desc
@@ -152056,7 +152104,7 @@
     </product>
     <product code="rec26_paintsplatter">
         <name>
-            rec26_paintsplatter name
+            Verfspetters
         </name>
         <description>
             rec26_paintsplatter desc
@@ -152064,7 +152112,7 @@
     </product>
     <product code="rec26_painttable">
         <name>
-            rec26_painttable name
+            Tafel vol met Verfspetters
         </name>
         <description>
             rec26_painttable desc
@@ -152072,7 +152120,7 @@
     </product>
     <product code="rec26_paintwallart">
         <name>
-            rec26_paintwallart name
+            Wanddecoratie vol met Verfspetters
         </name>
         <description>
             rec26_paintwallart desc

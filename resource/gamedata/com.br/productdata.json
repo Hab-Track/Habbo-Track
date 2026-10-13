@@ -412,6 +412,11 @@
         "description": ""
       },
       {
+        "code": "100diamonds_4",
+        "name": "100 Diamantes",
+        "description": ""
+      },
+      {
         "code": "100diamonds",
         "name": "100 Diamantes",
         "description": ""
@@ -467,6 +472,11 @@
         "description": ""
       },
       {
+        "code": "150diamonds_4",
+        "name": "150 Diamantes",
+        "description": ""
+      },
+      {
         "code": "150diamonds",
         "name": "150 Diamantes",
         "description": ""
@@ -488,6 +498,11 @@
       },
       {
         "code": "198_credits_3",
+        "name": "Adquira 198 créditos e diamantes pelo preço de 110!",
+        "description": ""
+      },
+      {
+        "code": "198_credits_4",
         "name": "Adquira 198 créditos e diamantes pelo preço de 110!",
         "description": ""
       },
@@ -523,6 +538,11 @@
       },
       {
         "code": "220_credits_3",
+        "name": "Adquira 220 créditos e diamantes pelo preço de 110!",
+        "description": ""
+      },
+      {
+        "code": "220_credits_4",
         "name": "Adquira 220 créditos e diamantes pelo preço de 110!",
         "description": ""
       },
@@ -32152,6 +32172,11 @@
         "description": ""
       },
       {
+        "code": "chat_bubble_10001",
+        "name": "Balão de Fala Respigado de Tinta",
+        "description": ""
+      },
+      {
         "code": "chatstyle_cm2ice",
         "name": "Balão de Fala Gelo Nevado",
         "description": ""
@@ -32159,6 +32184,11 @@
       {
         "code": "chatstyle_cm2rocky",
         "name": "Balão de Fala Pedra Nevada",
+        "description": ""
+      },
+      {
+        "code": "chatstyle_goldbar",
+        "name": "Balão de Fala Barra de Ouro",
         "description": ""
       },
       {
@@ -38588,12 +38618,12 @@
       },
       {
         "code": "clothing_nft26_bananahelmet",
-        "name": "clothing_nft26_bananahelmet name",
+        "name": "Capacete Banana",
         "description": "clothing_nft26_bananahelmet desc"
       },
       {
         "code": "clothing_nft26_birdnest",
-        "name": "clothing_nft26_birdnest name",
+        "name": "Chapéu de Ninho de Pássaro",
         "description": "clothing_nft26_birdnest desc"
       },
       {
@@ -38603,27 +38633,27 @@
       },
       {
         "code": "clothing_nft26_cottoncandy",
-        "name": "clothing_nft26_cottoncandy name",
+        "name": "Palito de Algodão-Doce",
         "description": "clothing_nft26_cottoncandy desc"
       },
       {
         "code": "clothing_nft26_cutlery",
-        "name": "clothing_nft26_cutlery name",
+        "name": "Talheres",
         "description": "clothing_nft26_cutlery desc"
       },
       {
         "code": "clothing_nft26_determinedface",
-        "name": "clothing_nft26_determinedface name",
+        "name": "Rosto Determinado",
         "description": "clothing_nft26_determinedface desc"
       },
       {
         "code": "clothing_nft26_haircomb",
-        "name": "clothing_nft26_haircomb name",
+        "name": "Pente de Cabelo",
         "description": "clothing_nft26_haircomb desc"
       },
       {
         "code": "clothing_nft26_hopefulface",
-        "name": "clothing_nft26_hopefulface name",
+        "name": "Rosto Esperançoso",
         "description": "clothing_nft26_hopefulface desc"
       },
       {
@@ -38643,12 +38673,12 @@
       },
       {
         "code": "clothing_nft26_trashcan",
-        "name": "clothing_nft26_trashcan name",
+        "name": "Alta-Costura Lixeira",
         "description": "clothing_nft26_trashcan desc"
       },
       {
         "code": "clothing_nft26_zigzagmustache",
-        "name": "clothing_nft26_zigzagmustache name",
+        "name": "Bigode Zigzag",
         "description": "clothing_nft26_zigzagmustache desc"
       },
       {
@@ -54258,6 +54288,11 @@
       },
       {
         "code": "duckets_200_3",
+        "name": "200 Duckets",
+        "description": ""
+      },
+      {
+        "code": "duckets_200_4",
         "name": "200 Duckets",
         "description": ""
       },
@@ -85623,7 +85658,7 @@
       },
       {
         "code": "nft_h26_antiquewidescreen",
-        "name": "nft_h26_antiquewidescreen name",
+        "name": "Televisão Antiga de Tela Larga",
         "description": "nft_h26_antiquewidescreen desc"
       },
       {
@@ -85708,7 +85743,7 @@
       },
       {
         "code": "nft_h26_cactussofa",
-        "name": "nft_h26_cactussofa name",
+        "name": "Sofá de Cactos",
         "description": "nft_h26_cactussofa desc"
       },
       {
@@ -85933,7 +85968,7 @@
       },
       {
         "code": "nft_h26_overgrownplant",
-        "name": "nft_h26_overgrownplant name",
+        "name": "Pé de Abacaxi Supercrescido",
         "description": "nft_h26_overgrownplant desc"
       },
       {
@@ -85978,7 +86013,7 @@
       },
       {
         "code": "nft_h26_recyccooncarpet",
-        "name": "nft_h26_recyccooncarpet name",
+        "name": "Tapete Recyccoon",
         "description": "nft_h26_recyccooncarpet desc"
       },
       {
@@ -86008,7 +86043,7 @@
       },
       {
         "code": "nft_h26_royalfootrest",
-        "name": "nft_h26_royalfootrest name",
+        "name": "Descanso de Pés Real",
         "description": "nft_h26_royalfootrest desc"
       },
       {
@@ -86048,7 +86083,7 @@
       },
       {
         "code": "nft_h26_springchair",
-        "name": "nft_h26_springchair name",
+        "name": "Cadeira Polyfon Saltitante",
         "description": "nft_h26_springchair desc"
       },
       {
@@ -98368,77 +98403,82 @@
       },
       {
         "code": "rec26_artsupplies",
-        "name": "rec26_artsupplies name",
+        "name": "Materiais de Arte Respigados de Tinta",
         "description": "rec26_artsupplies desc"
       },
       {
+        "code": "rec26_chatstyle_paint",
+        "name": "Balão de Fala Respigado de Tinta",
+        "description": ""
+      },
+      {
         "code": "rec26_cloth_painthat",
-        "name": "rec26_cloth_painthat name",
+        "name": "Chapéuzinho Respigado de Tinta",
         "description": "rec26_cloth_painthat desc"
       },
       {
         "code": "rec26_cloth_paintoutfit",
-        "name": "rec26_cloth_paintoutfit name",
+        "name": "Visual Respigado de Tinta",
         "description": "rec26_cloth_paintoutfit desc"
       },
       {
         "code": "rec26_paintbust",
-        "name": "rec26_paintbust name",
+        "name": "Busto Respigado de Tinta",
         "description": "rec26_paintbust desc"
       },
       {
         "code": "rec26_paintcans",
-        "name": "rec26_paintcans name",
+        "name": "Latas de Tinta Coloridas",
         "description": "rec26_paintcans desc"
       },
       {
         "code": "rec26_paintchair",
-        "name": "rec26_paintchair name",
+        "name": "Cadeira Respigada de Tinta",
         "description": "rec26_paintchair desc"
       },
       {
         "code": "rec26_paintcolumn",
-        "name": "rec26_paintcolumn name",
+        "name": "Coluna Respigada de Tinta",
         "description": "rec26_paintcolumn desc"
       },
       {
         "code": "rec26_paintcouch",
-        "name": "rec26_paintcouch name",
+        "name": "Sofá Respigado de Tinta",
         "description": "rec26_paintcouch desc"
       },
       {
         "code": "rec26_paintcupboard",
-        "name": "rec26_paintcupboard name",
+        "name": "Armário Respigado de Tinta",
         "description": "rec26_paintcupboard desc"
       },
       {
         "code": "rec26_painteasel",
-        "name": "rec26_painteasel name",
+        "name": "Cavalete Respigado de Tinta",
         "description": "rec26_painteasel desc"
       },
       {
         "code": "rec26_paintlamp",
-        "name": "rec26_paintlamp name",
+        "name": "Lâmpada Respigada de Tinta",
         "description": "rec26_paintlamp desc"
       },
       {
         "code": "rec26_paintshelf",
-        "name": "rec26_paintshelf name",
+        "name": "Prateleira Respigada de Tinta",
         "description": "rec26_paintshelf desc"
       },
       {
         "code": "rec26_paintsplatter",
-        "name": "rec26_paintsplatter name",
+        "name": "Respingo de Tinta",
         "description": "rec26_paintsplatter desc"
       },
       {
         "code": "rec26_painttable",
-        "name": "rec26_painttable name",
+        "name": "Mesa Respigada de Tinta",
         "description": "rec26_painttable desc"
       },
       {
         "code": "rec26_paintwallart",
-        "name": "rec26_paintwallart name",
+        "name": "Arte de Parede Respigada de Tinta",
         "description": "rec26_paintwallart desc"
       },
       {

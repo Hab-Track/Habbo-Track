@@ -432,6 +432,11 @@
         "description": ""
       },
       {
+        "code": "100diamonds_4",
+        "name": "100 Diamonds",
+        "description": ""
+      },
+      {
         "code": "100diamonds",
         "name": "100 Diamonds",
         "description": ""
@@ -622,6 +627,11 @@
         "description": ""
       },
       {
+        "code": "150diamonds_4",
+        "name": "150 Diamonds",
+        "description": ""
+      },
+      {
         "code": "150diamonds",
         "name": "150 Diamonds",
         "description": ""
@@ -643,6 +653,11 @@
       },
       {
         "code": "198_credits_3",
+        "name": "110 Kredi fiyatına 198 Kredi ve elmas sahibi olun",
+        "description": ""
+      },
+      {
+        "code": "198_credits_4",
         "name": "110 Kredi fiyatına 198 Kredi ve elmas sahibi olun",
         "description": ""
       },
@@ -683,6 +698,11 @@
       },
       {
         "code": "220_credits_3",
+        "name": "110 Kredi fiyatına 220 Kredi ve elmas sahibi olun",
+        "description": ""
+      },
+      {
+        "code": "220_credits_4",
         "name": "110 Kredi fiyatına 220 Kredi ve elmas sahibi olun",
         "description": ""
       },
@@ -33147,6 +33167,11 @@
         "description": ""
       },
       {
+        "code": "chat_bubble_10001",
+        "name": "Boya Sıçramış Konuşma Balonu",
+        "description": ""
+      },
+      {
         "code": "chatstyle_cm2ice",
         "name": "Buzlu Sohbet Balonu",
         "description": ""
@@ -33154,6 +33179,11 @@
       {
         "code": "chatstyle_cm2rocky",
         "name": "Karlı Kaya Sohbet Balonu",
+        "description": ""
+      },
+      {
+        "code": "chatstyle_goldbar",
+        "name": "Altın Külçe Konuşma Balonu",
         "description": ""
       },
       {
@@ -39578,12 +39608,12 @@
       },
       {
         "code": "clothing_nft26_bananahelmet",
-        "name": "clothing_nft26_bananahelmet name",
+        "name": "Muz Kask",
         "description": "clothing_nft26_bananahelmet desc"
       },
       {
         "code": "clothing_nft26_birdnest",
-        "name": "clothing_nft26_birdnest name",
+        "name": "Kuş Yuvası Şapka",
         "description": "clothing_nft26_birdnest desc"
       },
       {
@@ -39593,27 +39623,27 @@
       },
       {
         "code": "clothing_nft26_cottoncandy",
-        "name": "clothing_nft26_cottoncandy name",
+        "name": "Pamuk Şeker Çubuğu",
         "description": "clothing_nft26_cottoncandy desc"
       },
       {
         "code": "clothing_nft26_cutlery",
-        "name": "clothing_nft26_cutlery name",
+        "name": "Çatal-bıçak takımı",
         "description": "clothing_nft26_cutlery desc"
       },
       {
         "code": "clothing_nft26_determinedface",
-        "name": "clothing_nft26_determinedface name",
+        "name": "Kararlı Yüz",
         "description": "clothing_nft26_determinedface desc"
       },
       {
         "code": "clothing_nft26_haircomb",
-        "name": "clothing_nft26_haircomb name",
+        "name": "Saç Tarağı",
         "description": "clothing_nft26_haircomb desc"
       },
       {
         "code": "clothing_nft26_hopefulface",
-        "name": "clothing_nft26_hopefulface name",
+        "name": "Umutlu Yüz",
         "description": "clothing_nft26_hopefulface desc"
       },
       {
@@ -39633,12 +39663,12 @@
       },
       {
         "code": "clothing_nft26_trashcan",
-        "name": "clothing_nft26_trashcan name",
+        "name": "Çöp Kutusu Modası",
         "description": "clothing_nft26_trashcan desc"
       },
       {
         "code": "clothing_nft26_zigzagmustache",
-        "name": "clothing_nft26_zigzagmustache name",
+        "name": "Zikzak Bıyık",
         "description": "clothing_nft26_zigzagmustache desc"
       },
       {
@@ -63073,6 +63103,11 @@
       },
       {
         "code": "duckets_200_3",
+        "name": "200 Ördek Kredisi",
+        "description": ""
+      },
+      {
+        "code": "duckets_200_4",
         "name": "200 Ördek Kredisi",
         "description": ""
       },
@@ -95023,7 +95058,7 @@
       },
       {
         "code": "nft_h26_antiquewidescreen",
-        "name": "nft_h26_antiquewidescreen name",
+        "name": "Geniş Ekran Antika Televizyon",
         "description": "nft_h26_antiquewidescreen desc"
       },
       {
@@ -95108,7 +95143,7 @@
       },
       {
         "code": "nft_h26_cactussofa",
-        "name": "nft_h26_cactussofa name",
+        "name": "Kaktüs Kanepe",
         "description": "nft_h26_cactussofa desc"
       },
       {
@@ -95333,7 +95368,7 @@
       },
       {
         "code": "nft_h26_overgrownplant",
-        "name": "nft_h26_overgrownplant name",
+        "name": "Aşırı Büyümüş Ananas Bitkisi",
         "description": "nft_h26_overgrownplant desc"
       },
       {
@@ -95378,7 +95413,7 @@
       },
       {
         "code": "nft_h26_recyccooncarpet",
-        "name": "nft_h26_recyccooncarpet name",
+        "name": "Geri Dönüşümlü Pelüş Oyuncak Halı",
         "description": "nft_h26_recyccooncarpet desc"
       },
       {
@@ -95408,7 +95443,7 @@
       },
       {
         "code": "nft_h26_royalfootrest",
-        "name": "nft_h26_royalfootrest name",
+        "name": "Asil Ayak Dayama Yeri",
         "description": "nft_h26_royalfootrest desc"
       },
       {
@@ -95448,7 +95483,7 @@
       },
       {
         "code": "nft_h26_springchair",
-        "name": "nft_h26_springchair name",
+        "name": "Esnek Polyfon Sandalye",
         "description": "nft_h26_springchair desc"
       },
       {
@@ -107978,77 +108013,82 @@
       },
       {
         "code": "rec26_artsupplies",
-        "name": "rec26_artsupplies name",
+        "name": "Boya Sıçramış Sanat Malzemeleri",
         "description": "rec26_artsupplies desc"
       },
       {
+        "code": "rec26_chatstyle_paint",
+        "name": "Boya Sıçramış Konuşma Balonu",
+        "description": ""
+      },
+      {
         "code": "rec26_cloth_painthat",
-        "name": "rec26_cloth_painthat name",
+        "name": "Boya Sıçramış Balıkçı Şapka",
         "description": "rec26_cloth_painthat desc"
       },
       {
         "code": "rec26_cloth_paintoutfit",
-        "name": "rec26_cloth_paintoutfit name",
+        "name": "Boya Sıçramış Kıyafet",
         "description": "rec26_cloth_paintoutfit desc"
       },
       {
         "code": "rec26_paintbust",
-        "name": "rec26_paintbust name",
+        "name": "Boya Sıçramış Büst",
         "description": "rec26_paintbust desc"
       },
       {
         "code": "rec26_paintcans",
-        "name": "rec26_paintcans name",
+        "name": "Renkli Boya Kutuları",
         "description": "rec26_paintcans desc"
       },
       {
         "code": "rec26_paintchair",
-        "name": "rec26_paintchair name",
+        "name": "Boya Sıçramış Sandalye",
         "description": "rec26_paintchair desc"
       },
       {
         "code": "rec26_paintcolumn",
-        "name": "rec26_paintcolumn name",
+        "name": "Boya Sıçramış Kolon",
         "description": "rec26_paintcolumn desc"
       },
       {
         "code": "rec26_paintcouch",
-        "name": "rec26_paintcouch name",
+        "name": "Boya Sıçramış Koltuk",
         "description": "rec26_paintcouch desc"
       },
       {
         "code": "rec26_paintcupboard",
-        "name": "rec26_paintcupboard name",
+        "name": "Boya Sıçramış Dolap",
         "description": "rec26_paintcupboard desc"
       },
       {
         "code": "rec26_painteasel",
-        "name": "rec26_painteasel name",
+        "name": "Boya Sıçramış Şövale",
         "description": "rec26_painteasel desc"
       },
       {
         "code": "rec26_paintlamp",
-        "name": "rec26_paintlamp name",
+        "name": "Boya Sıçramış Lamba",
         "description": "rec26_paintlamp desc"
       },
       {
         "code": "rec26_paintshelf",
-        "name": "rec26_paintshelf name",
+        "name": "Boya Sıçramış Raf",
         "description": "rec26_paintshelf desc"
       },
       {
         "code": "rec26_paintsplatter",
-        "name": "rec26_paintsplatter name",
+        "name": "Boya Lekesi",
         "description": "rec26_paintsplatter desc"
       },
       {
         "code": "rec26_painttable",
-        "name": "rec26_painttable name",
+        "name": "Boya Sıçramış Masa",
         "description": "rec26_painttable desc"
       },
       {
         "code": "rec26_paintwallart",
-        "name": "rec26_paintwallart name",
+        "name": "Boya Sıçramış Duvar Sanatı",
         "description": "rec26_paintwallart desc"
       },
       {

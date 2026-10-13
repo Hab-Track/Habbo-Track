@@ -326,6 +326,12 @@
         </name>
         <description></description>
     </product>
+    <product code="100diamonds_4">
+        <name>
+            100 Diamonds
+        </name>
+        <description></description>
+    </product>
     <product code="100diamonds_SG">
         <name>
             100 diamonds
@@ -566,6 +572,12 @@
         </name>
         <description></description>
     </product>
+    <product code="150diamonds_4">
+        <name>
+            150 Diamonds
+        </name>
+        <description></description>
+    </product>
     <product code="150diamonds_SG">
         <name>
             150 diamonds
@@ -597,6 +609,12 @@
         <description></description>
     </product>
     <product code="198_credits_3">
+        <name>
+            Get 198 credits and diamonds for the price of 110 credits!
+        </name>
+        <description></description>
+    </product>
+    <product code="198_credits_4">
         <name>
             Get 198 credits and diamonds for the price of 110 credits!
         </name>
@@ -645,6 +663,12 @@
         <description></description>
     </product>
     <product code="220_credits_3">
+        <name>
+            Get 220 credits and diamonds for the price of 110 credits!
+        </name>
+        <description></description>
+    </product>
+    <product code="220_credits_4">
         <name>
             Get 220 credits and diamonds for the price of 110 credits!
         </name>
@@ -49956,6 +49980,12 @@
         </name>
         <description></description>
     </product>
+    <product code="chat_bubble_10001">
+        <name>
+            Paint-Splattered Speech Bubble
+        </name>
+        <description></description>
+    </product>
     <product code="chatstyle_cm2ice">
         <name>
             Iced Over Chat Bubble
@@ -49965,6 +49995,12 @@
     <product code="chatstyle_cm2rocky">
         <name>
             Snowy Rock Chat Bubble
+        </name>
+        <description></description>
+    </product>
+    <product code="chatstyle_goldbar">
+        <name>
+            Gold Bar Speech Bubble
         </name>
         <description></description>
     </product>
@@ -59886,7 +59922,7 @@
     </product>
     <product code="clothing_nft26_bananahelmet">
         <name>
-            clothing_nft26_bananahelmet name
+            Banana Helmet
         </name>
         <description>
             clothing_nft26_bananahelmet desc
@@ -59894,7 +59930,7 @@
     </product>
     <product code="clothing_nft26_birdnest">
         <name>
-            clothing_nft26_birdnest name
+            Bird’s Nest Hat
         </name>
         <description>
             clothing_nft26_birdnest desc
@@ -59910,7 +59946,7 @@
     </product>
     <product code="clothing_nft26_cottoncandy">
         <name>
-            clothing_nft26_cottoncandy name
+            Cotton Candy Stick
         </name>
         <description>
             clothing_nft26_cottoncandy desc
@@ -59918,7 +59954,7 @@
     </product>
     <product code="clothing_nft26_cutlery">
         <name>
-            clothing_nft26_cutlery name
+            Cutlery
         </name>
         <description>
             clothing_nft26_cutlery desc
@@ -59926,7 +59962,7 @@
     </product>
     <product code="clothing_nft26_determinedface">
         <name>
-            clothing_nft26_determinedface name
+            Determined Face
         </name>
         <description>
             clothing_nft26_determinedface desc
@@ -59934,7 +59970,7 @@
     </product>
     <product code="clothing_nft26_haircomb">
         <name>
-            clothing_nft26_haircomb name
+            Hair Comb
         </name>
         <description>
             clothing_nft26_haircomb desc
@@ -59942,7 +59978,7 @@
     </product>
     <product code="clothing_nft26_hopefulface">
         <name>
-            clothing_nft26_hopefulface name
+            Hopeful Face
         </name>
         <description>
             clothing_nft26_hopefulface desc
@@ -59974,7 +60010,7 @@
     </product>
     <product code="clothing_nft26_trashcan">
         <name>
-            clothing_nft26_trashcan name
+            Trash Can Couture
         </name>
         <description>
             clothing_nft26_trashcan desc
@@ -59982,7 +60018,7 @@
     </product>
     <product code="clothing_nft26_zigzagmustache">
         <name>
-            clothing_nft26_zigzagmustache name
+            Zigzag Mustache
         </name>
         <description>
             clothing_nft26_zigzagmustache desc
@@ -92841,6 +92877,12 @@
         <description></description>
     </product>
     <product code="duckets_200_3">
+        <name>
+            200 Duckets
+        </name>
+        <description></description>
+    </product>
+    <product code="duckets_200_4">
         <name>
             200 Duckets
         </name>
@@ -141936,7 +141978,7 @@
     </product>
     <product code="nft_h26_antiquewidescreen">
         <name>
-            nft_h26_antiquewidescreen name
+            Widescreen Antique Television
         </name>
         <description>
             nft_h26_antiquewidescreen desc
@@ -142070,7 +142112,7 @@
     </product>
     <product code="nft_h26_cactussofa">
         <name>
-            nft_h26_cactussofa name
+            Cactus Sofa
         </name>
         <description>
             nft_h26_cactussofa desc
@@ -142428,7 +142470,7 @@
     </product>
     <product code="nft_h26_overgrownplant">
         <name>
-            nft_h26_overgrownplant name
+            Overgrown Pineapple Plant
         </name>
         <description>
             nft_h26_overgrownplant desc
@@ -142500,7 +142542,7 @@
     </product>
     <product code="nft_h26_recyccooncarpet">
         <name>
-            nft_h26_recyccooncarpet name
+            Recyccoon Carpet
         </name>
         <description>
             nft_h26_recyccooncarpet desc
@@ -142548,7 +142590,7 @@
     </product>
     <product code="nft_h26_royalfootrest">
         <name>
-            nft_h26_royalfootrest name
+            Royal Footrest
         </name>
         <description>
             nft_h26_royalfootrest desc
@@ -142612,7 +142654,7 @@
     </product>
     <product code="nft_h26_springchair">
         <name>
-            nft_h26_springchair name
+            Springy Polyfon Chair
         </name>
         <description>
             nft_h26_springchair desc
@@ -161972,15 +162014,21 @@
     </product>
     <product code="rec26_artsupplies">
         <name>
-            rec26_artsupplies name
+            Paint-Splattered Art Supplies
         </name>
         <description>
             rec26_artsupplies desc
         </description>
     </product>
+    <product code="rec26_chatstyle_paint">
+        <name>
+            Paint-Splattered Speech Bubble
+        </name>
+        <description></description>
+    </product>
     <product code="rec26_cloth_painthat">
         <name>
-            rec26_cloth_painthat name
+            Paint-Splattered Bucket Hat
         </name>
         <description>
             rec26_cloth_painthat desc
@@ -161988,7 +162036,7 @@
     </product>
     <product code="rec26_cloth_paintoutfit">
         <name>
-            rec26_cloth_paintoutfit name
+            Paint-Splattered Outfit
         </name>
         <description>
             rec26_cloth_paintoutfit desc
@@ -161996,7 +162044,7 @@
     </product>
     <product code="rec26_paintbust">
         <name>
-            rec26_paintbust name
+            Paint-Splattered Bust
         </name>
         <description>
             rec26_paintbust desc
@@ -162004,7 +162052,7 @@
     </product>
     <product code="rec26_paintcans">
         <name>
-            rec26_paintcans name
+            Colourful Paint Cans
         </name>
         <description>
             rec26_paintcans desc
@@ -162012,7 +162060,7 @@
     </product>
     <product code="rec26_paintchair">
         <name>
-            rec26_paintchair name
+            Paint-Splattered Chair
         </name>
         <description>
             rec26_paintchair desc
@@ -162020,7 +162068,7 @@
     </product>
     <product code="rec26_paintcolumn">
         <name>
-            rec26_paintcolumn name
+            Paint-Splattered Column
         </name>
         <description>
             rec26_paintcolumn desc
@@ -162028,7 +162076,7 @@
     </product>
     <product code="rec26_paintcouch">
         <name>
-            rec26_paintcouch name
+            Paint-Splattered Couch
         </name>
         <description>
             rec26_paintcouch desc
@@ -162036,7 +162084,7 @@
     </product>
     <product code="rec26_paintcupboard">
         <name>
-            rec26_paintcupboard name
+            Paint-Splattered Cupboard
         </name>
         <description>
             rec26_paintcupboard desc
@@ -162044,7 +162092,7 @@
     </product>
     <product code="rec26_painteasel">
         <name>
-            rec26_painteasel name
+            Paint-Splattered Easel
         </name>
         <description>
             rec26_painteasel desc
@@ -162052,7 +162100,7 @@
     </product>
     <product code="rec26_paintlamp">
         <name>
-            rec26_paintlamp name
+            Paint-Splattered Lamp
         </name>
         <description>
             rec26_paintlamp desc
@@ -162060,7 +162108,7 @@
     </product>
     <product code="rec26_paintshelf">
         <name>
-            rec26_paintshelf name
+            Paint-Splattered Shelf
         </name>
         <description>
             rec26_paintshelf desc
@@ -162068,7 +162116,7 @@
     </product>
     <product code="rec26_paintsplatter">
         <name>
-            rec26_paintsplatter name
+            Paint Splatter
         </name>
         <description>
             rec26_paintsplatter desc
@@ -162076,7 +162124,7 @@
     </product>
     <product code="rec26_painttable">
         <name>
-            rec26_painttable name
+            Paint-Splattered Table
         </name>
         <description>
             rec26_painttable desc
@@ -162084,7 +162132,7 @@
     </product>
     <product code="rec26_paintwallart">
         <name>
-            rec26_paintwallart name
+            Paint-Splatter Wall Art
         </name>
         <description>
             rec26_paintwallart desc

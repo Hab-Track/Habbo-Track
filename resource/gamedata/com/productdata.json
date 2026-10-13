@@ -392,6 +392,11 @@
         "description": ""
       },
       {
+        "code": "100diamonds_4",
+        "name": "100 Diamonds",
+        "description": ""
+      },
+      {
         "code": "100diamonds_SG",
         "name": "100 diamonds",
         "description": ""
@@ -592,6 +597,11 @@
         "description": ""
       },
       {
+        "code": "150diamonds_4",
+        "name": "150 Diamonds",
+        "description": ""
+      },
+      {
         "code": "150diamonds_SG",
         "name": "150 diamonds",
         "description": ""
@@ -618,6 +628,11 @@
       },
       {
         "code": "198_credits_3",
+        "name": "Get 198 credits and diamonds for the price of 110 credits!",
+        "description": ""
+      },
+      {
+        "code": "198_credits_4",
         "name": "Get 198 credits and diamonds for the price of 110 credits!",
         "description": ""
       },
@@ -658,6 +673,11 @@
       },
       {
         "code": "220_credits_3",
+        "name": "Get 220 credits and diamonds for the price of 110 credits!",
+        "description": ""
+      },
+      {
+        "code": "220_credits_4",
         "name": "Get 220 credits and diamonds for the price of 110 credits!",
         "description": ""
       },
@@ -32552,6 +32572,11 @@
         "description": ""
       },
       {
+        "code": "chat_bubble_10001",
+        "name": "Paint-Splattered Speech Bubble",
+        "description": ""
+      },
+      {
         "code": "chatstyle_cm2ice",
         "name": "Iced Over Chat Bubble",
         "description": ""
@@ -32559,6 +32584,11 @@
       {
         "code": "chatstyle_cm2rocky",
         "name": "Snowy Rock Chat Bubble",
+        "description": ""
+      },
+      {
+        "code": "chatstyle_goldbar",
+        "name": "Gold Bar Speech Bubble",
         "description": ""
       },
       {
@@ -38963,12 +38993,12 @@
       },
       {
         "code": "clothing_nft26_bananahelmet",
-        "name": "clothing_nft26_bananahelmet name",
+        "name": "Banana Helmet",
         "description": "clothing_nft26_bananahelmet desc"
       },
       {
         "code": "clothing_nft26_birdnest",
-        "name": "clothing_nft26_birdnest name",
+        "name": "Bird’s Nest Hat",
         "description": "clothing_nft26_birdnest desc"
       },
       {
@@ -38978,27 +39008,27 @@
       },
       {
         "code": "clothing_nft26_cottoncandy",
-        "name": "clothing_nft26_cottoncandy name",
+        "name": "Cotton Candy Stick",
         "description": "clothing_nft26_cottoncandy desc"
       },
       {
         "code": "clothing_nft26_cutlery",
-        "name": "clothing_nft26_cutlery name",
+        "name": "Cutlery",
         "description": "clothing_nft26_cutlery desc"
       },
       {
         "code": "clothing_nft26_determinedface",
-        "name": "clothing_nft26_determinedface name",
+        "name": "Determined Face",
         "description": "clothing_nft26_determinedface desc"
       },
       {
         "code": "clothing_nft26_haircomb",
-        "name": "clothing_nft26_haircomb name",
+        "name": "Hair Comb",
         "description": "clothing_nft26_haircomb desc"
       },
       {
         "code": "clothing_nft26_hopefulface",
-        "name": "clothing_nft26_hopefulface name",
+        "name": "Hopeful Face",
         "description": "clothing_nft26_hopefulface desc"
       },
       {
@@ -39018,12 +39048,12 @@
       },
       {
         "code": "clothing_nft26_trashcan",
-        "name": "clothing_nft26_trashcan name",
+        "name": "Trash Can Couture",
         "description": "clothing_nft26_trashcan desc"
       },
       {
         "code": "clothing_nft26_zigzagmustache",
-        "name": "clothing_nft26_zigzagmustache name",
+        "name": "Zigzag Mustache",
         "description": "clothing_nft26_zigzagmustache desc"
       },
       {
@@ -60368,6 +60398,11 @@
       },
       {
         "code": "duckets_200_3",
+        "name": "200 Duckets",
+        "description": ""
+      },
+      {
+        "code": "duckets_200_4",
         "name": "200 Duckets",
         "description": ""
       },
@@ -92138,7 +92173,7 @@
       },
       {
         "code": "nft_h26_antiquewidescreen",
-        "name": "nft_h26_antiquewidescreen name",
+        "name": "Widescreen Antique Television",
         "description": "nft_h26_antiquewidescreen desc"
       },
       {
@@ -92223,7 +92258,7 @@
       },
       {
         "code": "nft_h26_cactussofa",
-        "name": "nft_h26_cactussofa name",
+        "name": "Cactus Sofa",
         "description": "nft_h26_cactussofa desc"
       },
       {
@@ -92448,7 +92483,7 @@
       },
       {
         "code": "nft_h26_overgrownplant",
-        "name": "nft_h26_overgrownplant name",
+        "name": "Overgrown Pineapple Plant",
         "description": "nft_h26_overgrownplant desc"
       },
       {
@@ -92493,7 +92528,7 @@
       },
       {
         "code": "nft_h26_recyccooncarpet",
-        "name": "nft_h26_recyccooncarpet name",
+        "name": "Recyccoon Carpet",
         "description": "nft_h26_recyccooncarpet desc"
       },
       {
@@ -92523,7 +92558,7 @@
       },
       {
         "code": "nft_h26_royalfootrest",
-        "name": "nft_h26_royalfootrest name",
+        "name": "Royal Footrest",
         "description": "nft_h26_royalfootrest desc"
       },
       {
@@ -92563,7 +92598,7 @@
       },
       {
         "code": "nft_h26_springchair",
-        "name": "nft_h26_springchair name",
+        "name": "Springy Polyfon Chair",
         "description": "nft_h26_springchair desc"
       },
       {
@@ -105028,77 +105063,82 @@
       },
       {
         "code": "rec26_artsupplies",
-        "name": "rec26_artsupplies name",
+        "name": "Paint-Splattered Art Supplies",
         "description": "rec26_artsupplies desc"
       },
       {
+        "code": "rec26_chatstyle_paint",
+        "name": "Paint-Splattered Speech Bubble",
+        "description": ""
+      },
+      {
         "code": "rec26_cloth_painthat",
-        "name": "rec26_cloth_painthat name",
+        "name": "Paint-Splattered Bucket Hat",
         "description": "rec26_cloth_painthat desc"
       },
       {
         "code": "rec26_cloth_paintoutfit",
-        "name": "rec26_cloth_paintoutfit name",
+        "name": "Paint-Splattered Outfit",
         "description": "rec26_cloth_paintoutfit desc"
       },
       {
         "code": "rec26_paintbust",
-        "name": "rec26_paintbust name",
+        "name": "Paint-Splattered Bust",
         "description": "rec26_paintbust desc"
       },
       {
         "code": "rec26_paintcans",
-        "name": "rec26_paintcans name",
+        "name": "Colourful Paint Cans",
         "description": "rec26_paintcans desc"
       },
       {
         "code": "rec26_paintchair",
-        "name": "rec26_paintchair name",
+        "name": "Paint-Splattered Chair",
         "description": "rec26_paintchair desc"
       },
       {
         "code": "rec26_paintcolumn",
-        "name": "rec26_paintcolumn name",
+        "name": "Paint-Splattered Column",
         "description": "rec26_paintcolumn desc"
       },
       {
         "code": "rec26_paintcouch",
-        "name": "rec26_paintcouch name",
+        "name": "Paint-Splattered Couch",
         "description": "rec26_paintcouch desc"
       },
       {
         "code": "rec26_paintcupboard",
-        "name": "rec26_paintcupboard name",
+        "name": "Paint-Splattered Cupboard",
         "description": "rec26_paintcupboard desc"
       },
       {
         "code": "rec26_painteasel",
-        "name": "rec26_painteasel name",
+        "name": "Paint-Splattered Easel",
         "description": "rec26_painteasel desc"
       },
       {
         "code": "rec26_paintlamp",
-        "name": "rec26_paintlamp name",
+        "name": "Paint-Splattered Lamp",
         "description": "rec26_paintlamp desc"
       },
       {
         "code": "rec26_paintshelf",
-        "name": "rec26_paintshelf name",
+        "name": "Paint-Splattered Shelf",
         "description": "rec26_paintshelf desc"
       },
       {
         "code": "rec26_paintsplatter",
-        "name": "rec26_paintsplatter name",
+        "name": "Paint Splatter",
         "description": "rec26_paintsplatter desc"
       },
       {
         "code": "rec26_painttable",
-        "name": "rec26_painttable name",
+        "name": "Paint-Splattered Table",
         "description": "rec26_painttable desc"
       },
       {
         "code": "rec26_paintwallart",
-        "name": "rec26_paintwallart name",
+        "name": "Paint-Splatter Wall Art",
         "description": "rec26_paintwallart desc"
       },
       {
