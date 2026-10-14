@@ -117534,7 +117534,7 @@
     </product>
     <product code="hween_ltd26_curselamp_bd">
         <name>
-            Cursed Dragon Lamp
+            Cursed Dragon Lamp LTD
         </name>
         <description></description>
     </product>
@@ -199243,6 +199243,12 @@
         <description>
             wf_xtra_var_time_util desc
         </description>
+    </product>
+    <product code="wf_xtra_var_web_api_deal1">
+        <name>
+            Variable Global Add-on: Web API (3x)
+        </name>
+        <description></description>
     </product>
     <product code="wf_xtra_var_web_api">
         <name>

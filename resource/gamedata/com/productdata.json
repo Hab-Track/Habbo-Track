@@ -76408,7 +76408,7 @@
       },
       {
         "code": "hween_ltd26_curselamp_bd",
-        "name": "Cursed Dragon Lamp",
+        "name": "Cursed Dragon Lamp LTD",
         "description": ""
       },
       {
@@ -129350,6 +129350,11 @@
         "code": "wf_xtra_var_time_util",
         "name": "Variable Add-on: Time Utilities",
         "description": "wf_xtra_var_time_util desc"
+      },
+      {
+        "code": "wf_xtra_var_web_api_deal1",
+        "name": "Variable Global Add-on: Web API (3x)",
+        "description": ""
       },
       {
         "code": "wf_xtra_var_web_api",
