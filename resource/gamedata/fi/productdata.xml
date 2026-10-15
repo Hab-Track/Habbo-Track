@@ -11067,6 +11067,14 @@
             Dragon Dog Pet
         </description>
     </product>
+    <product code="a0 pet37">
+        <name>
+            Cursed Dragon
+        </name>
+        <description>
+            Cursed Dragon
+        </description>
+    </product>
     <product code="a0 pet3">
         <name>
             Terrieri ja lemmikkiruokaa
@@ -82628,6 +82636,40 @@
         <description>
             Älä relaa liikaa...
         </description>
+    </product>
+    <product code="drago_cursed_1_package">
+        <name>
+            Sininen kirottu lohikäärme
+        </name>
+        <description>
+            drago_cursed_1_package desc
+        </description>
+    </product>
+    <product code="drago_cursed_2_package">
+        <name>
+            Violetti kirottu lohikäärme
+        </name>
+        <description>
+            drago_cursed_2_package desc
+        </description>
+    </product>
+    <product code="drago_cursed_3_package">
+        <name>
+            Vihreä kirottu lohikäärme
+        </name>
+        <description></description>
+    </product>
+    <product code="drago_cursed_gift1">
+        <name>
+            Blue Cursed Dragon
+        </name>
+        <description></description>
+    </product>
+    <product code="drago_cursed_gift2">
+        <name>
+            Purple Cursed Dragon
+        </name>
+        <description></description>
     </product>
     <product code="dragon_r21_promo_bd">
         <name>

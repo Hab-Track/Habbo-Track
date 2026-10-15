@@ -14049,6 +14049,14 @@
                     <layer parttype="hrb"/>
                 </hiddenlayers>
             </set>
+            <set id="6549" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
+                <part id="7544" type="ha" colorable="1" index="0" colorindex="1"/>
+                <part id="7545" type="ha" colorable="1" index="1" colorindex="2"/>
+                <part id="7546" type="ha" colorable="0" index="2" colorindex="0"/>
+                <hiddenlayers>
+                    <layer parttype="hrb"/>
+                </hiddenlayers>
+            </set>
             <set id="6563" gender="U" club="0" colorable="1" selectable="1" preselectable="0" sellable="1">
                 <part id="7584" type="ha" colorable="1" index="0" colorindex="1"/>
                 <part id="7585" type="ha" colorable="1" index="1" colorindex="2"/>

@@ -6207,6 +6207,11 @@
         "description": "Dragon Dog Pet"
       },
       {
+        "code": "a0 pet37",
+        "name": "Cursed Dragon",
+        "description": "Cursed Dragon"
+      },
+      {
         "code": "a0 pet3",
         "name": "Terrier e comida inicial",
         "description": ""
@@ -53395,6 +53400,21 @@
         "code": "drago_c15_sofa",
         "name": "Sofá Drago",
         "description": "Pode não ser cômodo, mas todos querem um!"
+      },
+      {
+        "code": "drago_cursed_1_package",
+        "name": "Dragão Amaldiçoado Azul",
+        "description": "drago_cursed_1_package desc"
+      },
+      {
+        "code": "drago_cursed_2_package",
+        "name": "Dragão Amaldiçoado Roxo",
+        "description": "drago_cursed_2_package desc"
+      },
+      {
+        "code": "drago_cursed_3_package",
+        "name": "Dragão Amaldiçoado Verde",
+        "description": ""
       },
       {
         "code": "dragon_r21_promo_bd",

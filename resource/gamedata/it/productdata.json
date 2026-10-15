@@ -6822,6 +6822,11 @@
         "description": "Cucciolo di Cane Dragone"
       },
       {
+        "code": "a0 pet37",
+        "name": "Cursed Dragon",
+        "description": "Cursed Dragon"
+      },
+      {
         "code": "a0 pet3",
         "name": "Terrier",
         "description": "Giochiamo?"
@@ -53450,6 +53455,31 @@
         "code": "drago_c15_sofa",
         "name": "Divano Dungeon",
         "description": "Non rilassarti troppo..."
+      },
+      {
+        "code": "drago_cursed_1_package",
+        "name": "Drago maledetto blu",
+        "description": "drago_cursed_1_package desc"
+      },
+      {
+        "code": "drago_cursed_2_package",
+        "name": "Drago maledetto viola",
+        "description": "drago_cursed_2_package desc"
+      },
+      {
+        "code": "drago_cursed_3_package",
+        "name": "Drago maledetto verde",
+        "description": ""
+      },
+      {
+        "code": "drago_cursed_gift1",
+        "name": "Blue Cursed Dragon",
+        "description": ""
+      },
+      {
+        "code": "drago_cursed_gift2",
+        "name": "Purple Cursed Dragon",
+        "description": ""
       },
       {
         "code": "dragon_r21_promo_bd",

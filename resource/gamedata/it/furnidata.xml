@@ -200675,7 +200675,7 @@
         </furnitype>
         <furnitype id="3822" classname="petfood23">
             <revision>
-                48888
+                75992
             </revision>
             <category>
                 pets
@@ -200718,7 +200718,7 @@
                 -1
             </bcofferid>
             <customparams>
-                375,15,175 12,14,26
+                375,15,175 12,14,26,37
             </customparams>
             <specialtype>
                 1
@@ -200754,7 +200754,7 @@
         </furnitype>
         <furnitype id="3823" classname="petfood22">
             <revision>
-                48888
+                75992
             </revision>
             <category>
                 pets
@@ -200797,7 +200797,7 @@
                 -1
             </bcofferid>
             <customparams>
-                375,15,688 12,14,26
+                375,15,688 12,14,26,37
             </customparams>
             <specialtype>
                 1
@@ -200833,7 +200833,7 @@
         </furnitype>
         <furnitype id="3824" classname="nest_dragon">
             <revision>
-                45508
+                75992
             </revision>
             <category>
                 pets
@@ -200876,7 +200876,7 @@
                 -1
             </bcofferid>
             <customparams>
-                12,14
+                12,14,37
             </customparams>
             <specialtype>
                 1
@@ -200912,7 +200912,7 @@
         </furnitype>
         <furnitype id="3825" classname="ashtree">
             <revision>
-                45508
+                75992
             </revision>
             <category>
                 pets
@@ -200955,7 +200955,7 @@
                 -1
             </bcofferid>
             <customparams>
-                12
+                12,37
             </customparams>
             <specialtype>
                 1
@@ -201222,7 +201222,7 @@
         </furnitype>
         <furnitype id="3829" classname="grail_nectar">
             <revision>
-                45508
+                75992
             </revision>
             <category>
                 pets
@@ -201265,7 +201265,7 @@
                 -1
             </bcofferid>
             <customparams>
-                12
+                12,37
             </customparams>
             <specialtype>
                 1
@@ -1389936,10 +1389936,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29292
+                -1
             </offerid>
             <buyout>
-                1
+                0
             </buyout>
             <rentofferid>
                 -1
@@ -1412764,6 +1412764,164 @@
             </tradeable>
             <recyclable>
                 1
+            </recyclable>
+        </furnitype>
+        <furnitype id="18926" classname="drago_cursed_1_package">
+            <revision>
+                75992
+            </revision>
+            <category>
+                pets
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                Drago maledetto blu
+            </name>
+            <description>
+                drago_cursed_1_package desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams>
+                37 newbie_nest
+            </customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.0
+            </height>
+            <furniline>
+                drago
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                0
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="18927" classname="drago_cursed_2_package">
+            <revision>
+                75992
+            </revision>
+            <category>
+                pets
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                Drago maledetto viola
+            </name>
+            <description>
+                drago_cursed_2_package desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams>
+                37 newbie_nest
+            </customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.0
+            </height>
+            <furniline>
+                drago
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                0
+            </tradeable>
+            <recyclable>
+                0
             </recyclable>
         </furnitype>
     </roomitemtypes>

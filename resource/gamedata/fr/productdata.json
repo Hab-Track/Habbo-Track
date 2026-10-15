@@ -6322,6 +6322,11 @@
         "description": "Dragon Dog Pet"
       },
       {
+        "code": "a0 pet37",
+        "name": "Cursed Dragon",
+        "description": "Cursed Dragon"
+      },
+      {
         "code": "a0 pet3",
         "name": "Westie",
         "description": "Woof !"
@@ -51630,6 +51635,31 @@
         "code": "drago_c15_sofa",
         "name": "Canapé Drago",
         "description": "Ne te repose pas sur tes lauriers."
+      },
+      {
+        "code": "drago_cursed_1_package",
+        "name": "Dragon maudit bleu",
+        "description": "drago_cursed_1_package desc"
+      },
+      {
+        "code": "drago_cursed_2_package",
+        "name": "Dragon maudit violet",
+        "description": "drago_cursed_2_package desc"
+      },
+      {
+        "code": "drago_cursed_3_package",
+        "name": "Dragon maudit vert",
+        "description": ""
+      },
+      {
+        "code": "drago_cursed_gift1",
+        "name": "Blue Cursed Dragon",
+        "description": ""
+      },
+      {
+        "code": "drago_cursed_gift2",
+        "name": "Purple Cursed Dragon",
+        "description": ""
       },
       {
         "code": "dragon_r21_promo_bd",
