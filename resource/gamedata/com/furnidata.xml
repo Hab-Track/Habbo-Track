@@ -1392362,7 +1392362,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                35265
             </offerid>
             <buyout>
                 0
@@ -1393904,10 +1393904,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                34940
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1393981,10 +1393981,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                34941
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1394058,10 +1394058,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                34942
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1394135,10 +1394135,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                34943
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1412852,6 +1412852,162 @@
             </tradeable>
             <recyclable>
                 0
+            </recyclable>
+        </furnitype>
+        <furnitype id="19412" classname="newbie_bronze_cave_dragon_package">
+            <revision>
+                76001
+            </revision>
+            <category>
+                pets
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                Bronze Cave Dragon
+            </name>
+            <description>
+                newbie_bronze_cave_dragon_package desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams>
+                12 nest_dragon
+            </customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.0
+            </height>
+            <furniline>
+                newbie
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                0
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="19413" classname="trophy_c26_duckbergine">
+            <revision>
+                76001
+            </revision>
+            <category>
+                trophy
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                trophy_c26_duckbergine name
+            </name>
+            <description>
+                trophy_c26_duckbergine desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                11
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.2
+            </height>
+            <furniline>
+                trophies
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                1
             </recyclable>
         </furnitype>
     </roomitemtypes>
