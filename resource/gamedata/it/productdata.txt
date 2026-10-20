@@ -126930,6 +126930,14 @@
             nft_emerald_test_100 desc
         </description>
     </product>
+    <product code="nft_emerald_tome_5000">
+        <name>
+            nft_emerald_tome_5000 name
+        </name>
+        <description>
+            nft_emerald_tome_5000 desc
+        </description>
+    </product>
     <product code="nft_emerald_xmastree_2000">
         <name>
             Albero di Natale Smeraldo (2k Smeraldi)
@@ -186577,7 +186585,7 @@ Include un ESCLUSIVO Distintivo.
     </product>
     <product code="wf_act_set_highlight">
         <name>
-            Effetto WIRED: Imposta Evidenziazione Furni
+            Effetto WIRED: Imposta Evidenziazione
         </name>
         <description>
             wf_act_set_highlight desc
@@ -186585,7 +186593,7 @@ Include un ESCLUSIVO Distintivo.
     </product>
     <product code="wf_act_set_visibility">
         <name>
-            Effetto WIRED: Imposta Trasparenza Furni
+            Effetto WIRED: Imposta Visibilità
         </name>
         <description>
             wf_act_set_visibility desc

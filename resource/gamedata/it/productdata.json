@@ -82507,6 +82507,11 @@
         "description": "nft_emerald_test_100 desc"
       },
       {
+        "code": "nft_emerald_tome_5000",
+        "name": "nft_emerald_tome_5000 name",
+        "description": "nft_emerald_tome_5000 desc"
+      },
+      {
         "code": "nft_emerald_xmastree_2000",
         "name": "Albero di Natale Smeraldo (2k Smeraldi)",
         "description": "nft_emerald_xmastree_2000 desc"
@@ -121148,12 +121153,12 @@
       },
       {
         "code": "wf_act_set_highlight",
-        "name": "Effetto WIRED: Imposta Evidenziazione Furni",
+        "name": "Effetto WIRED: Imposta Evidenziazione",
         "description": "wf_act_set_highlight desc"
       },
       {
         "code": "wf_act_set_visibility",
-        "name": "Effetto WIRED: Imposta Trasparenza Furni",
+        "name": "Effetto WIRED: Imposta Visibilità",
         "description": "wf_act_set_visibility desc"
       },
       {

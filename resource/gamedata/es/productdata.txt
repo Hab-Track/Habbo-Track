@@ -126777,6 +126777,14 @@ Caja + Wired
             nft_emerald_test_100 desc
         </description>
     </product>
+    <product code="nft_emerald_tome_5000">
+        <name>
+            nft_emerald_tome_5000 name
+        </name>
+        <description>
+            nft_emerald_tome_5000 desc
+        </description>
+    </product>
     <product code="nft_emerald_xmastree_2000">
         <name>
             Árbol de Navidad Esmeralda (2000 Esmeraldas)
@@ -186613,7 +186621,7 @@ Caja + Wired
     </product>
     <product code="wf_act_set_highlight">
         <name>
-            Efecto WIRED: Establecer Resaltado de Furni
+            Efecto WIRED: Establecer Resaltado
         </name>
         <description>
             wf_act_set_highlight desc
@@ -186621,7 +186629,7 @@ Caja + Wired
     </product>
     <product code="wf_act_set_visibility">
         <name>
-            Efecto WIRED: Establecer Transparencia de Furni
+            Efecto WIRED: Establecer Visibilidad
         </name>
         <description>
             wf_act_set_visibility desc

@@ -81927,6 +81927,11 @@
         "description": "nft_emerald_test_100 desc"
       },
       {
+        "code": "nft_emerald_tome_5000",
+        "name": "nft_emerald_tome_5000 name",
+        "description": "nft_emerald_tome_5000 desc"
+      },
+      {
         "code": "nft_emerald_xmastree_2000",
         "name": "Árbol de Navidad Esmeralda (2000 Esmeraldas)",
         "description": "nft_emerald_xmastree_2000 desc"
@@ -120658,12 +120663,12 @@
       },
       {
         "code": "wf_act_set_highlight",
-        "name": "Efecto WIRED: Establecer Resaltado de Furni",
+        "name": "Efecto WIRED: Establecer Resaltado",
         "description": "wf_act_set_highlight desc"
       },
       {
         "code": "wf_act_set_visibility",
-        "name": "Efecto WIRED: Establecer Transparencia de Furni",
+        "name": "Efecto WIRED: Establecer Visibilidad",
         "description": "wf_act_set_visibility desc"
       },
       {

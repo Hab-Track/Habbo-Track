@@ -124598,6 +124598,14 @@
             nft_emerald_test_100 desc
         </description>
     </product>
+    <product code="nft_emerald_tome_5000">
+        <name>
+            nft_emerald_tome_5000 name
+        </name>
+        <description>
+            nft_emerald_tome_5000 desc
+        </description>
+    </product>
     <product code="nft_emerald_xmastree_2000">
         <name>
             Arbre de Noël émeraude (2k émeraudes)
@@ -183965,7 +183973,7 @@ Badge exclusif inclus
     </product>
     <product code="wf_act_set_highlight">
         <name>
-            Effet WIRED : Définir la surbrillance du mobi
+            Effet WIRED : Définir la surbrillance
         </name>
         <description>
             wf_act_set_highlight desc
@@ -183973,7 +183981,7 @@ Badge exclusif inclus
     </product>
     <product code="wf_act_set_visibility">
         <name>
-            Effet WIRED : Définir la transparence du mobi
+            Effet WIRED : Définir la visibilité
         </name>
         <description>
             wf_act_set_visibility desc

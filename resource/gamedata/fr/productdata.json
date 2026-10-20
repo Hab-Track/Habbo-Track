@@ -80577,6 +80577,11 @@
         "description": "nft_emerald_test_100 desc"
       },
       {
+        "code": "nft_emerald_tome_5000",
+        "name": "nft_emerald_tome_5000 name",
+        "description": "nft_emerald_tome_5000 desc"
+      },
+      {
         "code": "nft_emerald_xmastree_2000",
         "name": "Arbre de Noël émeraude (2k émeraudes)",
         "description": "nft_emerald_xmastree_2000 desc"
@@ -119023,12 +119028,12 @@
       },
       {
         "code": "wf_act_set_highlight",
-        "name": "Effet WIRED : Définir la surbrillance du mobi",
+        "name": "Effet WIRED : Définir la surbrillance",
         "description": "wf_act_set_highlight desc"
       },
       {
         "code": "wf_act_set_visibility",
-        "name": "Effet WIRED : Définir la transparence du mobi",
+        "name": "Effet WIRED : Définir la visibilité",
         "description": "wf_act_set_visibility desc"
       },
       {

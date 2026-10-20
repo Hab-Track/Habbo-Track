@@ -132779,6 +132779,14 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
             nft_emerald_test_100 desc
         </description>
     </product>
+    <product code="nft_emerald_tome_5000">
+        <name>
+            nft_emerald_tome_5000 name
+        </name>
+        <description>
+            nft_emerald_tome_5000 desc
+        </description>
+    </product>
     <product code="nft_emerald_xmastree_2000">
         <name>
             Zümrüt Yılbaşı Ağacı (2k Zümrüt)
@@ -192735,7 +192743,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="wf_act_set_highlight">
         <name>
-            DÜZENEKLİ Efekti: Mobi Vurgulamasını Ayarla
+            DÜZENEKLİ Efekti: Vurgulamayı Ayarla
         </name>
         <description>
             wf_act_set_highlight desc
@@ -192743,7 +192751,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="wf_act_set_visibility">
         <name>
-            DÜZENEKLİ Efekti: Mobi Saydamlığını Ayarla
+            DÜZENEKLİ Efekti: Görünürlüğü Ayarla
         </name>
         <description>
             wf_act_set_visibility desc

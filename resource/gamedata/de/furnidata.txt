@@ -1389881,10 +1389881,10 @@ Kunstfertigkeit.
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                28731
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1411780,17 +1411780,17 @@ Kunstfertigkeit.
                 1
             </ydim>
             <name>
-                WIRED-Effekt: Möbelhervorhebung festlegen
+                WIRED-Effekt: Hervorhebung festlegen
             </name>
             <description>
                 wf_act_set_highlight desc
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29096
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1411799,13 +1411799,13 @@ Kunstfertigkeit.
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29096
             </bcofferid>
             <customparams>
                 62
@@ -1411859,17 +1411859,17 @@ Kunstfertigkeit.
                 1
             </ydim>
             <name>
-                WIRED-Effekt: Möbeltransparenz festlegen
+                WIRED-Effekt: Sichtbarkeit festlegen
             </name>
             <description>
                 wf_act_set_visibility desc
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29097
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1411878,13 +1411878,13 @@ Kunstfertigkeit.
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29097
             </bcofferid>
             <customparams>
                 61
@@ -1412257,10 +1412257,10 @@ Kunstfertigkeit.
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29102
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1412269,13 +1412269,13 @@ Kunstfertigkeit.
                 0
             </rentbuyout>
             <bc>
-                0
+                1
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                -1
+                29102
             </bcofferid>
             <customparams>
                 28
@@ -1413177,6 +1413177,83 @@ Kunstfertigkeit.
             </tradeable>
             <recyclable>
                 1
+            </recyclable>
+        </furnitype>
+        <furnitype id="18923" classname="nft_emerald_tome_5000">
+            <revision>
+                76020
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                2
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                nft_emerald_tome_5000 name
+            </name>
+            <description>
+                nft_emerald_tome_5000 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.3
+            </height>
+            <furniline>
+                nft2026
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                0
+            </tradeable>
+            <recyclable>
+                0
             </recyclable>
         </furnitype>
     </roomitemtypes>

@@ -126105,6 +126105,14 @@ Kunstfertigkeit.
             nft_emerald_test_100 desc
         </description>
     </product>
+    <product code="nft_emerald_tome_5000">
+        <name>
+            nft_emerald_tome_5000 name
+        </name>
+        <description>
+            nft_emerald_tome_5000 desc
+        </description>
+    </product>
     <product code="nft_emerald_xmastree_2000">
         <name>
             Smaragd-Weihnachtsbaum (2k Smaragde)
@@ -185736,7 +185744,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="wf_act_set_highlight">
         <name>
-            WIRED-Effekt: Möbelhervorhebung festlegen
+            WIRED-Effekt: Hervorhebung festlegen
         </name>
         <description>
             wf_act_set_highlight desc
@@ -185744,7 +185752,7 @@ Beinhaltet ein exklusives Badge!
     </product>
     <product code="wf_act_set_visibility">
         <name>
-            WIRED-Effekt: Möbeltransparenz festlegen
+            WIRED-Effekt: Sichtbarkeit festlegen
         </name>
         <description>
             wf_act_set_visibility desc

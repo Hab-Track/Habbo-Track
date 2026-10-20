@@ -136892,6 +136892,14 @@
             nft_emerald_test_100 desc
         </description>
     </product>
+    <product code="nft_emerald_tome_5000">
+        <name>
+            nft_emerald_tome_5000 name
+        </name>
+        <description>
+            nft_emerald_tome_5000 desc
+        </description>
+    </product>
     <product code="nft_emerald_xmastree_2000">
         <name>
             Emerald Xmas Tree (2k Emeralds)
@@ -197330,7 +197338,7 @@
     </product>
     <product code="wf_act_set_highlight">
         <name>
-            WIRED Effect: Set Furni Highlight
+            WIRED Effect: Set Highlight
         </name>
         <description>
             wf_act_set_highlight desc
@@ -197338,7 +197346,7 @@
     </product>
     <product code="wf_act_set_visibility">
         <name>
-            WIRED Effect: Set Furni Transparency
+            WIRED Effect: Set Visibility
         </name>
         <description>
             wf_act_set_visibility desc

@@ -82212,6 +82212,11 @@
         "description": "nft_emerald_test_100 desc"
       },
       {
+        "code": "nft_emerald_tome_5000",
+        "name": "nft_emerald_tome_5000 name",
+        "description": "nft_emerald_tome_5000 desc"
+      },
+      {
         "code": "nft_emerald_xmastree_2000",
         "name": "Smaragd Kerstboom (2k Smaragd)",
         "description": "nft_emerald_xmastree_2000 desc"
@@ -120958,12 +120963,12 @@
       },
       {
         "code": "wf_act_set_highlight",
-        "name": "WIRED Reactie: Meubi Markering Instellen",
+        "name": "WIRED Reactie: Highlight Instellen",
         "description": "wf_act_set_highlight desc"
       },
       {
         "code": "wf_act_set_visibility",
-        "name": "WIRED Reactie: Meubi Transparantie Instellen",
+        "name": "WIRED Reactie: Zichtbaarheid Instellen",
         "description": "wf_act_set_visibility desc"
       },
       {

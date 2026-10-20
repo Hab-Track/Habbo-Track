@@ -126960,6 +126960,14 @@
             nft_emerald_test_100 desc
         </description>
     </product>
+    <product code="nft_emerald_tome_5000">
+        <name>
+            nft_emerald_tome_5000 name
+        </name>
+        <description>
+            nft_emerald_tome_5000 desc
+        </description>
+    </product>
     <product code="nft_emerald_xmastree_2000">
         <name>
             Smaragd Kerstboom (2k Smaragd)
@@ -186742,7 +186750,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="wf_act_set_highlight">
         <name>
-            WIRED Reactie: Meubi Markering Instellen
+            WIRED Reactie: Highlight Instellen
         </name>
         <description>
             wf_act_set_highlight desc
@@ -186750,7 +186758,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="wf_act_set_visibility">
         <name>
-            WIRED Reactie: Meubi Transparantie Instellen
+            WIRED Reactie: Zichtbaarheid Instellen
         </name>
         <description>
             wf_act_set_visibility desc
