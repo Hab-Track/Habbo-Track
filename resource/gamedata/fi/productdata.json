@@ -6418,12 +6418,12 @@
       },
       {
         "code": "SID_c21_plush",
-        "name": "Turvallisen internetin päivän pehmolelu",
+        "name": "2021 SID-pehmolelu",
         "description": "SID_c21_plush desc"
       },
       {
         "code": "SID_c22_plush",
-        "name": "Turvallisen internetin päivän pehmolelu 2022",
+        "name": "2022 SID-pehmolelu",
         "description": "SID_c22_plush desc"
       },
       {
@@ -6433,7 +6433,7 @@
       },
       {
         "code": "SID_c24_plush",
-        "name": "SID-lelu 2024",
+        "name": "2024 SID-pehmolelu",
         "description": "SID_c24_plush desc"
       },
       {
@@ -53583,7 +53583,7 @@
       },
       {
         "code": "dream_c24_storyboat",
-        "name": "Saturkirjan paperivene",
+        "name": "Satukirjan paperivene",
         "description": "dream_c24_storyboat desc"
       },
       {
@@ -53603,7 +53603,7 @@
       },
       {
         "code": "dream_c24_storyplane",
-        "name": "Saturkirjan lennokki",
+        "name": "Satukirjan lennokki",
         "description": "dream_c24_storyplane desc"
       },
       {
@@ -78973,12 +78973,12 @@
       },
       {
         "code": "neonpunk_c20_bed",
-        "name": "Neon Punk- sänky",
+        "name": "Neon Punk -sänky",
         "description": "neonpunk_c20_bed desc"
       },
       {
         "code": "neonpunk_c20_bedsidetable",
-        "name": "Neon Punk- yöpöytä",
+        "name": "Neon Punk -yöpöytä",
         "description": "neonpunk_c20_bedsidetable desc"
       },
       {
@@ -79003,27 +79003,27 @@
       },
       {
         "code": "neonpunk_c20_cupboard",
-        "name": "Neon Punk- lipasto",
+        "name": "Neon Punk -lipasto",
         "description": "neonpunk_c20_cupboard desc"
       },
       {
         "code": "neonpunk_c20_dresser",
-        "name": "Neon Punk- kauneuspöytä",
+        "name": "Neon Punk -kauneuspöytä",
         "description": "neonpunk_c20_dresser desc"
       },
       {
         "code": "neonpunk_c20_floor",
-        "name": "Neon Punk- lattia",
+        "name": "Neon Punk -lattia",
         "description": "neonpunk_c20_floor desc"
       },
       {
         "code": "neonpunk_c20_food",
-        "name": "Neon Punk- herkut",
+        "name": "Neon Punk -herkut",
         "description": "neonpunk_c20_food desc"
       },
       {
         "code": "neonpunk_c20_lamp",
-        "name": "Neon Punk- lamppu",
+        "name": "Neon Punk -lamppu",
         "description": "neonpunk_c20_lamp desc"
       },
       {
@@ -79053,7 +79053,7 @@
       },
       {
         "code": "neonpunk_c20_sofa",
-        "name": "Neon Punk- sohva",
+        "name": "Neon Punk -sohva",
         "description": "neonpunk_c20_sofa desc"
       },
       {
@@ -79078,7 +79078,7 @@
       },
       {
         "code": "neonpunk_c20_table",
-        "name": "Neon Punk- pöytä",
+        "name": "Neon Punk -pöytä",
         "description": "neonpunk_c20_table desc"
       },
       {
@@ -79088,7 +79088,7 @@
       },
       {
         "code": "neonpunk_c20_wall",
-        "name": "Neon Punk- seinä",
+        "name": "Neon Punk -seinä",
         "description": "neonpunk_c20_wall desc"
       },
       {
@@ -82528,7 +82528,7 @@
       },
       {
         "code": "nft_emerald_tome_5000",
-        "name": "nft_emerald_tome_5000 name",
+        "name": "Smaragdikirja",
         "description": "nft_emerald_tome_5000 desc"
       },
       {
@@ -85953,7 +85953,7 @@
       },
       {
         "code": "nft_h26_emeraldtome",
-        "name": "Smaragdinvihreä kirja",
+        "name": "Smaragdikirja",
         "description": ""
       },
       {
@@ -115868,7 +115868,7 @@
       },
       {
         "code": "tokyo_c18_adposters2",
-        "name": "Tokio ruokajuliste",
+        "name": "Tokio-ruokajuliste",
         "description": "tokyo_c18_adposters2 desc"
       },
       {
@@ -115883,7 +115883,7 @@
       },
       {
         "code": "tokyo_c18_bugsmachine",
-        "name": "Tokio hyönteismyyjä",
+        "name": "Tokio-hyönteisautomaatti",
         "description": "tokyo_c18_bugsmachine desc"
       },
       {
@@ -115893,12 +115893,12 @@
       },
       {
         "code": "tokyo_c18_drinksmachine",
-        "name": "Tokio juoma-automaatti",
+        "name": "Tokio-juoma-automaatti",
         "description": "tokyo_c18_drinksmachine desc"
       },
       {
         "code": "tokyo_c18_floor",
-        "name": "Tokio laatta",
+        "name": "Tokio-laatta",
         "description": "tokyo_c18_floor desc"
       },
       {
@@ -115918,17 +115918,17 @@
       },
       {
         "code": "tokyo_c18_jpmerchshop",
-        "name": "Tokio lelukauppa",
+        "name": "Tokio-lelukauppa",
         "description": "tokyo_c18_jpmerchshop desc"
       },
       {
         "code": "tokyo_c18_lanterns",
-        "name": "Tokio lyhdyt",
+        "name": "Tokio-lyhdyt",
         "description": "tokyo_c18_lanterns desc"
       },
       {
         "code": "tokyo_c18_lights",
-        "name": "Tokio katulamput",
+        "name": "Tokio-katulamput",
         "description": "tokyo_c18_lights desc"
       },
       {
@@ -115938,22 +115938,22 @@
       },
       {
         "code": "tokyo_c18_motorbike",
-        "name": "Futuristinen Tokio prätkä",
+        "name": "Futuristinen Tokio-prätkä",
         "description": "tokyo_c18_motorbike desc"
       },
       {
         "code": "tokyo_c18_neonsign1",
-        "name": "Tokio neonkyltti",
+        "name": "Tokio-neonkyltti",
         "description": "tokyo_c18_neonsign1 desc"
       },
       {
         "code": "tokyo_c18_neonsign2",
-        "name": "Tokio snack-kyltti",
+        "name": "Tokio-snackkyltti",
         "description": "tokyo_c18_neonsign2 desc"
       },
       {
         "code": "tokyo_c18_pole",
-        "name": "Tokio pylväs",
+        "name": "Tokio-pylväs",
         "description": "tokyo_c18_pole desc"
       },
       {
@@ -115963,12 +115963,12 @@
       },
       {
         "code": "tokyo_c18_railing",
-        "name": "Tokio kaide",
+        "name": "Tokio-kaide",
         "description": "tokyo_c18_railing desc"
       },
       {
         "code": "tokyo_c18_residential",
-        "name": "Tokio rakennus",
+        "name": "Tokio-rakennus",
         "description": "tokyo_c18_residential desc"
       },
       {
@@ -115983,7 +115983,7 @@
       },
       {
         "code": "tokyo_c18_road",
-        "name": "Tokio asfaltti",
+        "name": "Tokio-asfaltti",
         "description": "tokyo_c18_road desc"
       },
       {
@@ -115998,12 +115998,12 @@
       },
       {
         "code": "tokyo_c18_shopdisplay",
-        "name": "Tokio näyteikkuna",
+        "name": "Tokio-näyteikkuna",
         "description": "tokyo_c18_shopdisplay desc"
       },
       {
         "code": "tokyo_c18_shopfront",
-        "name": "Tokio kaupan sisäänkäynti",
+        "name": "Tokio-kaupan sisäänkäynti",
         "description": "tokyo_c18_shopfront desc"
       },
       {
@@ -116018,12 +116018,12 @@
       },
       {
         "code": "tokyo_c18_snackroof2",
-        "name": "Tokio ruokakojun tausta",
+        "name": "Tokio-ruokakojun tausta",
         "description": "tokyo_c18_snackroof2 desc"
       },
       {
         "code": "tokyo_c18_snackroof",
-        "name": "Tokio ruokakoju",
+        "name": "Tokio-ruokakoju",
         "description": "tokyo_c18_snackroof desc"
       },
       {
@@ -116078,7 +116078,7 @@
       },
       {
         "code": "tokyo_c18_trellis",
-        "name": "Tokio säleikkö",
+        "name": "Tokio-säleikkö",
         "description": "tokyo_c18_trellis desc"
       },
       {
@@ -118048,8 +118048,8 @@
       },
       {
         "code": "val13_table",
-        "name": "pöytä",
-        "description": "pöytä"
+        "name": "Pöytä",
+        "description": "Pöytä"
       },
       {
         "code": "val13_wall_1",
@@ -127428,7 +127428,7 @@
       },
       {
         "code": "xmas_c24_brokenbaubles",
-        "name": "Murkaantuneet joulukoristeet",
+        "name": "Murskaantuneet joulukoristeet",
         "description": "xmas_c24_brokenbaubles desc"
       },
       {
