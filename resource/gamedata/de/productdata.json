@@ -432,6 +432,11 @@
         "description": ""
       },
       {
+        "code": "100diamonds_4_SG",
+        "name": "100 diamonds",
+        "description": ""
+      },
+      {
         "code": "100diamonds_4",
         "name": "100 Diamonds",
         "description": ""
@@ -492,6 +497,11 @@
         "description": ""
       },
       {
+        "code": "150diamonds_4_SG",
+        "name": "150 diamonds",
+        "description": ""
+      },
+      {
         "code": "150diamonds_4",
         "name": "150 Diamonds",
         "description": ""
@@ -519,6 +529,11 @@
       {
         "code": "198_credits_3",
         "name": "Hol dir 198 Taler und Diamanten zum Preis von 110!",
+        "description": ""
+      },
+      {
+        "code": "198_credits_4_SG",
+        "name": "Get 198 credits for the price of 110 credits!",
         "description": ""
       },
       {
@@ -559,6 +574,11 @@
       {
         "code": "220_credits_3",
         "name": "Hol dir 220 Taler und Diamanten zum Preis von 110!",
+        "description": ""
+      },
+      {
+        "code": "220_credits_4_SG",
+        "name": "Get 220 credits for the price of 110 credits!",
         "description": ""
       },
       {
@@ -2233,37 +2253,37 @@
       },
       {
         "code": "A2 PL1",
-        "name": "Aufblasbarer Sessel",
+        "name": "Weisser aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
         "code": "A2 PL2",
-        "name": "Aufblasbarer Sessel",
+        "name": "Hellblauer aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
         "code": "A2 PL3",
-        "name": "Aufblasbarer Sessel",
+        "name": "Orangener aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
         "code": "A2 PL4",
-        "name": "Aufblasbarer Sessel",
+        "name": "Roter aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
         "code": "A2 PL5",
-        "name": "Aufblasbarer Sessel",
+        "name": "Grüner aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
         "code": "A2 PL6",
-        "name": "Aufblasbarer Sessel",
+        "name": "Dunkelblauer aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
         "code": "A2 PL7",
-        "name": "Aufblasbarer Sessel",
+        "name": "Gelber aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
@@ -6993,27 +7013,27 @@
       },
       {
         "code": "a1 newplty1",
-        "name": "Aufblasbarer Sessel",
+        "name": "Türkiser aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
         "code": "a1 newplty2",
-        "name": "Aufblasbarer Sessel",
+        "name": "Ockerfarbener aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
         "code": "a1 newplty3",
-        "name": "Aufblasbarer Sessel",
+        "name": "Brauner aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
         "code": "a1 newplty4",
-        "name": "Aufblasbarer Sessel",
+        "name": "Lila aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
         "code": "a1 newplty5",
-        "name": "Aufblasbarer Sessel",
+        "name": "Rosa aufblasbarer Sessel",
         "description": "Trendy Kunststoffmöbel"
       },
       {
@@ -43133,12 +43153,12 @@
       },
       {
         "code": "clothing_r23_drillhair_bd",
-        "name": "Drill Curled Hair",
+        "name": "Spirallocken",
         "description": "clothing_r23_drillhair desc"
       },
       {
         "code": "clothing_r23_drillhair",
-        "name": "Drill Curled Hair",
+        "name": "Spirallocken",
         "description": "clothing_r23_drillhair desc"
       },
       {
@@ -53434,6 +53454,11 @@
       {
         "code": "duckets_200_3",
         "name": "200 Duckets",
+        "description": ""
+      },
+      {
+        "code": "duckets_200_4_SG",
+        "name": "200 duckets",
         "description": ""
       },
       {
@@ -97643,7 +97668,7 @@
       },
       {
         "code": "rec26_paintwallart",
-        "name": "Wall Art mit Farbspritzern",
+        "name": "Wand mit Farbspritzern",
         "description": "rec26_paintwallart desc"
       },
       {
