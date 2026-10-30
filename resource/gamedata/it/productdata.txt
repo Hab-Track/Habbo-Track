@@ -95074,6 +95074,30 @@
         </name>
         <description></description>
     </product>
+    <product code="greenscreen_background">
+        <name>
+            greenscreen_background name
+        </name>
+        <description>
+            greenscreen_background desc
+        </description>
+    </product>
+    <product code="greenscreen_floor">
+        <name>
+            greenscreen_floor name
+        </name>
+        <description>
+            greenscreen_floor desc
+        </description>
+    </product>
+    <product code="greenscreen_wall">
+        <name>
+            greenscreen_wall name
+        </name>
+        <description>
+            greenscreen_wall desc
+        </description>
+    </product>
     <product code="grimreaperdolll_badge">
         <name>
             Tristo Mietitore
@@ -125644,6 +125668,14 @@
             nft_chair_plasto2 desc
         </description>
     </product>
+    <product code="nft_chair_plasto_lm1">
+        <name>
+            nft_chair_plasto_lm1 name
+        </name>
+        <description>
+            nft_chair_plasto_lm1 desc
+        </description>
+    </product>
     <product code="nft_chair_plasty2">
         <name>
             Sedia a capsula nera
@@ -126958,6 +126990,14 @@
         </name>
         <description>
             nft_emerald_heart_2000 desc
+        </description>
+    </product>
+    <product code="nft_emerald_penguin_5000">
+        <name>
+            nft_emerald_penguin_5000 name
+        </name>
+        <description>
+            nft_emerald_penguin_5000 desc
         </description>
     </product>
     <product code="nft_emerald_pumpkin_2000">
@@ -132276,6 +132316,22 @@
             nft_h26_campfire desc
         </description>
     </product>
+    <product code="nft_h26_candycanedragonlamp">
+        <name>
+            nft_h26_candycanedragonlamp name
+        </name>
+        <description>
+            nft_h26_candycanedragonlamp desc
+        </description>
+    </product>
+    <product code="nft_h26_candycaneheart">
+        <name>
+            nft_h26_candycaneheart name
+        </name>
+        <description>
+            nft_h26_candycaneheart desc
+        </description>
+    </product>
     <product code="nft_h26_cardchair">
         <name>
             Sedia Gaming
@@ -132554,6 +132610,14 @@
             nft_h26_hafbox desc
         </description>
     </product>
+    <product code="nft_h26_iceskaterack">
+        <name>
+            nft_h26_iceskaterack name
+        </name>
+        <description>
+            nft_h26_iceskaterack desc
+        </description>
+    </product>
     <product code="nft_h26_ingredientshelf">
         <name>
             Scaffale Ingredienti per Incantesimi
@@ -132616,6 +132680,14 @@
         </name>
         <description>
             nft_h26_movienightchair desc
+        </description>
+    </product>
+    <product code="nft_h26_nutcrackerfrank">
+        <name>
+            nft_h26_nutcrackerfrank name
+        </name>
+        <description>
+            nft_h26_nutcrackerfrank desc
         </description>
     </product>
     <product code="nft_h26_overgrownplant">
@@ -132754,6 +132826,14 @@
             nft_h26_sandmangnome desc
         </description>
     </product>
+    <product code="nft_h26_santa3000figure">
+        <name>
+            nft_h26_santa3000figure name
+        </name>
+        <description>
+            nft_h26_santa3000figure desc
+        </description>
+    </product>
     <product code="nft_h26_scarywitch">
         <name>
             Strega Terrificante
@@ -132882,6 +132962,14 @@
             nft_h26_trippypatch desc
         </description>
     </product>
+    <product code="nft_h26_whackapenguin">
+        <name>
+            nft_h26_whackapenguin name
+        </name>
+        <description>
+            nft_h26_whackapenguin desc
+        </description>
+    </product>
     <product code="nft_h26_witchchair">
         <name>
             Sedia della Strega
@@ -132904,6 +132992,38 @@
         </name>
         <description>
             nft_h26_witchworkstation desc
+        </description>
+    </product>
+    <product code="nft_h26_xmastree_bronze">
+        <name>
+            nft_h26_xmastree_bronze name
+        </name>
+        <description>
+            nft_h26_xmastree_bronze desc
+        </description>
+    </product>
+    <product code="nft_h26_xmastree_gold">
+        <name>
+            nft_h26_xmastree_gold name
+        </name>
+        <description>
+            nft_h26_xmastree_gold desc
+        </description>
+    </product>
+    <product code="nft_h26_xmastree_silver">
+        <name>
+            nft_h26_xmastree_silver name
+        </name>
+        <description>
+            nft_h26_xmastree_silver desc
+        </description>
+    </product>
+    <product code="nft_h26_xmastree_trippy">
+        <name>
+            nft_h26_xmastree_trippy name
+        </name>
+        <description>
+            nft_h26_xmastree_trippy desc
         </description>
     </product>
     <product code="nft_habbo15_beehive">
@@ -197259,6 +197379,270 @@ Include un ESCLUSIVO Distintivo.
             xmas_c25_treetopper3 desc
         </description>
     </product>
+    <product code="xmas_c26_bluewhitecandle">
+        <name>
+            xmas_c26_bluewhitecandle name
+        </name>
+        <description>
+            xmas_c26_bluewhitecandle desc
+        </description>
+    </product>
+    <product code="xmas_c26_candycanebumpercar">
+        <name>
+            xmas_c26_candycanebumpercar name
+        </name>
+        <description>
+            xmas_c26_candycanebumpercar desc
+        </description>
+    </product>
+    <product code="xmas_c26_candycanelamppost">
+        <name>
+            xmas_c26_candycanelamppost name
+        </name>
+        <description>
+            xmas_c26_candycanelamppost desc
+        </description>
+    </product>
+    <product code="xmas_c26_candycanelane">
+        <name>
+            xmas_c26_candycanelane name
+        </name>
+        <description>
+            xmas_c26_candycanelane desc
+        </description>
+    </product>
+    <product code="xmas_c26_candycanelanecurve">
+        <name>
+            xmas_c26_candycanelanecurve name
+        </name>
+        <description>
+            xmas_c26_candycanelanecurve desc
+        </description>
+    </product>
+    <product code="xmas_c26_cupsnowman">
+        <name>
+            xmas_c26_cupsnowman name
+        </name>
+        <description>
+            xmas_c26_cupsnowman desc
+        </description>
+    </product>
+    <product code="xmas_c26_decorhouse">
+        <name>
+            xmas_c26_decorhouse name
+        </name>
+        <description>
+            xmas_c26_decorhouse desc
+        </description>
+    </product>
+    <product code="xmas_c26_desksnowman">
+        <name>
+            xmas_c26_desksnowman name
+        </name>
+        <description>
+            xmas_c26_desksnowman desc
+        </description>
+    </product>
+    <product code="xmas_c26_ferriswheel">
+        <name>
+            xmas_c26_ferriswheel name
+        </name>
+        <description>
+            xmas_c26_ferriswheel desc
+        </description>
+    </product>
+    <product code="xmas_c26_giantgingerbreadhouse">
+        <name>
+            xmas_c26_giantgingerbreadhouse name
+        </name>
+        <description>
+            xmas_c26_giantgingerbreadhouse desc
+        </description>
+    </product>
+    <product code="xmas_c26_giftduck">
+        <name>
+            xmas_c26_giftduck name
+        </name>
+        <description>
+            xmas_c26_giftduck desc
+        </description>
+    </product>
+    <product code="xmas_c26_gingerbreadcutout">
+        <name>
+            xmas_c26_gingerbreadcutout name
+        </name>
+        <description>
+            xmas_c26_gingerbreadcutout desc
+        </description>
+    </product>
+    <product code="xmas_c26_gingerbreadcutoutthin">
+        <name>
+            xmas_c26_gingerbreadcutoutthin name
+        </name>
+        <description>
+            xmas_c26_gingerbreadcutoutthin desc
+        </description>
+    </product>
+    <product code="xmas_c26_gingerbreadplate">
+        <name>
+            xmas_c26_gingerbreadplate name
+        </name>
+        <description>
+            xmas_c26_gingerbreadplate desc
+        </description>
+    </product>
+    <product code="xmas_c26_holidaymocktail">
+        <name>
+            xmas_c26_holidaymocktail name
+        </name>
+        <description>
+            xmas_c26_holidaymocktail desc
+        </description>
+    </product>
+    <product code="xmas_c26_monorail">
+        <name>
+            xmas_c26_monorail name
+        </name>
+        <description>
+            xmas_c26_monorail desc
+        </description>
+    </product>
+    <product code="xmas_c26_monorailcorner">
+        <name>
+            xmas_c26_monorailcorner name
+        </name>
+        <description>
+            xmas_c26_monorailcorner desc
+        </description>
+    </product>
+    <product code="xmas_c26_parkcottage">
+        <name>
+            xmas_c26_parkcottage name
+        </name>
+        <description>
+            xmas_c26_parkcottage desc
+        </description>
+    </product>
+    <product code="xmas_c26_parkentrance">
+        <name>
+            xmas_c26_parkentrance name
+        </name>
+        <description>
+            xmas_c26_parkentrance desc
+        </description>
+    </product>
+    <product code="xmas_c26_parktoteb">
+        <name>
+            xmas_c26_parktoteb name
+        </name>
+        <description>
+            xmas_c26_parktoteb desc
+        </description>
+    </product>
+    <product code="xmas_c26_parktrashcan">
+        <name>
+            xmas_c26_parktrashcan name
+        </name>
+        <description>
+            xmas_c26_parktrashcan desc
+        </description>
+    </product>
+    <product code="xmas_c26_reindeerplush">
+        <name>
+            xmas_c26_reindeerplush name
+        </name>
+        <description>
+            xmas_c26_reindeerplush desc
+        </description>
+    </product>
+    <product code="xmas_c26_reindeerringtoss">
+        <name>
+            xmas_c26_reindeerringtoss name
+        </name>
+        <description>
+            xmas_c26_reindeerringtoss desc
+        </description>
+    </product>
+    <product code="xmas_c26_santaplush">
+        <name>
+            xmas_c26_santaplush name
+        </name>
+        <description>
+            xmas_c26_santaplush desc
+        </description>
+    </product>
+    <product code="xmas_c26_snowduck">
+        <name>
+            xmas_c26_snowduck name
+        </name>
+        <description>
+            xmas_c26_snowduck desc
+        </description>
+    </product>
+    <product code="xmas_c26_snowglobe">
+        <name>
+            xmas_c26_snowglobe name
+        </name>
+        <description>
+            xmas_c26_snowglobe desc
+        </description>
+    </product>
+    <product code="xmas_c26_stuffedstocking">
+        <name>
+            xmas_c26_stuffedstocking name
+        </name>
+        <description>
+            xmas_c26_stuffedstocking desc
+        </description>
+    </product>
+    <product code="xmas_c26_teacup">
+        <name>
+            xmas_c26_teacup name
+        </name>
+        <description>
+            xmas_c26_teacup desc
+        </description>
+    </product>
+    <product code="xmas_c26_themeparkbackground">
+        <name>
+            xmas_c26_themeparkbackground name
+        </name>
+        <description>
+            xmas_c26_themeparkbackground desc
+        </description>
+    </product>
+    <product code="xmas_c26_ticketbooth">
+        <name>
+            xmas_c26_ticketbooth name
+        </name>
+        <description>
+            xmas_c26_ticketbooth desc
+        </description>
+    </product>
+    <product code="xmas_c26_xmasmonorailsleigh">
+        <name>
+            xmas_c26_xmasmonorailsleigh name
+        </name>
+        <description>
+            xmas_c26_xmasmonorailsleigh desc
+        </description>
+    </product>
+    <product code="xmas_c26_xmaspopcorn">
+        <name>
+            xmas_c26_xmaspopcorn name
+        </name>
+        <description>
+            xmas_c26_xmaspopcorn desc
+        </description>
+    </product>
+    <product code="xmas_c26_xmastreeballtoss">
+        <name>
+            xmas_c26_xmastreeballtoss name
+        </name>
+        <description>
+            xmas_c26_xmastreeballtoss desc
+        </description>
+    </product>
     <product code="xmas_cstl_gate">
         <name>
             Ponte Levatoio
@@ -197955,6 +198339,22 @@ Include un ESCLUSIVO Distintivo.
         </name>
         <description>
             xmas_r25_icepillow desc
+        </description>
+    </product>
+    <product code="xmas_r26_merryarcade">
+        <name>
+            xmas_r26_merryarcade name
+        </name>
+        <description>
+            xmas_r26_merryarcade desc
+        </description>
+    </product>
+    <product code="xmas_r26_minimerrygoround">
+        <name>
+            xmas_r26_minimerrygoround name
+        </name>
+        <description>
+            xmas_r26_minimerrygoround desc
         </description>
     </product>
     <product code="xmas_snow">

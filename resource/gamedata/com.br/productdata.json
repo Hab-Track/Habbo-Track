@@ -61997,6 +61997,21 @@
         "description": "Cama Solteiro, Cama Casal e Lâmpada"
       },
       {
+        "code": "greenscreen_background",
+        "name": "greenscreen_background name",
+        "description": "greenscreen_background desc"
+      },
+      {
+        "code": "greenscreen_floor",
+        "name": "greenscreen_floor name",
+        "description": "greenscreen_floor desc"
+      },
+      {
+        "code": "greenscreen_wall",
+        "name": "greenscreen_wall name",
+        "description": "greenscreen_wall desc"
+      },
+      {
         "code": "grimreaperdolll_badge",
         "name": "Grim Reaper",
         "description": "Don't touch his scythe. Seriously."
@@ -81672,6 +81687,11 @@
         "description": "nft_chair_plasto2 desc"
       },
       {
+        "code": "nft_chair_plasto_lm1",
+        "name": "nft_chair_plasto_lm1 name",
+        "description": "nft_chair_plasto_lm1 desc"
+      },
+      {
         "code": "nft_chair_plasty2",
         "name": "Cadeira oval preta",
         "description": "nft_chair_plasty2 desc"
@@ -82495,6 +82515,11 @@
         "code": "nft_emerald_heart_2000",
         "name": "Coração de Dia dos Namorados Esmeralda",
         "description": "nft_emerald_heart_2000 desc"
+      },
+      {
+        "code": "nft_emerald_penguin_5000",
+        "name": "nft_emerald_penguin_5000 name",
+        "description": "nft_emerald_penguin_5000 desc"
       },
       {
         "code": "nft_emerald_pumpkin_2000",
@@ -85837,6 +85862,16 @@
         "description": "nft_h26_campfire desc"
       },
       {
+        "code": "nft_h26_candycanedragonlamp",
+        "name": "nft_h26_candycanedragonlamp name",
+        "description": "nft_h26_candycanedragonlamp desc"
+      },
+      {
+        "code": "nft_h26_candycaneheart",
+        "name": "nft_h26_candycaneheart name",
+        "description": "nft_h26_candycaneheart desc"
+      },
+      {
         "code": "nft_h26_cardchair",
         "name": "Cadeira de Jogos",
         "description": "nft_h26_cardchair desc"
@@ -86012,6 +86047,11 @@
         "description": "nft_h26_hafbox desc"
       },
       {
+        "code": "nft_h26_iceskaterack",
+        "name": "nft_h26_iceskaterack name",
+        "description": "nft_h26_iceskaterack desc"
+      },
+      {
         "code": "nft_h26_ingredientshelf",
         "name": "Prateleira de ingredientes mágicos",
         "description": "nft_h26_ingredientshelf desc"
@@ -86050,6 +86090,11 @@
         "code": "nft_h26_movienightchair",
         "name": "Cadeira de Cinema",
         "description": "nft_h26_movienightchair desc"
+      },
+      {
+        "code": "nft_h26_nutcrackerfrank",
+        "name": "nft_h26_nutcrackerfrank name",
+        "description": "nft_h26_nutcrackerfrank desc"
       },
       {
         "code": "nft_h26_overgrownplant",
@@ -86137,6 +86182,11 @@
         "description": "nft_h26_sandmangnome desc"
       },
       {
+        "code": "nft_h26_santa3000figure",
+        "name": "nft_h26_santa3000figure name",
+        "description": "nft_h26_santa3000figure desc"
+      },
+      {
         "code": "nft_h26_scarywitch",
         "name": "Bruxa Assustadora",
         "description": "nft_h26_scarywitch desc"
@@ -86217,6 +86267,11 @@
         "description": "nft_h26_trippypatch desc"
       },
       {
+        "code": "nft_h26_whackapenguin",
+        "name": "nft_h26_whackapenguin name",
+        "description": "nft_h26_whackapenguin desc"
+      },
+      {
         "code": "nft_h26_witchchair",
         "name": "Cadeira da Bruxa",
         "description": "nft_h26_witchchair desc"
@@ -86230,6 +86285,26 @@
         "code": "nft_h26_witchworkstation",
         "name": "Estação de Trabalho da Bruxa",
         "description": "nft_h26_witchworkstation desc"
+      },
+      {
+        "code": "nft_h26_xmastree_bronze",
+        "name": "nft_h26_xmastree_bronze name",
+        "description": "nft_h26_xmastree_bronze desc"
+      },
+      {
+        "code": "nft_h26_xmastree_gold",
+        "name": "nft_h26_xmastree_gold name",
+        "description": "nft_h26_xmastree_gold desc"
+      },
+      {
+        "code": "nft_h26_xmastree_silver",
+        "name": "nft_h26_xmastree_silver name",
+        "description": "nft_h26_xmastree_silver desc"
+      },
+      {
+        "code": "nft_h26_xmastree_trippy",
+        "name": "nft_h26_xmastree_trippy name",
+        "description": "nft_h26_xmastree_trippy desc"
       },
       {
         "code": "nft_habbo15_beehive",
@@ -127717,6 +127792,171 @@
         "description": "xmas_c25_treetopper3 desc"
       },
       {
+        "code": "xmas_c26_bluewhitecandle",
+        "name": "xmas_c26_bluewhitecandle name",
+        "description": "xmas_c26_bluewhitecandle desc"
+      },
+      {
+        "code": "xmas_c26_candycanebumpercar",
+        "name": "xmas_c26_candycanebumpercar name",
+        "description": "xmas_c26_candycanebumpercar desc"
+      },
+      {
+        "code": "xmas_c26_candycanelamppost",
+        "name": "xmas_c26_candycanelamppost name",
+        "description": "xmas_c26_candycanelamppost desc"
+      },
+      {
+        "code": "xmas_c26_candycanelane",
+        "name": "xmas_c26_candycanelane name",
+        "description": "xmas_c26_candycanelane desc"
+      },
+      {
+        "code": "xmas_c26_candycanelanecurve",
+        "name": "xmas_c26_candycanelanecurve name",
+        "description": "xmas_c26_candycanelanecurve desc"
+      },
+      {
+        "code": "xmas_c26_cupsnowman",
+        "name": "xmas_c26_cupsnowman name",
+        "description": "xmas_c26_cupsnowman desc"
+      },
+      {
+        "code": "xmas_c26_decorhouse",
+        "name": "xmas_c26_decorhouse name",
+        "description": "xmas_c26_decorhouse desc"
+      },
+      {
+        "code": "xmas_c26_desksnowman",
+        "name": "xmas_c26_desksnowman name",
+        "description": "xmas_c26_desksnowman desc"
+      },
+      {
+        "code": "xmas_c26_ferriswheel",
+        "name": "xmas_c26_ferriswheel name",
+        "description": "xmas_c26_ferriswheel desc"
+      },
+      {
+        "code": "xmas_c26_giantgingerbreadhouse",
+        "name": "xmas_c26_giantgingerbreadhouse name",
+        "description": "xmas_c26_giantgingerbreadhouse desc"
+      },
+      {
+        "code": "xmas_c26_giftduck",
+        "name": "xmas_c26_giftduck name",
+        "description": "xmas_c26_giftduck desc"
+      },
+      {
+        "code": "xmas_c26_gingerbreadcutout",
+        "name": "xmas_c26_gingerbreadcutout name",
+        "description": "xmas_c26_gingerbreadcutout desc"
+      },
+      {
+        "code": "xmas_c26_gingerbreadcutoutthin",
+        "name": "xmas_c26_gingerbreadcutoutthin name",
+        "description": "xmas_c26_gingerbreadcutoutthin desc"
+      },
+      {
+        "code": "xmas_c26_gingerbreadplate",
+        "name": "xmas_c26_gingerbreadplate name",
+        "description": "xmas_c26_gingerbreadplate desc"
+      },
+      {
+        "code": "xmas_c26_holidaymocktail",
+        "name": "xmas_c26_holidaymocktail name",
+        "description": "xmas_c26_holidaymocktail desc"
+      },
+      {
+        "code": "xmas_c26_monorail",
+        "name": "xmas_c26_monorail name",
+        "description": "xmas_c26_monorail desc"
+      },
+      {
+        "code": "xmas_c26_monorailcorner",
+        "name": "xmas_c26_monorailcorner name",
+        "description": "xmas_c26_monorailcorner desc"
+      },
+      {
+        "code": "xmas_c26_parkcottage",
+        "name": "xmas_c26_parkcottage name",
+        "description": "xmas_c26_parkcottage desc"
+      },
+      {
+        "code": "xmas_c26_parkentrance",
+        "name": "xmas_c26_parkentrance name",
+        "description": "xmas_c26_parkentrance desc"
+      },
+      {
+        "code": "xmas_c26_parktoteb",
+        "name": "xmas_c26_parktoteb name",
+        "description": "xmas_c26_parktoteb desc"
+      },
+      {
+        "code": "xmas_c26_parktrashcan",
+        "name": "xmas_c26_parktrashcan name",
+        "description": "xmas_c26_parktrashcan desc"
+      },
+      {
+        "code": "xmas_c26_reindeerplush",
+        "name": "xmas_c26_reindeerplush name",
+        "description": "xmas_c26_reindeerplush desc"
+      },
+      {
+        "code": "xmas_c26_reindeerringtoss",
+        "name": "xmas_c26_reindeerringtoss name",
+        "description": "xmas_c26_reindeerringtoss desc"
+      },
+      {
+        "code": "xmas_c26_santaplush",
+        "name": "xmas_c26_santaplush name",
+        "description": "xmas_c26_santaplush desc"
+      },
+      {
+        "code": "xmas_c26_snowduck",
+        "name": "xmas_c26_snowduck name",
+        "description": "xmas_c26_snowduck desc"
+      },
+      {
+        "code": "xmas_c26_snowglobe",
+        "name": "xmas_c26_snowglobe name",
+        "description": "xmas_c26_snowglobe desc"
+      },
+      {
+        "code": "xmas_c26_stuffedstocking",
+        "name": "xmas_c26_stuffedstocking name",
+        "description": "xmas_c26_stuffedstocking desc"
+      },
+      {
+        "code": "xmas_c26_teacup",
+        "name": "xmas_c26_teacup name",
+        "description": "xmas_c26_teacup desc"
+      },
+      {
+        "code": "xmas_c26_themeparkbackground",
+        "name": "xmas_c26_themeparkbackground name",
+        "description": "xmas_c26_themeparkbackground desc"
+      },
+      {
+        "code": "xmas_c26_ticketbooth",
+        "name": "xmas_c26_ticketbooth name",
+        "description": "xmas_c26_ticketbooth desc"
+      },
+      {
+        "code": "xmas_c26_xmasmonorailsleigh",
+        "name": "xmas_c26_xmasmonorailsleigh name",
+        "description": "xmas_c26_xmasmonorailsleigh desc"
+      },
+      {
+        "code": "xmas_c26_xmaspopcorn",
+        "name": "xmas_c26_xmaspopcorn name",
+        "description": "xmas_c26_xmaspopcorn desc"
+      },
+      {
+        "code": "xmas_c26_xmastreeballtoss",
+        "name": "xmas_c26_xmastreeballtoss name",
+        "description": "xmas_c26_xmastreeballtoss desc"
+      },
+      {
         "code": "xmas_cstl_gate",
         "name": "Portão de Gelo",
         "description": "Castelo Gelado"
@@ -128210,6 +128450,16 @@
         "code": "xmas_r25_icepillow",
         "name": "Almofada de Gelo",
         "description": "xmas_r25_icepillow desc"
+      },
+      {
+        "code": "xmas_r26_merryarcade",
+        "name": "xmas_r26_merryarcade name",
+        "description": "xmas_r26_merryarcade desc"
+      },
+      {
+        "code": "xmas_r26_minimerrygoround",
+        "name": "xmas_r26_minimerrygoround name",
+        "description": "xmas_r26_minimerrygoround desc"
       },
       {
         "code": "xmas_snow",
