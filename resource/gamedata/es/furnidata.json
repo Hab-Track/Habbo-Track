@@ -72193,10 +72193,10 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "voodoo",
-        "environment": null,
+        "environment": "",
         "rare": false,
-        "tradeable": true,
-        "recyclable": true
+        "tradeable": false,
+        "recyclable": false
       },
       {
         "id": 3358,
@@ -80285,9 +80285,9 @@
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
-        "bc": false,
+        "bc": true,
         "excludeddynamic": false,
-        "bcofferid": -1,
+        "bcofferid": 5438,
         "customparams": "10",
         "specialtype": 1,
         "canstandon": true,
@@ -80296,7 +80296,7 @@
         "canputstuffon": false,
         "height": 0.5,
         "furniline": "pet_accessories",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -83250,7 +83250,7 @@
         "canputstuffon": true,
         "height": 0,
         "furniline": "ad_sales",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": false,
         "recyclable": false
@@ -105977,8 +105977,8 @@
         "furniline": "habboween_2012",
         "environment": "",
         "rare": false,
-        "tradeable": true,
-        "recyclable": true
+        "tradeable": false,
+        "recyclable": false
       },
       {
         "id": 4434,
@@ -124556,8 +124556,8 @@
         "furniline": "habboween_2013",
         "environment": "",
         "rare": false,
-        "tradeable": true,
-        "recyclable": true
+        "tradeable": false,
+        "recyclable": false
       },
       {
         "id": 5013,
@@ -379488,7 +379488,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "easter_2022",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -519333,7 +519333,7 @@
         "canputstuffon": true,
         "height": 0.1,
         "furniline": "habboween_2025",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -519922,7 +519922,7 @@
         "canputstuffon": true,
         "height": 0.1,
         "furniline": "habboween_2025",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -563341,7 +563341,7 @@
         "canputstuffon": true,
         "height": 0.2,
         "furniline": "mafia",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -572804,7 +572804,7 @@
         "canputstuffon": true,
         "height": 0,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -572835,7 +572835,7 @@
         "canputstuffon": true,
         "height": 0.0001,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -572866,7 +572866,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -572897,7 +572897,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -572928,7 +572928,7 @@
         "canputstuffon": false,
         "height": 0.0001,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -572959,7 +572959,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -572990,7 +572990,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573021,7 +573021,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573052,7 +573052,7 @@
         "canputstuffon": true,
         "height": 0.0025,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573083,7 +573083,7 @@
         "canputstuffon": false,
         "height": 0.7,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573114,7 +573114,7 @@
         "canputstuffon": true,
         "height": 0,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573145,7 +573145,7 @@
         "canputstuffon": false,
         "height": 0.25,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573176,7 +573176,7 @@
         "canputstuffon": false,
         "height": 2.3,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573207,7 +573207,7 @@
         "canputstuffon": true,
         "height": 0.1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573238,7 +573238,7 @@
         "canputstuffon": true,
         "height": 0.248,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573269,7 +573269,7 @@
         "canputstuffon": true,
         "height": 0.8,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573300,7 +573300,7 @@
         "canputstuffon": true,
         "height": 0.2,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573331,7 +573331,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573362,7 +573362,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573393,7 +573393,7 @@
         "canputstuffon": false,
         "height": 0.4,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573424,7 +573424,7 @@
         "canputstuffon": true,
         "height": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573455,7 +573455,7 @@
         "canputstuffon": true,
         "height": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573486,7 +573486,7 @@
         "canputstuffon": false,
         "height": 5.7,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573517,7 +573517,7 @@
         "canputstuffon": false,
         "height": 0.025,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573548,7 +573548,7 @@
         "canputstuffon": false,
         "height": 0.5,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573579,7 +573579,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -573610,7 +573610,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true
@@ -575408,7 +575408,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "nftmint",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": false
@@ -575501,7 +575501,7 @@
         "canputstuffon": false,
         "height": 1,
         "furniline": "nftmint",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": false
@@ -598717,7 +598717,7 @@
         "adurl": null,
         "specialtype": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true,
@@ -598739,7 +598739,7 @@
         "adurl": null,
         "specialtype": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true,
@@ -598761,7 +598761,7 @@
         "adurl": null,
         "specialtype": 1,
         "furniline": "survival",
-        "environment": null,
+        "environment": "",
         "rare": false,
         "tradeable": true,
         "recyclable": true,
