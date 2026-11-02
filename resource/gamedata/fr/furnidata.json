@@ -548112,7 +548112,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Livre Canard Argenté",
+        "name": "CoinBook Argenté",
         "description": "bonusrare26_1_0 desc",
         "adurl": null,
         "offerid": -1,
@@ -548149,7 +548149,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Livre Canard Rose",
+        "name": "CoinBook Rose",
         "description": "bonusrare26_1_1 desc",
         "adurl": null,
         "offerid": -1,
@@ -548186,7 +548186,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Livre Canard Bleu",
+        "name": "CoinBook Bleu",
         "description": "bonusrare26_1_2 desc",
         "adurl": null,
         "offerid": -1,
@@ -548223,7 +548223,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Livre Canard Vert",
+        "name": "CoinBook Vert",
         "description": "bonusrare26_1_3 desc",
         "adurl": null,
         "offerid": -1,
@@ -548260,7 +548260,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Livre Canard Violet",
+        "name": "CoinBook Violet",
         "description": "bonusrare26_1_4 desc",
         "adurl": null,
         "offerid": -1,
@@ -548297,7 +548297,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Livre Canard Noir",
+        "name": "CoinBook Noir",
         "description": "bonusrare26_1_5 desc",
         "adurl": null,
         "offerid": -1,
@@ -548599,7 +548599,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Imprimé chat kawaii Rubis",
+        "name": "Pierre précieuse Rubis",
         "description": "bonusrare26_3_0 desc",
         "adurl": null,
         "offerid": -1,
@@ -548637,7 +548637,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Imprimé chat kawaii Améthyste",
+        "name": "Pierre précieuse Améthyste",
         "description": "bonusrare26_3_1 desc",
         "adurl": null,
         "offerid": -1,
@@ -569258,8 +569258,8 @@
         "name": "Couronne feuilles d'automne",
         "description": "clothing_ducketleafcrown desc",
         "adurl": null,
-        "offerid": 28977,
-        "buyout": true,
+        "offerid": -1,
+        "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
         "bc": false,
@@ -569289,8 +569289,8 @@
         "name": "Pommier d'automne",
         "description": "ducket_c26_appletree desc",
         "adurl": null,
-        "offerid": 28978,
-        "buyout": true,
+        "offerid": -1,
+        "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
         "bc": false,
@@ -569320,8 +569320,8 @@
         "name": "Bougie d'automne",
         "description": "ducket_c26_autumncandle desc",
         "adurl": null,
-        "offerid": 28979,
-        "buyout": true,
+        "offerid": -1,
+        "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
         "bc": false,
@@ -569351,8 +569351,8 @@
         "name": "Tas de feuilles vives",
         "description": "ducket_c26_leafpile desc",
         "adurl": null,
-        "offerid": 28980,
-        "buyout": true,
+        "offerid": -1,
+        "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
         "bc": false,
@@ -572262,7 +572262,7 @@
         "name": "Adorable sac à dos gland",
         "description": "clothing_acornbackpack desc",
         "adurl": null,
-        "offerid": 29404,
+        "offerid": 29126,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -572293,7 +572293,7 @@
         "name": "Porte-clés gland",
         "description": "clothing_acornkeyring desc",
         "adurl": null,
-        "offerid": 29402,
+        "offerid": 29127,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -572324,7 +572324,7 @@
         "name": "Béret automne confortable",
         "description": "clothing_autumnberet2 desc",
         "adurl": null,
-        "offerid": 29403,
+        "offerid": 29128,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -572355,7 +572355,7 @@
         "name": "Décoration gland",
         "description": "ducket_c26_acorndecor desc",
         "adurl": null,
-        "offerid": 29401,
+        "offerid": 29129,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
