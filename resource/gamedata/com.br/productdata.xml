@@ -51232,6 +51232,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_r26_bloodbath_bd">
+        <name>
+            Banho de Sangue
+        </name>
+        <description></description>
+    </product>
     <product code="cl_r26_countingsheep_bd">
         <name>
             Ovelhinha Flutuante
@@ -59474,10 +59480,26 @@
     </product>
     <product code="clothing_nft26_camopaint">
         <name>
-            clothing_nft26_camopaint name
+            Pintura de Roso Camuflagem
         </name>
         <description>
             clothing_nft26_camopaint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_candycanecane">
+        <name>
+            clothing_nft26_candycanecane name
+        </name>
+        <description>
+            clothing_nft26_candycanecane desc
+        </description>
+    </product>
+    <product code="clothing_nft26_candycanehair">
+        <name>
+            clothing_nft26_candycanehair name
+        </name>
+        <description>
+            clothing_nft26_candycanehair desc
         </description>
     </product>
     <product code="clothing_nft26_cottoncandy">
@@ -59502,6 +59524,38 @@
         </name>
         <description>
             clothing_nft26_determinedface desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckchestprint">
+        <name>
+            Colecionáveis Estampa de Pato no Peito
+        </name>
+        <description>
+            clothing_nft26_duckchestprint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckheadband">
+        <name>
+            Colecionáveis Tiara de Pato
+        </name>
+        <description>
+            clothing_nft26_duckheadband desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckonesie">
+        <name>
+            Colecionável Macacão de Pato
+        </name>
+        <description>
+            clothing_nft26_duckonesie desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckslippers">
+        <name>
+            Colecionáveis Pantufas de Pato
+        </name>
+        <description>
+            clothing_nft26_duckslippers desc
         </description>
     </product>
     <product code="clothing_nft26_haircomb">
@@ -59530,15 +59584,87 @@
     </product>
     <product code="clothing_nft26_nightgoggles">
         <name>
-            clothing_nft26_nightgoggles name
+            Lentes de Visão Noturna
         </name>
         <description>
             clothing_nft26_nightgoggles desc
         </description>
     </product>
+    <product code="clothing_nft26_nutcrackerface">
+        <name>
+            clothing_nft26_nutcrackerface name
+        </name>
+        <description>
+            clothing_nft26_nutcrackerface desc
+        </description>
+    </product>
+    <product code="clothing_nft26_nutcrackerhat">
+        <name>
+            clothing_nft26_nutcrackerhat name
+        </name>
+        <description>
+            clothing_nft26_nutcrackerhat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_penguinheadband">
+        <name>
+            clothing_nft26_penguinheadband name
+        </name>
+        <description>
+            clothing_nft26_penguinheadband desc
+        </description>
+    </product>
+    <product code="clothing_nft26_polarbearhat">
+        <name>
+            clothing_nft26_polarbearhat name
+        </name>
+        <description>
+            clothing_nft26_polarbearhat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_snowcoat">
+        <name>
+            clothing_nft26_snowcoat name
+        </name>
+        <description>
+            clothing_nft26_snowcoat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starchestprint">
+        <name>
+            clothing_nft26_starchestprint name
+        </name>
+        <description>
+            clothing_nft26_starchestprint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starcrown">
+        <name>
+            clothing_nft26_starcrown name
+        </name>
+        <description>
+            clothing_nft26_starcrown desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starfriend">
+        <name>
+            clothing_nft26_starfriend name
+        </name>
+        <description>
+            clothing_nft26_starfriend desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starkeyring">
+        <name>
+            clothing_nft26_starkeyring name
+        </name>
+        <description>
+            clothing_nft26_starkeyring desc
+        </description>
+    </product>
     <product code="clothing_nft26_tacticalvest">
         <name>
-            clothing_nft26_tacticalvest name
+            Colete Tático
         </name>
         <description>
             clothing_nft26_tacticalvest desc
@@ -79708,19 +79834,19 @@
     </product>
     <product code="dia_c26_acornbackpack">
         <name>
-            clothing_acornbackpack name
+            Adorable Acorn Backpack
         </name>
         <description></description>
     </product>
     <product code="dia_c26_acorndecor">
         <name>
-            ducket_c26_acorndecor name
+            Acorn Decoration
         </name>
         <description></description>
     </product>
     <product code="dia_c26_acornkeyring">
         <name>
-            clothing_acornkeyring name
+            Acorn Keyring
         </name>
         <description></description>
     </product>
@@ -79732,7 +79858,7 @@
     </product>
     <product code="dia_c26_autumnberet2">
         <name>
-            clothing_autumnberet2 name
+            Cozy Autumn Beret
         </name>
         <description></description>
     </product>
@@ -110636,6 +110762,12 @@
         </name>
         <description></description>
     </product>
+    <product code="in_app_bundle_463">
+        <name>
+            Wilderness Survival Bundle
+        </name>
+        <description></description>
+    </product>
     <product code="in_app_bundle_47">
         <name>
             Frosty Winter Castle
@@ -132320,7 +132452,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_axe_bronze">
         <name>
-            nft_h26_axe_bronze name
+            Machado Bronze
         </name>
         <description>
             nft_h26_axe_bronze desc
@@ -132328,7 +132460,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_axe_gold">
         <name>
-            nft_h26_axe_gold name
+            Machado de Ouro
         </name>
         <description>
             nft_h26_axe_gold desc
@@ -132336,7 +132468,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_axe_silver">
         <name>
-            nft_h26_axe_silver name
+            Machado Prata
         </name>
         <description>
             nft_h26_axe_silver desc
@@ -132344,7 +132476,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_axe_trippy">
         <name>
-            nft_h26_axe_trippy name
+            Machado Trippy
         </name>
         <description>
             nft_h26_axe_trippy desc
@@ -132446,10 +132578,18 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_campfire">
         <name>
-            nft_h26_campfire name
+            Fogueira Bem Construída
         </name>
         <description>
             nft_h26_campfire desc
+        </description>
+    </product>
+    <product code="nft_h26_candycanecandle">
+        <name>
+            nft_h26_candycanecandle name
+        </name>
+        <description>
+            nft_h26_candycanecandle desc
         </description>
     </product>
     <product code="nft_h26_candycanedragonlamp">
@@ -132636,7 +132776,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_emplacement">
         <name>
-            nft_h26_emplacement name
+            Trincheira de Sobrevivência
         </name>
         <description>
             nft_h26_emplacement desc
@@ -132816,6 +132956,14 @@ por 20 créditos e diamantes!
         </name>
         <description>
             nft_h26_movienightchair desc
+        </description>
+    </product>
+    <product code="nft_h26_nutbowl">
+        <name>
+            nft_h26_nutbowl name
+        </name>
+        <description>
+            nft_h26_nutbowl desc
         </description>
     </product>
     <product code="nft_h26_nutcrackerfrank">
@@ -133036,7 +133184,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_survivalgear">
         <name>
-            nft_h26_survivalgear name
+            Equipamento de Sobrevivência
         </name>
         <description>
             nft_h26_survivalgear desc
@@ -133060,7 +133208,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="nft_h26_treehouseshelter">
         <name>
-            nft_h26_treehouseshelter name
+            Abrigo na Árvore
         </name>
         <description>
             nft_h26_treehouseshelter desc
@@ -135544,12 +135692,28 @@ por 20 créditos e diamantes!
             nft_sc26_alchemykit desc
         </description>
     </product>
+    <product code="nft_sc26_festivepopcorncart">
+        <name>
+            nft_sc26_festivepopcorncart name
+        </name>
+        <description>
+            nft_sc26_festivepopcorncart desc
+        </description>
+    </product>
     <product code="nft_sc26_flyingbook">
         <name>
             Livro Voador
         </name>
         <description>
             nft_sc26_flyingbook desc
+        </description>
+    </product>
+    <product code="nft_sc26_popcornbucket">
+        <name>
+            nft_sc26_popcornbucket name
+        </name>
+        <description>
+            nft_sc26_popcornbucket desc
         </description>
     </product>
     <product code="nft_sc26_transmogrification">
@@ -135566,6 +135730,30 @@ por 20 créditos e diamantes!
         </name>
         <description>
             nft_sc26_wanddisplay desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmasmerch">
+        <name>
+            nft_sc26_xmasmerch name
+        </name>
+        <description>
+            nft_sc26_xmasmerch desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmasshopstand">
+        <name>
+            nft_sc26_xmasshopstand name
+        </name>
+        <description>
+            nft_sc26_xmasshopstand desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmaswalldisplay">
+        <name>
+            nft_sc26_xmaswalldisplay name
+        </name>
+        <description>
+            nft_sc26_xmaswalldisplay desc
         </description>
     </product>
     <product code="nft_sc_bodybag">
@@ -137857,6 +138045,18 @@ por 20 créditos e diamantes!
     <product code="nov25_gaming_internal">
         <name>
             Gaming Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="nov26_craftingprize">
+        <name>
+            Wilderness Crafting Prize
+        </name>
+        <description></description>
+    </product>
+    <product code="nov26_special2_internal">
+        <name>
+            Wilderness Survival Bundle
         </name>
         <description></description>
     </product>
@@ -167944,6 +168144,18 @@ por 20 créditos e diamantes!
         </name>
         <description></description>
     </product>
+    <product code="rotating_roomdeal463_d">
+        <name>
+            NOVO: Pack Sobrevivência na Floresta
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal463">
+        <name>
+            NOVO: Pack Sobrevivência na Floresta
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Habbo House Party Bundle
@@ -170621,6 +170833,14 @@ por 20 créditos e diamantes!
             sc26_flyingbook desc
         </description>
     </product>
+    <product code="sc26_popcornbucket">
+        <name>
+            sc26_popcornbucket name
+        </name>
+        <description>
+            sc26_popcornbucket desc
+        </description>
+    </product>
     <product code="sc26_transmogrification">
         <name>
             Prática de Transmogrificação
@@ -170635,6 +170855,30 @@ por 20 créditos e diamantes!
         </name>
         <description>
             sc26_wanddisplay desc
+        </description>
+    </product>
+    <product code="sc26_xmasmerch">
+        <name>
+            sc26_xmasmerch name
+        </name>
+        <description>
+            sc26_xmasmerch desc
+        </description>
+    </product>
+    <product code="sc26_xmasshopstand">
+        <name>
+            sc26_xmasshopstand name
+        </name>
+        <description>
+            sc26_xmasshopstand desc
+        </description>
+    </product>
+    <product code="sc26_xmaswalldisplay">
+        <name>
+            sc26_xmaswalldisplay name
+        </name>
+        <description>
+            sc26_xmaswalldisplay desc
         </description>
     </product>
     <product code="sc_bodybag">
@@ -176581,6 +176825,36 @@ por 20 créditos e diamantes!
             Níveis totalmente insanos de dureza.
         </description>
     </product>
+    <product code="supply_pack1">
+        <name>
+            Supply Pack 1
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack2">
+        <name>
+            Supply Pack 2
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack3">
+        <name>
+            Supply Pack 3
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack4">
+        <name>
+            Supply Pack 4
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack5">
+        <name>
+            Supply Pack 5
+        </name>
+        <description></description>
+    </product>
     <product code="survival_c26_burntgrass">
         <name>
             Grama Queimada
@@ -176591,7 +176865,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_cave">
         <name>
-            survival_c26_cave name
+            Caverna Esconderijo
         </name>
         <description>
             survival_c26_cave desc
@@ -176599,7 +176873,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_craftingtable">
         <name>
-            survival_c26_craftingtable name
+            Mesa de Criações de Sobrevivente
         </name>
         <description>
             survival_c26_craftingtable desc
@@ -176639,7 +176913,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_factionsymbols">
         <name>
-            survival_c26_factionsymbols name
+            Símbolo de Facção
         </name>
         <description>
             survival_c26_factionsymbols desc
@@ -176647,7 +176921,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_firekit">
         <name>
-            survival_c26_firekit name
+            Kit para Fazer Fogo
         </name>
         <description>
             survival_c26_firekit desc
@@ -176655,7 +176929,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_flare">
         <name>
-            survival_c26_flare name
+            Sinal de Chama
         </name>
         <description>
             survival_c26_flare desc
@@ -176671,7 +176945,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_foliage">
         <name>
-            survival_c26_foliage name
+            Folhagem Espessa
         </name>
         <description>
             survival_c26_foliage desc
@@ -176679,7 +176953,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_foliagefloor">
         <name>
-            survival_c26_foliagefloor name
+            Piso Folhagem Espessa
         </name>
         <description>
             survival_c26_foliagefloor desc
@@ -176687,7 +176961,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_foodsupplies">
         <name>
-            survival_c26_foodsupplies name
+            Suprimentos de Comida em Lata
         </name>
         <description>
             survival_c26_foodsupplies desc
@@ -176695,7 +176969,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_hammock">
         <name>
-            survival_c26_hammock name
+            Rede Camuflada
         </name>
         <description>
             survival_c26_hammock desc
@@ -176719,7 +176993,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_podium">
         <name>
-            survival_c26_podium name
+            Pódio dos Jogos de sobrevivência
         </name>
         <description>
             survival_c26_podium desc
@@ -176727,7 +177001,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_rope">
         <name>
-            survival_c26_rope name
+            Corda Resistente
         </name>
         <description>
             survival_c26_rope desc
@@ -176735,7 +177009,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_sleepingbag">
         <name>
-            survival_c26_sleepingbag name
+            Saco de Dormir de Sobrevivência
         </name>
         <description>
             survival_c26_sleepingbag desc
@@ -176743,7 +177017,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_stonesymbol">
         <name>
-            survival_c26_stonesymbol name
+            Símbolo de Pedra Secreta
         </name>
         <description>
             survival_c26_stonesymbol desc
@@ -176751,7 +177025,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_stream">
         <name>
-            survival_c26_stream name
+            Córrego Rochoso
         </name>
         <description>
             survival_c26_stream desc
@@ -176759,7 +177033,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_supplycrate">
         <name>
-            survival_c26_supplycrate name
+            Caixa de Suprimentos Tática
         </name>
         <description>
             survival_c26_supplycrate desc
@@ -176767,7 +177041,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_supplycrateb">
         <name>
-            survival_c26_supplycrateb name
+            Caixa de Suprimentos Tática
         </name>
         <description>
             survival_c26_supplycrateb desc
@@ -176775,7 +177049,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_surveillancetree">
         <name>
-            survival_c26_surveillancetree name
+            Árvore de Vigilância
         </name>
         <description>
             survival_c26_surveillancetree desc
@@ -176783,7 +177057,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_trap">
         <name>
-            survival_c26_trap name
+            Armadilha de Caça
         </name>
         <description>
             survival_c26_trap desc
@@ -176791,7 +177065,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_c26_treebridge">
         <name>
-            survival_c26_treebridge name
+            Ponte Tronco Caído
         </name>
         <description>
             survival_c26_treebridge desc
@@ -176831,7 +177105,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_cloth_c26_braid">
         <name>
-            survival_cloth_c26_braid name
+            Trança de Sobrevivente
         </name>
         <description>
             survival_cloth_c26_braid desc
@@ -176839,7 +177113,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_cloth_c26_cyberlimbs">
         <name>
-            survival_cloth_c26_cyberlimbs name
+            Membros Cibernéticos
         </name>
         <description>
             survival_cloth_c26_cyberlimbs desc
@@ -176847,7 +177121,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_cloth_c26_drone">
         <name>
-            survival_cloth_c26_drone name
+            Drone de Vigilância Pessoal
         </name>
         <description>
             survival_cloth_c26_drone desc
@@ -176863,7 +177137,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_cloth_c26_survivaljumpsuit">
         <name>
-            survival_cloth_c26_survivaljumpsuit name
+            Macacão de Guarda
         </name>
         <description>
             survival_cloth_c26_survivaljumpsuit desc
@@ -176871,7 +177145,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_cloth_c26_survivalmask">
         <name>
-            survival_cloth_c26_survivalmask name
+            Máscara de Guarda
         </name>
         <description>
             survival_cloth_c26_survivalmask desc
@@ -176903,23 +177177,41 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_cloth_r26_bloodbath">
         <name>
-            survival_cloth_r26_bloodbath name
+            Banho de Sangue
         </name>
         <description>
             survival_cloth_r26_bloodbath desc
         </description>
     </product>
+    <product code="survival_r26_coffin_bd">
+        <name>
+            Caixão do Perdedor
+        </name>
+        <description></description>
+    </product>
     <product code="survival_r26_coffin">
         <name>
-            survival_r26_coffin name
+            Caixão do Perdedor
         </name>
         <description>
             survival_r26_coffin desc
         </description>
     </product>
+    <product code="survival_r26_corner_bd">
+        <name>
+            Púlpito Futurista de Canto
+        </name>
+        <description></description>
+    </product>
+    <product code="survival_r26_money_bd">
+        <name>
+            Prêmio em Dinheiro Transformador
+        </name>
+        <description></description>
+    </product>
     <product code="survival_r26_prizemoney">
         <name>
-            survival_r26_prizemoney name
+            Prêmio em Dinheiro Transformador
         </name>
         <description>
             survival_r26_prizemoney desc
@@ -176927,7 +177219,7 @@ por 20 créditos e diamantes!
     </product>
     <product code="survival_r26_scifispeakercorner">
         <name>
-            survival_r26_scifispeakercorner name
+            Púlpito Futurista de Canto
         </name>
         <description>
             survival_r26_scifispeakercorner desc
@@ -197609,6 +197901,102 @@ por 20 créditos e diamantes!
         </name>
         <description>
             xmas_c26_xmastreeballtoss desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_friendlygingerbread">
+        <name>
+            xmas_cloth_c26_friendlygingerbread name
+        </name>
+        <description>
+            xmas_cloth_c26_friendlygingerbread desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gigagiftbow">
+        <name>
+            xmas_cloth_c26_gigagiftbow name
+        </name>
+        <description>
+            xmas_cloth_c26_gigagiftbow desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gingerbreadbackpack">
+        <name>
+            xmas_cloth_c26_gingerbreadbackpack name
+        </name>
+        <description>
+            xmas_cloth_c26_gingerbreadbackpack desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gingerbreaddress">
+        <name>
+            xmas_cloth_c26_gingerbreaddress name
+        </name>
+        <description>
+            xmas_cloth_c26_gingerbreaddress desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_santakeyring">
+        <name>
+            xmas_cloth_c26_santakeyring name
+        </name>
+        <description>
+            xmas_cloth_c26_santakeyring desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_santamask">
+        <name>
+            xmas_cloth_c26_santamask name
+        </name>
+        <description>
+            xmas_cloth_c26_santamask desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_shortshag">
+        <name>
+            xmas_cloth_c26_shortshag name
+        </name>
+        <description>
+            xmas_cloth_c26_shortshag desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_themeparkheadband">
+        <name>
+            xmas_cloth_c26_themeparkheadband name
+        </name>
+        <description>
+            xmas_cloth_c26_themeparkheadband desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_winterprincesshair">
+        <name>
+            xmas_cloth_c26_winterprincesshair name
+        </name>
+        <description>
+            xmas_cloth_c26_winterprincesshair desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_xmastophat">
+        <name>
+            xmas_cloth_c26_xmastophat name
+        </name>
+        <description>
+            xmas_cloth_c26_xmastophat desc
+        </description>
+    </product>
+    <product code="xmas_cloth_r26_polarbearcub">
+        <name>
+            xmas_cloth_r26_polarbearcub name
+        </name>
+        <description>
+            xmas_cloth_r26_polarbearcub desc
+        </description>
+    </product>
+    <product code="xmas_cloth_r26_reindeerscarf">
+        <name>
+            xmas_cloth_r26_reindeerscarf name
+        </name>
+        <description>
+            xmas_cloth_r26_reindeerscarf desc
         </description>
     </product>
     <product code="xmas_cstl_gate">

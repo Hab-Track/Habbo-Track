@@ -32707,6 +32707,11 @@
         "description": ""
       },
       {
+        "code": "cl_r26_bloodbath_bd",
+        "name": "Bain de sang",
+        "description": ""
+      },
+      {
         "code": "cl_r26_countingsheep_bd",
         "name": "Mouton nuage",
         "description": ""
@@ -37938,8 +37943,18 @@
       },
       {
         "code": "clothing_nft26_camopaint",
-        "name": "clothing_nft26_camopaint name",
+        "name": "Camouflage visage",
         "description": "clothing_nft26_camopaint desc"
+      },
+      {
+        "code": "clothing_nft26_candycanecane",
+        "name": "clothing_nft26_candycanecane name",
+        "description": "clothing_nft26_candycanecane desc"
+      },
+      {
+        "code": "clothing_nft26_candycanehair",
+        "name": "clothing_nft26_candycanehair name",
+        "description": "clothing_nft26_candycanehair desc"
       },
       {
         "code": "clothing_nft26_cottoncandy",
@@ -37959,22 +37974,22 @@
       {
         "code": "clothing_nft26_duckchestprint",
         "name": "Imprimés collectible poitrine de canard",
-        "description": ""
+        "description": "clothing_nft26_duckchestprint desc"
       },
       {
         "code": "clothing_nft26_duckheadband",
         "name": "Collectibles Serre-tête canard",
-        "description": ""
+        "description": "clothing_nft26_duckheadband desc"
       },
       {
         "code": "clothing_nft26_duckonesie",
         "name": "Collectibles Grenouillère Canard",
-        "description": ""
+        "description": "clothing_nft26_duckonesie desc"
       },
       {
         "code": "clothing_nft26_duckslippers",
         "name": "Collectibles Chaussons canard",
-        "description": ""
+        "description": "clothing_nft26_duckslippers desc"
       },
       {
         "code": "clothing_nft26_haircomb",
@@ -37993,12 +38008,57 @@
       },
       {
         "code": "clothing_nft26_nightgoggles",
-        "name": "clothing_nft26_nightgoggles name",
+        "name": "Vision nocturne",
         "description": "clothing_nft26_nightgoggles desc"
       },
       {
+        "code": "clothing_nft26_nutcrackerface",
+        "name": "clothing_nft26_nutcrackerface name",
+        "description": "clothing_nft26_nutcrackerface desc"
+      },
+      {
+        "code": "clothing_nft26_nutcrackerhat",
+        "name": "clothing_nft26_nutcrackerhat name",
+        "description": "clothing_nft26_nutcrackerhat desc"
+      },
+      {
+        "code": "clothing_nft26_penguinheadband",
+        "name": "clothing_nft26_penguinheadband name",
+        "description": "clothing_nft26_penguinheadband desc"
+      },
+      {
+        "code": "clothing_nft26_polarbearhat",
+        "name": "clothing_nft26_polarbearhat name",
+        "description": "clothing_nft26_polarbearhat desc"
+      },
+      {
+        "code": "clothing_nft26_snowcoat",
+        "name": "clothing_nft26_snowcoat name",
+        "description": "clothing_nft26_snowcoat desc"
+      },
+      {
+        "code": "clothing_nft26_starchestprint",
+        "name": "clothing_nft26_starchestprint name",
+        "description": "clothing_nft26_starchestprint desc"
+      },
+      {
+        "code": "clothing_nft26_starcrown",
+        "name": "clothing_nft26_starcrown name",
+        "description": "clothing_nft26_starcrown desc"
+      },
+      {
+        "code": "clothing_nft26_starfriend",
+        "name": "clothing_nft26_starfriend name",
+        "description": "clothing_nft26_starfriend desc"
+      },
+      {
+        "code": "clothing_nft26_starkeyring",
+        "name": "clothing_nft26_starkeyring name",
+        "description": "clothing_nft26_starkeyring desc"
+      },
+      {
         "code": "clothing_nft26_tacticalvest",
-        "name": "clothing_nft26_tacticalvest name",
+        "name": "Veste tactique",
         "description": "clothing_nft26_tacticalvest desc"
       },
       {
@@ -50053,17 +50113,17 @@
       },
       {
         "code": "dia_c26_acornbackpack",
-        "name": "clothing_acornbackpack name",
+        "name": "Adorable Acorn Backpack",
         "description": ""
       },
       {
         "code": "dia_c26_acorndecor",
-        "name": "ducket_c26_acorndecor name",
+        "name": "Acorn Decoration",
         "description": ""
       },
       {
         "code": "dia_c26_acornkeyring",
-        "name": "clothing_acornkeyring name",
+        "name": "Acorn Keyring",
         "description": ""
       },
       {
@@ -50073,7 +50133,7 @@
       },
       {
         "code": "dia_c26_autumnberet2",
-        "name": "clothing_autumnberet2 name",
+        "name": "Cozy Autumn Beret",
         "description": ""
       },
       {
@@ -70087,6 +70147,11 @@
         "description": ""
       },
       {
+        "code": "in_app_bundle_463",
+        "name": "Wilderness Survival Bundle",
+        "description": ""
+      },
+      {
         "code": "in_app_bundle_47",
         "name": "Frosty Winter Castle",
         "description": ""
@@ -83908,22 +83973,22 @@
       },
       {
         "code": "nft_h26_axe_bronze",
-        "name": "nft_h26_axe_bronze name",
+        "name": "Hache bronze",
         "description": "nft_h26_axe_bronze desc"
       },
       {
         "code": "nft_h26_axe_gold",
-        "name": "nft_h26_axe_gold name",
+        "name": "Hache or",
         "description": "nft_h26_axe_gold desc"
       },
       {
         "code": "nft_h26_axe_silver",
-        "name": "nft_h26_axe_silver name",
+        "name": "Hache argent",
         "description": "nft_h26_axe_silver desc"
       },
       {
         "code": "nft_h26_axe_trippy",
-        "name": "nft_h26_axe_trippy name",
+        "name": "Hache trippy",
         "description": "nft_h26_axe_trippy desc"
       },
       {
@@ -83988,8 +84053,13 @@
       },
       {
         "code": "nft_h26_campfire",
-        "name": "nft_h26_campfire name",
+        "name": "Feu de camp bien fait",
         "description": "nft_h26_campfire desc"
+      },
+      {
+        "code": "nft_h26_candycanecandle",
+        "name": "nft_h26_candycanecandle name",
+        "description": "nft_h26_candycanecandle desc"
       },
       {
         "code": "nft_h26_candycanedragonlamp",
@@ -84108,7 +84178,7 @@
       },
       {
         "code": "nft_h26_emplacement",
-        "name": "nft_h26_emplacement name",
+        "name": "Emplacement de survie",
         "description": "nft_h26_emplacement desc"
       },
       {
@@ -84220,6 +84290,11 @@
         "code": "nft_h26_movienightchair",
         "name": "Fauteuil Film",
         "description": "nft_h26_movienightchair desc"
+      },
+      {
+        "code": "nft_h26_nutbowl",
+        "name": "nft_h26_nutbowl name",
+        "description": "nft_h26_nutbowl desc"
       },
       {
         "code": "nft_h26_nutcrackerfrank",
@@ -84358,7 +84433,7 @@
       },
       {
         "code": "nft_h26_survivalgear",
-        "name": "nft_h26_survivalgear name",
+        "name": "Équipement de survie",
         "description": "nft_h26_survivalgear desc"
       },
       {
@@ -84373,7 +84448,7 @@
       },
       {
         "code": "nft_h26_treehouseshelter",
-        "name": "nft_h26_treehouseshelter name",
+        "name": "Arbre abris",
         "description": "nft_h26_treehouseshelter desc"
       },
       {
@@ -85947,9 +86022,19 @@
         "description": "nft_sc26_alchemykit desc"
       },
       {
+        "code": "nft_sc26_festivepopcorncart",
+        "name": "nft_sc26_festivepopcorncart name",
+        "description": "nft_sc26_festivepopcorncart desc"
+      },
+      {
         "code": "nft_sc26_flyingbook",
         "name": "Livre volant",
         "description": "nft_sc26_flyingbook desc"
+      },
+      {
+        "code": "nft_sc26_popcornbucket",
+        "name": "nft_sc26_popcornbucket name",
+        "description": "nft_sc26_popcornbucket desc"
       },
       {
         "code": "nft_sc26_transmogrification",
@@ -85960,6 +86045,21 @@
         "code": "nft_sc26_wanddisplay",
         "name": "Présentoir Baguette magique",
         "description": "nft_sc26_wanddisplay desc"
+      },
+      {
+        "code": "nft_sc26_xmasmerch",
+        "name": "nft_sc26_xmasmerch name",
+        "description": "nft_sc26_xmasmerch desc"
+      },
+      {
+        "code": "nft_sc26_xmasshopstand",
+        "name": "nft_sc26_xmasshopstand name",
+        "description": "nft_sc26_xmasshopstand desc"
+      },
+      {
+        "code": "nft_sc26_xmaswalldisplay",
+        "name": "nft_sc26_xmaswalldisplay name",
+        "description": "nft_sc26_xmaswalldisplay desc"
       },
       {
         "code": "nft_sc_bodybag",
@@ -87419,6 +87519,16 @@
       {
         "code": "nov25_gaming_internal",
         "name": "Gaming Bundle",
+        "description": ""
+      },
+      {
+        "code": "nov26_craftingprize",
+        "name": "Wilderness Crafting Prize",
+        "description": ""
+      },
+      {
+        "code": "nov26_special2_internal",
+        "name": "Wilderness Survival Bundle",
         "description": ""
       },
       {
@@ -107117,6 +107227,16 @@
         "description": ""
       },
       {
+        "code": "rotating_roomdeal463_d",
+        "name": "NOUVEAU : Pack Survie en pleine nature",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal463",
+        "name": "NOUVEAU : Pack Survie en pleine nature",
+        "description": ""
+      },
+      {
         "code": "rotating_roomdeal46_10c",
         "name": "Appart Habbo House Party",
         "description": "C'est presque la fin de cette année, et cela signifie... GROSSE FÊTE ! Cette année nous avons une House Party très spéciale !Apporte ton snack, chausse tes chaussures de danse et tiens-toi prêt pour la F-Ê-T-E ! Comprend un badge exclusif. Disponible du 29 décembre au 6 janvier."
@@ -108757,6 +108877,11 @@
         "description": "sc26_flyingbook desc"
       },
       {
+        "code": "sc26_popcornbucket",
+        "name": "sc26_popcornbucket name",
+        "description": "sc26_popcornbucket desc"
+      },
+      {
         "code": "sc26_transmogrification",
         "name": "Entraînement transmogrification",
         "description": "sc26_transmogrification desc"
@@ -108765,6 +108890,21 @@
         "code": "sc26_wanddisplay",
         "name": "Présentoir Baguette magique",
         "description": "sc26_wanddisplay desc"
+      },
+      {
+        "code": "sc26_xmasmerch",
+        "name": "sc26_xmasmerch name",
+        "description": "sc26_xmasmerch desc"
+      },
+      {
+        "code": "sc26_xmasshopstand",
+        "name": "sc26_xmasshopstand name",
+        "description": "sc26_xmasshopstand desc"
+      },
+      {
+        "code": "sc26_xmaswalldisplay",
+        "name": "sc26_xmaswalldisplay name",
+        "description": "sc26_xmaswalldisplay desc"
       },
       {
         "code": "sc_bodybag",
@@ -112737,18 +112877,43 @@
         "description": "Niveau de difficulté démesurée."
       },
       {
+        "code": "supply_pack1",
+        "name": "Pack équipement 1",
+        "description": ""
+      },
+      {
+        "code": "supply_pack2",
+        "name": "Pack équipement 2",
+        "description": ""
+      },
+      {
+        "code": "supply_pack3",
+        "name": "Pack équipement 3",
+        "description": ""
+      },
+      {
+        "code": "supply_pack4",
+        "name": "Pack équipement 4",
+        "description": ""
+      },
+      {
+        "code": "supply_pack5",
+        "name": "Pack équipement 5",
+        "description": ""
+      },
+      {
         "code": "survival_c26_burntgrass",
         "name": "Herbe brûlée",
         "description": "survival_c26_burntgrass desc"
       },
       {
         "code": "survival_c26_cave",
-        "name": "survival_c26_cave name",
+        "name": "Grotte cachette",
         "description": "survival_c26_cave desc"
       },
       {
         "code": "survival_c26_craftingtable",
-        "name": "survival_c26_craftingtable name",
+        "name": "Table de craft Survivaliste",
         "description": "survival_c26_craftingtable desc"
       },
       {
@@ -112773,17 +112938,17 @@
       },
       {
         "code": "survival_c26_factionsymbols",
-        "name": "survival_c26_factionsymbols name",
+        "name": "Symboles factions",
         "description": "survival_c26_factionsymbols desc"
       },
       {
         "code": "survival_c26_firekit",
-        "name": "survival_c26_firekit name",
+        "name": "Kit d'allumage de feu",
         "description": "survival_c26_firekit desc"
       },
       {
         "code": "survival_c26_flare",
-        "name": "survival_c26_flare name",
+        "name": "Fusée signalisation",
         "description": "survival_c26_flare desc"
       },
       {
@@ -112793,22 +112958,22 @@
       },
       {
         "code": "survival_c26_foliage",
-        "name": "survival_c26_foliage name",
+        "name": "Feuillage épais",
         "description": "survival_c26_foliage desc"
       },
       {
         "code": "survival_c26_foliagefloor",
-        "name": "survival_c26_foliagefloor name",
+        "name": "Sol feuillage épais",
         "description": "survival_c26_foliagefloor desc"
       },
       {
         "code": "survival_c26_foodsupplies",
-        "name": "survival_c26_foodsupplies name",
+        "name": "Conserves de nourriture",
         "description": "survival_c26_foodsupplies desc"
       },
       {
         "code": "survival_c26_hammock",
-        "name": "survival_c26_hammock name",
+        "name": "Hamac camouflé",
         "description": "survival_c26_hammock desc"
       },
       {
@@ -112823,52 +112988,52 @@
       },
       {
         "code": "survival_c26_podium",
-        "name": "survival_c26_podium name",
+        "name": "Podium jeu de survie",
         "description": "survival_c26_podium desc"
       },
       {
         "code": "survival_c26_rope",
-        "name": "survival_c26_rope name",
+        "name": "Corde solide",
         "description": "survival_c26_rope desc"
       },
       {
         "code": "survival_c26_sleepingbag",
-        "name": "survival_c26_sleepingbag name",
+        "name": "Sac de couchage survie",
         "description": "survival_c26_sleepingbag desc"
       },
       {
         "code": "survival_c26_stonesymbol",
-        "name": "survival_c26_stonesymbol name",
+        "name": "Pierre Symbole secret",
         "description": "survival_c26_stonesymbol desc"
       },
       {
         "code": "survival_c26_stream",
-        "name": "survival_c26_stream name",
+        "name": "Ruisseau rocailleux",
         "description": "survival_c26_stream desc"
       },
       {
         "code": "survival_c26_supplycrate",
-        "name": "survival_c26_supplycrate name",
+        "name": "Caisse d'équipement tactique",
         "description": "survival_c26_supplycrate desc"
       },
       {
         "code": "survival_c26_supplycrateb",
-        "name": "survival_c26_supplycrateb name",
+        "name": "Caisse d'équipement tactique",
         "description": "survival_c26_supplycrateb desc"
       },
       {
         "code": "survival_c26_surveillancetree",
-        "name": "survival_c26_surveillancetree name",
+        "name": "Arbre de surveillance",
         "description": "survival_c26_surveillancetree desc"
       },
       {
         "code": "survival_c26_trap",
-        "name": "survival_c26_trap name",
+        "name": "Piège chasse",
         "description": "survival_c26_trap desc"
       },
       {
         "code": "survival_c26_treebridge",
-        "name": "survival_c26_treebridge name",
+        "name": "Pont arbre",
         "description": "survival_c26_treebridge desc"
       },
       {
@@ -112893,17 +113058,17 @@
       },
       {
         "code": "survival_cloth_c26_braid",
-        "name": "survival_cloth_c26_braid name",
+        "name": "Tresse du survivaliste",
         "description": "survival_cloth_c26_braid desc"
       },
       {
         "code": "survival_cloth_c26_cyberlimbs",
-        "name": "survival_cloth_c26_cyberlimbs name",
+        "name": "Membres cybernétiques",
         "description": "survival_cloth_c26_cyberlimbs desc"
       },
       {
         "code": "survival_cloth_c26_drone",
-        "name": "survival_cloth_c26_drone name",
+        "name": "Drone inspection personnel",
         "description": "survival_cloth_c26_drone desc"
       },
       {
@@ -112913,12 +113078,12 @@
       },
       {
         "code": "survival_cloth_c26_survivaljumpsuit",
-        "name": "survival_cloth_c26_survivaljumpsuit name",
+        "name": "Combinaison du garde",
         "description": "survival_cloth_c26_survivaljumpsuit desc"
       },
       {
         "code": "survival_cloth_c26_survivalmask",
-        "name": "survival_cloth_c26_survivalmask name",
+        "name": "Masque du garde",
         "description": "survival_cloth_c26_survivalmask desc"
       },
       {
@@ -112938,22 +113103,37 @@
       },
       {
         "code": "survival_cloth_r26_bloodbath",
-        "name": "survival_cloth_r26_bloodbath name",
+        "name": "Bain de sang",
         "description": "survival_cloth_r26_bloodbath desc"
       },
       {
+        "code": "survival_r26_coffin_bd",
+        "name": "Cercueil du perdant",
+        "description": ""
+      },
+      {
         "code": "survival_r26_coffin",
-        "name": "survival_r26_coffin name",
+        "name": "Cercueil du perdant",
         "description": "survival_r26_coffin desc"
       },
       {
+        "code": "survival_r26_corner_bd",
+        "name": "Coin Orateur Futuriste",
+        "description": ""
+      },
+      {
+        "code": "survival_r26_money_bd",
+        "name": "Récompense Argent qui change la vie",
+        "description": ""
+      },
+      {
         "code": "survival_r26_prizemoney",
-        "name": "survival_r26_prizemoney name",
+        "name": "Récompense Argent qui change la vie",
         "description": "survival_r26_prizemoney desc"
       },
       {
         "code": "survival_r26_scifispeakercorner",
-        "name": "survival_r26_scifispeakercorner name",
+        "name": "Coin Orateur Futuriste",
         "description": "survival_r26_scifispeakercorner desc"
       },
       {
@@ -126040,6 +126220,66 @@
         "code": "xmas_c26_xmastreeballtoss",
         "name": "xmas_c26_xmastreeballtoss name",
         "description": "xmas_c26_xmastreeballtoss desc"
+      },
+      {
+        "code": "xmas_cloth_c26_friendlygingerbread",
+        "name": "xmas_cloth_c26_friendlygingerbread name",
+        "description": "xmas_cloth_c26_friendlygingerbread desc"
+      },
+      {
+        "code": "xmas_cloth_c26_gigagiftbow",
+        "name": "xmas_cloth_c26_gigagiftbow name",
+        "description": "xmas_cloth_c26_gigagiftbow desc"
+      },
+      {
+        "code": "xmas_cloth_c26_gingerbreadbackpack",
+        "name": "xmas_cloth_c26_gingerbreadbackpack name",
+        "description": "xmas_cloth_c26_gingerbreadbackpack desc"
+      },
+      {
+        "code": "xmas_cloth_c26_gingerbreaddress",
+        "name": "xmas_cloth_c26_gingerbreaddress name",
+        "description": "xmas_cloth_c26_gingerbreaddress desc"
+      },
+      {
+        "code": "xmas_cloth_c26_santakeyring",
+        "name": "xmas_cloth_c26_santakeyring name",
+        "description": "xmas_cloth_c26_santakeyring desc"
+      },
+      {
+        "code": "xmas_cloth_c26_santamask",
+        "name": "xmas_cloth_c26_santamask name",
+        "description": "xmas_cloth_c26_santamask desc"
+      },
+      {
+        "code": "xmas_cloth_c26_shortshag",
+        "name": "xmas_cloth_c26_shortshag name",
+        "description": "xmas_cloth_c26_shortshag desc"
+      },
+      {
+        "code": "xmas_cloth_c26_themeparkheadband",
+        "name": "xmas_cloth_c26_themeparkheadband name",
+        "description": "xmas_cloth_c26_themeparkheadband desc"
+      },
+      {
+        "code": "xmas_cloth_c26_winterprincesshair",
+        "name": "xmas_cloth_c26_winterprincesshair name",
+        "description": "xmas_cloth_c26_winterprincesshair desc"
+      },
+      {
+        "code": "xmas_cloth_c26_xmastophat",
+        "name": "xmas_cloth_c26_xmastophat name",
+        "description": "xmas_cloth_c26_xmastophat desc"
+      },
+      {
+        "code": "xmas_cloth_r26_polarbearcub",
+        "name": "xmas_cloth_r26_polarbearcub name",
+        "description": "xmas_cloth_r26_polarbearcub desc"
+      },
+      {
+        "code": "xmas_cloth_r26_reindeerscarf",
+        "name": "xmas_cloth_r26_reindeerscarf name",
+        "description": "xmas_cloth_r26_reindeerscarf desc"
       },
       {
         "code": "xmas_cstl_gate",

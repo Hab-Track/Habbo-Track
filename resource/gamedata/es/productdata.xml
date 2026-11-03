@@ -51202,6 +51202,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_r26_bloodbath_bd">
+        <name>
+            Baño de Sangre
+        </name>
+        <description></description>
+    </product>
     <product code="cl_r26_countingsheep_bd">
         <name>
             Contando Ovejas
@@ -59452,10 +59458,26 @@
     </product>
     <product code="clothing_nft26_camopaint">
         <name>
-            clothing_nft26_camopaint name
+            Pintura Facial Camuflaje
         </name>
         <description>
             clothing_nft26_camopaint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_candycanecane">
+        <name>
+            clothing_nft26_candycanecane name
+        </name>
+        <description>
+            clothing_nft26_candycanecane desc
+        </description>
+    </product>
+    <product code="clothing_nft26_candycanehair">
+        <name>
+            clothing_nft26_candycanehair name
+        </name>
+        <description>
+            clothing_nft26_candycanehair desc
         </description>
     </product>
     <product code="clothing_nft26_cottoncandy">
@@ -59480,6 +59502,38 @@
         </name>
         <description>
             clothing_nft26_determinedface desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckchestprint">
+        <name>
+            Coleccionables Camiseta Estampado Pato
+        </name>
+        <description>
+            clothing_nft26_duckchestprint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckheadband">
+        <name>
+            Coleccionables Cinta para la cabeza Pato
+        </name>
+        <description>
+            clothing_nft26_duckheadband desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckonesie">
+        <name>
+            Coleccionables Mono Pato
+        </name>
+        <description>
+            clothing_nft26_duckonesie desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckslippers">
+        <name>
+            Coleccionables Zapatillas Pato
+        </name>
+        <description>
+            clothing_nft26_duckslippers desc
         </description>
     </product>
     <product code="clothing_nft26_haircomb">
@@ -59508,15 +59562,87 @@
     </product>
     <product code="clothing_nft26_nightgoggles">
         <name>
-            clothing_nft26_nightgoggles name
+            Gafas de Visión Nocturna
         </name>
         <description>
             clothing_nft26_nightgoggles desc
         </description>
     </product>
+    <product code="clothing_nft26_nutcrackerface">
+        <name>
+            clothing_nft26_nutcrackerface name
+        </name>
+        <description>
+            clothing_nft26_nutcrackerface desc
+        </description>
+    </product>
+    <product code="clothing_nft26_nutcrackerhat">
+        <name>
+            clothing_nft26_nutcrackerhat name
+        </name>
+        <description>
+            clothing_nft26_nutcrackerhat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_penguinheadband">
+        <name>
+            clothing_nft26_penguinheadband name
+        </name>
+        <description>
+            clothing_nft26_penguinheadband desc
+        </description>
+    </product>
+    <product code="clothing_nft26_polarbearhat">
+        <name>
+            clothing_nft26_polarbearhat name
+        </name>
+        <description>
+            clothing_nft26_polarbearhat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_snowcoat">
+        <name>
+            clothing_nft26_snowcoat name
+        </name>
+        <description>
+            clothing_nft26_snowcoat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starchestprint">
+        <name>
+            clothing_nft26_starchestprint name
+        </name>
+        <description>
+            clothing_nft26_starchestprint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starcrown">
+        <name>
+            clothing_nft26_starcrown name
+        </name>
+        <description>
+            clothing_nft26_starcrown desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starfriend">
+        <name>
+            clothing_nft26_starfriend name
+        </name>
+        <description>
+            clothing_nft26_starfriend desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starkeyring">
+        <name>
+            clothing_nft26_starkeyring name
+        </name>
+        <description>
+            clothing_nft26_starkeyring desc
+        </description>
+    </product>
     <product code="clothing_nft26_tacticalvest">
         <name>
-            clothing_nft26_tacticalvest name
+            Chaleco Táctico
         </name>
         <description>
             clothing_nft26_tacticalvest desc
@@ -79209,19 +79335,19 @@ Caja + Wired
     </product>
     <product code="dia_c26_acornbackpack">
         <name>
-            clothing_acornbackpack name
+            Adorable Acorn Backpack
         </name>
         <description></description>
     </product>
     <product code="dia_c26_acorndecor">
         <name>
-            ducket_c26_acorndecor name
+            Acorn Decoration
         </name>
         <description></description>
     </product>
     <product code="dia_c26_acornkeyring">
         <name>
-            clothing_acornkeyring name
+            Acorn Keyring
         </name>
         <description></description>
     </product>
@@ -79233,7 +79359,7 @@ Caja + Wired
     </product>
     <product code="dia_c26_autumnberet2">
         <name>
-            clothing_autumnberet2 name
+            Cozy Autumn Beret
         </name>
         <description></description>
     </product>
@@ -110359,6 +110485,12 @@ Caja + Wired
         </name>
         <description></description>
     </product>
+    <product code="in_app_bundle_463">
+        <name>
+            Wilderness Survival Bundle
+        </name>
+        <description></description>
+    </product>
     <product code="in_app_bundle_47">
         <name>
             Frosty Winter Castle
@@ -132029,7 +132161,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_axe_bronze">
         <name>
-            nft_h26_axe_bronze name
+            Hacha de Bronce
         </name>
         <description>
             nft_h26_axe_bronze desc
@@ -132037,7 +132169,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_axe_gold">
         <name>
-            nft_h26_axe_gold name
+            Hacha de Oro
         </name>
         <description>
             nft_h26_axe_gold desc
@@ -132045,7 +132177,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_axe_silver">
         <name>
-            nft_h26_axe_silver name
+            Hacha de Plata
         </name>
         <description>
             nft_h26_axe_silver desc
@@ -132053,7 +132185,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_axe_trippy">
         <name>
-            nft_h26_axe_trippy name
+            Hacha Psicodélica
         </name>
         <description>
             nft_h26_axe_trippy desc
@@ -132155,10 +132287,18 @@ Caja + Wired
     </product>
     <product code="nft_h26_campfire">
         <name>
-            nft_h26_campfire name
+            Hoguera Todoterreno
         </name>
         <description>
             nft_h26_campfire desc
+        </description>
+    </product>
+    <product code="nft_h26_candycanecandle">
+        <name>
+            nft_h26_candycanecandle name
+        </name>
+        <description>
+            nft_h26_candycanecandle desc
         </description>
     </product>
     <product code="nft_h26_candycanedragonlamp">
@@ -132345,7 +132485,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_emplacement">
         <name>
-            nft_h26_emplacement name
+            Emplazamiento de Superviviente
         </name>
         <description>
             nft_h26_emplacement desc
@@ -132525,6 +132665,14 @@ Caja + Wired
         </name>
         <description>
             nft_h26_movienightchair desc
+        </description>
+    </product>
+    <product code="nft_h26_nutbowl">
+        <name>
+            nft_h26_nutbowl name
+        </name>
+        <description>
+            nft_h26_nutbowl desc
         </description>
     </product>
     <product code="nft_h26_nutcrackerfrank">
@@ -132745,7 +132893,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_survivalgear">
         <name>
-            nft_h26_survivalgear name
+            Equipamiento de Superviviente
         </name>
         <description>
             nft_h26_survivalgear desc
@@ -132769,7 +132917,7 @@ Caja + Wired
     </product>
     <product code="nft_h26_treehouseshelter">
         <name>
-            nft_h26_treehouseshelter name
+            Refugio Casa del Árbol
         </name>
         <description>
             nft_h26_treehouseshelter desc
@@ -135253,12 +135401,28 @@ Caja + Wired
             nft_sc26_alchemykit desc
         </description>
     </product>
+    <product code="nft_sc26_festivepopcorncart">
+        <name>
+            nft_sc26_festivepopcorncart name
+        </name>
+        <description>
+            nft_sc26_festivepopcorncart desc
+        </description>
+    </product>
     <product code="nft_sc26_flyingbook">
         <name>
             Libro Volador
         </name>
         <description>
             nft_sc26_flyingbook desc
+        </description>
+    </product>
+    <product code="nft_sc26_popcornbucket">
+        <name>
+            nft_sc26_popcornbucket name
+        </name>
+        <description>
+            nft_sc26_popcornbucket desc
         </description>
     </product>
     <product code="nft_sc26_transmogrification">
@@ -135275,6 +135439,30 @@ Caja + Wired
         </name>
         <description>
             nft_sc26_wanddisplay desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmasmerch">
+        <name>
+            nft_sc26_xmasmerch name
+        </name>
+        <description>
+            nft_sc26_xmasmerch desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmasshopstand">
+        <name>
+            nft_sc26_xmasshopstand name
+        </name>
+        <description>
+            nft_sc26_xmasshopstand desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmaswalldisplay">
+        <name>
+            nft_sc26_xmaswalldisplay name
+        </name>
+        <description>
+            nft_sc26_xmaswalldisplay desc
         </description>
     </product>
     <product code="nft_sc_bodybag">
@@ -137560,6 +137748,18 @@ Caja + Wired
     <product code="nov25_gaming_internal">
         <name>
             Gaming Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="nov26_craftingprize">
+        <name>
+            Wilderness Crafting Prize
+        </name>
+        <description></description>
+    </product>
+    <product code="nov26_special2_internal">
+        <name>
+            Wilderness Survival Bundle
         </name>
         <description></description>
     </product>
@@ -167921,6 +168121,18 @@ Caja + Wired
         </name>
         <description></description>
     </product>
+    <product code="rotating_roomdeal463_d">
+        <name>
+            NUEVO: Lote Supervivencia en la Naturaleza
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal463">
+        <name>
+            NUEVO: Lote Supervivencia en la Naturaleza
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Habbo House Party Bundle
@@ -170605,6 +170817,14 @@ Caja + Wired
             sc26_flyingbook desc
         </description>
     </product>
+    <product code="sc26_popcornbucket">
+        <name>
+            sc26_popcornbucket name
+        </name>
+        <description>
+            sc26_popcornbucket desc
+        </description>
+    </product>
     <product code="sc26_transmogrification">
         <name>
             Práctica de Transmutación
@@ -170619,6 +170839,30 @@ Caja + Wired
         </name>
         <description>
             sc26_wanddisplay desc
+        </description>
+    </product>
+    <product code="sc26_xmasmerch">
+        <name>
+            sc26_xmasmerch name
+        </name>
+        <description>
+            sc26_xmasmerch desc
+        </description>
+    </product>
+    <product code="sc26_xmasshopstand">
+        <name>
+            sc26_xmasshopstand name
+        </name>
+        <description>
+            sc26_xmasshopstand desc
+        </description>
+    </product>
+    <product code="sc26_xmaswalldisplay">
+        <name>
+            sc26_xmaswalldisplay name
+        </name>
+        <description>
+            sc26_xmaswalldisplay desc
         </description>
     </product>
     <product code="sc_bodybag">
@@ -176567,6 +176811,36 @@ Caja + Wired
             Nivel de resistencia: locura total.
         </description>
     </product>
+    <product code="supply_pack1">
+        <name>
+            Supply Pack 1
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack2">
+        <name>
+            Supply Pack 2
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack3">
+        <name>
+            Supply Pack 3
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack4">
+        <name>
+            Supply Pack 4
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack5">
+        <name>
+            Supply Pack 5
+        </name>
+        <description></description>
+    </product>
     <product code="survival_c26_burntgrass">
         <name>
             Césped Quemado
@@ -176577,7 +176851,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_cave">
         <name>
-            survival_c26_cave name
+            Escondite en la Cueva
         </name>
         <description>
             survival_c26_cave desc
@@ -176585,7 +176859,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_craftingtable">
         <name>
-            survival_c26_craftingtable name
+            Mesa de Crafteo Superviviente
         </name>
         <description>
             survival_c26_craftingtable desc
@@ -176625,7 +176899,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_factionsymbols">
         <name>
-            survival_c26_factionsymbols name
+            Símbolos de Facción
         </name>
         <description>
             survival_c26_factionsymbols desc
@@ -176633,7 +176907,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_firekit">
         <name>
-            survival_c26_firekit name
+            Kit para Hacer Fuego
         </name>
         <description>
             survival_c26_firekit desc
@@ -176641,7 +176915,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_flare">
         <name>
-            survival_c26_flare name
+            Bengala de Señalización
         </name>
         <description>
             survival_c26_flare desc
@@ -176657,7 +176931,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_foliage">
         <name>
-            survival_c26_foliage name
+            Follaje Espeso
         </name>
         <description>
             survival_c26_foliage desc
@@ -176665,7 +176939,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_foliagefloor">
         <name>
-            survival_c26_foliagefloor name
+            Suelo Follaje Espeso
         </name>
         <description>
             survival_c26_foliagefloor desc
@@ -176673,7 +176947,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_foodsupplies">
         <name>
-            survival_c26_foodsupplies name
+            Suministros de Comida en Lata
         </name>
         <description>
             survival_c26_foodsupplies desc
@@ -176681,7 +176955,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_hammock">
         <name>
-            survival_c26_hammock name
+            Hamaca Camuflaje
         </name>
         <description>
             survival_c26_hammock desc
@@ -176705,7 +176979,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_podium">
         <name>
-            survival_c26_podium name
+            Podio Juego de Supervivencia
         </name>
         <description>
             survival_c26_podium desc
@@ -176713,7 +176987,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_rope">
         <name>
-            survival_c26_rope name
+            Cuerda Resistente
         </name>
         <description>
             survival_c26_rope desc
@@ -176721,7 +176995,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_sleepingbag">
         <name>
-            survival_c26_sleepingbag name
+            Saco de dormir de Superviviente
         </name>
         <description>
             survival_c26_sleepingbag desc
@@ -176729,7 +177003,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_stonesymbol">
         <name>
-            survival_c26_stonesymbol name
+            Símbolo Piedra Secreta
         </name>
         <description>
             survival_c26_stonesymbol desc
@@ -176737,7 +177011,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_stream">
         <name>
-            survival_c26_stream name
+            Riachuelo Rocoso
         </name>
         <description>
             survival_c26_stream desc
@@ -176745,7 +177019,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_supplycrate">
         <name>
-            survival_c26_supplycrate name
+            Caja de Suministros Tácticos
         </name>
         <description>
             survival_c26_supplycrate desc
@@ -176753,7 +177027,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_supplycrateb">
         <name>
-            survival_c26_supplycrateb name
+            Caja de Suministros Tácticos
         </name>
         <description>
             survival_c26_supplycrateb desc
@@ -176761,7 +177035,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_surveillancetree">
         <name>
-            survival_c26_surveillancetree name
+            Árbol de Vigilancia
         </name>
         <description>
             survival_c26_surveillancetree desc
@@ -176769,7 +177043,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_trap">
         <name>
-            survival_c26_trap name
+            Trampa de Caza
         </name>
         <description>
             survival_c26_trap desc
@@ -176777,7 +177051,7 @@ Caja + Wired
     </product>
     <product code="survival_c26_treebridge">
         <name>
-            survival_c26_treebridge name
+            Puente Árbol Caído
         </name>
         <description>
             survival_c26_treebridge desc
@@ -176817,7 +177091,7 @@ Caja + Wired
     </product>
     <product code="survival_cloth_c26_braid">
         <name>
-            survival_cloth_c26_braid name
+            Trenza de Superviviente
         </name>
         <description>
             survival_cloth_c26_braid desc
@@ -176825,7 +177099,7 @@ Caja + Wired
     </product>
     <product code="survival_cloth_c26_cyberlimbs">
         <name>
-            survival_cloth_c26_cyberlimbs name
+            Extremidades Cibernéticas
         </name>
         <description>
             survival_cloth_c26_cyberlimbs desc
@@ -176833,7 +177107,7 @@ Caja + Wired
     </product>
     <product code="survival_cloth_c26_drone">
         <name>
-            survival_cloth_c26_drone name
+            Dron de Reconocimiento Personal
         </name>
         <description>
             survival_cloth_c26_drone desc
@@ -176849,7 +177123,7 @@ Caja + Wired
     </product>
     <product code="survival_cloth_c26_survivaljumpsuit">
         <name>
-            survival_cloth_c26_survivaljumpsuit name
+            Traje Guardián
         </name>
         <description>
             survival_cloth_c26_survivaljumpsuit desc
@@ -176857,7 +177131,7 @@ Caja + Wired
     </product>
     <product code="survival_cloth_c26_survivalmask">
         <name>
-            survival_cloth_c26_survivalmask name
+            Máscara Guardián
         </name>
         <description>
             survival_cloth_c26_survivalmask desc
@@ -176889,23 +177163,41 @@ Caja + Wired
     </product>
     <product code="survival_cloth_r26_bloodbath">
         <name>
-            survival_cloth_r26_bloodbath name
+            Baño de Sangre
         </name>
         <description>
             survival_cloth_r26_bloodbath desc
         </description>
     </product>
+    <product code="survival_r26_coffin_bd">
+        <name>
+            Ataúd del Perdedor
+        </name>
+        <description></description>
+    </product>
     <product code="survival_r26_coffin">
         <name>
-            survival_r26_coffin name
+            Ataúd del Perdedor
         </name>
         <description>
             survival_r26_coffin desc
         </description>
     </product>
+    <product code="survival_r26_corner_bd">
+        <name>
+            El Hablador Futurista
+        </name>
+        <description></description>
+    </product>
+    <product code="survival_r26_money_bd">
+        <name>
+            Premio en Efectivo Cambia Vidas
+        </name>
+        <description></description>
+    </product>
     <product code="survival_r26_prizemoney">
         <name>
-            survival_r26_prizemoney name
+            Premio en Efectivo Cambia Vidas
         </name>
         <description>
             survival_r26_prizemoney desc
@@ -176913,7 +177205,7 @@ Caja + Wired
     </product>
     <product code="survival_r26_scifispeakercorner">
         <name>
-            survival_r26_scifispeakercorner name
+            El Hablador Futurista
         </name>
         <description>
             survival_r26_scifispeakercorner desc
@@ -197621,6 +197913,102 @@ Caja + Wired
         </name>
         <description>
             xmas_c26_xmastreeballtoss desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_friendlygingerbread">
+        <name>
+            xmas_cloth_c26_friendlygingerbread name
+        </name>
+        <description>
+            xmas_cloth_c26_friendlygingerbread desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gigagiftbow">
+        <name>
+            xmas_cloth_c26_gigagiftbow name
+        </name>
+        <description>
+            xmas_cloth_c26_gigagiftbow desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gingerbreadbackpack">
+        <name>
+            xmas_cloth_c26_gingerbreadbackpack name
+        </name>
+        <description>
+            xmas_cloth_c26_gingerbreadbackpack desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gingerbreaddress">
+        <name>
+            xmas_cloth_c26_gingerbreaddress name
+        </name>
+        <description>
+            xmas_cloth_c26_gingerbreaddress desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_santakeyring">
+        <name>
+            xmas_cloth_c26_santakeyring name
+        </name>
+        <description>
+            xmas_cloth_c26_santakeyring desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_santamask">
+        <name>
+            xmas_cloth_c26_santamask name
+        </name>
+        <description>
+            xmas_cloth_c26_santamask desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_shortshag">
+        <name>
+            xmas_cloth_c26_shortshag name
+        </name>
+        <description>
+            xmas_cloth_c26_shortshag desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_themeparkheadband">
+        <name>
+            xmas_cloth_c26_themeparkheadband name
+        </name>
+        <description>
+            xmas_cloth_c26_themeparkheadband desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_winterprincesshair">
+        <name>
+            xmas_cloth_c26_winterprincesshair name
+        </name>
+        <description>
+            xmas_cloth_c26_winterprincesshair desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_xmastophat">
+        <name>
+            xmas_cloth_c26_xmastophat name
+        </name>
+        <description>
+            xmas_cloth_c26_xmastophat desc
+        </description>
+    </product>
+    <product code="xmas_cloth_r26_polarbearcub">
+        <name>
+            xmas_cloth_r26_polarbearcub name
+        </name>
+        <description>
+            xmas_cloth_r26_polarbearcub desc
+        </description>
+    </product>
+    <product code="xmas_cloth_r26_reindeerscarf">
+        <name>
+            xmas_cloth_r26_reindeerscarf name
+        </name>
+        <description>
+            xmas_cloth_r26_reindeerscarf desc
         </description>
     </product>
     <product code="xmas_cstl_gate">

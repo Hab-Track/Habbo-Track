@@ -51030,6 +51030,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_r26_bloodbath_bd">
+        <name>
+            Kan Banyosu
+        </name>
+        <description></description>
+    </product>
     <product code="cl_r26_countingsheep_bd">
         <name>
             Koyun Sayma
@@ -59242,10 +59248,26 @@
     </product>
     <product code="clothing_nft26_camopaint">
         <name>
-            clothing_nft26_camopaint name
+            Kamuflaj Yüz Boyası
         </name>
         <description>
             clothing_nft26_camopaint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_candycanecane">
+        <name>
+            clothing_nft26_candycanecane name
+        </name>
+        <description>
+            clothing_nft26_candycanecane desc
+        </description>
+    </product>
+    <product code="clothing_nft26_candycanehair">
+        <name>
+            clothing_nft26_candycanehair name
+        </name>
+        <description>
+            clothing_nft26_candycanehair desc
         </description>
     </product>
     <product code="clothing_nft26_cottoncandy">
@@ -59270,6 +59292,38 @@
         </name>
         <description>
             clothing_nft26_determinedface desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckchestprint">
+        <name>
+            Koleksiyonluk Ördek Sandığı Baskısı
+        </name>
+        <description>
+            clothing_nft26_duckchestprint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckheadband">
+        <name>
+            Koleksiyonluk Ördek Saç bandı
+        </name>
+        <description>
+            clothing_nft26_duckheadband desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckonesie">
+        <name>
+            Koleksiyonluk Ördek Tulumu
+        </name>
+        <description>
+            clothing_nft26_duckonesie desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckslippers">
+        <name>
+            Koleksiyonluk Ördek Terlikleri
+        </name>
+        <description>
+            clothing_nft26_duckslippers desc
         </description>
     </product>
     <product code="clothing_nft26_haircomb">
@@ -59298,15 +59352,87 @@
     </product>
     <product code="clothing_nft26_nightgoggles">
         <name>
-            clothing_nft26_nightgoggles name
+            Gece Görüş Gözlüğü
         </name>
         <description>
             clothing_nft26_nightgoggles desc
         </description>
     </product>
+    <product code="clothing_nft26_nutcrackerface">
+        <name>
+            clothing_nft26_nutcrackerface name
+        </name>
+        <description>
+            clothing_nft26_nutcrackerface desc
+        </description>
+    </product>
+    <product code="clothing_nft26_nutcrackerhat">
+        <name>
+            clothing_nft26_nutcrackerhat name
+        </name>
+        <description>
+            clothing_nft26_nutcrackerhat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_penguinheadband">
+        <name>
+            clothing_nft26_penguinheadband name
+        </name>
+        <description>
+            clothing_nft26_penguinheadband desc
+        </description>
+    </product>
+    <product code="clothing_nft26_polarbearhat">
+        <name>
+            clothing_nft26_polarbearhat name
+        </name>
+        <description>
+            clothing_nft26_polarbearhat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_snowcoat">
+        <name>
+            clothing_nft26_snowcoat name
+        </name>
+        <description>
+            clothing_nft26_snowcoat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starchestprint">
+        <name>
+            clothing_nft26_starchestprint name
+        </name>
+        <description>
+            clothing_nft26_starchestprint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starcrown">
+        <name>
+            clothing_nft26_starcrown name
+        </name>
+        <description>
+            clothing_nft26_starcrown desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starfriend">
+        <name>
+            clothing_nft26_starfriend name
+        </name>
+        <description>
+            clothing_nft26_starfriend desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starkeyring">
+        <name>
+            clothing_nft26_starkeyring name
+        </name>
+        <description>
+            clothing_nft26_starkeyring desc
+        </description>
+    </product>
     <product code="clothing_nft26_tacticalvest">
         <name>
-            clothing_nft26_tacticalvest name
+            Taktik Yelek
         </name>
         <description>
             clothing_nft26_tacticalvest desc
@@ -84736,19 +84862,19 @@
     </product>
     <product code="dia_c26_acornbackpack">
         <name>
-            clothing_acornbackpack name
+            Adorable Acorn Backpack
         </name>
         <description></description>
     </product>
     <product code="dia_c26_acorndecor">
         <name>
-            ducket_c26_acorndecor name
+            Acorn Decoration
         </name>
         <description></description>
     </product>
     <product code="dia_c26_acornkeyring">
         <name>
-            clothing_acornkeyring name
+            Acorn Keyring
         </name>
         <description></description>
     </product>
@@ -84760,7 +84886,7 @@
     </product>
     <product code="dia_c26_autumnberet2">
         <name>
-            clothing_autumnberet2 name
+            Cozy Autumn Beret
         </name>
         <description></description>
     </product>
@@ -116182,6 +116308,12 @@
         </name>
         <description></description>
     </product>
+    <product code="in_app_bundle_463">
+        <name>
+            Wilderness Survival Bundle
+        </name>
+        <description></description>
+    </product>
     <product code="in_app_bundle_47">
         <name>
             Frosty Winter Castle
@@ -138033,7 +138165,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_axe_bronze">
         <name>
-            nft_h26_axe_bronze name
+            Bronz Balta
         </name>
         <description>
             nft_h26_axe_bronze desc
@@ -138041,7 +138173,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_axe_gold">
         <name>
-            nft_h26_axe_gold name
+            Altın Balta
         </name>
         <description>
             nft_h26_axe_gold desc
@@ -138049,7 +138181,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_axe_silver">
         <name>
-            nft_h26_axe_silver name
+            Gümüş Balta
         </name>
         <description>
             nft_h26_axe_silver desc
@@ -138057,7 +138189,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_axe_trippy">
         <name>
-            nft_h26_axe_trippy name
+            Trip Balta
         </name>
         <description>
             nft_h26_axe_trippy desc
@@ -138159,10 +138291,18 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_campfire">
         <name>
-            nft_h26_campfire name
+            İyi Kurulmuş Kamp Ateşi
         </name>
         <description>
             nft_h26_campfire desc
+        </description>
+    </product>
+    <product code="nft_h26_candycanecandle">
+        <name>
+            nft_h26_candycanecandle name
+        </name>
+        <description>
+            nft_h26_candycanecandle desc
         </description>
     </product>
     <product code="nft_h26_candycanedragonlamp">
@@ -138349,7 +138489,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_emplacement">
         <name>
-            nft_h26_emplacement name
+            Hayatta Kalma Sığınağı
         </name>
         <description>
             nft_h26_emplacement desc
@@ -138529,6 +138669,14 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
         </name>
         <description>
             nft_h26_movienightchair desc
+        </description>
+    </product>
+    <product code="nft_h26_nutbowl">
+        <name>
+            nft_h26_nutbowl name
+        </name>
+        <description>
+            nft_h26_nutbowl desc
         </description>
     </product>
     <product code="nft_h26_nutcrackerfrank">
@@ -138749,7 +138897,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_survivalgear">
         <name>
-            nft_h26_survivalgear name
+            Hayatta Kalma Ekipmanı
         </name>
         <description>
             nft_h26_survivalgear desc
@@ -138773,7 +138921,7 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     </product>
     <product code="nft_h26_treehouseshelter">
         <name>
-            nft_h26_treehouseshelter name
+            Ağaç Ev Sığınak
         </name>
         <description>
             nft_h26_treehouseshelter desc
@@ -141239,12 +141387,28 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
             nft_sc26_alchemykit desc
         </description>
     </product>
+    <product code="nft_sc26_festivepopcorncart">
+        <name>
+            nft_sc26_festivepopcorncart name
+        </name>
+        <description>
+            nft_sc26_festivepopcorncart desc
+        </description>
+    </product>
     <product code="nft_sc26_flyingbook">
         <name>
             Uçan Kitap
         </name>
         <description>
             nft_sc26_flyingbook desc
+        </description>
+    </product>
+    <product code="nft_sc26_popcornbucket">
+        <name>
+            nft_sc26_popcornbucket name
+        </name>
+        <description>
+            nft_sc26_popcornbucket desc
         </description>
     </product>
     <product code="nft_sc26_transmogrification">
@@ -141261,6 +141425,30 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
         </name>
         <description>
             nft_sc26_wanddisplay desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmasmerch">
+        <name>
+            nft_sc26_xmasmerch name
+        </name>
+        <description>
+            nft_sc26_xmasmerch desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmasshopstand">
+        <name>
+            nft_sc26_xmasshopstand name
+        </name>
+        <description>
+            nft_sc26_xmasshopstand desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmaswalldisplay">
+        <name>
+            nft_sc26_xmaswalldisplay name
+        </name>
+        <description>
+            nft_sc26_xmaswalldisplay desc
         </description>
     </product>
     <product code="nft_sc_bodybag">
@@ -143346,6 +143534,18 @@ Sizin içi dekore edilmiş bu Sinema Odası Paketi, film tutkunu olan herkesin i
     <product code="nov25_gaming_internal">
         <name>
             Gaming Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="nov26_craftingprize">
+        <name>
+            Wilderness Crafting Prize
+        </name>
+        <description></description>
+    </product>
+    <product code="nov26_special2_internal">
+        <name>
+            Wilderness Survival Bundle
         </name>
         <description></description>
     </product>
@@ -173587,6 +173787,18 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
         </name>
         <description></description>
     </product>
+    <product code="rotating_roomdeal463_d">
+        <name>
+            YENİ: Vahşi Ortamda Hayatta Kalma Oda Paketi
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal463">
+        <name>
+            YENİ: Vahşi Ortamda Hayatta Kalma Oda Paketi
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Habbo House Party Bundle
@@ -176211,6 +176423,14 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
             sc26_flyingbook desc
         </description>
     </product>
+    <product code="sc26_popcornbucket">
+        <name>
+            sc26_popcornbucket name
+        </name>
+        <description>
+            sc26_popcornbucket desc
+        </description>
+    </product>
     <product code="sc26_transmogrification">
         <name>
             Biçim Değiştirme Pratiği
@@ -176225,6 +176445,30 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
         </name>
         <description>
             sc26_wanddisplay desc
+        </description>
+    </product>
+    <product code="sc26_xmasmerch">
+        <name>
+            sc26_xmasmerch name
+        </name>
+        <description>
+            sc26_xmasmerch desc
+        </description>
+    </product>
+    <product code="sc26_xmasshopstand">
+        <name>
+            sc26_xmasshopstand name
+        </name>
+        <description>
+            sc26_xmasshopstand desc
+        </description>
+    </product>
+    <product code="sc26_xmaswalldisplay">
+        <name>
+            sc26_xmaswalldisplay name
+        </name>
+        <description>
+            sc26_xmaswalldisplay desc
         </description>
     </product>
     <product code="sc_bodybag">
@@ -182369,6 +182613,36 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
             Mutlu bir süper kahraman DEĞİL .
         </description>
     </product>
+    <product code="supply_pack1">
+        <name>
+            Supply Pack 1
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack2">
+        <name>
+            Supply Pack 2
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack3">
+        <name>
+            Supply Pack 3
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack4">
+        <name>
+            Supply Pack 4
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack5">
+        <name>
+            Supply Pack 5
+        </name>
+        <description></description>
+    </product>
     <product code="supporters_deal">
         <name>
             Fan-Paket
@@ -182387,7 +182661,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_cave">
         <name>
-            survival_c26_cave name
+            Mağara Sığınağı
         </name>
         <description>
             survival_c26_cave desc
@@ -182395,7 +182669,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_craftingtable">
         <name>
-            survival_c26_craftingtable name
+            Hayatta Kalmacı Üretim Masası
         </name>
         <description>
             survival_c26_craftingtable desc
@@ -182435,7 +182709,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_factionsymbols">
         <name>
-            survival_c26_factionsymbols name
+            Grup Sembolleri
         </name>
         <description>
             survival_c26_factionsymbols desc
@@ -182443,7 +182717,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_firekit">
         <name>
-            survival_c26_firekit name
+            Ateş Yakma Kiti
         </name>
         <description>
             survival_c26_firekit desc
@@ -182451,7 +182725,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_flare">
         <name>
-            survival_c26_flare name
+            İşaret Fişeği
         </name>
         <description>
             survival_c26_flare desc
@@ -182467,7 +182741,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_foliage">
         <name>
-            survival_c26_foliage name
+            Yoğun Yaprak Örtüsü
         </name>
         <description>
             survival_c26_foliage desc
@@ -182475,7 +182749,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_foliagefloor">
         <name>
-            survival_c26_foliagefloor name
+            Yoğun Bitki Örtüsüyle Kaplı Zemin
         </name>
         <description>
             survival_c26_foliagefloor desc
@@ -182483,7 +182757,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_foodsupplies">
         <name>
-            survival_c26_foodsupplies name
+            Konserve Erzak
         </name>
         <description>
             survival_c26_foodsupplies desc
@@ -182491,7 +182765,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_hammock">
         <name>
-            survival_c26_hammock name
+            Kamuflajlı Hamak
         </name>
         <description>
             survival_c26_hammock desc
@@ -182515,7 +182789,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_podium">
         <name>
-            survival_c26_podium name
+            Hayatta Kalma Oyunu Podyumu
         </name>
         <description>
             survival_c26_podium desc
@@ -182523,7 +182797,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_rope">
         <name>
-            survival_c26_rope name
+            Sağlam Halat
         </name>
         <description>
             survival_c26_rope desc
@@ -182531,7 +182805,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_sleepingbag">
         <name>
-            survival_c26_sleepingbag name
+            Hayatta Kalma Tulumu
         </name>
         <description>
             survival_c26_sleepingbag desc
@@ -182539,7 +182813,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_stonesymbol">
         <name>
-            survival_c26_stonesymbol name
+            Gizli Taş Sembolü
         </name>
         <description>
             survival_c26_stonesymbol desc
@@ -182547,7 +182821,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_stream">
         <name>
-            survival_c26_stream name
+            Kayalık Dere
         </name>
         <description>
             survival_c26_stream desc
@@ -182555,7 +182829,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_supplycrate">
         <name>
-            survival_c26_supplycrate name
+            Taktiksel Tedarik Sandığı
         </name>
         <description>
             survival_c26_supplycrate desc
@@ -182563,7 +182837,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_supplycrateb">
         <name>
-            survival_c26_supplycrateb name
+            Taktiksel Tedarik Sandığı
         </name>
         <description>
             survival_c26_supplycrateb desc
@@ -182571,7 +182845,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_surveillancetree">
         <name>
-            survival_c26_surveillancetree name
+            Gözetleme Ağacı
         </name>
         <description>
             survival_c26_surveillancetree desc
@@ -182579,7 +182853,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_trap">
         <name>
-            survival_c26_trap name
+            Av Tuzağı
         </name>
         <description>
             survival_c26_trap desc
@@ -182587,7 +182861,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_c26_treebridge">
         <name>
-            survival_c26_treebridge name
+            Devrilmiş Ağaç Köprü
         </name>
         <description>
             survival_c26_treebridge desc
@@ -182627,7 +182901,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_cloth_c26_braid">
         <name>
-            survival_cloth_c26_braid name
+            Hayatta Kalmacının Örgüsü
         </name>
         <description>
             survival_cloth_c26_braid desc
@@ -182635,7 +182909,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_cloth_c26_cyberlimbs">
         <name>
-            survival_cloth_c26_cyberlimbs name
+            Sibernetik Uzuvlar
         </name>
         <description>
             survival_cloth_c26_cyberlimbs desc
@@ -182643,7 +182917,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_cloth_c26_drone">
         <name>
-            survival_cloth_c26_drone name
+            Kişisel Keşif Dronu
         </name>
         <description>
             survival_cloth_c26_drone desc
@@ -182659,7 +182933,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_cloth_c26_survivaljumpsuit">
         <name>
-            survival_cloth_c26_survivaljumpsuit name
+            Koruma Tulumu
         </name>
         <description>
             survival_cloth_c26_survivaljumpsuit desc
@@ -182667,7 +182941,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_cloth_c26_survivalmask">
         <name>
-            survival_cloth_c26_survivalmask name
+            Koruyucu Maske
         </name>
         <description>
             survival_cloth_c26_survivalmask desc
@@ -182699,7 +182973,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_cloth_r26_bloodbath">
         <name>
-            survival_cloth_r26_bloodbath name
+            Kan Banyosu
         </name>
         <description>
             survival_cloth_r26_bloodbath desc
@@ -182713,17 +182987,35 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
             Jetzt kann es losgehen....
         </description>
     </product>
+    <product code="survival_r26_coffin_bd">
+        <name>
+            Kaybedenin Tabutu
+        </name>
+        <description></description>
+    </product>
     <product code="survival_r26_coffin">
         <name>
-            survival_r26_coffin name
+            Kaybedenin Tabutu
         </name>
         <description>
             survival_r26_coffin desc
         </description>
     </product>
+    <product code="survival_r26_corner_bd">
+        <name>
+            Fütüristik Konuşmacı Köşesi
+        </name>
+        <description></description>
+    </product>
+    <product code="survival_r26_money_bd">
+        <name>
+            Hayatını Değiştirecek Para Ödülü
+        </name>
+        <description></description>
+    </product>
     <product code="survival_r26_prizemoney">
         <name>
-            survival_r26_prizemoney name
+            Hayatını Değiştirecek Para Ödülü
         </name>
         <description>
             survival_r26_prizemoney desc
@@ -182731,7 +183023,7 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
     </product>
     <product code="survival_r26_scifispeakercorner">
         <name>
-            survival_r26_scifispeakercorner name
+            Fütüristik Konuşmacı Köşesi
         </name>
         <description>
             survival_r26_scifispeakercorner desc
@@ -203897,6 +204189,102 @@ En güzel kısmı: Seni bekleyen bir çift topuklu çizme var!
         </name>
         <description>
             xmas_c26_xmastreeballtoss desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_friendlygingerbread">
+        <name>
+            xmas_cloth_c26_friendlygingerbread name
+        </name>
+        <description>
+            xmas_cloth_c26_friendlygingerbread desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gigagiftbow">
+        <name>
+            xmas_cloth_c26_gigagiftbow name
+        </name>
+        <description>
+            xmas_cloth_c26_gigagiftbow desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gingerbreadbackpack">
+        <name>
+            xmas_cloth_c26_gingerbreadbackpack name
+        </name>
+        <description>
+            xmas_cloth_c26_gingerbreadbackpack desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gingerbreaddress">
+        <name>
+            xmas_cloth_c26_gingerbreaddress name
+        </name>
+        <description>
+            xmas_cloth_c26_gingerbreaddress desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_santakeyring">
+        <name>
+            xmas_cloth_c26_santakeyring name
+        </name>
+        <description>
+            xmas_cloth_c26_santakeyring desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_santamask">
+        <name>
+            xmas_cloth_c26_santamask name
+        </name>
+        <description>
+            xmas_cloth_c26_santamask desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_shortshag">
+        <name>
+            xmas_cloth_c26_shortshag name
+        </name>
+        <description>
+            xmas_cloth_c26_shortshag desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_themeparkheadband">
+        <name>
+            xmas_cloth_c26_themeparkheadband name
+        </name>
+        <description>
+            xmas_cloth_c26_themeparkheadband desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_winterprincesshair">
+        <name>
+            xmas_cloth_c26_winterprincesshair name
+        </name>
+        <description>
+            xmas_cloth_c26_winterprincesshair desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_xmastophat">
+        <name>
+            xmas_cloth_c26_xmastophat name
+        </name>
+        <description>
+            xmas_cloth_c26_xmastophat desc
+        </description>
+    </product>
+    <product code="xmas_cloth_r26_polarbearcub">
+        <name>
+            xmas_cloth_r26_polarbearcub name
+        </name>
+        <description>
+            xmas_cloth_r26_polarbearcub desc
+        </description>
+    </product>
+    <product code="xmas_cloth_r26_reindeerscarf">
+        <name>
+            xmas_cloth_r26_reindeerscarf name
+        </name>
+        <description>
+            xmas_cloth_r26_reindeerscarf desc
         </description>
     </product>
     <product code="xmas_cstl_gate">

@@ -52455,6 +52455,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_r26_bloodbath_bd">
+        <name>
+            Verilöyly
+        </name>
+        <description></description>
+    </product>
     <product code="cl_r26_countingsheep_bd">
         <name>
             Lampaiden laskija
@@ -60665,10 +60671,26 @@
     </product>
     <product code="clothing_nft26_camopaint">
         <name>
-            clothing_nft26_camopaint name
+            Maastokuvioinen kasvomaalaus
         </name>
         <description>
             clothing_nft26_camopaint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_candycanecane">
+        <name>
+            clothing_nft26_candycanecane name
+        </name>
+        <description>
+            clothing_nft26_candycanecane desc
+        </description>
+    </product>
+    <product code="clothing_nft26_candycanehair">
+        <name>
+            clothing_nft26_candycanehair name
+        </name>
+        <description>
+            clothing_nft26_candycanehair desc
         </description>
     </product>
     <product code="clothing_nft26_cottoncandy">
@@ -60693,6 +60715,38 @@
         </name>
         <description>
             clothing_nft26_determinedface desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckchestprint">
+        <name>
+            Keräilytuotteet Ankkakuvio rinnassa
+        </name>
+        <description>
+            clothing_nft26_duckchestprint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckheadband">
+        <name>
+            Keräilytuotteet Ankkapanta
+        </name>
+        <description>
+            clothing_nft26_duckheadband desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckonesie">
+        <name>
+            Keräilytuotteet Ankkahaalari
+        </name>
+        <description>
+            clothing_nft26_duckonesie desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckslippers">
+        <name>
+            Keräilytuotteet Ankkatohvelit
+        </name>
+        <description>
+            clothing_nft26_duckslippers desc
         </description>
     </product>
     <product code="clothing_nft26_haircomb">
@@ -60721,15 +60775,87 @@
     </product>
     <product code="clothing_nft26_nightgoggles">
         <name>
-            clothing_nft26_nightgoggles name
+            Night Vision -lasit
         </name>
         <description>
             clothing_nft26_nightgoggles desc
         </description>
     </product>
+    <product code="clothing_nft26_nutcrackerface">
+        <name>
+            clothing_nft26_nutcrackerface name
+        </name>
+        <description>
+            clothing_nft26_nutcrackerface desc
+        </description>
+    </product>
+    <product code="clothing_nft26_nutcrackerhat">
+        <name>
+            clothing_nft26_nutcrackerhat name
+        </name>
+        <description>
+            clothing_nft26_nutcrackerhat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_penguinheadband">
+        <name>
+            clothing_nft26_penguinheadband name
+        </name>
+        <description>
+            clothing_nft26_penguinheadband desc
+        </description>
+    </product>
+    <product code="clothing_nft26_polarbearhat">
+        <name>
+            clothing_nft26_polarbearhat name
+        </name>
+        <description>
+            clothing_nft26_polarbearhat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_snowcoat">
+        <name>
+            clothing_nft26_snowcoat name
+        </name>
+        <description>
+            clothing_nft26_snowcoat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starchestprint">
+        <name>
+            clothing_nft26_starchestprint name
+        </name>
+        <description>
+            clothing_nft26_starchestprint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starcrown">
+        <name>
+            clothing_nft26_starcrown name
+        </name>
+        <description>
+            clothing_nft26_starcrown desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starfriend">
+        <name>
+            clothing_nft26_starfriend name
+        </name>
+        <description>
+            clothing_nft26_starfriend desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starkeyring">
+        <name>
+            clothing_nft26_starkeyring name
+        </name>
+        <description>
+            clothing_nft26_starkeyring desc
+        </description>
+    </product>
     <product code="clothing_nft26_tacticalvest">
         <name>
-            clothing_nft26_tacticalvest name
+            Taktinen liivi
         </name>
         <description>
             clothing_nft26_tacticalvest desc
@@ -80131,19 +80257,19 @@
     </product>
     <product code="dia_c26_acornbackpack">
         <name>
-            clothing_acornbackpack name
+            Adorable Acorn Backpack
         </name>
         <description></description>
     </product>
     <product code="dia_c26_acorndecor">
         <name>
-            ducket_c26_acorndecor name
+            Acorn Decoration
         </name>
         <description></description>
     </product>
     <product code="dia_c26_acornkeyring">
         <name>
-            clothing_acornkeyring name
+            Acorn Keyring
         </name>
         <description></description>
     </product>
@@ -80155,7 +80281,7 @@
     </product>
     <product code="dia_c26_autumnberet2">
         <name>
-            clothing_autumnberet2 name
+            Cozy Autumn Beret
         </name>
         <description></description>
     </product>
@@ -111129,6 +111255,12 @@ Minkä niistä saat omaksesi?
         </name>
         <description></description>
     </product>
+    <product code="in_app_bundle_463">
+        <name>
+            Wilderness Survival Bundle
+        </name>
+        <description></description>
+    </product>
     <product code="in_app_bundle_47">
         <name>
             Frosty Winter Castle
@@ -132823,7 +132955,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_axe_bronze">
         <name>
-            nft_h26_axe_bronze name
+            Pronssi kirves
         </name>
         <description>
             nft_h26_axe_bronze desc
@@ -132831,7 +132963,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_axe_gold">
         <name>
-            nft_h26_axe_gold name
+            Kultainen kirves
         </name>
         <description>
             nft_h26_axe_gold desc
@@ -132839,7 +132971,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_axe_silver">
         <name>
-            nft_h26_axe_silver name
+            Hopea kirves
         </name>
         <description>
             nft_h26_axe_silver desc
@@ -132847,7 +132979,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_axe_trippy">
         <name>
-            nft_h26_axe_trippy name
+            Spykedeelinen kirves
         </name>
         <description>
             nft_h26_axe_trippy desc
@@ -132949,10 +133081,18 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_campfire">
         <name>
-            nft_h26_campfire name
+            Hyvin rakennettu leirinuotio
         </name>
         <description>
             nft_h26_campfire desc
+        </description>
+    </product>
+    <product code="nft_h26_candycanecandle">
+        <name>
+            nft_h26_candycanecandle name
+        </name>
+        <description>
+            nft_h26_candycanecandle desc
         </description>
     </product>
     <product code="nft_h26_candycanedragonlamp">
@@ -133139,7 +133279,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_emplacement">
         <name>
-            nft_h26_emplacement name
+            Selviytyjän puolustusasema
         </name>
         <description>
             nft_h26_emplacement desc
@@ -133319,6 +133459,14 @@ Minkä niistä saat omaksesi?
         </name>
         <description>
             nft_h26_movienightchair desc
+        </description>
+    </product>
+    <product code="nft_h26_nutbowl">
+        <name>
+            nft_h26_nutbowl name
+        </name>
+        <description>
+            nft_h26_nutbowl desc
         </description>
     </product>
     <product code="nft_h26_nutcrackerfrank">
@@ -133539,7 +133687,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_survivalgear">
         <name>
-            nft_h26_survivalgear name
+            Selviytyjän varusteet
         </name>
         <description>
             nft_h26_survivalgear desc
@@ -133563,7 +133711,7 @@ Minkä niistä saat omaksesi?
     </product>
     <product code="nft_h26_treehouseshelter">
         <name>
-            nft_h26_treehouseshelter name
+            Puumajasuoja
         </name>
         <description>
             nft_h26_treehouseshelter desc
@@ -136045,12 +136193,28 @@ Minkä niistä saat omaksesi?
             nft_sc26_alchemykit desc
         </description>
     </product>
+    <product code="nft_sc26_festivepopcorncart">
+        <name>
+            nft_sc26_festivepopcorncart name
+        </name>
+        <description>
+            nft_sc26_festivepopcorncart desc
+        </description>
+    </product>
     <product code="nft_sc26_flyingbook">
         <name>
             Lentävä kirja
         </name>
         <description>
             nft_sc26_flyingbook desc
+        </description>
+    </product>
+    <product code="nft_sc26_popcornbucket">
+        <name>
+            nft_sc26_popcornbucket name
+        </name>
+        <description>
+            nft_sc26_popcornbucket desc
         </description>
     </product>
     <product code="nft_sc26_transmogrification">
@@ -136067,6 +136231,30 @@ Minkä niistä saat omaksesi?
         </name>
         <description>
             nft_sc26_wanddisplay desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmasmerch">
+        <name>
+            nft_sc26_xmasmerch name
+        </name>
+        <description>
+            nft_sc26_xmasmerch desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmasshopstand">
+        <name>
+            nft_sc26_xmasshopstand name
+        </name>
+        <description>
+            nft_sc26_xmasshopstand desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmaswalldisplay">
+        <name>
+            nft_sc26_xmaswalldisplay name
+        </name>
+        <description>
+            nft_sc26_xmaswalldisplay desc
         </description>
     </product>
     <product code="nft_sc_bodybag">
@@ -138354,6 +138542,18 @@ Minkä niistä saat omaksesi?
     <product code="nov25_gaming_internal">
         <name>
             Gaming Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="nov26_craftingprize">
+        <name>
+            Wilderness Crafting Prize
+        </name>
+        <description></description>
+    </product>
+    <product code="nov26_special2_internal">
+        <name>
+            Wilderness Survival Bundle
         </name>
         <description></description>
     </product>
@@ -168425,6 +168625,18 @@ Sisältää merkin.
         </name>
         <description></description>
     </product>
+    <product code="rotating_roomdeal463_d">
+        <name>
+            UUTUUS: Selviytyminen erämaassa -huonepaketti
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal463">
+        <name>
+            UUTUUS: Selviytyminen erämaassa -huonepaketti
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Kotibileet-huonepaketti
@@ -171035,6 +171247,14 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
             sc26_flyingbook desc
         </description>
     </product>
+    <product code="sc26_popcornbucket">
+        <name>
+            sc26_popcornbucket name
+        </name>
+        <description>
+            sc26_popcornbucket desc
+        </description>
+    </product>
     <product code="sc26_transmogrification">
         <name>
             Muodonmuutosharjoitus
@@ -171049,6 +171269,30 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
         </name>
         <description>
             sc26_wanddisplay desc
+        </description>
+    </product>
+    <product code="sc26_xmasmerch">
+        <name>
+            sc26_xmasmerch name
+        </name>
+        <description>
+            sc26_xmasmerch desc
+        </description>
+    </product>
+    <product code="sc26_xmasshopstand">
+        <name>
+            sc26_xmasshopstand name
+        </name>
+        <description>
+            sc26_xmasshopstand desc
+        </description>
+    </product>
+    <product code="sc26_xmaswalldisplay">
+        <name>
+            sc26_xmaswalldisplay name
+        </name>
+        <description>
+            sc26_xmaswalldisplay desc
         </description>
     </product>
     <product code="sc_bodybag">
@@ -177043,6 +177287,36 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
             Mielettömät levelit täyttä kovuutta.
         </description>
     </product>
+    <product code="supply_pack1">
+        <name>
+            Supply Pack 1
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack2">
+        <name>
+            Supply Pack 2
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack3">
+        <name>
+            Supply Pack 3
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack4">
+        <name>
+            Supply Pack 4
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack5">
+        <name>
+            Supply Pack 5
+        </name>
+        <description></description>
+    </product>
     <product code="survival_c26_burntgrass">
         <name>
             Korventunut ruoho
@@ -177053,7 +177327,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_cave">
         <name>
-            survival_c26_cave name
+            Luolapiilo
         </name>
         <description>
             survival_c26_cave desc
@@ -177061,7 +177335,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_craftingtable">
         <name>
-            survival_c26_craftingtable name
+            Selviytyjän tehtailupöytä
         </name>
         <description>
             survival_c26_craftingtable desc
@@ -177101,7 +177375,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_factionsymbols">
         <name>
-            survival_c26_factionsymbols name
+            Ryhmittymien symbolit
         </name>
         <description>
             survival_c26_factionsymbols desc
@@ -177109,7 +177383,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_firekit">
         <name>
-            survival_c26_firekit name
+            Tulentekosetti
         </name>
         <description>
             survival_c26_firekit desc
@@ -177117,7 +177391,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_flare">
         <name>
-            survival_c26_flare name
+            Merkkisoihtu
         </name>
         <description>
             survival_c26_flare desc
@@ -177133,7 +177407,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_foliage">
         <name>
-            survival_c26_foliage name
+            Tiheä kasvillisuus
         </name>
         <description>
             survival_c26_foliage desc
@@ -177141,7 +177415,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_foliagefloor">
         <name>
-            survival_c26_foliagefloor name
+            Tiheä kasvillisuuslattia
         </name>
         <description>
             survival_c26_foliagefloor desc
@@ -177149,7 +177423,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_foodsupplies">
         <name>
-            survival_c26_foodsupplies name
+            Säilykeruokatarvikkeet
         </name>
         <description>
             survival_c26_foodsupplies desc
@@ -177157,7 +177431,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_hammock">
         <name>
-            survival_c26_hammock name
+            Maastokuvioinen riippumatto
         </name>
         <description>
             survival_c26_hammock desc
@@ -177181,7 +177455,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_podium">
         <name>
-            survival_c26_podium name
+            Selviytymispelin palkintokoroke
         </name>
         <description>
             survival_c26_podium desc
@@ -177189,7 +177463,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_rope">
         <name>
-            survival_c26_rope name
+            Kestävä köysi
         </name>
         <description>
             survival_c26_rope desc
@@ -177197,7 +177471,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_sleepingbag">
         <name>
-            survival_c26_sleepingbag name
+            Selviytyjän makuupussi
         </name>
         <description>
             survival_c26_sleepingbag desc
@@ -177205,7 +177479,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_stonesymbol">
         <name>
-            survival_c26_stonesymbol name
+            Salainen kivisymboli
         </name>
         <description>
             survival_c26_stonesymbol desc
@@ -177213,7 +177487,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_stream">
         <name>
-            survival_c26_stream name
+            Kivikkoinen puro
         </name>
         <description>
             survival_c26_stream desc
@@ -177221,7 +177495,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_supplycrate">
         <name>
-            survival_c26_supplycrate name
+            Taktinen tarvikelaatikko
         </name>
         <description>
             survival_c26_supplycrate desc
@@ -177229,7 +177503,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_supplycrateb">
         <name>
-            survival_c26_supplycrateb name
+            Taktinen tarvikelaatikko
         </name>
         <description>
             survival_c26_supplycrateb desc
@@ -177237,7 +177511,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_surveillancetree">
         <name>
-            survival_c26_surveillancetree name
+            Valvontapuu
         </name>
         <description>
             survival_c26_surveillancetree desc
@@ -177245,7 +177519,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_trap">
         <name>
-            survival_c26_trap name
+            Metsästysansa
         </name>
         <description>
             survival_c26_trap desc
@@ -177253,7 +177527,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_c26_treebridge">
         <name>
-            survival_c26_treebridge name
+            Kaatuneen puun silta
         </name>
         <description>
             survival_c26_treebridge desc
@@ -177293,7 +177567,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_cloth_c26_braid">
         <name>
-            survival_cloth_c26_braid name
+            Selviytyjän letti
         </name>
         <description>
             survival_cloth_c26_braid desc
@@ -177301,7 +177575,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_cloth_c26_cyberlimbs">
         <name>
-            survival_cloth_c26_cyberlimbs name
+            Kyberneettiset raajat
         </name>
         <description>
             survival_cloth_c26_cyberlimbs desc
@@ -177309,7 +177583,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_cloth_c26_drone">
         <name>
-            survival_cloth_c26_drone name
+            Henkilökohtainen kartoitusdrooni
         </name>
         <description>
             survival_cloth_c26_drone desc
@@ -177325,7 +177599,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_cloth_c26_survivaljumpsuit">
         <name>
-            survival_cloth_c26_survivaljumpsuit name
+            Vartijan haalari
         </name>
         <description>
             survival_cloth_c26_survivaljumpsuit desc
@@ -177333,7 +177607,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_cloth_c26_survivalmask">
         <name>
-            survival_cloth_c26_survivalmask name
+            Vartijan naamio
         </name>
         <description>
             survival_cloth_c26_survivalmask desc
@@ -177365,23 +177639,41 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_cloth_r26_bloodbath">
         <name>
-            survival_cloth_r26_bloodbath name
+            Verilöyly
         </name>
         <description>
             survival_cloth_r26_bloodbath desc
         </description>
     </product>
+    <product code="survival_r26_coffin_bd">
+        <name>
+            Häviäjän arkku
+        </name>
+        <description></description>
+    </product>
     <product code="survival_r26_coffin">
         <name>
-            survival_r26_coffin name
+            Häviäjän arkku
         </name>
         <description>
             survival_r26_coffin desc
         </description>
     </product>
+    <product code="survival_r26_corner_bd">
+        <name>
+            Futuristinen puhujankulma
+        </name>
+        <description></description>
+    </product>
+    <product code="survival_r26_money_bd">
+        <name>
+            Elämän mullistava palkintosumma
+        </name>
+        <description></description>
+    </product>
     <product code="survival_r26_prizemoney">
         <name>
-            survival_r26_prizemoney name
+            Elämän mullistava palkintosumma
         </name>
         <description>
             survival_r26_prizemoney desc
@@ -177389,7 +177681,7 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
     </product>
     <product code="survival_r26_scifispeakercorner">
         <name>
-            survival_r26_scifispeakercorner name
+            Futuristinen puhujankulma
         </name>
         <description>
             survival_r26_scifispeakercorner desc
@@ -198375,6 +198667,102 @@ Vain sinä muutamat onnekkaat habbot pääsevät sisään huippuluokan turvatoim
         </name>
         <description>
             xmas_c26_xmastreeballtoss desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_friendlygingerbread">
+        <name>
+            xmas_cloth_c26_friendlygingerbread name
+        </name>
+        <description>
+            xmas_cloth_c26_friendlygingerbread desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gigagiftbow">
+        <name>
+            xmas_cloth_c26_gigagiftbow name
+        </name>
+        <description>
+            xmas_cloth_c26_gigagiftbow desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gingerbreadbackpack">
+        <name>
+            xmas_cloth_c26_gingerbreadbackpack name
+        </name>
+        <description>
+            xmas_cloth_c26_gingerbreadbackpack desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gingerbreaddress">
+        <name>
+            xmas_cloth_c26_gingerbreaddress name
+        </name>
+        <description>
+            xmas_cloth_c26_gingerbreaddress desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_santakeyring">
+        <name>
+            xmas_cloth_c26_santakeyring name
+        </name>
+        <description>
+            xmas_cloth_c26_santakeyring desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_santamask">
+        <name>
+            xmas_cloth_c26_santamask name
+        </name>
+        <description>
+            xmas_cloth_c26_santamask desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_shortshag">
+        <name>
+            xmas_cloth_c26_shortshag name
+        </name>
+        <description>
+            xmas_cloth_c26_shortshag desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_themeparkheadband">
+        <name>
+            xmas_cloth_c26_themeparkheadband name
+        </name>
+        <description>
+            xmas_cloth_c26_themeparkheadband desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_winterprincesshair">
+        <name>
+            xmas_cloth_c26_winterprincesshair name
+        </name>
+        <description>
+            xmas_cloth_c26_winterprincesshair desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_xmastophat">
+        <name>
+            xmas_cloth_c26_xmastophat name
+        </name>
+        <description>
+            xmas_cloth_c26_xmastophat desc
+        </description>
+    </product>
+    <product code="xmas_cloth_r26_polarbearcub">
+        <name>
+            xmas_cloth_r26_polarbearcub name
+        </name>
+        <description>
+            xmas_cloth_r26_polarbearcub desc
+        </description>
+    </product>
+    <product code="xmas_cloth_r26_reindeerscarf">
+        <name>
+            xmas_cloth_r26_reindeerscarf name
+        </name>
+        <description>
+            xmas_cloth_r26_reindeerscarf desc
         </description>
     </product>
     <product code="xmas_cstl_gate">

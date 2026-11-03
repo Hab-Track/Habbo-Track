@@ -50104,6 +50104,12 @@
         </name>
         <description></description>
     </product>
+    <product code="cl_r26_bloodbath_bd">
+        <name>
+            Bloedbad
+        </name>
+        <description></description>
+    </product>
     <product code="cl_r26_countingsheep_bd">
         <name>
             Schaapjes teller
@@ -58328,10 +58334,26 @@
     </product>
     <product code="clothing_nft26_camopaint">
         <name>
-            clothing_nft26_camopaint name
+            Camouflage Schmink
         </name>
         <description>
             clothing_nft26_camopaint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_candycanecane">
+        <name>
+            clothing_nft26_candycanecane name
+        </name>
+        <description>
+            clothing_nft26_candycanecane desc
+        </description>
+    </product>
+    <product code="clothing_nft26_candycanehair">
+        <name>
+            clothing_nft26_candycanehair name
+        </name>
+        <description>
+            clothing_nft26_candycanehair desc
         </description>
     </product>
     <product code="clothing_nft26_cottoncandy">
@@ -58356,6 +58378,38 @@
         </name>
         <description>
             clothing_nft26_determinedface desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckchestprint">
+        <name>
+            Collectibles Badeend Logo
+        </name>
+        <description>
+            clothing_nft26_duckchestprint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckheadband">
+        <name>
+            Collectibles Eend Hoofdband
+        </name>
+        <description>
+            clothing_nft26_duckheadband desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckonesie">
+        <name>
+            Collectibles Eend Onesie
+        </name>
+        <description>
+            clothing_nft26_duckonesie desc
+        </description>
+    </product>
+    <product code="clothing_nft26_duckslippers">
+        <name>
+            Collectibles Eend Slippers
+        </name>
+        <description>
+            clothing_nft26_duckslippers desc
         </description>
     </product>
     <product code="clothing_nft26_haircomb">
@@ -58384,15 +58438,87 @@
     </product>
     <product code="clothing_nft26_nightgoggles">
         <name>
-            clothing_nft26_nightgoggles name
+            Nachtkijker
         </name>
         <description>
             clothing_nft26_nightgoggles desc
         </description>
     </product>
+    <product code="clothing_nft26_nutcrackerface">
+        <name>
+            clothing_nft26_nutcrackerface name
+        </name>
+        <description>
+            clothing_nft26_nutcrackerface desc
+        </description>
+    </product>
+    <product code="clothing_nft26_nutcrackerhat">
+        <name>
+            clothing_nft26_nutcrackerhat name
+        </name>
+        <description>
+            clothing_nft26_nutcrackerhat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_penguinheadband">
+        <name>
+            clothing_nft26_penguinheadband name
+        </name>
+        <description>
+            clothing_nft26_penguinheadband desc
+        </description>
+    </product>
+    <product code="clothing_nft26_polarbearhat">
+        <name>
+            clothing_nft26_polarbearhat name
+        </name>
+        <description>
+            clothing_nft26_polarbearhat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_snowcoat">
+        <name>
+            clothing_nft26_snowcoat name
+        </name>
+        <description>
+            clothing_nft26_snowcoat desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starchestprint">
+        <name>
+            clothing_nft26_starchestprint name
+        </name>
+        <description>
+            clothing_nft26_starchestprint desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starcrown">
+        <name>
+            clothing_nft26_starcrown name
+        </name>
+        <description>
+            clothing_nft26_starcrown desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starfriend">
+        <name>
+            clothing_nft26_starfriend name
+        </name>
+        <description>
+            clothing_nft26_starfriend desc
+        </description>
+    </product>
+    <product code="clothing_nft26_starkeyring">
+        <name>
+            clothing_nft26_starkeyring name
+        </name>
+        <description>
+            clothing_nft26_starkeyring desc
+        </description>
+    </product>
     <product code="clothing_nft26_tacticalvest">
         <name>
-            clothing_nft26_tacticalvest name
+            Tactisch vest
         </name>
         <description>
             clothing_nft26_tacticalvest desc
@@ -79492,19 +79618,19 @@
     </product>
     <product code="dia_c26_acornbackpack">
         <name>
-            clothing_acornbackpack name
+            Adorable Acorn Backpack
         </name>
         <description></description>
     </product>
     <product code="dia_c26_acorndecor">
         <name>
-            ducket_c26_acorndecor name
+            Acorn Decoration
         </name>
         <description></description>
     </product>
     <product code="dia_c26_acornkeyring">
         <name>
-            clothing_acornkeyring name
+            Acorn Keyring
         </name>
         <description></description>
     </product>
@@ -79516,7 +79642,7 @@
     </product>
     <product code="dia_c26_autumnberet2">
         <name>
-            clothing_autumnberet2 name
+            Cozy Autumn Beret
         </name>
         <description></description>
     </product>
@@ -110608,6 +110734,12 @@
         </name>
         <description></description>
     </product>
+    <product code="in_app_bundle_463">
+        <name>
+            Wilderness Survival Bundle
+        </name>
+        <description></description>
+    </product>
     <product code="in_app_bundle_47">
         <name>
             Frosty Winter Castle
@@ -132214,7 +132346,7 @@
     </product>
     <product code="nft_h26_axe_bronze">
         <name>
-            nft_h26_axe_bronze name
+            Bronze Bijl
         </name>
         <description>
             nft_h26_axe_bronze desc
@@ -132222,7 +132354,7 @@
     </product>
     <product code="nft_h26_axe_gold">
         <name>
-            nft_h26_axe_gold name
+            Gouden Bijl
         </name>
         <description>
             nft_h26_axe_gold desc
@@ -132230,7 +132362,7 @@
     </product>
     <product code="nft_h26_axe_silver">
         <name>
-            nft_h26_axe_silver name
+            Zilveren Bijl
         </name>
         <description>
             nft_h26_axe_silver desc
@@ -132238,7 +132370,7 @@
     </product>
     <product code="nft_h26_axe_trippy">
         <name>
-            nft_h26_axe_trippy name
+            Trippy Bijl
         </name>
         <description>
             nft_h26_axe_trippy desc
@@ -132340,10 +132472,18 @@
     </product>
     <product code="nft_h26_campfire">
         <name>
-            nft_h26_campfire name
+            Goed aangelegd kampvuur
         </name>
         <description>
             nft_h26_campfire desc
+        </description>
+    </product>
+    <product code="nft_h26_candycanecandle">
+        <name>
+            nft_h26_candycanecandle name
+        </name>
+        <description>
+            nft_h26_candycanecandle desc
         </description>
     </product>
     <product code="nft_h26_candycanedragonlamp">
@@ -132530,7 +132670,7 @@
     </product>
     <product code="nft_h26_emplacement">
         <name>
-            nft_h26_emplacement name
+            Overlevingspost
         </name>
         <description>
             nft_h26_emplacement desc
@@ -132710,6 +132850,14 @@
         </name>
         <description>
             nft_h26_movienightchair desc
+        </description>
+    </product>
+    <product code="nft_h26_nutbowl">
+        <name>
+            nft_h26_nutbowl name
+        </name>
+        <description>
+            nft_h26_nutbowl desc
         </description>
     </product>
     <product code="nft_h26_nutcrackerfrank">
@@ -132930,7 +133078,7 @@
     </product>
     <product code="nft_h26_survivalgear">
         <name>
-            nft_h26_survivalgear name
+            Survivaluitrusting
         </name>
         <description>
             nft_h26_survivalgear desc
@@ -132954,7 +133102,7 @@
     </product>
     <product code="nft_h26_treehouseshelter">
         <name>
-            nft_h26_treehouseshelter name
+            Boomhut Schuilplaats
         </name>
         <description>
             nft_h26_treehouseshelter desc
@@ -135438,12 +135586,28 @@
             nft_sc26_alchemykit desc
         </description>
     </product>
+    <product code="nft_sc26_festivepopcorncart">
+        <name>
+            nft_sc26_festivepopcorncart name
+        </name>
+        <description>
+            nft_sc26_festivepopcorncart desc
+        </description>
+    </product>
     <product code="nft_sc26_flyingbook">
         <name>
             Vliegend Boek
         </name>
         <description>
             nft_sc26_flyingbook desc
+        </description>
+    </product>
+    <product code="nft_sc26_popcornbucket">
+        <name>
+            nft_sc26_popcornbucket name
+        </name>
+        <description>
+            nft_sc26_popcornbucket desc
         </description>
     </product>
     <product code="nft_sc26_transmogrification">
@@ -135460,6 +135624,30 @@
         </name>
         <description>
             nft_sc26_wanddisplay desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmasmerch">
+        <name>
+            nft_sc26_xmasmerch name
+        </name>
+        <description>
+            nft_sc26_xmasmerch desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmasshopstand">
+        <name>
+            nft_sc26_xmasshopstand name
+        </name>
+        <description>
+            nft_sc26_xmasshopstand desc
+        </description>
+    </product>
+    <product code="nft_sc26_xmaswalldisplay">
+        <name>
+            nft_sc26_xmaswalldisplay name
+        </name>
+        <description>
+            nft_sc26_xmaswalldisplay desc
         </description>
     </product>
     <product code="nft_sc_bodybag">
@@ -137757,6 +137945,18 @@
     <product code="nov25_gaming_internal">
         <name>
             Gaming Bundle
+        </name>
+        <description></description>
+    </product>
+    <product code="nov26_craftingprize">
+        <name>
+            Wilderness Crafting Prize
+        </name>
+        <description></description>
+    </product>
+    <product code="nov26_special2_internal">
+        <name>
+            Wilderness Survival Bundle
         </name>
         <description></description>
     </product>
@@ -167956,6 +168156,18 @@ Inclusief 10 Credits
         </name>
         <description></description>
     </product>
+    <product code="rotating_roomdeal463_d">
+        <name>
+            Overleven-in-de-wildernis Bundel
+        </name>
+        <description></description>
+    </product>
+    <product code="rotating_roomdeal463">
+        <name>
+            Overleven-in-de-wildernis Bundel
+        </name>
+        <description></description>
+    </product>
     <product code="rotating_roomdeal46_10c">
         <name>
             Habbo House Party Bundle
@@ -170536,6 +170748,14 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
             sc26_flyingbook desc
         </description>
     </product>
+    <product code="sc26_popcornbucket">
+        <name>
+            sc26_popcornbucket name
+        </name>
+        <description>
+            sc26_popcornbucket desc
+        </description>
+    </product>
     <product code="sc26_transmogrification">
         <name>
             Oefening in Gedaanteverwisseling
@@ -170550,6 +170770,30 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
         </name>
         <description>
             sc26_wanddisplay desc
+        </description>
+    </product>
+    <product code="sc26_xmasmerch">
+        <name>
+            sc26_xmasmerch name
+        </name>
+        <description>
+            sc26_xmasmerch desc
+        </description>
+    </product>
+    <product code="sc26_xmasshopstand">
+        <name>
+            sc26_xmasshopstand name
+        </name>
+        <description>
+            sc26_xmasshopstand desc
+        </description>
+    </product>
+    <product code="sc26_xmaswalldisplay">
+        <name>
+            sc26_xmaswalldisplay name
+        </name>
+        <description>
+            sc26_xmaswalldisplay desc
         </description>
     </product>
     <product code="sc_bodybag">
@@ -176656,6 +176900,36 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
             Totaal krankzinnige niveaus van taaiheid
         </description>
     </product>
+    <product code="supply_pack1">
+        <name>
+            Uitrustingspakket 1
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack2">
+        <name>
+            Uitrustingspakket 2
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack3">
+        <name>
+            Uitrustingspakket 3
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack4">
+        <name>
+            Uitrustingspakket 4
+        </name>
+        <description></description>
+    </product>
+    <product code="supply_pack5">
+        <name>
+            Uitrustingspakket 5
+        </name>
+        <description></description>
+    </product>
     <product code="survival_c26_burntgrass">
         <name>
             Verbrand gras
@@ -176666,7 +176940,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_cave">
         <name>
-            survival_c26_cave name
+            Grot Schuilplaats
         </name>
         <description>
             survival_c26_cave desc
@@ -176674,7 +176948,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_craftingtable">
         <name>
-            survival_c26_craftingtable name
+            Survival Craft Tafel
         </name>
         <description>
             survival_c26_craftingtable desc
@@ -176714,7 +176988,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_factionsymbols">
         <name>
-            survival_c26_factionsymbols name
+            Faction Symbolen
         </name>
         <description>
             survival_c26_factionsymbols desc
@@ -176722,7 +176996,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_firekit">
         <name>
-            survival_c26_firekit name
+            Vuurmaakset
         </name>
         <description>
             survival_c26_firekit desc
@@ -176730,7 +177004,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_flare">
         <name>
-            survival_c26_flare name
+            Signaalvuur
         </name>
         <description>
             survival_c26_flare desc
@@ -176746,7 +177020,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_foliage">
         <name>
-            survival_c26_foliage name
+            Dicht Gebladerte
         </name>
         <description>
             survival_c26_foliage desc
@@ -176754,7 +177028,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_foliagefloor">
         <name>
-            survival_c26_foliagefloor name
+            Dicht Gebladerde Vloer
         </name>
         <description>
             survival_c26_foliagefloor desc
@@ -176762,7 +177036,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_foodsupplies">
         <name>
-            survival_c26_foodsupplies name
+            Voorraad voedsel in blik
         </name>
         <description>
             survival_c26_foodsupplies desc
@@ -176770,7 +177044,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_hammock">
         <name>
-            survival_c26_hammock name
+            Camouflagehangmat
         </name>
         <description>
             survival_c26_hammock desc
@@ -176794,7 +177068,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_podium">
         <name>
-            survival_c26_podium name
+            Survivalspel Podium
         </name>
         <description>
             survival_c26_podium desc
@@ -176802,7 +177076,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_rope">
         <name>
-            survival_c26_rope name
+            Stevig touw
         </name>
         <description>
             survival_c26_rope desc
@@ -176810,7 +177084,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_sleepingbag">
         <name>
-            survival_c26_sleepingbag name
+            Survival Slaapzak
         </name>
         <description>
             survival_c26_sleepingbag desc
@@ -176818,7 +177092,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_stonesymbol">
         <name>
-            survival_c26_stonesymbol name
+            Geheim Steensymbool
         </name>
         <description>
             survival_c26_stonesymbol desc
@@ -176826,7 +177100,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_stream">
         <name>
-            survival_c26_stream name
+            Rotsachtige beek
         </name>
         <description>
             survival_c26_stream desc
@@ -176834,7 +177108,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_supplycrate">
         <name>
-            survival_c26_supplycrate name
+            Tactische Uitrustings Kist
         </name>
         <description>
             survival_c26_supplycrate desc
@@ -176842,7 +177116,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_supplycrateb">
         <name>
-            survival_c26_supplycrateb name
+            Tactische Uitrustings Kist
         </name>
         <description>
             survival_c26_supplycrateb desc
@@ -176850,7 +177124,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_surveillancetree">
         <name>
-            survival_c26_surveillancetree name
+            Slagboom
         </name>
         <description>
             survival_c26_surveillancetree desc
@@ -176858,7 +177132,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_trap">
         <name>
-            survival_c26_trap name
+            Jachtklem
         </name>
         <description>
             survival_c26_trap desc
@@ -176866,7 +177140,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_c26_treebridge">
         <name>
-            survival_c26_treebridge name
+            Omgevallen Boombrug
         </name>
         <description>
             survival_c26_treebridge desc
@@ -176906,7 +177180,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_cloth_c26_braid">
         <name>
-            survival_cloth_c26_braid name
+            Overlevingsvlecht
         </name>
         <description>
             survival_cloth_c26_braid desc
@@ -176914,7 +177188,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_cloth_c26_cyberlimbs">
         <name>
-            survival_cloth_c26_cyberlimbs name
+            Cybernetische Ledematen
         </name>
         <description>
             survival_cloth_c26_cyberlimbs desc
@@ -176922,7 +177196,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_cloth_c26_drone">
         <name>
-            survival_cloth_c26_drone name
+            Persoonlijke Verkenningsdrone
         </name>
         <description>
             survival_cloth_c26_drone desc
@@ -176938,7 +177212,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_cloth_c26_survivaljumpsuit">
         <name>
-            survival_cloth_c26_survivaljumpsuit name
+            Spel Uniform
         </name>
         <description>
             survival_cloth_c26_survivaljumpsuit desc
@@ -176946,7 +177220,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_cloth_c26_survivalmask">
         <name>
-            survival_cloth_c26_survivalmask name
+            Spel Masker
         </name>
         <description>
             survival_cloth_c26_survivalmask desc
@@ -176978,23 +177252,41 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_cloth_r26_bloodbath">
         <name>
-            survival_cloth_r26_bloodbath name
+            Bloedbad
         </name>
         <description>
             survival_cloth_r26_bloodbath desc
         </description>
     </product>
+    <product code="survival_r26_coffin_bd">
+        <name>
+            Verliezende Doodskist
+        </name>
+        <description></description>
+    </product>
     <product code="survival_r26_coffin">
         <name>
-            survival_r26_coffin name
+            Verliezende Doodskist
         </name>
         <description>
             survival_r26_coffin desc
         </description>
     </product>
+    <product code="survival_r26_corner_bd">
+        <name>
+            Futuristische Sprekershoek
+        </name>
+        <description></description>
+    </product>
+    <product code="survival_r26_money_bd">
+        <name>
+            Groot Prijzengeld
+        </name>
+        <description></description>
+    </product>
     <product code="survival_r26_prizemoney">
         <name>
-            survival_r26_prizemoney name
+            Groot Prijzengeld
         </name>
         <description>
             survival_r26_prizemoney desc
@@ -177002,7 +177294,7 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
     </product>
     <product code="survival_r26_scifispeakercorner">
         <name>
-            survival_r26_scifispeakercorner name
+            Futuristische Sprekershoek
         </name>
         <description>
             survival_r26_scifispeakercorner desc
@@ -197778,6 +198070,102 @@ Enkel tijdelijk beschikbaar via een directe aankoop.
         </name>
         <description>
             xmas_c26_xmastreeballtoss desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_friendlygingerbread">
+        <name>
+            xmas_cloth_c26_friendlygingerbread name
+        </name>
+        <description>
+            xmas_cloth_c26_friendlygingerbread desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gigagiftbow">
+        <name>
+            xmas_cloth_c26_gigagiftbow name
+        </name>
+        <description>
+            xmas_cloth_c26_gigagiftbow desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gingerbreadbackpack">
+        <name>
+            xmas_cloth_c26_gingerbreadbackpack name
+        </name>
+        <description>
+            xmas_cloth_c26_gingerbreadbackpack desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_gingerbreaddress">
+        <name>
+            xmas_cloth_c26_gingerbreaddress name
+        </name>
+        <description>
+            xmas_cloth_c26_gingerbreaddress desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_santakeyring">
+        <name>
+            xmas_cloth_c26_santakeyring name
+        </name>
+        <description>
+            xmas_cloth_c26_santakeyring desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_santamask">
+        <name>
+            xmas_cloth_c26_santamask name
+        </name>
+        <description>
+            xmas_cloth_c26_santamask desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_shortshag">
+        <name>
+            xmas_cloth_c26_shortshag name
+        </name>
+        <description>
+            xmas_cloth_c26_shortshag desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_themeparkheadband">
+        <name>
+            xmas_cloth_c26_themeparkheadband name
+        </name>
+        <description>
+            xmas_cloth_c26_themeparkheadband desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_winterprincesshair">
+        <name>
+            xmas_cloth_c26_winterprincesshair name
+        </name>
+        <description>
+            xmas_cloth_c26_winterprincesshair desc
+        </description>
+    </product>
+    <product code="xmas_cloth_c26_xmastophat">
+        <name>
+            xmas_cloth_c26_xmastophat name
+        </name>
+        <description>
+            xmas_cloth_c26_xmastophat desc
+        </description>
+    </product>
+    <product code="xmas_cloth_r26_polarbearcub">
+        <name>
+            xmas_cloth_r26_polarbearcub name
+        </name>
+        <description>
+            xmas_cloth_r26_polarbearcub desc
+        </description>
+    </product>
+    <product code="xmas_cloth_r26_reindeerscarf">
+        <name>
+            xmas_cloth_r26_reindeerscarf name
+        </name>
+        <description>
+            xmas_cloth_r26_reindeerscarf desc
         </description>
     </product>
     <product code="xmas_cstl_gate">
