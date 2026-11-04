@@ -1394165,10 +1394165,10 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                28950
+                -1
             </offerid>
             <buyout>
-                1
+                0
             </buyout>
             <rentofferid>
                 -1
@@ -1394319,10 +1394319,10 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                28952
+                -1
             </offerid>
             <buyout>
-                1
+                0
             </buyout>
             <rentofferid>
                 -1
@@ -1397854,10 +1397854,10 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29050
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1398012,10 +1398012,10 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29052
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1399171,7 +1399171,7 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                29419
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399558,7 +1399558,7 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                29419
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399943,7 +1399943,7 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                29418
+                -1
             </offerid>
             <buyout>
                 0
@@ -1400020,7 +1400020,7 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                29418
+                -1
             </offerid>
             <buyout>
                 0
@@ -1400097,7 +1400097,7 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                29418
+                -1
             </offerid>
             <buyout>
                 0
@@ -1400328,10 +1400328,10 @@ Minkä niistä saat omaksesi?
             </description>
             <adurl></adurl>
             <offerid>
-                29082
+                -1
             </offerid>
             <buyout>
-                1
+                0
             </buyout>
             <rentofferid>
                 -1
@@ -1400340,13 +1400340,13 @@ Minkä niistä saat omaksesi?
                 0
             </rentbuyout>
             <bc>
-                1
+                0
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                29082
+                -1
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1420473,6 +1420473,83 @@ Minkä niistä saat omaksesi?
             </canputstuffon>
             <height>
                 2.8
+            </height>
+            <furniline>
+                xmas2026
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                1
+            </recyclable>
+        </furnitype>
+        <furnitype id="24703" classname="xmas_r26_ferriswheel">
+            <revision>
+                76125
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                3
+            </ydim>
+            <name>
+                xmas_r26_ferriswheel name
+            </name>
+            <description>
+                xmas_r26_ferriswheel desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.0
             </height>
             <furniline>
                 xmas2026

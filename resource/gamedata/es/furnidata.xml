@@ -1397211,10 +1397211,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29982
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1397369,10 +1397369,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29984
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1398528,7 +1398528,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                30351
+                -1
             </offerid>
             <buyout>
                 0
@@ -1398915,7 +1398915,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                30351
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399300,7 +1399300,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                30350
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399377,7 +1399377,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                30350
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399454,7 +1399454,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                30350
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399685,10 +1399685,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                30014
+                -1
             </offerid>
             <buyout>
-                1
+                0
             </buyout>
             <rentofferid>
                 -1
@@ -1399697,13 +1399697,13 @@
                 0
             </rentbuyout>
             <bc>
-                1
+                0
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                30014
+                -1
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1419830,6 +1419830,83 @@
             </canputstuffon>
             <height>
                 2.8
+            </height>
+            <furniline>
+                xmas2026
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                1
+            </recyclable>
+        </furnitype>
+        <furnitype id="18901" classname="xmas_r26_ferriswheel">
+            <revision>
+                76125
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                3
+            </ydim>
+            <name>
+                xmas_r26_ferriswheel name
+            </name>
+            <description>
+                xmas_r26_ferriswheel desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.0
             </height>
             <furniline>
                 xmas2026
