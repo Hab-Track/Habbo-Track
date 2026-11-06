@@ -599947,9 +599947,9 @@
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
-        "bc": true,
+        "bc": false,
         "excludeddynamic": false,
-        "bcofferid": 28744
+        "bcofferid": -1
       },
       {
         "id": 4924,
