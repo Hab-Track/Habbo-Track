@@ -1393361,10 +1393361,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                28555
+                -1
             </offerid>
             <buyout>
-                1
+                0
             </buyout>
             <rentofferid>
                 -1
@@ -1394131,10 +1394131,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                28565
+                -1
             </offerid>
             <buyout>
-                1
+                0
             </buyout>
             <rentofferid>
                 -1
@@ -1394208,10 +1394208,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                28566
+                -1
             </offerid>
             <buyout>
-                1
+                0
             </buyout>
             <rentofferid>
                 -1
@@ -1394285,10 +1394285,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                28567
+                -1
             </offerid>
             <buyout>
-                1
+                0
             </buyout>
             <rentofferid>
                 -1
@@ -1394362,10 +1394362,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                28568
+                -1
             </offerid>
             <buyout>
-                1
+                0
             </buyout>
             <rentofferid>
                 -1
@@ -1397749,10 +1397749,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                28664
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1398521,7 +1398521,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29026
+                -1
             </offerid>
             <buyout>
                 0
@@ -1398908,7 +1398908,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29026
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399293,7 +1399293,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29025
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399370,7 +1399370,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29025
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399447,7 +1399447,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29025
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399678,10 +1399678,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                28689
+                -1
             </offerid>
             <buyout>
-                1
+                0
             </buyout>
             <rentofferid>
                 -1
@@ -1399690,13 +1399690,13 @@
                 0
             </rentbuyout>
             <bc>
-                1
+                0
             </bc>
             <excludeddynamic>
                 0
             </excludeddynamic>
             <bcofferid>
-                28689
+                -1
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1400065,10 +1400065,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29030
+                28694
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1400083,7 +1400083,7 @@
                 0
             </excludeddynamic>
             <bcofferid>
-                29030
+                28694
             </bcofferid>
             <customparams></customparams>
             <specialtype>
@@ -1400853,10 +1400853,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29030
+                28704
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1419913,6 +1419913,853 @@
             </tradeable>
             <recyclable>
                 1
+            </recyclable>
+        </furnitype>
+        <furnitype id="18910" classname="nft_birds_r18_cardinal">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                nft_birds_r18_cardinal name
+            </name>
+            <description>
+                nft_birds_r18_cardinal desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                1
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                1
+            </canputstuffon>
+            <height>
+                0.0
+            </height>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="18911" classname="nft_birds_r18_crane">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                nft_birds_r18_crane name
+            </name>
+            <description>
+                nft_birds_r18_crane desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                0.0
+            </height>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="18912" classname="nft_birds_r18_quetzal">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                nft_birds_r18_quetzal name
+            </name>
+            <description>
+                nft_birds_r18_quetzal desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.0
+            </height>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="18913" classname="nft_bling15_pooltable">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                4
+            </defaultdir>
+            <xdim>
+                2
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                nft_bling15_pooltable name
+            </name>
+            <description>
+                nft_bling15_pooltable desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                0.001
+            </height>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="18914" classname="nft_cland15_fountain">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                2
+            </defaultdir>
+            <xdim>
+                2
+            </xdim>
+            <ydim>
+                2
+            </ydim>
+            <name>
+                nft_cland15_fountain name
+            </name>
+            <description>
+                nft_cland15_fountain desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.0
+            </height>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="18915" classname="nft_jp15_luckycat">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                4
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                nft_jp15_luckycat name
+            </name>
+            <description>
+                nft_jp15_luckycat desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                0.001
+            </height>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="18916" classname="nft_paris15_bicycle">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                2
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                2
+            </ydim>
+            <name>
+                nft_paris15_bicycle name
+            </name>
+            <description>
+                nft_paris15_bicycle desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.0
+            </height>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="18917" classname="nft_paris15_giftsnails">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                nft_paris15_giftsnails name
+            </name>
+            <description>
+                nft_paris15_giftsnails desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.0
+            </height>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="18918" classname="nft_paris15_paintings">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                4
+            </defaultdir>
+            <xdim>
+                2
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                nft_paris15_paintings name
+            </name>
+            <description>
+                nft_paris15_paintings desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                0.001
+            </height>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="18919" classname="nft_st_palooza_screen">
+            <revision>
+                76178
+            </revision>
+            <category>
+                chair
+            </category>
+            <defaultdir>
+                4
+            </defaultdir>
+            <xdim>
+                3
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                nft_st_palooza_screen name
+            </name>
+            <description>
+                nft_st_palooza_screen desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                1
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                0.95
+            </height>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="18920" classname="nft_st_palooza_unicorn">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                nft_st_palooza_unicorn name
+            </name>
+            <description>
+                nft_st_palooza_unicorn desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                0.0
+            </height>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
             </recyclable>
         </furnitype>
     </roomitemtypes>
@@ -1463845,6 +1464692,474 @@
             </tradeable>
             <recyclable>
                 1
+            </recyclable>
+        </furnitype>
+        <furnitype id="4933" classname="nft_diamond_painting14">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <name>
+                nft_diamond_painting14 name
+            </name>
+            <description>
+                nft_diamond_painting14 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <specialtype>
+                1
+            </specialtype>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="4934" classname="nft_diamond_painting16">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <name>
+                nft_diamond_painting16 name
+            </name>
+            <description>
+                nft_diamond_painting16 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <specialtype>
+                1
+            </specialtype>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="4935" classname="nft_diamond_painting19">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <name>
+                nft_diamond_painting19 name
+            </name>
+            <description>
+                nft_diamond_painting19 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <specialtype>
+                1
+            </specialtype>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="4936" classname="nft_diamond_painting2">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <name>
+                nft_diamond_painting2 name
+            </name>
+            <description>
+                nft_diamond_painting2 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <specialtype>
+                1
+            </specialtype>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="4937" classname="nft_diamond_painting23">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <name>
+                nft_diamond_painting23 name
+            </name>
+            <description>
+                nft_diamond_painting23 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <specialtype>
+                1
+            </specialtype>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="4938" classname="nft_diamond_painting26">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <name>
+                nft_diamond_painting26 name
+            </name>
+            <description>
+                nft_diamond_painting26 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <specialtype>
+                1
+            </specialtype>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="4939" classname="nft_diamond_painting29">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <name>
+                nft_diamond_painting29 name
+            </name>
+            <description>
+                nft_diamond_painting29 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <specialtype>
+                1
+            </specialtype>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="4940" classname="nft_diamond_painting4">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <name>
+                nft_diamond_painting4 name
+            </name>
+            <description>
+                nft_diamond_painting4 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <specialtype>
+                1
+            </specialtype>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
+            </recyclable>
+        </furnitype>
+        <furnitype id="4941" classname="nft_diamond_painting5">
+            <revision>
+                76178
+            </revision>
+            <category>
+                other
+            </category>
+            <name>
+                nft_diamond_painting5 name
+            </name>
+            <description>
+                nft_diamond_painting5 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <specialtype>
+                1
+            </specialtype>
+            <furniline>
+                nftmint
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                0
             </recyclable>
         </furnitype>
     </wallitemtypes>
