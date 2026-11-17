@@ -45807,6 +45807,11 @@
         "description": "conf_queue_speed desc"
       },
       {
+        "code": "conf_test_26secret8",
+        "name": "conf_test_26secret8 name",
+        "description": "conf_test_26secret8 desc"
+      },
+      {
         "code": "conf_wired_disable",
         "name": "Désactivateur wired",
         "description": "conf_wired_disable desc"
@@ -120255,6 +120260,31 @@
         "code": "wf_test_26secret2",
         "name": "wf_test_26secret2 name",
         "description": "wf_test_26secret2 desc"
+      },
+      {
+        "code": "wf_test_26secret3",
+        "name": "wf_test_26secret3 name",
+        "description": "wf_test_26secret3 desc"
+      },
+      {
+        "code": "wf_test_26secret4",
+        "name": "wf_test_26secret4 name",
+        "description": "wf_test_26secret4 desc"
+      },
+      {
+        "code": "wf_test_26secret5",
+        "name": "wf_test_26secret5 name",
+        "description": "wf_test_26secret5 desc"
+      },
+      {
+        "code": "wf_test_26secret6",
+        "name": "wf_test_26secret6 name",
+        "description": "wf_test_26secret6 desc"
+      },
+      {
+        "code": "wf_test_26secret7",
+        "name": "wf_test_26secret7 name",
+        "description": "wf_test_26secret7 desc"
       },
       {
         "code": "wf_test_act",

@@ -250496,7 +250496,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
@@ -250958,7 +250958,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
@@ -251035,7 +251035,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
@@ -251114,7 +251114,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
@@ -251191,7 +251191,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
@@ -251268,7 +251268,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
@@ -251503,7 +251503,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
@@ -251580,7 +251580,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
@@ -251659,7 +251659,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
@@ -251736,7 +251736,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
@@ -251815,7 +251815,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
@@ -1338004,10 +1338004,10 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                27585
             </offerid>
             <buyout>
-                0
+                1
             </buyout>
             <rentofferid>
                 -1
@@ -1338019,7 +1338019,7 @@
                 0
             </bc>
             <excludeddynamic>
-                0
+                1
             </excludeddynamic>
             <bcofferid>
                 -1
@@ -1398692,7 +1398692,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29065
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399008,7 +1399008,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29065
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399245,7 +1399245,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29065
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399324,7 +1399324,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29065
+                -1
             </offerid>
             <buyout>
                 0
@@ -1399561,7 +1399561,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                29087
+                -1
             </offerid>
             <buyout>
                 0
@@ -1410059,7 +1410059,7 @@
         </furnitype>
         <furnitype id="18918" classname="conf_kickwars_enable">
             <revision>
-                75953
+                76189
             </revision>
             <category>
                 other
@@ -1419310,6 +1419310,468 @@
             </tradeable>
             <recyclable>
                 0
+            </recyclable>
+        </furnitype>
+        <furnitype id="19039" classname="conf_test_26secret8">
+            <revision>
+                76189
+            </revision>
+            <category>
+                other
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                conf_test_26secret8 name
+            </name>
+            <description>
+                conf_test_26secret8 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                0
+            </canputstuffon>
+            <height>
+                1.0
+            </height>
+            <furniline>
+                configuration
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                1
+            </recyclable>
+        </furnitype>
+        <furnitype id="19040" classname="wf_test_26secret3">
+            <revision>
+                76189
+            </revision>
+            <category>
+                wired
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                wf_test_26secret3 name
+            </name>
+            <description>
+                wf_test_26secret3 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                1
+            </canputstuffon>
+            <height>
+                0.1
+            </height>
+            <furniline>
+                wired
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                1
+            </recyclable>
+        </furnitype>
+        <furnitype id="19041" classname="wf_test_26secret4">
+            <revision>
+                76189
+            </revision>
+            <category>
+                wired
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                wf_test_26secret4 name
+            </name>
+            <description>
+                wf_test_26secret4 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                1
+            </canputstuffon>
+            <height>
+                0.1
+            </height>
+            <furniline>
+                wired
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                1
+            </recyclable>
+        </furnitype>
+        <furnitype id="19042" classname="wf_test_26secret5">
+            <revision>
+                76189
+            </revision>
+            <category>
+                wired
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                wf_test_26secret5 name
+            </name>
+            <description>
+                wf_test_26secret5 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                1
+            </canputstuffon>
+            <height>
+                0.1
+            </height>
+            <furniline>
+                wired
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                1
+            </recyclable>
+        </furnitype>
+        <furnitype id="19043" classname="wf_test_26secret6">
+            <revision>
+                76189
+            </revision>
+            <category>
+                wired
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                wf_test_26secret6 name
+            </name>
+            <description>
+                wf_test_26secret6 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                1
+            </canputstuffon>
+            <height>
+                0.1
+            </height>
+            <furniline>
+                wired
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                1
+            </recyclable>
+        </furnitype>
+        <furnitype id="19044" classname="wf_test_26secret7">
+            <revision>
+                76189
+            </revision>
+            <category>
+                wired
+            </category>
+            <defaultdir>
+                0
+            </defaultdir>
+            <xdim>
+                1
+            </xdim>
+            <ydim>
+                1
+            </ydim>
+            <name>
+                wf_test_26secret7 name
+            </name>
+            <description>
+                wf_test_26secret7 desc
+            </description>
+            <adurl></adurl>
+            <offerid>
+                -1
+            </offerid>
+            <buyout>
+                0
+            </buyout>
+            <rentofferid>
+                -1
+            </rentofferid>
+            <rentbuyout>
+                0
+            </rentbuyout>
+            <bc>
+                0
+            </bc>
+            <excludeddynamic>
+                0
+            </excludeddynamic>
+            <bcofferid>
+                -1
+            </bcofferid>
+            <customparams></customparams>
+            <specialtype>
+                1
+            </specialtype>
+            <canstandon>
+                0
+            </canstandon>
+            <cansiton>
+                0
+            </cansiton>
+            <canlayon>
+                0
+            </canlayon>
+            <canputstuffon>
+                1
+            </canputstuffon>
+            <height>
+                0.1
+            </height>
+            <furniline>
+                wired
+            </furniline>
+            <environment></environment>
+            <rare>
+                0
+            </rare>
+            <tradeable>
+                1
+            </tradeable>
+            <recyclable>
+                1
             </recyclable>
         </furnitype>
     </roomitemtypes>
@@ -1438515,7 +1438977,7 @@
             </description>
             <adurl></adurl>
             <offerid>
-                -1
+                29089
             </offerid>
             <buyout>
                 0
