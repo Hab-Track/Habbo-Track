@@ -71003,6 +71003,14 @@ Kunstfertigkeit.
             conf_queue_speed desc
         </description>
     </product>
+    <product code="conf_test_26secret8">
+        <name>
+            conf_test_26secret8 name
+        </name>
+        <description>
+            conf_test_26secret8 desc
+        </description>
+    </product>
     <product code="conf_wired_disable">
         <name>
             Wired-Ausschalter
@@ -187570,6 +187578,46 @@ Beinhaltet ein exklusives Badge!
         </name>
         <description>
             wf_test_26secret2 desc
+        </description>
+    </product>
+    <product code="wf_test_26secret3">
+        <name>
+            wf_test_26secret3 name
+        </name>
+        <description>
+            wf_test_26secret3 desc
+        </description>
+    </product>
+    <product code="wf_test_26secret4">
+        <name>
+            wf_test_26secret4 name
+        </name>
+        <description>
+            wf_test_26secret4 desc
+        </description>
+    </product>
+    <product code="wf_test_26secret5">
+        <name>
+            wf_test_26secret5 name
+        </name>
+        <description>
+            wf_test_26secret5 desc
+        </description>
+    </product>
+    <product code="wf_test_26secret6">
+        <name>
+            wf_test_26secret6 name
+        </name>
+        <description>
+            wf_test_26secret6 desc
+        </description>
+    </product>
+    <product code="wf_test_26secret7">
+        <name>
+            wf_test_26secret7 name
+        </name>
+        <description>
+            wf_test_26secret7 desc
         </description>
     </product>
     <product code="wf_test_act">
