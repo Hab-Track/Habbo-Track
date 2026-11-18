@@ -4403,7 +4403,7 @@
       },
       {
         "code": "DEV wallmirror",
-        "name": "Spiegel",
+        "name": "Romantischer Spiegel",
         "description": "Spieglein an der Wand..."
       },
       {
@@ -6878,7 +6878,7 @@
       },
       {
         "code": "a1 barrier yellow",
-        "name": "Gelbe Straßenbarriere",
+        "name": "Gelbe Straßensperre",
         "description": "Kein Durchgang!"
       },
       {
@@ -7393,7 +7393,7 @@
       },
       {
         "code": "a2 barrier white",
-        "name": "Weiße Straßenbarriere",
+        "name": "Weiße Straßensperre",
         "description": "Kein Durchgang!"
       },
       {
@@ -7883,7 +7883,7 @@
       },
       {
         "code": "a3 barrier red",
-        "name": "Rote Straßenbarriere",
+        "name": "Rote Straßensperre",
         "description": "Kein Durchgang!"
       },
       {
@@ -27823,7 +27823,7 @@
       },
       {
         "code": "bling_bed",
-        "name": "HC Bett",
+        "name": "Designer-Bett",
         "description": "Über Geld spricht man nicht..."
       },
       {
@@ -31728,12 +31728,12 @@
       },
       {
         "code": "china_dog",
-        "name": "Hunde-Statue",
+        "name": "Hundestatue",
         "description": "To celebrate the new year, the year of the Dog 2018!"
       },
       {
         "code": "china_dragonstatue",
-        "name": "Drachen-Statue",
+        "name": "Drachenstatue",
         "description": "china_dragonstatue desc"
       },
       {
@@ -31743,7 +31743,7 @@
       },
       {
         "code": "china_goldendragon",
-        "name": "Goldene Drachen-Statue",
+        "name": "Goldene Drachenstatue",
         "description": "china_goldendragon desc"
       },
       {
@@ -31753,7 +31753,7 @@
       },
       {
         "code": "china_goldenox",
-        "name": "Goldene Ochsstatue",
+        "name": "Goldene Büffelstatue",
         "description": "china_goldenox desc"
       },
       {
@@ -31768,7 +31768,7 @@
       },
       {
         "code": "china_goldenrat",
-        "name": "Goldene Ratten Statue",
+        "name": "Goldene Rattenstatue",
         "description": "china_goldenrat desc"
       },
       {
@@ -31813,7 +31813,7 @@
       },
       {
         "code": "china_monkey",
-        "name": "Affen-Statue",
+        "name": "Affenstatue",
         "description": "Silvester Affe"
       },
       {
@@ -31903,12 +31903,12 @@
       },
       {
         "code": "china_rat",
-        "name": "Ratten Statue",
+        "name": "Rattenstatue",
         "description": "china_rat desc"
       },
       {
         "code": "china_rooster",
-        "name": "Hahn Statue",
+        "name": "Hahnstatue",
         "description": "Kikeriki"
       },
       {
@@ -59383,7 +59383,7 @@
       },
       {
         "code": "frbirthday_c24_saucisson",
-        "name": "Hartwurst",
+        "name": "Französische Salami",
         "description": "frbirthday_c24_saucisson desc"
       },
       {
@@ -60563,7 +60563,7 @@
       },
       {
         "code": "gold_c15_arc_icewall",
-        "name": "Massivgoldenes Schneeposter",
+        "name": "Massivgoldene Wand",
         "description": "Oh das Wetter ist goldig..."
       },
       {
@@ -71963,7 +71963,7 @@
       },
       {
         "code": "js_bling_bed",
-        "name": "Weißes Bling Bett",
+        "name": "Weißes Designer-Bett",
         "description": "Komfortabel und stilvoll"
       },
       {
@@ -73913,7 +73913,7 @@
       },
       {
         "code": "lc_window2",
-        "name": "Aquarium-Fenster",
+        "name": "Aquarium Fenster",
         "description": "Siehst du die Fische schwimmen?"
       },
       {
@@ -82218,7 +82218,7 @@
       },
       {
         "code": "nft_gold_c15_arc_icewall",
-        "name": "Massivgoldenes Schneeposter",
+        "name": "Massivgoldene Wand",
         "description": "nft_gold_c15_arc_icewall desc"
       },
       {
@@ -86338,7 +86338,7 @@
       },
       {
         "code": "nft_rare_blackrosegold_pillar",
-        "name": "Dorische roségoldene Säule",
+        "name": "Antike roségoldene Säule",
         "description": "nft_rare_blackrosegold_pillar desc"
       },
       {
@@ -86353,13 +86353,13 @@
       },
       {
         "code": "nft_rare_blackrosegold_scifiport",
-        "name": "Roségoldenes Laser Portal",
+        "name": "Roségoldene Laserschranke",
         "description": "rare_blackrosegold_scifiport desc"
       },
       {
         "code": "nft_rare_blackrosegold_scifirocket",
-        "name": "Roségoldene Rauchmaschine",
-        "description": "Roségoldene Rauchmaschine"
+        "name": "Roségoldene Nebelmaschine",
+        "description": "Roségoldene Nebelmaschine"
       },
       {
         "code": "nft_rare_blackrosegold_sleepingbag",
@@ -86368,7 +86368,7 @@
       },
       {
         "code": "nft_rare_blackrosegold_wooden_screen",
-        "name": "Roségoldene orientalische Trennwand",
+        "name": "Roségoldener Paravent",
         "description": "nft_rare_blackrosegold_wooden_screen desc"
       },
       {
@@ -86388,7 +86388,7 @@
       },
       {
         "code": "nft_rare_colourable_beehive_bulb_4",
-        "name": "Jadegrüne bernsteingelbe Lampe",
+        "name": "Jadegrüne Leuchtlampe",
         "description": "rare_colourable_beehive_bulb_4 desc"
       },
       {
@@ -95708,7 +95708,7 @@
       },
       {
         "code": "rare_blackrosegold_beehive_bulb",
-        "name": "Roségoldene Lampe",
+        "name": "Roségoldene Leuchtlampe",
         "description": "rare_blackrosegold_beehive_bulb desc"
       },
       {
@@ -95733,7 +95733,7 @@
       },
       {
         "code": "rare_blackrosegold_fountain",
-        "name": "Roségoldene Fontäne",
+        "name": "Roségoldener Brunnen",
         "description": "rare_blackrosegold_fountain desc"
       },
       {
@@ -95753,7 +95753,7 @@
       },
       {
         "code": "rare_blackrosegold_pillar",
-        "name": "Dorische roségoldene Säule",
+        "name": "Antike roségoldene Säule",
         "description": "rare_blackrosegold_pillar desc"
       },
       {
@@ -95768,12 +95768,12 @@
       },
       {
         "code": "rare_blackrosegold_scifiport",
-        "name": "Roségoldenes Laser Portal",
+        "name": "Roségoldene Laserschranke",
         "description": "rare_blackrosegold_scifiport desc"
       },
       {
         "code": "rare_blackrosegold_scifirocket",
-        "name": "Roségoldene Rauchmaschine",
+        "name": "Roségoldene Nebelmaschine",
         "description": "rare_blackrosegold_scifirocket desc"
       },
       {
@@ -95783,12 +95783,12 @@
       },
       {
         "code": "rare_blackrosegold_wooden_screen",
-        "name": "Roségoldene orientalische Trennwand",
+        "name": "Roségoldener Paravent",
         "description": "rare_blackrosegold_wooden_screen desc"
       },
       {
         "code": "rare_c_beehive4_bd",
-        "name": "Jadegrüne bernsteingelbe Lampe",
+        "name": "Jadegrüne Leuchtlampe",
         "description": ""
       },
       {
@@ -95883,7 +95883,7 @@
       },
       {
         "code": "rare_colourable_beehive_bulb_4",
-        "name": "Jadegrüne bernsteingelbe Lampe",
+        "name": "Jadegrüne Leuchtlampe",
         "description": "rare_colourable_beehive_bulb_4 desc"
       },
       {
@@ -109593,7 +109593,7 @@
       },
       {
         "code": "safe_silo*10",
-        "name": "Lila Safe-Minibar",
+        "name": "Lila Minibar Safe",
         "description": "Völlig bruchfest!"
       },
       {
@@ -114118,7 +114118,7 @@
       },
       {
         "code": "survival_c26_dystopiabg",
-        "name": "Dystopische Kulisse",
+        "name": "Dystopische Stadt",
         "description": "survival_c26_dystopiabg desc"
       },
       {
@@ -114133,7 +114133,7 @@
       },
       {
         "code": "survival_c26_dystopiawall",
-        "name": "Dystopisches Wandstück",
+        "name": "Dystopische Wand",
         "description": "survival_c26_dystopiawall desc"
       },
       {
@@ -124408,7 +124408,7 @@
       },
       {
         "code": "xmas_c15_crnr",
-        "name": "Dunkler Holzzaun",
+        "name": "Dunkle Holzzaunecke",
         "description": "Schliess das Tor."
       },
       {
@@ -124418,7 +124418,7 @@
       },
       {
         "code": "xmas_c15_fnc",
-        "name": "Dunkler Holzzaun",
+        "name": "Dunkle Holzzaunecke",
         "description": "Schliess das Tor."
       },
       {
