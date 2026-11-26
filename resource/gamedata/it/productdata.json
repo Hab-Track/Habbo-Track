@@ -3537,6 +3537,11 @@
         "description": "CF_250_Hucci desc"
       },
       {
+        "code": "CF_250_butterfly",
+        "name": "CF_250_butterfly name",
+        "description": "CF_250_butterfly desc"
+      },
+      {
         "code": "CF_250_fancywatch",
         "name": "Orologio Lussuoso",
         "description": "CF_250_fancywatch desc"
@@ -3605,6 +3610,11 @@
         "code": "CF_350_aubergine",
         "name": "Melanzana Decorata Dorata",
         "description": "CF_350_aubergine desc"
+      },
+      {
+        "code": "CF_350_bottlecooler",
+        "name": "CF_350_bottlecooler name",
+        "description": "CF_350_bottlecooler desc"
       },
       {
         "code": "CF_350_d20dice",
@@ -38697,6 +38707,11 @@
         "description": "clothing_nft26_zigzagmustache desc"
       },
       {
+        "code": "clothing_nft27_nynecklace",
+        "name": "clothing_nft27_nynecklace name",
+        "description": "clothing_nft27_nynecklace desc"
+      },
+      {
         "code": "clothing_nft_bloody",
         "name": "Occhi Insanguinati",
         "description": ""
@@ -39965,6 +39980,11 @@
         "code": "clothing_nftmusicalnotes",
         "name": "Note Musicali",
         "description": "clothing_nftmusicalnotes desc"
+      },
+      {
+        "code": "clothing_nftmxmas26",
+        "name": "clothing_nftmxmas26 name",
+        "description": "clothing_nftmxmas26 desc"
       },
       {
         "code": "clothing_nftmythichair",
@@ -41315,6 +41335,11 @@
         "code": "clothing_nt_merch26",
         "name": "clothing_nt_merch26 name",
         "description": "clothing_nt_merch26 desc"
+      },
+      {
+        "code": "clothing_nt_merchxmas26",
+        "name": "clothing_nt_merchxmas26 name",
+        "description": "clothing_nt_merchxmas26 desc"
       },
       {
         "code": "clothing_nt_microbag",
@@ -44605,6 +44630,16 @@
         "code": "clothing_r26_plushiewings",
         "name": "Ali di Cupido Vintage",
         "description": "clothing_r26_plushiewings desc"
+      },
+      {
+        "code": "clothing_r26_popbottle",
+        "name": "clothing_r26_popbottle name",
+        "description": "clothing_r26_popbottle desc"
+      },
+      {
+        "code": "clothing_r26_popbottlegold",
+        "name": "clothing_r26_popbottlegold name",
+        "description": "clothing_r26_popbottlegold desc"
       },
       {
         "code": "clothing_r26_roboface",
@@ -54222,6 +54257,11 @@
         "description": "ducket_c26_beeplushie desc"
       },
       {
+        "code": "ducket_c26_birdfeeder",
+        "name": "ducket_c26_birdfeeder name",
+        "description": "ducket_c26_birdfeeder desc"
+      },
+      {
         "code": "ducket_c26_charcuterie",
         "name": "Tagliere di Salumi e Formaggi",
         "description": "ducket_c26_charcuterie desc"
@@ -54332,6 +54372,11 @@
         "description": "ducket_c26_picnicbasket desc"
       },
       {
+        "code": "ducket_c26_plantpot",
+        "name": "ducket_c26_plantpot name",
+        "description": "ducket_c26_plantpot desc"
+      },
+      {
         "code": "ducket_c26_puffin",
         "name": "Puffin Peluche",
         "description": "ducket_c26_puffin desc"
@@ -54370,6 +54415,56 @@
         "code": "ducket_c26_sweetflowers",
         "name": "Fiori che Sbocciano",
         "description": "ducket_c26_sweetflowers desc"
+      },
+      {
+        "code": "ducket_c27_gardenstake",
+        "name": "ducket_c27_gardenstake name",
+        "description": "ducket_c27_gardenstake desc"
+      },
+      {
+        "code": "ducket_c27_gardenswing",
+        "name": "ducket_c27_gardenswing name",
+        "description": "ducket_c27_gardenswing desc"
+      },
+      {
+        "code": "ducket_c27_glasssucculent",
+        "name": "ducket_c27_glasssucculent name",
+        "description": "ducket_c27_glasssucculent desc"
+      },
+      {
+        "code": "ducket_c27_glasstray",
+        "name": "ducket_c27_glasstray name",
+        "description": "ducket_c27_glasstray desc"
+      },
+      {
+        "code": "ducket_c27_snowgreenhouse",
+        "name": "ducket_c27_snowgreenhouse name",
+        "description": "ducket_c27_snowgreenhouse desc"
+      },
+      {
+        "code": "ducket_c27_tinygreenhouse",
+        "name": "$product_ducket_c26_tinygreenhouse_name$",
+        "description": "ducket_c27_tinygreenhouse desc"
+      },
+      {
+        "code": "ducket_c27_wateringcan",
+        "name": "$product_ducket_c26_wateringcan_name$",
+        "description": "ducket_c27_wateringcan desc"
+      },
+      {
+        "code": "ducket_cloth_d27_bouquet",
+        "name": "ducket_cloth_d27_bouquet name",
+        "description": "ducket_cloth_d27_bouquet desc"
+      },
+      {
+        "code": "ducket_cloth_d27_maxiskirt",
+        "name": "ducket_cloth_d27_maxiskirt name",
+        "description": "ducket_cloth_d27_maxiskirt desc"
+      },
+      {
+        "code": "ducket_cloth_d27_stripeshirt",
+        "name": "ducket_cloth_d27_stripeshirt name",
+        "description": "ducket_cloth_d27_stripeshirt desc"
       },
       {
         "code": "ducket_dia_anchorpillow",
@@ -64335,6 +64430,66 @@
         "code": "hc26_9",
         "name": "Vaso Volti HC",
         "description": "hc26_9 desc"
+      },
+      {
+        "code": "hc27_10",
+        "name": "hc27_10 name",
+        "description": "hc27_10 desc"
+      },
+      {
+        "code": "hc27_11",
+        "name": "hc27_11 name",
+        "description": "hc27_11 desc"
+      },
+      {
+        "code": "hc27_12",
+        "name": "hc27_12 name",
+        "description": "hc27_12 desc"
+      },
+      {
+        "code": "hc27_1",
+        "name": "hc27_1 name",
+        "description": "hc27_1 desc"
+      },
+      {
+        "code": "hc27_2",
+        "name": "hc27_2 name",
+        "description": "hc27_2 desc"
+      },
+      {
+        "code": "hc27_3",
+        "name": "hc27_3 name",
+        "description": "hc27_3 desc"
+      },
+      {
+        "code": "hc27_4",
+        "name": "hc27_4 name",
+        "description": "hc27_4 desc"
+      },
+      {
+        "code": "hc27_5",
+        "name": "hc27_5 name",
+        "description": "hc27_5 desc"
+      },
+      {
+        "code": "hc27_6",
+        "name": "hc27_6 name",
+        "description": "hc27_6 desc"
+      },
+      {
+        "code": "hc27_7",
+        "name": "hc27_7 name",
+        "description": "hc27_7 desc"
+      },
+      {
+        "code": "hc27_8",
+        "name": "hc27_8 name",
+        "description": "hc27_8 desc"
+      },
+      {
+        "code": "hc27_9",
+        "name": "hc27_9 name",
+        "description": "hc27_9 desc"
       },
       {
         "code": "hc2_armchair",
@@ -81492,6 +81647,11 @@
         "description": "Libro Corallo Rosa"
       },
       {
+        "code": "nft_bubblejuice_r21_fireplace",
+        "name": "nft_bubblejuice_r21_fireplace name",
+        "description": "nft_bubblejuice_r21_fireplace desc"
+      },
+      {
         "code": "nft_c22_babykong",
         "name": "Wilson",
         "description": "nft_c22_babykong desc"
@@ -83202,6 +83362,11 @@
         "description": "nft_gold_c15_arc_div1 desc"
       },
       {
+        "code": "nft_gold_c15_arc_div2",
+        "name": "nft_gold_c15_arc_div2 name",
+        "description": "nft_gold_c15_arc_div2 desc"
+      },
+      {
         "code": "nft_gold_c15_arc_geysir",
         "name": "Geyser d'oro zecchino",
         "description": "nft_gold_c15_arc_geysir desc"
@@ -83240,6 +83405,11 @@
         "code": "nft_gold_c15_arc_statue",
         "name": "Pinguino d'oro zecchino",
         "description": "nft_gold_c15_arc_statue desc"
+      },
+      {
+        "code": "nft_gold_c15_arc_tree1",
+        "name": "nft_gold_c15_arc_tree1 name",
+        "description": "nft_gold_c15_arc_tree1 desc"
       },
       {
         "code": "nft_gold_c15_arc_tree2",
@@ -86062,6 +86232,11 @@
         "description": "nft_h26_campfire desc"
       },
       {
+        "code": "nft_h26_candycane",
+        "name": "nft_h26_candycane name",
+        "description": "nft_h26_candycane desc"
+      },
+      {
         "code": "nft_h26_candycanecandle",
         "name": "nft_h26_candycanecandle name",
         "description": "nft_h26_candycanecandle desc"
@@ -86607,9 +86782,29 @@
         "description": "nft_habbo25_r25_blackthrone desc"
       },
       {
+        "code": "nft_habbo25_sc25_goldenfountain",
+        "name": "nft_habbo25_sc25_goldenfountain name",
+        "description": "nft_habbo25_sc25_goldenfountain desc"
+      },
+      {
         "code": "nft_hal_cauldron",
         "name": "Calderone Magico",
         "description": ""
+      },
+      {
+        "code": "nft_hblooza14_horsecarob",
+        "name": "nft_hblooza14_horsecarob name",
+        "description": "nft_hblooza14_horsecarob desc"
+      },
+      {
+        "code": "nft_hblooza14_horsecarop",
+        "name": "nft_hblooza14_horsecarop name",
+        "description": "nft_hblooza14_horsecarop desc"
+      },
+      {
+        "code": "nft_hblooza14_horsecaroy",
+        "name": "nft_hblooza14_horsecaroy name",
+        "description": "nft_hblooza14_horsecaroy desc"
       },
       {
         "code": "nft_hblooza_bubblejuice",
@@ -87777,6 +87972,11 @@
         "description": "nft_rare_r23_djesko_turntable_2 desc"
       },
       {
+        "code": "nft_rare_r24_easel1",
+        "name": "nft_rare_r24_easel1 name",
+        "description": "nft_rare_r24_easel1 desc"
+      },
+      {
         "code": "nft_rare_r24_htuberchair",
         "name": "Poltrona H-Tuber",
         "description": "rare_r24_htuberchair desc"
@@ -87880,6 +88080,11 @@
         "code": "nft_regalblack_r25_sohva",
         "name": "Divano Trono Nero Regale",
         "description": "nft_regalblack_r25_sohva desc"
+      },
+      {
+        "code": "nft_roombg_aurora",
+        "name": "nft_roombg_aurora name",
+        "description": "nft_roombg_aurora desc"
       },
       {
         "code": "nft_runway_changingrare",
@@ -88582,6 +88787,11 @@
         "description": "nft_val_r19_sofa desc"
       },
       {
+        "code": "nft_val_r21_narwhalplush",
+        "name": "nft_val_r21_narwhalplush name",
+        "description": "nft_val_r21_narwhalplush desc"
+      },
+      {
         "code": "nft_val_randomizer",
         "name": "Love Randomizer",
         "description": "Love Randomizer"
@@ -88802,6 +89012,36 @@
         "description": "nft_xmas15_stand desc"
       },
       {
+        "code": "nft_xmas_c15_bushy1",
+        "name": "nft_xmas_c15_bushy1 name",
+        "description": "nft_xmas_c15_bushy1 desc"
+      },
+      {
+        "code": "nft_xmas_c15_bushy2",
+        "name": "nft_xmas_c15_bushy2 name",
+        "description": "nft_xmas_c15_bushy2 desc"
+      },
+      {
+        "code": "nft_xmas_c15_bushy3",
+        "name": "nft_xmas_c15_bushy3 name",
+        "description": "nft_xmas_c15_bushy3 desc"
+      },
+      {
+        "code": "nft_xmas_c15_bushy4",
+        "name": "nft_xmas_c15_bushy4 name",
+        "description": "nft_xmas_c15_bushy4 desc"
+      },
+      {
+        "code": "nft_xmas_c15_bushy5",
+        "name": "nft_xmas_c15_bushy5 name",
+        "description": "nft_xmas_c15_bushy5 desc"
+      },
+      {
+        "code": "nft_xmas_c15_bushy6",
+        "name": "nft_xmas_c15_bushy6 name",
+        "description": "nft_xmas_c15_bushy6 desc"
+      },
+      {
         "code": "nft_xmas_r16_owl",
         "name": "nft_xmas_r16_owl name",
         "description": "nft_xmas_r16_owl desc"
@@ -88850,6 +89090,11 @@
         "code": "nft_xmas_r23_cakethrone2",
         "name": "Trono Bianco",
         "description": "nft_xmas_r23_cakethrone2 desc"
+      },
+      {
+        "code": "nft_xmas_r25_icepillow",
+        "name": "nft_xmas_r25_icepillow name",
+        "description": "nft_xmas_r25_icepillow desc"
       },
       {
         "code": "nft_zengarden_r18_fountain",
@@ -98545,6 +98790,86 @@
         "code": "rare_prize26_9",
         "name": "Tigrotto Rodocrosite",
         "description": "rare_prize26_9 desc"
+      },
+      {
+        "code": "rare_prize26_xmas",
+        "name": "rare_prize26_xmas name",
+        "description": "rare_prize26_xmas desc"
+      },
+      {
+        "code": "rare_prize27_0",
+        "name": "rare_prize27_0 name",
+        "description": "rare_prize27_0 desc"
+      },
+      {
+        "code": "rare_prize27_10",
+        "name": "rare_prize27_10 name",
+        "description": "rare_prize27_10 desc"
+      },
+      {
+        "code": "rare_prize27_11",
+        "name": "rare_prize27_11 name",
+        "description": "rare_prize27_11 desc"
+      },
+      {
+        "code": "rare_prize27_12",
+        "name": "rare_prize27_12 name",
+        "description": "rare_prize27_12 desc"
+      },
+      {
+        "code": "rare_prize27_13",
+        "name": "rare_prize27_13 name",
+        "description": "rare_prize27_13 desc"
+      },
+      {
+        "code": "rare_prize27_1",
+        "name": "rare_prize27_1 name",
+        "description": "rare_prize27_1 desc"
+      },
+      {
+        "code": "rare_prize27_2",
+        "name": "rare_prize27_2 name",
+        "description": "rare_prize27_2 desc"
+      },
+      {
+        "code": "rare_prize27_3",
+        "name": "rare_prize27_3 name",
+        "description": "rare_prize27_3 desc"
+      },
+      {
+        "code": "rare_prize27_4",
+        "name": "rare_prize27_4 name",
+        "description": "rare_prize27_4 desc"
+      },
+      {
+        "code": "rare_prize27_5",
+        "name": "rare_prize27_5 name",
+        "description": "rare_prize27_5 desc"
+      },
+      {
+        "code": "rare_prize27_6",
+        "name": "rare_prize27_6 name",
+        "description": "rare_prize27_6 desc"
+      },
+      {
+        "code": "rare_prize27_7",
+        "name": "rare_prize27_7 name",
+        "description": "rare_prize27_7 desc"
+      },
+      {
+        "code": "rare_prize27_8",
+        "name": "rare_prize27_8 name",
+        "description": "rare_prize27_8 desc"
+      },
+      {
+        "code": "rare_prize27_9",
+        "name": "rare_prize27_9 name",
+        "description": "rare_prize27_9 desc"
+      },
+      {
+        "code": "rare_prize27_xmas",
+        "name": "rare_prize27_xmas name",
+        "description": "rare_prize27_xmas desc"
       },
       {
         "code": "rare_r19_car1_bd",
@@ -129210,6 +129535,11 @@
         "code": "year2026",
         "name": "Countdown Anno Nuovo 2026",
         "description": "year2026 desc"
+      },
+      {
+        "code": "year2027",
+        "name": "year2027 name",
+        "description": "year2027 desc"
       },
       {
         "code": "yellow diner_bardesk_corner",

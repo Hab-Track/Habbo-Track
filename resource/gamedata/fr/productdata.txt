@@ -4336,6 +4336,14 @@
             Sac Design Hucci (vaut 250 crédits)
         </description>
     </product>
+    <product code="CF_250_butterfly">
+        <name>
+            CF_250_butterfly name
+        </name>
+        <description>
+            CF_250_butterfly desc
+        </description>
+    </product>
     <product code="CF_250_fancywatch">
         <name>
             Montre de luxe
@@ -4444,6 +4452,14 @@
         </name>
         <description>
             CF_350_aubergine desc
+        </description>
+    </product>
+    <product code="CF_350_bottlecooler">
+        <name>
+            CF_350_bottlecooler name
+        </name>
+        <description>
+            CF_350_bottlecooler desc
         </description>
     </product>
     <product code="CF_350_d20dice">
@@ -58810,6 +58826,14 @@
             clothing_nft26_zigzagmustache desc
         </description>
     </product>
+    <product code="clothing_nft27_nynecklace">
+        <name>
+            clothing_nft27_nynecklace name
+        </name>
+        <description>
+            clothing_nft27_nynecklace desc
+        </description>
+    </product>
     <product code="clothing_nft_bloody">
         <name>
             Yeux Sanglants
@@ -60826,6 +60850,14 @@
         </name>
         <description>
             clothing_nftmusicalnotes desc
+        </description>
+    </product>
+    <product code="clothing_nftmxmas26">
+        <name>
+            clothing_nftmxmas26 name
+        </name>
+        <description>
+            clothing_nftmxmas26 desc
         </description>
     </product>
     <product code="clothing_nftmythichair">
@@ -62984,6 +63016,14 @@
         </name>
         <description>
             clothing_nt_merch26 desc
+        </description>
+    </product>
+    <product code="clothing_nt_merchxmas26">
+        <name>
+            clothing_nt_merchxmas26 name
+        </name>
+        <description>
+            clothing_nt_merchxmas26 desc
         </description>
     </product>
     <product code="clothing_nt_microbag">
@@ -67852,6 +67892,22 @@
         </name>
         <description>
             clothing_r26_plushiewings desc
+        </description>
+    </product>
+    <product code="clothing_r26_popbottle">
+        <name>
+            clothing_r26_popbottle name
+        </name>
+        <description>
+            clothing_r26_popbottle desc
+        </description>
+    </product>
+    <product code="clothing_r26_popbottlegold">
+        <name>
+            clothing_r26_popbottlegold name
+        </name>
+        <description>
+            clothing_r26_popbottlegold desc
         </description>
     </product>
     <product code="clothing_r26_roboface">
@@ -80886,6 +80942,14 @@
             ducket_c26_beeplushie desc
         </description>
     </product>
+    <product code="ducket_c26_birdfeeder">
+        <name>
+            ducket_c26_birdfeeder name
+        </name>
+        <description>
+            ducket_c26_birdfeeder desc
+        </description>
+    </product>
     <product code="ducket_c26_charcuterie">
         <name>
             Plateau de charcuterie
@@ -81062,6 +81126,14 @@
             ducket_c26_picnicbasket desc
         </description>
     </product>
+    <product code="ducket_c26_plantpot">
+        <name>
+            ducket_c26_plantpot name
+        </name>
+        <description>
+            ducket_c26_plantpot desc
+        </description>
+    </product>
     <product code="ducket_c26_puffin">
         <name>
             Peluche Macareux
@@ -81124,6 +81196,86 @@
         </name>
         <description>
             ducket_c26_sweetflowers desc
+        </description>
+    </product>
+    <product code="ducket_c27_gardenstake">
+        <name>
+            ducket_c27_gardenstake name
+        </name>
+        <description>
+            ducket_c27_gardenstake desc
+        </description>
+    </product>
+    <product code="ducket_c27_gardenswing">
+        <name>
+            ducket_c27_gardenswing name
+        </name>
+        <description>
+            ducket_c27_gardenswing desc
+        </description>
+    </product>
+    <product code="ducket_c27_glasssucculent">
+        <name>
+            ducket_c27_glasssucculent name
+        </name>
+        <description>
+            ducket_c27_glasssucculent desc
+        </description>
+    </product>
+    <product code="ducket_c27_glasstray">
+        <name>
+            ducket_c27_glasstray name
+        </name>
+        <description>
+            ducket_c27_glasstray desc
+        </description>
+    </product>
+    <product code="ducket_c27_snowgreenhouse">
+        <name>
+            ducket_c27_snowgreenhouse name
+        </name>
+        <description>
+            ducket_c27_snowgreenhouse desc
+        </description>
+    </product>
+    <product code="ducket_c27_tinygreenhouse">
+        <name>
+            $product_ducket_c26_tinygreenhouse_name$
+        </name>
+        <description>
+            ducket_c27_tinygreenhouse desc
+        </description>
+    </product>
+    <product code="ducket_c27_wateringcan">
+        <name>
+            $product_ducket_c26_wateringcan_name$
+        </name>
+        <description>
+            ducket_c27_wateringcan desc
+        </description>
+    </product>
+    <product code="ducket_cloth_d27_bouquet">
+        <name>
+            ducket_cloth_d27_bouquet name
+        </name>
+        <description>
+            ducket_cloth_d27_bouquet desc
+        </description>
+    </product>
+    <product code="ducket_cloth_d27_maxiskirt">
+        <name>
+            ducket_cloth_d27_maxiskirt name
+        </name>
+        <description>
+            ducket_cloth_d27_maxiskirt desc
+        </description>
+    </product>
+    <product code="ducket_cloth_d27_stripeshirt">
+        <name>
+            ducket_cloth_d27_stripeshirt name
+        </name>
+        <description>
+            ducket_cloth_d27_stripeshirt desc
         </description>
     </product>
     <product code="ducket_dia_anchorpillow">
@@ -96618,6 +96770,102 @@
         </name>
         <description>
             hc26_9 desc
+        </description>
+    </product>
+    <product code="hc27_10">
+        <name>
+            hc27_10 name
+        </name>
+        <description>
+            hc27_10 desc
+        </description>
+    </product>
+    <product code="hc27_11">
+        <name>
+            hc27_11 name
+        </name>
+        <description>
+            hc27_11 desc
+        </description>
+    </product>
+    <product code="hc27_12">
+        <name>
+            hc27_12 name
+        </name>
+        <description>
+            hc27_12 desc
+        </description>
+    </product>
+    <product code="hc27_1">
+        <name>
+            hc27_1 name
+        </name>
+        <description>
+            hc27_1 desc
+        </description>
+    </product>
+    <product code="hc27_2">
+        <name>
+            hc27_2 name
+        </name>
+        <description>
+            hc27_2 desc
+        </description>
+    </product>
+    <product code="hc27_3">
+        <name>
+            hc27_3 name
+        </name>
+        <description>
+            hc27_3 desc
+        </description>
+    </product>
+    <product code="hc27_4">
+        <name>
+            hc27_4 name
+        </name>
+        <description>
+            hc27_4 desc
+        </description>
+    </product>
+    <product code="hc27_5">
+        <name>
+            hc27_5 name
+        </name>
+        <description>
+            hc27_5 desc
+        </description>
+    </product>
+    <product code="hc27_6">
+        <name>
+            hc27_6 name
+        </name>
+        <description>
+            hc27_6 desc
+        </description>
+    </product>
+    <product code="hc27_7">
+        <name>
+            hc27_7 name
+        </name>
+        <description>
+            hc27_7 desc
+        </description>
+    </product>
+    <product code="hc27_8">
+        <name>
+            hc27_8 name
+        </name>
+        <description>
+            hc27_8 desc
+        </description>
+    </product>
+    <product code="hc27_9">
+        <name>
+            hc27_9 name
+        </name>
+        <description>
+            hc27_9 desc
         </description>
     </product>
     <product code="hc2_armchair">
@@ -122968,6 +123216,14 @@
             La connaissance parle, mais la sagesse écoute.
         </description>
     </product>
+    <product code="nft_bubblejuice_r21_fireplace">
+        <name>
+            nft_bubblejuice_r21_fireplace name
+        </name>
+        <description>
+            nft_bubblejuice_r21_fireplace desc
+        </description>
+    </product>
     <product code="nft_c22_babykong">
         <name>
             Wilson
@@ -125688,6 +125944,14 @@
             nft_gold_c15_arc_div1 desc
         </description>
     </product>
+    <product code="nft_gold_c15_arc_div2">
+        <name>
+            nft_gold_c15_arc_div2 name
+        </name>
+        <description>
+            nft_gold_c15_arc_div2 desc
+        </description>
+    </product>
     <product code="nft_gold_c15_arc_geysir">
         <name>
             Geyser Or Massif
@@ -125750,6 +126014,14 @@
         </name>
         <description>
             nft_gold_c15_arc_statue desc
+        </description>
+    </product>
+    <product code="nft_gold_c15_arc_tree1">
+        <name>
+            nft_gold_c15_arc_tree1 name
+        </name>
+        <description>
+            nft_gold_c15_arc_tree1 desc
         </description>
     </product>
     <product code="nft_gold_c15_arc_tree2">
@@ -130236,6 +130508,14 @@
             nft_h26_campfire desc
         </description>
     </product>
+    <product code="nft_h26_candycane">
+        <name>
+            nft_h26_candycane name
+        </name>
+        <description>
+            nft_h26_candycane desc
+        </description>
+    </product>
     <product code="nft_h26_candycanecandle">
         <name>
             nft_h26_candycanecandle name
@@ -131106,11 +131386,43 @@
             nft_habbo25_r25_blackthrone desc
         </description>
     </product>
+    <product code="nft_habbo25_sc25_goldenfountain">
+        <name>
+            nft_habbo25_sc25_goldenfountain name
+        </name>
+        <description>
+            nft_habbo25_sc25_goldenfountain desc
+        </description>
+    </product>
     <product code="nft_hal_cauldron">
         <name>
             Chaudron magique
         </name>
         <description></description>
+    </product>
+    <product code="nft_hblooza14_horsecarob">
+        <name>
+            nft_hblooza14_horsecarob name
+        </name>
+        <description>
+            nft_hblooza14_horsecarob desc
+        </description>
+    </product>
+    <product code="nft_hblooza14_horsecarop">
+        <name>
+            nft_hblooza14_horsecarop name
+        </name>
+        <description>
+            nft_hblooza14_horsecarop desc
+        </description>
+    </product>
+    <product code="nft_hblooza14_horsecaroy">
+        <name>
+            nft_hblooza14_horsecaroy name
+        </name>
+        <description>
+            nft_hblooza14_horsecaroy desc
+        </description>
     </product>
     <product code="nft_hblooza_bubblejuice">
         <name>
@@ -132952,6 +133264,14 @@
             nft_rare_r23_djesko_turntable_2 desc
         </description>
     </product>
+    <product code="nft_rare_r24_easel1">
+        <name>
+            nft_rare_r24_easel1 name
+        </name>
+        <description>
+            nft_rare_r24_easel1 desc
+        </description>
+    </product>
     <product code="nft_rare_r24_htuberchair">
         <name>
             Chaise H-Tuber
@@ -133118,6 +133438,14 @@
         </name>
         <description>
             nft_regalblack_r25_sohva desc
+        </description>
+    </product>
+    <product code="nft_roombg_aurora">
+        <name>
+            nft_roombg_aurora name
+        </name>
+        <description>
+            nft_roombg_aurora desc
         </description>
     </product>
     <product code="nft_runway_changingrare">
@@ -134228,6 +134556,14 @@
             nft_val_r19_sofa desc
         </description>
     </product>
+    <product code="nft_val_r21_narwhalplush">
+        <name>
+            nft_val_r21_narwhalplush name
+        </name>
+        <description>
+            nft_val_r21_narwhalplush desc
+        </description>
+    </product>
     <product code="nft_val_randomizer">
         <name>
             Love machine
@@ -134580,6 +134916,54 @@
             nft_xmas15_stand desc
         </description>
     </product>
+    <product code="nft_xmas_c15_bushy1">
+        <name>
+            nft_xmas_c15_bushy1 name
+        </name>
+        <description>
+            nft_xmas_c15_bushy1 desc
+        </description>
+    </product>
+    <product code="nft_xmas_c15_bushy2">
+        <name>
+            nft_xmas_c15_bushy2 name
+        </name>
+        <description>
+            nft_xmas_c15_bushy2 desc
+        </description>
+    </product>
+    <product code="nft_xmas_c15_bushy3">
+        <name>
+            nft_xmas_c15_bushy3 name
+        </name>
+        <description>
+            nft_xmas_c15_bushy3 desc
+        </description>
+    </product>
+    <product code="nft_xmas_c15_bushy4">
+        <name>
+            nft_xmas_c15_bushy4 name
+        </name>
+        <description>
+            nft_xmas_c15_bushy4 desc
+        </description>
+    </product>
+    <product code="nft_xmas_c15_bushy5">
+        <name>
+            nft_xmas_c15_bushy5 name
+        </name>
+        <description>
+            nft_xmas_c15_bushy5 desc
+        </description>
+    </product>
+    <product code="nft_xmas_c15_bushy6">
+        <name>
+            nft_xmas_c15_bushy6 name
+        </name>
+        <description>
+            nft_xmas_c15_bushy6 desc
+        </description>
+    </product>
     <product code="nft_xmas_r16_owl">
         <name>
             nft_xmas_r16_owl name
@@ -134658,6 +135042,14 @@
         </name>
         <description>
             nft_xmas_r23_cakethrone2 desc
+        </description>
+    </product>
+    <product code="nft_xmas_r25_icepillow">
+        <name>
+            nft_xmas_r25_icepillow name
+        </name>
+        <description>
+            nft_xmas_r25_icepillow desc
         </description>
     </product>
     <product code="nft_zengarden_r18_fountain">
@@ -149582,6 +149974,134 @@
         </name>
         <description>
             rare_prize26_9 desc
+        </description>
+    </product>
+    <product code="rare_prize26_xmas">
+        <name>
+            rare_prize26_xmas name
+        </name>
+        <description>
+            rare_prize26_xmas desc
+        </description>
+    </product>
+    <product code="rare_prize27_0">
+        <name>
+            rare_prize27_0 name
+        </name>
+        <description>
+            rare_prize27_0 desc
+        </description>
+    </product>
+    <product code="rare_prize27_10">
+        <name>
+            rare_prize27_10 name
+        </name>
+        <description>
+            rare_prize27_10 desc
+        </description>
+    </product>
+    <product code="rare_prize27_11">
+        <name>
+            rare_prize27_11 name
+        </name>
+        <description>
+            rare_prize27_11 desc
+        </description>
+    </product>
+    <product code="rare_prize27_12">
+        <name>
+            rare_prize27_12 name
+        </name>
+        <description>
+            rare_prize27_12 desc
+        </description>
+    </product>
+    <product code="rare_prize27_13">
+        <name>
+            rare_prize27_13 name
+        </name>
+        <description>
+            rare_prize27_13 desc
+        </description>
+    </product>
+    <product code="rare_prize27_1">
+        <name>
+            rare_prize27_1 name
+        </name>
+        <description>
+            rare_prize27_1 desc
+        </description>
+    </product>
+    <product code="rare_prize27_2">
+        <name>
+            rare_prize27_2 name
+        </name>
+        <description>
+            rare_prize27_2 desc
+        </description>
+    </product>
+    <product code="rare_prize27_3">
+        <name>
+            rare_prize27_3 name
+        </name>
+        <description>
+            rare_prize27_3 desc
+        </description>
+    </product>
+    <product code="rare_prize27_4">
+        <name>
+            rare_prize27_4 name
+        </name>
+        <description>
+            rare_prize27_4 desc
+        </description>
+    </product>
+    <product code="rare_prize27_5">
+        <name>
+            rare_prize27_5 name
+        </name>
+        <description>
+            rare_prize27_5 desc
+        </description>
+    </product>
+    <product code="rare_prize27_6">
+        <name>
+            rare_prize27_6 name
+        </name>
+        <description>
+            rare_prize27_6 desc
+        </description>
+    </product>
+    <product code="rare_prize27_7">
+        <name>
+            rare_prize27_7 name
+        </name>
+        <description>
+            rare_prize27_7 desc
+        </description>
+    </product>
+    <product code="rare_prize27_8">
+        <name>
+            rare_prize27_8 name
+        </name>
+        <description>
+            rare_prize27_8 desc
+        </description>
+    </product>
+    <product code="rare_prize27_9">
+        <name>
+            rare_prize27_9 name
+        </name>
+        <description>
+            rare_prize27_9 desc
+        </description>
+    </product>
+    <product code="rare_prize27_xmas">
+        <name>
+            rare_prize27_xmas name
+        </name>
+        <description>
+            rare_prize27_xmas desc
         </description>
     </product>
     <product code="rare_r19_car1_bd">
@@ -196579,6 +197099,14 @@ Badge exclusif inclus
         </name>
         <description>
             year2026 desc
+        </description>
+    </product>
+    <product code="year2027">
+        <name>
+            year2027 name
+        </name>
+        <description>
+            year2027 desc
         </description>
     </product>
     <product code="yellow diner_bardesk_corner">
